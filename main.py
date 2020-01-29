@@ -172,8 +172,8 @@ if args.command_name == valid_commands[11]:
     folder_name = args.path_to_folder
 
     path_to_initial_file = folder_name + "initial_file.csv"
+    path_to_collapsed_fixation_file = folder_name + "initial_fixation.csv"    
     path_to_task_file = folder_name + "task_file.csv"
-    path_to_collapsed_fixation_file = folder_name + "collapsed_fixation.csv"
     path_to_collapsed_blink_file = folder_name + "collapsed_blink.csv"
     path_to_fixation_per_AOI_file = folder_name + "fixation_aoi.csv"
     path_to_blink_per_AOI_file = folder_name + "blink_aoi.csv"
@@ -182,9 +182,11 @@ if args.command_name == valid_commands[11]:
     
     convert_ratio.convert_ratio_to_pixel(path_to_initial_file)
     add_label.add_label(path_to_initial_file, path_to_task_file)
-    fixations.collapse_to_fixations(path_to_initial_file, path_to_collapsed_fixation_file)
     blinks.collapse_to_blinks(path_to_initial_file, path_to_collapsed_blink_file)
-    
+
+    convert_ratio.convert_ratio_to_pixel(path_to_collapsed_fixation_file)
+    add_label.add_label(path_to_collapsed_fixation_file, path_to_task_file)
+
     calculations.calculate(path_to_collapsed_fixation_file)
     refixation.calculate(path_to_collapsed_fixation_file)
     pupil.calculate_pupil(path_to_collapsed_fixation_file, path_to_task_file)

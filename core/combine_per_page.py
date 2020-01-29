@@ -26,6 +26,14 @@ AOI_NUMBER_TO_AOI_STRING = {
     7 : 'NOT_AOI',
 }
 
+NUMBER_TO_LMH = {
+    1 : "Low",
+    2 : "Low",
+    3 : "Low",
+    4 : "Medium",
+    5 : "High"
+}
+
 NUMBER_OF_AOI_TYPES = 8
 NUMBER_OF_PAGES = 31
 
@@ -79,27 +87,34 @@ def combine(input_file, input2_file, output_file, task_file):
         L1 = "N/A"
         self_english = "N/A"
         test_english = "N/A"
+        self_other = "N/A"
+        test_other = "N/A"
         users_df = pd.read_csv("user_study_data/users.csv", sep=",", index_col=False)
         for index, row in users_df.iterrows():
             participant = row['Participant']
             if userId == participant:
                 L1 =  row['L1']
-                self_english = row['Self-English Prof']
-                if self_english == 5:
-                    self_english = "High"
-                elif self_english == 4:
-                    self_english = "Medium"
-                else:
-                    self_english = "Low"
+                self_english = NUMBER_TO_LMH[row['Self-English Prof']]
                 test_english = row['Test-English']
+                if row['Self-Chinese Prof'] > 0:
+                    self_other = NUMBER_TO_LMH[row['Self-Chinese Prof']]
+                    test_other = row['Test-Chinese']
+                else:
+                    self_other = NUMBER_TO_LMH[row['Self-Spanish Prof']]
+                    test_other = row['Test-Spanish']                    
                 break
+
         L1_LIST = [L1] * 31  
         SELF_ENG_PROF = [self_english] * 31
-        TEST_ENG_PROF = [test_english] * 31  
+        TEST_ENG_PROF = [test_english] * 31
+        SELF_OTHER_PROF = [self_other] * 31
+        TEST_OTHER_PROF = [test_other] * 31    
 
         new_df['L1'] = L1_LIST    
         new_df['Eng Prof (Self)'] = SELF_ENG_PROF    
-        new_df['Eng Prof (Test)'] = TEST_ENG_PROF    
+        new_df['Eng Prof (Test)'] = TEST_ENG_PROF
+        new_df['Chinese/Spanish Prof (Self)'] = SELF_OTHER_PROF    
+        new_df['Chinese/Spanish Prof (Test)'] = TEST_OTHER_PROF    
 
         new_df = new_df[new_df.Page != 0]        
 
