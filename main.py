@@ -9,6 +9,7 @@ import core.fixation_aoi as fixation_aoi
 import core.blink_aoi as blink_aoi
 import core.combine_per_aoi as combine_per_aoi
 import core.combine_per_page as combine_per_page
+import core.combine_per_aoipage as combine_per_aoipage
 import core.combine_csv as combine_csv
 
 import argparse
@@ -62,6 +63,7 @@ def process_one_user(folder_name):
     path_to_blink_per_AOI_file = folder_name + "blink_aoi.csv"
     path_to_combined_AOI_file = folder_name + "combined_aoi.csv"
     path_to_combined_page_file = folder_name + "combined_page.csv"
+    path_to_combined_AOIpage_file = folder_name + "combined_aoipage.csv"
     
     convert_ratio.convert_ratio_to_pixel(path_to_initial_file)
     add_label.add_label(path_to_initial_file, path_to_task_file)
@@ -79,6 +81,7 @@ def process_one_user(folder_name):
     
     combine_per_aoi.combine(path_to_fixation_per_AOI_file, path_to_blink_per_AOI_file, path_to_combined_AOI_file)
     combine_per_page.combine(path_to_collapsed_fixation_file, path_to_collapsed_blink_file, path_to_combined_page_file, path_to_task_file)    
+    combine_per_aoipage.combine(path_to_combined_AOI_file, path_to_combined_page_file, path_to_combined_AOIpage_file)
 
 # Process all users at once
 if args.command_name == valid_commands[0]:
