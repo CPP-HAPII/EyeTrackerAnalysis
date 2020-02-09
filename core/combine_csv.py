@@ -25,10 +25,10 @@ def combine_all_per_aoi(path_to_folder, dirlist):
     all_users_aoi_chinese = all_users_aoi[all_users_aoi.AOILanguage == "Chinese"]
     all_users_aoi_spanish = all_users_aoi[all_users_aoi.AOILanguage == "Spanish"]
 
-    all_users_aoi.to_csv(path_to_folder + "/Combined/all_users_aoi all.csv")
-    all_users_aoi_english.to_csv(path_to_folder + "/Combined/all_users_aoi english.csv")
-    all_users_aoi_chinese.to_csv(path_to_folder + "/Combined/all_users_aoi spanish.csv")
-    all_users_aoi_spanish.to_csv(path_to_folder + "/Combined/all_users_aoi chinese.csv")
+    all_users_aoi.to_csv(path_to_folder + "/Combined/all_users_aoi all.csv", index=False)
+    all_users_aoi_english.to_csv(path_to_folder + "/Combined/all_users_aoi english.csv", index=False)
+    all_users_aoi_chinese.to_csv(path_to_folder + "/Combined/all_users_aoi spanish.csv", index=False)
+    all_users_aoi_spanish.to_csv(path_to_folder + "/Combined/all_users_aoi chinese.csv", index=False)
 
 def combine_all_per_page(path_to_folder, dirlist):
     chinese_users = []
@@ -58,9 +58,9 @@ def combine_all_per_page(path_to_folder, dirlist):
     all_users_page_chinese = pd.concat(chinese_page_dataframes)
     all_users_page_spanish = pd.concat(spanish_page_dataframes)
 
-    all_users_page.to_csv(path_to_folder + "/Combined/all_users_page all.csv")
-    all_users_page_chinese.to_csv(path_to_folder + "/Combined/all_users_page chinese.csv")
-    all_users_page_spanish.to_csv(path_to_folder + "/Combined/all_users_page spanish.csv")
+    all_users_page.to_csv(path_to_folder + "/Combined/all_users_page all.csv", index=False)
+    all_users_page_chinese.to_csv(path_to_folder + "/Combined/all_users_page chinese.csv", index=False)
+    all_users_page_spanish.to_csv(path_to_folder + "/Combined/all_users_page spanish.csv", index=False)
 
 def combine_all_per_aoipage(path_to_folder, dirlist):
     chinese_users = []
@@ -85,11 +85,11 @@ def combine_all_per_aoipage(path_to_folder, dirlist):
             chinese_aoipage_dataframes.append(user_aoipage_df)
         elif user_aoipage_df["userID"].iloc[0] in spanish_users:
             spanish_aoipage_dataframes.append(user_aoipage_df)
-
+    
     all_users_page = pd.concat(all_aoipage_dataframes)
     all_users_page_chinese = pd.concat(chinese_aoipage_dataframes)
     all_users_page_spanish = pd.concat(spanish_aoipage_dataframes)
 
-    all_users_page.to_csv(path_to_folder + "/Combined/all_users_aoipage all.csv")
-    all_users_page_chinese.to_csv(path_to_folder + "/Combined/all_users_aoipage chinese.csv")
-    all_users_page_spanish.to_csv(path_to_folder + "/Combined/all_users_aoipage spanish.csv")
+    all_users_page.to_csv(path_to_folder + "/Combined/all_users_aoipage all.csv", index=False)
+    all_users_page_chinese.to_csv(path_to_folder + "/Combined/all_users_aoipage chinese.csv", index=False)
+    all_users_page_spanish.to_csv(path_to_folder + "/Combined/all_users_aoipage spanish.csv", index=False)
