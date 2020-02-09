@@ -35,6 +35,13 @@ def combine(per_aoi, per_page, output_file):
     total_blink_duration = [[0 for i in range(30)] for j in range(6)]
     average_blink_duration = [[0 for i in range(30)] for j in range(6)]
 
+    aoi_language = [[0 for i in range(30)] for j in range(6)]
+    previous_aoi_language = [[0 for i in range(30)] for j in range(6)]
+    langugage_switch = [[0 for i in range(30)] for j in range(6)]
+    self_language_proficiency = [[0 for i in range(30)] for j in range(6)]
+    test_language_proficiency = [[0 for i in range(30)] for j in range(6)]    
+    is_aoi_l1 = [[0 for i in range(30)] for j in range(6)]
+
     counter = 0
     
     for index, row in user_aoi_df.iterrows():
@@ -65,6 +72,12 @@ def combine(per_aoi, per_page, output_file):
         blink_count[counter][page-1] = row["Blink_Count"]
         total_blink_duration[counter][page-1] = row["Total_Blink_Duration"]
         average_blink_duration[counter][page-1] = row["Average_Blink_Duration"]
+        aoi_language[counter][page-1] = row["AOILanguage"]
+        previous_aoi_language[counter][page-1] = row["PreviousAOILanguage"]
+        langugage_switch[counter][page-1] = row["LanguageSwitch"]
+        self_language_proficiency[counter][page-1] = row["Self AOI_Language_Prof"]
+        test_language_proficiency[counter][page-1] = row["Test AOI_Language_Prof"]
+        is_aoi_l1[counter][page-1] = row["Is_AOI_L1"]
 
         counter += 1
         if counter == 6:
@@ -98,6 +111,12 @@ def combine(per_aoi, per_page, output_file):
         bc = "Blink_Count_AOI" + number
         tbd = "Total_Blink_Duration_AOI" + number
         abd = "Average_Blink_Duration_AOI" + number
+        aoil = "AOI_Language_AOI" + number
+        paoil = "Previous_AOI_Language_AOI" + number
+        ls = "Language_Switch_AOI" + number
+        saoilp = "Self_AOI_Language_Proficiency_AOI" + number
+        taoilp = "Test_AOI_Language_Proficiency_AOI" + number
+        iaoil1 = "Is_AOI_L1_AOI" + number
 
         #4
         user_page_df[tfc] = total_fixation_count[x]
@@ -125,6 +144,12 @@ def combine(per_aoi, per_page, output_file):
         user_page_df[bc] = blink_count[x] 
         user_page_df[tbd] = total_blink_duration[x]
         user_page_df[abd] = average_blink_duration[x]
+        user_page_df[aoil] = aoi_language[x] 
+        user_page_df[paoil] = previous_aoi_language[x]
+        user_page_df[ls] = langugage_switch[x]
+        user_page_df[saoilp] = self_language_proficiency[x] 
+        user_page_df[taoilp] = test_language_proficiency[x]
+        user_page_df[iaoil1] = is_aoi_l1[x]
 
     cols_at_end = ['Number of English AOIs', 'L1', "Eng Prof (Self)", "Eng Prof (Test)", "Chinese/Spanish Prof (Self)", "Chinese/Spanish Prof (Test)"]
     user_page_df = user_page_df[[c for c in user_page_df if c not in cols_at_end] + [c for c in cols_at_end if c in user_page_df]]
