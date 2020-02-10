@@ -11,13 +11,14 @@ import core.combine_per_aoi as combine_per_aoi
 import core.combine_per_page as combine_per_page
 import core.combine_per_aoipage as combine_per_aoipage
 import core.combine_csv as combine_csv
+import core.split_extra as split_extra
 
 import argparse
 import sys
 import json
 import os
 
-valid_commands = ["process_all", "process_one_user", "combine_csv"]
+valid_commands = ["process_all", "process_one_user", "combine_csv", "split_extra"]
 
 # Start the command line arguments
 s = "Various functions to calculate things relating to eye gaze, such as saccade calculations or\n\
@@ -45,6 +46,11 @@ parser_process_one_user.add_argument("path_to_folder", help="The path to user fo
 parser_combine_csv = subparsers.add_parser(valid_commands[2], help="Combine all produced csv")
 parser_combine_csv.add_argument("path_to_folder", help="The path to user_study_data folder",
     metavar="path_to_user_study_folder")
+
+# Create parser for the process_all command
+parser_split_extra = subparsers.add_parser(valid_commands[3], help="Split Extra Columnd from aoi csv")
+parser_split_extra.add_argument("path_to_file", help="The path to aoi csv",
+    metavar="path_to_file")
 
 # Compile all the command line parser and subparsers
 args = parser.parse_args()
@@ -98,5 +104,10 @@ if args.command_name == valid_commands[0]:
 if args.command_name == valid_commands[1]:
     process_one_user(args.path_to_folder)
 
+# Combine all csv files
 if args.command_name == valid_commands[2]:
     combine_csv.combine_csv(args.path_to_folder)
+
+# Split Extra column
+if args.command_name == valid_commands[3]:
+    split_extra.process_csv(args.path_to_file)

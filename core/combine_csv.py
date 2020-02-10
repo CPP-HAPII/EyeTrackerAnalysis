@@ -21,14 +21,24 @@ def combine_all_per_aoi(path_to_folder, dirlist):
         aoi_dataframes.append(user_aoi_df)
 
     all_users_aoi = pd.concat(aoi_dataframes)
+
+    extraList = []
+    for index, row in all_users_aoi.iterrows():
+        id = row['userID']
+        page = row['Page']
+        aoi = row['AOI_TYPE']
+        extra = str(id) + "-" + str(page) + "-" + aoi
+        extraList.append(extra)
+    all_users_aoi['Extra'] = extraList    
+
     all_users_aoi_english = all_users_aoi[all_users_aoi.AOILanguage == "English"]
     all_users_aoi_chinese = all_users_aoi[all_users_aoi.AOILanguage == "Chinese"]
     all_users_aoi_spanish = all_users_aoi[all_users_aoi.AOILanguage == "Spanish"]
 
     all_users_aoi.to_csv(path_to_folder + "/Combined/all_users_aoi all.csv", index=False)
     all_users_aoi_english.to_csv(path_to_folder + "/Combined/all_users_aoi english.csv", index=False)
-    all_users_aoi_chinese.to_csv(path_to_folder + "/Combined/all_users_aoi spanish.csv", index=False)
-    all_users_aoi_spanish.to_csv(path_to_folder + "/Combined/all_users_aoi chinese.csv", index=False)
+    all_users_aoi_chinese.to_csv(path_to_folder + "/Combined/all_users_aoi chinese.csv", index=False)
+    all_users_aoi_spanish.to_csv(path_to_folder + "/Combined/all_users_aoi spanish.csv", index=False)
 
 def combine_all_per_page(path_to_folder, dirlist):
     chinese_users = []
