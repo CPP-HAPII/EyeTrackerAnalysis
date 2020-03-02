@@ -72,6 +72,14 @@ def combine_all_per_page(path_to_folder, dirlist):
     all_users_page_chinese.to_csv(path_to_folder + "/Combined/all_users_page chinese.csv", index=False)
     all_users_page_spanish.to_csv(path_to_folder + "/Combined/all_users_page spanish.csv", index=False)
 
+    english = all_users_page.loc[all_users_page['Number of English AOIs'] != 0]
+    chinese = all_users_page_chinese.loc[all_users_page_chinese['Number of English AOIs'] != 6]
+    spanish = all_users_page_spanish.loc[all_users_page_spanish['Number of English AOIs'] != 6]
+
+    english.to_csv(path_to_folder + "/Combined/all_users_page_at_least_one_english.csv", index=False)
+    chinese.to_csv(path_to_folder + "/Combined/all_users_page_at_least_one_chinese.csv", index=False)
+    spanish.to_csv(path_to_folder + "/Combined/all_users_page_at_least_one_spanish.csv", index=False)
+
 def combine_all_per_aoipage(path_to_folder, dirlist):
     chinese_users = []
     spanish_users = []
@@ -103,3 +111,11 @@ def combine_all_per_aoipage(path_to_folder, dirlist):
     all_users_page.to_csv(path_to_folder + "/Combined/all_users_aoipage all.csv", index=False)
     all_users_page_chinese.to_csv(path_to_folder + "/Combined/all_users_aoipage chinese.csv", index=False)
     all_users_page_spanish.to_csv(path_to_folder + "/Combined/all_users_aoipage spanish.csv", index=False)
+
+    english = all_users_page.loc[all_users_page['Number of English AOIs'] != 0]
+    chinese = all_users_page_chinese.loc[all_users_page_chinese['Number of English AOIs'] != 6]
+    spanish = all_users_page_spanish.loc[all_users_page_spanish['Number of English AOIs'] != 6]
+
+    english.to_csv(path_to_folder + "/Combined/all_users_aoipage_at_least_one_english.csv", index=False)
+    chinese.to_csv(path_to_folder + "/Combined/all_users_aoipage_at_least_one_chinese.csv", index=False)
+    spanish.to_csv(path_to_folder + "/Combined/all_users_aoipage_at_least_one_spanish.csv", index=False)
