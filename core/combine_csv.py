@@ -4,6 +4,14 @@ import os
 import time
 from core import utils
 
+NUMBER_TO_LMH = {
+    1 : "Low",
+    2 : "Low",
+    3 : "Low",
+    4 : "Medium",
+    5 : "High"
+}
+
 def combine_csv(path_to_folder):
     root = path_to_folder
     dirlist = [item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item))]
@@ -39,6 +47,62 @@ def combine_all_per_aoi(path_to_folder, dirlist):
     all_users_aoi_english.to_csv(path_to_folder + "/Combined/all_users_aoi english.csv", index=False)
     all_users_aoi_chinese.to_csv(path_to_folder + "/Combined/all_users_aoi chinese.csv", index=False)
     all_users_aoi_spanish.to_csv(path_to_folder + "/Combined/all_users_aoi spanish.csv", index=False)
+
+    all_users_aoi_pred = all_users_aoi.drop(columns="Self AOI_Language_Prof")
+    all_users_aoi_pred = all_users_aoi_pred.drop(columns="Test AOI_Language_Prof")
+
+    user_df = pd.read_csv(path_to_folder + "users.csv", sep=",", index_col=False)
+
+    self_english = {}
+    test_english = {}
+    self_chinese = {}
+    test_chinese = {}
+    self_spanish = {}
+    test_spanish = {}
+    chinese_users = []
+    spanish_users = []
+
+    for index, row in user_df.iterrows():
+        self_english[row["Participant"]] = NUMBER_TO_LMH[row["Self-English Prof"]]
+        test_english[row["Participant"]] = row["Test-English"]
+        if(row["Language"] == "Chinese"):
+            self_chinese[row["Participant"]] = NUMBER_TO_LMH[row["Self-Chinese Prof"]]
+            test_chinese[row["Participant"]] = row["Test-Chinese"]
+            chinese_users.append(row["Participant"])            
+        elif(row["Language"] == "Spanish"):
+            self_spanish[row["Participant"]] = NUMBER_TO_LMH[row["Self-Spanish Prof"]]
+            test_spanish[row["Participant"]] = row["Test-Spanish"]
+            spanish_users.append(row["Participant"])            
+    
+    all_users_aoi_english_pred = all_users_aoi_pred
+    english_prof_list_self = []
+    english_prof_list_test = []
+    for index, row in all_users_aoi_english_pred.iterrows():
+        english_prof_list_self.append(self_english[row["userID"]])
+        english_prof_list_test.append(test_english[row["userID"]])
+    all_users_aoi_english_pred["Self English"] = english_prof_list_self
+    all_users_aoi_english_pred["Test English"] = english_prof_list_test   
+    all_users_aoi_english_pred.to_csv(path_to_folder + "/Combined/all_users_aoi all_predict_english.csv", index=False)
+    
+    all_users_aoi_chinese_pred = all_users_aoi_pred[all_users_aoi_pred["userID"].isin(chinese_users)]
+    chinese_prof_list_self = []
+    chinese_prof_list_test = []
+    for index, row in all_users_aoi_chinese_pred.iterrows():
+        chinese_prof_list_self.append(self_chinese[row["userID"]])
+        chinese_prof_list_test.append(test_chinese[row["userID"]])
+    all_users_aoi_chinese_pred["Self Chinese"] = chinese_prof_list_self
+    all_users_aoi_chinese_pred["Test Chinese"] = chinese_prof_list_test
+    all_users_aoi_chinese_pred.to_csv(path_to_folder + "/Combined/all_users_aoi all_predict_chinese.csv", index=False)
+
+    all_users_aoi_spanish_pred = all_users_aoi_pred[all_users_aoi_pred["userID"].isin(spanish_users)]
+    spanish_prof_list_self = []
+    spanish_prof_list_test = []
+    for index, row in all_users_aoi_spanish_pred.iterrows():
+        spanish_prof_list_self.append(self_spanish[row["userID"]])
+        spanish_prof_list_test.append(test_spanish[row["userID"]])
+    all_users_aoi_spanish_pred["Self Spanish"] = spanish_prof_list_self
+    all_users_aoi_spanish_pred["Test Spanish"] = spanish_prof_list_test
+    all_users_aoi_spanish_pred.to_csv(path_to_folder + "/Combined/all_users_aoi all_predict_spanish.csv", index=False)        
 
 def combine_all_per_page(path_to_folder, dirlist):
     chinese_users = []
