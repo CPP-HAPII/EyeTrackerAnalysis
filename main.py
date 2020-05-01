@@ -12,6 +12,10 @@ import core.combine_per_page as combine_per_page
 import core.combine_per_aoipage as combine_per_aoipage
 import core.combine_csv as combine_csv
 import core.split_extra as split_extra
+import core.compare_order_by_fixation as compare_order_by_fixation
+import core.compare_order_by_click as compare_order_by_click
+import core.calculate_switch as calculate_switch
+
 import pandas as pd
 
 import argparse
@@ -19,7 +23,7 @@ import sys
 import json
 import os
 
-valid_commands = ["process_all", "process_one_user", "combine_csv", "split_extra", "compare_order_fixation", "compare_order_click", "switch_penalty", "drop_total", "new_splits"]
+valid_commands = ["process_all", "process_one_user", "combine_csv", "split_extra", "compare_order_fixation", "compare_order_click", "switch_penalty", "drop_total", "median_split"]
 
 # Start the command line arguments
 s = "Various functions to calculate things relating to eye gaze, such as saccade calculations or\n\
@@ -140,297 +144,15 @@ if args.command_name == valid_commands[3]:
 
 # Calculate order result by fixation
 if args.command_name == valid_commands[4]:
-    aoi_df = pd.read_csv(args.path_to_file, sep=",", index_col=False)
-    selected_aoi_df = aoi_df[['userID','Page','Total_Fixation_Duration','AOILanguage']]    
-
-    dirlist = [item for item in os.listdir("user_study_data/") if os.path.isdir(os.path.join("user_study_data/", item))]
-    dirlist = [x for x in dirlist if "NAH" not in x]
-    dirlist = [x for x in dirlist if "User" in x]
-
-    task_dataframes = []
-    for x in dirlist:
-        path_to_combined_taskpage = "user_study_data/" + x + "/task_file.csv"
-        user_task_df = pd.read_csv(path_to_combined_taskpage, sep=",", index_col=False)
-        task_dataframes.append(user_task_df)
-
-    all_users_task = pd.concat(task_dataframes)
-    selected_task_df = all_users_task[['userID','Task','Result Order']]
-
-    order_dict = {}
-    for index, row in selected_task_df.iterrows():
-        id = row['userID']
-        page = row['Task']
-        order_dict[id,page] = row['Result Order']        
-
-    order_list = []
-    for index, row in selected_aoi_df.iterrows():
-        id = row['userID']
-        page = row['Page']
-        order_list.append(order_dict[id,page])
-    
-    selected_aoi_df['Order'] = order_list
-
-    chineseCount = [0 for i in range(5)] 
-    chineseTotal = [0 for i in range(5)]
-    englishCount = [0 for i in range(5)]
-    englishTotal = [0 for i in range(5)]
-    spanishCount = [0 for i in range(5)]
-    spanishTotal = [0 for i in range(5)]
-
-    for index, row in selected_aoi_df.iterrows():
-        language = row['AOILanguage']
-        order = row['Order']
-        duration = row['Total_Fixation_Duration']
-
-        if language == "English":
-            englishCount[order] += 1
-            englishTotal[order] += duration
-        elif language == "Spanish":
-            spanishCount[order] += 1
-            spanishTotal[order] += duration
-        elif language == "Chinese":
-            chineseCount[order] += 1
-            chineseTotal[order] += duration
-    
-    for x in range(0, 5):
-        print ("English order " + str(x) + " =")
-        print (englishTotal[x]/englishCount[x])
-    for x in range(0, 5):
-        print ("Chinese order " + str(x) + " =")
-        print (chineseTotal[x]/chineseCount[x])
-    for x in range(0, 5):
-        print ("Spanish order " + str(x) + " =")
-        print (spanishTotal[x]/spanishCount[x])
+    compare_order_by_fixation.compare_order_by_fixation(args.path_to_file)
 
 # Calculate order result by click
 if args.command_name == valid_commands[5]:
-    aoi_df = pd.read_csv(args.path_to_file, sep=",", index_col=False)
-
-    duration_list = []
-    previous_time = 0
-    for index, row in aoi_df.iterrows():
-        time_in = row["In"]
-        minutes,seconds = time_in.split(":")
-        time_in = int(minutes) * 60 + float(seconds)
-        if row["TaskPage"] == 0:
-            duration_list.append(0)
-        else:
-            if time_in - previous_time < 0:
-                duration_list.append(time_in - previous_time + 3600)
-            else:
-                duration_list.append(time_in - previous_time)
-        previous_time = time_in
-    aoi_df["Duration"] = duration_list
-
-    page_list = []
-    for x in range(1,31):
-        for y in range(0,6):
-            page_list.append(x)
-
-    page_list2 = page_list
-    for x in range(0,26):
-        page_list = page_list + page_list2
-
-    aoi_df["Page"] = page_list
-
-    dirlist = [item for item in os.listdir("user_study_data/") if os.path.isdir(os.path.join("user_study_data/", item))]
-    dirlist = [x for x in dirlist if "NAH" not in x]
-    dirlist = [x for x in dirlist if "User" in x]
-
-    task_dataframes = []
-    for x in dirlist:
-        path_to_combined_taskpage = "user_study_data/" + x + "/task_file.csv"
-        user_task_df = pd.read_csv(path_to_combined_taskpage, sep=",", index_col=False)
-        task_dataframes.append(user_task_df)
-
-    all_users_task = pd.concat(task_dataframes)
-    selected_task_df = all_users_task[['userID','Task','Result Order']]
-
-    order_dict = {}
-    for index, row in selected_task_df.iterrows():
-        id = row['userID']
-        page = row['Task']
-        order_dict[id,page] = row['Result Order']        
-
-    order_list = []
-    for index, row in aoi_df.iterrows():
-        id = row['userID']
-        page = row['Page']
-        order_list.append(order_dict[id,page])
-    
-    aoi_df['Order'] = order_list
-
-    user_df = pd.read_csv("user_study_data/users.csv", sep=",", index_col=False)
-    chinese_users = []
-    spanish_users = []
-
-    for index, row in user_df.iterrows():
-        if(row["Language"] == "Chinese"):
-            chinese_users.append(row["Participant"])            
-        elif(row["Language"] == "Spanish"):
-            spanish_users.append(row["Participant"])         
-    
-    language_list = []
-    for index, row in aoi_df.iterrows():
-        id = row['userID']
-        if row["Order"] == 0:
-            if id in  spanish_users:
-                language_list.append("Spanish")
-            else:
-                language_list.append("Chinese")
-        elif row["Order"] == 1:
-            language_list.append("English")
-        elif row["Order"] == 2:
-            if row["TaskPage"] < 3:
-                if id in spanish_users:
-                    language_list.append("Spanish")
-                else:
-                    language_list.append("Chinese")
-            else:
-                language_list.append("English")
-        elif row["Order"] == 3:
-            if row["TaskPage"] >= 3:
-                if id in spanish_users:
-                    language_list.append("Spanish")
-                else:
-                    language_list.append("Chinese")
-            else:
-                language_list.append("English")
-        elif row["Order"] == 4:
-            if row["TaskPage"] % 2 == 0:
-                if id in spanish_users:
-                    language_list.append("Spanish")
-                else:
-                    language_list.append("Chinese")
-            else:
-                language_list.append("English")                  
-    
-    aoi_df["Language"] = language_list
-    aoi_df = aoi_df[["userID", "Duration", "Page", "Order", "Language", "TaskPage"]]
-    aoi_df = aoi_df.loc[aoi_df['Duration'] != 0]
-
-    chineseCount = [0 for i in range(5)] 
-    chineseTotal = [0 for i in range(5)]
-    englishCount = [0 for i in range(5)]
-    englishTotal = [0 for i in range(5)]
-    spanishCount = [0 for i in range(5)]
-    spanishTotal = [0 for i in range(5)]
-
-    for index, row in aoi_df.iterrows():
-        language = row['Language']
-        order = row['Order']
-        duration = row['Duration']
-
-        if language == "English":
-            englishCount[order] += 1
-            englishTotal[order] += duration
-        elif language == "Spanish":
-            spanishCount[order] += 1
-            spanishTotal[order] += duration
-        elif language == "Chinese":
-            chineseCount[order] += 1
-            chineseTotal[order] += duration
-
-    for x in range(0, 5):
-        if englishCount[x] != 0:
-            print ("English order " + str(x) + " =")
-            print (englishTotal[x]/englishCount[x])
-    for x in range(0, 5):
-        if chineseCount[x] != 0:
-            print ("Chinese order " + str(x) + " =")
-            print (chineseTotal[x]/chineseCount[x])
-    for x in range(0, 5):            
-        if spanishCount[x] != 0:            
-            print ("Spanish order " + str(x) + " =")
-            print (spanishTotal[x]/spanishCount[x])
-
-def calculate_switch(df):
-    count = [0 for i in range(4)] 
-    total = [0 for i in range(4)]
-    switch0 = []
-    switch1 = []
-    switch2 = []
-    switch3 = []
-    for index, row in df.iterrows():
-        if row["Order"] == 0:
-            count[0] += 1
-            total[0] += row["Duration"]
-            switch0.append(row["Duration"])
-        elif row["Order"] == 1:
-            count[2] += 1
-            total[2] += row["Duration"]
-            switch2.append(row["Duration"])
-        elif row["Order"] == 2:
-            if row["TaskPage"] < 3:
-                count[0] += 1
-                total[0] += row["Duration"]
-                switch0.append(row["Duration"])            
-            else:
-                count[2] += 1
-                total[2] += row["Duration"]
-                switch2.append(row["Duration"])
-        elif row["Order"] == 3:
-            if row["TaskPage"] >= 3:
-                count[0] += 1
-                total[0] += row["Duration"]
-                switch0.append(row["Duration"])
-            else:
-                count[2] += 1
-                total[2] += row["Duration"]
-                switch2.append(row["Duration"])
-        elif row["Order"] == 4:
-            if row["TaskPage"] % 2 == 0:
-                count[1] += 1
-                total[1] += row["Duration"]
-                switch1.append(row["Duration"])
-            else:
-                count[3] += 1
-                total[3] += row["Duration"]
-                switch3.append(row["Duration"])
-    for x in range(0,4):
-        print (total[x]/count[x])
-
-    print ("FOR CH/SP -> CH/SP: ")
-    for elem in switch0:
-        print (elem)
-    print ("FOR CH/SP -> Eng: ")
-    for elem in switch1:
-        print (elem)
-    print ("FOR Eng -> Eng: ")
-    for elem in switch2:
-        print (elem)
-    print ("FOR Eng -> CH/SP: ")
-    for elem in switch3:
-        print (elem)
+    compare_order_by_click.compare_order_by_click(args.path_to_file)
 
 # Calculate switch penalty
 if args.command_name == valid_commands[6]:
-    aoi_df = pd.read_csv(args.path_to_file, sep=",", index_col=False)
-    
-    # FOR CHINESE USERS, L1 ENGLISH
-    aoi_df_ce = aoi_df.loc[(aoi_df['userID'] == 5385) | (aoi_df['userID'] == 1338) | (aoi_df['userID'] == 671)]
-    print("English L1, Chinese l2")
-    calculate_switch(aoi_df_ce)
-
-    # FOR CHINESE USERS, L1 CHINESE
-    aoi_df_cc = aoi_df.loc[(aoi_df['userID'] == 3545) | (aoi_df['userID'] == 132) | (aoi_df['userID'] == 1586) | (aoi_df['userID'] == 2068) | (aoi_df['userID'] == 2591)]
-    print("English L2, Chinese l1")
-    calculate_switch(aoi_df_cc)    
-
-    # FOR SPANISH USERS, L1 ENGLISH
-    aoi_df_se = aoi_df.loc[(aoi_df['userID'] == 5890) | (aoi_df['userID'] == 2899) | (aoi_df['userID'] == 7734) | (aoi_df['userID'] == 1855) | (aoi_df['userID'] == 1572)]
-    print("English L1, Spanish l2")
-    calculate_switch(aoi_df_se)        
-
-    # FOR SPANISH USERS, L1 SPANISH
-    aoi_df_ss = aoi_df.loc[(aoi_df['userID'] == 2128) | (aoi_df['userID'] == 2156) | (aoi_df['userID'] == 5492) | (aoi_df['userID'] == 5689) | (aoi_df['userID'] == 4799) | (aoi_df['userID'] == 2934) | (aoi_df['userID'] == 6853)]
-    print("English L2, Spanish l1")
-    calculate_switch(aoi_df_ss)            
-
-    # FOR SPANISH USERS, L1 BOTH
-    aoi_df_b = aoi_df.loc[(aoi_df['userID'] == 6673) | (aoi_df['userID'] == 6515) | (aoi_df['userID'] == 6965) | (aoi_df['userID'] == 3816) | (aoi_df['userID'] == 1699) | (aoi_df['userID'] == 452) | (aoi_df['userID'] == 2929)]    
-    print("Both English Spanish L1")
-    calculate_switch(aoi_df_b)  
+    calculate_switch.calculate_switch_prep(args.path_to_file)
 
 if args.command_name == valid_commands[7]:
     input_file = args.path_to_file

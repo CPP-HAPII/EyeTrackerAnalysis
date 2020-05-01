@@ -8,13 +8,13 @@ python3 -m pip install -r requirements.txt
 ```
 # How to Use
 Required files:
-- All-Relevances.csv 
-- combined_relevances.csv
-- results.csv
-- users.csv
-- task_file.csv
-- initial_file.csv
-- initial_fixation.csv 
+- results.csv: csv file containing all possible search results for the user study
+- users.csv: csv file containing userID, L1, and Proficiencies
+- All-Relevances.csv: csv file containing all the timestamps when the user submitted a relevance judgment
+
+- task_file.csv: individual user csv file containing timestamps of when the user move from a page to the next
+- initial_file.csv: individual user csv file containing all eye gaze data (obtained from Gazepoint)
+- initial_fixation.csv: individual user csv file containing eye gaze data per fixation (obtained from Gazepoint)
 # How to Run
 To process all users' data at once
 ```
@@ -30,19 +30,19 @@ python3 main.py combine_csv user_study_data/
 ```
 To produce average read time based on fixation data
 ```
-python3 main.py compare_order_fixation user_study_data/Combined/all_users_aoi\ all.csv
+python3 main.py compare_order_fixation user_study_data/Combined/<Combined_aoi_csv_file>
 ```
 To produce average read time based on recorded click time
 ```
 python3 main.py compare_order_click user_study_data/combined_relevances.csv
 ```
-To produce average read time based on recorded click time
+To produce read time based on L1 and recorded click time
 ```
 python3 main.py switch_penalty user_study_data/combined_duration_click.csv
 ```
-To produce csv file based on median split
+To produce csv files based on median split instead of three-way split
 ```
-python3 main.py new_splits user_study_data/Combined_Median_Split/
+python3 main.py median_split user_study_data/Combined_Median_Split/
 ```
 To see the list of commands
 ```
