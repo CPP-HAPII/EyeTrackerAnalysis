@@ -1,0 +1,410 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 119.874, 187.226, 221.65000000000001, 293.19099999999997, 665.48299999999995, 847.79499999999996, 1004.183, 1538.039, 1663.7639999999999, 9999999.0]
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	0.000	2.656	speaker#1	male	native	Those people must first take a hard look at the situation in the US,	0	0	0	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	2.656	6.219	speaker#1	male	native	ah, so I don't think other problems are going to appear in its development	0	0	1	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	6.219	8.704	speaker#1	male	native	unless it is unable to support itself. In that case it may not be possible to develop.	0	0	2	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	8.704	14.797	speaker#1	male	native	But it is now in the process of a kind of opening up, just continually absorbing different music from various places, various ethnic groups and regions.	0	0	3	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	14.797	16.593	speaker#1	male	native	So it's still got a lot of life in it, I think.	0	0	4	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	16.593	19.718	speaker#1	male	native	After all, it's got ((pw)) the strongest music industry foundations,	0	0	5	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	19.718	20.296	speaker#1	male	native	(())	0	1	6	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	19.718	20.296	speaker#2	female	native	That's true.	0	1	7	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	20.296	20.765	speaker#1	male	native	The US.	0	2	8	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	20.765	21.859	speaker#2	female	native	And what about the Chinese music scene?	0	3	9	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	21.859	24.343	speaker#1	male	native	Uh, China has also developed extremely quickly these last few years.	0	4	10	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	24.343	29.234	speaker#1	male	native	You see, uh, in the 1980's China's pop music scene had only just got going.	0	4	11	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	29.234	29.796	speaker#2	female	native	Uh-huh.	0	5	12	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	29.796	31.890	speaker#1	male	native	We can count from 1977 at the very earliest.	0	6	13	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	31.890	34.312	speaker#1	male	native	Uh, this year the first ((pw)) band in China appeared.	0	6	14	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	34.312	35.328	speaker#1	male	native	That was in Guangdong.	0	6	15	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	35.968	40.577	speaker#1	male	native	At first -- so, beginning in the 80s, China's own original music started to appear.	0	6	17	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	40.577	44.686	speaker#1	male	native	But at that time it was still a period of imitation. What were they looking to in their imitation? They were looking to Hong Kong and Taiwan.	0	6	18	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	44.686	45.217	speaker#2	female	native	Uh-huh.	0	7	19	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	45.217	47.733	speaker#1	male	native	Because the pop music tradition in these two places had never been interrupted.	0	8	20	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	47.733	48.890	speaker#1	male	native	Ours was interrupted.	0	8	21	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	48.890	51.687	speaker#1	male	native	So works in Mandarin basically looked to Taiwan,	0	8	22	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	51.687	53.187	speaker#1	male	native	uh, and those in Cantonese looked to Hong Kong.	0	8	23	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	53.187	56.422	speaker#1	male	native	These two places played an extremely important role in the development of Chinese pop music.	0	8	24	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	56.422	58.359	speaker#1	male	native	But in the last few years,	0	8	25	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	58.359	62.031	speaker#1	male	native	the mainland has now shown that it is perfectly well equipped with the strength to tip the balance the other way.	0	8	26	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	62.031	62.468	speaker#2	female	native	Oh.	0	9	27	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	62.468	64.953	speaker#1	male	native	In the last few years, ((pw)) Taiwan and Hong Kong have both started to decline.	0	10	28	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	64.953	66.237	speaker#1	male	native	Many of Taiwan's musicians have gone to Beijing,	0	10	29	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	66.237	66.722	speaker#1	male	native		0	11	30	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	66.237	66.722	speaker#2	female	native		0	11	31	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	66.722	68.188	speaker#1	male	native	uh, not -- not staying in Taiwan.	0	12	32	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	68.188	72.079	speaker#1	male	native	That's just because there has been perhaps some change in the local environment.	0	12	33	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	72.079	79.563	speaker#1	male	native	Uh, so there are now many people saying that, uh, the Chinese music of the ((pw)) 21st century will be mainland...	0	12	34	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	79.563	80.282	speaker#2	female	native	Oh.	0	13	35	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	79.563	80.282	speaker#1	male	native	...music.	0	13	36	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	80.282	80.673	speaker#2	female	native	Certainly.	0	14	37	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	80.673	83.470	speaker#1	male	native	So from this, this, this trend, I think --	0	15	38	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	83.470	86.267	speaker#1	male	native	given that China is so big, over a billion people in there.	0	15	39	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	86.267	86.564	speaker#2	female	native	Uh-huh.	0	16	40	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	86.564	87.846	speaker#1	male	native	So, what kind of talent could we be lacking?	0	17	41	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	87.846	88.861	speaker#2	female	native	Right, that's true.	0	18	42	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	88.861	90.953	speaker#1	male	native	So, its development should still be...	0	19	43	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	90.953	92.504	speaker#2	female	native	Looking very good.	0	20	44	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	90.953	92.504	speaker#1	male	native	We should say that it's looking pretty good.	0	20	45	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	92.504	95.926	speaker#1	male	native	And moreover, that is, if in future the overall environment is a bit better,	0	21	46	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	95.926	101.692	speaker#1	male	native	there will be more contact, communication and exchange with foreign pop music.	0	21	47	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	101.692	103.582	speaker#1	male	native	Then I think it will develop extremely fast.	0	21	48	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	103.582	108.541	speaker#2	female	native	So we can honestly at this point express our heartfelt wishes that mainland music can occupy a leading position, not only in Asia, but also in the western ((pw)) -- the whole world.	0	22	49	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	108.541	111.113	speaker#2	female	native		0	22	50	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	111.113	114.233	speaker#2	female	native	We'd also like to thank Mr. Chen for coming on our ((pw)) program today.	0	22	51	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	114.233	118.546	speaker#2	female	native	We also hope that today's program has given our viewers a very comfortable and pleasant evening.	0	22	52	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	118.546	119.874	speaker#2	female	native	See you at the same time tomorrow.	0	22	53	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	187.226	192.601	speaker#3		native	An unidentified homeless man is involved in a traffic accident; the driver involved is willing to give compensation, but there is nobody to accept it.	2	24	55	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	192.601	197.492	Chen_qiujing	male	native	Now his ashes are being stored in the mortuary at Gaochun; no-one has come to claim them.	2	25	56	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	197.492	201.101	speaker#3		native	The Bureau of Civil Affairs has started a lawsuit on behalf of the homeless man suing for compensation,	2	26	57	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	201.101	202.789	speaker#3		native	a first for China.	2	26	58	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	202.789	205.540	speaker#4	male	native	We feel that this incident is very significant, ah,	2	27	59	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	205.540	209.759	speaker#4	male	native	and that it's something that is, uh, our professional responsibility.	2	27	60	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	209.759	214.446	speaker#3		native	The court rejected the suit. Was the homeless man killed in the accident killed in vain?	2	28	61	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	214.446	218.071	speaker#4	male	native	If he hit and killed someone's old hen, uh, he would still have to give compensation for that old hen.	2	29	62	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	218.071	221.650	speaker#4	male	native	When a person was hit, I think that at heart (()).	2	29	63	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	293.191	296.285	speaker#5	female	native	Three years ago a young person named Sun Zhigang	4	31	65	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	296.285	300.332	speaker#5	female	native	died after being beaten up in a custody and repatriation center in Guangzhou.	4	31	66	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	300.332	304.639	speaker#5	female	native	The reason was that he wasn't carrying any proof of his identity.	4	31	67	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	305.418	309.035	speaker#5	female	native	A year and a half later, a homeless man, also with no proof of identity	4	31	69	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	309.035	314.410	speaker#5	female	native	died in a traffic accident on the expressway in Gaochun County, Nanjing.	4	31	70	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	314.410	318.379	speaker#5	female	native	But this time, the Bureau of Civil Affairs in Gaochun County acted as the plaintiff	4	31	71	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	318.379	322.972	speaker#5	female	native	to restore justice to this vagrant whose name was unknown and who had no history.	4	31	72	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	324.034	329.581	Chen_qiujing	male	native	The time was about six o'clock in the evening, December 4, 2004.	4	32	74	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	329.581	333.003	Chen_qiujing	male	native	After ((pw)) we received the call to the police, we went directly to the scene of the accident.	4	32	75	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	333.003	340.613	Chen_qiujing	male	native	After we reached the scene, the victim, uh, was a man of about thirty or forty years old.	4	32	76	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	340.613	342.894	Chen_qiujing	male	native	He was fully stretched out on the road.	4	32	77	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	342.894	349.660	Chen_qiujing	male	native	This was -- this road ran east-west, uh, this was the south side. The victim was lying, lying on the south side of this highway.	4	32	78	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	349.660	356.019	speaker#3		native	Speaking now is Sergeant Chen Qiujing of the Gaochun County Traffic Police Force in Nanjing.	4	33	79	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	356.019	360.426	speaker#3		native	On the evening of December 4, 2004, he took an emergency call saying there had been an accident,	4	33	80	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	360.426	364.535	speaker#3		native	and that a driver who was drunk-driving had run over a man and killed him.	4	33	81	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	364.535	368.754	speaker#3		native	They quickly investigated and confirmed that the driver involved in the accident was responsible.	4	33	82	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	368.754	374.301	speaker#3		native	However, the accident was not cleared up as quickly as possible as everyone had hoped.	4	33	83	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	374.879	378.956	Chen_qiujing	male	native	Uh, after we went to the Nanjing Daily to publish it -- to publish the notice calling for someone to identify the body,	4	34	85	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	378.956	381.040	Chen_qiujing	male	native	no -- no-one came to claim it.	4	34	86	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	381.643	383.440	speaker#3		native	After a series of investigations by the police,	4	35	88	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	383.440	387.596	speaker#3		native	it was found that the man was a local vagrant with mental health problems.	4	35	89	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	387.596	389.726	speaker#3		native	They were unable to find any of his relatives.	4	35	90	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	390.320	393.892	speaker#3		native	According to the current compulsory 3rd party insurance system for motor vehicle drivers,	4	35	92	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	393.892	400.079	speaker#3		native	the insurance company of the driver involved in the accident should provide full compensation for the casualty and financial losses of the victim in this traffic accident.	4	35	93	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	400.079	402.657	speaker#3		native		4	35	94	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	402.657	405.360	speaker#3		native	In this case, there was a compensator,	4	35	95	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	405.360	408.563	speaker#3		native	but the police did not know who they should give the money to.	4	35	96	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	409.078	412.172	Chen_qiujing	male	native	So we just left the case here,	4	36	98	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	412.172	415.437	Chen_qiujing	male	native	because after we'd published the notice in the newspaper, the body,	4	36	99	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	415.437	419.015	Chen_qiujing	male	native	had been cremated after our police chief signed for it.	4	36	100	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	419.015	421.870	Chen_qiujing	male	native	So now the ashes were being stored at the Gaochun mortuary,	4	36	101	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	422.593	424.421	Chen_qiujing	male	native	and no-one has come to claim them yet.	4	36	103	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	425.343	429.437	speaker#3		native	On April 2, 2005, there was another similar accident in Gaochun.	4	37	105	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	429.437	433.515	speaker#3		native	A driver, Wang something, was driving a vehicle and knocked a homeless man down in the road.	4	37	106	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	433.515	438.366	speaker#3		native	A motor vehicle coming the other way squashed the vagrant as it went past, causing him to die at the scene.	4	37	107	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	439.115	441.796	speaker#3		native	The identity of this homeless man was equally impossible to confirm,	4	37	109	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	441.796	443.606	speaker#3		native	and there was no way to give compensation.	4	37	110	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	444.295	449.531	speaker#3		native	With no other option, the Gaochun County Traffic Police Force contacted the Gaochun County Procuratorate to ask for advice on a solution.	4	37	112	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	451.156	457.782	speaker#4	male	native	At that time, after we were brought in on this case, our police, uh, our prosecutors	4	38	114	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	457.782	463.627	speaker#4	male	native	and the court, um, ((pw)) civil affairs comrades at the court -- because it's a rather small place, everybody ((pw)) often got together --	4	38	115	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	463.627	465.017	speaker#4	male	native	discussed this case.	4	38	116	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	465.017	467.455	speaker#4	male	native	The main concern -- considering over and gain, that is --	4	38	117	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	468.596	472.564	speaker#4	male	native	if this case was accepted, uh, then this would surely benefit the community,	4	38	119	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	472.564	474.064	speaker#4	male	native	because this is for the public good.	4	38	120	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	474.064	476.313	speaker#4	male	native	Yet, when the case was accepted, it also created problems.	4	38	121	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	476.938	480.298	speaker#4	male	native	As this was going through the courts, who, then, was the plaintiff?	4	38	123	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	481.266	486.578	speaker#3		native	This question caused a headache for the Gaochun County Public Security Bureau, the Procuratorate and the courts,	4	39	125	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	486.578	491.141	speaker#3		native	because they had been unable to find a relevant precedent not only in China, but also overseas.	4	39	126	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	492.125	494.782	speaker#4	male	native	The plaintiff could not be the Procuratorate, nor could it be the Public Security Bureau.	4	40	128	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	495.954	499.344	speaker#4	male	native	So we thought and thought, and we felt that the Bureau of Civil Affairs would be more appropriate.	4	40	130	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	499.344	501.344	speaker#4	male	native	The Bureau of Civil Affairs had a reason --	4	40	131	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	501.344	506.438	speaker#4	male	native	a reason: the State Council had published some kind of an aid method for vagrant beggars.	4	40	132	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	507.125	512.437	speaker#4	male	native	Now, the accommodation, ah, rescue and aid of these homeless people in society, including some with mental health problems, ah,	4	40	134	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	512.437	514.823	speaker#4	male	native	are all administered by the Bureau of Civil Affairs.	4	40	135	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	515.422	517.452	speaker#4	male	native	This was one reason for the Bureau of Civil Affairs to act.	4	40	137	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	518.280	519.889	speaker#4	male	native	The second reason was that,	4	40	139	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	520.827	524.015	speaker#4	male	native	uh, we felt that if it was an unidentified body,	4	40	141	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	524.718	526.192	speaker#4	male	native	the first step should be intervention by the police.	4	40	143	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	527.000	529.749	speaker#4	male	native	Now after the police investigation and they had ruled out a criminal case,	4	40	145	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	529.749	531.765	speaker#4	male	native	it would definitely be sent to the mortuary for cremation.	4	40	146	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	532.796	535.374	speaker#4	male	native	Well, the mortuary is run by a subordinate unit of the Bureau of Civil Affairs.	4	40	148	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	536.109	539.609	speaker#3		native	On March 8, 2006, the Gaochun County Procuratorate made a decision.	4	41	150	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	539.609	543.125	speaker#3		native	They sent two recommendations to prosecute to the Gaochun County Bureau of Civil Affairs,	4	41	151	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	543.125	548.906	speaker#3		native	advising that the Bureau of Civil Affairs sue for compensation for personal injury on behalf of these two vagrants.	4	41	152	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	549.565	551.656	Chen_qiujing	male	native	At the time I -- I was also considering,	4	42	154	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	551.656	555.547	Chen_qiujing	male	native	that is, if we sued in the name of the Bureau of Civil Affairs,	4	42	155	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	555.547	561.125	Chen_qiujing	male	native	uh, we currently lacked a relevant direct legal basis,	4	42	156	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	561.125	565.314	Chen_qiujing	male	native	because both the Civil Procedure Law and "Interpretation of the Supreme People's Court of Some Issues concerning the Application of Law in Hearings for Cases Related to Compensation for Personal Injury" are very explicit.	4	42	157	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	566.032	571.985	Chen_qiujing	male	native		4	42	159	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	571.985	578.829	Chen_qiujing	male	native		4	42	160	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	578.829	581.454	Chen_qiujing	male	native	To be a claimant for compensation,	4	42	161	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	581.454	592.091	Chen_qiujing	male	native	it must be an, uh, individual or legal person or other organization that, uh, has a direct relationship with the case.	4	42	162	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	592.870	597.375	speaker#3		native	Although it had some misgivings, the Gaochun County Civil Affairs Bureau accepted the recommendations of the Procuratorate	4	43	164	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	597.375	599.563	speaker#3		native	and filed the suit with the court.	4	43	165	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	599.563	604.375	speaker#3		native	It asked the defendants to pay the compensation for the deaths of the vagrants, a burial cost of 300,000 yuan.	4	43	166	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	604.985	609.788	Chen_qiulin	male	native	In this case, to be able to be the plaintiff --	4	44	168	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	610.094	615.625	Chen_qiulin	male	native	that is, according to the legal interpretation concerning compensation for personal injuries by the Supreme Court,	4	44	170	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	615.625	618.672	Chen_qiulin	male	native	it should be his spouse or a close relative.	4	44	171	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	619.312	625.608	Chen_qiulin	male	native	But as we just said, that is, after investigation such as by public notice and by a notice in the newspaper, his spouse or close relatives could not be found.	4	44	173	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	625.608	628.311	Chen_qiulin	male	native		4	44	174	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	628.311	630.134	Chen_qiulin	male	native		4	44	175	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	631.302	632.452	Chen_qiulin	male	native		4	44	177	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	632.452	635.842	Chen_qiulin	male	native	His relatives or spouse never appeared at all.	4	44	178	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	636.623	639.514	Chen_qiulin	male	native	So in this situation, the problem needs to be solved;	4	44	180	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	639.514	642.623	Chen_qiulin	male	native	and his relatives have not appeared,	4	44	181	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	642.623	649.865	Chen_qiulin	male	native	so an, uh, organization or ((pw)) the claimant must appear to protect his rights.	4	44	182	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	650.554	656.592	speaker#4	male	native	You know, the person who caused the accident has to take responsibility, even if it does not constitute a criminal act, right?	4	45	184	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	656.592	657.920	speaker#4	male	native	There are also criminal traffic accidents,	4	45	185	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	657.920	660.170	speaker#4	male	native	so you should take the civil responsibility.	4	45	186	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	661.264	664.936	speaker#4	male	native	You can't not take the civil responsibility because he was a vagrant with no-one -- with no family.	4	45	188	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	665.483	670.795	speaker#3		native	In April 2006, the case of the Gaochun Bureau of Civil Affairs in Jiangsu protecting the rights of the vagrants was finally accepted,	5	46	190	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	670.795	673.248	speaker#3		native	and began to be heard at Gaochun County Court.	5	46	191	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	673.248	679.267	speaker#3		native	The Bureau of Civil Affairs acted on behalf of the nameless vagrants and claimed compensation for the car crashes. This was unprecedented in China.	5	46	192	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	680.084	688.249	speaker#3		native	The case, which was labeled as a new precedent in China, attracted over twenty national and local media groups to hurry to attend on the day of the hearing.	5	46	194	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	692.655	697.233	speaker#3		native	During the hearing, many disputes arose between the plaintiff and defendants,	5	46	196	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	697.233	700.467	speaker#3		native	for example, whether the Bureau of Civil Affairs was eligible to act as plaintiff;	5	46	197	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	700.467	703.874	speaker#3		native	how to define the relationship between the Bureau of Civil Affairs and the vagrant population;	5	46	198	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	703.874	706.061	speaker#3		native	how to define the identities of the victims;	5	46	199	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	706.061	708.342	speaker#3		native	and who should be the recipient of the compensation.	5	46	200	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	708.342	712.124	speaker#3		native	These and other questions were the focus of the arguments in the court.	5	46	201	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	713.780	716.624	speaker#6	male	native	The compensation should not be given to the Bureau of Civil Affairs;	5	47	203	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	716.624	718.656	speaker#6	male	native	it would cause chaos in society.	5	47	204	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	719.285	726.321	speaker#6	male	native	The absolute administrative duty of the Bureau of Civil Affairs towards ((pw)) vagrant beggars	5	47	206	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	727.159	729.452	speaker#6	male	native	is not a power invested in it by law.	5	47	208	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	730.327	733.873	speaker#6	male	native	So civil affairs are an issue of public rights.	5	47	210	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	734.570	736.671	speaker#6	male	native	Upholding your rights is really a personal right.	5	47	212	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	736.671	742.374	speaker#6	male	native	So the Bureau of Civil Affairs had public rights versus personal rights, this is a problem of unequal parties.	5	47	213	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	742.374	750.608	speaker#7	male	native	Gaochun County Bureau of Civil Affairs, as the principal plaintiff, directly instituted civil proceedings on behalf of these nameless victims.	5	48	214	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	750.608	754.720	speaker#7	male	native	This, we should say, has no concrete legal basis.	5	48	215	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	755.404	759.420	speaker#7	male	native	But according to State Council Decree No. 381,	5	48	217	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	760.358	766.265	speaker#7	male	native	that is ((pw)), Measures for Assisting Vagrants and Beggars with No Means of Support in Cities,	5	48	219	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	766.922	769.579	speaker#7	male	native	well, in this the fourth clause states explicitly that	5	48	221	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	771.226	778.735	speaker#7	male	native	People's Government Bureaux of Civil Affairs of county level or higher are responsible for aid to vagrant beggars.	5	48	223	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	781.157	783.130	speaker#7	male	native	So, according to the provisions of these measures,	5	48	225	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	784.118	785.406	speaker#7	male	native	it's the Bureau of Civil Affairs	5	48	227	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	786.446	793.751	speaker#7	male	native	that must protect the basic rights and interests of vagrant beggars.	5	48	229	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	794.923	796.969	speaker#7	male	native	But our understanding is that	5	48	231	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	796.969	800.453	speaker#7	male	native	protection of the rights and interests of vagrant beggars	5	48	232	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	800.453	803.234	speaker#7	male	native	should not merely involve taking care of their daily needs.	5	48	233	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	804.281	810.296	speaker#7	male	native	It should also involve providing the appropriate assistance when their rights are illegally infringed.	5	48	235	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	810.296	818.453	speaker#7	male	native	So, this includes providing the appropriate legal assistance when a nameless victim dies in a car accident, as in this case.	5	48	236	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	818.453	820.878	speaker#7	male	native		5	48	237	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	821.495	822.812	speaker#3		native	In December 2006	5	49	239	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	822.812	824.874	speaker#3		native	Gaochun County People's Court gave a verdict that	5	49	240	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	824.874	831.859	speaker#3		native	based on our country's current law, claimants seeking compensation on behalf of the victim must be his close relatives or designated beneficiaries.	5	49	241	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	831.859	835.874	speaker#3		native	What existed between the Bureau of Civil Affairs and the nameless vagrants was an administrative legal relationship,	5	49	242	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	835.874	840.030	speaker#3		native	not a civil legal relationship. It could not be the plaintiff in a civil case.	5	49	243	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	840.030	845.155	speaker#3		native	Therefore, it rejected the Bureau of Civil Affairs' suit for over 300,000 yuan in death compensation and funeral costs for the two homeless men from the culprits in the accidents.	5	49	244	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	845.155	847.795	speaker#3		native		5	49	245	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1004.183	1007.449	speaker#5	female	native	The Gaochun vagrants' rights case, the first case of its kind in China,	7	51	247	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1007.449	1009.293	speaker#5	female	native	attracted widespread attention from a lot of media and legal experts, even though the first hearing ended in failure.	7	51	248	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1009.293	1013.559	speaker#5	female	native		7	51	249	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1013.559	1018.496	speaker#5	female	native	Meanwhile, quite a lot of Bureaux of Civil Affairs are also following suit.	7	51	250	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1046.455	1049.243	speaker#4	male	native	Well, the Bureau of Civil Affairs had its reasons for acting as plaintiff,	7	52	252	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1049.871	1050.768	speaker#4	male	native	as I just said.	7	52	254	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1050.768	1054.159	speaker#4	male	native	They administer aid to the homeless (()).	7	52	255	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1054.159	1056.456	speaker#4	male	native	The State Council had also published the "Measures."	7	52	256	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1056.456	1062.662	speaker#4	male	native	In fact they had also taken responsibility for the costs of the accidental deaths of the vagrants; they had to take responsibility for it.	7	52	257	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1063.530	1065.716	speaker#4	male	native	So, now, if an issue arises with vagrants	7	52	259	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1066.592	1069.986	speaker#4	male	native	they also provide assistance -- not just food and accommodation for vagrants,	7	52	261	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1069.986	1071.658	speaker#4	male	native	but also travel costs for sending them home.	7	52	262	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1071.658	1075.049	speaker#4	male	native	Well, the court also had its reasons for not accepting the suit.	7	52	263	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1075.049	1079.908	speaker#4	male	native	For example, the principal party is close relatives, work units or people with a direct relationship.	7	52	264	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1080.686	1087.017	speaker#4	male	native	So it identified the vagrant lawsuit of the Bureau of Civil Affairs as -- identified it as an administrative lawsuit -- a suit based on administrative law.	7	52	266	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1088.251	1089.782	speaker#4	male	native	Uh, it wasn't a civil law suit.	7	52	268	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1089.782	1092.172	speaker#4	male	native	So if it wasn't a civil law suit, it couldn't very well be the plaintiff.	7	52	269	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1092.969	1098.938	speaker#4	male	native	Well, of course -- but there are also no specific regulations on whether or not vagrants are -- are an administrative lawsuit.	7	52	271	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1098.938	1104.094	speaker#4	male	native	Uh, you see, these two vagrants weren't registered with us at the Gaochun Bureau of Civil Affairs.	7	52	272	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1104.094	1106.312	speaker#4	male	native	Normally they would not be under the jurisdiction of the Gaochun Bureau of Civil Affairs.	7	52	273	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1106.312	1107.656	speaker#4	male	native	So how is it an administrative lawsuit?	7	52	274	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1108.562	1112.812	speaker#4	male	native	Right? So this issue is naturally not clearly and specifically defined by law.	7	52	276	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1112.812	1117.141	speaker#4	male	native	So it can't be said that the court, uh, was wrong.	7	52	277	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1117.141	1118.828	speaker#4	male	native	That's not OK, perhaps, you can't say that.	7	52	278	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1118.828	1125.984	speaker#4	male	native	They had their basis. They said they have (()), ah, have a blank -- have a blank spot, have a blind spot.	7	52	279	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1125.984	1129.828	Chen_qiulin	male	native	Actually, to put it clearly we also wish that the law was consistent on this issue,	7	53	280	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1129.828	1132.633	Chen_qiulin	male	native	and that eventually, incidents of the same type could end in the same way.	7	53	281	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1133.382	1140.547	Chen_qiulin	male	native	But our country not only has laws and regulations that are effective nationally,	7	53	283	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1140.547	1142.391	Chen_qiulin	male	native	there are also some local legislatures,	7	53	284	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1142.391	1150.251	Chen_qiulin	male	native	which actually empower a local civil administration in the event of a traffic accident like the one in our case --	7	53	285	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1150.251	1153.345	Chen_qiulin	male	native		7	53	286	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1153.345	1156.789	Chen_qiulin	male	native	a civil administration, uh, can represent --	7	53	287	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1157.657	1162.209	Chen_qiulin	male	native	or can bring an appropriate suit on behalf of a victim.	7	53	289	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1162.897	1167.001	Chen_qiulin	male	native	So if there was such a regulation, then as it was a law there would be a basis,	7	53	291	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1168.110	1172.047	Chen_qiulin	male	native	uh, and as a local regulation it can also play the appropriate role.	7	53	293	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1172.047	1176.453	Chen_qiulin	male	native	So actually, looking at it from the perspective of this current system,	7	53	294	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1176.453	1180.609	Chen_qiulin	male	native	uh, it's obviously lacking here in Jiangsu.	7	53	295	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1181.375	1183.953	speaker#3		native	As Chen Qiulin, lawyer for the Bureau of Civil Affairs, sees it,	7	54	297	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1183.953	1189.000	speaker#3		native	the relationship between the Bureau of Civil Affairs and the vagrant population needs to be defined by a more explicit law.	7	54	298	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1189.000	1194.718	speaker#3		native	But in the view of Chen Xiaozhong, the head of Gaochun County Bureau of Civil Affairs, who has been working with the vagrant population for a long time,	7	54	299	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1194.718	1198.015	speaker#3		native	in actual working terms, between the Bureau of Civil Affairs and the vagrant population	7	54	300	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1198.015	1201.593	speaker#3		native	is a relationship that is both conflicted and very close.	7	54	301	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1202.812	1206.469	Chen_xiaozhong	male	native	Before, with this aid, it seemed to be a case of never mind whether you want it or not,	7	55	303	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1206.469	1210.359	Chen_xiaozhong	male	native	the police department picked you up, then brought you to the aid center,	7	55	304	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1210.359	1214.078	Chen_xiaozhong	male	native	and then the aid center forced you to go back to your hometown again -- again.	7	55	305	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1214.078	1220.172	Chen_xiaozhong	male	native	Now, our aid -- that is, this has definitely increased the demands on the people who work there.	7	55	306	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1220.172	1225.594	Chen_xiaozhong	male	native	Well, that is, he has to be willing to seek assistance before we can give assistance to him.	7	55	307	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1225.594	1232.953	Chen_xiaozhong	male	native	If he himself doesn't want assistance, then ((pw)) -- that is, the department responsible, uh, can't, uh, send him back by force.	7	55	308	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1232.953	1237.828	speaker#4	male	native	You ask, what is a vagrant? Who counts as vagrants? It's not easy for us to identify them.	7	56	309	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1238.781	1242.906	speaker#4	male	native	So, it's also possible that their homes are still very wealthy, ah, that's happened before.	7	56	311	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1242.906	1246.328	speaker#4	male	native	I've also seen it in reports and newspapers: their home is wealthy, and they're still coming to ask for food.	7	56	312	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1246.328	1250.125	speaker#4	male	native	They've turned begging into an art, a way of making a living, haven't they?	7	56	313	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1250.125	1251.938	speaker#3		native	On August 1, 2003,	7	57	314	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1251.938	1256.845	speaker#3		native	our country officially published Measures for Assisting Vagrants and Beggars with No Means of Support in Cities	7	57	315	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1256.845	1262.658	speaker#3		native	and rescinded the Measures for Accommodating and Returning Beggars in Cities, which had been in place for 21 years.	7	57	316	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1262.658	1266.580	speaker#3		native	Custody and repatriation centers everywhere were all changed into aid and management centers.	7	57	317	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1266.580	1269.346	Chen_xiaozhong	male	native	Since the new regulations were published,	7	58	318	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1269.346	1275.455	Chen_xiaozhong	male	native	as society has advanced, I think -- as people's lives, uh, have become richer, ah,	7	58	319	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1275.455	1280.036	Chen_xiaozhong	male	native	vagrant beggars are definitely gradually -- this group of people are definitely gradually decreasing.	7	58	320	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1280.908	1282.518	Chen_xiaozhong	male	native	There's also this situation,	7	58	322	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1282.518	1286.862	Chen_xiaozhong	male	native	that is, uh, I'm vagrant and begging in this place of yours;	7	58	323	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1286.862	1290.612	Chen_xiaozhong	male	native	I don't want you to send me back, I don't want to go back,	7	58	324	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1290.612	1293.722	Chen_xiaozhong	male	native	so you -- in this area of yours I can only carry out --,	7	58	325	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1293.722	1297.316	Chen_xiaozhong	male	native	uh, when you see ((pw)), uh, difficulties in your life, I provide aid for you.	7	58	326	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1297.316	1298.832	Chen_xiaozhong	male	native	I can only give you assistance if you're willing to accept it.	7	58	327	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1298.832	1303.457	Chen_xiaozhong	male	native	If you aren't willing to accept it, then under the current regulations I can't force you.	7	58	328	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1303.457	1309.348	speaker#3		native	This headache for Chen Xiaozhong is actually more commonly seen among aid workers in big cities.	7	59	329	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1309.348	1311.879	speaker#3		native	In Beijing, where they take quite a lot of people into custody and repatriate them,	7	59	330	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1311.879	1316.832	speaker#3		native	they took into custody and repatriated on average 40,000-60,000 people every year before 2003.	7	59	331	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1316.832	1321.279	speaker#3		native	Since the new Measures were published, the number of people receiving aid has sharply fallen to 30,000.	7	59	332	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1321.878	1324.519	speaker#3		native	To find what lies behind the fall in numbers,	7	59	334	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1324.519	1326.629	speaker#3		native	our reporter went out onto the streets.	7	59	335	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1326.629	1328.863	speaker#8	female	native	Where's your hometown?	7	60	336	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1328.863	1331.347	speaker#9	male	native	My hometown, ah -- you're a reporter, right?	7	61	337	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1331.347	1332.050	speaker#8	female	native	Ah, right.	7	62	338	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1332.769	1334.034	speaker#9	male	native	My hometown is in Henan.	7	63	340	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1334.034	1337.049	speaker#8	female	native	Henan. Why don't you go to an aid center?	7	64	341	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1337.049	1341.862	speaker#9	male	native	Uh, go to them -- I don't want to go to them. I don't want to get them to help me.	7	65	342	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1342.644	1345.926	speaker#3		native	This father and son playing the erhu were farmers in their hometown,	7	66	344	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1345.926	1347.395	speaker#3		native	and had a place to live.	7	66	345	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1347.395	1349.692	speaker#3		native	But since they came to Beijing last year	7	66	346	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1349.692	1351.957	speaker#3		native	they have been living permanently as vagrants.	7	66	347	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1351.957	1356.301	speaker#3		native	Reliant on their ability to play the erhu, the father and son are able to obtain a little income every day.	7	66	348	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1357.003	1359.550	speaker#8	female	native	Why did you want to come to Beijing?	7	67	350	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1359.550	1362.425	speaker#10	male	native	I just came for a look. I didn't have anything to do, at home I had nothing to do.	7	68	351	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1362.425	1362.909	speaker#8	female	native	Oh.	7	69	352	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1362.909	1366.643	speaker#8	female	native	At home is it just you? Do you have other family members?	7	69	353	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1366.643	1367.270	speaker#10	male	native	Yes.	7	70	354	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1368.065	1368.947	speaker#10	male	native	His mother is sick,	7	70	356	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1369.815	1374.689	speaker#10	male	native	mm, his mother is sick, uh, with diabetes.	7	70	358	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1375.626	1377.657	speaker#8	female	native	Did you come because of financial problems at home?	7	71	360	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1377.657	1379.704	speaker#10	male	native	Yes, financial problems at home, mm.	7	72	361	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1381.579	1384.861	speaker#11	male	native	Can you ((pw)) make -- make more money out here than working the land?	7	73	363	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1384.861	1386.314	speaker#10	male	native	It's OK, it's enough to eat.	7	74	364	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1386.314	1387.361	speaker#10	male	native		7	74	365	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1387.361	1389.533	speaker#11	male	native	So, if you didn't come you wouldn't have enough to eat, is that it?	7	75	366	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1390.439	1392.626	speaker#10	male	native	Our Henan is a poor place.	7	76	368	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1395.110	1399.423	speaker#11	male	native	When you sleep, what places do you choose to sleep, normally?	7	77	370	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1399.423	1401.173	speaker#10	male	native	We don't necessarily sleep in any fixed place.	7	78	371	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1401.173	1403.845	speaker#11	male	native	Where do you sleep generally?	7	79	372	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1403.845	1406.860	speaker#10	male	native	Sometimes we sleep under a bridge, mm.	7	80	373	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1406.860	1408.860	speaker#11	male	native	Usually it's under a bridge?	7	81	374	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1408.860	1409.454	speaker#10	male	native	Right.	7	82	375	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1410.079	1412.954	speaker#3		native	Talking to this father and son, the reporter learned that	7	83	377	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1412.954	1415.141	speaker#3		native	they had also been to an aid center in Beijing,	7	83	378	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1415.141	1417.156	speaker#3		native	but they didn't go of their own free will.	7	83	379	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1417.156	1421.312	speaker#3		native	In addition, what they went through at the aid center was also very surprising.	7	83	380	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1422.452	1424.327	speaker#8	female	native	Why don't you go to the aid center?	7	84	382	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1424.327	1427.374	speaker#8	female	native	They have places that are there specially to provide help.	7	84	383	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1427.936	1428.405	speaker#10	male	native	No.	7	85	385	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1429.827	1433.639	speaker#10	male	native	Last time we came, we worked, worked here for a few days.	7	85	387	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1433.639	1435.116	speaker#10	male	native	Our erhus were destroyed by him.	7	85	388	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1436.373	1438.709	speaker#10	male	native	Uh, they also -- also hit us.	7	85	390	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1439.937	1440.639	speaker#10	male	native	Right.	7	85	392	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1442.873	1447.295	speaker#10	male	native	He said, you're always here. He said, we shout at you and you still don't go.	7	85	394	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1447.295	1451.013	speaker#10	male	native	Then he grabbed the erhu and broke it. When he'd destroyed it, he gave it to you.	7	85	395	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1451.982	1458.450	speaker#11	male	native	After you came was it that you wanted to make some money, or, uh, did you know that there was an aid center, but didn't want to go?	7	86	397	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1459.216	1462.466	speaker#10	male	native	We didn't know, we didn't know. When we were working here, playing the erhu, he told us to go a few times.	7	87	399	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1462.466	1465.559	speaker#10	male	native		7	87	400	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1466.106	1468.966	speaker#10	male	native	We'd been there twice, and he even destroyed the erhus.	7	87	402	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1470.387	1472.591	speaker#11	male	native	Ah, it was the aid center people who told you to go?	7	88	404	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1472.591	1473.341	speaker#10	male	native	Uh-huh.	7	89	405	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1473.341	1476.684	speaker#10	male	native	They dragged us, they hauled us, dragged us.	7	89	406	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1477.605	1479.121	speaker#11	male	native	How long did you stay when you went?	7	90	408	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1479.902	1481.058	speaker#10	male	native	Ten days or so.	7	91	410	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1482.152	1483.683	speaker#11	male	native	So how come you are out again?	7	92	412	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1483.683	1485.871	speaker#10	male	native	He called -- called someone to come and get us.	7	93	413	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1486.730	1487.824	speaker#11	male	native	Who did they, ah, call to get you?	7	94	415	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1487.824	1489.027	speaker#10	male	native	Someone from home to get us.	7	95	416	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1489.589	1491.839	speaker#11	male	native	Ah, they called your home?	7	96	418	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1491.839	1492.294	speaker#10	male	native	Right.	7	97	419	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1493.589	1494.808	speaker#10	male	native	It's always people from home to get you.	7	97	421	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1495.496	1497.512	speaker#8	female	native	Did they give you money? Money for the journey back?	7	98	423	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1497.512	1498.039	speaker#10	male	native	No,	7	99	424	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1499.606	1500.387	speaker#10	male	native	they didn't give us money.	7	99	426	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1501.996	1503.292	speaker#8	female	native	So how did they, ah, tell you to go?	7	100	428	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1505.245	1507.151	speaker#10	male	native	As soon as you're taken out, they don't take any notice of you.	7	101	430	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1509.135	1512.494	speaker#11	male	native	So, while you were there, they took care of your food and accommodation, is that right?	7	102	432	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1512.494	1514.119	speaker#10	male	native	Right, they took care of food and accommodation.	7	103	433	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1516.494	1519.415	speaker#11	male	native	So, you weren't allowed to leave yourself, there had to be someone from your family to come and get you?	7	104	435	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1519.415	1522.523	speaker#10	male	native	Some, some left themselves. Some were picked up by their families.	7	105	436	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1522.523	1523.398	speaker#11	male	native	Oh.	7	106	437	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1527.023	1530.961	speaker#11	male	native	So did -- did you encounter anything that infringed your rights?	7	106	439	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1531.633	1532.367	speaker#10	male	native	No.	7	107	441	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1532.367	1533.148	speaker#11	male	native	No?	7	108	442	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1533.148	1533.617	speaker#10	male	native	Mm.	7	109	443	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1533.617	1538.039	speaker#10	male	native	Except at the aid station, if you don't do what they say, they hit you, they kick you.	7	109	444	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1663.764	1666.467	speaker#3		native	From custody and repatriation to aid:	9	111	446	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1666.467	1668.920	speaker#3		native	on the surface it seems to be a change of name.	9	111	447	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1668.920	1673.061	speaker#3		native	But behind it, it affected the approach of all the departments in the community that were involved.	9	111	448	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1673.061	1677.748	speaker#3		native	Although the new aid measures for the vagrant population had been published two years before,	9	111	449	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1677.748	1680.857	speaker#3		native	Chen Xiaozhong, who has been working at the Bureau of Civil Affairs for over ten years, says that	9	111	450	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1680.857	1685.607	speaker#3		native	work at their aid centers is still now in the exploratory stage.	9	111	451	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1687.248	1691.701	Chen_xiaozhong	male	native	Aid for all the vagrant beggars, ah, actually	9	112	453	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1691.701	1696.810	Chen_xiaozhong	male	native	involves several departments. It involves the police; it involves the health department; it involves the Bureau of Civil Affairs; etc.	9	112	454	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1696.810	1697.826	Chen_xiaozhong	male	native	It involves the the image of the city.	9	112	455	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1697.826	1699.029	Chen_xiaozhong	male	native	It involves several departments.	9	112	456	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1699.029	1705.295	Chen_xiaozhong	male	native	Actually this work, that is, uh, each stage is supported by one department.	9	112	457	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1705.295	1709.186	Chen_xiaozhong	male	native	For example, when you discover a vagrant beggar on -- on the streets,	9	112	458	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1709.186	1712.530	Chen_xiaozhong	male	native	if he wants to go to the aid center to seek help,	9	112	459	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1712.530	1715.295	Chen_xiaozhong	male	native	then he might first, not necessarily though, go to the police department.	9	112	460	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1715.295	1723.633	Chen_xiaozhong	male	native	The police department, that is to say, uh, according to its duty, must take, take the one seeking help to an aid center to receive assistance.	9	112	461	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1724.382	1729.701	Chen_xiaozhong	male	native	Also possible, that is, is that when the aid center +finds a vagrant beggar by the road,	9	112	463	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1729.701	1732.561	Chen_xiaozhong	male	native	the one seeking help is -- uh, is sick.	9	112	464	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1732.561	1737.235	Chen_xiaozhong	male	native	Then it involves the issue of administering medical treatment first, first, and then aid.	9	112	465	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1737.235	1740.329	Chen_xiaozhong	male	native	That is to say, this aid involves cooperation between several departments.	9	112	466	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1741.454	1743.923	speaker#3		native	According to a report on the CCTV program Legal Report,	9	113	468	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1743.923	1748.329	speaker#3		native	in May 2006, in Furong District, Changsha, Hunan, such an incident occurred.	9	113	469	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1748.329	1751.751	speaker#3		native	A vagrant died at the door of an aid center in the middle of the night.	9	113	470	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1751.751	1756.236	speaker#3		native	He had earlier been brought to the aid center by an ambulance and police officers from a police station.	9	113	471	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1756.236	1757.657	speaker#3		native	At that time he was still alive.	9	113	472	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1757.657	1765.141	speaker#3		native	However, under the eyes of three departments -- the police, health and civil affairs departments -- he was unable to take the step into the aid center in the end.	9	113	473	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1765.141	1771.125	speaker#12	male	native	When he was found he didn't move. His hands and feet were pale. We found ((pw)) that he'd died.	9	114	474	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1772.156	1774.187	speaker#12	male	native	After he'd been brought, he -- he wasn't accepted here.	9	114	476	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1774.995	1778.140	speaker#12	male	native	They didn't know. After they'd phoned, they put him here.	9	114	478	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1780.780	1787.140	speaker#13	male	native	We took him to the aid center. At that time at the aid center there was one person -- when they saw him --	9	115	480	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1787.140	1790.187	speaker#13	male	native	when he saw him, he said this is a seriously ill person, we won't accept him.	9	115	481	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1790.187	1792.187	speaker#3		native	Just like that, at the door of the aid center,	9	116	482	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1792.187	1795.593	speaker#3		native	the police station duty officers and the management at the aid center had a difference of opinion.	9	116	483	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1795.593	1799.405	speaker#3		native	Following this, a local 120 ambulance rushed to the scene under the command of the 110 emergency line.	9	116	484	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1799.405	1802.046	speaker#3		native	However, the situation did not improve because of this.	9	116	485	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1803.405	1811.077	speaker#14	male	native	Because this person, as far as we could understand the situation, had been brought by the police,	9	117	487	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1811.077	1815.613	speaker#14	male	native	so we thought that we wanted the police to continue to be involved in this person's affairs.	9	117	488	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1816.207	1819.035	speaker#15	male	native	So, we -- was that you who contacted the police by phone?	9	118	490	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1819.035	1823.285	speaker#14	male	native	For this, we relied on him, because he was -- if he asked for assistance from the police,	9	119	491	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1823.285	1825.504	speaker#14	male	native	so we then relied on the aid center.	9	119	492	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1827.160	1829.425	speaker#15	male	native	So this mean that we just waited there?	9	120	494	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1829.425	1830.159	speaker#14	male	native	Uh-huh.	9	121	495	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1830.159	1832.284	speaker#3		native	Time went by, minute by minute.	9	122	496	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1832.284	1834.612	speaker#3		native	The life of the nameless vagrant was also ebbing away.	9	122	497	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1834.612	1838.471	speaker#3		native	After waiting for an hour, the 120 ambulance left.	9	122	498	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1839.252	1844.486	speaker#15	male	native	So, before we left, did we carry out a direct handover of this person, or deal with matters that should have been handed over --	9	123	500	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1844.486	1846.971	speaker#15	male	native	who should have been called to take over the matter?	9	123	501	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1846.971	1852.206	speaker#15	male	native	Who, that is, at least, who should come to take some responsibility for this person, because we were already at the scene after all.	9	123	502	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1854.175	1857.144	speaker#15	male	native	Uh, because at the time we were thinking like this:	9	124	504	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1857.144	1860.722	speaker#15	male	native	that is, this kind of person -- uh, because we had other duties now,	9	124	505	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1860.722	1862.206	speaker#15	male	native	so we left there temporarily.	9	124	506	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1862.206	1865.591	speaker#15	male	native	So, next, if there was a situation, then get in touch.	9	124	507	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1866.223	1868.738	speaker#3		native	The 120 emergency center was patiently waiting.	9	125	509	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1868.738	1872.628	speaker#3		native	But the local police, who did not appear again after this, also have their own story.	9	125	510	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1872.628	1877.754	speaker#15	male	native	Uh, I, I think, um, um, um, we'd brought you to the aid station,	9	126	511	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1877.754	1884.363	speaker#15	male	native	so you, you, you, you should administer aid. One provides aid, and one provides assistance.	9	126	512	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1884.363	1889.238	speaker#15	male	native	Ah, so we say (()).	9	126	513	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1889.238	1896.144	speaker#3		native	In this incident, the three departments -- civil affairs, police, health -- all believe that they acted strictly in accordance with their own systems,	9	127	514	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1896.144	1899.394	speaker#3		native	however, none of them really saved this vagrant.	9	127	515	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1900.019	1902.441	speaker#3		native	Concerning the measures for assistance of vagrants,	9	127	517	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1902.441	1905.566	speaker#3		native	although our country has now created a system that is quite complete,	9	127	518	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1905.566	1910.629	speaker#3		native	in the process of their work, workers still face many practical problems.	9	127	519	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1912.801	1915.270	speaker#16	male	native	This is the office of our aid station, uh.	9	128	521	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1915.270	1918.973	speaker#16	male	native	Here is the place where the aid workers, uh, administer aid.	9	128	522	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1924.950	1926.341	speaker#16	male	native	Where are you from?	9	128	524	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1926.341	1927.138	speaker#17	female	native	Uh,	9	129	525	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1928.325	1929.769	speaker#16	male	native	When did you come here?	9	130	527	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1930.727	1931.857	speaker#16	male	native	From Baotou, eh?	9	130	529	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1931.857	1935.372	speaker#16	male	native	He came last year, 2005, October 2005.	9	130	530	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1935.372	1939.140	speaker#16	male	native	People like this, this kind, we usually -- we're not clear at all.	9	130	531	report	

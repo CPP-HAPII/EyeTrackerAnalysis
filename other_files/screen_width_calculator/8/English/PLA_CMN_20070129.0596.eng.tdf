@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070129.0596	0	10010.000	10019.900				American Scientists Use New Way to Activate Genes	0	0	0		
+PLA_CMN_20070129.0596	0	20010.000	20019.900				(Source: Xinhua News Agency, Dispatch time: January 29, 2007 22:09)	0	0	0		
+PLA_CMN_20070129.0596	0	30010.000	30019.900				Xinhua News Agency, Washington, January 28 (Reporter Zhang Zhongxia). American researchers developed a new technique to successfully activate some specific genes in cultivated cells in the laboratory.	0	0	0		
+PLA_CMN_20070129.0596	0	30020.000	30029.900				Researchers said that it is hopeful to use this result to find new treatment for certain diseases.	0	0	0		
+PLA_CMN_20070129.0596	0	40010.000	40019.900				Gene is a segment on the chromosome that carries the genetic information.	0	0	0		
+PLA_CMN_20070129.0596	0	40020.000	40029.900				The special auxiliary protein molecular group surrounding the chromosomal DNA (deoxyribonucleic acid) has a very delicately balanced layout structure. They are the 'switches' of genes responsible for transcribing the 'coded protein' emitted by the genes to the messenger RNAs (ribonucleic acid).	0	0	0		
+PLA_CMN_20070129.0596	0	40030.000	40039.900				The messenger RNAs then enter the 'protein factory' (ribosome) in the cells to take part in the forming of various proteins that perform different bodily functions.	0	0	0		
+PLA_CMN_20070129.0596	0	50010.000	50019.900				Pharmacologist Bethany Janowski at the University of Texas Southwestern Medical Center in the United States and other people reported in the online edition of the Nature Chemical Biology on the 28th that they used specially created antigen RNAs to 'repair' the protein group of a specific gene in the cultivated mammalian cancer cells. They eventually succeeded in activating this gene and controlling the growth speed of the cancer cells.	0	0	0		
+PLA_CMN_20070129.0596	0	60010.000	60019.900				The report showed that the abovementioned RNA molecule can 'nudge' this auxiliary protein group like an elbow to 'awaken' the gene expression.	0	0	0		
+PLA_CMN_20070129.0596	0	60020.000	60029.900				Researchers said that this new technique of using RNA to 'turn on' specific genes is the most effective and reliable gene activation technique to date.	0	0	0		
+PLA_CMN_20070129.0596	0	60030.000	60039.900				Not only will this technique help develop new gene therapies that cure diseases, it will also provide a new tool to researchers to conduct in-depth research in the roles played by genes in human bodies.	0	0	0		
+PLA_CMN_20070129.0596	0	70010.000	70019.900				Researchers stated that specific gene expressions in some patients are not completely turned off, only that the expression levels are lower than normal, thus causing inadequate amount of particular protein in the body.	0	0	0		
+PLA_CMN_20070129.0596	0	70020.000	70029.900				Therefore, if the gene expression level can be brought up with the new technique, then it will greatly improve the effectiveness of treatment or even find a cure to the diseases.	0	0	0		

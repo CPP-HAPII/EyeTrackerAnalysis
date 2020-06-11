@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0006.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Dalai Lama Aide Meets French President, Exposes Truth about China's Crackdown in Tibet	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	PARIS, 12th, AFP	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	The French presidential palace, the Elysée, has confirmed that President Sarkozy met today with the monk Ricard, who is close to the Tibetan spiritual leader, the Dalai Lama, and that the two discussed "a wide range of options."	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	1400.000	1800.000	TEXT1	unknown	unkown	At a time when an increasing number of international leaders say they will not attend the opening ceremony of the Olympic Games to be held in Beijing in August and the global relay of the Beijing Olympic Torch has become dogged by protests, Sarkozy and Ricard discussed ways to restart talks between the Dalai Lama and the Chinese authorities.	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	Ricard, who is the Dalai Lama's French translator, said after the discussion with Sarkozy, "The president is deeply concerned that a dialogue unfolds, and at the same time that the Tibet issue be...	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	2200.000	2300.000	TEXT1	unknown	unkown	...resolved in a satisfactory manner."	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	2500.000	2900.000	TEXT1	unknown	unkown	Ricard emphasized that he had not been authorized to speak on the part of the Dalai Lama, and that he was meeting with the president in order to "fairly and sincerely" convey testimony that 192 had been killed and 2300 arrested in the current tense confrontation in Tibet.	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	Ricard addedthat Sarkozy "places a lot of importance in the credibility of news conveyed out on the part of the Tibetan people."	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	The Elysée confirmed that the two individuals had held talks, but did not provide further details.	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	3900.000	4100.000	TEXT1	unknown	unkown	Ricard said:"We discussed various options, but I don't think that I should be the one to decide whether the details of the options should be made public."	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	4300.000	4500.000	TEXT1	unknown	unkown	But he mentioned French Foreign Minister Kouchner's idea that the Dalai Lama could meet with the foreign ministers of European Union member states.	0	0	0		statement

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080716.0292	0	0.0	100.0	speaker	unknown	unknown	边防警官陈伟强：英雄浩气誉滨城	0	0	0		
+PLA_CMN_20080716.0292	0	1900.0	2000.0	speaker	unknown	unknown	不少大连市民、受害出租车女司机和学生，不约而同地来到陈伟强住院的病房，向他送上鲜花和锦旗，表达敬慕之情。	0	0	0		
+PLA_CMN_20080716.0292	0	2400.0	2500.0	speaker	unknown	unknown	1月6日上午，一位年逾花甲的老人来到陈伟强住院的病房，拿出1000元钱要陪护人员为陈伟强买些营养品补补身子。	0	0	0		

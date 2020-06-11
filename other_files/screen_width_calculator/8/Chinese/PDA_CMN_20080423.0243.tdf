@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0243.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	各民主党派中央新老领导人赴西柏坡参观学习	0	0	0		statement
+PDA_CMN_20080423.0243.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0243.sgm	0	900.000	950.000	TEXT1	unknown	unkown	人民网石家庄４月２２日电 （记者江山）经中共中央批准，２０日至２１日，中央统战部组织各民主党派中央新老领导人和无党派人士代表赴当年中共中央所在地西柏坡参观学习并举行纪念会，纪念民主党派、无党派人士响应中共“五一口号”６０周年。	0	0	0		statement
+PDA_CMN_20080423.0243.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	这是全国统战系统纪念“五一口号”发布６０周年、开展“薪火相传、共创未来”主题系列活动的重要内容。	0	0	0		statement

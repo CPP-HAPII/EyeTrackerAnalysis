@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080426.0136	0	1000.0	1100.0	speaker	unknown	unknown	副省长文海英介绍说，安徽正在构建旨在实现“１２３４”目标的高速铁路网框架：即合肥１小时到南京、２小时到武汉、３小时到上海、４小时到北京，以确立安徽省承东启西、连南接北的综合交通枢纽地位，并表示安徽将拿出总面积近５万亩的１５０个优质地块以吸引外来客商从事商业、住宅以及工业项目的开发。	0	0	0		
+PLA_CMN_20080426.0136	0	1700.0	1800.0	speaker	unknown	unknown	在博览会期间，来自世界各地的１６０家投资企业和２８７个投资商，将与中部６省的１３５８个项目进行“一对一”、“面对面”洽谈。	0	0	0		

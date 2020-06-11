@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080424.0357	0	0.0	100.0	speaker	unknown	unknown	姜瑜:炒作中国与津巴布韦正常军贸没有道理	0	0	0		
+CNS_CMN_20080424.0357	0	600.0	700.0	speaker	unknown	unknown	在外交部今天下午举行的例行记者会上，针对有记者对中国向津巴布韦售武的提问，姜瑜说，中国与津巴布韦的这批军贸，协议是去年签署的，完全是正常的军品贸易，与目前津巴布韦国内局势变化毫无关系,不违反中国的任何法律法规以及我们承担的国际义务。	0	0	0		
+CNS_CMN_20080424.0357	0	800.0	900.0	speaker	unknown	unknown	中方希望津巴布韦有关方面能够妥善处理当前的分歧，维护国家的稳定和发展。	0	0	0		
+CNS_CMN_20080424.0357	0	900.0	1000.0	speaker	unknown	unknown	中方愿意为津巴布韦国内的稳定和发展做出建设性贡献。	0	0	0		

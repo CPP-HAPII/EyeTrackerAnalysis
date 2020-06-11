@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080713.0755	0	400.0	500.0	speaker	unknown	unknown	据了解，遇难飞行员叫卢志国，37岁。	0	0	0		
+CNS_CMN_20080713.0755	0	2800.0	2900.0	speaker	unknown	unknown	正在他灭火时，一名40多岁的男子跑到现场，朝飞机残骸的方向大声地呼喊：“小卢，你出来啊，小卢。”	0	0	0		
+CNS_CMN_20080713.0755	0	3000.0	3100.0	speaker	unknown	unknown	但黎先生没有专业的设备，灭火器又不能完全控制住火势。	0	0	0		
+CNS_CMN_20080713.0755	0	3300.0	3400.0	speaker	unknown	unknown	10分钟后，护林员和平谷消防支队消防员、6辆消防车陆续赶到现场，并拿来灭火弹灭火。	0	0	0		
+CNS_CMN_20080713.0755	0	3900.0	4000.0	speaker	unknown	unknown	经检查，救援人员证实飞行员卢志国已经身亡。	0	0	0		

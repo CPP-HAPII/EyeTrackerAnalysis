@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080410.0561	0	200.0	300.0	speaker	unknown	unknown	Xinhua News Agency, San Francisco, April 9, Olympic Games special: This NBA season, the Rockets won an easy victory over the Supersonics, the last-place team in the Western Conference, 103:80 at home for the first time without the Yao-Mac combination.	0	0	0		

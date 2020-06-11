@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0049.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	萨科齐期待法中合作不断取得成果	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 06:22:32   来源：解放军报第8版	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	900.000	950.000	TEXT1	unknown	unkown	萨科齐是在接受中国新任驻法大使孔泉递交国书时作上述表示的。	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	萨科齐强调，他相信法中关系必将得到进一步巩固和发展。	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	孔泉重申，中国政府和人民珍视中法友谊，高度重视中法全面战略伙伴关系，愿在相互尊重、互利友好的基础上同法方共同努力，加强两国在政治、经济、文化、科技及国际事务中的交流、协调与合作，造福于两国人民。	0	0	0		statement

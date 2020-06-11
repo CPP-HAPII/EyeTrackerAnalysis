@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0038.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	UAE Requests Government Institutions Use Arabic	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-11	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Staff Report, Cairo, March 10 (Correspondent Yu Yi) According to reports, Prime Minister and Vice-President of the United Arab Emirates Al Maktoum presided over a cabinet meeting on the 9th. It was decided that all government agencies and institutions must use Arabic as the main official language.	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	The reports said that the cabinet meeting decided all institutions of the UAE's seven member states must list Arabic as their official language. In addition it decided to establish an education, coordination, and integration committee to step up the popularization and promotion of Arabic.	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Article Seven of the UAE constitution stipulates that the United Arab Emirates are Arab nations, and that Arabic is the number one official language.	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	However, of the ten commonly-used languages today, Arabic only ranks fourth, while English ranks first.	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	The results of a population census conducted by the UAE in 2006 showed that of a population of more than four million, about 80% were non-natives, while native residents had become the minority.	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1587.500	1600.000	TEXT1	unknown	unkown	The non-native population comes separately from more than 200 countries and more than 150 nationalities. One hundred dialects are used. English has become the everyday language used by many institutions, especially private enterprises and universities.	0	0	0		statement

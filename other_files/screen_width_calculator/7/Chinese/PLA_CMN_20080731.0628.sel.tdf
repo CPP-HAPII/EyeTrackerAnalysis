@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080731.0628	0	200.0	300.0	speaker	unknown	unknown	新华社哈瓦那７月３０日奥运专电（记者殷永建）男子１１０米栏世界纪录保持者、古巴名将罗伯斯已结束欧洲的比赛返回哈瓦那，在古巴国内进行北京奥运会前最后阶段的备战。	0	0	0		

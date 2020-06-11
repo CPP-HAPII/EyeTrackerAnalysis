@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.3402	0	800.0	900.0	speaker	unknown	unknown	他在去年NBA选秀大会上以第六顺位被密尔沃基雄鹿队选中，上赛季为雄鹿出场六十六场，场均得到八点六分和五点二个篮板。	0	0	0		
+CNS_CMN_20080710.3402	0	900.0	1000.0	speaker	unknown	unknown	雄鹿队上月二十六日决定用易建联和西蒙斯交换网队的第二战将杰斐逊。	0	0	0		
+CNS_CMN_20080710.3402	0	1500.0	1600.0	speaker	unknown	unknown	罗德·索恩则表示：“我们虽然不是很强的队伍，易很年轻，他在这里将开始NBA第二个年头，我们期待年轻球员能迅速成长。”	0	0	0		

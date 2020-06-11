@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0151	0	0.0	100.0	speaker	unknown	unknown	(cip)aaa070811（请国际部综合组处理）意大利有意进行斡旋促成以黎和谈	0	0	0		

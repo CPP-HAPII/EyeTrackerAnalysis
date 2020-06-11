@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0027.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Surprise Explosion in Southern Iranian Mosque - Death Toll Rises to Nine.	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Teheran (AFP), 12th.	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	An Iranian official said that a mosque in the southern city of Shiraz was bombed today resulting in the deaths of nine people and over one hundred injured. This is the first bomb in the city center of a non-border Iranian city.	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	Attack event.	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	Fars News Agency quoted the local official as saying that this powerful bombing, that happened at nine in the evening in the male section of the mosque, happened while a well known local Muslim cleric was holding an evening prayer session.	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	The report quoted a hospital representative saying: "This bombing in Shiraz resulted in the injuries of 105 people and nine deaths." All of the city's medical resources have already been redirected to rescuing the victims.	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	The report said that since many of the injured are in serious condition, the death toll will increase.	0	0	0		statement

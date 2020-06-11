@@ -1,0 +1,20 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070114.0142	0	10010.000	10019.900				Confederation of African Football Announces Best African Players' in Last 50 Years	0	0	0		
+PLA_CMN_20070114.0142	0	20010.000	20019.900				(Source: Dispatch time: January 14, 2007 21:59)	0	0	0		
+PLA_CMN_20070114.0142	0	30010.000	30019.900				Xinhua News Agency, Cairo, January 13, Sports special dispatch (Reporters Lin Jianyang, Guo Chunju). The Confederation of African Football announced the list of 30 best African players in the last 50 years voted by netizens on its official website on the 13th.	0	0	0		
+PLA_CMN_20070114.0142	0	30020.000	30029.900				Cameroon legend player Roger Milla ranked top of the best players' list with 2,246 votes.	0	0	0		
+PLA_CMN_20070114.0142	0	40010.000	40019.900				Milla, who was born in 1952, was Cameroon's legendary football star. He started playing football at a club in Cameroon at the age of 13 and did not retire until he was 42.	0	0	0		
+PLA_CMN_20070114.0142	0	40020.000	40029.900				In 1982, the 30-year-old Milla was selected into the Cameroon national team.	0	0	0		
+PLA_CMN_20070114.0142	0	40030.000	40039.900				In the 1990 Italy World Cup, as a substitute player, the 38-year-old Milla scored every time he entered the field and rendered the greatest service to the Cameroon team's first advancement to the World Cup quarterfinals.	0	0	0		
+PLA_CMN_20070114.0142	0	50010.000	50019.900				In 1994, the 42-year-old Milla represented the Cameroon team to compete in the United States World Cup. He was the oldest player in the World Cup history.	0	0	0		
+PLA_CMN_20070114.0142	0	50020.000	50029.900				He scored a goal in the divisional game with Russia, thus became the oldest scorer in the World Cup history.	0	0	0		
+PLA_CMN_20070114.0142	0	60010.000	60019.900				Players who ranked 2nd and 3rd on the best players' list were both Egyptian players.	0	0	0		
+PLA_CMN_20070114.0142	0	60020.000	60029.900				Former Egyptian national team captain and current Vice President of the Al-Ahly Sporting Club Mahmound Khaib polled 2,165 votes to rank 2nd while the 40-year-old famous forward Hossam Hassan who is currently playing for Egypt's Tersana took the 3rd with 2,011 votes.	0	0	0		
+PLA_CMN_20070114.0142	0	60030.000	60039.900				Hassan was also the active player who had the most votes.	0	0	0		
+PLA_CMN_20070114.0142	0	70010.000	70019.900				Among the few most famous players in Africa, Cameroon player Samuel Eto'o who plays for the FC Barcelona, a top team in Spain La Liga, placed 4th with 1,840 votes; Didier Drogba, the Côte d'Ivoire forward of the Chelsea FC in the English Premier League ranked 7th with 1,467 votes while Drogba's Ghanaian teammate Michael Essien ranked 11th with 996 votes.	0	0	0		
+PLA_CMN_20070114.0142	0	80010.000	80019.900				On this list of 30 best players, Egypt and Ghana each had five star players selected and were listed together as the nations that had the most players selected.	0	0	0		
+PLA_CMN_20070114.0142	0	80020.000	80029.900				The Internet voting for best players was one of the series of activities that the Confederation of African Football held to celebrate the 50th Anniversary of its establishment.	0	0	0		
+PLA_CMN_20070114.0142	0	80030.000	80039.900				The Confederation of African Football was established on February 8, 1957 with its headquarters in Egypt's capital city of Cairo.	0	0	0		
+PLA_CMN_20070114.0142	0	80040.000	80049.900				(The end)	0	0	0		

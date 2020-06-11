@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0206.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	潘基文访问布基纳法索 探讨经济形势恶化等问题	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	900.000	1100.000	TEXT1	unknown	unkown	联合国秘书长潘基文22日在布基纳法索首都瓦加杜古与布基纳法索总统孔波雷举行了会谈。	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	1100.000	1300.000	TEXT1	unknown	unkown	潘基文对布基纳法索在科特迪瓦和平进程中所发挥的作用表示赞赏。	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	潘基文说：“布基纳法索和总统孔波雷在科特迪瓦走出危机的进程中所起的作用是决定性的。”	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	谈到最近世界食品价格攀升使布基纳法索经济形势恶化问题时，潘基文说，这一状况会直接影响到布基纳法索和其他发展中国家数十年来为使人民摆脱贫困所作的努力。	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	潘基文22日开始对布基纳法索进行为期两天的正式访问。	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	当天他还与布总理宗戈和议长卡博雷等进行了会晤。	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	布基纳法索是潘基文此次非洲之行的第三站，此前他访问了加纳和利比里亚。	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	他还将访问科特迪瓦。	0	0	0		statement

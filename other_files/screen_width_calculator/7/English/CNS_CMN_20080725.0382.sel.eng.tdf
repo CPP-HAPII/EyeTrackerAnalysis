@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0382	0	200.0	300.0	speaker	unknown	unknown	According to British media reports on July 25, eyewitnesses told the media about the relevant details regarding the Serbian agents' capture of the former Bosnian Serb leader Karadzic on a bus this Monday. One of the agents physically tore off a handful of Karadzic's beard.	0	0	0		
+CNS_CMN_20080725.0382	0	900.0	1000.0	speaker	unknown	unknown	Karadzic is currently on a hunger strike in a prison in Belgrade, and his only request is to have a Bible.	0	0	0		

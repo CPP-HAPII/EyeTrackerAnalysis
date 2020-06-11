@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.0903	0	200.0	300.0	speaker	unknown	unknown	中新社北京七月二日电(记者 贾靖峰)记者二日从中国证监会获悉，为配合实施《上市公司重大资产重组管理办法》，证监会从八方面严格完善上市公司并购重组：重组委廉政“三约束”；程序“三公开”；“三审制”重组监管内部制衡；严防内幕交易和市场操纵；规范财务顾问；重组监管外部制衡；“三位一体”防腐败；分类审核提高效率。	0	0	0		
+CNS_CMN_20080702.0903	0	500.0	600.0	speaker	unknown	unknown	约束三，聘任委员每年须向中国证监会纪检、人事部门提交述职报告。	0	0	0		
+CNS_CMN_20080702.0903	0	600.0	700.0	speaker	unknown	unknown	为严防腐败，证监会建立了上市部、沪、深证券交易所、证监局“三位一体”、“互为制衡”的并购重组监管机制。	0	0	0		
+CNS_CMN_20080702.0903	0	800.0	900.0	speaker	unknown	unknown	“静默期”证监会人员不接待申报人及其中介机构；“三审制”，在初审阶段实行双人分工审核、在反馈阶段实行专题会合议复核，在重组委审核阶段强化独立性和公开性。	0	0	0		
+CNS_CMN_20080702.0903	0	1300.0	1400.0	speaker	unknown	unknown	涉及环保核查的，须先取得国家环保部或地方环保部门核查文件；涉及外资并购的，须先取得商务部的许可批复等等。	0	0	0		

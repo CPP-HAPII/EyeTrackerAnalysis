@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0038.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	阿联酋要求政府机构使用阿拉伯语	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-11	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	本报开罗3月10日电((记者于毅)) 据报道,阿拉伯联合酋长国副总统兼总理阿勒马克图姆9日主持召开内阁会议,决定所有政府机关和机构要把阿拉伯语作为主要官方用语使用。	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	报道称,内阁会议决定,阿联酋的7个成员国的所有机构都要把阿拉伯语列为官方语言,并决定成立一个教育协调一体化委员会,以加强 阿拉伯语的普及与推广。	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	阿联酋宪法第七条规定,阿联酋为阿拉伯国家,阿拉伯语为第一官方用语。	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	但在目前普遍使用的十种语言中,阿拉伯语仅名列第四位,英语名列第一。	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	2006年阿联酋进行的人口统计结果显示,在400多万人口中,外来人口约占80%,当地居民沦为少数。	0	0	0		statement
+GMW_CMN_20080311.0038.sgm	0	1587.500	1600.000	TEXT1	unknown	unkown	外来人口分别来自200多个国家和150多个民族,使用的方言有100种,英语成为许多机构特别是私营企业和大学的日常用语。	0	0	0		statement

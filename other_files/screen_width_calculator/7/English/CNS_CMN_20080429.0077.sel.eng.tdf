@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080429.0077	0	800.0	900.0	speaker	unknown	unknown	Though...) now probably, you must be very busy now, so I probably won't yet."	0	0	0		

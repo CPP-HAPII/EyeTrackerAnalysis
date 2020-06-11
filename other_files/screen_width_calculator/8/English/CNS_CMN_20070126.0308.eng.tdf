@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070126.0308	0	10010.000	10019.900				Chavez Warns US Ambassador to Venezuela: Another Indiscreet Criticism Will Lead to Expulsion	0	0	0		
+CNS_CMN_20070126.0308	0	20010.000	20019.900				January 26, 2007, 11:10	0	0	0		
+CNS_CMN_20070126.0308	0	30010.000	30019.900				Chinanews.com, January 26 - Venezuelan President Chavez warned US Ambassador to Venezuela Brownfield on Thursday (the 25th) that if further indiscreet criticisms about the nationalization of CANTV were made, he'd be expelled by the Venezuelan government for meddling with Venezuela's internal affairs.	0	0	0		
+CNS_CMN_20070126.0308	0	40010.000	40019.900				Chavez said, "If you continue to meddle in Venezuela's internal affairs, you will be declared persona non grata, and will have to leave Venezuela."	0	0	0		
+CNS_CMN_20070126.0308	0	50010.000	50019.900				Earlier on Thursday, Brownfield said that the nationalization of CANTV must be carried out "in a transparent and legal way," and that the Venezuelan government must "give fair compensation to shareholders who had suffered losses," calling this "the responsibility of the government."	0	0	0		
+CNS_CMN_20070126.0308	0	60010.000	60019.900				CANTV is the largest telecom operator in Venezuela and was privatized in 1991. US telecom operator Verizon Communications Inc.	0	0	0		
+CNS_CMN_20070126.0308	0	60020.000	60029.900				owns 28.5% of its shares and is its largest shareholder.	0	0	0		
+CNS_CMN_20070126.0308	0	60030.000	60039.900				According to Chavez's plan, CANTV will be nationalized very soon, and it will not compensate shareholders who had suffered losses.	0	0	0		
+CNS_CMN_20070126.0308	0	60040.000	60049.900				(Zhong Yan)	0	0	0		

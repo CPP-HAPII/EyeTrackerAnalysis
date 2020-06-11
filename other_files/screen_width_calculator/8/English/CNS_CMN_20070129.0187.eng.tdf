@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070129.0187	0	10010.000	10019.900				Nanning Mayor Lin Guoqiang Elected Vice Chairman of the Guangxi Zhuang Autonomous Regional CPPCC Committee	0	0	0		
+CNS_CMN_20070129.0187	0	20010.000	20019.900				January 29, 2007 15:02	0	0	0		
+CNS_CMN_20070129.0187	0	30010.000	30019.900				China News Service, Nanning, January 29 (Correspondent Xia Xiaohong) Mayor Lin Guoqiang of Nanning, capital of Guangxi, was elected vice chairman of the Guangxi Zhuang Autonomous Regional CPPCC Committee at the fifth session of the Ninth Guangxi CPPCC held this morning.	0	0	0		
+CNS_CMN_20070129.0187	0	40010.000	40019.900				Lin Guoqiang, male, Han nationality, is a native of Yantai, Shandong. Born in October 1948, he joined the CPC in December 1979 and entered the workforce in January 1969. In January 1982 he graduated from the Mechanical Engineering Department of Guangxi University where he majored in casting technology and equipment. He has a bachelor's degree in engineering and is a senior engineer.	0	0	0		
+CNS_CMN_20070129.0187	0	40020.000	40029.900				Since 1998 Lin Guoqiang has been mayor of Nanning, secretary of the party group in the municipal government, and deputy to the ninth and tenth National People's Congress.	0	0	0		
+CNS_CMN_20070129.0187	0	50010.000	50019.900				In addition at today's meeting Wang Huizhen, Xing Kuishan, Li Junhao, Wu Weixin, Luo Yi, and Zhao Qiang were elected as additional permanent members of the standing committee of the Ninth Guangxi CPPCC Committee.	0	0	0		

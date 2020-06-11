@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0060	0	0.0	1000.0	speaker	unknown	unknown	A U.S. official, who requested to be anonymous, told reporters, "Rood met with ElBaradei this morning."	0	0	0		

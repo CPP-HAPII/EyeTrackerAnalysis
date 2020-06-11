@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1611	0	400.0	500.0	speaker	unknown	unknown	近年来，随着教育事业的迅速发展，学校高层建筑物不断增多，信息技术的应用也日益普及，但由于部分学校，尤其是农村和偏远山区的学校防雷意识淡薄，一些新建、改建和扩建的建筑物未按要求进行防雷装置的设计审核、竣工验收，对已有防雷装置未进行定期检测，对存在的防雷隐患不能及时整改，导致雷击造成师生伤亡和经济损失的事故时有发生。	0	0	0		
+CNS_CMN_20080704.1611	0	500.0	600.0	speaker	unknown	unknown	据有关负责人介绍，中国气象局组织开展的中小学校雷电灾害防御工程建设，主要面向全国雷电灾害严重的经济欠发达地区，重点帮助地处雷电灾害频发区，且无雷电防御措施或雷电防御措施极不完善的农村中小学校，新建或完善相关防雷设施，并加强雷电科普知识的宣传。	0	0	0		

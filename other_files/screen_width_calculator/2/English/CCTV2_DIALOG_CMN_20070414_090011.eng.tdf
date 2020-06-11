@@ -1,0 +1,799 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 113.20399999999999, 823.42600000000004, 957.10500000000002, 1824.0740000000001, 1852.8710000000001, 1980.4000000000001, 2611.0239999999999, 2718.4110000000001, 3353.3240000000001, 9999999.0]
+CCTV2_DIALOG_CMN_20070414_090011	0	113.204	116.766	speaker#1	male	native	Okay, thanks for coming, and thanks for everyone for tuning in to our Dialogue today.	1	1	1	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	116.766	120.251	speaker#1	male	native	At this moment, uh, I've such a special dossier at hand.	1	1	2	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	120.251	125.861	speaker#1	male	native	In it is recorded a transnational acquisition which is of special significance to China's auto industry.	1	1	3	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	125.861	138.252	speaker#1	male	native	At that time, ah, the assets of <foreign lang="English"> MG </foreign> MG Rover, a century-old British auto maker, appraised at nearly 10 billion yuan, were successfully bid by Chinese in the end, uh, for less than 800 million RMB.	1	1	4	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	138.252	148.174	speaker#1	male	native	Although more than two years have passed since this transnational acquisition, many speculations or questions on this acquisition itself have never quieted down.	1	1	6	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	148.174	151.439	speaker#1	male	native	And we have also noticed that the parties concerned have always kept silence.	1	1	8	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	151.439	154.986	speaker#1	male	native	On today's Dialogue program, he will break the silence.	1	1	9	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	154.986	164.111	speaker#1	male	native	Today the honorable guest we've invited for everyone is none other than Mr. Wang Haoliang, the board chairman of Nanjing Automobile (Group) Corporation and the behind-the-scenes operator of this +transnational acquisition.	1	1	10	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	164.111	169.049	speaker#1	male	native	Together with us, he will review many thrilling moments during the process of this acquisition.	1	1	11	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	169.049	172.565	speaker#1	male	native	Now, uh, let's welcome the honorable guest to our today's Dialogue program with applause.	1	1	12	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	172.565	173.721	speaker#1	male	native	Welcome, Wang Haoliang.	1	1	13	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	181.409	182.209	speaker#1	male	native	Hello, Mr. Wang.	1	1	15	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	182.209	182.912	Wang_haoliang	male	native	Hello, host.	1	2	16	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	182.912	185.529	speaker#1	male	native	Welcome you for coming to our Dialogue.	1	3	17	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	185.529	190.584	speaker#1	male	native	Today we want to invite you, ah, to open this special dossier together with us.	1	3	18	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	190.584	195.865	speaker#1	male	native	First, we will take out a photo of special significance from the dossier.	1	3	19	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	196.724	200.130	speaker#1	male	native	I think this moment must be extremely familiar to you.	1	3	21	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	201.084	225.130	Wang_haoliang	male	native	Ah, this photo was in '05. Before dawn on July 23 Beijing time, a historic moment that our negotiation delegation, sent by our Nanjing Automobile Group to bid for the assets of the British company <foreign lang="English"> MG </foreign> MG Rover, and its Powertrain Ltd, successfully signed the deal.	1	4	23	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	204.328	204.687	speaker#1	male	native	Uh-huh.	1	5	24	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	207.953	208.484	speaker#1	male	native	Oh.	1	7	26	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	215.243	215.512	speaker#1	male	native	Uh-huh.	1	9	28	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	225.130	234.285	speaker#1	male	native	So when this historic moment again appeared in front of our eyes, uh, I really want to know when you learned back then that they had successfully signed, how did you feel?	1	11	30	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	234.285	237.144	Wang_haoliang	male	native	I felt very excited at that moment.	1	12	32	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	237.144	237.566	speaker#1	male	native	Uh-huh.	1	13	33	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	237.566	242.785	Wang_haoliang	male	native	I thought of this thing, because <foreign lang="English"> MG </foreign> MG Rover was not strange to NAC.	1	14	34	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	242.785	243.192	speaker#1	male	native	Uh-huh.	1	15	37	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	243.192	249.535	Wang_haoliang	male	native	Just like a pair of lovers desperately in love, finally achieving the right outcome today.	1	16	38	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	246.145	247.160	speaker#1	male	native	Ah.	1	17	39	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	249.535	250.051	speaker#1	male	native	Uh-huh.	1	19	41	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	250.051	255.082	Wang_haoliang	male	native	And along the way we had a lot of rivals, and each stronger than I was.	1	20	42	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	260.003	263.516	speaker#1	male	native	Just now you said there were many opponents on this road to love.	1	21	44	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	263.516	271.238	speaker#1	male	native	In fact I also know, ha, that during this entire process of acquisition there could be many unforgettable moments, which we can use such words as "thrilling" to describe.	1	21	45	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	271.238	276.066	speaker#1	male	native	Perhaps in the process of the transnational acquisition, there were many inside stories unknown to all of us.	1	21	47	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	276.066	282.893	speaker#1	male	native	In any case we've invited you to the studio today, and would like to ask you to decipher this special dossier together with us, how about that?	1	21	48	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	282.893	283.402	Wang_haoliang	male	native	Okay.	1	22	49	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	283.402	284.564	speaker#1	male	native	Okay, thank you.	1	23	50	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	284.564	285.371	Wang_haoliang	male	native	Thanks.	1	24	52	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	284.564	285.371	speaker#1	male	native	Hey, please sit down.	1	24	51	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	292.303	300.458	speaker#1	male	native	Just now everyone must have noticed that when we took out that photo of historic significance, our Mr. Wang Haoliang had an especially clear memory of the time.	1	25	54	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	300.458	303.302	speaker#1	male	native	Such a year, such a month, such a day, such a moment.	1	25	55	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	303.302	310.084	speaker#1	male	native	Well, today in our special dossier there are also a few calendars regarding the acquisition process at that time.	1	25	56	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	310.084	318.866	speaker#1	male	native	I especially want to give this calendar to you and ask you to circle a few dates for us that you consider the most worthy of memory, perhaps the most thrilling days, could you?	1	25	57	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	318.866	319.257	speaker#1	male	native	Here.	1	25	59	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	319.257	319.554	Wang_haoliang	male	native	Okay.	1	26	60	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	325.956	329.479	speaker#1	male	native	June 22. Uh-huh.	1	27	62	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	329.479	330.369	Wang_haoliang	male	native	Three days in June.	1	28	65	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	330.369	332.974	speaker#1	male	native	June 29, okay, then July.	1	29	66	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	332.974	337.793	Wang_haoliang	male	native	July. July. 14.	1	30	67	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	336.246	338.454	speaker#1	male	native	July, ah, Okay.	1	31	70	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	338.454	339.267	Wang_haoliang	male	native	Uh-huh. This.	1	33	73	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	338.813	342.577	speaker#1	male	native	Here. Here, give it to me, ha. Thanks.	1	34	74	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	344.638	350.045	speaker#1	male	native	Okay, Mr. Wang, let's start with the first day that you just marked on these calendars, is that okay?	1	35	79	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	350.045	350.530	Wang_haoliang	male	native	Okay.	1	36	80	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	350.045	353.834	speaker#1	male	native	This day was June 7, 2005.	1	36	81	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	356.750	362.886	speaker#2	male	native	On April 8, 2005, the bankruptcy case of <foreign lang="English"> MG </foreign> MG Rover, the time-honored British auto manufacturer, surfaced.	1	38	84	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	362.886	368.887	speaker#2	male	native	The assets were appraised at about 10 billion RMB, and the British government designated PricewaterhouseCoopers to hold an auction.	1	38	85	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	369.496	378.591	speaker#2	male	native	As soon as the news came out, it drew the eager attention of the auto giants around the world. One after another they sent their strong bidding teams consisting of 50 to 100 people.	1	38	87	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	379.420	383.884	speaker#2	male	native	China's Nanjing Automobile Group also joined them and was determined to succeed.	1	38	89	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	383.884	399.073	speaker#2	male	native	If this bidding succeeded, +it would become the first case of overseas acquisition for Chinese corporations and would smoothly secure the high-level permit to enter the international auto market, thereby greatly enhancing NAC's strength and position in China's automobile competition lineup.	1	38	90	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	400.073	405.918	speaker#2	male	native	However, whether NAC had the strength to acquire the veteran British auto corporation gave rise to widespread doubts at that time.	1	38	93	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	405.918	414.808	speaker#2	male	native	From its capital to technology, to capacity, especially the bidding task force sent by NAC consisted of only five people.	1	38	94	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	418.549	421.472	speaker#1	male	native	Chairman Wang, just now, I feel it was too much a surprise to all of us.	1	39	96	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	421.472	427.285	speaker#1	male	native	Other people all sent huge delegations of dozens of people to Britain; why did you only send a five-person delegation?	1	39	97	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	427.285	436.676	Wang_haoliang	male	native	On June 6, the high-level leadership group at NAC held a meeting and decided to participate in this worldwide international bidding.	1	40	98	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	436.676	437.223	speaker#1	male	native	Uh-huh.	1	41	99	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	438.270	448.958	Wang_haoliang	male	native	And the next morning when I went to work, I was given a, a name list of twenty-six people who were to be sent by NAC on a delegation for this mission.	1	42	101	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	448.958	451.394	speaker#1	male	native	At first we also prepared to have twenty-six people.	1	43	102	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	450.623	451.394	Wang_haoliang	male	native	A name list of twenty-six.	1	44	104	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	451.394	451.816	speaker#1	male	native	Uh-huh.	1	45	105	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	451.816	456.207	Wang_haoliang	male	native	They also submitted an introduction about the British company <foreign lang="English"> MG </foreign> MG Rover,	1	46	106	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	456.207	463.189	Wang_haoliang	male	native	and the information, data about some competing companies that might participate in the bidding at that time.	1	46	107	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	464.330	468.065	Wang_haoliang	male	native	So they thought that a team of powerful lineup must be sent.	1	46	109	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	468.065	477.143	Wang_haoliang	male	native	Participating in internal biddings at our NAC, we felt very clearly that the key was careful operation and determination to succeed.	1	46	110	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	477.143	477.658	speaker#1	male	native	Uh-huh.	1	47	113	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	479.281	490.452	Wang_haoliang	male	native	But the situation at that time, at that time, the British media's coverage of this issue, the extensive coverage was not very beneficial to us, NAC.	1	48	115	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	491.514	501.364	Wang_haoliang	male	native	They believed that NAC did not have the actual power, NAC did not have the strength to bid, believing that NAC was (()); some rather sharply described, rather sarcastically said that NAC was a swindler.	1	48	119	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	501.903	503.998	Wang_haoliang	male	native	So I thought we should not send a powerful lineup.	1	48	122	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	503.998	504.513	speaker#1	male	native	Uh-huh.	1	49	123	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	504.513	511.153	Wang_haoliang	male	native	My actual strength did not necessarily have to be demonstrated in head-on confrontation; I called in the general manager.	1	50	124	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	511.153	524.263	Wang_haoliang	male	native	I said if we also sent twenty-six people, such a powerful lineup, on this mission, people may think you, NAC, are betting everything on a single bid.	1	50	125	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	525.700	532.653	Wang_haoliang	male	native	People may think that since that's the case, then everyone will bid high, reciprocating price raises and competing with one another.	1	50	129	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	533.231	541.376	Wang_haoliang	male	native	But in reality very few Chinese corporations participating in international biddings are experienced; all are doing it for the first time.	1	50	131	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	541.376	541.954	speaker#1	male	native	Uh-huh.	1	51	132	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	543.391	549.844	Wang_haoliang	male	native	So I believed that our strength did not have to be demonstrated by the sheer number of people.	1	52	134	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	549.844	550.453	speaker#1	male	native	Uh-huh.	1	53	135	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	550.453	552.687	Wang_haoliang	male	native	It did not have to be demonstrated on the frontlines.	1	54	136	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	553.624	561.416	Wang_haoliang	male	native	I thought we should set out for the mission in a low key manner and show people our weakness.	1	54	138	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	561.416	561.838	speaker#1	male	native	Uh-huh.	1	55	139	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	561.838	565.571	Wang_haoliang	male	native	Since everyone believed NAC was weak, uh, then I might as well be weak all the way.	1	56	140	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	563.884	564.337	speaker#1	male	native	Uh-huh.	1	57	141	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	565.571	566.312	speaker#1	male	native	Weak all the way.	1	59	143	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	566.312	566.759	Wang_haoliang	male	native	Uh-huh.	1	60	144	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	566.759	568.259	speaker#1	male	native	How did your opponents react at that time?	1	61	145	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	566.759	579.887	Wang_haoliang	male	native	First, uh, first, the British media reported at that time that setting out on the mission in a low key manner, there is little chance for NAC to succeed.	1	61	146	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	572.790	573.227	speaker#1	male	native	Uh-huh,	1	63	150	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	579.887	580.512	speaker#1	male	native	Uh-huh.	1	65	153	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	580.512	582.277	Wang_haoliang	male	native	This was a, one report.	1	66	154	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	582.277	582.746	speaker#1	male	native	Uh-huh.	1	67	155	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	582.746	587.449	Wang_haoliang	male	native	Second, NAC's small five-person team, small team arrived in London.	1	68	156	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	588.371	592.449	Wang_haoliang	male	native	They basically did not treat you NAC -- you don't have the actual strength, right?	1	68	158	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	592.449	592.902	speaker#1	male	native	Uh-huh.	1	69	159	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	592.902	605.887	Wang_haoliang	male	native	Right? And in the entire, entire, entire ((pw)) negotiation process as well, um, because there were quite a lot of competitors, uh, they also thought NAC was just walking through it.	1	70	160	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	602.335	602.637	speaker#1	male	native	Uh-huh.	1	71	161	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	605.887	606.200	speaker#1	male	native	Uh-huh.	1	73	163	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	606.200	608.731	Wang_haoliang	male	native	It wouldn't have much actual strength, either.	1	74	164	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	608.731	611.869	speaker#1	male	native	They believed that Nanjing Automobile was mainly interested in participation, never expecting that we were determined to succeed.	1	75	165	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	611.869	612.545	Wang_haoliang	male	native	Ah, yes, yes.	1	76	166	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	612.545	612.885	Wang_haoliang	male	native	Hey.	1	77	168	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	612.545	612.885	speaker#1	male	native	Ah.	1	77	167	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	612.885	614.658	Wang_haoliang	male	native	Wouldn't offer any high price either.	1	78	169	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	614.658	615.205	speaker#1	male	native	Ah.	1	79	170	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	615.205	623.082	Wang_haoliang	male	native	Right? ((pw)) At most you NAC could only bid for some 30-plus million pounds.	1	80	171	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	623.082	623.442	speaker#1	male	native	Uh-huh.	1	81	172	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	623.442	629.480	Wang_haoliang	male	native	Under such circumstances, I thought that first, strategically, we, we had succeeded.	1	82	173	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	625.536	626.051	speaker#1	male	native	Uh-huh.	1	83	174	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	627.807	628.464	speaker#1	male	native	Uh-huh.	1	85	176	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	629.480	634.230	speaker#1	male	native	Would you feel secretly happy at that time, thinking that wow, the enemy had fallen for the trick after all?	1	87	178	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	634.230	635.000	Wang_haoliang	male	native	"There can never be too much deception in war," right?	1	88	179	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	635.000	635.988	Wang_haoliang	male	native	The science of war, right?	1	89	181	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	635.000	635.988	speaker#1	male	native	"There can never be too much deception in war."	1	89	180	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	635.988	636.745	Wang_haoliang	male	native	"There can never be too much deception in war," right?	1	90	182	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	636.745	637.151	speaker#1	male	native	Uh-huh.	1	91	183	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	637.151	644.259	Wang_haoliang	male	native	Under such circumstances, I thought, first we had sent a total of five people. (())	1	92	184	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	642.244	646.655	speaker#1	male	native	Come, let's get acquainted with this pre-mission uh, five-person small team, ah.	1	93	185	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	644.259	646.655	Wang_haoliang	male	native	Hey, (()) right.	1	93	188	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	646.655	647.905	speaker#1	male	native	Come on, give us an introduction one by one.	1	94	189	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	648.452	652.545	Wang_haoliang	male	native	The first one is the team leader, that's our Mr. Wang Yaoping.	1	95	191	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	652.545	653.734	speaker#1	male	native	Come, Mr. Wang.	1	96	192	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	656.316	660.535	Wang_haoliang	male	native	He is a director of our Group and also the general legal consultant.	1	97	194	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	660.535	665.861	Wang_haoliang	male	native	He specializes in corporate management, in particular, in corporate financial management and corporate legal affairs.	1	97	195	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	665.861	666.533	speaker#1	male	native	Uh-huh. This.	1	98	196	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	666.533	674.267	Wang_haoliang	male	native	In addition, this is our Mr. He Xiaoqing. Specializing in, he specializes in international affairs.	1	99	197	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	670.876	672.126	speaker#1	male	native	What is Mr. He in charge of?	1	100	199	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	674.267	675.735	speaker#1	male	native	International affairs. Uh-huh.	1	102	202	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	674.936	676.470	Wang_haoliang	male	native	Hey, in this area he is experienced.	1	103	204	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	676.470	677.830	speaker#1	male	native	Is he a top negotiator?	1	105	206	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	677.830	678.986	Wang_haoliang	male	native	Hey, he should be.	1	106	207	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	678.986	679.783	speaker#1	male	native	Should be, ah.	1	107	208	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	679.783	680.221	speaker#1	male	native	Come.	1	107	209	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	680.221	681.268	speaker#1	male	native	Any more?	1	108	210	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	680.221	682.378	Wang_haoliang	male	native	Another one, our Mr. Zhang Xiliang.	1	108	211	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	682.378	682.722	speaker#1	male	native	Uh-huh.	1	110	213	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	682.722	690.237	Wang_haoliang	male	native	He is one of our experts in auto manufacturing equipment and advanced technology research.	1	111	214	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	690.237	690.737	speaker#1	male	native	Uh-huh.	1	112	215	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	691.284	694.671	Wang_haoliang	male	native	There's also our attorney Ding Song, ah.	1	113	217	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	694.671	695.296	speaker#1	male	native	Attorney.	1	114	218	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	695.296	695.780	Wang_haoliang	male	native	Attorney.	1	115	219	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	697.921	701.906	speaker#1	male	native	Among them why would there be two people who are very well versed in law?	1	116	221	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	701.906	707.625	speaker#1	male	native	First, team leader Mr. Wang is already very strong in law, ah, a legal expert.	1	116	222	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	707.625	709.313	speaker#1	male	native	So why did it need to bring along an attorney?	1	116	223	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	709.313	713.782	Wang_haoliang	male	native	Because I thought that we were going to make an international bidding, and the greatest risk was a legal risk.	1	117	224	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	713.782	714.220	speaker#1	male	native	Uh-huh.	1	118	225	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	714.220	716.986	Wang_haoliang	male	native	Were we familiar with the British law?	1	119	226	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	716.986	717.330	speaker#1	male	native	Uh-huh.	1	120	227	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	717.330	718.092	Wang_haoliang	male	native	Very hard to say.	1	121	228	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	718.092	720.237	Wang_haoliang	male	native	Putting more emphasis on this area (()).	1	122	229	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	718.092	720.237	speaker#1	male	native	So more emphasis should be needed.	1	122	230	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	720.237	720.596	speaker#1	male	native	Uh-huh.	1	123	231	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	720.596	724.971	Wang_haoliang	male	native	Another was our young interpreter Miss Xu Yan.	1	124	232	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	724.971	726.252	speaker#1	male	native	Ah, Miss Xu.	1	125	233	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	728.754	734.409	speaker#1	male	native	Leader Wang, ah, the head of the five-person team, under what circumstances did you hold the last meeting before setting out on the mission?	1	125	235	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	734.940	737.627	Wang_yaoping	male	native	Before we set out on the mission, it was before we got on the plane.	1	126	238	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	737.627	740.045	speaker#1	male	native	Before boarding the plane, the five-person team held another meeting.	1	127	239	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	740.045	740.389	Wang_yaoping	male	native	Yeah.	1	128	240	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	740.389	741.983	speaker#1	male	native	What was the main topic of discussion at the time?	1	129	241	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	741.983	747.003	Wang_yaoping	male	native	Just to say, these legal documents we were bringing along, ah, whether these materials were all complete.	1	130	242	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	747.003	747.345	speaker#1	male	native	Uh-huh.	1	131	243	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	747.345	754.016	Wang_yaoping	male	native	Right? We were going there for a tough fight, whether everyone was sufficiently mentally prepared, and ready to go through hardship as soon as we arrived there.	1	132	244	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	754.016	755.172	speaker#1	male	native	Uh-huh.	1	133	245	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	755.172	758.063	Wang_yaoping	male	native	As a matter of fact, we ate sandwiches for four, more than forty days there.	1	134	246	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	758.063	758.500	speaker#1	male	native	Uh-huh.	1	135	247	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	759.062	761.718	speaker#1	male	native	Did your stomach suffer, ah? Sandwiches for more than forty days.	1	135	249	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	761.718	767.717	speaker#1	male	native	{laugh} Ah, actually I thought, uh, perhaps you had many thoughts in your mind, uh, before starting out on the mission.	1	135	250	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	767.717	775.092	speaker#1	male	native	But all in one word, if today at this place of our studio, that is, uh, all staff at NAC were seeing you off on your mission, what would you want to say to them most?	1	135	251	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	775.092	778.403	Wang_yaoping	male	native	What I would want to say is that you please rest assured, we will try our best.	1	136	253	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	778.403	779.962	speaker#1	male	native	Uh-huh, okay, thanks.	1	137	254	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	779.962	784.614	speaker#1	male	native	Now please return to your seats, everyone. We'll see how you tried your best at the frontlines in a minute.	1	137	255	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	784.614	785.801	speaker#1	male	native	Okay, thanks to the five-person team.	1	137	256	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	790.988	794.051	speaker#1	male	native	Now let's take a look at the calendar where you made the circles.	1	137	258	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	794.051	799.113	speaker#1	male	native	Uh, the second date in June, uh, 2005, that is, June 22.	1	137	259	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	799.113	804.520	speaker#2	male	native	June 22, 2005 was the final bidding deadline given by <foreign lang="English"> MG </foreign> MG Rover to the bidders.	1	138	260	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	804.520	807.348	speaker#2	male	native	At that time NAC was faced with two challenges.	1	138	261	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	807.348	812.535	speaker#2	male	native	First, too low a bid would be eliminated, while too high a bid would be unsustainable to NAC.	1	138	262	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	812.535	823.426	speaker#2	male	native	Second, in order to avoid the aftereffects of the acquisition, it must have full control of the information in more than ten major categories and over 100 subcategories such as labor, land, debts, environmental protection, and intellectual properties.	1	138	263	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	957.105	964.105	speaker#1	male	native	Chairman Wang, June 22 was the time we should make our bid. I don't know what kind of mental state you were in at that moment.	3	140	265	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	964.105	974.231	Wang_haoliang	male	native	By that time, I, as a decision maker, my mind, on the contrary, became -- I felt very nervous.	3	141	266	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	974.231	975.137	speaker#1	male	native	Nervous.	3	142	267	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	975.137	979.511	Wang_haoliang	male	native	Also, there was, this, this, this, there was fear.	3	143	268	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	980.714	982.823	speaker#1	male	native	On the night of June 21 you, couldn't go to sleep.	3	144	270	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	981.985	985.602	Wang_haoliang	male	native	Hey, that was right, those days I basically did not want to, and those days I basically couldn't fall asleep.	3	145	272	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	985.602	988.603	speaker#1	male	native	on the 20th, 19th, 18th, (()) sleepless for days in a row.	3	147	274	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	986.607	988.603	Wang_haoliang	male	native	{laugh}(()) Basically couldn't fall asleep.	3	148	276	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	988.603	992.790	Wang_haoliang	male	native	Don't think that they were at the frontlines, actually I was more nervous here than they.	3	149	277	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	990.243	990.504	speaker#1	male	native	Uh-huh.	3	150	278	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	992.790	993.352	Wang_haoliang	male	native	{laugh}	3	152	281	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	992.790	993.352	speaker#1	male	native	{laugh}	3	152	280	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	993.352	993.803	Wang_haoliang	male	native	(())	3	152	283	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	993.352	995.128	speaker#1	male	native	At that time, what were you nervous about? Thinking about some problems?	3	152	282	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	995.128	995.816	Wang_haoliang	male	native	What were you thinking about?	3	154	285	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	995.816	1008.426	Wang_haoliang	male	native	That was, that is, we, um, I wasn't worried about whether the assets were worthwhile or not. If there was no value, there wouldn't be so many companies coming over to fight for it internationally.	3	154	286	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1008.426	1008.941	speaker#1	male	native	Uh-huh.	3	155	287	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1008.941	1010.613	Wang_haoliang	male	native	Right? I wasn't worried about that.	3	156	288	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1010.613	1011.129	speaker#1	male	native	Uh-huh.	3	157	289	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1012.036	1017.380	Wang_haoliang	male	native	What I was most worried about was that once an action was taken, there would be no way to back out.	3	158	291	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1014.661	1015.114	speaker#1	male	native	Uh-huh.	3	159	292	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1017.380	1018.317	speaker#1	male	native	No way to back out.	3	161	295	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1018.317	1018.910	Wang_haoliang	male	native	No way to back out.	3	162	296	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1018.910	1019.613	speaker#1	male	native	Uh-huh.	3	163	297	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1019.613	1023.565	Wang_haoliang	male	native	How many aftereffects would there be once the action was taken, did you have any clear idea?	3	164	298	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1024.346	1039.675	Wang_haoliang	male	native	According to the British law, in the bidding, PriceWaterhouseCoopers said, any of you bidding corporations, for the additional conditions proposed, according to the British law, there is no obligation or responsibility to give you any commitment.	3	164	300	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1025.893	1026.329	speaker#1	male	native	Uh-huh.	3	165	301	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1033.752	1034.050	speaker#1	male	native	Uh-huh.	3	167	303	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1040.222	1040.754	speaker#1	male	native	Uh-huh.	3	169	306	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1040.754	1046.659	Wang_haoliang	male	native	What did that mean? It means that if you, you want to bid, you may probably get yourself trapped into a bottomless abyss.	3	170	307	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1046.659	1047.159	speaker#1	male	native	Uh-huh.	3	171	308	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1047.674	1048.955	Wang_haoliang	male	native	This was what I most feared.	3	172	310	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1048.955	1055.079	speaker#1	male	native	Faced with the imminent Uh, moment to make the decision, you thought there might be many aftereffects.	3	173	311	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1051.329	1051.958	Wang_haoliang	male	native	Right.	3	174	313	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1055.079	1055.273	Wang_haoliang	male	native	Right.	3	176	315	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1055.273	1058.007	speaker#1	male	native	When you contacted the frontlines, what questions were most asked?	3	177	316	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1058.007	1061.959	Wang_haoliang	male	native	When I contacted the frontlines, what I asked most was that I asked our team leader.	3	178	317	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1061.959	1062.537	speaker#1	male	native	Asked the team leader.	3	179	318	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1062.537	1063.568	Wang_haoliang	male	native	Asked Mr. Wang.	3	180	319	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1062.537	1063.568	speaker#1	male	native	Asked Mr. Wang.	3	180	320	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1063.568	1064.255	speaker#1	male	native	What did you ask him?	3	181	321	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1064.255	1069.488	Wang_haoliang	male	native	I said that I gave you ten questions before you started out on the mission. How well do you understand them now for me?	3	182	322	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1069.488	1072.519	Wang_haoliang	male	native	I often called Wang Yaoping, uh, about these ten questions.	3	182	323	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1072.519	1072.988	speaker#1	male	native	Uh-huh.	3	183	324	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1073.707	1088.642	Wang_haoliang	male	native	I said, you, regarding <foreign lang="English"> MG </foreign> MG Rover company, its actual assets, land, finance, environmental protection, labor, more than ten major categories in these respects, and something like more than 100 pieces of information, you must know them extremely well.	3	184	326	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1089.501	1090.595	Wang_haoliang	male	native	This is your responsibility.	3	184	329	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1091.470	1099.351	Wang_haoliang	male	native	You want me to make the decision, and my decision is based on your knowledge of yourself as well as of your opponents.	3	184	331	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1100.492	1108.398	Wang_haoliang	male	native	Then he said there was no problem. They had spent 168 hours in seven days and got it completely clear.	3	184	333	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1108.398	1114.194	speaker#1	male	native	Uh-huh. They had told You said that in 168 hours we had already got these questions completely clear.	3	185	334	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1109.452	1109.946	Wang_haoliang	male	native	(())	3	186	336	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1112.102	1112.343	Wang_haoliang	male	native	Uh-huh.	3	188	339	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1113.847	1114.194	Wang_haoliang	male	native	Right.	3	190	341	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1114.194	1115.506	speaker#1	male	native	Well, did you immediately feel assured?	3	191	343	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1115.506	1118.475	Wang_haoliang	male	native	I was still, still not completely assured.	3	192	344	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1118.475	1118.960	speaker#1	male	native	Uh-huh.	3	193	345	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1118.960	1125.772	He_xiaoqing	male	native	Ah, in seven days, this (()) investigation, as many as ten projects, more than ten major categories, over 100 short categories, we did complete it.	3	194	346	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1125.772	1126.116	speaker#1	male	native	Uh-huh.	3	195	347	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1126.116	1130.211	He_xiaoqing	male	native	In fact we also understood that back home they might still feel somewhat worried about the work of our team at the frontlines.	3	196	348	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1130.211	1130.601	speaker#1	male	native	Uh-huh.	3	197	349	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1130.601	1132.445	He_xiaoqing	male	native	The questions were all answered one by one.	3	198	350	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1132.445	1136.586	He_xiaoqing	male	native	So, hesitating whether we should really make the bid when this was the time to make the bid.	3	198	351	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1136.586	1136.977	speaker#1	male	native	Uh-huh.	3	199	352	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1136.977	1141.615	He_xiaoqing	male	native	Uh, we also knew that once NAC made the bid, uh, it would be an arrow shot with no way of coming back.	3	200	353	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1141.615	1141.947	speaker#1	male	native	Uh-huh.	3	201	354	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1141.947	1144.619	He_xiaoqing	male	native	In the end, uh, we decided, uh, to tie a feather to this arrow.	3	202	355	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1144.619	1150.447	He_xiaoqing	male	native	This feather was that the five of us people said, made a statement, making a statement to the board chairman that we would pledge the full personal assets of the five people.	3	202	356	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1150.447	1150.900	speaker#1	male	native	Uh-huh.	3	203	357	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1150.900	1153.713	He_xiaoqing	male	native	If a problem occurred in the end, we would pledge our personal assets.	3	204	358	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1153.713	1154.885	He_xiaoqing	male	native	Although -- why was it a feather?	3	204	359	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1154.885	1158.588	He_xiaoqing	male	native	Compared with this huge asset, the assets of us five people were really a feather.	3	204	360	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1158.588	1162.291	speaker#1	male	native	Uh-huh. But at least it showed your determination and attitude, ha.	3	205	361	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1162.291	1166.223	He_xiaoqing	male	native	Showed (()) showed our determination and showed our profound understanding of this matter.	3	206	362	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1166.223	1166.483	speaker#1	male	native	Uh-huh.	3	207	364	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1166.223	1167.369	He_xiaoqing	male	native	We... were indeed confident.	3	207	363	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1167.369	1168.884	speaker#1	male	native	Did it make you feel assured this time?	3	209	366	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1168.884	1171.806	Wang_haoliang	male	native	This time, uh, I was still not assured.	3	210	367	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1171.806	1174.899	speaker#1	male	native	Still not assured, you're still not assured even others had pledged their personal assets.	3	211	368	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1174.899	1176.326	speaker#1	male	native	What did you want to do? {laugh}	3	212	369	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1174.899	1181.201	Wang_haoliang	male	native	him If it was bungled, it wouldn't help that you dispose them, dispose of their personal assets.	3	212	370	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1181.201	1182.542	speaker#1	male	native	Uh-huh.	3	215	374	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1181.201	1187.122	Wang_haoliang	male	native	This {laugh} this, the review in this review and approval was (()) he was just expressing a kind of determination, ah.	3	215	373	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1187.122	1187.481	speaker#1	male	native	Uh-huh.	3	217	376	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1187.481	1193.591	Wang_haoliang	male	native	They also, also called me, ((saying in tears)), now it's up to you, board chairman, to make up your mind.	3	218	377	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1193.591	1194.137	speaker#1	male	native	Uh-huh.	3	219	378	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1194.137	1195.340	Wang_haoliang	male	native	They were prodding me into action.	3	220	379	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1195.340	1195.871	speaker#1	male	native	Uh-huh.	3	221	380	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1197.642	1201.766	Wang_haoliang	male	native	Before I finally made up my mind, I held a board of directors meeting,	3	222	382	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1201.766	1206.250	speaker#1	male	native	Uh-huh. calling on everyone to put their personal assets as wager. {laugh}	3	223	383	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1204.700	1211.556	Wang_haoliang	male	native	The board of directors would not -- Um, analyze the situation clearly, because it would be the last shot, bidding.	3	224	387	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1211.556	1211.963	speaker#1	male	native	Uh-huh.	3	226	391	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1212.525	1217.963	Wang_haoliang	male	native	That day the board of directors was unusually unanimous and in the end every director signed their name.	3	227	393	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1217.963	1218.619	speaker#1	male	native	Uh-huh.	3	228	394	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1219.619	1223.541	Wang_haoliang	male	native	If it failed, all the people who signed their names would share the responsibility.	3	229	396	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1223.541	1224.291	speaker#1	male	native	Uh-huh.	3	230	397	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1225.556	1231.572	Wang_haoliang	male	native	Under such circumstances, we instructed them to participate in the bidding without thinking of turning back.	3	231	399	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1231.572	1232.057	speaker#1	male	native	Uh-huh.	3	232	400	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1232.057	1232.682	Wang_haoliang	male	native	Bidding.	3	233	401	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1232.682	1234.276	speaker#1	male	native	Well, I want to ask Mr. Wang Yaoping.	3	234	402	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1234.276	1234.692	Wang_yaoping	male	native	(())	3	235	404	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1234.276	1241.868	speaker#1	male	native	When you did the investigation work, which one did you think was probably the most difficult to investigate, what issue was perhaps the fuzzy issue that was most difficult to get hold of?	3	235	403	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1241.868	1242.461	Wang_yaoping	male	native	It's labor.	3	237	406	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1242.461	1247.921	Wang_yaoping	male	native	Uh, according to the relevant British law, that is to say, uh, labor should follow capital.	3	237	407	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1247.921	1257.154	Wang_yaoping	male	native	That means that if you, you, as an individual, are going to take over this corporation, then you take over the corporation and its business, then you naturally should take over these people.	3	237	408	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1251.655	1251.951	speaker#1	male	native	Uh-huh.	3	238	409	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1257.154	1259.278	speaker#1	male	native	You should take the original over.	3	240	411	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1258.512	1259.278	Wang_yaoping	male	native	6,000-plus people	3	241	412	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1259.278	1261.683	speaker#1	male	native	Completely take over the 6,000-plus people. Uh-huh.	3	242	414	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1260.815	1263.434	Wang_yaoping	male	native	Take over, ah. This was impossible for us to accept.	3	243	416	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1263.434	1265.091	speaker#1	male	native	Uh, on the labor issue,	3	245	418	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1265.091	1271.450	speaker#1	male	native	Uh, the greatest point at odds that you had with the other party should be the issue of whether to take the 6,000 workers or not.	3	245	419	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1271.450	1273.013	speaker#1	male	native	What did the other party say at that time?	3	245	420	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1273.013	1276.920	Wang_yaoping	male	native	First, we had started fighting even before it had reached, reached the negotiation table.	3	246	421	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1276.920	1277.248	speaker#1	male	native	Uh-huh.	3	247	422	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1277.248	1284.998	Wang_yaoping	male	native	Because on the second day I went there, both Britain's chairman of the transportation workers' union and the chairman of Britain's Labour Party contacted us.	3	248	423	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1286.154	1289.216	Wang_yaoping	male	native	That is to say, how are you going to solve this labor issue?	3	248	426	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1289.216	1289.716	speaker#1	male	native	Uh-huh.	3	249	427	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1289.716	1296.418	Wang_yaoping	male	native	At the same time they were putting pressure on me, saying ((pw)) that you have another rival, who has promised to offer each worker, that is, the laid-off worker, ah, certain compensation.	3	250	428	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1296.418	1296.778	speaker#1	male	native	Uh-huh.	3	251	430	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1296.778	1302.513	Wang_yaoping	male	native	Well, my answer at the time, I answered like this, we've come to purchase assets; we've not come to purchase the corporation.	3	252	431	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1302.513	1302.888	speaker#1	male	native	Uh-huh.	3	253	433	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1302.888	1305.388	Wang_yaoping	male	native	So we'd absolutely give no promise to the workers.	3	254	434	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1305.388	1306.189	Wang_yaoping	male	native	if,	3	255	436	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1305.388	1307.107	speaker#1	male	native	Then you, did you break up in discord?	3	255	435	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1307.107	1311.981	Wang_yaoping	male	native	Uh, because he also gave us this as a condition to be negotiated slowly.	3	257	438	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1311.981	1312.450	speaker#1	male	native	Uh-huh.	3	258	439	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1312.450	1316.325	Wang_yaoping	male	native	Right? Well, he saw that there was no way we would accept it and then talked with us about how many you could accept.	3	259	440	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1316.325	1317.434	Wang_yaoping	male	native	Yes?	3	260	442	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1316.325	1318.231	speaker#1	male	native	For example, Five thousand.	3	260	441	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1317.434	1319.131	Wang_yaoping	male	native	For example, Hey.	3	260	444	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1318.231	1319.131	speaker#1	male	native	Four thousand.	3	260	445	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1319.131	1323.178	Wang_yaoping	male	native	Well, there were some opponents, right, who agreed to three thousand, hey, agreed to two thousand.	3	261	447	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1323.178	1328.255	Wang_yaoping	male	native	Uh, I answered very clearly, clearly, I said I hoped we could completely take it over.	3	261	448	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1328.255	1328.764	speaker#1	male	native	Uh-huh.	3	262	449	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1328.764	1333.076	Wang_yaoping	male	native	However, there is one clause; ultimately it would depend on how many cars you Britons will buy from me.	3	263	450	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1333.076	1333.701	speaker#1	male	native	Uh-huh.	3	264	451	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1333.701	1337.216	Wang_yaoping	male	native	The more cars you buy from me, then, the more workers I will employ.	3	265	452	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1337.216	1337.607	speaker#1	male	native	Uh-huh.	3	266	453	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1337.607	1340.748	Wang_yaoping	male	native	If you don't buy my cars, then I would basically have no way to restore production.	3	267	454	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1341.357	1348.748	speaker#1	male	native	I'd like to ask Mr. Wang Zhile, ha, in this transnational acquisition, this factor of labor, exactly how weighty a factor is it?	3	268	456	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1348.748	1352.733	Wang_zhile	male	native	After we went out, uh, we found there is indeed a labor issue, uh, in many countries.	3	269	458	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1352.733	1354.812	Wang_zhile	male	native	For example, we go look at a company in Germany.	3	269	459	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1354.812	1355.187	speaker#1	male	native	Uh-huh.	3	270	460	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1355.187	1360.453	Wang_zhile	male	native	To acquire it, the only requirement by the local German government was you solve the employment for me, you people cannot lay off our people.	3	271	461	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1360.453	1366.516	Wang_zhile	male	native	In addition, the level of rigorousness in Germany's labor protection is unimaginable for our country.	3	271	462	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1366.516	1374.218	Wang_zhile	male	native	The key is that there is a bottom line. They studied the other party's law, studied the other party's customary rules. and knew this could be done within the framework.	3	271	463	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1369.656	1370.046	speaker#1	male	native	Uh-huh.	3	272	464	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1371.937	1372.343	speaker#1	male	native	Uh-huh.	3	274	466	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1374.218	1374.734	speaker#1	male	native	Uh-huh.	3	276	468	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1374.734	1380.766	Wang_zhile	male	native	And when some agencies in our country go out for acquisition, he does not do such a careful investigation.	3	277	469	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1380.766	1381.047	speaker#1	male	native	Uh-huh.	3	278	470	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1381.047	1382.391	Wang_zhile	male	native	He does not know how the matter stands.	3	279	471	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1382.391	1388.387	Wang_zhile	male	native	I think that any country, when faced with this issue, +it will first ensure that the corporation can survive and develop.	3	279	472	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1388.387	1388.903	speaker#1	male	native	Uh-huh.	3	280	474	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1388.903	1392.934	Wang_zhile	male	native	It will first assume that this corporation itself is just a corporation, not a charity organization.	3	281	475	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1392.934	1398.684	Wang_zhile	male	native	So there must be some laws or provisions and customary rules that can ensure this.	3	281	476	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1399.263	1401.685	Lu_benfu	male	native	I think that the labor issue is the critical point for transnational acquisitions.	3	282	478	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1401.685	1402.049	speaker#1	male	native	Uh-huh.	3	283	479	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1402.049	1405.580	Lu_benfu	male	native	However, whether to reject the labor without exception, uh, this may depend on the situation.	3	284	480	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1405.580	1405.955	speaker#1	male	native	Uh-huh.	3	285	481	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1405.955	1409.918	Lu_benfu	male	native	Because the corporation must consider the government, labor, it is an interest party, right?	3	286	482	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1409.918	1412.063	Lu_benfu	male	native	Labor is the most important interest party.	3	286	483	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1412.063	1414.673	Lu_benfu	male	native	So I think the common practice should be like this.	3	286	484	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1414.673	1422.580	Lu_benfu	male	native	If you do not operate locally when you make the acquisition, for example, I make the acquisition and bring it back. I will no longer sell cars in Britain, then you can certainly reject, I don't want labor.	3	286	485	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1423.127	1430.518	Lu_benfu	male	native	If after your acquisition, you still want to establish your position in the British market, you may need a relatively good public opinion environment.	3	286	488	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1427.703	1428.158	speaker#1	male	native	Uh-huh.	3	287	489	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1430.518	1436.792	Lu_benfu	male	native	I think whether or not we should uniformly reject the labor issue, well, different matters require different considerations.	3	288	491	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1436.792	1437.323	speaker#1	male	native	Uh-huh.	3	289	492	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1437.323	1438.948	Lu_benfu	male	native	Uh, uh, this is the first.	3	290	493	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1438.948	1442.245	Lu_benfu	male	native	Second, just now I, right, the gentleman next to me, uh, wants to add something.	3	290	494	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1442.245	1446.556	Lu_benfu	male	native	Uh, labor in Europe has indeed very rigorous rules. It is very difficult, ah, to fire a person.	3	290	495	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1446.556	1447.259	speaker#1	male	native	Uh-huh.	3	291	496	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1447.259	1456.040	Lu_benfu	male	native	It is very difficult not only to fire a person -- I talked with our -- a company, a company that went to invest in Italy. He said it was very difficult for you even to criticize a person at a general meeting.	3	292	497	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1456.040	1456.540	speaker#1	male	native	Uh-huh.	3	293	500	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1456.540	1460.352	Lu_benfu	male	native	For example, this time, this year you were given a task of sales of five million, and he has only finished four million.	3	294	501	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1460.352	1464.227	Lu_benfu	male	native	You say you are holding a general meeting, for example, Mr. Chen Weihong did not finish his task, and I will criticize you on the spot at the meeting.	3	294	502	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1464.227	1467.321	Lu_benfu	male	native	That is called racial discrimination, ah, you can be sued for that kind of stuff.	3	294	503	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1467.321	1469.134	speaker#1	male	native	The labor union will protect my rights, ha.	3	295	504	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1468.049	1469.134	Lu_benfu	male	native	Yeah, yes, yes, yes.	3	296	506	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1469.134	1469.755	speaker#1	male	native	Ah.	3	297	508	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1469.134	1471.024	Lu_benfu	male	native	Although... the task was not completed; you couldn't even criticize him.	3	297	507	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1471.024	1471.493	speaker#1	male	native	Uh-huh.	3	299	510	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1471.493	1473.868	Wang_zhile	male	native	That involves self-esteem. So it is also very difficult to manage.	3	300	511	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1473.868	1474.314	speaker#1	male	native	Uh-huh.	3	301	512	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1474.314	1474.883	Lu_benfu	male	native	(())	3	302	514	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1474.314	1480.228	speaker#1	male	native	So, take back that sentence you just seemed to have used to criticize me, otherwise I'll file a complaint with the labor union, ah. {laugh}	3	302	513	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1476.949	1480.228	Wang_zhile	male	native	{laugh} Yes, yes. {laugh}	3	304	517	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1480.931	1485.759	Lan_shili	male	native	Uh, Chairman Wang, why were they, first so sensitive to this labor issue?	3	305	520	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1485.759	1496.209	Lan_shili	male	native	From my outsider's viewpoint, uh, because since you are acquiring his production line, acquiring its autos, I think we should, still need some Skilled jobs.	3	305	521	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1494.858	1496.209	speaker#1	male	native	skilled workers in this respect.	3	306	523	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1496.209	1497.896	Lan_shili	male	native	Or technical workers in this respect.	3	307	525	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1497.896	1505.645	Lan_shili	male	native	So if I didn't hear it wrong, if you insist that you don't want any single one, right? then I think this was somewhat, uh, hard to understand.	3	307	526	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1505.645	1507.177	Lan_shili	male	native	I don't know how Chairman Wang was thinking at that time.	3	307	528	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1507.177	1520.473	Wang_haoliang	male	native	It should be like this at that time, that is, as far as assets acquisition was concerned, then I did not want one single worker, otherwise I wouldn't want, I would fail to make the acquisition, ah.	3	308	529	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1521.380	1529.161	Wang_haoliang	male	native	Because at that time the outcome of this would actually be putting a very large burden on our corporation, indeed.	3	308	533	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1530.490	1543.483	Wang_haoliang	male	native	But now as our NAC is carrying out an international strategy, I have a base in Britain, I have a bridgehead in Britain, I have left an assembly line, a painting line, in Britain,	3	308	535	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1544.686	1554.702	Wang_haoliang	male	native	at the same time, I also have an R&D institute, I still need to recruit local technical staff and local (()) staff.	3	308	543	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1555.514	1561.492	Wang_haoliang	male	native	However, I think these are two different matters. You gave me this as a condition for negotiation back then, which was unacceptable to me.	3	308	547	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1561.492	1566.774	Lan_shili	male	native	Eh, if, for me, I think, uh, I want some of your people, but you have to reduce the acquisition price.	3	309	548	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1566.774	1572.649	Lan_shili	male	native	Actually, uh, this saves the trouble of recruiting another group of people. I think that Chairman Wang was saying that I don't want them and then will go and recruit another group of people.	3	309	549	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1572.649	1574.477	Lan_shili	male	native	I think this might save more hassle.	3	309	550	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1574.477	1575.727	Wang_yaoping	male	native	I, we also thought of that.	3	310	551	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1575.727	1576.475	speaker#1	male	native	Also thought of that.	3	311	552	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1576.475	1586.288	Wang_yaoping	male	native	Hey, because we thought that after our, uh, acquisition, ah, we'll, uh, build an assembly line in that place, ah, and make, make a, make it a base.	3	312	553	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1586.288	1591.570	Wang_yaoping	male	native	But exactly how many people I would recruit would be based on and confirmed by my business needs at that time.	3	312	555	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1591.570	1593.378	speaker#1	male	native	(())	3	313	557	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1591.570	1597.643	Wang_yaoping	male	native	And what kind of people I would recruit, hey, what kind of people I would recruit also must be determined by the needs at that time.	3	313	556	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1597.643	1604.486	Wang_yaoping	male	native	Then we thought that a, a, bankrupt, such a corporation that was going bankrupt, ah, must also have many internal problems.	3	314	559	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1605.190	1614.674	Wang_yaoping	male	native	So if I, without knowing clearly the situation, uh, promised to take some number of people, yet those people who stayed turned out not to be those you need at all, then it would only add a lot of trouble to you.	3	314	562	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1614.674	1615.237	speaker#1	male	native	Uh-huh.	3	315	565	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1615.237	1620.754	Wang_yaoping	male	native	So at that time we only made one commitment that during the course of acquisition I would, I would not want any single person, relevant personnel.	3	316	566	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1620.754	1624.223	speaker#1	male	native	This sounds like that the decision you, Chairman Wang, just made was actually risky, what do you think?	3	317	567	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1624.223	1626.801	Lan_shili	male	native	As a purchaser, I could (()) that number of people.	3	318	568	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1626.801	1630.456	Lan_shili	male	native	At first I didn't even know that you yourself have a production line in Britain.	3	318	569	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1630.456	1634.237	Lan_shili	male	native	And also there is a, this, this, this research center so there was a need for this group of people.	3	318	570	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1634.237	1635.627	Lan_shili	male	native	For example, I couldn't use 6,000 people.	3	318	571	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1635.627	1637.955	Lan_shili	male	native	I, for example, commit to 600 people or 1,000 people.	3	318	572	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1637.955	1644.158	Lan_shili	male	native	If I take people according to the need of the production line, then I promise, for example, I will recruit 1,000 or 600 people from these 6,000 people.	3	318	573	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1644.158	1644.544	speaker#1	male	native	Uh-huh.	3	319	575	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1644.544	1647.747	Lan_shili	male	native	So you -- I can recruit some of your people, but you must reduce the price.	3	320	576	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1647.747	1651.122	Lan_shili	male	native	I think this way we would not only not lose anything but probably would get some bargain.	3	320	577	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1651.122	1651.492	speaker#1	male	native	Uh-huh.	3	321	579	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1651.122	1660.387	Lan_shili	male	native	Your... purchase price was reduced, and that again saved, saved, saved you the trouble of ((pw)) recruiting talents again, because once you don't take these people, this corporation might go bankrupt, and after you have completed the acquisition, these people will be lost.	3	321	578	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1660.387	1667.038	Lan_shili	male	native	Finding these people again may cost more hassle or more money, and recruiting these people will be at a higher cost.	3	322	583	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1667.038	1667.398	speaker#1	male	native	Uh-huh.	3	323	585	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1667.398	1669.007	Lan_shili	male	native	And even recruiting people as a new corporation.	3	324	586	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1669.007	1673.553	Lan_shili	male	native	Uh, as far as I know, because I have come to purchase, have also purchased many companies like this.	3	324	587	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1673.553	1678.756	Lan_shili	male	native	Well, once some core personnel in a company walk out of door, his price will increase, not decrease.	3	324	588	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1678.756	1683.006	Lan_shili	male	native	If he is still here, to be exact, his price is not increasing.	3	324	589	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1683.006	1685.381	Lan_shili	male	native	For example, his original benefits, original corresponding salary can all be maintained.	3	324	590	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1685.381	1691.942	Wang_zhile	male	native	Well, for some transnational corporations I had contact with, if the corporation was not doing well, people who left did not necessarily increase their prices.	3	325	591	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1691.942	1692.411	speaker#1	male	native	Uh-huh.	3	326	592	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1692.411	1696.114	Wang_zhile	male	native	My impression from the contact was that these ((pw)) these people decreased their prices instead.	3	327	593	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1696.114	1696.770	speaker#1	male	native	Oh.	3	328	594	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1696.770	1700.570	speaker#1	male	native	We just now -- Just felt you got a bargain here, and found, oh, there were even greater bargains later.	3	329	595	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1696.770	1713.694	Wang_zhile	male	native	So we feel -- He, this, so I felt then that if the other party allowed this, I think that NAC's this, uh, approach should be said to be at least the method with relatively fewer negative parts among all the methods that are not too good.	3	329	596	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1713.694	1714.261	speaker#1	male	native	Uh-huh.	3	332	600	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1714.261	1718.621	Liu_jingzhen	male	native	On this issue I rather agreed to the current method we use, that is, NAC's method, uh-huh.	3	333	601	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1717.753	1718.621	speaker#1	male	native	NAC's method.	3	334	603	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1718.621	1719.683	Liu_jingzhen	male	native	This method, why?	3	335	604	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1719.683	1724.182	Liu_jingzhen	male	native	In terms of many things, it is not as easy as we thought, especially on the human issue.	3	335	605	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1724.182	1734.996	Liu_jingzhen	male	native	Not to speak about this kind of international, this transnational acquisition, even for state-owned enterprises in our country, ah, I handled a few enterprises, uh, that were losing money. This issue was extremely, extremely thorny and also a real headache.	3	335	606	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1734.996	1739.402	Liu_jingzhen	male	native	So under our extremely complicated circumstances, I prefer to simplify a complicated problem.	3	335	609	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1739.402	1749.121	Liu_jingzhen	male	native	Right. For example, we'll purchase this, this, some relevant, some equipment including some brand names, for other things, I will then go to the market to tackle the human -- (()) the issue of absorbing human resources.	3	335	610	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1749.121	1753.089	Liu_jingzhen	male	native	Right, this way, this is surely, uh, extremely correct under relevant, special circumstances.	3	335	613	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1753.089	1756.214	speaker#1	male	native	What exactly is the difference between the two methods? Mr. Lu, what do you think?	3	336	614	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1754.823	1762.776	Lu_benfu	male	native	Uh, so I, first I have a suggestion, uh, to our Chairman Wang. If you do the acquisition again in the future, you should add a human resource expert.	3	337	616	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1762.776	1763.580	speaker#1	male	native	Uh-huh.	3	339	618	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1763.580	1765.839	Lu_benfu	male	native	Get the name list and see who can stay and who cannot.	3	340	619	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1765.839	1766.120	speaker#1	male	native	Uh-huh.	3	341	620	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1766.120	1767.448	Lu_benfu	male	native	This is a very important link.	3	342	621	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1767.448	1767.823	speaker#1	male	native	Uh-huh.	3	343	622	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1767.823	1776.231	Lu_benfu	male	native	Second, I agree to General Manager Lan's viewpoint just now. Once this group of core personnel was lost, the cost you spend on recruiting them back later is not higher than the cost to keep the current ones staying. (())right.	3	344	623	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1774.988	1776.231	speaker#1	male	native	The cost of keeping them is higher.	3	345	625	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1776.231	1781.704	Lu_benfu	male	native	Well, second, uh, you tell him, uh, it is not that I should keep whoever you want me to keep, but that I should keep whoever I choose.	3	346	626	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1781.704	1782.172	speaker#1	male	native	Uh-huh.	3	347	627	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1782.172	1788.025	Lu_benfu	male	native	Just like in the past during war-time, we, we took hold of a mountaintop, and you drove all captured soldiers away. This was not, ah, obviously not appropriate.	3	348	628	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1788.025	1788.400	speaker#1	male	native	Uh-huh.	3	349	629	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1788.400	1791.713	Lu_benfu	male	native	We should, should, should allow, um, mutiny, ah, allowing the other party, um,	3	350	630	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1791.713	1794.838	Liu_jingzhen	male	native	defection, ah, allowing this thing, and there should be, be, be,	3	351	632	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1791.713	1797.448	speaker#1	male	native	{laugh} various ways of an united front, ah, ah.	3	351	631	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1794.838	1797.448	Liu_jingzhen	male	native	Right, right, right, right, you should establish this thing, uh, the united front.	3	351	634	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1797.448	1799.964	Liu_jingzhen	male	native	So I think having no human resource expert is a shortcoming.	3	352	635	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1799.964	1804.016	Wang_yaoping	male	native	Actually we didn't talk about, um, actually there was still another method we had adopted.	3	353	636	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1804.016	1804.408	speaker#1	male	native	Ah.	3	354	637	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1804.408	1808.641	Wang_haoliang	male	native	The people we needed, the people we considered good, we had finished all the talk in private.	3	355	638	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1808.641	1810.407	speaker#1	male	native	Oh. {laugh} That's how it was done.	3	356	639	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1810.407	1811.876	speaker#1	male	native	{laugh}	3	356	640	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1815.433	1818.574	speaker#1	male	native	So on the labor issue, sometimes you also need to do some secret communication, ah.	3	356	642	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1818.574	1819.152	Wang_yaoping	male	native	Yes, yes.	3	357	643	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1819.152	1823.261	speaker#1	male	native	Ah, what happened on this day, June 29? You've also made a circle here.	3	358	644	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1824.074	1829.089	speaker#2	male	native	Why was a corporation appraised at 10 billion RMB in the international market purchased by a Chinese corporation for 800 million RMB?	4	359	646	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1829.089	1833.198	speaker#2	male	native	Did it pick up a huge bargain or get itself into a pitfall where it cannot extricate itself away?	4	359	647	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1833.198	1837.448	speaker#2	male	native	NAC's acquisition of Rover, a century-old British corporation, once triggered many questions.	4	359	648	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1837.448	1842.090	speaker#2	male	native	Was it a huge irrational gamble? Or a wonderful foresight that can determine the victory in the future?	4	359	649	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1842.090	1850.198	speaker#2	male	native	Wang Haoliang, the board chairman of NAC Group, will be on Dialogue and will break the silence and face the public for the first time, revealing the secret inside story behind the huge international acquisition.	4	359	650	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1850.777	1852.871	speaker#2	male	native	Please stay tuned after commercials.	4	359	653	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1980.400	1983.572	Wang_haoliang	male	native	It was probably not yet six o'clock in the morning on June 30.	6	361	655	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1984.183	1985.881	Wang_haoliang	male	native	The day when I came to Britain, uh.	6	361	657	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1985.881	1986.319	speaker#1	male	native	Uh-huh.	6	362	658	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1986.991	1994.137	Wang_haoliang	male	native	At that time my mood, because the decision had already been made, uh, and that, that, that bid had not yet made, uh.	6	363	660	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1990.194	1994.137	speaker#1	male	native	It was decided that we would make the bid, ah.	6	364	662	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1994.137	1998.480	Wang_haoliang	male	native	So later I felt, uh, a bit calmer.	6	365	663	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	1998.480	2003.597	Wang_haoliang	male	native	Before dawn on the 30th I got a call from Wang Yaoping and others, the five-person team in Britain.	6	365	664	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2003.597	2004.004	speaker#1	male	native	Uh-huh.	6	366	665	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2004.004	2006.176	Wang_haoliang	male	native	Just said it was over yesterday.	6	367	666	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2006.176	2019.009	Wang_haoliang	male	native	That is, they -- to them, something just happened, that is, two Britons, went to the place where they were staying, to ask them about something.	6	367	667	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2011.961	2012.367	speaker#1	male	native	Uh-huh.	6	368	668	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2013.853	2014.384	speaker#1	male	native	Uh-huh.	6	370	670	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2019.009	2019.470	speaker#1	male	native	Uh-huh.	6	372	673	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2019.470	2022.001	Wang_haoliang	male	native	Well, they called themselves go-betweens.	6	373	674	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2023.132	2028.007	Wang_haoliang	male	native	It was said that the media had already revealed this, ah, that this technology, um, had been already transferred.	6	373	676	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2028.007	2032.679	Wang_haoliang	male	native	Now the asset of this, uh, uh, left-over <foreign lang="English"> MG </foreign> MG Rover company was just an empty shell.	6	373	677	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2032.679	2033.289	speaker#1	male	native	Uh-huh.	6	374	678	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2033.977	2037.837	Wang_haoliang	male	native	How did you, NAC, consider these things?	6	375	680	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2037.837	2038.306	speaker#1	male	native	Um.	6	376	681	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2038.306	2039.291	Wang_haoliang	male	native	Of any use?	6	377	682	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2039.291	2039.869	speaker#1	male	native	Um.	6	378	683	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2040.462	2042.400	Wang_haoliang	male	native	After taking the call myself, I made the judgment.	6	379	685	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2042.400	2042.931	speaker#1	male	native	Uh-huh.	6	380	686	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2042.931	2050.511	Wang_haoliang	male	native	That is, this might be some of them, some other competitors, ah, (()) ah.	6	381	687	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2048.213	2050.511	speaker#1	male	native	pretending to be go-betweens, hey,	6	382	688	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2050.511	2057.092	Wang_haoliang	male	native	to sound you out. You, NAC, because they know you, NAC, had been contacting Rover, uh, for quite a long time, uh.	6	383	690	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2051.358	2051.811	speaker#1	male	native	Uh-huh.	6	384	691	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2057.092	2057.561	speaker#1	male	native	Uh-huh.	6	386	693	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2057.561	2061.217	Wang_haoliang	male	native	Well, just say what exactly did you, NAC, view this issue?	6	387	694	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2061.217	2061.811	speaker#1	male	native	Um.	6	388	695	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2061.811	2063.764	Wang_haoliang	male	native	They just made a few casual comments.	6	389	696	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2063.764	2064.248	speaker#1	male	native	Uh-huh.	6	390	697	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2064.248	2084.593	Wang_haoliang	male	native	Well, after they called, called back, I said this (()) I said you might as well, as well do this, might as well do this, that is, say, um, we also want to take advantage of this opportunity, ah, to reduce or remove the obstacle. Hey, anyway, everyone knows that NAC doesn't have the money. Uh, NAC sent a small team.	6	391	698	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2074.967	2075.404	speaker#1	male	native	Uh-huh.	6	392	700	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2078.857	2079.915	speaker#1	male	native	To beat them at their own games.	6	394	702	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2082.672	2083.109	speaker#1	male	native	Uh-huh.	6	396	704	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2084.593	2084.983	speaker#1	male	native	Uh-huh.	6	398	706	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2084.983	2095.624	Wang_haoliang	male	native	Not very strong, either. When you meet them later, just say that we are not very clear about this either, ah, and that we may also withdraw if, ah, things aren't going well.	6	399	707	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2095.624	2097.812	speaker#1	male	native	Uh-huh, yeah, release some smoke.	6	400	708	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2097.812	2100.604	Wang_haoliang	male	native	{laugh} This way, it indeed also got rid of some.	6	401	709	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2100.604	2105.551	Wang_haoliang	male	native	Because at the beginning, ((pw)) honestly speaking, we were not very strong, uh, among competitors.	6	401	710	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2105.551	2105.864	speaker#1	male	native	Right.	6	402	711	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2105.864	2109.770	Wang_haoliang	male	native	Right? So we must think about how to do this thing.	6	403	712	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2109.770	2110.192	speaker#1	male	native	Uh-huh.	6	404	713	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2110.192	2120.981	Wang_haoliang	male	native	I said you might just as well continue to keep this low profile, to the point you can (()) very worried.	6	405	714	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2118.013	2118.528	speaker#1	male	native	Uh-huh.	6	406	715	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2120.981	2121.418	speaker#1	male	native	Uh-huh.	6	408	717	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2121.418	2125.245	Wang_haoliang	male	native	Ah, if things aren't going well, we may not have the strength and will, will withdraw.	6	409	718	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2125.245	2135.049	speaker#1	male	native	I'd like to ask when you got the message from the headquarters, that is, to continue pretending to be very worried, ah, what kind of reaction did your competitors show?	6	410	719	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2135.049	2143.464	Wang_yaoping	male	native	They also thought that was probably just the situation with us. So, uh, they just didn't have much to say either, ah, and just left.	6	411	721	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2138.120	2138.605	speaker#1	male	native	Uh-huh.	6	412	722	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2143.464	2143.902	speaker#1	male	native	Uh-huh.	6	414	724	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2143.902	2148.480	Wang_yaoping	male	native	Well, in reality, uh, that was not the situation with us. Right? In fact that was not the situation with us. In fact we knew it very clearly.	6	415	725	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2148.480	2148.918	speaker#1	male	native	Uh-huh.	6	416	726	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2148.918	2154.544	Ding_song	male	native	Actually it was like this. At that time, uh, we came to find out the real situation, mainly to find out about the issue of intellectual property.	6	417	727	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2154.544	2165.119	Ding_song	male	native	Well, in fact we said at that time, that, uh, we actually just said ((pw)) based on the message of the board chairman, that is, we, we were not clear, uh, did not really understand the issue of intellectual property.	6	417	728	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2165.682	2173.615	Ding_song	male	native	Well, in fact we later learned, ah, that this sentence did produce an effect on one of our overseas competitors.	6	417	731	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2173.615	2180.880	speaker#2	male	native	In the meantime, many media at home and abroad were also adding the rumor by reporting that the Rover brand had already been purchased by a US company,	6	418	732	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2180.880	2185.801	speaker#2	male	native	that most of <foreign lang="English"> MG </foreign> MG Rover's intellectual properties had already been purchased by another Asian corporation,	6	418	733	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2185.801	2190.271	speaker#2	male	native	that the diagrams of some of Rover's cars had already been destroyed by the Japanese joint venture,	6	418	734	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2190.271	2195.568	speaker#2	male	native	and that what had left of <foreign lang="English"> MG </foreign> MG Rover's assets was just a heap of worthless scrap.	6	418	735	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2197.196	2204.110	speaker#1	male	native	Already considered this: after this Rover transferred their technologies, whether it was worthwhile to buy the so-called heap of empty shells that was left?	6	419	737	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2201.610	2201.941	Wang_haoliang	male	native	Yes,	6	420	738	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2204.110	2204.407	Wang_haoliang	male	native	Yes.	6	422	740	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2204.407	2205.891	Wang_haoliang	male	native	Well, then,	6	423	742	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2204.407	2205.891	speaker#1	male	native	Well, how did you consider this problem?	6	423	741	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2205.891	2214.750	Ding_song	male	native	because at that time we also knew that in the second half of 2004, <foreign lang="English"> MG(())</foreign> MG at that time did sign this technology transfer agreement.	6	424	743	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2215.289	2226.562	Ding_song	male	native	Actually I remember we arrived in Britain on June 16, on the 17th we went to a data room in a law firm called <foreign lang="English">(())</foreign> (()) in Birmingham.	6	424	746	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2227.171	2231.890	Ding_song	male	native	This <foreign lang="English">(())</foreign> (()) law firm, uh, was also <foreign lang="English"> MG </foreign> MG Rover's longtime legal consultant.	6	424	749	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2231.890	2237.639	Ding_song	male	native	After arriving in this data room, uh, we retrieved and read several very important documents on intellectual properties.	6	424	750	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2237.639	2243.585	Ding_song	male	native	They included this technology transfer agreement it signed in the second half of 2004.	6	424	751	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2244.094	2246.014	speaker#1	male	native	So what things had it already sold to others?	6	425	753	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2246.014	2250.967	Ding_song	male	native	This company, <foreign lang="English"> MG(())</foreign> MG (()) -- actually it talked about the two brands of this company.	6	426	754	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2250.967	2251.328	speaker#1	male	native	Uh-huh.	6	427	755	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2251.328	2254.703	Ding_song	male	native	Its first brand was <foreign lang="English"> MG </foreign> MG, the second brand was <foreign lang="English">(())</foreign> (()).	6	428	756	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2254.703	2255.078	speaker#1	male	native	Uh-huh.	6	429	757	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2255.078	2262.062	Ding_song	male	native	In fact in this entire, this, this, ((pw)) acquisition we are talking about this time, ah, we purchased all of its intellectual properties.	6	430	758	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2262.062	2264.234	Ding_song	male	native	Well, I had seen that agreement.	6	430	759	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2264.234	2269.688	Ding_song	male	native	That is, this agreement that <foreign lang="English"> MG(())</foreign> MG (()) signed in the second half of 2004.	6	430	760	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2269.688	2272.282	Ding_song	male	native	And the content of this agreement was very clear.	6	430	761	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2272.282	2278.501	Ding_song	male	native	It was actually called the transfer agreement. What was it actually? Only a very small portion was transferred.	6	430	762	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2278.501	2281.251	Ding_song	male	native	Mostly it was actually setting forth the conditions for licensing.	6	430	763	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2281.251	2287.439	Ding_song	male	native	Well, what does it mean, uh? We would be precisely the owner of this licensing entity, that is, the right.	6	430	764	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2288.314	2293.891	Ding_song	male	native	And others were only licensees, A very important issue.	6	430	766	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2291.661	2292.034	speaker#1	male	native	Uh-huh.	6	431	767	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2292.034	2298.717	speaker#1	male	native	that is, those who were licensed in the past, they obeyed this, uh, Rover in the past, and now must obey us.	6	432	768	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2293.891	2294.201	Ding_song	male	native	yeah,	6	433	770	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2298.717	2299.467	Ding_song	male	native	He --	6	435	772	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2300.264	2300.748	speaker#1	male	native	Ah.	6	436	774	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2300.748	2303.014	speaker#3	male	native	To transfer, transfer is to buy it out.	6	437	775	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2303.014	2305.178	speaker#1	male	native	Could you further explain, ah, in a bit more plain language?	6	438	776	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2305.178	2306.285	speaker#3	male	native	To buy out is in very plain language (()).	6	439	777	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2306.285	2307.513	speaker#1	male	native	Ah, ah, ah.	6	440	779	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2306.285	2314.184	speaker#3	male	native	Transfer actually means, that is to say, uh, I have given this, this share of assets of mine, this ownership of the asset to others and I myself cannot own it any more.	6	440	778	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2314.184	2319.137	speaker#3	male	native	But for the licensed use, you can use my things, but I still have the rights.	6	441	781	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2319.137	2323.355	speaker#1	male	native	Uh-huh. On the calendar we just asked Chairman Wang to mark there is another date.	6	442	782	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2323.355	2324.512	Wang_haoliang	male	native	July 14, hey.	6	443	784	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2323.355	2324.512	speaker#1	male	native	July 14.	6	443	783	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2324.512	2327.012	Wang_haoliang	male	native	We originally would have had an opportunity to sign.	6	444	785	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2327.012	2333.402	Wang_haoliang	male	native	That, that opportunity, uh, it's mainly because it was also quite, also quite smooth, after we -- the PriceWaterhouseCoopers talked with the negotiation team.	6	444	786	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2333.402	2333.699	speaker#1	male	native	Uh-huh.	6	445	787	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2333.699	2343.135	Wang_haoliang	male	native	Well, at that time, it was mainly -- this special international acquisition case, for some matters, we indeed, we also didn't have the time to carry them out.	6	446	788	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2343.135	2348.933	Wang_haoliang	male	native	For example, it's an international acquisition, when it, PriceWaterhouseCoopers, has not decided to let you make the acquisition,	6	446	791	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2348.933	2354.385	Wang_haoliang	male	native	I, we cannot proceed with some review and approval, various things back in our own country.	6	446	792	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2354.385	2354.697	speaker#1	male	native	Uh-huh.	6	447	793	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2354.697	2362.931	Wang_haoliang	male	native	But once it has decided and wants to sign with you, first, you have to sign right away. If you don't sign, the opportunity will go to others.	6	448	794	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2357.821	2358.290	speaker#1	male	native	Uh-huh.	6	449	795	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2362.931	2363.712	speaker#1	male	native	Missed it.	6	451	797	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2363.712	2364.430	Wang_haoliang	male	native	Ah, missed it.	6	452	798	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2364.430	2370.070	Wang_haoliang	male	native	For such circumstances, we indeed also felt quite regrettable about that opportunity.	6	452	799	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2370.070	2374.789	speaker#1	male	native	Well, that is, on July 14, that day, our own procedures had not been completed.	6	453	802	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2371.518	2378.446	Wang_haoliang	male	native	Hey, originally, originally, if on July 14, we could have signed at 12:00 o'clock, could have signed and then held a news conference at 4:00 p.m.	6	454	804	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2378.446	2383.306	Wang_haoliang	male	native	That day happened to be, everyone knows that on July 7 there was a huge explosion in London.	6	455	806	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2383.306	2383.869	speaker#1	male	native	Uh-huh.	6	456	807	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2383.869	2391.087	Wang_haoliang	male	native	One week after the London explosion, at 12:00 noontime it was a moment of condolences.	6	457	808	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2387.353	2387.775	speaker#1	male	native	Uh-huh.	6	458	809	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2391.759	2400.561	Wang_haoliang	male	native	So in addition to this, they also had to -- also had to -- at that time in Britain, due to the London explosion, the atmosphere in Britain was quite tense, uh.	6	459	813	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2400.561	2411.851	Wang_haoliang	male	native	The atmosphere in London was quite tense, but, uh, they also had to hurry to the scene, and also had to contact people back in the home country because we didn't have the time for many procedures, they were very nervous and very anxious.	6	459	815	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2411.851	2412.398	speaker#1	male	native	Uh-huh.	6	460	817	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2413.445	2414.648	Wang_haoliang	male	native	Constantly on the phone.	6	461	819	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2414.648	2415.101	speaker#1	male	native	Uh-huh.	6	462	820	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2415.711	2427.505	Wang_haoliang	male	native	Ah, well, in the end, it was ((pw)) almost 12:00 o'clock, almost the time to finally ((pw)) hammer it down, well, well, well, well, we said if this, this was signed like this, it was also very risky.	6	463	822	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2427.505	2428.384	Wang_haoliang	male	native	Ah.	6	464	825	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2427.505	2436.051	speaker#1	male	native	Ah, I'd like, to invite any one of the five-person team members, would you like to recall the moment when you were waiting for the final word from the home country?	6	464	824	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2436.051	2438.442	Zhang_xiliang	male	native	Uh, let me explain the situation at that time.	6	466	827	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2438.442	2438.809	speaker#1	male	native	Uh-huh.	6	467	828	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2438.809	2446.169	Zhang_xiliang	male	native	At nine o'clock, actually we rushed to the <foreign lang="English">(())</foreign> (()) headquarters and were waiting for the news from the home country.	6	468	829	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2446.169	2453.591	Zhang_xiliang	male	native	Everyone was feeling very worried, uh, sitting on pins and needles. Ah, every half an hour we would call the home country.	6	468	830	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2454.716	2458.731	Zhang_xiliang	male	native	Has this (()) done yet? Because we had to sign at twelve o'clock, uh.	6	468	832	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2458.731	2460.527	Zhang_xiliang	male	native	The agreement (()).	6	468	833	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2460.527	2463.651	Zhang_xiliang	male	native	After eleven o'clock went by, uh, there was still no reply.	6	468	834	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2464.573	2467.354	Zhang_xiliang	male	native	Right? Everyone of us looked, uh, very ((pw)) grave.	6	468	836	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2468.448	2477.556	Zhang_xiliang	male	native	Under such circumstances, seeing that it was really going to be twelve o'clock soon, he couldn't wait any more and again put a call through to the home country. Wanted to inquire about the information.	6	468	838	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2477.556	2484.061	Zhang_xiliang	male	native	That, that, (()), ah, could you give us a reply in the end?	6	468	843	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2485.623	2487.763	Zhang_xiliang	male	native	Under such circumstances, there was still no reply.	6	468	845	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2488.951	2494.741	Zhang_xiliang	male	native	While there was no reply, uh, the sound of a siren, the sound of a siren from outside, the siren blared.	6	468	847	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2496.100	2505.162	Zhang_xiliang	male	native	This was what the board chairman just mentioned, the British people commemorating the London explosion a week ago, that is, the July 7 London explosion.	6	468	851	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2505.698	2511.741	Zhang_xiliang	male	native	It was holding a moment of silence, uh, for that, that, holding a moment of silence for the victims. Holding a moment of silence for the victims.	6	468	853	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2507.794	2509.022	speaker#1	male	native	The moment of silence ceremony.	6	469	855	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2512.585	2527.255	Zhang_xiliang	male	native	So our team leader Comrade Wang Yaoping made this remark to everyone, Let's hold a moment of silence. It was a pun, moment of silence, uh, there was nothing everyone could do, uh, and it was extremely likely that there would be no chance of signing in the future.	6	470	858	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2527.255	2527.850	speaker#1	male	native	Uh-huh.	6	471	862	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2527.850	2535.116	Zhang_xiliang	male	native	It should be said that we two, that is, the team leader and I, we are both in our sixties, were all in tears, ah, under such circumstances.	6	472	863	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2536.584	2538.412	Zhang_xiliang	male	native	Right? (()) all in tears, ah.	6	472	867	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2538.412	2538.756	speaker#1	male	native	Uh-huh.	6	473	868	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2543.136	2553.277	Wang_haoliang	male	native	Later I said to him, I said, Yaoping, ah, there's still some chance. Well, there's an old Chinese saying, uh, an old saying that Man proposes, God disposes.	6	474	870	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2553.277	2554.965	Wang_haoliang	male	native	You're still trying to get the chance.	6	474	871	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2554.965	2555.340	speaker#1	male	native	Yeah.	6	475	872	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2555.934	2562.309	Wang_haoliang	male	native	Later this chance should -- actually, this, this time there were many variables in this entire bidding.	6	476	874	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2562.309	2562.824	speaker#1	male	native	Uh-huh.	6	477	875	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2562.824	2570.719	Wang_haoliang	male	native	So because PriceWaterhouseCoopers was also working with so many competitors. He felt, also thought that NAC was relatively credible.	6	478	876	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2570.719	2574.782	speaker#1	male	native	On the calendar we just asked Chairman Wang to mark, there is another date.	6	479	877	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2573.797	2574.782	Wang_haoliang	male	native	Uh, uh.	6	480	879	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2574.782	2578.297	speaker#1	male	native	This is, ah, July 22.	6	481	880	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2578.297	2578.984	Wang_haoliang	male	native	Ah.	6	482	882	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2578.297	2578.984	speaker#1	male	native	Ah, ah.	6	482	881	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2578.984	2583.688	speaker#1	male	native	It should be said that this was a day when the dust would finally settle. Well, what again happened on this day?	6	483	883	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2585.391	2600.952	speaker#2	male	native	On July 22, 2005, NAC's acquisition team arrived at the office building of a British law firm and was about to sign the acquisition agreement when the chief negotiator from PriceWaterhouseCoopers in charge of <foreign lang="English"> MG </foreign> MG Rover assets auction suddenly received a mysterious phone call.	6	484	885	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2600.952	2611.024	speaker#2	male	native	After hanging up the phone, he immediately stopped signing and took the PriceWaterhouseCoopers signing personnel to the conference room next door and left the NAC people in the hall.	6	484	888	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2718.411	2721.286	speaker#1	male	native	Wasn't this indeed out of everyone's expectation, Chairman Wang?	8	486	890	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2721.286	2721.770	Wang_haoliang	male	native	Yes.	8	487	891	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2721.770	2722.192	speaker#1	male	native	Uh-huh.	8	488	892	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2722.192	2729.535	Wang_haoliang	male	native	Because until the 22nd, the negotiation between us two parties was all relatively, Relatively smooth.	8	489	893	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2728.098	2728.926	speaker#1	male	native	relatively smooth.	8	490	894	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2729.535	2729.875	speaker#1	male	native	Uh-huh.	8	492	896	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2729.875	2735.078	Wang_haoliang	male	native	We just insisted that you, since you were willing to sign with us, we would also agree.	8	493	897	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2735.078	2735.222	speaker#1	male	native	Uh-huh.	8	494	898	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2735.222	2739.441	Wang_haoliang	male	native	Then we hoped that that it should be signed in the office of the law firm engaged by us.	8	495	899	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2739.441	2743.581	Wang_haoliang	male	native	That is, they were all attorneys -- in the office, office building of the law firm.	8	495	900	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2743.581	2749.659	Wang_haoliang	male	native	Well, one of our considerations was, uh, that it is convenient at this place, uh, for them to contact us in the home country.	8	495	901	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2749.659	2750.143	speaker#1	male	native	Uh-huh.	8	496	902	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2750.143	2758.343	Wang_haoliang	male	native	Second, honestly speaking, uh, we're also afraid that this PriceWaterhouseCoopers would again, again, again raise new issues.	8	497	903	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2758.343	2758.703	speaker#1	male	native	Uh-huh.	8	498	904	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2758.703	2760.078	Wang_haoliang	male	native	This was something very difficult to tell.	8	499	905	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2760.078	2760.438	speaker#1	male	native	Uh-huh.	8	500	906	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2760.438	2762.360	Wang_haoliang	male	native	Ah, at that time they also agreed.	8	501	907	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2762.360	2769.563	Wang_haoliang	male	native	Well, under such circumstances, he had also basically announced to the public that they would sign with NAC.	8	501	908	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2769.563	2769.891	speaker#1	male	native	Uh-huh.	8	502	909	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2769.891	2778.048	Wang_haoliang	male	native	So at that time some ((pw)) major media had all surrounded, basically surrounded this law firm's office building, surrounded it so tightly that not even, ah, a drop of water could trickle through.	8	503	910	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2778.048	2782.595	Wang_haoliang	male	native	Some major, some media had already started to broadcast it, uh, on their tickers.	8	503	911	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2782.595	2782.986	speaker#1	male	native	Uh-huh.	8	504	912	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2782.986	2793.331	Wang_haoliang	male	native	However, at this last moment when the conditions for signing should be basically met, we suddenly found the PriceWaterhouseCoopers chief official summoned his staff.	8	505	913	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2793.331	2796.206	Wang_haoliang	male	native	After he, he took a phone call, he summoned his staff for a meeting.	8	505	915	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2796.206	2798.347	Wang_haoliang	male	native	They were having a meeting (()) did not come back, did not come back for the time being.	8	505	916	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2798.347	2800.680	speaker#1	male	native	At this moment what were they guessing in their mind?	8	506	917	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2800.680	2801.428	speaker#1	male	native	Was there any possibility --	8	507	919	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2800.680	2803.268	Wang_haoliang	male	native	They -- just, just, just, just call back, ah.	8	507	918	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2803.268	2803.581	speaker#1	male	native	Uh-huh.	8	509	921	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2803.581	2816.582	Wang_haoliang	male	native	(()) said that then they analyzed, ah, could there be better bidding offers or better, um, more attractive to PriceWaterhouseCoopers?	8	510	922	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2807.144	2807.519	speaker#1	male	native	Uh-huh.	8	511	923	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2816.582	2816.879	speaker#1	male	native	Uh-huh.	8	513	925	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2816.879	2822.597	Wang_haoliang	male	native	He was wavering. Hey, I said, you, you must think of some way. You must find the PriceWaterhouseCoopers chief indirectly.	8	514	926	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2822.597	2822.863	speaker#1	male	native	Uh-huh.	8	515	927	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2822.863	2823.926	Wang_haoliang	male	native	To express our attitude.	8	516	928	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2825.176	2832.912	He_xiaoqing	male	native	Well, we actually, because referring back further; the competitors did not realize this was a chance, from the 14th to the 22nd.	8	517	930	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2832.912	2833.208	speaker#1	male	native	Uh-huh.	8	518	931	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2833.208	2834.693	He_xiaoqing	male	native	Or they did not seize this chance.	8	519	932	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2834.693	2835.184	speaker#1	male	native	Uh-huh.	8	520	933	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2835.184	2836.755	He_xiaoqing	male	native	This time, the opportunity again, again came.	8	521	934	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2836.755	2841.318	He_xiaoqing	male	native	We shed our tears, we, old and young, shed tears before, and this time we finally seized it.	8	521	935	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2841.318	2846.177	He_xiaoqing	male	native	This opportunity, uh, after PriceWaterhouseCoopers again suddenly made this move, we felt the atmosphere was not right.	8	521	936	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2846.177	2850.753	He_xiaoqing	male	native	The board chairman, uh, instructed us to go over and immediately meet with the receiver PriceWaterhouseCoopers,	8	521	937	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2850.753	2851.024	speaker#1	male	native	Uh-huh.	8	522	938	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2851.024	2851.755	He_xiaoqing	male	native	and show him our position.	8	523	939	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2852.380	2862.222	He_xiaoqing	male	native	After we went over, uh, we talked with PriceWaterhouseCoopers, with him. If you are not going to sign with us today, we will withdraw from the negotiation and withdraw from the bidding.	8	523	941	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2862.222	2867.615	He_xiaoqing	male	native	And we will release this information, ah, to all the media people waiting outside the building.	8	523	942	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2867.615	2869.437	speaker#1	male	native	Your attitude at that time was this resolute.	8	524	943	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2868.958	2869.976	He_xiaoqing	male	native	Yes, this resolute.	8	525	945	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2869.976	2873.145	He_xiaoqing	male	native	Furthermore, we got the briefcase -- because we were prepared to sign, we got the briefcase ready.	8	527	947	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2873.145	2873.599	speaker#1	male	native	Uh-huh.	8	528	948	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2873.599	2876.203	He_xiaoqing	male	native	We just got well prepared for this, (()) did not sign, we would take the briefcase and go.	8	529	949	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2876.203	2876.951	He_xiaoqing	male	native	Such is the attitude.	8	530	950	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2876.203	2876.951	speaker#1	male	native	Oh.	8	530	951	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2876.951	2877.513	speaker#1	male	native	Eh.	8	531	952	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2878.810	2880.263	He_xiaoqing	male	native	The PriceWaterhouseCoopers people were then dumbfounded.	8	532	954	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2881.372	2894.762	He_xiaoqing	male	native	He was speechless for a long while, and then he stood up, smiling, resolutely stood up, it was with a sort of determination that he stood up and told us that I just took a phone call, one of your competitors, ah, submitted a brand new plan and with an incredibly high price.	8	532	956	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2894.762	2895.098	speaker#1	male	native	Uh-huh.	8	533	960	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2895.098	2898.667	He_xiaoqing	male	native	Tsk, but I think you, NAC, is the most trustworthy.	8	534	961	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2898.667	2899.104	speaker#1	male	native	Uh-huh.	8	535	962	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2899.104	2902.072	He_xiaoqing	male	native	I think your, NAC's plan, is also the most feasible.	8	536	963	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2902.072	2906.984	He_xiaoqing	male	native	I think that your NAC's contract, uh, is the most beneficial, uh, to the creditors.	8	536	964	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2906.984	2912.399	He_xiaoqing	male	native	Because after bankruptcy, the creditors are the most important, and creditors must be first protected. He said it was beneficial to the creditors.	8	536	965	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2912.399	2920.931	He_xiaoqing	male	native	So, uh, at this time I also believe, ah, after the bidding period was over, others submitting an incredibly high bid is actually to make trouble.	8	536	966	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2920.931	2925.557	He_xiaoqing	male	native	So he held our Chairman Wang's hand and went inside the signing hall.	8	536	969	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2925.557	2930.136	speaker#1	male	native	Uh-huh. Uh, approximately how long did this ideological, political work continue?	8	537	970	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2933.877	2936.089	He_xiaoqing	male	native	(())	8	538	973	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2933.877	2936.089	speaker#1	male	native	I think it made the PriceWaterhouseCoopers people,	8	538	972	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2936.089	2941.158	Wang_yaoping	male	native	uh, during this conversation, we estimated that we two faced off each other for about a bit over one minute.	8	539	974	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2941.158	2942.049	speaker#1	male	native	A bit over one minute.	8	540	975	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2942.830	2944.705	speaker#1	male	native	How did you feel he was thinking?	8	540	977	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2944.705	2947.677	Wang_yaoping	male	native	He was thinking -- saw that our attitude was indeed very determined.	8	541	978	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2947.677	2949.534	speaker#1	male	native	However, he was faced with another greater temptation.	8	542	979	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2949.534	2963.830	Wang_haoliang	male	native	But he knew that I told him that once I withdrew, I think because I said that once I went downstairs, the media were all there, there were <foreign lang="English"> BBC </foreign> BBC, ah, and several of them were all, all there. I said that I would announce right away my withdrawal and that once I announced my withdrawal, then the other party would reduce their price right away.	8	543	980	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2963.830	2965.492	speaker#1	male	native	Where did you get the courage?	8	544	984	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2965.492	2967.228	Wang_haoliang	male	native	My courage came from my desperation.	8	545	985	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2974.144	2981.537	speaker#1	male	native	In fact probably, uh, in many of this type of acquisition in many fields, ah, fickleness is perhaps one of its features.	8	546	987	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2981.537	2987.316	speaker#1	male	native	Well, has Mr. Lan experienced this type of psychological testing of strength of yours at the very moment of signing, ha?	8	546	988	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2987.316	2989.316	Lan_shili	male	native	I felt it even more deeply on that occasion of mine.	8	547	989	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2989.316	2995.369	Lan_shili	male	native	um, because when the plane arrived, and we were about to sign 121 contracts, the negotiation that time lasted 27 hours.	8	547	990	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	2995.369	3003.212	Lan_shili	male	native	For 27 hours, we and this <foreign lang="English"> GEI </foreign> GEI, ah, this, this, <foreign lang="English"> CFM </foreign> CFM that we negotiated with, did not leave this conference room.	8	547	993	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3001.462	3001.626	speaker#1	male	native	Uh-huh.	8	548	994	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3003.212	3005.429	speaker#1	male	native	Yes, a negotiator must have a strong body, ah.	8	550	996	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3005.429	3013.416	Lan_shili	male	native	((pw)) then we -- were deadlocked in that place, ah, deadlocked, uh, actually the most important was still the final transaction price.	8	551	997	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3005.429	3013.791	speaker#1	male	native	for more than twenty hours, Uh-huh.	8	551	998	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3013.791	3019.222	Lan_shili	male	native	Because of what, uh, because it was already at the last moment, uh, and a strange idea suddenly occurred to me.	8	554	1001	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3019.815	3027.908	Lan_shili	male	native	At that time I was thinking, I had purchased about forty engines, well, each of the engines was 9.8 million US dollars, so it was 400 million US dollars.	8	554	1003	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3023.502	3024.049	speaker#1	male	native	Uh-huh.	8	555	1004	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3028.721	3034.002	Lan_shili	male	native	Uh, during the meal, with all ((pw)) contract agreements counted, I finally, uh, made a request to him.	8	556	1007	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3034.002	3039.487	Lan_shili	male	native	I said, hey, since I've bought forty engines from you, 400 million US dollars, shouldn't you give me one engine as a gift, ah?	8	556	1008	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3040.893	3046.955	Lan_shili	male	native	At that moment, he, that foreigner, stared at me for a long while, he said what a joke you were making, one... engine is worth 9.8 million US dollars, uh.	8	556	1010	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3045.034	3049.268	speaker#1	male	native	Yes, (()) You brought your country's buy one get one free policy out here.	8	557	1012	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3049.268	3052.643	Lan_shili	male	native	Right. I told him right away, I said I am in tourism business.	8	560	1015	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3052.643	3056.112	Lan_shili	male	native	I said our tourism team has a simple international customary rule.	8	560	1016	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3056.112	3061.447	Lan_shili	male	native	For fifteen, get one free, that is, as long as I get fifteen people, another one is always free. This is called fifteen, (()) fifteen plus one free.	8	560	1017	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3059.142	3060.464	speaker#1	male	native	(())	8	561	1019	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3061.447	3061.866	speaker#1	male	native	Uh-huh.	8	563	1021	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3061.866	3066.595	Lan_shili	male	native	I said that if Chinese also have a custom -- because many of their negotiators who came were Chinese.	8	564	1022	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3066.595	3069.251	Lan_shili	male	native	I said that if I buy a case of turnips, I will be given one turnip for free, too.	8	564	1023	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3069.251	3072.907	Lan_shili	male	native	So since I've bought forty engines worth 400 million US dollars from you, shouldn't you give me an engine for free?	8	564	1024	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3072.907	3075.782	Lan_shili	male	native	He said this joke of yours was too big, it won't work.	8	564	1025	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3075.782	3079.094	Lan_shili	male	native	So it was deadlocked for almost more than twenty hours.	8	564	1026	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3079.094	3080.735	Lan_shili	male	native	Meanwhile he was having a meeting all the time.	8	564	1027	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3080.735	3085.299	Lan_shili	male	native	Because this 10 million US dollars, uh, at that time, was equivalent to more than 80 million, almost 100 million RMB.	8	564	1028	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3085.299	3089.376	Lan_shili	male	native	So I insisted on having it for free. If you give it for free, I will sign, if you don't, we will not sign.	8	564	1029	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3089.376	3094.142	Lan_shili	male	native	So it was deadlocked like this, the other side, because of the time difference with the United States, made no move for a very long time.	8	564	1030	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3094.142	3094.550	speaker#1	male	native	Uh-huh.	8	565	1031	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3094.550	3100.333	Lan_shili	male	native	Tsk, in the end, ah, a board of directors meeting was held. Then each director also wanted to talk to me, saying why do you, you want an engine?	8	566	1032	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3100.333	3102.989	Lan_shili	male	native	This engine is not something to play with, how should we give it to you for free?	8	566	1033	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3102.989	3108.551	Lan_shili	male	native	I said this is also an international customary rule, uh, you've been telling me international customary rules all day long, since I've bought so many engines from you, shouldn't you give me one engine for free?	8	566	1034	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3108.551	3113.847	Lan_shili	male	native	Internally I did not feel comfortable, it's nothing, I said all the other prices have been negotiated and settled, we (()) I just feel you should give me one for free.	8	566	1036	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3113.847	3115.306	speaker#1	male	native	{laugh}	8	567	1037	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3115.306	3119.192	Lan_shili	male	native	Well, after being deadlocked for twenty-seven hours, in the end he still gave me one engine for free.	8	568	1038	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3123.799	3126.971	speaker#1	male	native	Next let's move on and take a look at this special dossier.	8	569	1040	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3126.971	3133.206	speaker#1	male	native	Another date that our Chairman Wang circled is March 22, 2006.	8	569	1041	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3133.206	3136.722	speaker#1	male	native	In fact this was a day fully eight months after we completed the acquisition.	8	569	1042	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3136.722	3140.045	speaker#1	male	native	Uh, why was this date circled, what happened on this day? Please tell us.	8	569	1043	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3140.045	3144.686	Wang_haoliang	male	native	It should be -- you just now -- Xiao Wang said that in eight months we got all the equipment in.	8	570	1044	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3144.686	3145.082	speaker#1	male	native	Uh-huh.	8	571	1045	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3145.082	3155.504	Wang_haoliang	male	native	Like dismantling cultural artifacts, we carefully had (()) equipment (()) transported from London in the United Kingdom to Nanjing.	8	572	1046	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3152.021	3152.650	speaker#1	male	native	Uh-huh.	8	573	1049	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3155.504	3156.632	speaker#1	male	native	With great care, ha.	8	575	1051	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3156.632	3157.290	Wang_haoliang	male	native	With great care.	8	576	1052	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3157.290	3164.633	Wang_haoliang	male	native	Well, after the equipment arrived, we must first assemble and adjust them.	8	576	1053	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3166.008	3169.164	Wang_haoliang	male	native	For assembly and adjustment, they quoted me a price.	8	576	1055	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3169.164	3169.461	speaker#1	male	native	Uh-huh.	8	577	1056	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3170.476	3172.367	Wang_haoliang	male	native	They wanted 35 million RMB.	8	578	1058	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3173.085	3175.382	Wang_haoliang	male	native	Well, they also had good reasons.	8	578	1060	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3175.382	3175.851	speaker#1	male	native	Uh-huh.	8	579	1061	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3176.366	3182.132	Wang_haoliang	male	native	What were reasons? That is to say, how many robots did we purchase in total? More than 480 units.	8	580	1063	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3182.928	3190.788	Wang_haoliang	male	native	At that time the value of more than 480 units bought was equivalent, equivalent to 800 or 900 million RMB.	8	580	1065	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3190.788	3191.209	speaker#1	male	native	Uh-huh.	8	581	1066	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3191.209	3197.190	Wang_haoliang	male	native	Now charging you 35 million RMB in technical guidance fees is a very small percentage.	8	582	1067	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3197.190	3198.991	Wang_haoliang	male	native	((Less than 5%)) very cheap.	8	583	1068	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3197.190	3198.991	speaker#1	male	native	Very cheap, right?	8	583	1069	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3198.991	3201.334	Wang_haoliang	male	native	Did you calculate that way? Of course he did, didn't he?	8	584	1070	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3201.334	3202.208	speaker#1	male	native	Was it acceptable to you?	8	585	1071	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3202.208	3203.334	Wang_haoliang	male	native	I couldn't accept it.	8	586	1072	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3203.334	3204.738	speaker#1	male	native	Then what could you do?	8	587	1073	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3204.409	3205.240	Wang_haoliang	male	native	I couldn't accept it.	8	588	1075	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3205.240	3214.388	Wang_haoliang	male	native	So I found the director-in-general. I said to Zhang Xin. I ((pw)) him, I, I, I, I, I said, director-in-general, What are we going to do with this matter?	8	589	1077	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3209.199	3209.560	speaker#1	male	native	Ah.	8	590	1078	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3212.310	3212.904	speaker#1	male	native	Uh-huh.	8	592	1080	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3214.388	3215.008	speaker#1	male	native	Uh-huh.	8	594	1082	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3215.008	3221.372	Wang_haoliang	male	native	I said that now my -- I see that you've got some actual strength too in your place.	8	595	1083	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3221.372	3221.872	speaker#1	male	native	Uh-huh.	8	596	1084	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3221.872	3226.981	Wang_haoliang	male	native	You should be -- still have this ((pw)) ability to resolve this problem. I gave him some praise first.	8	597	1085	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3226.981	3228.582	Wang_haoliang	male	native	(())	8	598	1087	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3226.981	3228.582	speaker#1	male	native	(()) Oh.	8	598	1086	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3228.582	3241.387	Wang_haoliang	male	native	Then I said I recalled that when setting up the Shenzhen Special Zone back then, Comrade Xiaoping said very clearly, China does not have money. You are to charge forward and hew out your way.	8	599	1088	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3241.387	3245.180	Wang_haoliang	male	native	I said that now we also met with such a situation, what do you think we should do?	8	599	1091	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3245.180	3247.815	speaker#1	male	native	Okay. Zhang Xin, come here, we will hand over the speaker to you, ah.	8	600	1092	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3247.815	3254.580	Zhang_xin	male	native	As this technology is challenging, <foreign lang="English"> ABB </foreign> ABB company gave us a rather high quote.	8	601	1093	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3254.580	3259.080	Zhang_xin	male	native	We think that the level of difficulty was a condition for the rather high price.	8	601	1094	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3259.627	3265.330	Zhang_xin	male	native	However, in my mind I'd rather think that our Chinese people are smart; especially there is a group of technicians at our NAC.	8	601	1096	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3265.330	3272.595	Zhang_xin	male	native	In addition there are China Machinery, San'an in our community, including many cooperative partners in society. They are all our support.	8	601	1097	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3272.595	3277.252	speaker#1	male	native	So when you gathered these really excellent technicians, what order did you give them?	8	602	1098	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3277.252	3282.767	Zhang_xin	male	native	The order I gave was to hold a 100-day meeting to pool the wisdom of the collective and form a four-person joint team to take the challenge.	8	603	1099	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3284.231	3285.059	Zhang_xin	male	native	Very happy.	8	603	1101	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3287.505	3290.706	speaker#1	male	native	Uh, you see that Zhang Xin was so excited and so self-confident.	8	604	1103	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3290.706	3295.769	speaker#1	male	native	Are you still full of confidence about the future of the merge between NAC and Rover?	8	604	1104	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3295.769	3298.613	Wang_haoliang	male	native	I think I have seen confidence about the future of NAC.	8	605	1105	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3298.613	3299.063	speaker#1	male	native	Uh-huh.	8	606	1106	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3299.063	3301.753	Wang_haoliang	male	native	Back then, I wouldn't say there was no risk, no difficulty.	8	607	1107	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3301.753	3302.213	speaker#1	male	native	you,	8	608	1109	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3301.753	3305.237	Wang_haoliang	male	native	At that time, we had such a good team, such good technical personnel.	8	608	1108	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3305.237	3309.424	Wang_haoliang	male	native	Our key is that we have wisdom and strength.	8	609	1111	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3310.096	3312.767	Wang_haoliang	male	native	NAC can go through it step by step.	8	609	1113	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3317.937	3324.238	speaker#1	male	native	It seems that we could borrow one expression, um, NAC "fears not the trials of the Long March, holding light ten thousand crags and torrents."	8	610	1115	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3324.238	3330.249	speaker#1	male	native	Uh, actually in Chairman Wang's mind, he has aleady seen the obstacles upon obstacles that they have to overcome in future.	8	610	1116	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3330.249	3334.797	speaker#1	male	native	But today their confidence makes us also look forward to their future.	8	610	1117	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3334.797	3340.339	speaker#1	male	native	As to how exactly this "child" of British descent but Chinese nationality will grow up healthily,	8	610	1118	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3340.339	3342.282	speaker#1	male	native	this is what everyone of us is looking forward to.	8	610	1119	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3342.282	3344.587	speaker#1	male	native	Here is also our applause to you.	8	610	1120	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3344.587	3348.996	speaker#1	male	native	We wish such a child can grow up strong, healthy, lovable and beautiful.	8	610	1121	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3348.996	3351.152	speaker#1	male	native	Thank you, Mr. Wang, for coming to our studio today.	8	610	1122	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3351.152	3352.621	speaker#1	male	native	Thank you, everyone, for watching today's Dialogue.	8	610	1123	report	
+CCTV2_DIALOG_CMN_20070414_090011	0	3352.621	3353.324	speaker#1	male	native	Thanks.	8	610	1124	report	

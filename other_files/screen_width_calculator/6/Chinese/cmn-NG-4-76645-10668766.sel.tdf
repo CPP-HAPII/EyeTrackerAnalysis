@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76645-10668766	0	300.0	400.0	speaker	unknown	unknown	其中有两段，都是他为自己设计的大裤衩辩护	0	0	0		

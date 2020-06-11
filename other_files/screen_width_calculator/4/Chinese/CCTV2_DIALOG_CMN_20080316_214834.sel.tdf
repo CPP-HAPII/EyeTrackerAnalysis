@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'filler', u'report', u'filler', u'report', u'filler', u'filler', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', u'filler', u'filler', u'filler', None]
+;;MM sectionBoundaries	[0.0, 55.070999999999998, 65.332999999999998, 82.742999999999995, 91.055000000000007, 114.80200000000001, 340.71300000000002, 535.65599999999995, 947.39400000000001, 963.048, 982.87400000000002, 1025.932, 1378.71, 1393.337, 1424.934, 1428.152, 1497.4200000000001, 1697.21, 1973.2650000000001, 2045.846, 9999999.0]
+CCTV2_DIALOG_CMN_20080316_214834	0	1019.619	1025.932	Liu_Li_Juan	female	native	有的员工就怀疑,你这个土地置换,是不是这里有个人的这种那个猫腻	10	65	160	report	statement
+CCTV2_DIALOG_CMN_20080316_214834	0	1098.676	1106.317	Liu_Li_Juan	female	native	第二个呢是如果把这个钱置换出这个钱都给大家涨工资了,或者是分掉了,那可能也就没有长影的今天了	11	71	177	filler	statement
+CCTV2_DIALOG_CMN_20080316_214834	0	1428.152	1438.024	speaker#9	male	native	我们自己有疑虑,因为你看双方--双方 (()) 以前接触的不多 (()) ,也不理不了解	15	90	233	filler	statement
+CCTV2_DIALOG_CMN_20080316_214834	0	1462.452	1470.692	speaker#9	male	native	就说,你检察机关来预防了,是不是,是不是我这块发生问题了就可以不处理了,或者是还是什么	15	92	237	filler	statement
+CCTV2_DIALOG_CMN_20080316_214834	0	1818.570	1826.008	Liu_Li_Juan	female	native	啊同时呢它又有一个特点,就是集特效电影之大全,弥补了世界上的一个空白	17	101	258	filler	statement
+CCTV2_DIALOG_CMN_20080316_214834	0	2145.158	2151.986	Zhao_Guo_Guang	male	native	我到跟前一看,这个人就在那儿打麻将呢,呃他前面有一堆零钱,啊	19	118	294	filler	statement

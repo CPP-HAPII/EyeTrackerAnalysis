@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080706.0440	0	0.0	100.0	speaker	unknown	unknown	抗议者大规模示威反G8 日本部署爱国者导弹护卫	0	0	0		
+CNS_CMN_20080706.0440	0	400.0	500.0	speaker	unknown	unknown	国际乐施会成员沿用惯常的讽刺手法，装扮成日本首相福田康夫、美国总统布什等八国领导人，穿着和服合唱卡拉OK版的Abba乐队名曲《Money, Money, Money》。	0	0	0		
+CNS_CMN_20080706.0440	0	1800.0	1900.0	speaker	unknown	unknown	她在将于7日出版的德国《星期日镜报》的专访中说，预期今次峰会将采取一系列措施，确保全球粮食的供应。	0	0	0		
+CNS_CMN_20080706.0440	0	2300.0	2400.0	speaker	unknown	unknown	布朗说：“我给八国集团的讯息是：现在的经济危机并非意味着要把气候变化和发展的议题放在一旁，反而意味着我们不要松懈，要加倍努力。”	0	0	0		

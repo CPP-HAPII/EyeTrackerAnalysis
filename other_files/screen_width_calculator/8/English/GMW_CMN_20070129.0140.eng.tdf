@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20070129.0140	0	10010.000	10019.900				How Long Exactly is the Lifespan of Laws and Regulations?	0	0	0		
+GMW_CMN_20070129.0140	0	20010.000	20019.900				Written by Qiao Xinsheng 2007-01-29	0	0	0		
+GMW_CMN_20070129.0140	0	30010.000	30019.900				The press has launched a broad discussion centering on the "Provisional Regulations on Dealing with Collisions between Trains and Other Vehicles and Accidents Causing Railroad Trackside Casualties" promulgated by the State Council in 1979.	0	0	0		
+GMW_CMN_20070129.0140	0	30020.000	30029.900				The reason is that a train collision accident took place in Jingdezhen city in Jiangxi on January 7, 2007, killing a boy who was only 8 years old. The Jingdezhen railroad transportation office produced this regulation by the State Council, indicating that the maximum "relief payment" was 150 yuan.	0	0	0		
+GMW_CMN_20070129.0140	0	40010.000	40019.900				Large-scale legislation began in China in 1979, and throughout the 1980s a new law came out on average every 18 days. The speed of legislation was unrivalled in the world.	0	0	0		
+GMW_CMN_20070129.0140	0	40020.000	40029.900				However, as the thinking of people at that time had not been fully set free, the job of drafting laws under the government's guidance was colored by clear departmental interests.	0	0	0		
+GMW_CMN_20070129.0140	0	40030.000	40039.900				Therefore, by the late 1990s, Chinese laws began to be thoroughly overhauled.	0	0	0		
+GMW_CMN_20070129.0140	0	40040.000	40049.900				The lifespan of Chinese laws is on average around 10 to 20 years.	0	0	0		
+GMW_CMN_20070129.0140	0	50010.000	50019.900				From the beginning of this century, the democratic consciousness that informs legislation has become stronger, and legislators are making an effort to reflect the wishes of every social stratum in the text of laws.	0	0	0		
+GMW_CMN_20070129.0140	0	50020.000	50029.900				But, in the process of perfecting China's legal system, we must stick to the following principles: first, before laws and regulations have been amended, judicial bodies must strictly abide by the law, even if the law is inhumane, and they cannot change the laws and regulations without authorization or misconstrue the meaning of the law.	0	0	0		
+GMW_CMN_20070129.0140	0	50030.000	50039.900				Second, in the case of those laws and regulations that are clearly behind the times, the legislature should be urged to amend them instead of annulling laws and regulations by means of judicial rulings.	0	0	0		
+GMW_CMN_20070129.0140	0	50040.000	50049.900				Furthermore, the NPC and its Standing Committee should consider abolishing regulations that give law-making powers to authorities as soon as possible, and should firmly keep law-making powers that relate to the basic civil system in the hands of the NPC.	0	0	0		
+GMW_CMN_20070129.0140	0	50050.000	50059.900				(Beijing Youth Daily, 1.19)	0	0	0		

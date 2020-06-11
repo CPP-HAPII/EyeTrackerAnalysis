@@ -1,0 +1,686 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 376.14600000000002, 1020.534, 1086.9680000000001, 1569.1110000000001, 1634.5989999999999, 1832.9490000000001, 9999999.0]
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	376.146	378.114	Dou_wentao	male	native	Behind the Headlines, hello everyone.	1	1	1	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	378.926	381.270	Dou_wentao	male	native	Jianxiang has come, Mr. Xu.	1	1	3	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	381.270	382.864	Dou_wentao	male	native	This is the first time you meet Mr. Xu ah.	1	1	4	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	382.864	385.598	Dou_wentao	male	native	Oh, and Jianxiang is a virgin here today.	1	1	5	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	385.598	386.364	Huang_jianxiang	male	native	Yes, right, right, right.	1	2	6	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	386.364	387.380	Dou_wentao	male	native	The virgin wears glasses.	1	3	7	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	387.380	388.474	Huang_jianxiang	male	native	Right, right, right, right, right.	1	4	8	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	388.474	391.006	Dou_wentao	male	native	In fact, there are no lenses.	1	5	9	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	388.474	391.006	Huang_jianxiang	male	native	In this ((pw)), age,	1	5	10	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	391.006	392.772	Huang_jianxiang	male	native	in these years, it's difficult to have a first-time.	1	6	11	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	392.772	396.428	Huang_jianxiang	male	native	I've devoted my first-time wearing glasses on TV to Behind the Headlines with Dou Wentao.	1	6	12	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	396.428	398.334	Dou_wentao	male	native	Oops, you are really trying to make a deal with me the first time you come,	1	7	13	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	398.334	399.990	Dou_wentao	male	native	saying if I come to yours, you have to go to mine.	1	7	14	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	399.990	401.268	Huang_jianxiang	male	native	Right, right, right, right, right. This is a must.	1	8	15	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	401.268	401.947	Huang_jianxiang	male	native	You have to	1	9	16	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	401.268	401.947	Dou_wentao	male	native	Alright.	1	9	17	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	401.947	403.603	Huang_jianxiang	male	native	participate in the Daily Games.	1	10	18	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	403.603	405.337	Dou_wentao	male	native	I, right, the Daily Games.	1	11	19	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	405.337	407.774	Dou_wentao	male	native	But uh, as I see ah, he is indeed the sports type,	1	11	20	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	407.774	408.093	Huang_jianxiang	male	native	Uh-huh.	1	12	21	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	408.093	409.919	Dou_wentao	male	native	who really fights like a man.	1	13	22	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	409.919	410.129	Huang_jianxiang	male	native	Um-hum.	1	14	23	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	410.129	412.149	Dou_wentao	male	native	As soon as he came, I said, I said, Jianxiang what shall we talk about.	1	15	24	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	412.149	413.993	Dou_wentao	male	native	Can we curse reporters? Can we curse reporters?	1	15	25	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	413.993	415.714	Xu_zidong	male	native		1	16	26	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	413.993	415.714	Dou_wentao	male	native		1	16	27	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	415.714	417.589	Dou_wentao	male	native	What reporters offended you again recently?	1	17	28	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	417.589	419.933	Huang_jianxiang	male	native	Uh, not recently, anyway it has always been this way.	1	18	29	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	419.933	420.417	Dou_wentao	male	native	Uh-huh.	1	19	30	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	420.417	428.124	Huang_jianxiang	male	native	Now uh the reporters are like this. He um he writes reviews to curse you.	1	20	31	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	428.124	429.972	Huang_jianxiang	male	native	It's his right.	1	21	32	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	428.124	429.972	Dou_wentao	male	native	That is freedom of speech.	1	21	33	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	429.972	432.675	Huang_jianxiang	male	native	Right. But he fabricates news and facts, which is indeed	1	22	34	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	432.675	435.003	Dou_wentao	male	native	What news and facts are fabricated?	1	23	35	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	435.003	436.581	Huang_jianxiang	male	native	Uh, a lot of them ah.	1	24	36	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	436.581	437.238	Dou_wentao	male	native	Uh-huh.	1	25	37	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	437.238	439.660	Huang_jianxiang	male	native	For instance, an affair about me,	1	26	38	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	439.660	440.223	Dou_wentao	male	native	Uh-huh.	1	27	39	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	440.223	447.082	Huang_jianxiang	male	native	say, things about my um, uh, divorce and going to court with um my ex-wife for riches,	1	28	40	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	447.082	447.614	Dou_wentao	male	native	Uh-huh.	1	29	41	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	447.614	450.020	Huang_jianxiang	male	native	and about how much money I earned by publishing a book.	1	30	42	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	450.020	456.505	Huang_jianxiang	male	native	I saw a latest one today, where a reporter actually did accounting for me, saying I've garnered 660 thousand by publishing a book.	1	30	43	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	456.505	458.036	Dou_wentao	male	native	Alas, so loan me some.	1	31	44	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	458.036	459.115	Dou_wentao	male	native	Ah?	1	32	45	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	458.036	459.115	Huang_jianxiang	male	native	Eh, right, right, right, no.	1	32	46	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	459.115	461.694	Huang_jianxiang	male	native	I prepare to take the report to the boss of my publishing house ah.	1	33	47	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	461.694	463.537	Huang_jianxiang	male	native	Eh, it is said in the newspaper ah,	1	33	48	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	463.537	463.959	Dou_wentao	male	native	Uh-huh.	1	34	49	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	463.959	466.647	Huang_jianxiang	male	native	the number of copies printed is already over 300 thousand.	1	35	50	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	466.647	467.126	Dou_wentao	male	native	Uh-huh.	1	36	51	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	467.126	470.642	Huang_jianxiang	male	native	I actually earned 660 thousand, but you told me there are only 130 thousand copies.	1	37	52	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	470.642	471.894	Huang_jianxiang	male	native	I, I have to believe.	1	37	53	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	471.894	472.254	Huang_jianxiang	male	native	Later,	1	37	54	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	472.254	474.192	Huang_jianxiang	male	native	I should, I should, right.	1	38	55	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	472.254	474.192	Xu_zidong	male	native	The taxation office will find you later.	1	38	56	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	474.192	480.958	Huang_jianxiang	male	native	I have to believe the newspaper, which says according to an informed source they have investigated, the copies of my book have topped 300 thousand.	1	39	57	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	480.958	481.441	Dou_wentao	male	native	Uh-huh.	1	40	58	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	481.441	484.441	Huang_jianxiang	male	native	You should pay me royalties, and you can't conceal the copies printed.	1	41	59	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	484.441	486.706	Huang_jianxiang	male	native	Right? This is based on, we receive royalties based on copies printed.	1	41	60	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	486.706	488.347	Huang_jianxiang	male	native	You see this has helped me instead.	1	41	61	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	488.347	488.471	Xu_zidong	male	native	This is	1	42	62	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	488.347	488.471	Dou_wentao	male	native	Uh-huh.	1	42	63	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	488.471	489.249	Huang_jianxiang	male	native	This is a piece of fake	1	43	64	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	489.249	490.361	Dou_wentao	male	native	Didn't you see,	1	44	65	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	489.249	490.361	Huang_jianxiang	male	native	news. This is a good thing.	1	44	66	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	490.361	494.534	Dou_wentao	male	native	others um if you are a looker-on, they would feel you should be thankful to the reporter.	1	45	67	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	494.534	495.005	Huang_jianxiang	male	native	Right, right, right. The	1	46	68	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	495.005	495.346	Huang_jianxiang	male	native	matter	1	47	69	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	495.005	495.346	Dou_wentao	male	native	Uh-huh.	1	47	70	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	495.346	499.613	Huang_jianxiang	male	native	I should be thankful, but I also have um, also have um anger. Nonsense. Ah.	1	48	71	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	499.613	500.691	Dou_wentao	male	native	Are you really angry?	1	49	72	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	500.691	504.394	Huang_jianxiang	male	native	Uh, I'm, I, I'm really angry.	1	50	73	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	500.691	504.394	Dou_wentao	male	native	Your fury ah, your fury is real,	1	50	74	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	504.394	506.004	Dou_wentao	male	native	or is it a tactic?	1	51	75	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	506.004	507.957	Huang_jianxiang	male	native	Uh, sometimes I'm glad	1	52	76	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	507.957	510.629	Huang_jianxiang	male	native	and I think they are free and voluntary promoters. For instance,	1	52	77	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	510.629	512.988	Huang_jianxiang	male	native	for instance when the Daily Games just kicked off,	1	52	78	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	512.988	516.559	Huang_jianxiang	male	native	A downpour of overwhelming, uh,	1	52	79	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	517.338	518.026	Huang_jianxiang	male	native	be it censure	1	52	81	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	518.026	518.445	Huang_jianxiang	male	native	or	1	53	82	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	518.026	518.445	Dou_wentao	male	native	Yes, uh-huh.	1	53	83	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	518.445	523.351	Huang_jianxiang	male	native	debates. Just find some materials from the Internet for him to use.	1	54	84	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	523.351	527.476	Huang_jianxiang	male	native	There may be diversified voices on the Internet, eh. He chooses what he needs.	1	54	85	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	527.476	527.752	Dou_wentao	male	native	Uh-huh.	1	55	86	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	527.752	532.960	Huang_jianxiang	male	native	And then a netizen said, some netizen said, then he publishes it in the newspaper to be a piece of news.	1	56	87	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	532.960	536.226	Huang_jianxiang	male	native	He could publish a post in an Internet forum as a piece of news.	1	56	88	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	536.226	536.525	Dou_wentao	male	native	Ah.	1	57	89	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	536.525	540.992	Huang_jianxiang	male	native	I would say, is there any difference in such a practice from taking anonymous letters or anonymous telephone calls as news stories?	1	58	90	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	540.992	541.405	Huang_jianxiang	male	native	Ah?	1	59	91	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	540.992	541.405	Xu_zidong	male	native	Uh,	1	59	92	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	541.405	543.111	Xu_zidong	male	native	However, however to you, the ultimate effect is	1	60	93	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	543.111	544.289	Xu_zidong	male	native	good, right?	1	61	94	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	543.111	544.289	Huang_jianxiang	male	native	The result is the Daily Games	1	61	95	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	544.289	546.023	Huang_jianxiang	male	native	becomes a famous-brand program quickly.	1	62	96	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	546.023	546.872	Huang_jianxiang	male	native	I'm very thankful to them.	1	62	97	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	546.872	547.243	Dou_wentao	male	native	Right.	1	63	98	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	547.243	547.483	Huang_jianxiang	male	native	Just imagine	1	64	99	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	547.483	547.662	Huang_jianxiang	male	native	((pw))	1	65	100	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	547.483	547.662	Dou_wentao	male	native	So	1	65	101	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	547.662	549.878	Dou_wentao	male	native	it soon makes you a famous figure.	1	66	102	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	549.878	552.692	Huang_jianxiang	male	native	Alas. It's not quick for me. It has been over 10 years. It has been over 10 years before I become	1	67	103	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	552.692	553.032	Huang_jianxiang	male	native	who I am.	1	68	104	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	552.692	553.032	Dou_wentao	male	native	So	1	68	105	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	553.032	554.219	Dou_wentao	male	native	with some qualitative changes.	1	69	106	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	554.219	554.399	Huang_jianxiang	male	native	Right.	1	70	107	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	554.399	554.608	Dou_wentao	male	native	Uh-huh.	1	71	108	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	554.608	558.355	Huang_jianxiang	male	native	Just imagine these years ah, I'm neither a leader of the publicity department,	1	72	109	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	558.355	558.860	Huang_jianxiang	male	native	nor	1	73	110	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	558.355	558.860	Dou_wentao	male	native	Uh-huh.	1	73	111	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	558.860	560.011	Huang_jianxiang	male	native	the competent authority of the industry.	1	74	112	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	565.637	566.544	Huang_jianxiang	male	native	Except you ask them to	1	74	114	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	567.893	569.252	Huang_jianxiang	male	native	release a paid-for new story,	1	74	116	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	570.950	572.856	Huang_jianxiang	male	native	which you have to write your news.	1	74	118	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	572.856	576.075	Huang_jianxiang	male	native	And then, then they have to write good things about you.	1	75	119	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	572.856	576.075	Xu_zidong	male	native	So you have to be controversial.	1	75	120	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	576.075	577.638	Huang_jianxiang	male	native	If we were them, we wouldn't do that either.	1	76	121	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	577.638	580.435	Huang_jianxiang	male	native	For instance, if somebody forces me to write your news everyday, good things about you everyday,	1	76	122	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	580.435	582.842	Dou_wentao	male	native	alright, alright, just sign, then I would be angry.	1	77	123	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	580.435	582.842	Huang_jianxiang	male	native	Definitely not.	1	77	124	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	582.842	587.576	Huang_jianxiang	male	native	Right? I think I have to write about you everyday, without getting a penny from you.	1	78	125	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	587.576	591.061	Huang_jianxiang	male	native	Nobody forces me to write good things about you, then I'll write bad things about you.	1	78	126	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	591.061	594.248	Huang_jianxiang	male	native	However, conversely, they are also free voluntary promoters ah,	1	78	127	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	594.248	594.842	Huang_jianxiang	male	native	which is not bad.	1	79	128	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	594.248	594.842	Dou_wentao	male	native	This ah,	1	79	129	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	594.842	599.514	Dou_wentao	male	native	The issue he, he mentioned ah, reminds me of Lu Xun's arguments about um the killing gossips.	1	80	130	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	599.514	599.824	Huang_jianxiang	male	native	Uh-huh.	1	81	131	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	599.824	605.890	Dou_wentao	male	native	He ((pw)), is reasonable, as Lu Xun said the present, the reporters in his time ah, what were they usually like?	1	82	132	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	605.890	610.111	Dou_wentao	male	native	Eh, if you said it was not fact, it contained a bit fact.	1	82	133	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	610.111	610.351	Huang_jianxiang	male	native	Uh-huh.	1	83	134	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	610.351	612.295	Dou_wentao	male	native	But they insisted on adding some descriptions.	1	84	135	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	612.295	615.327	Dou_wentao	male	native	For instance, they would like to add some descriptions to women.	1	84	136	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	615.327	620.124	Dou_wentao	male	native	Whenever it came to a woman, she was either a graceful middle-aged lady or an adorable teenage gal.	1	84	137	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	620.124	624.405	Dou_wentao	male	native	If a girl ran away they would write the litter girl was not used to living alone without a man.	1	84	138	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	624.405	626.327	Dou_wentao	male	native	That is not used to absence of the company of a man.	1	85	139	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	624.405	626.327	Xu_zidong	male	native		1	85	140	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	626.327	628.577	Dou_wentao	male	native	So he said that is Lu Xun	1	86	141	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	628.577	633.008	Xu_zidong	male	native	was a boy not used to studying without his mother by the side.	1	87	142	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	633.008	638.086	Dou_wentao	male	native	Right. And uh he also thought about, he said, say, Ruan Lingyu ah. What's her psychology?	1	88	143	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	638.086	638.268	Huang_jianxiang	male	native	Uh-huh.	1	89	144	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	638.268	640.124	Dou_wentao	male	native	An average uncle or aunt	1	90	145	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	640.124	640.393	Huang_jianxiang	male	native	Uh-huh.	1	91	146	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	640.393	641.774	Dou_wentao	male	native	likes to hear about acquaintances	1	92	147	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	641.774	642.151	Huang_jianxiang	male	native	Yes, uh-huh, uh-huh.	1	93	148	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	642.151	643.011	Dou_wentao	male	native	affairs about acquaintances.	1	94	149	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	643.011	643.448	Huang_jianxiang	male	native	Yeah.	1	95	150	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	643.448	646.448	Dou_wentao	male	native	For instance, if someone is said to have an affair with a guy in Xinjiang,	1	96	151	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	646.448	646.681	Huang_jianxiang	male	native	Uh-huh.	1	97	152	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	646.681	648.682	Dou_wentao	male	native	or in Tibet, uh, on an elopement.	1	98	153	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	648.682	649.002	Huang_jianxiang	male	native	Uh-huh.	1	99	154	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	649.002	650.214	Dou_wentao	male	native	You're not ((pw)) you're not interested?	1	100	155	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	650.214	650.394	Huang_jianxiang	male	native	Uh-huh.	1	101	156	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	650.394	652.010	Dou_wentao	male	native	Is that necessarily because you're famous?	1	102	157	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	652.010	654.013	Dou_wentao	male	native	So you are just like acquaintances around me.	1	102	158	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	654.013	654.346	Dou_wentao	male	native		1	103	159	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	654.013	654.346	Huang_jianxiang	male	native	Uh-huh, right.	1	103	160	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	654.346	654.763	Huang_jianxiang	male	native	Right, right.	1	104	161	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	654.763	658.387	Dou_wentao	male	native	Eh, if you do not live next door to me, or live in our alley, or lane,	1	105	162	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	658.387	658.730	Dou_wentao	male	native	eh,	1	106	163	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	658.730	660.304	Huang_jianxiang	male	native	you'd better be a celebrity in our town.	1	107	164	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	660.813	663.965	Dou_wentao	male	native	So, you see his speech just now reminded me of the personality.	1	108	166	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	663.965	668.559	Dou_wentao	male	native	Say, some of my friends say you, they say Huang Jianxiang ah is a person who can't be subdued.	1	108	167	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	668.559	669.027	Huang_jianxiang	male	native	Uh-huh.	1	109	168	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	669.027	672.105	Dou_wentao	male	native	That is he gets serious with you on everything. You see this was shown just now.	1	110	169	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	672.105	674.753	Dou_wentao	male	native	In addition, uh, a supervisor of us, Liu, Liu Chun,	1	110	170	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	674.753	675.049	Huang_jianxiang	male	native	Yes, uh-huh.	1	111	171	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	675.049	678.958	Dou_wentao	male	native	eh, I found Liu, Liu Chun, who told me after having dinner with Jianxiang,	1	112	172	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	678.958	684.768	Dou_wentao	male	native	saying, oops, I thought Huang Jianxiang was an aggressive, and a loud person. He said actually not,	1	112	173	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	684.768	691.058	Dou_wentao	male	native	saying that actually ah he is a particularly sensitive, and even, in his idea, with a kind of frailty.	1	112	174	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	691.058	695.308	Dou_wentao	male	native	Liu Chun even said that when I sat alongside him, I even had an impulse to protect him.	1	112	175	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	695.308	697.719	Dou_wentao	male	native	, eh.	1	113	176	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	695.308	697.719	Xu_zidong	male	native		1	113	177	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	698.766	699.566	Dou_wentao	male	native	Directing	1	114	179	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	700.566	702.488	Dou_wentao	male	native	Brokeback Mountain ah.	1	114	181	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	703.191	704.590	Huang_jianxiang	male	native	I, I have one recently.	1	115	183	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	704.590	706.877	Xu_zidong	male	native	You've cut their way of retreat. Brokeback, Brokeback.	1	116	184	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	706.877	710.392	Huang_jianxiang	male	native	Um reporters now write fake news or bad news	1	117	185	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	710.392	710.677	Dou_wentao	male	native	Uh-huh.	1	118	186	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	710.677	714.332	Huang_jianxiang	male	native	for two reasons. One is that he is on purpose, bent on ruining you.	1	119	187	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	714.332	716.613	Huang_jianxiang	male	native	He has come with vicious intention in the first place.	1	119	188	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	716.613	717.165	Huang_jianxiang	male	native	Also	1	120	189	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	716.613	717.165	Xu_zidong	male	native	Uh-huh,	1	120	190	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	717.165	717.566	Xu_zidong	male	native	idea.	1	121	191	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	717.566	720.957	Huang_jianxiang	male	native	Another is uh he has come with a stance, with a perception in the first place.	1	122	192	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	721.629	728.098	Huang_jianxiang	male	native	Another uh is that he meant for good, but has problems with his skills or insights.	1	122	194	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	728.098	730.613	Huang_jianxiang	male	native	Once he puts something to words, he will hurt others instead.	1	122	195	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	730.613	731.014	Dou_wentao	male	native	Uh-huh.	1	123	196	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	731.014	734.686	Huang_jianxiang	male	native	For example in a latest report, he visited the scene of our program,	1	124	197	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	734.686	736.342	Huang_jianxiang	male	native	and wrote an article, which describes	1	124	198	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	739.200	745.778	Huang_jianxiang	male	native	how hard it is to make a program at the Phoenix, as a newcomer, how um shabby the production team is, and how poor the conditions are.	1	124	200	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	745.778	747.380	Dou_wentao	male	native	Is he trying to slander us Phoenix?	1	125	201	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	747.380	750.182	Huang_jianxiang	male	native	Right, you see, you see, you wouldn't agree upon hearing this?	1	126	202	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	750.182	751.152	Dou_wentao	male	native		1	127	203	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	751.152	756.292	Huang_jianxiang	male	native	((pw)), um, first, it is inappropriate to compare my former employer with the current work conditions.	1	128	204	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	756.292	760.527	Huang_jianxiang	male	native	You relate to two major TV, TV stations at one fling.	1	128	205	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	760.527	765.793	Huang_jianxiang	male	native	Second, have you, you been to CCTV to see former work conditions of Huang Jianxiang? Have you seen?	1	128	206	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	765.793	768.731	Huang_jianxiang	male	native	If you have written about my workplace of the past 13 years,	1	128	207	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	770.809	771.340	Huang_jianxiang	male	native	nowhere,	1	128	209	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	771.340	773.371	Huang_jianxiang	male	native	and I can't argue with him now.	1	128	210	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	773.371	773.757	Huang_jianxiang	male	native	If I	1	129	211	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	773.371	773.757	Dou_wentao	male	native	Uh-huh.	1	129	212	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	773.757	776.699	Huang_jianxiang	male	native	argue, I will bring trouble to my former employer.	1	130	213	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	776.699	779.356	Huang_jianxiang	male	native	This is also something very ((pw)), against the social rules.	1	130	214	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	779.356	780.247	Dou_wentao	male	native	It's hard to be a person.	1	131	215	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	779.356	780.247	Huang_jianxiang	male	native	Right?	1	131	216	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	780.247	784.497	Huang_jianxiang	male	native	There's another well, um, uh, which says I, uh, eat boxed meal.	1	132	217	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	784.497	787.560	Huang_jianxiang	male	native	Are you kidding, everyone making TV programs eats boxed meal.	1	132	218	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	787.560	790.185	Huang_jianxiang	male	native	No matter it is at the China Central Television or at Phoenix, everyone eats boxed meals.	1	132	219	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	790.185	792.966	Dou_wentao	male	native	It gives the feeling that it wants to create a ((pw)), a pathetic image.	1	133	220	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	792.966	796.107	Huang_jianxiang	male	native	Right, right, right, right. Then uh um, um, uh	1	134	221	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	792.966	796.107	Dou_wentao	male	native		1	134	222	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	796.107	798.779	Huang_jianxiang	male	native	it said I um, uh, very modest and meticulous.	1	135	223	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	798.779	801.935	Huang_jianxiang	male	native	Uh, I have to welcome the guests outside and then see them off outside,	1	135	224	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	801.935	803.701	Huang_jianxiang	male	native	uh, handling things properly. This,	1	135	225	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	804.747	806.841	Huang_jianxiang	male	native	At the first glance, it seems to be a compliment.	1	135	227	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	806.841	814.157	Huang_jianxiang	male	native	However, the implied words uh seem to be how proud I used to be, how strong and how arrogant I was when I had the CCTV as my backer.	1	135	228	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	814.157	815.778	Huang_jianxiang	male	native	Now without the CCTV as the backer,	1	135	229	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	815.778	816.014	Dou_wentao	male	native	Uh-huh.	1	136	230	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	816.014	818.020	Huang_jianxiang	male	native	I have to keep a low profile. It seems as if I was a rude	1	137	231	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	818.020	818.544	Huang_jianxiang	male	native	person.	1	138	232	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	818.020	818.544	Dou_wentao	male	native	Right.	1	138	233	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	818.544	821.103	Dou_wentao	male	native	I, I tell you, the thing you, you said	1	139	234	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	821.103	821.403	Dou_wentao	male	native		1	140	235	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	821.103	821.403	Huang_jianxiang	male	native	His um	1	140	236	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	821.403	822.900	Huang_jianxiang	male	native	implied words make you very uncomfortable after you read it.	1	141	237	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	822.900	823.641	Huang_jianxiang	male	native		1	142	238	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	822.900	823.641	Xu_zidong	male	native	You, you haven't been to	1	142	239	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	823.641	824.603	Xu_zidong	male	native	Hong Kong to stay for a while.	1	143	240	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	824.603	828.435	Xu_zidong	male	native	If you went to Hong Kong, and were surrounded by the Hong Kong media for a while, now you wouldn't have so many	1	143	241	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	828.435	828.914	Xu_zidong	male	native	complaints.	1	144	242	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	828.435	828.914	Dou_wentao	male	native	The thing	1	144	243	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	828.914	829.494	Dou_wentao	male	native	he was talking about	1	145	244	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	829.494	830.994	Huang_jianxiang	male	native	So, so, so these	1	146	245	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	829.494	830.994	Dou_wentao	male	native	reminds me of	1	146	246	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	830.994	833.103	Huang_jianxiang	male	native	would give you no feelings at all ha. You feel they are not exciting enough.	1	146	247	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	830.994	833.103	Dou_wentao	male	native	you, you	1	146	248	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	833.103	834.878	Huang_jianxiang	male	native	Let the storm be stronger.	1	146	249	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	833.103	834.878	Dou_wentao	male	native	No.	1	146	250	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	834.878	836.191	Dou_wentao	male	native	Don't bluff, Mr. Xu.	1	147	251	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	836.191	836.429	Huang_jianxiang	male	native	Uh-huh.	1	148	252	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	836.429	840.292	Dou_wentao	male	native	I, I think if it were me in Hong Kong, I would be different than him.	1	149	253	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	840.292	844.943	Dou_wentao	male	native	So uh I think when you are under huge pressure ah, the response is very different.	1	149	254	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	844.943	846.584	Dou_wentao	male	native	Say, you are fighting, right?	1	149	255	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	846.584	848.896	Dou_wentao	male	native	I tell you I, do you remember those years?	1	149	256	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	848.896	850.256	Dou_wentao	male	native	A Hong Kong weekly	1	149	257	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	850.256	850.448	Huang_jianxiang	male	native	Uh-huh.	1	150	258	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	850.448	852.443	Dou_wentao	male	native	took a picture of Wang Fei and me.	1	151	259	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	852.443	855.680	Huang_jianxiang	male	native	Eh, you had pictures with Wang Fei uh?	1	152	260	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	855.680	856.651	Dou_wentao	male	native	and very obscure.	1	153	261	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	855.680	856.651	Huang_jianxiang	male	native	Uh-huh.	1	153	262	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	856.651	858.584	Dou_wentao	male	native	With the title,	1	154	263	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	856.651	858.584	Xu_zidong	male	native	Dou, Dou Wei the Second.	1	154	264	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	858.584	859.280	Xu_zidong	male	native	Dou Wei the Second.	1	155	265	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	859.280	859.633	Huang_jianxiang	male	native	Uh-huh.	1	156	266	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	859.633	860.500	Dou_wentao	male	native	Don't say that.	1	157	267	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	860.500	862.374	Xu_zidong	male	native	The family name is also Dou, the family name happens to be Dou as well.	1	158	268	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	862.374	863.015	Dou_wentao	male	native	It's true.	1	159	269	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	863.015	865.201	Xu_zidong	male	native	Lifting his feet ah, height ah, things like that.	1	160	270	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	865.201	868.375	Dou_wentao	male	native	I tell you the two guys behind me then,	1	161	271	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	868.375	868.554	Huang_jianxiang	male	native	Uh-huh.	1	162	272	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	868.554	870.234	Dou_wentao	male	native	one was Xu Zidong, and one was Liang Wendao.	1	163	273	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	870.234	870.564	Huang_jianxiang	male	native	Yeah.	1	164	274	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	870.564	872.829	Dou_wentao	male	native	We three were eating, and they took pictures of us two.	1	165	275	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	872.829	873.135	Huang_jianxiang	male	native	Yeah.	1	166	276	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	873.135	875.021	Dou_wentao	male	native	Then the next day, the guy from the weekly	1	167	277	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	875.021	875.201	Huang_jianxiang	male	native	Uh-huh.	1	168	278	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	875.201	875.916	Dou_wentao	male	native	came to our company.	1	169	279	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	875.916	877.977	Huang_jianxiang	male	native	Because they two were too old,	1	170	280	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	877.977	879.602	Huang_jianxiang	male	native	and not well-known enough.	1	171	281	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	877.977	879.602	Xu_zidong	male	native	No, you don't know.	1	171	282	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	879.602	885.634	Xu_zidong	male	native	I was really at the back, I was at the back, but actually Liang Wendao was in the front, protecting Wang Fei.	1	172	283	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	885.634	888.604	Xu_zidong	male	native	As a result uh, the head was cut off, leaving half a body.	1	172	284	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	888.604	889.585	Xu_zidong	male	native	Back then	1	173	285	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	888.604	889.585	Dou_wentao	male	native	It's true.	1	173	286	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	889.585	890.417	Xu_zidong	male	native	he was not yet the CCTV	1	174	287	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	890.417	891.714	Xu_zidong	male	native	president.	1	175	288	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	890.417	891.714	Dou_wentao	male	native	No, if he were the CCTV president,	1	175	289	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	891.714	892.876	Xu_zidong	male	native	then you would have no place.	1	176	290	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	892.876	893.677	Huang_jianxiang	male	native	Who is the CCTV president?	1	177	291	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	892.876	893.677	Dou_wentao	male	native	No, no.	1	177	292	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	893.677	895.253	Huang_jianxiang	male	native	I can be?	1	177	293	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	893.677	895.253	Dou_wentao	male	native	I'm giving you an example.	1	177	294	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	895.253	895.873	Xu_zidong	male	native	I'll be later.	1	178	295	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	895.253	895.873	Dou_wentao	male	native	So I, you,	1	178	296	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	895.873	896.065	Huang_jianxiang	male	native	I see.	1	179	297	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	895.873	896.065	Dou_wentao	male	native	What you	1	179	298	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	896.065	897.394	Dou_wentao	male	native	remind me of is uh	1	180	299	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	897.394	898.807	Dou_wentao	male	native	that the next day the guys from weekly	1	180	300	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	898.807	898.986	Huang_jianxiang	male	native	Uh-huh.	1	181	301	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	898.986	899.832	Dou_wentao	male	native	came to our company	1	182	302	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	899.832	902.755	Dou_wentao	male	native	and asked for Behind the Headlines via the Public Relations Department.	1	182	303	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	902.755	903.717	Dou_wentao	male	native	How could you know?	1	182	304	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	903.717	903.986	Huang_jianxiang	male	native	Uh-huh.	1	183	305	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	903.986	907.365	Dou_wentao	male	native	The pair asked how long it has been since your program started, blah, blah, blah for a long time.	1	184	306	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	907.365	910.912	Dou_wentao	male	native	When they were halfway through, suddenly, who invited you the day you had meal with Wang Fei?	1	184	307	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	910.912	912.928	Dou_wentao	male	native	Oops, I was stunned on hearing that.	1	184	308	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	912.928	916.100	Dou_wentao	male	native	I retreated on the spot, I would never, I, I wouldn't talk about this.	1	184	309	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	916.100	916.459	Huang_jianxiang	male	native	Uh-huh.	1	185	310	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	916.459	918.209	Dou_wentao	male	native	Then the magazine carried this,	1	186	311	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	918.209	924.372	Dou_wentao	male	native	which said that Dou Wentao said he had meal with Wang Fei not because he asked Wang Fei out, but because Wang Fei asked him out.	1	186	312	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	924.372	924.950	Huang_jianxiang	male	native	I see.	1	187	313	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	924.950	926.137	Dou_wentao	male	native	This was pure fabrication.	1	188	314	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	926.137	926.356	Huang_jianxiang	male	native	Uh-huh.	1	189	315	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	926.356	931.418	Dou_wentao	male	native	However, you know, once this was out, I found I was not nearly as strong mentally as Wang Fei.	1	190	316	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	931.418	931.793	Huang_jianxiang	male	native	Yeah.	1	191	317	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	931.793	935.230	Dou_wentao	male	native	I kept my cell phone off for a week, switched it off.	1	192	318	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	935.230	938.308	Dou_wentao	male	native	I didn't want to know anything. That means I stayed far away from the matter.	1	192	319	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	938.308	940.246	Dou_wentao	male	native	I uh, nobody should ask me, and I didn't want to know anything either.	1	192	320	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	940.246	941.886	Dou_wentao	male	native	I even called Wang Fei to apologize.	1	192	321	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	941.886	942.206	Huang_jianxiang	male	native	Uh-huh.	1	193	322	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	942.206	947.308	Dou_wentao	male	native	I said I didn't said that ah, they blah, blah. It turned out Wang Fei said how come you are afraid of this uh, what's the big deal?	1	194	323	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	947.308	948.853	Xu_zidong	male	native	Really should learn from Wang Fei. I tell you,	1	195	324	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	948.853	951.074	Dou_wentao	male	native	So whatever he says,	1	196	325	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	948.853	951.074	Huang_jianxiang	male	native	Now I, I, I, now I	1	196	326	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	951.074	956.225	Huang_jianxiang	male	native	now I'm like this, I don't care. The reason why I said I'm angry is that their report has hurt my team.	1	197	327	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	956.225	958.991	Huang_jianxiang	male	native	Our, our girls and boys all feel unfairly treated.	1	197	328	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	958.991	959.850	Dou_wentao	male	native	Uh-huh.	1	198	329	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	959.850	961.819	Huang_jianxiang	male	native	The last point is that ah	1	199	330	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	961.819	966.085	Huang_jianxiang	male	native	when he was, he was, he was visiting us, we, I wouldn't talk to them.	1	199	331	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	966.085	969.257	Huang_jianxiang	male	native	Then, uh, I told the group of my program that I had some good news.	1	199	332	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	969.257	971.272	Huang_jianxiang	male	native	I said it had been only a week since our program was on air,	1	199	333	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	971.272	974.006	Huang_jianxiang	male	native	two apparel brands have approached the Phoenix,	1	199	334	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	974.006	974.304	Dou_wentao	male	native	Uh-huh.	1	200	335	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	974.304	977.475	Huang_jianxiang	male	native	hoping to provide support and cooperation in attire for our program.	1	201	336	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	977.475	980.085	Dou_wentao	male	native	Right, so the reporter could write it seemed the Phoenix had no clothes.	1	202	337	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	980.085	983.241	Huang_jianxiang	male	native	Right. He did write, he did write this, he said	1	203	338	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	980.085	983.241	Dou_wentao	male	native	Really?	1	203	339	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	983.241	988.429	Huang_jianxiang	male	native	with the original employer, Huang Jianxiang wouldn't have to worry about attire himself.	1	204	340	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	988.429	989.145	Dou_wentao	male	native		1	205	341	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	989.145	991.331	Huang_jianxiang	male	native	So, just the other way round. Actually uh we	1	206	342	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	991.331	992.273	Huang_jianxiang	male	native	in each program,	1	207	343	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	991.331	992.273	Xu_zidong	male	native	Uh, I,	1	207	344	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	992.273	995.364	Xu_zidong	male	native	I'm a little enlightened. You said it was all, not only targeted yourself.	1	208	345	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	995.364	996.631	Huang_jianxiang	male	native	He hurt my team.	1	209	346	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	996.631	998.224	Huang_jianxiang	male	native	You know? Uh-huh.	1	210	347	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	996.631	998.224	Xu_zidong	male	native	No, nor is it related to your team.	1	210	348	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	998.224	1003.990	Xu_zidong	male	native	Why? You know, reporters uh, they write the news, with the ((pw)) chief editor's idea behind, above them,	1	211	349	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1003.990	1004.235	Huang_jianxiang	male	native	Yes, uh-huh.	1	212	350	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1004.235	1005.724	Xu_zidong	male	native	and with the readers interests behind them.	1	213	351	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1005.724	1006.032	Huang_jianxiang	male	native	Uh-huh.	1	214	352	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1006.032	1013.004	Xu_zidong	male	native	People are interested in the transformation from state ownership to privatization, you're someone in it.	1	215	353	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1013.004	1014.830	Dou_wentao	male	native	Oops, Mr. Xu. Oops, you've	1	216	354	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1014.830	1016.981	Dou_wentao	male	native	raised it to a higher level,	1	217	355	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1014.830	1016.981	Xu_zidong	male	native	far-sighted, looking at this at an advantageous position uh.	1	217	356	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1016.981	1018.444	Dou_wentao	male	native	We look at this at an advantageous position.	1	218	357	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1018.444	1020.534	Dou_wentao	male	native	Behind the Headlines, see you after the ads.	1	218	358	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1086.968	1089.031	Dou_wentao	male	native	When I heard, I like to collect black anecdotes.	3	220	360	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1089.031	1089.181	Huang_jianxiang	male	native	Uh-huh.	3	221	361	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1089.181	1092.109	Dou_wentao	male	native	When I heard the matter you mentioned, I suddenly find Feng Xiaogang's black anecdote	3	222	362	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1092.109	1098.338	Dou_wentao	male	native	is the same. So you, so in this age ah sometimes it's hard to tell the motive	3	222	363	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1098.338	1099.468	Dou_wentao	male	native	his motive at heart.	3	223	364	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1098.338	1099.468	Huang_jianxiang	male	native	Right, right, right, right.	3	223	365	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1099.468	1105.154	Dou_wentao	male	native	However, some people, like, like Huang Jianxiang, I think he cares about your intention and your motive.	3	224	366	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1105.154	1107.966	Dou_wentao	male	native	For example, in Feng Xiaogang's case, uh many reporters asked,	3	224	367	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1107.966	1114.684	Dou_wentao	male	native	eh, would you watch um Riding Alone for Thousands of Miles first uh, or watch Promise uh first?	3	224	368	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1114.684	1116.299	Dou_wentao	male	native	Tell me you asked question	3	224	369	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1116.299	1116.627	Huang_jianxiang	male	native	Uh-huh.	3	225	370	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1116.627	1117.643	Dou_wentao	male	native	out of what purpose uh?	3	226	371	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1118.393	1119.190	Dou_wentao	male	native	We don't know.	3	226	373	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1119.190	1119.389	Huang_jianxiang	male	native	Uh-huh.	3	227	374	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1119.389	1121.233	Dou_wentao	male	native	But director Feng understood as soon as he heard this.	3	228	375	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1121.233	1121.499	Huang_jianxiang	male	native	Uh-huh.	3	229	376	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1121.499	1122.639	Dou_wentao	male	native	It is said he became furious immediately,	3	230	377	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1122.639	1125.296	Huang_jianxiang	male	native	indicating his rich experience in the struggle against the enemy.	3	231	378	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1125.296	1125.796	Huang_jianxiang	male	native	I	3	232	379	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1125.296	1125.796	Dou_wentao	male	native	Uh-huh.	3	232	380	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1125.796	1129.625	Huang_jianxiang	male	native	am also the same. My experience is also improving quickly in the struggle against the enemy.	3	233	381	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1129.625	1136.157	Huang_jianxiang	male	native	Eh, I went to the Phoenix Club yesterday, for a meeting with over 10 domestic mainstream media arranged by our ((pw)) PR company.	3	233	382	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1136.157	1136.516	Dou_wentao	male	native	Uh-huh.	3	234	383	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1136.516	1140.578	Huang_jianxiang	male	native	For two hours, I faced more than 20 reporters from over 10, over 10 newspapers alone.	3	235	384	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1140.578	1143.969	Huang_jianxiang	male	native	After the discussion, a colleague at our PR company praised me.	3	235	385	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1145.078	1145.885	Huang_jianxiang	male	native	Well-done,	3	235	387	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1145.885	1146.334	Huang_jianxiang	male	native	today	3	236	388	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1145.885	1146.334	Dou_wentao	male	native	Good.	3	236	389	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1146.334	1147.828	Huang_jianxiang	male	native	you avoided a couple of traps.	3	237	390	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1147.828	1151.783	Dou_wentao	male	native	Good heavens. They were all digging pits. No wonder	3	238	391	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1147.828	1151.783	Huang_jianxiang	male	native	Experience in the struggle against the enemy. Right, right, right, right.	3	238	392	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1151.783	1154.422	Dou_wentao	male	native	as soon as you came to make the program today, Wentao, what pits have you dug for me today?	3	239	393	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1154.422	1156.234	Xu_zidong	male	native		3	240	394	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1156.234	1158.071	Dou_wentao	male	native	Um, um wearing, wearing colored glasses,	3	241	395	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1158.071	1159.120	Dou_wentao	male	native	you can view the world.	3	242	396	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1158.071	1159.120	Huang_jianxiang	male	native	Right, right, right, right.	3	242	397	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1159.120	1163.485	Xu_zidong	male	native	From the experience in Hong Kong, Wang Fei is most aloof from the media.	3	243	398	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1163.485	1164.172	Huang_jianxiang	male	native	The coolest.	3	244	399	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1164.172	1166.141	Xu_zidong	male	native	But uh the media is very nice to her.	3	245	400	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1166.704	1167.292	Xu_zidong	male	native	This is very	3	245	402	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1167.292	1167.861	Xu_zidong	male	native	wierd.	3	246	403	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1167.292	1167.861	Dou_wentao	male	native	Why?	3	246	404	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1167.861	1168.673	Xu_zidong	male	native	Eh, no idea.	3	247	405	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1168.673	1170.845	Xu_zidong	male	native	Many people study this, ponder upon the matter.	3	247	406	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1170.845	1173.451	Xu_zidong	male	native	You know, Hong Kong's media follow closely.	3	248	407	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1170.845	1173.451	Huang_jianxiang	male	native	Right, right, right, that is the media, the media are despicable.	3	248	408	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1173.451	1175.124	Huang_jianxiang	male	native	The less you pay attention to them, the more they	3	249	409	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1175.124	1176.233	Xu_zidong	male	native	Again, the remark is offensive.	3	250	410	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1176.233	1178.997	Huang_jianxiang	male	native	No, I mean Hong Kong,	3	251	411	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1178.997	1181.045	Huang_jianxiang	male	native	I'd better not go to Hong Kong in the future.	3	251	412	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1181.045	1185.981	Xu_zidong	male	native	However, the media ah, sometimes take nothing personal. Rather it caters to reader's interests.	3	252	413	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1185.981	1187.278	Xu_zidong	male	native	Sometimes I only read the headlines.	3	252	414	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1187.278	1187.689	Xu_zidong	male	native	Leung	3	253	415	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1187.278	1187.689	Dou_wentao	male	native	Uh-huh.	3	253	416	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1187.689	1189.715	Xu_zidong	male	native	Ka-fai Bathing with Three Women.	3	254	417	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1189.715	1191.077	Xu_zidong	male	native	Wow, the headline ah.	3	255	418	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1189.715	1191.077	Huang_jianxiang	male	native	Really?	3	255	419	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1191.077	1193.571	Xu_zidong	male	native	When I read it uh, it turned out	3	256	420	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1191.077	1193.571	Dou_wentao	male	native	Lucky to have ladies around.	3	256	421	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1193.571	1194.919	Xu_zidong	male	native	one was his wife, and the other two were his daughters.	3	257	422	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1194.919	1197.878	Dou_wentao	male	native	Oh.	3	258	423	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1194.919	1197.878	Xu_zidong	male	native	So, so things ((pw)), like that.	3	258	424	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1197.878	1199.499	Xu_zidong	male	native	They like to do this.	3	259	425	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1197.878	1199.499	Huang_jianxiang	male	native	This uh, you	3	259	426	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1199.499	1201.112	Huang_jianxiang	male	native	can view it as a good intentioned joke,	3	260	427	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1201.112	1207.877	Huang_jianxiang	male	native	but many contain things that reflect his own stance or own motives.	3	260	428	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1207.877	1210.736	Huang_jianxiang	male	native	His is bent on ruining others. And uh what's funniest uh?	3	260	429	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1210.736	1216.375	Huang_jianxiang	male	native	Without news stories, they, for instance Hong Kong Paparazzi, European and American Paparazzi, at least they follow and they are true Paparazzi,	3	260	430	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1216.375	1216.746	Huang_jianxiang	male	native	they work very	3	261	431	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1216.375	1216.746	Dou_wentao	male	native	Uh-huh.	3	261	432	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1216.746	1217.079	Huang_jianxiang	male	native	hard.	3	262	433	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1217.079	1221.579	Huang_jianxiang	male	native	They rent a house opposite you, shooting you with huge camera lenses, and may follow you for several days.	3	262	434	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1221.579	1223.751	Huang_jianxiang	male	native	They work really hard, like detectives.	3	262	435	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1223.751	1226.720	Huang_jianxiang	male	native	Mainland reporters now don't even bother to watch,	3	262	436	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1227.595	1230.561	Huang_jianxiang	male	native	interview or make a call, before they fabricate something directly.	3	262	438	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1230.561	1232.486	Huang_jianxiang	male	native	Huang Jianxiang said, colon, double quotation marks.	3	262	439	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1232.486	1236.455	Xu_zidong	male	native	((pw)), why can they fabricate directly? It's because they know readers love to see these.	3	263	440	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1236.455	1239.190	Huang_jianxiang	male	native	And uh the prices or costs of fabrication are too low.	3	264	441	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1239.190	1240.412	Dou_wentao	male	native	Uh,	3	265	442	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1239.190	1240.412	Xu_zidong	male	native	Right, right.	3	265	443	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1240.412	1241.470	Dou_wentao	male	native	You want to go to court?	3	266	444	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1241.470	1245.083	Dou_wentao	male	native	If you,	3	267	445	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1241.470	1245.083	Huang_jianxiang	male	native	They would say whatever they want, want to. They'd rather you do this.	3	267	446	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1245.083	1247.583	Dou_wentao	male	native	Ah, so you can only choose to curse.	3	267	447	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1245.083	1247.583	Huang_jianxiang	male	native	I've become famous.	3	267	448	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1247.583	1248.286	Huang_jianxiang	male	native	Right, right, right, right, right.	3	268	449	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1248.286	1251.364	Huang_jianxiang	male	native	So under such circumstances, I, I, I predict ah,	3	268	450	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1251.364	1256.552	Huang_jianxiang	male	native	there must be reporters hacked, murdered and there must be murder cases in the mainland within a year or two.	3	268	451	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1256.552	1259.092	Dou_wentao	male	native	Good heavens. Your words are a little bit, a little bit,	3	269	452	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1256.552	1259.092	Huang_jianxiang	male	native	In fact, already	3	269	453	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1259.092	1260.889	Dou_wentao	male	native	a bit too.	3	269	454	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1259.092	1260.889	Huang_jianxiang	male	native	In fact, already there have been reporters beaten up.	3	269	455	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1260.889	1264.576	Huang_jianxiang	male	native	But these are merely common fights, with no life hurt.	3	270	456	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1264.576	1269.019	Huang_jianxiang	male	native	So, so on the public security level, it will not at all	3	271	457	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1264.576	1269.019	Dou_wentao	male	native	Yes, um, um, um, we are still against, against, en	3	271	458	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1269.019	1270.548	Huang_jianxiang	male	native	attract attention.	3	272	459	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1270.548	1274.330	Huang_jianxiang	male	native	daily fights, where many get their head broken.	3	273	460	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1270.548	1274.330	Xu_zidong	male	native	Celebrities will also, also suffer. Then ((pw))	3	273	461	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1274.330	1276.299	Dou_wentao	male	native	You see ah, I feel ah, you see us	3	274	462	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1274.330	1276.299	Huang_jianxiang	male	native	People would	3	274	463	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1276.299	1278.002	Dou_wentao	male	native	us bros are really different.	3	275	464	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1278.002	1278.335	Huang_jianxiang	male	native	Uh-huh.	3	276	465	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1278.335	1279.897	Dou_wentao	male	native	If such things happen to me,	3	277	466	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1279.897	1280.846	Dou_wentao	male	native	ah,	3	278	467	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1279.897	1280.846	Xu_zidong	male	native	then I will retreat.	3	278	468	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1280.846	1283.780	Dou_wentao	male	native	I will retreat. Forget it, forget it, I will not	3	279	469	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1280.846	1283.780	Huang_jianxiang	male	native	I also retreat ah, and shun away ah.	3	279	470	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1283.780	1284.420	Dou_wentao	male	native	not take heed of you. Is it	3	280	471	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1284.420	1285.171	Dou_wentao	male	native	ok if I don't look at it?	3	281	472	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1284.420	1285.171	Huang_jianxiang	male	native	Right, right.	3	281	473	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1285.171	1286.624	Huang_jianxiang	male	native	I'm not saying I will beat them up.	3	282	474	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1286.624	1287.249	Dou_wentao	male	native	Yeah.	3	283	475	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1286.624	1287.249	Huang_jianxiang	male	native	Because	3	283	476	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1287.249	1293.530	Huang_jianxiang	male	native	they've offended many people by creating, trading and writing fake stories ah.	3	284	477	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1293.530	1296.358	Huang_jianxiang	male	native	Not all of these people are of the same quality or same capability as us.	3	284	478	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1296.358	1296.808	Dou_wentao	male	native	Um-hum.	3	285	479	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1296.808	1297.874	Huang_jianxiang	male	native	We can only bear with it.	3	286	480	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1297.874	1299.109	Dou_wentao	male	native	Are you calling on people with different qualities	3	287	481	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1299.109	1301.547	Dou_wentao	male	native	or different capabilities to hurt reporters?	3	288	482	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1299.109	1301.547	Huang_jianxiang	male	native	We can only, we can only stay at home,	3	288	483	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1301.547	1306.282	Huang_jianxiang	male	native	Then, uh, at best you count on a, um Phoenix PR company to see	3	289	484	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1306.282	1309.715	Huang_jianxiang	male	native	if there are serious distortions or personal attacks.	3	289	485	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1309.715	1310.350	Huang_jianxiang	male	native	Right?	3	290	486	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1309.715	1310.350	Dou_wentao	male	native	Yes, uh-huh, uh-huh.	3	290	487	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1310.350	1312.649	Huang_jianxiang	male	native	You, your other, their comments on your business, you can do	3	291	488	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1312.649	1313.776	Huang_jianxiang	male	native	nothing at all. However,	3	292	489	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1312.649	1313.776	Xu_zidong	male	native	But it's quite funny.	3	292	490	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1313.776	1318.791	Huang_jianxiang	male	native	but there will be some people who will not treat the media violence as we do.	3	293	491	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1318.791	1322.294	Huang_jianxiang	male	native	The media is a kind of violence; you have to raise it to the level of violence.	3	293	492	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1322.294	1325.138	Xu_zidong	male	native	However, as far as what I've heard, they haven't hurt you much.	3	294	493	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1325.138	1329.732	Xu_zidong	male	native	All of them are quite minor, and, and not hurting you too seriously.	3	294	494	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1329.732	1336.045	Huang_jianxiang	male	native	Yes, yes, yes. Uh, I can only view them as free voluntary promoters. I'll still say I call them promoters, sowers.	3	295	495	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1336.045	1338.138	Huang_jianxiang	male	native	For instance, the other day a media editor	3	295	496	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1338.138	1338.385	Dou_wentao	male	native	Uh-huh.	3	296	497	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1338.385	1340.998	Huang_jianxiang	male	native	told me, you know why there's so much news about you,	3	297	498	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1340.998	1350.029	Huang_jianxiang	male	native	and we have to fabricate, and write crap, writing anything that we dig out on the Internet, and even fabricating a post from a forum into a news story?	3	297	499	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1350.029	1355.278	Huang_jianxiang	male	native	Because our boss has required that we must not leave out any news about Huang Jianxiang, otherwise will be fined, 500 per piece.	3	297	500	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1355.278	1359.965	Huang_jianxiang	male	native	If another newspaper carries a story of yours on a certain day, but we doesn't, we will be fined.	3	297	501	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1359.965	1363.791	Xu_zidong	male	native	Have you ever thought about why? Right.	3	298	502	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1359.965	1363.791	Huang_jianxiang	male	native	I said, my, I said my treatment is almost the same as President Hu.	3	298	503	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1363.791	1365.432	Xu_zidong	male	native	You see, have you ever thought about why?	3	299	504	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1365.432	1366.416	Huang_jianxiang	male	native	I don't know.	3	300	505	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1366.416	1368.179	Xu_zidong	male	native	Isn't it said in the Analects of Confucius	3	301	506	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1368.179	1368.416	Huang_jianxiang	male	native	Uh-huh.	3	302	507	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1368.416	1369.958	Xu_zidong	male	native	don't blame others for not knowing you,	3	303	508	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1369.958	1370.242	Huang_jianxiang	male	native	Uh-huh.	3	304	509	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1370.242	1371.853	Xu_zidong	male	native	think about if you know others or not.	3	305	510	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1371.853	1372.755	Dou_wentao	male	native	Uh-huh.	3	306	511	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1372.755	1378.003	Xu_zidong	male	native	Why, that is, that is I'm talking. I won't talk about things in your sports circle. In universities,	3	307	512	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1378.003	1378.430	Dou_wentao	male	native	Uh-huh.	3	308	513	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1378.430	1380.648	Xu_zidong	male	native	for a while, say people taught,	3	309	514	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1380.648	1381.887	Xu_zidong	male	native	but some went abroad.	3	309	515	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1381.887	1382.195	Huang_jianxiang	male	native	Uh-huh.	3	310	516	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1382.852	1385.690	Xu_zidong	male	native	Then the mentality of those who didn't go abroad, ((pw))	3	311	518	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1386.782	1388.407	Xu_zidong	male	native	those who went abroad overseas.	3	311	520	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1388.407	1390.056	Xu_zidong	male	native	all ah, what,	3	311	521	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1390.056	1390.806	Dou_wentao	male	native	Yeah.	3	312	522	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1390.806	1392.197	Dou_wentao	male	native	Have you got it?	3	313	523	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1390.806	1392.197	Xu_zidong	male	native	Right, right, right.	3	313	524	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1392.197	1397.447	Xu_zidong	male	native	because you see, instead of being a decent professor, you went abroad to do a PhD program, redo a PhD program.	3	314	525	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1397.447	1400.525	Huang_jianxiang	male	native	As if people staying here would only be comfortable if you were pathetic.	3	315	526	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1400.525	1401.389	Dou_wentao	male	native	Uh-huh.	3	316	527	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1400.525	1401.389	Xu_zidong	male	native	Do you understand?	3	316	528	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1401.389	1404.277	Xu_zidong	male	native	This requires you to know others, as you should know these reporters,	3	317	529	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1404.277	1404.983	Xu_zidong	male	native	behind whom	3	318	530	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1404.277	1404.983	Huang_jianxiang	male	native	Uh-huh.	3	318	531	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1404.983	1407.842	Xu_zidong	male	native	are demands of the chief editor, behind whom are demands of readers.	3	319	532	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1407.842	1408.199	Huang_jianxiang	male	native	Yes, uh-huh.	3	320	533	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1408.199	1413.748	Xu_zidong	male	native	The readers are demanding. At present, you know, there are some people doing very well in their existing positions,	3	321	534	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1413.748	1414.107	Huang_jianxiang	male	native	Uh-huh.	3	322	535	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1414.107	1416.795	Xu_zidong	male	native	but are treated somewhat unreasonably.	3	323	536	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1416.795	1420.482	Xu_zidong	male	native	They must also have some opportunities to step out like you,	3	323	537	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1420.482	1424.482	Xu_zidong	male	native	but they are worried that if they go out and leave the original shade of the big tree,	3	323	538	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1424.482	1429.512	Xu_zidong	male	native	they may not be able to enjoy the cool. This mentality is a public enjoyment, public interest.	3	323	539	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1429.512	1429.811	Huang_jianxiang	male	native	Uh-huh.	3	324	540	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1429.811	1432.420	Xu_zidong	male	native	So, here you have aroused others' interests.	3	325	541	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1432.420	1432.732	Huang_jianxiang	male	native	Uh-huh.	3	326	542	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1432.732	1434.138	Xu_zidong	male	native	It's not your own business.	3	327	543	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1434.138	1438.254	Xu_zidong	male	native	Just remember these, don't blame others for not knowing you, think about if you know others.	3	327	544	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1438.254	1438.497	Huang_jianxiang	male	native	Right.	3	328	545	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1438.497	1440.622	Dou_wentao	male	native	Is there a lesson for you?	3	329	546	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1438.497	1440.622	Huang_jianxiang	male	native	Mr. Xu. Yes, sure.	3	329	547	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1440.622	1442.474	Dou_wentao	male	native	Um, um the teacher is here uh. The fact is,	3	329	548	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1440.622	1442.474	Huang_jianxiang	male	native		3	329	549	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1442.474	1443.974	Huang_jianxiang	male	native	that is actually,	3	330	550	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1444.677	1446.645	Huang_jianxiang	male	native	it's not that I don't know others. Say, I	3	330	552	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1446.645	1450.848	Huang_jianxiang	male	native	in my um, I, I in my um	3	331	553	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1446.645	1450.848	Xu_zidong	male	native	It depends on yourself to think about it.	3	331	554	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1450.848	1459.161	Huang_jianxiang	male	native	Uh, nobody believes the most accurate, most detailed and most subjective things in the personal website ah, blog ah.	3	332	555	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1459.161	1459.974	Dou_wentao	male	native	Uh-huh.	3	333	556	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1459.974	1461.427	Huang_jianxiang	male	native	They insist on believing	3	334	557	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1461.427	1465.063	Huang_jianxiang	male	native	hearsay or groundless fake stories. For instance,	3	335	558	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1461.427	1465.063	Xu_zidong	male	native	Yeah. People, people, you know, people don't	3	335	559	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1465.063	1466.863	Xu_zidong	male	native	see things that exist, rather they see	3	336	560	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1466.863	1468.579	Xu_zidong	male	native	what they like to see.	3	337	561	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1466.863	1468.579	Huang_jianxiang	male	native	For instance I, I resign,	3	337	562	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1468.579	1477.689	Huang_jianxiang	male	native	uh, and three days later a complete one-hour video was posted on my website, with sound and image, as well as my full speech.	3	338	563	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1477.689	1479.392	Huang_jianxiang	male	native	Nothing wrong, is it?	3	338	564	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1479.392	1484.829	Huang_jianxiang	male	native	Some media carried the headline, the truth is evident, even a fool ((pw))	3	338	565	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1484.829	1487.407	Huang_jianxiang	male	native	The only thing is that the truth is no big deal, nothing fun.	3	338	566	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1487.407	1491.486	Huang_jianxiang	male	native	Nothing fun, no disputes, no bad things. They feel it is not the case.	3	338	567	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1491.486	1493.781	Huang_jianxiang	male	native	They insist on finding something for you. Tell me this is.	3	338	568	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1493.781	1494.594	Huang_jianxiang	male	native	This is their psychology.	3	338	569	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1494.594	1499.298	Dou_wentao	male	native	However, normally ah when people talk ah, I think they have a kind of cause-and-effect logic deep inside.	3	339	570	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1499.298	1499.659	Huang_jianxiang	male	native	Yes, uh-huh.	3	340	571	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1499.659	1502.064	Dou_wentao	male	native	That is so you become a public figure,	3	341	572	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1502.064	1502.626	Huang_jianxiang	male	native	Right, right, right.	3	342	573	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1502.626	1503.551	Dou_wentao	male	native	It's not sure	3	343	574	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1503.551	1504.629	Huang_jianxiang	male	native	Right, right, right.	3	344	575	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1504.629	1507.909	Dou_wentao	male	native	how many people. Why can't you accept this treatment?	3	345	576	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1507.909	1509.878	Huang_jianxiang	male	native	I accept, I enjoy, enjoy it ah.	3	346	577	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1509.878	1511.245	Huang_jianxiang	male	native	Not being a fish,	3	347	578	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1509.878	1511.245	Dou_wentao	male	native	Then why do you curse?	3	347	579	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1511.245	1513.237	Huang_jianxiang	male	native	Not being a fish, how can you know the happiness of a fish?	3	348	580	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1513.237	1516.874	Huang_jianxiang	male	native	I mean you shouldn't hurt my team. Like just now we two,	3	348	581	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1516.874	1518.134	Huang_jianxiang	male	native	even the attire,	3	348	582	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1518.134	1518.461	Huang_jianxiang	male	native	we,	3	348	583	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1518.461	1518.894	Huang_jianxiang	male	native	I for our	3	349	584	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1519.582	1521.545	Huang_jianxiang	male	native	young girl, who stayed up four days and four nights.	3	349	586	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1521.545	1522.263	Dou_wentao	male	native	Without sleep, uh-huh.	3	350	587	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1522.263	1523.348	Huang_jianxiang	male	native	Each time we make the program,	3	351	588	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1523.348	1524.449	Huang_jianxiang	male	native	((pw)), she	3	351	589	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1525.137	1527.176	Huang_jianxiang	male	native	brings a suit, well pressed.	3	351	591	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1527.176	1532.379	Huang_jianxiang	male	native	He said I ((pw)), he said, if I were at my former company, I wouldn't have to worry about attire.	3	351	592	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1532.379	1534.504	Huang_jianxiang	male	native	Our young girl cried out of the unfair judgment.	3	351	593	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1534.504	1536.301	Huang_jianxiang	male	native	I would feel it's really unfair.	3	351	594	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1536.301	1538.426	Huang_jianxiang	male	native	And the news is just the other way round.	3	351	595	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1538.426	1540.534	Xu_zidong	male	native	You tell her, if you work for	3	352	596	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1541.286	1544.172	Xu_zidong	male	native	Huang Jianxiang, now you have to bear this. You can't help.	3	352	598	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1544.172	1546.578	Huang_jianxiang	male	native	Yes, yes, yes. I	3	353	599	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1544.172	1546.578	Xu_zidong	male	native	Or you can go back and say	3	353	600	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1546.578	1547.863	Xu_zidong	male	native	I work for Huang Jianxiang.	3	354	601	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1548.659	1550.753	Xu_zidong	male	native	It's different from working for others, as people know about it.	3	354	603	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1550.753	1554.924	Xu_zidong	male	native	There's a balanced view in everything.	3	355	604	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1550.753	1554.924	Huang_jianxiang	male	native	Right, right. Our editor also said	3	355	605	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1554.924	1558.283	Huang_jianxiang	male	native	he said it bullied us, saying the author of the article was bullying our team.	3	356	606	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1558.283	1559.564	Huang_jianxiang	male	native	They can't just swallow it.	3	356	607	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1559.564	1560.955	Huang_jianxiang	male	native	Just see.	3	357	608	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1559.564	1560.955	Xu_zidong	male	native	Everyone can be more united.	3	357	609	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1560.955	1561.766	Dou_wentao	male	native	Today, it's not only	3	358	610	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1560.955	1561.766	Xu_zidong	male	native	This way.	3	358	611	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1561.766	1562.789	Dou_wentao	male	native	Huang Jianxiang's accusations.	3	359	612	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1562.789	1563.990	Dou_wentao	male	native	He accuses on behalf of his team.	3	359	613	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1563.990	1564.140	Huang_jianxiang	male	native	Right.	3	360	614	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1564.140	1565.241	Dou_wentao	male	native	It appears that a soccer commentator	3	361	615	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1565.241	1566.617	Dou_wentao	male	native	attaches great importance to the team.	3	362	616	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1565.241	1566.617	Huang_jianxiang	male	native	Alas, I, right,	3	362	617	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1566.617	1567.104	Huang_jianxiang	male	native	right, right, right, right.	3	363	618	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1567.104	1569.111	Dou_wentao	male	native	Behind the Headlines, see you after the ads.	3	364	619	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1634.599	1636.989	Dou_wentao	male	native	Mr. Xu, you have associated Jianxiang with your academia, haven't you?	5	366	621	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1636.989	1638.942	Xu_zidong	male	native	Right, this is a rather universal mentality.	5	367	622	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1638.942	1642.079	Xu_zidong	male	native	For instance, currently, uh, people like Yi Zhongtian and Yu Dan are having their moment.	5	367	623	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1642.079	1642.504	Dou_wentao	male	native	Uh-huh.	5	368	624	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1642.504	1645.723	Xu_zidong	male	native	To many university teachers ah, this is a mental impact.	5	369	625	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1645.723	1646.708	Xu_zidong	male	native	I mean	5	369	626	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1647.474	1649.521	Xu_zidong	male	native	those without mental crisis	5	369	628	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1649.521	1652.139	Xu_zidong	male	native	are indifferent, tolerant and understanding.	5	369	629	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1652.139	1652.348	Dou_wentao	male	native	Uh-huh.	5	370	630	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1652.348	1658.273	Xu_zidong	male	native	However, many others uh, who have taught for years and worked hard on a book, competing for the position of professor and doctoral supervisor.	5	371	631	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1658.273	1665.962	Xu_zidong	male	native	Now they suddenly see someone around them walking on a road which they believe they can also walk and which is not that difficult. And the guy has become so popular all of a sudden.	5	371	632	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1666.603	1670.149	Xu_zidong	male	native	Now many people would murmur deep inside.	5	371	634	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1675.032	1675.453	Huang_jianxiang	male	native	Um-hum.	5	372	636	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1675.453	1676.954	Xu_zidong	male	native	You mean	5	373	637	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1681.681	1682.756	Xu_zidong	male	native	another, a freak.	5	373	639	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1682.756	1683.295	Huang_jianxiang	male	native	Yes, uh-huh.	5	374	640	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1683.295	1687.541	Xu_zidong	male	native	Well, do you think if these people are willing to give up their existing jobs for this?	5	375	641	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1687.541	1691.276	Xu_zidong	male	native	He may be afraid. However uh, in their mind uh they can't help	5	375	642	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1691.276	1693.714	Xu_zidong	male	native	(())	5	375	643	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1693.714	1697.429	Huang_jianxiang	male	native	That's why some has dubbed Yi Zhongtian academic super boy.	5	376	644	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1697.429	1699.772	Xu_zidong	male	native	Eh, that's what they mean.	5	377	645	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1697.429	1699.772	Dou_wentao	male	native	Yeah. It's true. Yu Dan is the super girl.	5	377	646	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1699.772	1703.647	Xu_zidong	male	native	Right, this is very complicated. The normal way is broken.	5	378	647	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1703.647	1709.425	Dou_wentao	male	native	Besides, you know, recently I saw two people cross talk, recently I read about Hou Yaowen on Nanfang Daily	5	379	648	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1709.425	1709.562	Huang_jianxiang	male	native	Uh-huh.	5	380	649	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1709.562	1712.024	Dou_wentao	male	native	who said, talked about conferring titles.	5	381	650	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1712.024	1714.368	Dou_wentao	male	native	That is in the current society ah, say Guo Degang,	5	381	651	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1714.368	1714.592	Huang_jianxiang	male	native	Uh-huh.	5	382	652	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1714.592	1716.868	Dou_wentao	male	native	he said that don't confer a title on him in a hurry, calling him master,	5	383	653	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1716.868	1717.227	Huang_jianxiang	male	native	Uh-huh.	5	384	654	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1717.227	1717.928	Dou_wentao	male	native	calling him emperor,	5	385	655	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1717.928	1718.095	Huang_jianxiang	male	native	Uh-huh.	5	386	656	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1718.095	1718.853	Dou_wentao	male	native	or calling him something else.	5	387	657	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1718.853	1720.415	Dou_wentao	male	native	But people nowadays ah, ((pw)),	5	387	658	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1721.269	1721.568	Huang_jianxiang	male	native	Uh-huh.	5	388	660	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1721.568	1723.928	Dou_wentao	male	native	that is he is a master or a paragon ah,	5	389	661	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1723.928	1724.347	Huang_jianxiang	male	native	Uh-huh.	5	390	662	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1724.347	1725.008	Dou_wentao	male	native	What.	5	391	663	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1725.008	1728.179	Dou_wentao	male	native	I think actually with a person better than oneself,	5	391	664	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1728.748	1732.305	Dou_wentao	male	native	or a person better than oneself in a certain aspect, we should hold an honest attitude.	5	391	666	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1732.305	1735.039	Dou_wentao	male	native	For instance, we talked about um Lee Ao the other day, right?	5	391	667	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1735.039	1738.742	Dou_wentao	male	native	I've heard many people say that he claimed he read the most books in the world.	5	391	668	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1741.022	1743.397	Dou_wentao	male	native	What do I have with you. Anyway he reads more than me.	5	391	670	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1743.397	1743.819	Huang_jianxiang	male	native	Uh-huh.	5	392	671	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1743.819	1745.069	Dou_wentao	male	native	This is enough to make him a teacher.	5	393	672	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1745.069	1745.275	Huang_jianxiang	male	native	Uh-huh.	5	394	673	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1745.275	1746.272	Dou_wentao	male	native	Uh, right?	5	395	674	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1746.272	1748.506	Dou_wentao	male	native	As to whether or not he writes the best articles in modern Chinese,	5	395	675	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1748.506	1751.116	Dou_wentao	male	native	neither your words nor his words count regarding this matter.	5	395	676	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1751.116	1752.007	Dou_wentao	male	native	It needs time.	5	395	677	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1752.007	1756.585	Huang_jianxiang	male	native	In such a comparison that is not quantified, there is no No.1 in arts or No.2 in kongfu,	5	396	678	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1756.585	1758.710	Huang_jianxiang	male	native	unlike 100m competition, where whoever wins is No.1.	5	396	679	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1758.710	1760.804	Dou_wentao	male	native	Eh, what do you mean by industry standard?	5	397	680	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1760.804	1762.929	Huang_jianxiang	male	native	Eh, the latter half of my words was cut.	5	398	681	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1762.929	1763.833	Dou_wentao	male	native	I see?	5	399	682	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1762.929	1763.833	Huang_jianxiang	male	native	Right.	5	399	683	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1763.833	1769.554	Huang_jianxiang	male	native	So what are picked are some jokes you would ((pw)), you would make when you were pretty relax, uh	5	400	684	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1769.554	1773.805	Huang_jianxiang	male	native	He had a context, a situation, but he cut the final section off, ((pw))	5	400	685	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1775.133	1776.588	Dou_wentao	male	native	How did you feel then ah, at this time?	5	401	687	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1776.588	1776.898	Huang_jianxiang	male	native	Right.	5	402	688	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1776.898	1780.322	Huang_jianxiang	male	native	Someone else, else asked me, for example I, I recalled because there were so many interviews.	5	402	689	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1780.322	1780.643	Dou_wentao	male	native	Uh-huh.	5	403	690	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1780.643	1782.612	Huang_jianxiang	male	native	Roughly, he asked me for my comments on different (()).	5	404	691	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1782.612	1785.102	Huang_jianxiang	male	native	(())	5	404	692	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1785.102	1786.030	Huang_jianxiang	male	native		5	404	693	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1786.030	1786.390	Dou_wentao	male	native	Uh-huh.	5	405	694	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1786.390	1789.972	Huang_jianxiang	male	native	Because for example the styles of sports channels are different.	5	406	695	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1789.972	1791.828	Huang_jianxiang	male	native	Then I said something. I said um	5	406	696	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1792.531	1793.635	Huang_jianxiang	male	native	(())	5	406	698	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1794.413	1796.679	Huang_jianxiang	male	native	Um isn't there an industry standard here?	5	406	700	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1797.476	1800.617	Huang_jianxiang	male	native	Eh, of course, they wouldn't recognize my industry standard.	5	406	702	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1800.617	1801.868	Huang_jianxiang	male	native	I said this way.	5	406	703	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1801.868	1802.805	Huang_jianxiang	male	native	Originally I	5	407	704	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1801.868	1802.805	Dou_wentao	male	native	Yeah.	5	407	705	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1804.033	1806.233	Huang_jianxiang	male	native	but the result is	5	409	707	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1804.033	1806.233	Xu_zidong	male	native	The writing is like that.	5	409	708	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1806.233	1810.436	Huang_jianxiang	male	native	The writing is like this. So things are better with television interviews.	5	410	709	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1810.436	1813.284	Dou_wentao	male	native	You know, the good thing about our program is it wouldn't cut anything.	5	411	710	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1813.284	1813.634	Huang_jianxiang	male	native	Right.	5	412	711	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1813.634	1815.436	Dou_wentao	male	native	I tell you, so I, do you	5	413	712	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1816.155	1818.514	Dou_wentao	male	native	find we are in an age of sayings.	5	413	714	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1818.514	1818.967	Huang_jianxiang	male	native	Yes, uh-huh.	5	414	715	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1818.967	1819.658	Dou_wentao	male	native	Sayings are everywhere.	5	415	716	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1819.658	1819.931	Huang_jianxiang	male	native	Right.	5	416	717	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1819.931	1823.670	Dou_wentao	male	native	What did Zhang Yimou say? Zhang Yimou said bad things about directors or peers.	5	417	718	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1823.670	1827.089	Dou_wentao	male	native	You know what he said before that.	5	418	719	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1823.670	1827.089	Xu_zidong	male	native	Right, right, right. He cut the context.	5	418	720	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1827.089	1831.275	Dou_wentao	male	native	However, in the age of sayings, and now China has entered book or article reviews	5	419	721	report	
+PHOENIX_BEHINDHL_CMN_20070116_052800	0	1831.275	1832.949	Dou_wentao	male	native	the most dreadful thing is you	5	419	722	report	

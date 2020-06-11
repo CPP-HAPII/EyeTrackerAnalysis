@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080402.0210	0	900.0	1000.0	speaker	unknown	unknown	“没想到现在有困难可以向市长直接反映了，老百姓可算是真正摸到政府的门了！”昆明某中学老师于蔓文说。	0	0	0		
+PDA_CMN_20080402.0210	0	1000.0	1100.0	speaker	unknown	unknown	在半信半疑中，于蔓文拨通了市长张祖林的办公室电话反映一个交通问题，“虽然有点难打通，而且市长本人外出开会去了，但接电话的工作人员非常认真负责地做了记录，很快就给了我反馈。”	0	0	0		
+PDA_CMN_20080402.0210	0	3100.0	3200.0	speaker	unknown	unknown	政府信息公开条例将终结 “电话”之争	0	0	0		

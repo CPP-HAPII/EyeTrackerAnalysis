@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.0985	0	300.0	400.0	speaker	unknown	unknown	The report said that, with the deregulation of the conversion of the RMB in Taiwan, the five-star red flag appeared on the 100% public-run electronic board of Taiwan bank exchange rates. The code for RMB is CNY, which stands for China Yuan.	0	0	0		

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0025.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	杜正胜一年十二次不出席"立院"会议 民代拟提告	0	0	0		statement
+PDA_CMN_20080418.0025.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0025.sgm	0	900.000	1100.000	TEXT1	unknown	unkown	国民党“立委”江义雄今天在台立法机构相关部门表示，台当局教育部门负责人杜正胜一年以来十二次借故不出席会议，回避监督；	0	0	0		statement
+PDA_CMN_20080418.0025.sgm	0	1100.000	1300.000	TEXT1	unknown	unkown	为使官员知所警惕，他将建请国民党团对杜正胜藐视立法机构及渎职行为向法院提出告诉。	0	0	0		statement
+PDA_CMN_20080418.0025.sgm	0	1500.000	2200.000	TEXT1	unknown	unkown	据“中央社”报道，台“立法院教育及文化委员会”今天听取高等教育考招现况及检讨，会议主席江义雄表示，该委员会多次邀请杜正胜就台湾当前重要教育政策进行施政报告，杜正胜却都以“另有要公”为由，借故缺席，一年来未获准假、不列席会议的记录多达十二次。	0	0	0		statement
+PDA_CMN_20080418.0025.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	江义雄强调，由于杜正胜的作法蓄意回避“立院”监督，明显违法；	0	0	0		statement
+PDA_CMN_20080418.0025.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	为使行政官员知所警惕，他建请国民党团对杜正胜提告。	0	0	0		statement

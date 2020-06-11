@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0028.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	粮食飙涨引发致命动乱 世银集会研商对策	0	0	0		statement
+AFP_CMN_20080413.0028.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社华盛顿十三日电	0	0	0		statement
+AFP_CMN_20080413.0028.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	粮食价格不断飙涨,在开发中国家引发致命动乱,世界银行今天在华盛顿集会研商因应对策,凸显出提供粮食援助给缺粮人民的急迫性。	0	0	0		statement
+AFP_CMN_20080413.0028.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	致力对抗贫穷的世银决策者,预定讨论世银总裁左里克于不到两周前宣布的大规模国际协同计画,该计画旨在减缓饥饿困境。	0	0	0		statement
+AFP_CMN_20080413.0028.sgm	0	2000.000	2400.000	TEXT1	unknown	unkown	由于粮食价格飞涨威胁到贫穷国家的稳定,左里克呼吁推动全球粮食政策「新政」,如同一九三零年代美国总统罗斯福推出的「新政」,因应美国经济大萧条危机般。	0	0	0		statement
+AFP_CMN_20080413.0028.sgm	0	2600.000	2900.000	TEXT1	unknown	unkown	在世银集会之际,全球金融危机持续升高、美国经济濒临衰退边缘、能源价格居高不下,货币市场更呈现失衡现象。	0	0	0		statement
+AFP_CMN_20080413.0028.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	通货膨胀节节攀升,使得决策者致力振兴经济的各种努力益趋复杂化。	0	0	0		statement

@@ -1,0 +1,216 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 8.3680000000000003, 25.067, 35.848999999999997, 1185.934, 1193.018, 1200.972, 1210.511, 1359.816, 1386.902, 1428.1610000000001, 9999999.0]
+ANHUI_FAMILY_CMN_20060523_223042	0	0.000	8.368					0	0	0	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	8.368	11.384	speaker#1	female	native	Hello, all my friends in the audience, welcome to this edition of the program Family.	1	1	1	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	11.384	20.957	speaker#1	female	native	On March 31, 2005, in a factory in Wenzhou, Zhejiang province, a worker was heavily pinned at the abdomen by a piece of iron weighing more than three tons due to violation of operation procedures.	1	1	2	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	20.957	25.067	speaker#1	female	native	What were the exact circumstances at the time? Let's first take a look at the replay of the accident.	1	1	3	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	25.067	35.849					2	2	4	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	35.849	43.646	speaker#2	male	native	At midday on March 31, 2005, in Wenshou, Zhejiang, the machines were roaring at the plant facilities of Hengfengtai Speed Reducer Manufacturing Company, Limited.	3	3	5	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	43.646	47.365	speaker#2	male	native	Because they were rushing delivery, all the workers were bustling about tensely.	3	3	6	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	47.365	55.223	speaker#2	male	native	Just when a worker hung a three-ton machine on a hook and was preparing to drive the crane, tragedy struck.	3	3	7	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	55.223	64.439	speaker#3	male	native	At the time just when I was hoisting that machine rack up, that is, when I was getting ready to put it down, right at the start I just wasn't paying attention, and it just tilted.	3	4	8	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	64.439	69.521	speaker#4	male	nonnative	Then it lost its balance. On top there was such a long shaft, underneath there was a machine rack, which immediately turned over.	3	5	9	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	69.521	72.780	speaker#3	male	native	When it rotated at that time, it happened to turn toward him, that is, I was standing on this side.	3	6	10	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	72.780	79.528	speaker#4	male	nonnative	He just moved back, he was about to run, move back -- to the back, but a big machine rack was blocking him from behind, so he had nowhere to retreat.	3	7	11	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	79.528	85.968	speaker#3	male	native	Then it just happened to squeeze right on top of his stomach. That is, that machine rack blocked him from behind, yeah, as it pressed him back like this, he just squatted there.	3	8	12	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	85.968	94.703	speaker#4	male	nonnative	When -- when he took two steps, I thought nothing went wrong, I still -- who knew he would fall down, I thought he was done for -- that's it, it was going to be a big mess.	3	9	13	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	94.703	102.202	speaker#3	male	native	The ambulance rushed to the scene, and the workers immediately sent this injured young man to Wenzhou No. 1 Hospital.	3	10	14	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	102.202	106.406	speaker#3	male	native	The injured worker was named Yu Bing. He is one of the company's assembly line workers.	3	10	15	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	106.406	113.655	speaker#3	male	native	Because the project was tense, and he was not familiar with how to operate the crane, this tragedy was a result of improperly operating machinery.	3	10	16	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	113.655	117.824	speaker#3	male	native	After Yu Bing was taken to the hospital, the first operation was immediately performed.	3	10	17	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	117.824	122.652	speaker#3	male	native	Luckily, in the end Yu Bing's life was saved.	3	10	18	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	122.652	129.035	speaker#3	male	native	But because Yu Bing's abdomen had been squeezed so severely, his spleen and intestines were all ruptured.	3	10	19	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	129.035	132.364	speaker#3	male	native	The worst was that intestinal fistula had already developed.	3	10	20	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	132.364	136.074	speaker#3	male	native	And intestinal fistula is an extremely difficult medical problem.	3	10	21	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	136.074	141.320	speaker#3	male	native	Not only is the cure rate low, but also the cost of treatment required is quite shocking.	3	10	22	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	141.320	149.164	speaker#3	male	native	For Yu Bing, a worker from the countryside, this expense was impossible for his impoverished family to bear.	3	10	23	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	149.164	155.976	speaker#5	female	native	For families like ours, to him, that much money is the kind of money you could never make even in a lifetime.	3	11	24	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	155.976	160.842	speaker#2	male	native	His family really had no other alternative but to place hope in the company.	3	12	25	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	160.842	166.888	speaker#2	male	native	Yu Bing's family prayed that the company would take responsibility for this workplace accident.	3	12	26	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	166.888	176.168	speaker#5	female	native	If the boss didn't care, then our family would be ruined. And our two children are little.	3	13	27	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	176.168	189.568	speaker#2	male	native	The company for which Yu Bing worked was a private enterprise. What attitude would the company, that is, the person in charge of the company, take?	3	14	28	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	189.568	195.209	speaker#2	male	native	When it came to this bottomless pit of medical costs, could the company shoulder all of it?	3	14	29	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	195.209	200.349	speaker#2	male	native	In addition to Yu Bing's family, his coworkers at the company, too, were looking on anxiously.	3	14	30	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	200.349	207.129	speaker#6	female	native	Still, uh, more money needed to pour in. At that time we were wondering what the boss would do; everyone was paying close attention to this affair.	3	15	31	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	207.129	218.667	speaker#7	male	native	((pw)) maybe Chairman Ye might not stick in for long, that is, probably, that is -- he might do some, what's that, uh, initial work, uh, as for the follow-up work, probably, uh --	3	16	32	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	218.667	230.397	speaker#8	male	native	Maybe everyone was watching -- would all watch closely, and would ((pw)) would be thinking about how this situation was developing, watching what the enterprise would be able to do for him, and taking a kind of -- a kind of wait-and-see attitude.	3	17	33	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	230.397	237.068	speaker#2	male	native	For a while, the eyes of hundreds of companies around the nation were all on Ye Shengkang, the head of the company.	3	18	34	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	237.068	247.796	speaker#1	female	native	Here, let me introduce to everyone, this gentleman sitting next to me right now, uh, is the very chairman of the board who was just mentioned in the film clip, Mr. Ye Shengkang, welcome.	3	19	35	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	247.796	250.723	speaker#1	female	native	Okay, please have a seat.	3	19	36	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	250.723	257.558	speaker#1	female	native	Well, a lot of people in the factory were watching you very closely to see just how you were going to handle this matter.	3	20	37	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	250.723	257.558	Ye_Sheng_Kang	male	native	Yes.	3	20	38	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	257.558	261.867	speaker#1	female	native	At the time did you feel this, this sort of attention, or say, did you feel under pressure?	3	20	39	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	257.558	261.867	Ye_Sheng_Kang	male	native	Right.	3	20	40	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	261.867	280.101	speaker#1	female	native	Uh-huh, uh-huh.	3	20	41	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	261.867	280.101	Ye_Sheng_Kang	male	native	Uh, it should be said that as a -- as we are a private enterprise, the first thing people think of is that you, the boss, only care about making money, ah, and wouldn't care about the lives of workers. Perhaps, um, the employees would definitely be watching you. This is something we can imagine.	3	20	42	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	280.101	296.728	speaker#1	female	native	Uh-huh, uh-huh.	3	20	43	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	280.101	296.728	Ye_Sheng_Kang	male	native	When an employee got into such a big problem, then for our part we had to show with facts that we, as a private enterprise, treat our employees well, and that we are also concerned for our employees and also take responsibility for our employees. It's that kind of an attitude.	3	20	44	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	296.728	304.260	speaker#2	male	native	Chairman Ye, without further ado, paid the entire cost of a series of surgical procedures and treatments.	3	21	45	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	304.260	307.540	speaker#2	male	native	In just a few short weeks over 200,000 yuan were spent.	3	21	46	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	307.540	314.449	speaker#2	male	native	But there was no room for optimism, because Yu Bing's condition could still not be brought under control. His high fever persisted.	3	21	47	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	314.449	317.981	speaker#2	male	native	Everyone was clear what continuing treatment would mean.	3	21	48	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	317.981	323.277	speaker#2	male	native	It was possible that no matter how much money was spent, there was no guarantee that Yu Bing would be cured.	3	21	49	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	323.277	327.401	speaker#2	male	native	Still, the medical expenses continued to be paid in a steady stream to the hospital.	3	21	50	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	327.401	341.354	speaker#2	male	native	As for this bottomless pit of expenses, everyone was speculating whether Chairman Ye would be able to do the right thing to the end, or since he had already spent a few hundred thousand yuan, he was just planning on getting it over with.	3	21	51	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	341.354	353.778	speaker#7	male	native	That is, for this kind of assembly workers in general, the +contribution he made at the company, um, that is, he might have worked at the company for, um, two or three years, and perhaps hasn't made this much contribution to the company yet.	3	22	52	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	353.778	362.188	speaker#8	male	native	Whether it should be considered, that is to say, uh, severing work relations with him, that is to say, uh, stopping further treatment, or in other words, giving him a chunk of money, just to be able to end this matter.	3	23	53	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	362.188	369.840	speaker#2	male	native	Chairman Ye took the various discussions of the workers into consideration. His close friends, in particular,	3	24	54	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	369.840	373.576	speaker#2	male	native	even gave him some more practical suggestions.	3	24	55	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	373.576	385.727	Ye_Sheng_Kang	male	native	Uh, for example, this sort of -- there are also people, for example, some, some people would ((pw)) adopt this kind of method to handle things, for example, uh, if someone died, you just need to compensate him this much money, right?	3	25	56	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	385.727	390.936	Ye_Sheng_Kang	male	native	Some people indeed deal with it in that way, and it's just a matter of how +much money spent, right?	3	25	57	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	390.936	405.166	speaker#2	male	native	+When it rains, it pours. Just when the company was discussing from top to down whether or not to continue paying for Yu Bing's treatment, the company came up against an especially sticky problem.	3	26	58	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	405.166	409.838	speaker#2	male	native	This put Ye Shengkang in an even more difficult predicament.	3	26	59	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	409.838	416.247	speaker#2	male	native	Ten years before, Ye Shengkang had started as a worker and arduously pioneered his enterprise.	3	26	60	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	416.247	422.031	speaker#2	male	native	It took ten years of blood, sweat, and tears before he had the speed reducer manufacturing company of today.	3	26	61	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	422.031	428.531	speaker#2	male	native	He himself does not remember clearly how many trials and tribulations he went through before the company's business started picking up.	3	26	62	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	428.531	436.648	speaker#2	male	native	Even now, in business crowded Wenzhou, Ye Shengkang's company is not actually considered a large one.	3	26	63	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	436.648	448.399	speaker#2	male	native	And this just happened to be the peak production season. With over two hundred thousand yuan already spent on Yu Bing's treatment, the funds that the company could turn over already were not very adequate.	3	26	64	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	448.399	456.624	speaker#2	male	native	If it continued to wire the rest of the money into the hospital account, the company's production operations would be paralyzed.	3	26	65	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	456.624	466.812	Ye_Sheng_Kang	male	native	The financial manager reported that there might not be enough funds in the account, not enough, so spending this chunk of money might have an effect over there.	3	27	66	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	466.812	471.678	Ye_Sheng_Kang	male	native	So it could also cause some impact on our enterprise's reputation.	3	27	67	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	471.678	478.125	Ye_Sheng_Kang	male	native	Second, the materials we should purchase would not be able to arrive on time.	3	27	68	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	478.125	482.719	Ye_Sheng_Kang	male	native	So what could we do in this kind of situation?	3	27	69	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	482.719	495.182	speaker#1	female	native	It appeared that now it was not only an issue of making this decision to save a person with the money, but was also an issue affecting the entire company's reputation and affecting the interests of a few hundred people.	3	28	70	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	482.719	495.182	Ye_Sheng_Kang	male	native	Yes.	3	28	71	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	495.182	496.909	speaker#1	female	native	Was it hard to choose at that time?	3	29	72	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	496.909	503.780	Ye_Sheng_Kang	male	native	Uh, at the time there was indeed this dilemma, and on top of that it was the peak period for delivery, the peak period.	3	30	73	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	496.909	503.780	speaker#1	female	native	Yes, the peak period, yes.	3	30	74	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	503.780	512.770	Ye_Sheng_Kang	male	native	It's like, say, by some kind of delivery ah, contract, ah, that we originally, originally signed with other people, all goods must be immediately picked up.	3	30	75	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	503.780	512.770	speaker#1	female	native	Uh-huh.	3	30	76	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	512.770	526.353	Ye_Sheng_Kang	male	native	At this time we were truly in a plight. If we used this money over there, it would surely affect our production. We would not be able to pick up goods on time, and not be able to pick up these ((pw)) raw materials on time.	3	30	77	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	512.770	526.353	speaker#1	female	native	Uh-huh.	3	30	78	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	526.353	533.228	Ye_Sheng_Kang	male	native	While we were unable to pick up the goods on time, our clients were all waiting, waiting here for this shipment that we had to deliver, deliver to them.	3	31	79	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	533.228	545.255	Ye_Sheng_Kang	male	native	So, if we could not pick up the goods on time, then our production -- our products would not be delivered on time, then it would surely have a very big effect on our clients.	3	31	80	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	545.255	552.705	Ye_Sheng_Kang	male	native	Because theirs are upstream projects, and those products of ours are all accessories for the projects, which all specify what month and what day it goes into production.	3	31	81	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	552.705	562.534	Ye_Sheng_Kang	male	native	So, moreover, these products of ours are all end products. After they are installed, it can probably immediately go into a kind of operation, so at this time we were truly in a very awkward situation.	3	31	82	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	562.534	569.560	speaker#2	male	native	Ding Jinpeng, the company's financial manager, expressed deep sympathy to Yu Bing's situation.	3	32	83	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	569.560	580.013	speaker#2	male	native	However, the collective interests of the entire company top to bottom gave him no choice but to consider recommending that Chairman Ye make a realistic yet harsh decision.	3	32	84	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	580.013	590.625	Ding_Jin_Peng	male	native	I mean, uh, that is, because, uh, if because of a person's, Yu Bing's situation, ah, it became a burden on everyone, in the end an enterprise is, ah, society's.	3	33	85	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	590.625	599.232	Ding_Jin_Peng	male	native	If, uh, not -- because in the company there wasn't just him with a mouth to feed, there were, ah, two hundred-odd employees with mouths to feed, too.	3	33	86	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	599.232	608.486	Ding_Jin_Peng	male	native	So if this made all two hundred people lose their livelihoods because of one person, I'd say this was also, ah, was also -- also a kind of contradiction.	3	33	87	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	608.486	611.877	speaker#2	male	native	On one side was saving a young life.	3	34	88	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	611.877	618.955	speaker#2	male	native	On the other side was the reputation of a company arduously built up over ten years, and the interests of the whole company's more than two hundred employees.	3	34	89	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	618.955	621.002	speaker#2	male	native	Just what should be done.	3	34	90	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	621.002	626.801	speaker#2	male	native	And what kind of hard decision would Ye Shengkang make.	3	34	91	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	626.801	636.912	Ye_Sheng_Kang	male	native	Well, afterward we thought about it, as for this matter, well, a person's life could not wait.	3	35	92	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	636.912	643.316	Ye_Sheng_Kang	male	native	If I didn't pay -- use this money on him, he could die tomorrow.	3	35	93	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	643.316	654.082	Ye_Sheng_Kang	male	native	But this loss, no matter whether it was an economic loss or loss in reputation, well, I thought it could all be made back.	3	35	94	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	654.082	661.728	Ye_Sheng_Kang	male	native	Through another effort of ours, through another method, I thought the clients could also have -- have some understanding.	3	35	95	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	661.728	671.533	Ye_Sheng_Kang	male	native	Ah, so we still decided right there that no matter how much hardship there was, well, the top priority still is to save a person's life.	3	35	96	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	671.533	679.176	speaker#1	female	native	From here, from here we can also see Chairman Ye's resolve to save a person's life.	3	36	97	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	679.176	685.315	speaker#1	female	native	At that time all he thought was to cure Yu Bing, because a person's life could not wait.	3	36	98	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	685.315	694.809	speaker#2	male	native	An ordinary worker is injured, and the boss of a private enterprise wants to take full responsibility.	3	37	99	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	694.809	700.678	speaker#2	male	native	With the matter progressing to this stage, perhaps it made everyone feel rather satisfied.	3	37	100	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	700.678	706.545	speaker#2	male	native	But just then, something completely unexpected happened.	3	37	101	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	706.545	710.827	speaker#2	male	native	Yu Bing, whose life was being saved, suddenly wanted to forgo treatment.	3	37	102	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	710.827	725.744	Yu_Bing	male	native	Because then at the hospital, treatment after treatment yielded no improvement, while my physical suffering was devastating; I myself secretly said to Chairman Ye, I said no more treatment, I said no more treatment, I couldn't stomach anymore.	3	38	103	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	725.744	735.707	speaker#2	male	native	Because all along his condition could not be brought under control, during that whole time Yu Bing was at the hospital, his abdominal cavity stayed open, and furthermore every day he continued to have a fever of over 40 degrees centigrade.	3	39	104	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	735.707	742.624	speaker#2	male	native	The physically unbearable pain had tortured this formerly cheerful young man beyond recognition.	3	39	105	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	742.624	752.125	speaker#2	male	native	In addition the huge amount of money paid by the company and the vague hope of being cured, all of this caused a very large psychological burden on him as he suffered from pain.	3	39	106	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	752.125	763.431	Yu_Bing	male	native	Staying there for a day or two, 100,000 yuan for two or three days, later 100,000 yuan gone in about a week, 100,000 yuan gone in about a week. I just said to Chairman Ye, I said I'm stopping treatment. Keep spending this kind of money won't necessarily cure me.	3	40	107	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	763.431	768.105	Yu_Bing	male	native	Besides that, I myself really didn't want the treatment, either.	3	40	108	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	768.105	772.620	speaker#1	female	native	What kind of condition was Yu Bing in when he talked about this with you at that time?	3	41	109	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	772.620	790.450	Ye_Sheng_Kang	male	native	When I entered his hospital ward, his, um, mood was very -- a kind of, a kind of moody, uh, a kind of extreme depression, well, he just was in a kind of, a kind of mood. He told his family members to leave, to go out of the room.	3	42	110	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	772.620	790.450	speaker#1	female	native	Uh-huh, uh-huh.	3	42	111	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	790.450	801.801	Ye_Sheng_Kang	male	native	He then grabbed my, grabbed my hand tightly, and tears were dripping out of both eyes, then he said, Ye -- Chairman Ye, I want to stop treatment, I want to quit this treatment.	3	43	112	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	801.801	810.708	Ye_Sheng_Kang	male	native	And so he -- when he said -- said this about quitting treatment, then I, too, unconsciously, uh, my tears streamed down, too.	3	43	113	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	810.708	819.808	Ye_Sheng_Kang	male	native	Oh, I then abruptly cut him off, oh, I didn't even ask him why, I said this won't do, this --	3	43	114	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	819.808	825.523	Ye_Sheng_Kang	male	native	It's come this far now, you've been treated this, this much, you absolutely must not quit treatment.	3	43	115	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	825.523	840.897	Ye_Sheng_Kang	male	native	And as for your money problems, you don't -- don't need to worry about anything, ah, no matter how much money the company -- we have to spend, I will definitely get you healed, yes ah, no matter how difficult it is for our company, we will definitely get you healed.	3	43	116	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	840.897	845.941	Ye_Sheng_Kang	male	native	But as for this sort of pain, I said, we have no way of carrying this burden for you.	3	43	117	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	845.941	857.740	Ye_Sheng_Kang	male	native	But you must be resolute in a kind of faith of yours, and your life will -- you must take +responsibility for your family members, for your children, including your parents.	3	43	118	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	857.740	860.054	Ye_Sheng_Kang	male	native	If you are gone, I said, your family will be also finished.	3	43	119	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	860.054	865.946	Ye_Sheng_Kang	male	native	So, I hope you will strengthen up, ah, we will do our best to support your treatment.	3	43	120	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	865.946	868.097	Ye_Sheng_Kang	male	native	Ah, ah, this is the advice I gave him.	3	44	121	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	865.946	868.097	speaker#1	female	native	This is how you advised him at the time, right?	3	44	122	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	868.097	874.853	Ye_Sheng_Kang	male	native	After I advised him, his mood just, just immediately lightened, immediately lightened.	3	44	123	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	868.097	874.853	speaker#1	female	native	So after you advised him what kind of reaction did he have, huh?	3	44	124	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	874.853	882.341	Ye_Sheng_Kang	male	native	Well, after we went back -- ((pw)) actually I was carrying a kind of very heavy kind of burden back to the company.	3	44	125	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	874.853	882.341	speaker#1	female	native	Yes, yes.	3	44	126	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	882.341	894.064	Ye_Sheng_Kang	male	native	I said, just what did he have -- how was he, was his suffering getting unbearable, or what reason. We were afraid that he would, um, commit suicide, commit suicide because he could no longer bear it, or for some other reason.	3	44	127	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	882.341	894.064	speaker#1	female	native	Uh-huh.	3	44	128	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	894.064	903.635	Ye_Sheng_Kang	male	native	Because he wanted to quit this treatment, then when I got back, I immediately called, um, um, a meeting at the company, ah, I told the department manager to come over, and informed him of the situation.	3	44	129	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	894.064	903.635	speaker#1	female	native	Uh-huh.	3	44	130	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	903.635	915.134	Ye_Sheng_Kang	male	native	Well, as soon as I had delivered this news, we then immediately made this decision, ah, um, the first was to send a few employees to watch over him.	3	44	131	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	903.635	915.134	speaker#1	female	native		3	44	132	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	915.134	922.661	Ye_Sheng_Kang	male	native	On the one hand it was to ((pw)) establish communications with him, and then exchange ideas with him, uh, and through this kind of lighten his mood.	3	44	133	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	915.134	922.661	speaker#1	female	native	Uh-huh.	3	44	134	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	922.661	931.962	Ye_Sheng_Kang	male	native	On the other hand it was so we could watch over him, prevent him from jumping down, which would cause trouble for me, because he was staying, oh yeah, on the eighth floor, just in case he jumped.	3	44	135	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	922.661	931.962	speaker#1	female	native	Oh, to keep him from doing something stupid, uh-huh.	3	44	136	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	931.962	947.540	Ye_Sheng_Kang	male	native	The second thing was that the next day, that is, we gave the company's, that is, he -- in the first quarter of the year he had a quality award, his -- this employee did his work quite well, he was called -- I hold a quality appraisal award every, every quarter.	3	44	137	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	931.962	947.540	speaker#1	female	native	Uh-huh.	3	44	138	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	947.540	953.756	Ye_Sheng_Kang	male	native	So, every year we also have a talent incentive award, which happened to be given out at that time, the talent incentive award.	3	44	139	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	947.540	953.756	speaker#1	female	native	Uh-huh.	3	44	140	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	953.756	968.340	Ye_Sheng_Kang	male	native	And so there was also -- he had an excellence -- a team excellence award, yeah, it's like putting them all together, ah, certificates, ah, bonuses, ah, well, we just told the workers' union, ah, everyone, to give this, this, uh to him.	3	44	141	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	953.756	968.340	speaker#1	female	native	Uh-huh.	3	44	142	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	968.340	976.566	Ye_Sheng_Kang	male	native	That is, to use this to awaken hope in him for his life, to make him feel that living -- my life still has a kind of value, yeah.	3	44	143	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	968.340	976.566	speaker#1	female	native	It has value, yes.	3	44	144	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	976.566	984.185	Ye_Sheng_Kang	male	native	Well, besides -- besides that ((pw)) I again encouraged our employees, I said, all of you go and see him often during this time, buy some more fresh flowers or something and go see him.	3	44	145	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	976.566	984.185	speaker#1	female	native	Uh-huh.	3	44	146	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	984.185	988.316	Ye_Sheng_Kang	male	native	At that time, those few days maybe, quite a few people actually did go.	3	44	147	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	984.185	988.316	speaker#1	female	native		3	44	148	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	988.316	994.802	Ye_Sheng_Kang	male	native	So everyone started making him change to feeling kind of, a kind of confident in living, living.	3	44	149	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	988.316	994.802	speaker#1	female	native	Yes.	3	44	150	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	994.802	1007.458	Ye_Sheng_Kang	male	native	Uh, another thing, uh, was that we quickly telephoned his family members, that is, told them to bring his children, two children -- he and his wife have two children, yeah, I said, bring them over and let them see.	3	44	151	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	994.802	1007.458	speaker#1	female	native	Two children, uh, you were, um --	3	44	152	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1007.458	1015.795	Ye_Sheng_Kang	male	native	He was at home -- he was from Siyang, yeah, he was in school. I told them to bring him over, bring him over, that is, to let his father see him.	3	44	153	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1007.458	1015.795	speaker#1	female	native	Was he in school in Siyang? Aha.	3	44	154	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1015.795	1022.165	Ye_Sheng_Kang	male	native	Because when he saw him, when he saw his children, he would certainly feel that he definitely wanted to be responsible for these two children.	3	44	155	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1015.795	1022.165	speaker#1	female	native		3	44	156	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1022.165	1033.394	Ye_Sheng_Kang	male	native	So I -- we just made this decision. Later he ((pw)) just had a kind of faith that he would keep living.	3	44	157	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1022.165	1033.394	speaker#1	female	native	Yes, yes.	3	44	158	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1033.394	1043.015	speaker#1	female	native	Ah it seemed, this Chairman Ye, uh, had truly thought the matter over thoroughly for Yu Bing, and had made painstaking efforts to arrange all of this. So would Yu Bing change his mind?	3	45	159	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1043.015	1047.611	Yu_Bing	male	native	I have talked about this before. Starting the next day I found folks from the factory kept coming.	3	46	160	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1047.611	1062.773	Yu_Bing	male	native	From former coworkers to those, those ((pw)) leaders in the factory, it was for the most part nonstop.	3	46	161	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1062.773	1071.586	Yu_Bing	male	native	When I came out of the examining room, my son and daughter came forward. I felt pretty moved at that time. The moment I saw my kids, my tears started streaming down.	3	46	162	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1071.586	1088.040	Yu_Bing	male	native	And I don't know how to explain it, that kind of feeling I had when the kids came up.	3	46	163	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1088.040	1097.883	Yu_Bing	male	native	At the time I was thinking, uh, with this many people taking this much trouble, if you still spend all day giving up on yourself, then what's the point, right?	3	46	164	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1097.883	1118.253	Yu_Bing	male	native	Why did they do this? They did this for my goodness. Everything was ((pw)) arranged for the doctors to treat me, everything was arranged for the doctors to treat me, everything was coordinated by the factory.	3	46	165	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1118.253	1125.389	speaker#2	male	native	An ordinary worker is injured. The boss of a private enterprise actually decides to take full responsibility.	3	47	166	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1125.389	1130.982	speaker#2	male	native	A righteous boss spends a gigantic sum of a million yuan to save a dying young worker's life.	3	47	167	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1130.982	1133.687	Ye_Sheng_Kang	male	native	That is a person's conscience.	3	48	168	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1133.687	1139.453	speaker#2	male	native	+An +job-related accident gave rise to an +awe-inspiring real life story.	3	49	169	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1139.453	1143.860	speaker#2	male	native	Please stay tuned to the Critical Moment on Family.	3	49	170	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1143.860	1155.580	speaker#2	male	native	After the financial and psychological burdens had been resolved, what was left and what was also the most crucial was the treatment.	3	50	171	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1155.580	1162.954	speaker#2	male	native	When there were no signs of improvement at Wenzhou No. 1 Hospital, Chairman Ye asked his friends to inquire everywhere for the nation's best hospital for curing intestinal fistula.	3	50	172	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1162.954	1167.871	speaker#2	male	native	At last he found out that the General Hospital of Nanjing Military Command was the best in this area.	3	50	173	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1167.871	1173.935	speaker#2	male	native	Chairman Ye spent over 10,000 yuan in leasing an ambulance and asked a doctor to escort the patient for the whole trip.	3	50	174	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1173.935	1179.013	speaker#2	male	native	In addition an employee from the company was dispatched to specially take charge of matters concerning Yu Bing's treatment in Nanjing.	3	50	175	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1179.013	1185.934	speaker#2	male	native	And so a group of personnel hurried to the General Hospital of Nanjing Military Command.	3	50	176	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1185.934	1193.018					4	51	177	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	1193.018	1200.972	speaker#2	male	native	On June 9, 2005, Yu Bing was rushed into the ICU at the General Hospital of Nanjing Military Command.	5	52	178	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1200.972	1210.511					6	53	179	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	1210.511	1214.527	speaker#2	male	native	Yu Bing's attending physician at the time was Professor Ren Jian'an.	7	54	180	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1214.527	1221.201	speaker#2	male	native	Professor Ren is the chief physician at the General Hospital of Nanjing Military Command, and is the top intestinal fistula expert in the country.	7	54	181	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1221.201	1227.561	speaker#2	male	native	When he heard about the background story between this patient and his boss, he was quite amazed.	7	54	182	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1227.561	1234.250	Ren_Jian_AN	male	native	There are a lot of patients like this, so we sometimes say, when a worker is injured and his boss sends him to the hospital, the boss then disappears.	7	55	183	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1234.250	1238.438	Ren_Jian_AN	male	native	I said, could this be possible? He had this strength, but did he have the intention or not?	7	55	184	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1238.438	1247.361	Ren_Jian_AN	male	native	Um, could he really spend a few hundred thousand yuan on his employee? Because perhaps this employee of his could probably never be able to create that much value for him even in a lifetime, so I didn't quite believe it.	7	55	185	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1247.361	1256.122	Ye_Sheng_Kang	male	native	For every expense, uh, we would give him a kind of signal, that is, for the most part we just signed it without even looking at it.	7	56	186	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1247.361	1256.122	speaker#1	female	native	Uh-huh.	7	56	187	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1256.122	1267.544	Ye_Sheng_Kang	male	native	Um, yeah, we signed it, because, that is, we just would not tell others that this was -- I had no reservations about his treatment.	7	56	188	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1256.122	1267.544	speaker#1	female	native	That is, if the medical bills came, without looking you just signed them, huh.	7	56	189	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1267.544	1278.338	Ye_Sheng_Kang	male	native	After that, um, I -- I just told, uh, our finance manager over there, I said that as long as the hospital sends for -- for money, we will immediately wire the money over.	7	56	190	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1267.544	1278.338	speaker#1	female	native		7	56	191	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1278.338	1296.161	Ye_Sheng_Kang	male	native	Oh yeah, oh -- oh -- oh yeah, this is also something we verified because we, yes, let -- told anyone that we had no hesitations about curing him.	7	56	192	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1278.338	1296.161	speaker#1	female	native	One could even say that the money could be directly wired to the hospital without the need for you to sign, huh.	7	56	193	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1296.161	1300.603	speaker#2	male	native	The hospital was also moved by Ye Shengkang's behavior.	7	57	194	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1300.603	1309.634	speaker#2	male	native	It was decided at once that Professor Li Jieshou, an eighty-two-years-old academician of the Chinese Academy of Engineering, would himself operate on Yu Bing.	7	57	195	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1309.634	1315.914	Li_Jie_Shou	male	native	As his boss he hoped he would survive. We also hoped he would be able to live on well.	7	58	196	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1315.914	1324.552	Li_Jie_Shou	male	native	Therefore, with this sort of spiritual encouragement, everyone put forth their best efforts to solve his biggest predicament.	7	58	197	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1324.552	1335.550	Ren_Jian_AN	male	native	Professor Li, the academician and such a famous expert, was also much moved. He then said to me, we should encourage such a good person as this, ah, if he can perform such an act of kindness as this, then we should help him fulfill his wish.	7	59	198	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1335.550	1341.995	Ren_Jian_AN	male	native	So afterwards, he and I specially went back and forth over surgical plans together, ah, hoping to succeed with one operation.	7	59	199	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1341.995	1359.816	Li_Jie_Shou	male	native	Um, as for me, I am the oldest in the department and have a bit more experience, so when I went up, uh, and worked with them, I just hoped I could perform a successful operation and that he would have a very good recovery. In this way for this young man, this would be giving him a second life.	7	60	200	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1359.816	1386.902					8	61	201	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	1386.902	1398.275	Ren_Jian_AN	male	native	We always hope that for good things, you know, we hoped he would be even better so that these beautiful things, these compassionate things would be promoted.	9	62	202	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1398.275	1408.951	speaker#1	female	native	Hello, hi, is this Yu Bing? Right now we are on the program's recording set, um, we would like to ask you, how is your body doing?	9	63	203	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1398.275	1408.951	Yu_Bing	male	native	Hello, yes.	9	63	204	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1408.951	1412.853	speaker#1	female	native	Um, you're doing fine, right? Uh.	9	63	205	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1408.951	1412.853	Yu_Bing	male	native	Now my body has recovered alright, yeah.	9	63	206	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1412.853	1416.540	speaker#1	female	native	Uh-huh.	9	63	207	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1412.853	1416.540	Yu_Bing	male	native	So uh, I hope my body heals a bit faster, so I can get back to the factory sooner.	9	63	208	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1416.540	1422.910	speaker#1	female	native	Yes.	9	63	209	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1416.540	1422.910	Yu_Bing	male	native	How should I say it, for example, should I say "repay," I don't feel --- I don't feel I can ever repay it, I'll just say I will give my services to the factory sooner.	9	63	210	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1422.910	1428.161	Ye_Sheng_Kang	male	native	Uh, the entire staff of our company is missing you very much.	9	64	211	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1428.161	1485.558					10	65	212	nontrans	

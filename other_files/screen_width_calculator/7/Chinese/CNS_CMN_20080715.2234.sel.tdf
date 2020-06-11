@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2234	0	0.0	100.0	speaker	unknown	unknown	奥组委：没听说有哪个国家和地区因签证问题退票	0	0	0		
+CNS_CMN_20080715.2234	0	600.0	700.0	speaker	unknown	unknown	据新闻发布会介绍，目前各个国家和地区对北京奥运的票务需求热情很高，现在已经有185个国家和地区提出了票务的需求，但奥组委只听到有国家和地区要求追加票，还没有听到要求退票的消息。	0	0	0		

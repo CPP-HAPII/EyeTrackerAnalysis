@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080706.0642	0	500.0	600.0	speaker	unknown	unknown	记者见到，龟背的造形，利用了天然绿砚石原本的倾斜度，在背上用浮刻、立体刻、细刻的手法，精刻了九十九只大小不一，形态各异的小龟，有的嬉戏、玩乐，有的大龟背着小龟优哉游爬着，造型生动，活泼有趣，大龟的四脚为动感姿态，灵气生动。	0	0	0		
+CNS_CMN_20080706.0642	0	600.0	700.0	speaker	unknown	unknown	砚是中华“文房四宝”之一，端砚为中国四大名砚之首，集文学、艺术、绘画、书法、金石和雕刻一体。	0	0	0		

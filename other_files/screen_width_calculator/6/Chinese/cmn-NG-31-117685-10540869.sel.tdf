@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10540869	0	0.0	100.0	speaker	unknown	unknown	google Analytics新功能：基于匿名数据共享的行业对比报告	0	0	0		
+cmn-NG-31-117685-10540869	0	300.0	400.0	speaker	unknown	unknown	只需要加入数据共享（Data Sharing）服务，即可享受这款服务。	0	0	0		
+cmn-NG-31-117685-10540869	0	400.0	500.0	speaker	unknown	unknown	值得一提的是，共享的数据全部是*匿名*提交的，除非你对数据保密性的要求非常高，否则不用担心这些数据会透露什么机 密。	0	0	0		
+cmn-NG-31-117685-10540869	0	600.0	700.0	speaker	unknown	unknown	如果您已经加入了数据共享服务，在*两周之内*也是无法看到行业对比数据的。	0	0	0		
+cmn-NG-31-117685-10540869	0	700.0	800.0	speaker	unknown	unknown	这是因为Google需要进行初始化分类。	0	0	0		
+cmn-NG-31-117685-10540869	0	800.0	900.0	speaker	unknown	unknown	比如我的Blog现在就处于这个阶段：	0	0	0		

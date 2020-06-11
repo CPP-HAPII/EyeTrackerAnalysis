@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0069.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	塔利班袭击喀布尔阅兵式 阿富汗总统险遭枪杀	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 16:28 来源：中国日报网环球在线 发表评论	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	900.000	950.000	TEXT1	unknown	unkown	当地时间4月27日，阿富汗首都喀布尔举行的抗击苏联入侵胜利阅兵式遭到袭击，阿富汗总统卡尔扎伊和其他政要慌忙撤离现场。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	塔利班宣称对该事件负责。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	据美国媒体报道，阅兵式上突然响起枪声，参加阅兵仪式的数百人顿时乱成一团。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	目前还不清楚是谁开的枪。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	阅兵仪式的电视直播随即被切断。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	卡尔扎伊在保镖的护送下离开了现场。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	阿富汗国防部发言人阿兹米介绍说：“卡尔扎伊总统、所有的内阁成员以及外国外交官当时在主席台就座，他们都安全撤离了现场。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	我听到的消息是有两名议员受伤。”	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	现场一名警官称，他看见有两人从一间房子里使用AK-47朝扎尔扎伊等政要就坐的地方开枪。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	当地媒体的电视画面显示，枪声响起时，有一些人瘫倒在座椅上，看起来像议员。	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	塔利班发言人扎比乌拉在秘密地点接受电话采访时称，有四名该组织的武装分子当时在举行阅兵式的国家体育场附近，他们身穿绑着炸药的背心、携带着AK-47步枪和火箭助推榴弹。((韩榕华))	0	0	0		statement

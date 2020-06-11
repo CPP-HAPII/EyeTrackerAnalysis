@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120631-9948303	0	200.0	300.0	speaker	unknown	unknown	While practicing martial art. I felt a little frustrated when it came to Zha-qi-xing form. The master cried out from far away, "Move your head forward."	0	0	0		
+cmn-NG-31-120631-9948303	0	400.0	500.0	speaker	unknown	unknown	The night rain had just stopped at that time.	0	0	0		
+cmn-NG-31-120631-9948303	0	700.0	800.0	speaker	unknown	unknown	It simply made me thought about Zengdianzi's aspiration.	0	0	0		
+cmn-NG-31-120631-9948303	0	800.0	900.0	speaker	unknown	unknown	Appendix "The Analects Chapter 11" Zilu, Zengxi, Ranyou, and Gongxihua were sitting by the Master. Confucius said, "Since I am older than you are, no one uses me anymore."	0	0	0		
+cmn-NG-31-120631-9948303	0	900.0	1000.0	speaker	unknown	unknown	Meanwhile, you always say, "We are not known".	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080416.1379	0	300.0	400.0	speaker	unknown	unknown	汇丰亚太区股票策略员魏宏兆预期，并指由于撇除去年售出和电的庞大一次性收益，今年恒指每股盈利增长只微升5%，预期年底恒指目标位为26,000点，评级为“中性”。	0	0	0		
+CNS_CMN_20080416.1379	0	400.0	500.0	speaker	unknown	unknown	报告预期香港08年及09年GDP增长分别为5%及4.5%，CPI则分别升3.9%及4.3%，08年平均市盈率为15.5倍，每股盈利倒退22.9%。	0	0	0		

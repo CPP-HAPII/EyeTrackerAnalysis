@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.0682	0	200.0	300.0	speaker	unknown	unknown	中新网杭州7月3日电(记者 柴燕菲 实习生 汪恩民)今天，记者从ABAC二零零八杭州新闻发布会上获悉，亚太经合组织(APEC)政府首脑们的御用智囊团—— APEC工商咨询理事会将在八月二日共同聚首杭州，为当前中小企业的发展出谋划策，帮助他们度过难关，破茧重生。	0	0	0		
+CNS_CMN_20080704.0682	0	400.0	500.0	speaker	unknown	unknown	而ABAC是APEC工商咨询理事会是APEC中唯一代表工商界的常设机构，负责直接向APEC各经济体政府首脑提供有利于工商界发展的建议。”	0	0	0		
+CNS_CMN_20080704.0682	0	500.0	600.0	speaker	unknown	unknown	据此次会议主办方中国贸促会国际联络部隋建民部长介绍，此次ABAC二00八年度第三次会议在杭召开，除继续讨论贸易投资自由化、便利化以及金融、技术合作等方面的传统议题之外，还将召开亚太中小企业峰会，重点探讨如何促进中小企业发展的有关议题。	0	0	0		
+CNS_CMN_20080704.0682	0	1000.0	1100.0	speaker	unknown	unknown	作为中国三名ABAC代表之一马云所在的阿里巴巴集团是此次峰会的主办方之一。	0	0	0		
+CNS_CMN_20080704.0682	0	1400.0	1500.0	speaker	unknown	unknown	另外，ABAC还将在秘鲁利马的第四次会议期间将正式的咨询建议书呈交各经济体政府首脑，并和各经济体首脑们进行一次面对面的交流。	0	0	0		

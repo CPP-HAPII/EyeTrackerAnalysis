@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0132	0	600.0	700.0	speaker	unknown	unknown	Democratic voters have more confidence in Obama to win the election. 71% of Democrats believe Obama will win, while 51% of Republicans believe McCain will win.	0	0	0		
+CNS_CMN_20080725.0132	0	1000.0	1100.0	speaker	unknown	unknown	If you compare the candidates of the two major parties one on one, Obama's support rate among registered voters is 41%, while McCain's is 40%. If you add Libertarian candidate Bob Barr (Bob Barr) and independent candidate Ralph Nader (Ralph Nader), Obama's support rate leads 40% to 37%.	0	0	0		

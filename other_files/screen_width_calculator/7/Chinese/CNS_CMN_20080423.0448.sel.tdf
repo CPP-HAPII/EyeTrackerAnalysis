@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080423.0448	0	800.0	900.0	speaker	unknown	unknown	重庆市法院每年均向社会招录工作人员，但面向全国招录职业法官尚属首次。	0	0	0		

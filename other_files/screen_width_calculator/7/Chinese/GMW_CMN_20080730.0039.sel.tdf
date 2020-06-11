@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080730.0039	0	300.0	400.0	speaker	unknown	unknown	今天从国家发改委获悉，国务院已于日前正式批准了中央编制委员会办公室拟订的国家能源局主要职责、内设机构和人员编制并对外公布。	0	0	0		
+GMW_CMN_20080730.0039	0	600.0	700.0	speaker	unknown	unknown	要职责包括划入原国家能源领导小组办公室职责、国家发改委的能源行业管理有关职责，以及原国防科学技术工业委员会的核电管理职责等。	0	0	0		
+GMW_CMN_20080730.0039	0	1000.0	1100.0	speaker	unknown	unknown	国家能源局设党组，党组书记由国家发展改革委副主任张国宝（正部长级）兼任，党组成员包括原国防科工委副主任孙勤和国家发改委原能源局局长赵小平。	0	0	0		

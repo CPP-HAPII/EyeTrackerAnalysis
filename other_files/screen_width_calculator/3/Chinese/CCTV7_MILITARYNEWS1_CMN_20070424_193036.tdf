@@ -1,0 +1,192 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 9.1120000000000001, 157.995, 322.23700000000002, 357.29300000000001, 419.221, 535.404, 588.77200000000005, 959.11599999999999, 1097.895, 1151.7329999999999, 1217.857, 1243.6769999999999, 1262.1079999999999, 1301.8409999999999, 1307.0319999999999, 9999999.0]
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	0.000	5.122	speaker#1	female	native	光辉，请看今天的特别关注，军旅话剧奏响时代的黄钟大吕。	0	0	0	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	9.112	12.575	speaker#1	female	native	您好观众朋友，这里是中央电视台军事报道，欢迎您的收看。	1	1	2	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	12.575	14.102	speaker#2	male	native	下面请看详细内容。	1	2	3	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	15.160	26.557	speaker#1	female	native	中央军委副主席，国务委员兼国防部长曹刚川上将， 今天上午会见了出席信息安全中国与世界国际学术研讨会的德国前总统赫尔佐克和外方与会代表。	1	3	5	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	26.557	30.329	speaker#1	female	native	下午，曹刚川与韩国国防部长金章珠举行了会谈。	1	3	7	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	31.526	37.788	speaker#3	female	native	曹刚川在会见赫尔佐克时说， 随着全球信息社会的来临，信息安全问题日益凸显，	1	4	9	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	38.297	45.749	speaker#3	female	native	信息安全作为非传统安全的核心内容备受世界各国的关注， 并成为国家安全体系中的关键要素。	1	4	12	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	46.408	52.905	speaker#3	female	native	中国政府愿与国际社会一道，加强合作， 为构建国际信息安全体系做出应有的贡献。	1	4	15	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	53.564	61.798	speaker#3	female	native	赫尔佐克表示，信息安全已成为一个世界性的课题， 它对国家主权和世界军事安全形势具有重大影响。	1	4	18	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	61.798	65.541	speaker#3	female	native	各国应高度重视并采取措施确保信息安全。	1	4	20	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	66.284	69.583	speaker#3	female	native	中国国际战略协会会长熊光海参加了会见。	1	4	22	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	71.322	78.241	speaker#3	female	native	曹刚川在与金章珠会谈时说， 今年是中韩两国建交十五周年，也是中韩交流年，	1	4	24	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	78.769	85.532	speaker#3	female	native	我们愿与与韩方共同努力，不断扩大和深化交流与合作。 积极落实两国领导人达成的共识，	1	4	27	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	85.532	93.566	speaker#3	female	native	本着政治互信，经济互利，维护半岛和平与稳定的原则， 推动中韩两国两军关系向着更高层次发展。	1	4	29	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	94.195	99.101	speaker#3	female	native	曹刚川还阐述了中国在朝鲜半岛核问题以及台湾问题上的立场。	1	4	32	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	99.667	105.752	speaker#3	female	native	金章珠说，韩中两国关系友好，两国政府和军队间的交流与合作富有成效，	1	4	34	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	105.752	112.284	speaker#3	female	native	韩方愿继续推动两国防务部门和两国军队间友好合作关系进一步深入发展。	1	4	35	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	113.236	120.549	speaker#3	female	native	会谈前，曹刚川为金章珠举行了欢迎仪式， 并陪同检阅了中国人民解放军陆海空三军仪仗队。	1	4	37	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	121.108	126.798	speaker#3	female	native	总参谋长助理孙建国中将和韩国驻华大使金厦中等参加了上述活动。	1	4	40	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	128.157	134.941	speaker#3	female	native	中央军委委员，总参谋长梁光烈二十三号在北京会见了来访的韩国国防部长金章珠。	1	4	42	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	135.600	145.568	speaker#3	female	native	梁光烈说，中韩来国加强往来，有利于增进相互间的了解，信任与友谊， 对推动两国关系的全面深入发展也将起到积极的作用。	1	4	44	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	146.111	152.666	speaker#3	female	native	金章说，韩方愿与中方一道共同努力， 为东北亚地区的和平与稳定做出贡献。	1	4	47	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	153.474	156.286	speaker#3	female	native	总参谋长助理孙建国等参加了会见。	1	4	50	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	157.995	162.157	speaker#2	male	native	经中央军委批准，全军安全工作会议二十三号在京召开。	2	5	52	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	162.903	169.612	speaker#3	female	native	中央军委委员，总参谋长梁光烈， 中国军委委员，总政治部主任李继耐出席会议并讲话，	2	6	54	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	170.301	177.839	speaker#3	female	native	梁光烈在讲话中指出， 各级要深刻领会认真贯彻胡主席重要指示，牢固确立安全发展理念，	2	6	57	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	178.358	183.444	speaker#3	female	native	把确保军队纯洁巩固，听党指挥作为安全发展的最高要求，	2	6	60	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	183.444	187.178	speaker#3	female	native	把巩固提高战斗力作为安全发展的根本目的，	2	6	61	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	187.178	191.798	speaker#3	female	native	把科学预防，标本兼治作为安全发展的基本原则，	2	6	62	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	191.798	196.895	speaker#3	female	native	把加强军事训练，提高官兵素质能力作为安全发展的有效途径，	2	6	63	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	197.414	200.690	speaker#3	female	native	把依法从严治军作为安全发展的重要保证。	2	6	65	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	201.481	207.307	speaker#3	female	native	各级要针对部队安全工作面临的新情况新问题， 结合实际进一步深化研究，	2	6	67	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	207.905	211.409	speaker#3	female	native	要制定严密的防范措施，加大专项治理力度，	2	6	70	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	212.071	220.391	speaker#3	female	native	要大力加强安全理论，法规制度，防范机制，能力素质和安全设施建设， 为安全工作创造良好条件。	2	6	72	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	221.319	228.851	speaker#3	female	native	李继耐在讲话中指出， 各部队要切实用胡主席关于安全发展的一系列重要指示统一思想，	2	6	75	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	228.851	231.537	speaker#3	female	native	强化忧患意识， 始终保持清醒，	2	6	76	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	231.537	238.671	speaker#3	female	native	强化政治意识， 自觉从高举旗帜，听党指挥的高度认识维护部队安全的极端重要性。	2	6	77	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	239.210	245.614	speaker#3	female	native	强化大局意识，坚持把部队安全工作放到党和国家中心工作中思考和筹划。	2	6	80	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	246.643	252.577	speaker#3	female	native	强化使命意识，真正把维护部队安全作为各级领导干部的重大政治责任，	2	6	82	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	252.577	260.541	speaker#3	female	native	以对部队建设，对广大官兵高度负责的精神， 发扬求真务实的作风，高标准抓好各项工作的落实。	2	6	83	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	261.377	265.751	speaker#3	female	native	一定要积极应对面临的严峻形势，打好安全防范主动仗。	2	6	86	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	266.320	273.745	speaker#3	female	native	要着眼确保部队高度稳定和集中统一， 下大力提高各级党委从政治上掌握部队的能力，	2	6	88	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	273.745	277.566	speaker#3	female	native	提高复杂情况下掌握信息和应急处突的能力，	2	6	90	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	278.104	281.651	speaker#3	female	native	提高运用现代科技手段实施安全防范的能力，	2	6	92	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	281.651	285.302	speaker#3	female	native	提高依靠法规制度指导和开展工作的能力，	2	6	93	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	285.960	291.410	speaker#3	female	native	这次会议主要是深入学习贯彻胡主席关于安全工作的一系列重要指示，	2	6	95	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	291.410	294.144	speaker#3	female	native	动员全军进一步做好安全工作，	2	6	96	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	294.144	296.787	speaker#3	female	native	推动部队建设和军事斗争准备，	2	6	97	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	296.787	301.081	speaker#3	female	native	又好又快发展，以优异的成绩迎接党的十七大召开。	2	6	98	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	301.919	307.997	speaker#3	female	native	会议听取了全军各大单位和武警部队关于做好新形势下安全工作的情况汇报。	2	6	100	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	308.712	314.674	speaker#3	female	native	观看了南京军区，空军和武警部队抓好安全技术防范工作的多媒体介绍。	2	6	102	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	314.674	320.842	speaker#3	female	native	讨论修改了四总部加强部队安全工作的意见以及安全工作有关法规。	2	6	103	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	322.237	331.111	speaker#3	female	native	由中国国际战略协会和河东顺名国际文化基金会联合举办的信息安全中国与世界国际学术研讨会今天在北京召开，	3	7	105	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	331.111	338.656	speaker#3	female	native	中国以及来自亚洲，欧洲，美洲和大洋洲十二个国家的有关部门官员和专家学者等一百多人出席了研讨会。	3	7	106	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	339.375	345.692	speaker#3	female	native	中国国际战略协会会长熊光凯在大会上发表了题为信息时代与国家安全的主题演讲。	3	7	108	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	345.692	355.916	speaker#3	female	native	会议还将就信息网络的广泛使用将可能影响到国家的政治稳定， 信息技术的进步将改变未来战争的形态和作战样式等问题进行分析和研讨。	3	7	109	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	357.293	363.251	speaker#1	female	native	空军航空兵某师党委以信息为主导，积极开展科技创新， 促进了部队训练效益的提升。	4	8	112	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	364.453	367.969	speaker#4	male	native	近日，这个航空兵师进行了一次远程奔袭作战演练，	4	9	115	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	367.969	370.563	speaker#4	male	native	演练在陌生空域，复杂电磁环境下进行，	4	9	116	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	371.154	378.700	speaker#4	male	native	突击机群升空后，迅速与敌机展开空中对抗， 并对敌重要目标进行了多层次，多方向，多批次的连续突击。	4	9	118	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	379.334	385.947	speaker#4	male	native	返航途中，他们又接到了空战截击对抗演练课目的命令， 编队指挥员迅速调整编队，展开训练。	4	9	121	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	386.687	394.179	speaker#4	male	native	在指挥所，师领导告诉记者， 一次飞行进行多课目的综合演练，得益于科技手段在飞行训练中的运用。	4	9	124	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	394.913	404.592	speaker#4	male	native	近年来，这个师依托网络化训练平台，组成多个攻关小组， 先后研发了信息化指挥系统，飞机发动机综合监控系统等多项科技成果，	4	9	127	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	404.592	406.245	speaker#4	male	native	并在训练中得到应用。	4	9	129	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	406.920	413.881	speaker#4	male	native	其中，飞行参数自动判读系统是飞行员和指挥员能够及时对飞行训练全程进行质量评估，	4	9	131	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	413.881	417.952	speaker#4	male	native	发现存在问题，并有针对性地展开后续课目训练。	4	9	132	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	419.221	424.604	speaker#2	male	native	连日来，新疆军区边防部队组织官兵对万里边防线实施直升机空中巡逻。	5	10	134	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	426.454	432.474	speaker#4	male	native	带队指挥员告诉记者， 时下正是新疆气侯转暖，积雪融化，冰河解冻的季节。	5	11	136	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	432.474	443.008	speaker#4	male	native	乘直升机巡逻，不仅使官兵远离了雪崩，泥石流和洪水的威胁， 而且机上装备的数据传输系统可以随时将边境情况传回指挥机关，	5	11	138	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	443.008	445.557	speaker#4	male	native	极大地提高了巡逻执勤的效率。	5	11	141	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	446.905	460.678	speaker#4	male	native	据了解，为解决单架直升机巡逻范围小，飞行速度快的难题， 今年以来，担负边防巡逻飞行任务的新疆军区某陆航团， 加大了直升机编队巡逻训练的力度， 并解决了多个技术难题。	5	11	143	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	460.678	466.560	speaker#4	male	native	目前，空中巡逻手段已经实现了由单机巡逻向多机编队跟进巡逻的转变。	5	11	148	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	467.067	471.546	speaker#4	male	native	巡逻范围也实现了由点线巡逻向全境巡逻的跨越。	5	11	150	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	473.099	480.888	speaker#1	female	native	沈阳军区某油料仓库着眼大联勤需要， 在责任，制度，作风，科技上严抓细抠，不断提升保障能力。	5	12	152	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	482.627	489.033	speaker#3	female	native	这个仓库先后换了十三届领导班子， 历届领导班子都把安全当做头等大事常讲常抓，	5	13	155	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	489.569	494.271	speaker#3	female	native	十三届领导班子传承着一个习惯，逢年过节都要带班巡库。	5	13	158	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	495.101	499.037	speaker#3	female	native	如今全库一百一十二个重点部位全部贴有安全提示卡，	5	13	160	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	499.037	501.537	speaker#3	female	native	六百二十三个阀门个个都责任人。	5	13	161	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	502.138	505.199	speaker#3	female	native	此外，党委一般人还常年坚持四个经常。	5	13	163	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	505.738	509.661	speaker#3	female	native	经常在库区内外看一看，经常在夜深人静时转一转，	5	13	165	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	509.661	513.702	speaker#3	female	native	经常往安全隐患上想一想，经常对干部战士讲一讲。	5	13	166	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	514.421	519.062	speaker#3	female	native	仓库党委坚持公正用权，创造和谐环境，消除人为隐患。	5	13	168	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	519.062	524.546	speaker#3	female	native	在干部提拔，战士考学，选取士官等问题上他们坚持三不原则，	5	13	169	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	525.085	530.918	speaker#3	female	native	群众测评不过关不行，基层组织不推荐不行，机关考核不合格不行。	5	13	171	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	530.918	534.211	speaker#3	female	native	及时掌握官兵的思想动态，消除安全隐患。	5	13	172	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	535.404	541.748	speaker#2	male	native	四月十九日十七点十分， 西藏林芝地区八一镇东北侧四公里处的原始森林发生火灾，	6	14	174	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	542.304	548.861	speaker#2	male	native	经驻藏解放军，武警官兵及当地群众六千七百多人的连续扑救， 大火已经全部扑灭。	6	14	177	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	549.916	556.248	speaker#3	female	native	十九号晚，西藏军区某旅接到火灾救援求救后， 迅速派出一千二百名官兵赶往火灾地点，	6	15	180	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	556.248	560.092	speaker#3	female	native	与相继抵达的武警官兵及当地群众投入扑火战斗。	6	15	182	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	560.686	564.327	speaker#3	female	native	火灾现场周边有两个油库，还有医院，村庄，学校等，	6	15	184	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	564.327	567.872	speaker#3	female	native	距离最近的油库只有七百多米，情况十分危急。	6	15	185	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	568.412	577.456	speaker#3	female	native	官兵们克服高寒缺氧等不利因素，奋力扑火， 并在海拔三千六百多米的山上开辟出两条长四公里，宽四十米的隔离带，	6	15	187	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	578.011	581.333	speaker#3	female	native	截至二十一号十七点五十分，明火已基本被扑灭。	6	15	190	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	581.333	586.947	speaker#3	female	native	随后官兵们又展开了拉网式排查， 进一步清理火灾现场，确保不再发生复燃。	6	15	191	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	588.772	591.616	speaker#1	female	native	中国话剧已经走过了近百年的风雨历程，	7	16	194	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	591.616	597.245	speaker#1	female	native	当历数中国话剧百年行进的脚印时，我们不难发现， 在这串长长的脚印中，	7	16	195	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	597.245	604.490	speaker#1	female	native	军旅话剧作为中国话剧的重要组成部分， 以其特有的光彩在艺术史上闪耀着不可磨灭的光辉。	7	16	197	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	611.898	620.065	speaker#5	female	native	在今年中国话剧诞辰一百周年之际， 一批优秀的军事作品在京与观众见面， 成为首都话剧舞台上一道亮点的风景。	7	17	200	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	620.722	627.993	speaker#3	female	native	在纪念中国话剧诞辰百年活动中， 三十一台今年新创作的优秀剧目在北京竞相登台。	7	18	204	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	628.622	648.598	speaker#3	female	native	其中，总政话剧团的黄土谣，解放军艺术学院的我在天堂等你， 广州军区政治部文工团的天籁， 南京军区政治部文工团的马蹄声碎四部军旅话剧， 以及厚重的思想内涵，新颖别致的艺术构思和催人泪下的感人情节， 赢得军内外观众的一致好评。	7	18	207	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	649.098	654.319	speaker#6	male	native	呃，我们所有的军，军队的戏剧工作者都感到比较， 比较自豪。	7	19	213	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	654.957	657.800	speaker#6	male	native	这个因为就是说，话剧百年了，	7	19	217	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	657.800	666.956	speaker#6	male	native	军队的戏剧其实从它起始于那个红军剧团开始， 到现在也有了将近七十年的历史。	7	19	218	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	666.956	674.830	speaker#3	female	native	早期的军旅话剧不仅仅是一种文化活动， 更是一场场配合部队发动民众进行政治宣传的战斗。	7	20	221	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	675.459	684.770	speaker#3	female	native	即使是在极其艰苦的革命岁月中， 话剧演员都曾在简陋的舞台上把革命中的感人故事编成独幕话剧，鼓舞士气。	7	20	224	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	685.369	696.746	speaker#3	female	native	前线，南泥湾，抓壮丁等一大批反映革命战争题材的作品， 成为那个时代中国话剧创作的主旋律作品， 永远地写入了中国话剧发展的历史。	7	20	227	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	697.499	712.885	speaker#7	male	native	那时候这个部队 就是农民的子弟， 所以你必须得用很 通俗的这种形式，向他宣传国家大事。	7	21	231	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	713.666	718.364	speaker#7	male	native	就用一种活的报纸，没有报纸读就活的演给他看，	7	21	239	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	718.903	727.256	speaker#7	male	native	就是用一种 简便的一种 一种一种一种一种化妆宣传的形式，	7	21	241	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	728.184	734.083	speaker#7	male	native	编一种简单的情节， 让老百姓能够看懂这个，这个故事。	7	21	247	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	734.965	739.412	speaker#3	female	native	从最初简单的雏形到话剧在军队逐步发展壮大，	7	22	251	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	739.412	743.394	speaker#3	female	native	一批批军旅文艺工作者为此付出了不懈的努力。	7	22	252	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	744.101	752.287	speaker#3	female	native	新中国成立以后，部队文艺工作者继承传统，勤奋创作， 推出了一台台在社会上产生巨大影响的优秀作品。	7	22	254	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	753.200	759.772	speaker#3	female	native	万水千山，霓红灯下的哨兵，虎踞钟山等，如黄钟大吕，成为时代记忆。	7	22	257	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	759.772	763.156	speaker#8	male	native	八千军队的工作艺术者始终在坚守这块阵地，	7	23	258	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	763.724	774.862	speaker#8	male	native	呃始终认为，呃，话剧这个阵地， 能够呃， 继续成为军队的政治工作的一个组成部分。	7	23	260	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	776.394	786.181	speaker#8	male	native	能够给我们的官兵提供 优秀的呃 这个思想 和精神食粮。	7	23	266	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	787.001	795.433	speaker#3	female	native	改革开放后，一大批军旅戏剧艺术家继承我军戏剧艺术的光荣传统， 将一批又一批优秀剧目搬上舞台。	7	24	276	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	796.182	811.062	speaker#3	female	native	天边有一处圣火，桃花谣，大漠魂，艾尔那突击等优秀剧目。 或振聋发聩，或清风和煦，或激越豪迈，或委婉动人， 彰显了军人风采，高唱了时代的主旋律。	7	24	279	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	811.781	817.440	speaker#3	female	native	我然而随着社会主义市场经济的不断发展， 社会文化生活呈现出多元化的趋势，	7	24	285	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	818.034	823.533	speaker#3	female	native	军旅话剧也和整个国内话剧业一样，出现了危机，观众大量流失。	7	24	288	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	824.065	836.390	speaker#9	male	native	如何把更多的观众再吸收到剧场来， 把我们军旅话剧赢得更多人的眼球，这个是我们军旅话剧工作者一个面临最严峻的挑战，	7	25	290	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	836.937	845.045	speaker#9	male	native	呃，那个一方面就是说加大对军旅话剧这个这个创作它的一种，提高它的艺术质量和它的观赏性。	7	25	294	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	845.045	855.276	speaker#10	male	native	我，其实我们演出的戏很多，演出场次也很多， 但是从社会这个 呃，影响来说，好象不够大，	7	26	295	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	855.276	858.579	speaker#10	male	native	这恐怕是我们这个工作特质所决定，	7	26	299	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	858.579	860.824	speaker#10	male	native	但是这几年我们觉得要好得多，	7	26	300	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	860.824	871.393	speaker#10	male	native	我们也在努力做这方面的工作，希望，希望 除了为兵服务， 还有为社会服务， 还要适应现代的市场。	7	26	301	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	872.182	884.637	speaker#3	female	native	怀着这种对军旅话剧的忧患意识， 军队话剧的文艺工作者以强烈的使命感，责任感和极大的热忱， 满腔热情地深入生活，关注不断发展和变化的军营生活。	7	27	309	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	885.137	893.205	speaker#3	female	native	用话剧作品演绎丰富多彩的军旅生活， 激励官兵积极投身国防现代化建设，履行神圣的使命。	7	27	313	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	893.714	897.181	speaker#11	male	native	呃最重要的还是要 弘扬话剧本体的东西，	7	28	316	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	897.181	903.713	speaker#11	male	native	它的本体的东西是一种， 尊重生命， 歌颂崇高，	7	28	319	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	904.297	908.461	speaker#11	male	native	需要有深刻的思想性，需要有精湛的艺术表现力，	7	28	325	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	909.150	913.701	speaker#11	male	native	呃只有拿出这样好的作品， 才能够受到人民群众的欢迎，	7	28	327	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	914.395	923.584	speaker#11	male	native	也同样作为我们军队的，呃，戏剧工作者， 也只有拿出这样好的作品，才能真正地为提高部队的战斗力服务。	7	28	331	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	924.096	928.236	speaker#3	female	native	近年来，军旅话剧艺术工作者不断深入官兵生活，	7	29	334	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	928.236	932.795	speaker#3	female	native	从塞外高原的边防巡逻线到南海孤岛的前沿小哨，	7	29	335	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	933.313	936.250	speaker#3	female	native	从火热的训练场到多彩的军营生活，	7	29	337	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	936.792	948.192	speaker#3	female	native	一个个动人感人的故事不仅丰富着他们自身的阅历和修养， 坚定着他们的艺术信念， 而且还强化了他们作为军人艺术家的使命意识和责任意识。	7	29	339	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	948.192	957.455	speaker#3	female	native	激励着他们为繁荣我国话剧事业，发展社会主义先进文化， 构建社会主义和谐社会做出新的更大的贡献。	7	29	342	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	959.116	960.528	speaker#2	male	native	接下来请看一组简讯。	8	30	345	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	961.513	970.329	speaker#3	female	native	昨天，上海警备区组织所属各基层单位相关人员现场观摩了防空群指挥所开设与展开， 射击指挥合练等内容的示范演练。	8	31	347	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	970.866	979.600	speaker#3	female	native	据了解，上海警备区将依托驻地信息化资源，对下述所有指挥所进行全面升级改造， 进一步提升城市防空作战能力。	8	31	350	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	980.761	990.498	speaker#4	male	native	几天来，沈阳军区第二零八医院分批将所属医务人员拉到野外生疏地域， 模拟实战，展开针对性训练，以检验快速机动和卫勤保障能力。	8	32	353	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	991.269	1000.768	speaker#3	female	native	日前，成都军区确定西藏自治区的拉萨八一校，拉萨中学，林芝地区一中等五所普通中学为西藏首批国防生生源基地。	8	33	356	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1001.576	1006.786	speaker#4	male	native	武警宁夏总队直属支队日前为驻地希望小学捐赠了一批办公和学习用品，	8	34	358	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1007.475	1009.985	speaker#4	male	native	这个支队与驻地教育部门签定协议，	8	34	360	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1009.985	1018.762	speaker#4	male	native	今后将以捐资助学，与困难家庭结对帮扶等形式， 持续资助驻地三所希望小学所有贫困生完成学业。	8	34	361	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1019.587	1031.128	speaker#3	female	native	广州军区联勤某分布在赞颂新成就，履行新使命，迎接十七大主题教育活动中， 组织官兵走出营区，参观驻地现代化大型企业，亲身感受祖国建设巨大成就。	8	35	364	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1031.128	1034.451	speaker#3	female	native	进一步打牢官兵扎根军营建功的思想基础。	8	35	366	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1035.329	1042.895	speaker#4	male	native	和广州军区联勤某分部一样， 北京军区装备部某仓库在主题教育中也组织官兵积极开展参观鉴学活动，	8	36	368	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1042.895	1046.608	speaker#4	male	native	激发官兵爱党情怀，筑牢爱军习武斗志。	8	36	370	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1047.351	1054.663	speaker#3	female	native	连日来，第二炮兵某部文艺小分队深入到各个野外训练场为官兵倾情演出， 把欢乐和祝福送到官兵心中。	8	37	372	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1055.248	1061.759	speaker#4	male	native	沈阳军区某部近日连续出动一千多名官兵参加驻地辽宁省丹东市花园河河道清理整治工作。	8	38	375	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1062.298	1067.268	speaker#4	male	native	使花园河恢复昔日美丽，成为当地居民休闲娱乐的好去处。	8	38	377	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1068.798	1075.754	speaker#3	female	native	今天上午，吉林省辽原市两千多名民兵预备役官兵参加了驻地万亩民兵林建设工程，	8	39	379	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1076.263	1089.753	speaker#3	female	native	与此同时，全省其他市县的四千多名民兵预备役官兵 对吉林市松花江流域，科尔沁沙地生态脆弱区， 四平市老工业污染区的生态治理集中攻坚战也全面展开。	8	39	381	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1097.895	1099.543	speaker#1	female	native	好，下面是国际方面的消息。	9	40	385	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1100.352	1108.570	speaker#2	male	native	俄罗斯总统新闻局二十三号发布通报宣布， 俄罗斯联邦首任总统鲍利斯叶利钦当天在莫斯科突然去世，享年七十六岁。	9	41	387	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1109.186	1115.232	speaker#2	male	native	俄罗斯总统普京当天发表电视讲话， 宣布四月二十五日为全国哀悼日，以悼念叶利钦。	9	41	390	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1116.705	1130.622	speaker#4	male	native	俄罗斯总统机关事务管理局医疗中心当天通报说， 莫斯科时间二十三号十五点四十五分，也就是北京时间二十点四十五分， 叶利钦因心脏病加重，在位于莫斯科的中央临床医院突然去世。	9	42	393	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1131.327	1133.530	speaker#4	male	native	叶利钦的健康状况一直不佳，	9	42	398	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1133.530	1140.263	speaker#4	male	native	他生前患有严重的心脏病， 曾在一九九六年十一月接受了长达七个小时的心血管搭桥手术。	9	42	399	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1141.485	1146.815	speaker#4	male	native	俄总统新闻局宣布，叶利钦将于二十五日被安葬在莫斯科的新处女公墓。	9	42	402	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1147.324	1150.503	speaker#4	male	native	遗体告别仪式在莫斯科的救世主大教堂举行。	9	42	404	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1151.733	1157.389	speaker#1	female	native	二十三号，俄罗斯国防部长希尔久克夫与到访的美国国防部长罗伯特盖茨举行会谈，	10	43	406	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1157.389	1162.186	speaker#1	female	native	双方重点讨论了两国争议最大的美国在欧洲部署导弹防御系统问题，	10	43	407	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1162.186	1165.743	speaker#1	female	native	这也是盖茨出任美国国防部长后第一次访问俄罗斯。	10	43	408	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1167.307	1176.252	speaker#3	female	native	双方在当天的会谈中重点讨论了美国在欧洲部署导弹防御系统将出现的问题， 以及美国利用携带非核弹头的洲际弹道导弹问题。	10	44	410	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1176.943	1184.156	speaker#3	female	native	希尔久克夫在会谈后的新闻发布会上表示， 美国在欧洲部署导弹防御系统将严重影响地区和全球安全。	10	44	413	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1184.156	1191.970	speaker#3	female	native	美国计划不能不引起俄罗的担心， 因为在作战时美国可能使用的这种洲际弹道导弹可以直接打到俄罗斯边界。	10	44	415	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1192.534	1196.611	speaker#3	female	native	盖茨则建议俄罗斯在战略导弹防御系统方面与美国进行合作，	10	44	418	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1196.611	1204.665	speaker#3	female	native	盖茨重申，美国在欧洲部署导弹防御系统并不针对俄罗斯或其他国家， 而是针对来自中东和西南亚的潜在入侵者。	10	44	419	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1205.374	1212.929	speaker#3	female	native	美国今年一月开始与波兰和捷克就恢复建立导弹防御基地问题举行谈判， 但这个计划遭到俄罗斯方面的强烈反对。	10	44	422	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1212.929	1216.312	speaker#3	female	native	俄方希望就这个问题与美国进行对话和磋商。	10	44	424	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1217.857	1222.000	speaker#4	male	native	美国宇航局二十三号公布了首个太阳三维立体图像，	11	45	426	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1222.000	1228.497	speaker#4	male	native	这一图像是由美国宇航局去年十月发射的两颗太阳探测器月地关系天文台拍摄的。	11	45	427	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1229.222	1236.440	speaker#4	male	native	这些图像资料对于分析太阳粒子风暴，以及太阳的活动周期和射线能量等问题都具有非常重要的意义。	11	45	429	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1236.950	1242.199	speaker#4	male	native	同时，它还为研究太阳射线对地球大气的影响提供了有利的证据。	11	45	431	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1243.677	1249.276	speaker#3	female	native	美国驻伊拉克大使瑞安克罗克二十三号说， 未来几个月对于伊拉克政府来说十分关键，	12	46	433	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1249.276	1255.651	speaker#3	female	native	伊拉克政府应利用巴格达新安全计划实施的机会，弥合教派之间的分歧， 加速推进民族和解进程。	12	46	435	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1256.164	1261.073	speaker#3	female	native	当天，伊拉克仍然有多个地区发生炸弹袭击事件，造成至少二十三人死亡。	12	46	438	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1262.108	1264.067	speaker#2	male	native	下面请看一组国际媒体集粹。	13	47	440	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1266.183	1277.540	speaker#3	female	native	哈萨克斯坦国防部长艾哈迈克夫二十三号表示， 根据不久前发表的新国家军事学说， 哈萨克斯坦将继续把俄罗斯和中国两国视作国际军事合作领域的战略伙伴。	13	48	442	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1279.062	1287.002	speaker#3	female	native	拉脱维亚通讯社二十三号报道， 拉国防部长阿帝斯斯拉克特里斯日前表示， 拉将于今年六月中旬从伊拉克撤军。	13	48	446	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1288.918	1293.746	speaker#3	female	native	新加坡二十三号在庭家空军基地展示了该国空军新的网络化防空系统，	13	48	450	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1294.361	1299.888	speaker#3	female	native	新的网络化防空系统由新的探测装置，陆基防空武器及指挥与控制系统组成。	13	48	452	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1301.841	1304.230	speaker#1	female	native	好，观众朋友，感谢您收看今天的军事报道。	14	49	454	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1304.834	1306.373	speaker#2	male	native	明天同一时间再见！	14	50	456	report	
+CCTV7_MILITARYNEWS1_CMN_20070424_193036	0	1306.373	1307.032	speaker#1	female	native	再见！	14	51	457	report	

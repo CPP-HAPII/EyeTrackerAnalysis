@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.2480	0	1000.0	1100.0	speaker	unknown	unknown	之后，杨又先后窜至10楼、11楼和21楼，在几个不同的房间内趁民警不备，用匕首刺伤5名民警。	0	0	0		
+CNS_CMN_20080702.2480	0	1700.0	1800.0	speaker	unknown	unknown	事发后，受伤的民警和保安随即被送到上海长征医院、上海北站医院和上海第一人民医院等进行抢救。	0	0	0		
+CNS_CMN_20080702.2480	0	2000.0	2100.0	speaker	unknown	unknown	上海北站医院一名医务人员表示，送来的两名警察都已死亡，一名49岁，一名56岁。	0	0	0		

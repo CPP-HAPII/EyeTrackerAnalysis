@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 74.843999999999994, 79.376000000000005, 84.299000000000007, 388.27300000000002, 414.00599999999997, 543.73400000000004, 552.40200000000004, 567.40200000000004, 574.35500000000002, 646.72799999999995, 652.44100000000003, 691.26900000000001, 708.65999999999997, 713.84799999999996, 719.755, 741.72400000000005, 762.03700000000003, 781.71299999999997, 785.83799999999997, 791.94799999999998, 803.54200000000003, 1633.354, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080331_073002	0	261.849	269.722	Ma_Ying_Jiu	male	native	假如能够直飞的话,那么从台湾到上海,如果以呃中正机场为准的话呢,大概是八十个(())	3	9	28	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080331_073002	0	269.722	275.255	Ma_Ying_Jiu	male	native	我在这里请教大家,大家准备好了没	3	9	29	report	question
+CCTV4_ACROSSSTRAIT_CMN_20080331_073002	0	388.273	403.194	Ma_Ying_Jiu	male	native	(()),我们一定全部啊都会兑现,我们一上任,就会要求我我的未来的行政院长,把所有的政见变成政策,政策变成预算	4	15	42	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080331_073002	0	1328.176	1333.800	Jiang_Min_Qin	male	native	那么这是莎士比亚在查理二世第二幕第二景里面所写的,我觉得写得非常的传神	21	52	142	filler	statement

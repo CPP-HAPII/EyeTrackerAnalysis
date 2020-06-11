@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0007.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	UN Police Officer Shot Dead as Soaring Consumer Prices in Haiti Lead to Riot	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	AFP on the 12th, Port-au-Prince	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	A UN peacekeeping official told AFP that a UN police officer from Nigeria was shot to death by unidentified attackers today in Haiti.	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	"He was a riot policeman from Nigeria," said Combe, spokesperson for the UN Stabilization Mission in Haiti.	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	1800.000	2000.000	TEXT1	unknown	unkown	The man, dressed in civilian clothes, was shot dead near a church in Port-au-Prince.	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	2200.000	2300.000	TEXT1	unknown	unkown	The Haitian police found his dead body and turned it over to the UN officials.	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	The shooting incident took place at a time when soaring food and fuel prices led to riots in Haiti, escalating political tensions.	0	0	0		statement

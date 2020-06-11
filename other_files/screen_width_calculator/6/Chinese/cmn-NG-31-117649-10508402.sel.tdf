@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117649-10508402	0	500.0	600.0	speaker	unknown	unknown	com/dat/media/16/2008/07/02/20080702164327726.jpg大学生的逐客令通知	0	0	0		
+cmn-NG-31-117649-10508402	0	1500.0	1600.0	speaker	unknown	unknown	平时北京的高额房租即已令大部份学生咋舌，更别提今年暑假许多房东刻意抬高房租，准备向前来参加奥运的有钱人大捞一笔。	0	0	0		
+cmn-NG-31-117649-10508402	0	2000.0	2100.0	speaker	unknown	unknown	目前北京大学和清华大学尚未传出必须迁离的消息，如果这两所学府的学生也被要求迁离，肯定会引起更多学生的不满。	0	0	0		

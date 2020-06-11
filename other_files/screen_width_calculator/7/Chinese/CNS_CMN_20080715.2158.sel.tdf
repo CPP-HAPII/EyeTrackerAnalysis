@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2158	0	1000.0	1100.0	speaker	unknown	unknown	同时，《意见》强调要加强与人民法院、人力资源和社会保障、司法行政等部门的协调配合，建立基层调解、仲裁调解、诉讼调解和人民调解相衔接制度，努力构建社会化“大调解”格局，“切实发挥调解在劳动争议处理中‘第一道防线’的作用”。	0	0	0		
+CNS_CMN_20080715.2158	0	1300.0	1400.0	speaker	unknown	unknown	《意见》同时要求注意总结各地工会参与并协助人民法院办理劳动争议案件的经验，如一些地方工会接受人民法院委托，开展劳动争议案件诉前调解工作；一些基层人民法院设立劳动争议审判庭、职工维权合议庭和劳动争议巡回法庭，依照法定程序任命符合条件的工会干部担任陪审员，参与劳动争议案件的审理等做法，不断完善机制，切实维护职工权益，促进企业劳动关系和谐与社会稳定。	0	0	0		

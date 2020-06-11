@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-112643-10821025	0	300.0	400.0	speaker	unknown	unknown	art_id=china2008083... >)博讯公民记者报道：奥运结束的第一周，今天从北京市朝阳北路过，在朝阳区常营和管庄地区发生大规模群众示威活动，示威活动一度阻断朝阳北路交通三个小时以上，去 了大批警察，据说还出现了殴打事件。	0	0	0		
+cmn-NG-31-112643-10821025	0	400.0	500.0	speaker	unknown	unknown	发生原因是常营和管庄周围有大型垃圾处理厂，该地区经常恶臭弥漫，垃圾焚烧厂焚烧后的二恶英等致癌物质高出正常水平40倍以 上，周围近百万群众反映了数年没有政府部门给出说法，更有甚者，垃圾场正南方500多米，政府正在建设数百万㎡的经济适用房和两限房，不知政府做这个决策时可曾 考虑到普通基层老百姓的健康和安危？	0	0	0		
+cmn-NG-31-112643-10821025	0	500.0	600.0	speaker	unknown	unknown	垃圾场不应建在市区，更不能建在人口稠密地区，规划两限房和经济适用房更是不可理解！	0	0	0		

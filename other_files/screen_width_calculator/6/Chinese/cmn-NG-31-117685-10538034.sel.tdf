@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10538034	0	100.0	200.0	speaker	unknown	unknown	Emailtoid < http://emailtoid.net/ >是一个很实用的在线网络服务，他可以将将你的Email和OpenID< http://openid.net/ >绑定，绑定之后，你就可以用你的Email登录那些支持openId的网站。	0	0	0		
+cmn-NG-31-117685-10538034	0	200.0	300.0	speaker	unknown	unknown	你可以通过Emailtoid < http://emailtoid.net/ >将多个Email绑定到一个OpenID帐号上面，也就意味着你可以使用多个Email帐号登录同一个OpenID帐号。	0	0	0		
+cmn-NG-31-117685-10538034	0	300.0	400.0	speaker	unknown	unknown	相对来讲Email帐号比OpenID 的帐号更易记一些，Emailtoid < http://emailtoid.net/ >能够使OpenID的服务使用起来更加方便。	0	0	0		

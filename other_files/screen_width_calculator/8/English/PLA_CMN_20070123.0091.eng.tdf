@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070123.0091	0	10010.000	10019.900				500-Day Countdown to Olympics Celebration to Be Held	0	0	0		
+PLA_CMN_20070123.0091	0	20010.000	20019.900				(Source: Article of Xinhua News Agency, Dispatch time: January 23, 2007 17:35)	0	0	0		
+PLA_CMN_20070123.0091	0	30010.000	30019.900				Xinhua News Agency, Beijing, January 23, Sports special dispatch (Reporter Li Jia). 'Drum Beijing' - China Drum Convention' and the 500-day countdown drum celebration party of the opening of the Beijing Olympics will be held solemnly in Beijing from March 4 to May 7, 2007.	0	0	0		
+PLA_CMN_20070123.0091	0	40010.000	40019.900				The drum celebration party will be jointly held by units including the Chinese Culture Promotion Society with the approval of the Ministry of Culture and the Organizing Committee for the Beijing 2008 Olympic Games.	0	0	0		
+PLA_CMN_20070123.0091	0	40020.000	40029.900				Its aims are to implement the spirit of the Ministry of Culture in regards to the 'protection project of Chinese folk cultural heritage', to carry forward excellent Chinese drum music culture, to display the brilliant and colorful qualities of drum music, and to use drum music to cheer for the 2008 Beijing Olympics.	0	0	0		
+PLA_CMN_20070123.0091	0	50010.000	50019.900				The theme of the 500-day countdown drum celebration party of the opening of the Beijing Olympics is Drum Beijing. The entire venue of the party will connected with drum music.	0	0	0		
+PLA_CMN_20070123.0091	0	50020.000	50029.900				(The end)	0	0	0		

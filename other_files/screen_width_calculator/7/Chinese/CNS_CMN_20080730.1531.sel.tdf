@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.1531	0	200.0	300.0	speaker	unknown	unknown	能够升起的全息镜头，无线网络传输可连接各级公安机关，随时可以到达任何突发事件的现场进行有效的指挥，这是一辆现代化装备的警用“处突”反恐指挥车。	0	0	0		
+CNS_CMN_20080730.1531	0	1200.0	1300.0	speaker	unknown	unknown	全息镜头环顾周边	0	0	0		
+CNS_CMN_20080730.1531	0	1400.0	1500.0	speaker	unknown	unknown	工作民警介绍，这个摄像头是全息镜头，而且还能左右旋转。	0	0	0		

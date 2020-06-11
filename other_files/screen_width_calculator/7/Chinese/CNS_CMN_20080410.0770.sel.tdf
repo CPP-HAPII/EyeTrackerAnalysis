@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.0770	0	300.0	400.0	speaker	unknown	unknown	据悉，他已经作为助理教练加盟中超冠军球队长春亚泰俱乐部，辅佐少帅高洪波。	0	0	0		
+CNS_CMN_20080410.0770	0	400.0	500.0	speaker	unknown	unknown	继马良行之后，王海鸣也成为了第三位转型执教男足的女足教练。	0	0	0		
+CNS_CMN_20080410.0770	0	1100.0	1200.0	speaker	unknown	unknown	不过，曾经率领国青夺取过女足世青赛亚军的王海鸣拒绝了足协的好意，义无反顾地选择了好友兼老乡高洪波执教的长春亚泰出任助教。	0	0	0		

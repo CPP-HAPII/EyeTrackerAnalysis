@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121778-10721248	0	0.0	100.0	speaker	unknown	unknown	SW1-3攻略--[论坛订阅 新主题通知] ( 暴风城 - PlayUI )	0	0	0		
+cmn-NG-31-121778-10721248	0	200.0	300.0	speaker	unknown	unknown	鹏鹏 在论坛版块 “副本攻略/任务讨论区” 发表了一个新的主题，标题是 “SW1-3攻略”。	0	0	0		
+cmn-NG-31-121778-10721248	0	900.0	1000.0	speaker	unknown	unknown	该主题可在这里找到：http://www.playui.	0	0	0		
+cmn-NG-31-121778-10721248	0	1200.0	1300.0	speaker	unknown	unknown	请注意： 如果您想获得回复这个主题的电子邮件通知，您可以点击位于主题页面上方的 “追踪主题” 链接，或者经由以下的链接访问：http://www.playui.	0	0	0		

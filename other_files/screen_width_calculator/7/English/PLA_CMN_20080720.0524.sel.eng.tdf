@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080720.0524	0	200.0	300.0	speaker	unknown	unknown	Xinhua News Agency, Beijing, July 20, Special dispatch for the Olympic Games Title: An Olympics without gold metals	0	0	0		
+PLA_CMN_20080720.0524	0	700.0	800.0	speaker	unknown	unknown	Zeus held a globe and on top of it stood the Greek goddess of victory. The note on the picture says "Olympia" in Greek.	0	0	0		
+PLA_CMN_20080720.0524	0	800.0	900.0	speaker	unknown	unknown	On the back of the medal was the site of the Acropolis, printed in Greek was "1896 International Olympic Games in Athens."	0	0	0		
+PLA_CMN_20080720.0524	0	1900.0	2000.0	speaker	unknown	unknown	This Olympic Games was held in St. Louis of the United States, this was the first time gold, silver, and bronze medals were given to the first three athletes.	0	0	0		
+PLA_CMN_20080720.0524	0	2000.0	2100.0	speaker	unknown	unknown	The list of the top three with gold medals was the United States (40), Cuba (5), and Germany (4).	0	0	0		

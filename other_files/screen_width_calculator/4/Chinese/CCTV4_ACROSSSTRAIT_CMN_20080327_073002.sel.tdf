@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 66.281000000000006, 116.566, 121.488, 365.92399999999998, 371.346, 389.03399999999999, 393.48599999999999, 402.12599999999998, 413.90699999999998, 509.98700000000002, 520.17499999999995, 598.53300000000002, 606.798, 725.58000000000004, 732.45399999999995, 749.65599999999995, 754.625, 796.20100000000002, 1018.403, 1041.2470000000001, 1060.3720000000001, 1620.771, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080327_073002	0	476.312	483.187	speaker#2	female	native	第四,谢廷希望民进党能扮演好监督和制衡的角色,监督并制衡国民党	9	23	53	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080327_073002	0	1151.028	1157.778	speaker#1	female	native	你比如说像把中华邮政改为了台湾邮政,在旅行的证件上呢要加注台湾字样等等	21	50	137	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080327_073002	0	1563.053	1575.412	Li_Jian_Nan	male	native	那么表达能力萎缩,为什么表达能力萎缩呢,你看一个,你看大陆的这个大我们台湾叫大学考试,大陆叫高考啦,大陆的高考作文,都有规定要写八百字以上	21	55	179	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080327_073002	0	1613.240	1615.584	speaker#1	female	native	非常感谢二位,谢谢	21	57	187	filler	statement

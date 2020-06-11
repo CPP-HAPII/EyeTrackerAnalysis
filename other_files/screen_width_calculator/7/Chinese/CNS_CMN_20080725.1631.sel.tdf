@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.1631	0	300.0	400.0	speaker	unknown	unknown	李某一纸诉状递到法院，要求银行补开发票并赔礼道歉。	0	0	0		
+CNS_CMN_20080725.1631	0	1700.0	1800.0	speaker	unknown	unknown	今年6月16日，李某一纸诉状递到青秀区人民法院，向银行“挑刺”，要求银行补开发票并登门赔礼道歉。	0	0	0		
+CNS_CMN_20080725.1631	0	2500.0	2600.0	speaker	unknown	unknown	是炒作还是合法维权？	0	0	0		

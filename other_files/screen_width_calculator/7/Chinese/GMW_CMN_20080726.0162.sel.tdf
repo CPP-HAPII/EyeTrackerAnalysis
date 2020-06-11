@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080726.0162	0	200.0	300.0	speaker	unknown	unknown	东方航空一香港飞往福州航班遇强气流袭击6人受伤	0	0	0		
+GMW_CMN_20080726.0162	0	600.0	700.0	speaker	unknown	unknown	祁裕民说，ＭＵ５７６航班属于东方航空公司，当天１５时从香港起飞，飞机上载有８２人，大部分都是国内旅客，受伤的３名旅客均为福建人。	0	0	0		

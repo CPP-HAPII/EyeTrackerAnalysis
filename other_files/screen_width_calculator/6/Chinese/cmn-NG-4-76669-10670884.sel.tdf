@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76669-10670884	0	100.0	200.0	speaker	unknown	unknown	我的英语比较差，不光是accent的事情，更重要的是不知道怎么组织句子，话到嘴巴不知道该怎么正确表达，当然写作的能力也不行，但给多些时间还是能好些，比说强一些。	0	0	0		

@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070105.0043	0	10010.000	10019.900				Li Rongrong: Central State-Owned Enterprises Raise 57.5 Billion Yuan in 2006	0	0	0		
+CNS_CMN_20070105.0043	0	20010.000	20019.900				January 5, 2007 16:17	0	0	0		
+CNS_CMN_20070105.0043	0	30010.000	30019.900				Director of State-owned Assets Supervision and Administration Commission of the State Council Li Rongrong said at a news conference of the State Council Information Office on December 19 that the sales amount of the core business of central SOEs has reached 8 trillion yuan this year; the realized profit is estimated to exceed 720 billion; and the net assets earning ratio will reach 10.5%, with all these being the best records in the history.	0	0	0		
+CNS_CMN_20070105.0043	0	30020.000	30029.900				China News Service, Photo by Xu Xiyi	0	0	0		
+CNS_CMN_20070105.0043	0	40010.000	40019.900				China News Service, Beijing, January 5 (Correspondent Jia Quanxin) Director of State-owned Assets Supervision and Administration Commission of the State Council Li Rongrong said here today that central SOEs together raised 57.5 billion yuan by going public in domestic or overseas markets in 2006.	0	0	0		
+CNS_CMN_20070105.0043	0	50010.000	50019.900				He made the above statement at the "Central SOE Responsible Persons Meeting" held today.	0	0	0		
+CNS_CMN_20070105.0043	0	60010.000	60019.900				Li Rongrong said that share holding system reform and going public in domestic and overseas markets have promoted the improvement of central SOEs' operation mechanism and that since 2003, 33 central SOEs have issued stocks and gone public in domestic or overseas markets for the first time.	0	0	0		
+CNS_CMN_20070105.0043	0	60020.000	60029.900				Among these, enterprises such as China Communications Construction Company and China National +Coal Group Corp went public last year and raised a total of 57.7 billion yuan in funds.	0	0	0		
+CNS_CMN_20070105.0043	0	70010.000	70019.900				So far among the 194 listed companies whose controlling stocks are held by central SOEs, 191 have completed or are initiating share separation reform, accounting for 98.45% of the total.	0	0	0		
+CNS_CMN_20070105.0043	0	70020.000	70029.900				The proportion of corporate share-holding system enterprises among central SOEs and their subsidiary enterprises has increased from 30.4% in 2002 to 64.2% in 2006.	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.0049	0	200.0	300.0	speaker	unknown	unknown	今天(8日)是“6·28”毒鼠强急性中毒事件发生后的第11天，记者从海口市卫生局了解到，在海口市人民医院住院治疗的患者梁桂金已被治愈，经专家组同意于今天下午出院。	0	0	0		
+CNS_CMN_20080709.0049	0	700.0	800.0	speaker	unknown	unknown	(记者张苏民 林伟)	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.0323	0	0.0	100.0	speaker	unknown	unknown	老牌流行歌手为希拉里开唱 募款250万美元（图）	0	0	0		
+CNS_CMN_20080410.0323	0	200.0	300.0	speaker	unknown	unknown	中新网4月10日电 英国流行歌手艾尔顿-强为美国民主党总统参选人希拉里开唱，募款250万美元，协助充实希拉里竞选总统的基金库。	0	0	0		
+CNS_CMN_20080410.0323	0	700.0	800.0	speaker	unknown	unknown	在艾尔顿-强登场开唱前，希拉里一家三口都站上舞台拉票。	0	0	0		
+CNS_CMN_20080410.0323	0	1100.0	1200.0	speaker	unknown	unknown	去年10月，克林顿庆祝自己60岁生日时，在纽约为希拉里举行竞选募款餐会，当时有多位好莱坞艺人出席，一举募得150多万美元。	0	0	0		

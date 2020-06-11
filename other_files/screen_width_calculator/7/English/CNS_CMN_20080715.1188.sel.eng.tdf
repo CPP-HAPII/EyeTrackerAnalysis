@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.1188	0	300.0	400.0	speaker	unknown	unknown	Although the US track team has always been strong, Bill thinks this US track team is stronger than any previous team. "This track team is the strongest in history."	0	0	0		

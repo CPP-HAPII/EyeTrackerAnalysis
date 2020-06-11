@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2666	0	0.0	100.0	speaker	unknown	unknown	广州：承建商和发展商因工程款纠纷 近百人群殴	0	0	0		
+CNS_CMN_20080715.2666	0	2900.0	3000.0	speaker	unknown	unknown	据称，2006年8月，楼盘更换了开发商，工程因此暂停，至2007年3月才复工。	0	0	0		

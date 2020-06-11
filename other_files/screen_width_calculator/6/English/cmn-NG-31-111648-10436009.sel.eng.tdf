@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-111648-10436009	0	100.0	200.0	speaker	unknown	unknown	If inscribe I would like to ask why Can it be resolved The version used is 3.0.7	0	0	0		

@@ -1,0 +1,194 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 117.836, 131.02799999999999, 206.24600000000001, 277.30500000000001, 307.12, 436.75299999999999, 537.14999999999998, 547.91099999999994, 574.226, 775.42200000000003, 852.755, 942.91499999999996, 974.08299999999997, 9999999.0]
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	1.040	1.830	speaker#1	male	native	In other words,	0	0	1	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	2.339	4.000	speaker#1	male	native	in the past twenty-two years,	0	0	3	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	4.518	8.353	speaker#1	male	native	officials in charge of salt and the salt merchants in Yangzhou had both been evading taxes.	0	0	5	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	9.292	15.449	speaker#1	male	native	Several officials previously dispatched by the emperor to inspect salt business and salt transportation were involved.	0	0	7	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	17.575	22.006	speaker#1	male	native	Newly appointed salt business inspector You Bashi discovered the secret,	0	0	9	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	22.635	25.898	speaker#1	male	native	but didn't immediately report it to Emperor Qianlong.	0	0	11	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	26.527	33.109	speaker#1	male	native	So, why didn't You Bashi immediately inform Qianlong of the earth-shattering case?	0	0	13	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	37.186	38.310	speaker#2	male	native	He originally intended	0	1	15	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	38.919	40.449	speaker#2	male	native	to blackmail the salt merchants.	0	1	17	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	41.048	43.876	speaker#2	male	native	that is, he wanted them, uh,	0	1	19	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	44.563	45.210	speaker#2	male	native	to bribe.	0	1	21	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	45.809	47.134	speaker#2	male	native	But the salt merchants didn't agree.	0	1	23	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	47.666	48.934	speaker#2	male	native	So, enraged,	0	1	25	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	49.478	50.556	speaker#2	male	native	he reported it to the imperial government,	0	1	27	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	51.134	53.377	speaker#2	male	native	disclosing, er, the whole thing.	0	1	29	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	53.886	58.534	speaker#2	male	native	Qianlong was furious when he got the report, ah, very angry.	0	1	31	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	59.552	67.164	speaker#1	male	native	Qianlong ordered the Jiangsu governor, Zhang Bao, to go to Yangzhou to handle the salt-silver case in the Liang Huai region jointly with You Bashi.	0	2	33	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	68.145	77.427	speaker#1	male	native	At the same time, he removed the former Liang Huai salt business inspectors Shi Pufu and Gao Heng, and Liang Huai salt transportation official Lu Jianzeng from their posts,	0	2	35	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	77.927	79.911	speaker#1	male	native	and closed down their properties.	0	2	37	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	80.600	84.294	speaker#1	male	native	The titles of big salt merchants including Jiang Chun were also dismissed.	0	2	39	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	91.319	96.918	speaker#1	male	native	Salt merchants and officials had joined efforts in going corrupt. Greedy governmental officials eventually induced their own destruction.	0	2	41	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	97.547	102.175	speaker#1	male	native	The salt merchants were very crafty, but they found themselves in a predicament over the inundation of private salt sources.	0	2	43	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	102.769	107.205	speaker#1	male	native	The Opium War and the Taiping Revolution then put them on the edge of collapse.	0	2	45	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	107.708	109.566	speaker#1	male	native	In the brief instant of clarity before the last rays of hope were extinguished,	0	2	47	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	110.129	113.292	speaker#1	male	native	the salt merchants of Yangzhou could no longer escape their fate of eventual decline and fall.	0	2	49	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	114.373	117.836	speaker#1	male	native	Stay tuned for the Salt Merchants of Yangzhou in next edition of Exploring.	0	2	51	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	131.028	133.445	speaker#3	male	native	Hello everyone, welcome to this edition of China News.	2	4	53	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	133.445	138.109	speaker#3	male	native	Chairman of the European Commission Barroso held talks with visiting Japanese Prime Minister Shinzo Abe on the 11th, saying that	2	4	54	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	138.109	141.349	speaker#3	male	native	the European Union will uphold its commitment to lifting the arms embargo against China.	2	4	55	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	141.349	147.756	speaker#3	male	native	Although the time for lifting the ban won't be soon, he said, the question of whether to lift the embargo will be decided by all member states of the European Union.	2	4	56	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	147.756	152.428	speaker#3	male	native	At present, all countries of the European Union have agreed to take further steps toward lifting the arms embargo against China.	2	4	57	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	152.428	155.042	speaker#3	male	native	And discussions of the technical aspects of it are underway.	2	4	58	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	155.042	159.862	speaker#3	male	native	This visit by Shinzo Abe is ((pw)) his first visit to Europe since he assumed the office as Japan's Prime Minister.	2	4	59	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	159.862	166.359	speaker#3	male	native	During all his visits to Britain, Germany and the headquarters of the European Union, Shinzo Abe requested they continue the arms ban against China.	2	4	60	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	166.988	169.223	speaker#3	male	native	Chinese Foreign Ministry spokesperson Liu Jianchao said on the 11th that	2	4	62	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	169.223	172.833	speaker#3	male	native	Japanese Prime Minister Shinzo Abe said in his meeting with British Prime Minister Blair that	2	4	63	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	172.833	177.138	speaker#3	male	native	the European Union lifting ((pw)) the arms embargo against China would impact on the security in the East Asian region.	2	4	64	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	177.138	180.881	speaker#3	male	native	China believes this view is unreasonable and unfounded.	2	4	65	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	180.881	184.868	speaker#3	male	native	Liu Jianchao said that the Chinese side requesting the European Union to lift the arms embargo is its,	2	4	66	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	184.868	188.156	speaker#3	male	native	ah, request that the European Union eliminate political discrimination against China.	2	4	67	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	188.156	192.300	speaker#3	male	native	The European Union should follow the tide of history and make the right decision as soon as possible.	2	4	68	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	192.300	196.449	speaker#3	male	native	The related parties should also stop obstructing the European Union from lifting the arms embargo against China.	2	4	69	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	196.449	199.911	speaker#3	male	native	Liu Jianchao said that at present Sino-Japanese relations are at a new starting point,	2	4	70	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	199.911	205.502	speaker#3	male	native	and the Chinese side hopes to, together with Japan, make unremitting efforts to advance the progress in the China-Japan relationship.	2	4	71	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	206.246	212.436	speaker#3	male	native	On the 10th, China's first photographic exhibition at the European Commission themed "The Pursuit and Dreams of a Harmonious China" was officially launched.	3	5	73	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	214.544	221.181	speaker#4	female	native	Directorate General for External Relations of the European Commission Landaburu and Chinese Ambassador to the European Union Guan Chengyuan co-hosted the opening ceremony,	3	6	75	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	221.181	224.390	speaker#4	female	native	with more than two hundred European Union officials from all levels and representatives in attendance.	3	6	76	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	225.019	228.237	speaker#4	female	native	This exhibition is scheduled to last one month and has an elaborate collection of sixty-five photographs on show.	3	6	78	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	228.752	234.989	speaker#4	female	native	The photographic exhibition is focused on the theme of a harmonious China, showing China's changes and achievements in building harmonious society from various angles,	3	6	80	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	234.989	240.169	speaker#4	female	native	demonstrating the harmony between people and nature, people and society, people and their families, and between human beings.	3	6	81	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	240.169	244.151	speaker#4	female	native	It demonstrates the positive aspirations of Chinese society and its people since the opening-up and reform.	3	6	82	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	245.373	266.513	speaker#5	male	native	(())	3	7	84	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	266.513	269.311	speaker#6	male	native	Er, either a harmonious society or a harmonious world,	3	8	85	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	269.311	272.523	speaker#6	male	native	it is an aspiration not only of the Chinese people,	3	8	86	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	273.061	275.787	speaker#6	male	native	but also, in fact, a pursuit of the people of Europe as well.	3	8	88	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	277.305	282.771	speaker#3	male	native	The People's Bank of China released administrative regulations on the 11th regarding interbank bond market makers in the country.	4	9	90	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	282.771	285.364	speaker#3	male	native	The regulations lowered the threshold for becoming a market maker,	4	9	91	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	285.364	291.543	speaker#3	male	native	giving more financial institutions of different types the opportunity to participate in the market making business in the interbank bond markets.	4	9	92	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	291.543	294.419	speaker#3	male	native	The new regulations will go into effect on February 1st, 2007.	4	9	93	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	294.419	299.112	speaker#3	male	native	According to the new regulations, financial institutions which have a registered capital or net capital amounting to a minimum of 1.2 billion RMB	4	9	94	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	299.112	306.154	speaker#3	male	native	at the time of application and which are ranked in the top 80 in trade volume of ready bonds can become market makers.	4	9	95	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	307.120	312.801	speaker#3	male	native	The middle rate between RMB and the US dollar for the first time broke through the pass of 7.8 to 1.	5	10	97	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	312.801	319.027	speaker#3	male	native	Professional analysts say there is still room for the RMB to rise even further, but from the perspective of financial management, there is no rush to sell US dollars.	5	10	98	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	320.792	328.639	Wang_jianbing	male	native	On the 11th, the middle rate for foreign exchange between the US dollar and RMB in Chinese banks is one dollar to 7.7977 yuan.	5	11	100	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	328.639	335.825	Wang_jianbing	male	native	Up to now, based on the USD dollar, since July 2005 when China reformed foreign exchange rate, the RMB has appreciated by nearly 0.50 Yuan.	5	11	101	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	336.514	341.694	speaker#7	male	native	Because uh, currently the economies of the United States and Europe are still in the process of comparatively stable growth,	5	12	103	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	341.694	348.520	speaker#7	male	native	so, uh, for China, its current accounts revenues this year, perhaps won't have too much fluctuation,	5	12	104	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	348.520	353.670	speaker#7	male	native	and the trend of RMB appreciation against the US dollar, uh, will probably continue.	5	12	105	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	354.362	359.580	Wang_jianbing	male	native	Insiders' analysis shows that the driving force of RMB appreciation comes mainly from the China-US trade deficit and the influx of large amounts of foreign capital.	5	13	107	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	360.164	363.586	Wang_jianbing	male	native	In July 2005, China launched a reform of the RMB foreign exchange regime,	5	13	109	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	363.586	369.681	Wang_jianbing	male	native	changing from fixed foreign exchange into floating exchange rate, no longer pegging the RMB to the US dollar, but referring to a basket of currencies including the Euro.	5	13	110	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	370.200	373.403	Wang_jianbing	male	native	The target is to achieve free exchange and a floating exchange rate.	5	13	112	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	374.037	377.734	speaker#7	male	native	Er, the appreciation of the RMB against the US dollar, uh, is expected.	5	14	114	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	377.734	379.442	speaker#7	male	native	Ah, and it is also very stable.	5	14	115	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	379.442	384.489	speaker#7	male	native	And from the current situation, its range, er, and its speed, are both within a controllable range.	5	14	116	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	385.083	390.344	Wang_jianbing	male	native	Experts point out that the appreciation of the RMB will probably result in price increases for some commodities produced by export enterprises, and an increase in competitive pressure.	5	15	118	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	390.344	395.363	Wang_jianbing	male	native	But on the other hand, the appreciation of RMB will also mean lower costs for importing energy and raw materials for Chinese enterprises.	5	15	119	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	395.882	400.704	Wang_jianbing	male	native	With regard to the common people, the cost of overseas study and travel is expected to go down.	5	15	121	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	401.632	404.976	Wang_jianbing	male	native	Driven by RMB appreciation, up to 4 pm on the 11th,	5	15	123	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	404.976	409.208	Wang_jianbing	male	native	the telegraphic transfer price and cash price of the RMB against the Hong Kong dollar both had corresponding changes.	5	15	124	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	409.736	414.570	Wang_jianbing	male	native	Among them, the telegraphic transfer value of the RMB against the Hong Kong dollar is 100.25 to 99.45,	5	15	126	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	414.570	418.103	Wang_jianbing	male	native	and the cash value is 100.3 to 99.02.	5	15	127	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	418.103	421.696	Wang_jianbing	male	native	This is the first time in 13 years that the exchange rate value of the RMB has been higher than the Hong Kong dollar.	5	15	128	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	422.799	427.092	Wang_jianbing	male	native	Experts warn that although the RMB still has room to increase in value this year against the US dollar foreign exchange,	5	15	130	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	427.092	431.196	Wang_jianbing	male	native	considering the diversity of financial management products and the extremely flexible means of transaction,	5	15	131	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	431.196	433.612	Wang_jianbing	male	native	there is no hurry to get rid of US dollars.	5	15	132	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	433.612	435.828	Wang_jianbing	male	native	China Central Television reporter Wang Jianbing reporting from Beijing.	5	15	133	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	436.753	440.539	speaker#3	male	native	The State Council agreed on the 10th to expand RMB business limits in Hong Kong.	6	16	135	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	440.539	445.079	speaker#3	male	native	Mainland financial institutions can now release RMB financial securities in Hong Kong upon approval.	6	16	136	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	445.079	450.431	speaker#3	male	native	This will further expand channels for Hong Kong residents and enterprises to return their RMB to the mainland,	6	16	137	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	450.431	453.280	speaker#3	male	native	and Hong Kong's position as an international financial center will be consolidated.	6	16	138	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	454.990	461.385	speaker#4	female	native	The People's Bank of China will further expand the limits for providing market reviews and balancing transactions in RMB business.	6	17	140	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	461.385	466.825	speaker#4	female	native	Hong Kong financial operators say allowing mainland financial institutions to issue RMB securities in Hong Kong	6	17	141	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	466.825	468.960	speaker#4	female	native	is a milestone in Hong Kong's financial development.	6	17	142	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	468.960	472.991	speaker#4	female	native	After an RMB prompt payment system is established, Hong Kong will lead the world	6	17	143	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	472.991	478.211	speaker#4	female	native	in simultaneously possessing prompt payment systems for four currencies, those being the RMB, Hong Kong dollar, US dollar and the Euro.	6	17	144	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	478.863	488.859	speaker#8	male	native	(())	6	18	146	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	489.425	495.112	speaker#4	female	native	He also said although mainland financial institutions will have restrictions over the amount of RMB securities to be issued in Hong Kong,	6	19	148	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	495.112	498.783	speaker#4	female	native	after RMB securities are launched, RMB deposits will also see some increase.	6	19	149	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	499.384	502.139	speaker#4	female	native	Though the exact time for the launch of this service has not yet been decided,	6	19	151	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	502.139	506.815	speaker#4	female	native	people from all walks of life in Hong Kong think the new RMB business is conducive to enhancing the business opportunities of Hong Kong banks.	6	19	152	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	506.815	509.915	speaker#4	female	native	and further improving capital exchange between the mainland and Hong Kong.	6	19	153	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	509.915	523.293	speaker#9	male	native	(())	6	20	154	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	523.293	526.950	speaker#4	female	native	Hong Kong banks started to conduct RMB deposits in 2004.	6	21	155	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	526.950	530.808	speaker#4	female	native	Now almost all retail banks offer related services.	6	21	156	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	530.808	532.679	speaker#4	female	native	By the end of November 2006,	6	21	157	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	532.679	537.150	speaker#4	female	native	the current total of RMB deposits in Hong Kong has topped 22 billion Yuan.	6	21	158	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	547.911	549.580	speaker#3	male	native	This is China News; please stay with us.	8	23	160	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	549.580	554.447	speaker#3	male	native	Xinhua News Agency reports that the President of Bangladesh, Ahmed, declared a state of emergency on the 11th,	8	23	161	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	554.447	558.682	speaker#3	male	native	to confront a series of blockades and strikes soon to be held by opposition party allies.	8	23	162	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	558.682	563.879	speaker#3	male	native	Bangladesh National Television reported on the 11th that the capital Dhaka has put in place a curfew.	8	23	163	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	563.879	569.937	speaker#3	male	native	In other news from Xinhua News Agency, Bangladeshi President Ahmed made a nationally televised speech on the night of the 11th,	8	23	164	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	569.937	573.520	speaker#3	male	native	announcing his resignation from his post of Chief Advisor to the caretaker government.	8	23	165	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	574.226	580.137	speaker#3	male	native	US President Bush made a televised speech on the night of the 10th local time, announcing he would adjust Iraq policy.	9	24	167	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	580.137	583.716	speaker#3	male	native	Main adjustments include sending 21,500 extra US troops to Iraq,	9	24	168	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	583.716	586.904	speaker#3	male	native	urging the Iraqi government to assume more responsibilities as soon as possible,	9	24	169	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	586.904	592.771	speaker#3	male	native	warning Iran and Syria not to intervene in Iraq's internal affairs, and seeking support from the Middle Eastern allies of the United States.	9	24	170	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	593.281	598.375	speaker#3	male	native	Bush announced that if the Iraqi government couldn't carry out its relevant promises as scheduled, it would lose the United States' support.	9	24	172	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	598.891	604.009	speaker#3	male	native	During the speech, Bush also announced for the first time that he would take responsibility for the past mistakes made in military strategy in Iraq.	9	24	174	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	604.009	606.589	speaker#3	male	native	At present, there are 140 thousand troops stationed in Iraq.	9	24	175	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	607.563	610.734	speaker#3	male	native	After US President Bush announced the adjustments to Iraq policy on the night of the 10th,	9	24	177	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	610.734	617.803	speaker#3	male	native	the majority of Democratic senators, as well as some Republican senators, expressed opposition to Bush's plan to boost troop numbers in Iraq.	9	24	178	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	618.676	622.880	speaker#4	female	native	Parliament Speaker Democrat Pelosi and House Majority Leader Hoyer,	9	25	180	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	622.880	628.461	speaker#4	female	native	Senate Majority Leader Reid and Majority Whip Durbin released a joint declaration on the same day, saying that	9	25	181	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	628.461	634.329	speaker#4	female	native	the Iraqi government needs to understand that the United Sates' commitment is not inexhaustible and sending more troops now would only send the wrong signal.	9	25	182	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	634.955	642.024	speaker#4	female	native	The statement says that the right way to adjust the Iraq policy should include handing over more security responsibility to the Iraqi government,	9	25	184	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	642.024	647.633	speaker#4	female	native	starting to withdraw troops within four to six months, and also strengthening diplomatic efforts in the Middle-eastern region and worldwide.	9	25	185	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	648.202	663.171	speaker#10	male	native	(())	9	26	187	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	663.837	671.599	speaker#4	female	native	Democratic Senator Edward Kennedy and Democrat Hilary Clinton, who intends to run in the 2008 presidential campaign, both opposed the troop boost.	9	27	189	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	671.599	677.412	speaker#4	female	native	In addition, currently, at least five senators from Bush's Republican Party publicly opposed his plan.	9	27	190	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	677.965	682.001	speaker#4	female	native	Public opinion in the United States is that Bush's new Iraq policy goes against public will,	9	27	192	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	682.001	686.527	speaker#4	female	native	will further antagonise the Democrat-controlled parliament over the Iraq issue,	9	27	193	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	686.527	689.259	speaker#4	female	native	and will also lose him the support of some Republican senators.	9	27	194	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	690.854	695.338	speaker#3	male	native	Bush's new troop boost policy has met with widespread opposition from the public in the United States,	9	28	196	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	695.338	699.958	speaker#3	male	native	while those Bush considers the benefactors, the Iraqi people, were also unimpressed by the plan.	9	28	197	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	701.384	705.997	speaker#4	female	native	As Bush was delivering the televised speech, tens of opposition people gathered outside the White House,	9	29	199	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	705.997	710.388	speaker#4	female	native	yelling slogans to immediately stop the war, withdraw troops and go home, and opposing sending more troops to Iraq.	9	29	200	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	710.981	713.558	speaker#4	female	native	Among the protestors, many are family members of US troops in Iraq.	9	29	202	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	713.558	718.173	speaker#4	female	native	For them, the troop-boost plan means more loved ones will be lost, which is unacceptable.	9	29	203	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	718.833	721.942	speaker#4	female	native	Teresa Smith's husband is currently serving in Iraq,	9	29	205	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	721.942	725.084	speaker#4	female	native	leaving her at home to take care of three small children on her own.	9	29	206	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	725.084	731.016	speaker#4	female	native	Her husband was formerly scheduled to come back in October this year, but Bush's new policy has turned their family reunion into an illusion.	9	29	207	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	732.136	741.564	speaker#11	female	native	(())	9	30	209	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	742.498	746.271	speaker#4	female	native	As for the majority of the US public, although they wouldn't go so far as to protest in front of the White House,	9	31	211	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	746.271	749.037	speaker#4	female	native	they won't pass up the opportunity to make known their criticism in front of a television news camera.	9	31	212	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	749.811	754.245	speaker#12	female	native	(())	9	32	214	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	754.877	759.606	speaker#4	female	native	And the Iraqi people are not grateful either, one after another they have expressed suspicion over Bush's troop-boost plan.	9	33	216	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	759.606	766.492	speaker#13	female	native	(())	9	34	217	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	766.492	773.281	speaker#14	male	native	(())	9	35	218	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	775.422	779.750	speaker#3	male	native	The Belarusian government announced on the 10th that tariffs on Russian oil would be lifted.	10	36	220	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	779.750	784.487	speaker#3	male	native	This marks a favorable turn in Russia-Belarus oil dispute which has recently been the focus of attention.	10	36	221	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	784.487	791.433	speaker#3	male	native	On the 11th, Russia fully resumed providing oil for Belarus and other European countries through the friendship oil pipelines.	10	36	222	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	793.169	796.966	speaker#4	female	native	Transneft vice-president Grigoryev confirmed that	10	37	224	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	796.966	799.224	speaker#4	female	native	at 8:30 on the morning of the 11th, local time,	10	37	225	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	799.799	806.911	speaker#4	female	native	Russia completely resumed oil supplies to Germany and several East European countries, through friendship oil pipelines which pass through the territory of Belarus.	10	37	227	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	806.911	813.777	speaker#4	female	native	On the 10th, Russian President Putin and Belarusian President Lukashenko held talks by telephone, and the two sides reached a consensus to solve the dispute,	10	37	228	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	813.777	819.969	speaker#4	female	native	and instructed the prime ministers of the two countries to put forward specific proposals before the 12th to solve the dispute and submit them to the state heads for deliberation.	10	37	229	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	820.516	823.396	speaker#4	female	native	The spokesperson of Poland's Friendship Oil Pipeline Transportation Company confirmed that	10	37	231	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	823.396	828.618	speaker#4	female	native	at around 9:30 pm on the 10th, local time, the friendship oil pipeline running through Belarus	10	37	232	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	828.618	831.407	speaker#4	female	native	resumed transportation of oil from Russia to Poland.	10	37	233	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	832.036	841.394	speaker#15	male	native	(())	10	38	235	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	842.156	848.648	speaker#4	female	native	The problem that Belarus is currently most concerned about is whether Russia will agree to stop imposing export tariffs on the oil exported to Belarus.	10	39	237	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	848.648	851.348	speaker#4	female	native	This will also be the core issue in future negotiations between the two parties.	10	39	238	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	852.755	854.858	speaker#3	male	native	Let's take a look now at some other news.	11	40	240	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	856.258	860.205	speaker#4	female	native	On the 10th, President of Venezuela Chavez was sworn into office for a six-year term after winning the succession.	11	41	242	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	860.756	866.798	speaker#4	female	native	Chavez said that during his new term he will push forward the establishment of new socialist politics, economy, and social patterns.	11	41	244	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	866.798	869.577	speaker#4	female	native	As one of the measures taken to speed up the realization of socialism,	11	41	245	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	869.577	873.106	speaker#4	female	native	Chavez recently announced that power and telecom companies would be made public enterprises.	11	41	246	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	874.361	879.008	speaker#4	female	native	Kazakh President Nazarbayev officially designated Masimov Prime Minister of the government on the 10th.	11	41	248	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	879.008	883.180	speaker#4	female	native	Nazarbayev said the core task of the new government is to draw up development plans	11	41	249	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	883.180	887.446	speaker#4	female	native	that will allow Kazakhstan to rank amongst the world's fifty most competitive countries.	11	41	250	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	887.999	892.302	speaker#4	female	native	Masimov, 41 years old this year, formerly held the posts of transportation minister and presidential assistant.	11	41	252	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	893.492	898.679	speaker#4	female	native	In the past few days, continuous rainfall in the southeastern part of Brazil and central Peru has caused flood disasters in each of the two places.	11	41	254	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	898.679	902.992	speaker#4	female	native	So far, floods and landslides have claimed the lives of fifty-two people in the two countries.	11	41	255	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	903.592	907.272	speaker#4	female	native	The depth of the biggest flood is as high as two meters in the city of Itabira in Brazil.	11	41	257	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	907.272	912.022	speaker#4	female	native	In Peru, floods have left four thousand five hundred people homeless, and thousands of hectares of farmland are destroyed.	11	41	258	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	912.593	917.518	speaker#4	female	native	Due to unceasing rainfall in the upper reaches, the lower reaches of Amazon River may also be assailed by flood.	11	41	260	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	918.710	921.488	speaker#4	female	native	Lately, a mysterious stone fell from the sky,	11	41	262	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	921.488	924.339	speaker#4	female	native	crashing through the roof of a residence in the state of New Jersey in the United States.	11	41	263	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	924.872	927.513	speaker#4	female	native	The strange stone seemed to be metal, because it was drawn to magnets.	11	41	265	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	928.023	931.883	speaker#4	female	native	After examination, an expert confirmed it was a small meteorite.	11	41	267	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	931.883	936.804	speaker#4	female	native	Although it is very small, it is said that to collectors it is worth at least millions of US dollars.	11	41	268	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	937.314	941.226	speaker#4	female	native	According to American law, the family has the proprietary rights of this meteorite.	11	41	270	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	942.915	946.076	speaker#3	male	native	Japan's Ministry of Agriculture, Forestry and Fisheries released a news communiqué on the 11th that	12	42	272	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	946.076	951.794	speaker#3	male	native	more than ten thousand chickens raised on a farm in southern Miyazaki Prefecture may be infected with the highly pathogenic avian flu.	12	42	273	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	951.794	955.088	speaker#3	male	native	Among them about seven hundred fifty chickens died on the 10th and 11th.	12	42	274	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	955.088	958.010	speaker#3	male	native	At present, the virus is being quarantined for identification in the local area.	12	42	275	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	958.010	964.756	speaker#3	male	native	Once the chickens are confirmed to be infected with the highly pathogenic avian flu, relevant departments will cull the diseased chickens and disinfect the farmland,	12	42	276	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	964.756	971.006	speaker#3	male	native	and carry out inspection of poultry and poultry products within a radius of ten kilometers around the farmland.	12	42	277	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	971.583	973.446	speaker#3	male	native	Ok, that's China News for now. Thanks for watching.	12	42	279	report	
+CCTV4_DAILYNEWS_CMN_20070111_135800	0	973.446	974.083	speaker#3	male	native	Bye for now!	12	42	280	report	

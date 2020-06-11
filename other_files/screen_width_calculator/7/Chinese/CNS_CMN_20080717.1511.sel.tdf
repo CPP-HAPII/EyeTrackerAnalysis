@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.1511	0	300.0	400.0	speaker	unknown	unknown	据俄新网报道，美国海岸警卫队司令、海军上将Thad Allen宣布，“我们正在丧失在全球竞争的阵地。	0	0	0		
+CNS_CMN_20080717.1511	0	500.0	600.0	speaker	unknown	unknown	他还强调说，“去年，俄罗斯完成了一个期间为十年的计划，将目前为止俄罗斯最大的破冰船--‘胜利50周年'号破冰船成功下水，该破冰船可使保证俄罗斯勘探北极地区的资源”。	0	0	0		
+CNS_CMN_20080717.1511	0	700.0	800.0	speaker	unknown	unknown	海军上将Thad Allen声明说，美国必须拨款建造新的破冰船，因为现有的两艘重型破冰船“Polar Star”号和“Polar Sea”号的使用期即将到期。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080408.0145	0	900.0	1000.0	speaker	unknown	unknown	原来，各单位的文体器材“家底”不一，导致缺乒乓球桌的连队领回一堆篮球，缺电视的连队领回VCD等等。	0	0	0		

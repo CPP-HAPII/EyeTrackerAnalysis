@@ -1,0 +1,13 @@
+
+To Use:
+
+java FileProcessor 1/bc/Craw/
+java FileProcessor 1/bc/Eraw/
+...
+...
+java FileProcessor2 2/Chinese/
+...
+java FileProcessor2 7/English/
+...
+
+The programs will calculate the total screen width used for every file in the Folder and produce the output (sorted based on name) on the screen. Please use FileProcessor for Folder 1 and FileProcessor2 for folder 2 through 8 because of the differences in the file format in the files in Folder 1 compared to the other ones.

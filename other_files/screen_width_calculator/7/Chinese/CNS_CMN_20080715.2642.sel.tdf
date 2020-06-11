@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2642	0	800.0	900.0	speaker	unknown	unknown	其一，小额贷款利率无法和地下钱庄相比。	0	0	0		
+CNS_CMN_20080715.2642	0	1400.0	1500.0	speaker	unknown	unknown	其二，小额贷款的较高门槛。	0	0	0		
+CNS_CMN_20080715.2642	0	1500.0	1600.0	speaker	unknown	unknown	以浙江为例，它规定，小额贷款公司主发起人“净资产不低于5000万元(欠发达县域不低于2000万元)、资产负债率不高于70%、连续三年盈利且利润总额在1500万元(欠发达县域600万元)以上”。	0	0	0		
+CNS_CMN_20080715.2642	0	2000.0	2100.0	speaker	unknown	unknown	其三，小额贷款不能吸储。	0	0	0		
+CNS_CMN_20080715.2642	0	2100.0	2200.0	speaker	unknown	unknown	根据规定，小额贷款公司在经营过程中，若有非法集资、变相吸收公众存款等严重违法违规行为，将吊销营业执照，追究公司主要负责人的法律责任，而不吸纳存款相当于一条腿走路，小额贷款公司的发展就受到严格制约。	0	0	0		
+CNS_CMN_20080715.2642	0	2400.0	2500.0	speaker	unknown	unknown	其四，小额贷款放贷受到限制。	0	0	0		

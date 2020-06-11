@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.0989	0	300.0	400.0	speaker	unknown	unknown	"Iran is not yet in an era of revolution." This was the assessment on Iran's political situation made by America's Central Intelligence Agency in August 1978. At that time Iran's ruler was America's closest ally in the Middle East.	0	0	0		

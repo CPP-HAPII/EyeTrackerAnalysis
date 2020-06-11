@@ -1,0 +1,23 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 237.37100000000001, 654.83900000000006, 690.14499999999998, 731.40999999999997, 738.07399999999996, 747.22199999999998, 758.89700000000005, 1430.0650000000001, 1451.8489999999999, 1947.367, 9999999.0]
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	319.367	328.179	Li_Xiao_Meng	female	native	今天我们请到的就是刚才在片子当中出现的扎西旺堆先生,他也是新中国第一代藏族摄影师,欢迎您扎西先生	1	3	9	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	420.445	444.684	Zha_Xi_Wang_Dui	male	native	那当然了,我们去了以后他的几兄弟啊,他的大兄呢大的叫 (()) 帕拉呃土登维登,呃二弟是 (()) 那个警卫团藏军那个警卫,呃达赖的那个警卫罗布林卡那个藏军的团长	1	4	21	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	475.750	489.683	Zha_Xi_Wang_Dui	male	native	(()) ,呃三个皮口袋,嗯,全是钥匙,呃所以啊他就丢到我那旁呃旁边以后啊,我们一倒出来,倒一口袋就-就是一堆,一小堆	1	4	29	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	489.683	511.155	Zha_Xi_Wang_Dui	male	native	完了后,我就-就-就挠头了,我们呢想一个礼拜左右结果帕拉庄园的拍摄,结果一看这钥匙, (()) 一个口袋里面就装那么多钥匙,我说这怎么找啊,一个钥匙一把锁对一把钥匙对一把锁,怎么找也找不着,找半天可以开到一个钥匙	1	4	31	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	520.999	536.855	Zha_Xi_Wang_Dui	male	native	完了管家来了以后啊,这个我说你把这个门开开,他那个管家是名不虚传,一-一扒拉一下他就可以找到那个门的钥匙,就这样了就把很多门哪开开了	1	4	35	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	714.464	722.912	speaker#2	male	native	这位讨饭的母亲有两个孩子,为了孩子能活命,他苦苦在向富人乞求施舍	3	7	45	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	843.133	869.528	Zha_Xi_Wang_Dui	male	native	但是过了一段时间以后,平叛以后我发现他已经到拉萨东郊的这个养老院,我们已经把他请到养老院去了,他在那里幸福地生活,后来我们片子里面也表现 (()) ,嗯	7	12	61	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	869.528	896.901	Zha_Xi_Wang_Dui	male	native	是啊,那是我-我们家乡虽然也是藏族地区,但是 (()) 呃一般来讲是个农村,像这样的这个--这个残酷的制度啊这个我还没怎么见过,我们还没怎么见过,到了拉萨以后看到这些场面,那觉得是呃这个--这个西藏这个农奴制度啊确实太残酷了	7	12	63	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	946.012	962.184	Zha_Xi_Wang_Dui	male	native	家里 (()) 起码可以吃得饱,但是不借贷的话不借粮食的话就可能就不行,一年可能有个三个--三个月左右我们要借粮吃,来年再还这样	7	12	73	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1055.517	1071.673	Zha_Xi_Wang_Dui	male	native	但到了北京我一开始是被中央呃国家民委送到中央民族学院的那个在国子检那时候在北京 (()) ,呃干部训练班,那时候是中央民族学院的前身,就是筹备组那样的性质	7	14	86	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1107.259	1130.214	Zha_Xi_Wang_Dui	male	native	一开始我还不太喜欢,因为我不对这个电影不太--不太懂,这个只是想我到北京上个大学,那上什么大学我自己也没弄清楚,觉得拍电影这东西好像总是有点好像不是个什么正业一样	7	14	92	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1186.197	1210.293	Zha_Xi_Wang_Dui	male	native	练的基本功,他有很多课程,这个--这个摄影技巧,呃电影 (()) 呃那个摄影光学,就主要是了解摄影机的镜头这些方面,摄影化学,就是胶片部分,这个--这个就是练就这些吧,还有美术,呃音乐欣赏	7	14	108	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1219.489	1227.890	Li_Xiao_Meng	female	native	所以你就成了新中国第一拨,还是第一位的这个藏族摄影师,哦,嗯	7	14	111	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1227.890	1233.531	Li_Xiao_Meng	female	native	像西藏往事这个片子,片尾字幕上的是中央 (()) 摄影队哈	7	14	113	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1320.483	1323.619	Zha_Xi_Wang_Dui	male	native	是啊,那是,没想过, (())	7	14	136	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1344.737	1361.056	Zha_Xi_Wang_Dui	male	native	我第二个,第一个叫泽仁,第二个是我,第三个是计美,现在已经去世了,计美邓珠,第四个叫次登,就我们四个,那我记得很清楚 (())	7	14	140	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1467.794	1470.281	Li_Xiao_Meng	female	native	这个当时你就在现场是吧	9	17	149	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1693.338	1708.062	Zha_Xi_Wang_Dui	male	native	五六年自治区筹备委员会成立那一年,呃中央代表团他是团长,所以我们一路上从北京 (()) 到兰州,完了以后就坐汽车进去	9	17	178	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1711.968	1740.837	Li_Xiao_Meng	female	native	{laugh} ,嗯,嗯	9	17	181	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080421_202701	0	1921.061	1947.367	Li_Xiao_Meng	female	native	嗯, {laugh} ,嗯,嗯,嗯,好	9	17	219	report	statement

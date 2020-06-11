@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-151920-10723125	0	0.0	100.0	speaker	unknown	unknown	群里一个flash招聘信息	0	0	0		
+cmn-NG-31-151920-10723125	0	100.0	200.0	speaker	unknown	unknown	在武汉华工科技一家比较有实力的公司需要暑假flash专职人员或者实习人员或者全职flash高手，要求比较精通熟悉xml等，需要三个人员，和一个平面人员 ，项目为军校项目，需要到军校开发，待遇优	0	0	0		
+cmn-NG-31-151920-10723125	0	200.0	300.0	speaker	unknown	unknown	如有意者请联系李经理：013720299186邮箱：way ... @126.com--	0	0	0		

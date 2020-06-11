@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080701.0021	0	0.0	100.0	speaker	unknown	unknown	（欧锦赛）西班牙中场核心哈维当选欧锦赛最佳球员	0	0	0		
+XIN_CMN_20080701.0021	0	100.0	200.0	speaker	unknown	unknown	新华社维也纳６月３０日电（记者郑道锦 杨伶）３０日欧足联公布了本届欧锦赛的最佳球员，冠军西班牙队的中场灵魂人物、来自巴塞罗那队的８号哈维成为这一届欧锦赛个人最高荣誉的获得者。	0	0	0		
+XIN_CMN_20080701.0021	0	200.0	300.0	speaker	unknown	unknown	今年２８岁的哈维参加了西班牙队６场比赛中的５场，小组赛最后一场由于西班牙队已经提前晋级，哈维被放在替补席上休息。	0	0	0		
+XIN_CMN_20080701.0021	0	600.0	700.0	speaker	unknown	unknown	哈维在本届杯赛的多场比赛中总是被阿拉贡内斯用法布雷加斯换下，在这样的情况下仍然当选最佳球员十分罕见，哈维在其出场时间内是西班牙队进攻组织的关键性人物，当球传到他脚下时对手就无可奈何，只能任其潇洒地盘带和传球，当他和法布雷加斯同时出现在场上时，西班牙队的中场进攻更是发挥得淋漓尽致。	0	0	0		

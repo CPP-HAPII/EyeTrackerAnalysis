@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0204.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Caribbean Community Seeks Funds and Products for Aiding Haiti	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	900.000	950.000	TEXT1	unknown	unkown	People.com.cn, April 23.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	According to news from Nassau (Bahamas), the Caribbean Community sped up the preparation of funds and provision of consumer goods yesterday to support residents of Haiti.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Each government in this group is addressing Haiti's application for needed humanitarian aid by carrying out serious discussion and mediation. Haiti is the Western Hemisphere's poorest country.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	The Caribbean Community's secretariat revealed that they will put aside Trinidad and Tobago's 10-million-U.S. Dollar oil fund for use in buying and producing food and pushing forward the development of Haiti's agricultural sector.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	The authorities of Guyana and other Caribbean countries seek raw materials and consumer goods like rice and sugar to be immediately shipped to Haiti's capital, Port-au-Prince.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	Prime Minister of the Bahamas and chairman of the Caribbean Community, Ingraham, revealed that the group's representative and Haitian President, Preval, remain in contact.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1293.750	1296.875	TEXT1	unknown	unkown	Haiti is now a member of the Caribbean Community.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1296.875	1300.000	TEXT1	unknown	unkown	"We will establish a more powerful development base for the country and pay attention to Haiti's short-term and medium to long-term goals and requirements."	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Last week, the rise of food prices and supply shortages caused riots in Haiti's capital, Port-au-Prince, and the southern city of Les Cayes, resulting in 5 deaths and nearly 100 injuries.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	Some stores and government buildings were damaged.	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	Because of this, the parliament excused Prime Minister Alexis from his post. (Guan Yanzhong)	0	0	0		statement

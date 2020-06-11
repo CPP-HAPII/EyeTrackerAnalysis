@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0013.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	台媒指台联党前“立委”赖幸媛可望掌“陆委会”	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	人民网4月27日电	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	1200.000	2200.000	TEXT1	unknown	unkown	马英九新当局人事明天将公布，据了解，各方瞩目的“陆委会主委”将由女性出任，台联党前“立委”赖幸媛可望是跌破各界眼镜的大黑马；不过马萧办公室对此人事案不予证实，强调相关人事安排明天就会正式公布。	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	2400.000	3100.000	TEXT1	unknown	unkown	据台湾《联合晚报》报道，准“行政院长”刘兆玄明天上午十点半，将在台北市市长官邸公布包括“国安”单位、“财政部长”等新当局人事；可靠消息指出，“国科会主委”已确定由现任“中央大学”校长李罗权担任，前“国科会主委”张进福，则将出任“行政院政务委员”。	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	3300.000	3350.000	TEXT1	unknown	unkown	赖幸媛为台中市人，英国萨赛克斯大学发展研究博士，伦敦政经学院国际关系暨比较政治硕士，在区域整合、国际政治经济、WTO与经济安全战略等领域都有深入研究。	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	3350.000	4600.000	TEXT1	unknown	unkown	2000年民进党上台后，获陈水扁 延揽出任“国安会咨询委员”，并在2001年台当局进行WTO入会谈判最后关头时，出任台谈判的执行人。	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	4800.000	5150.000	TEXT1	unknown	unkown	赖幸媛四年前代表台联党出任第六届不分区“立委”后，在弱势关怀议题上多所着力，问政表现备受肯定。	0	0	0		statement
+PDA_CMN_20080427.0013.sgm	0	5150.000	5500.000	TEXT1	unknown	unkown	据了解，马英九也相当欣赏，且由于赖幸媛和李登辉关系密切，“总统大选”期间，赖幸媛也是马营争取李登辉支持的重要管道之一。	0	0	0		statement

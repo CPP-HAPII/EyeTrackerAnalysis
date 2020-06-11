@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080727.0042	0	300.0	400.0	speaker	unknown	unknown	中央电视台在美国播出的CCTV4和CCTV9频道，已经在网上贴出不会直接转播北京奥运开闭幕式及各项赛事，导致原定8月8日凌晨要与北京奥运同步举行的“南加州华人庆祝北京奥运开幕式狂欢夜”紧急叫停。	0	0	0		
+CNS_CMN_20080727.0042	0	400.0	500.0	speaker	unknown	unknown	在美国播出的中央电视台第四频道和第九频道在网上特别通告，指出由于国际奥委会对于奥运会电视转播的严格限制，央视所拥有的奥运转播权仅限于中国大陆地区，因此央视国际频道将不会转播北京奥运的开幕式及各项赛事。	0	0	0		
+CNS_CMN_20080727.0042	0	700.0	800.0	speaker	unknown	unknown	很多华人原来计划在北京奥运开幕时，大清早爬起来收看电视台中央电视台同步节目，此一愿望恐要落空。	0	0	0		
+CNS_CMN_20080727.0042	0	1100.0	1200.0	speaker	unknown	unknown	联合主办单位之一的美国南加州华人社团联合会会长张素久表示，由于央视四台、九台无法直播奥运开幕盛况，美国NBC电视台又是不同步转播，因此狂欢夜失去同步欢庆的意义。	0	0	0		

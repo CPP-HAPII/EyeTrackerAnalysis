@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76848-10678608	0	300.0	400.0	speaker	unknown	unknown	我小的时候,曾经盯着墙上挂着的大钟不错眼珠子的瞅过,得出一个结论,表,根本没有在走.	0	0	0		
+cmn-NG-4-76848-10678608	0	1800.0	1900.0	speaker	unknown	unknown	电视也好,生活也好,都是一样,兜兜转转,回到原点.	0	0	0		
+cmn-NG-4-76848-10678608	0	2500.0	2600.0	speaker	unknown	unknown	关键是风景!	0	0	0		
+cmn-NG-4-76848-10678608	0	2600.0	2700.0	speaker	unknown	unknown	走到哪儿无所谓,怎么走才是关键.”“扯!	0	0	0		
+cmn-NG-4-76848-10678608	0	2800.0	2900.0	speaker	unknown	unknown	我就跟这儿待着不动了我,我什么风景也不想看.”“Are you sure?”云云诡异的笑了,拽了一句英文,手里拿着老大一个黄信封拍我的脑袋.	0	0	0		

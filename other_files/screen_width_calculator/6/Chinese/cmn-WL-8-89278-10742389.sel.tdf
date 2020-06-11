@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10742389	0	300.0	400.0	speaker	unknown	unknown	次旺仁增在 采访 中称，非暴力的中间路线让"中国人"有机可乘，继续在我们的"国家"扩张，灭绝我们的传统和宗教文化。	0	0	0		
+cmn-WL-8-89278-10742389	0	1400.0	1500.0	speaker	unknown	unknown	“藏青会”中央执行委员会委员	0	0	0		

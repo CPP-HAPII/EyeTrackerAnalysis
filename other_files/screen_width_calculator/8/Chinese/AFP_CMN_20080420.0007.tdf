@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0007.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	历来首次 教宗本笃十六世纽约教堂主持弥撒	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社纽约十九日电	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	罗马天主教教宗本笃十六世今天就任三周年,同时成为第一个在纽约圣派翠克大教堂主持弥撒的教宗。	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	当教宗缓缓走过教堂的中央走道,前往祭坛时,教会的神职人员纷纷从长椅起身,亲吻教宗的圣戒。	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	数分钟前,教宗从停在第五大道的黑色豪华轿车下车,登上台阶走进教堂时,数百名群众拥向这座一百五十年历史的教堂外的铁栏杆,并爆出欢呼。	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	在哥德式的尖塔下,他受到纽约市长彭博的欢迎,然后转身,举起双手,向群众致意。	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	教宗随后向教堂内的数百位神职人员说,只有在纽约,「一个长期以来即是象徵包容的地方,才会有个名叫彭博的中产阶级之子长大成人,被请来欢迎教宗」。	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	3200.000	3600.000	TEXT1	unknown	unkown	彭博是犹太人,教宗在六天的访美之行中,特别致力向犹太族群伸出友谊之手,包括和犹太领袖私下会晤,并且成为有史以来第一位造访美国境内犹太教会堂的教宗。	0	0	0		statement

@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 276.22199999999998, 291.45600000000002, 300.76900000000001, 715.71500000000003, 729.63400000000001, 980.29399999999998, 986.33100000000002, 1052.3979999999999, 1057.5250000000001, 1073.3040000000001, 1082.9280000000001, 1099.385, 1113.951, 1135.7619999999999, 1140.4590000000001, 1144.261, 1171.0029999999999, 1192.681, 1276.8150000000001, 1301.9880000000001, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080323_123601	0	314.957	321.963	speaker#5	female	native	我希望让他们能够冷静下来知道法律上规定的,儿女应该是怎么样的孝-孝心	3	7	8	report	statement
+CCTV1_LEGALREPORT_CMN_20080323_123601	0	407.000	414.969	speaker#4	female	native	但是关于有没有承诺给父母买房子一事,女儿女婿有着不同的说法	3	12	18	report	statement
+CCTV1_LEGALREPORT_CMN_20080323_123601	0	430.047	439.765	speaker#4	female	native	尽管说法不一,但是双方都认可的一个事实是,老两口到北京以后女儿女婿就不停地在给他们找房子	3	15	21	report	statement
+CCTV1_LEGALREPORT_CMN_20080323_123601	0	527.075	533.701	speaker#4	female	native	老人不同意从女儿的房中搬出去,女儿女婿就打算自己租房子在外面住	3	26	32	report	statement
+CCTV1_LEGALREPORT_CMN_20080323_123601	0	1057.525	1059.771	speaker#3	female	native	(()) 你自己来的	9	67	86	filler	statement
+CCTV1_LEGALREPORT_CMN_20080323_123601	0	1123.912	1135.762	speaker#12	female	native	那你们现在就说至于谁找房的这个问题 (()) ,行,那就这样吧,那-那如果实在协商不了,那法院就另外判决吧	13	74	96	filler	statement

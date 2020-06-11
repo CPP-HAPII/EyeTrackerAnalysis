@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.2479	0	800.0	900.0	speaker	unknown	unknown	雅典奥运会前，谢杏芳只是中国队的四号女单，落选后，林丹的一条短信“我会用我的成绩保护你！”似乎让这个处在迷茫、脆弱中的女孩有了依赖和信心。	0	0	0		

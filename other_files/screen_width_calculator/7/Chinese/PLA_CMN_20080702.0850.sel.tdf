@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080702.0850	0	200.0	300.0	speaker	unknown	unknown	新华社华沙７月２日奥运专电 通讯：迎接伟大的盛宴	0	0	0		
+PLA_CMN_20080702.0850	0	800.0	900.0	speaker	unknown	unknown	ｐｌ２日发表题为《伟大盛宴》的文章宣传即将于北京召开的奥运会，并专门开通了“北京２００８”奥运频道。	0	0	0		
+PLA_CMN_20080702.0850	0	900.0	1000.0	speaker	unknown	unknown	Ｏｎｅｔ是波兰第一门户网站，浏览量最大，在波兰的影响力可以说举足轻重。	0	0	0		
+PLA_CMN_20080702.0850	0	1400.0	1500.0	speaker	unknown	unknown	ｐｌ，网民都可以直接登陆到奥运频道。	0	0	0		
+PLA_CMN_20080702.0850	0	1700.0	1800.0	speaker	unknown	unknown	记者登陆到Ｏｎｅｔ“北京２００８”奥运频道，看到网页上醒目的标题“Ｐｅｋｉｎ ２００８（北京２００８）”，下面还有一个北京奥运会开幕式倒计时牌。	0	0	0		

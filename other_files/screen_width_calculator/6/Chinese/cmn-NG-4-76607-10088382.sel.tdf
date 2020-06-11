@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76607-10088382	0	0.0	100.0	speaker	unknown	unknown	昨天在center city	0	0	0		
+cmn-NG-4-76607-10088382	0	100.0	200.0	speaker	unknown	unknown	晚上去center city 2街那边一个餐馆吃饭，跟朋友约好6点。	0	0	0		
+cmn-NG-4-76607-10088382	0	400.0	500.0	speaker	unknown	unknown	她说是，那些都是墨西哥的地方，美国不应该抢占。	0	0	0		
+cmn-NG-4-76607-10088382	0	700.0	800.0	speaker	unknown	unknown	今天想起来，那帮藏独（20个人左右）跟着俺喊"Dalai Liar"，还是忍不住要笑。	0	0	0		

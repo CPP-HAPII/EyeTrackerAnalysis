@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120230-10578892	0	0.0	100.0	speaker	unknown	unknown	谁有IBM"蓝云"方面的资料,发来看看?	0	0	0		
+cmn-NG-31-120230-10578892	0	100.0	200.0	speaker	unknown	unknown	RT,细节一点的最好:)Thanks~	0	0	0		
+cmn-NG-31-120230-10578892	0	200.0	300.0	speaker	unknown	unknown	--<<END有人教我们怎么做题，有人教我们怎么画画，有人教我们怎么工作，但是，没有人曾经告诉我们怎么去思考，更没有人告诉我们怎么去获得自由。	0	0	0		

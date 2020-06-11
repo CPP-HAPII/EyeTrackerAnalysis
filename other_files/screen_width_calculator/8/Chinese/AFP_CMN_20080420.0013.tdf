@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0013.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	美前总统卡特与哈玛斯集团举行第二次会谈	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社大马士革十九日电	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	900.000	1400.000	TEXT1	unknown	unkown	巴勒斯坦回教运动组织哈玛斯集团今天说,美国前总统卡特和在叙利亚流亡的哈玛斯领袖马夏艾今天再次举行会谈,会谈的内容主要是集中在以色列和加萨回教好战分子之间可能的停火和释放以色列士兵问题。	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	1600.000	1700.000	TEXT1	unknown	unkown	卡特和马夏艾两人昨天曾举行了一次冗长的会议。	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	1700.000	2000.000	TEXT1	unknown	unkown	美国政府和以色列强烈反对卡特与马夏艾会面,尽管哈玛斯集团在二零零六年的巴勒斯坦选举中获胜,但他们仍视哈玛斯集团为恐怖组织。	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	2200.000	2400.000	TEXT1	unknown	unkown	卡特在与马夏艾会面时建议,哈玛斯应该向以色列表示善意。	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	2600.000	2900.000	TEXT1	unknown	unkown	卡特建议以色列和哈玛斯之间停火,「交换包括以色列士兵沙力特在内的俘虏,解除以色列对加萨走廊的封锁和解决拉法航空站的问题」。	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	哈玛斯官员纳札尔说,哈玛斯将「很快」就会对卡特的建议提出答覆。	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	他说,它将是一个正面答覆,但「不是不计任何代价,必须考虑巴勒斯坦人的利益。」	0	0	0		statement

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070113.0017	0	10010.000	10019.900				温家宝离京出席东亚领导人系列会议并访问菲律宾	0	0	0		
+PDA_CMN_20070113.0017	0	20010.000	20019.900				2007年01月13日15:35	0	0	0		
+PDA_CMN_20070113.0017	0	30010.000	30019.900				新华社北京１月１３日电 应菲律宾共和国总统阿罗约的邀请，国务院总理温家宝１３日下午乘专机离开北京，出席在菲律宾宿务举行的第十次中国与东盟领导人会议、第十次东盟与中日韩领导人会议及第二届东亚峰会，并对菲律宾共和国进行正式访问。	0	0	0		
+PDA_CMN_20070113.0017	0	30020.000	30029.900				其间，温家宝总理还将主持第七次中日韩领导人会议。	0	0	0		
+PDA_CMN_20070113.0017	0	40010.000	40019.900				陪同温家宝出席会议和访问的有：外交部部长李肇星、财政部部长金人庆、国务院研究室主任魏礼群、国务院副秘书长张平、国家发展和改革委员会副主任陈德铭、农业部副部长尹成杰、商务部副部长廖晓淇和外交部部长助理崔天凯。	0	0	0		

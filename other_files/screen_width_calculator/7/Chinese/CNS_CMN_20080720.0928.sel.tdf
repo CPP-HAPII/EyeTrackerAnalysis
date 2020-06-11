@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0928	0	2400.0	2500.0	speaker	unknown	unknown	新的“海军一号”要在2010年开始交付使用，下一届美国总统将首先享受这些新专机。	0	0	0		

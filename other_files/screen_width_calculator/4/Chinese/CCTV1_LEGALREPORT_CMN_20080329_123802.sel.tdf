@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'filler', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 171.768, 427.45999999999998, 611.26900000000001, 619.14300000000003, 641.97000000000003, 768.279, 1193.655, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080329_123802	0	209.918	221.517	speaker#3	male	native	当时我就愣了,我这咋这没钱了,我昨天晚上我来 (()) 利民储蓄所查了,我这五万三千块钱呢我,我那也不可能	1	3	4	report	statement
+CCTV1_LEGALREPORT_CMN_20080329_123802	0	331.055	344.508	speaker#3	male	native	我没带现钱,带现钱不保险,他说我给你打到卡,他说你这个卡 (()) 多少号,我把卡给他号,卡号给了他,给了以后他但是他不相信,他说我跟你他说我跟你上银行里验证一下这个卡	1	11	14	report	statement
+CCTV1_LEGALREPORT_CMN_20080329_123802	0	363.914	371.628	speaker#3	male	native	(()) 我确实感觉他就是这个人就是我说话也算话,就是我说把钱打过来就把钱打过来了	1	13	16	report	statement
+CCTV1_LEGALREPORT_CMN_20080329_123802	0	385.517	398.432	speaker#3	male	native	他说你给我你帐号,我把帐号就说呃给他念一遍,念一遍他说 (()) 你把卡拿过来 (()) ,我看我给我会计 (()) ,他把我卡就是拿到手里边	1	15	18	report	statement
+CCTV1_LEGALREPORT_CMN_20080329_123802	0	605.849	611.269	speaker#3	male	native	你把那个拿来,我 (()) 我看看,我跟会计报一下数	2	31	41	report	statement
+CCTV1_LEGALREPORT_CMN_20080329_123802	0	667.416	692.940	speaker#2	female	native	骗术一,利用~ATM自动取款机骗取银行卡的信息,有些骗子在~ATM机旁边贴一张纸,提示如有问题请拨打某某电话,这个电话很容易让人误以为这就是银行的服务电话,实际上却是骗子的电话,一旦你拨打了就被要求提供银行卡的卡号和密码,然后窃取你银行卡上的钱	5	36	48	report	statement

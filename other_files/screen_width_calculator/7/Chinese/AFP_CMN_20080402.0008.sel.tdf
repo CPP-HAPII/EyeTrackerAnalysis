@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080402.0008	0	0.0	1000.0	speaker	unknown	unknown	它举例指出,中国航空业者飞机驾驶「严重短缺」,而当地经济发展蓬勃,意味航空入境旅客量的暴增。	0	0	0		

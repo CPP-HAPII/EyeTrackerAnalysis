@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.0310	0	200.0	300.0	speaker	unknown	unknown	今天14时20分，刚刚完成实弹射击的机长吴铁刚走下反潜直升机的第一句话就是：“今天，感觉好极了！”	0	0	0		
+CNS_CMN_20080701.0310	0	400.0	500.0	speaker	unknown	unknown	实弹打击开始前，“水下声靶”被安装在潜艇模拟器上。	0	0	0		
+CNS_CMN_20080701.0310	0	700.0	800.0	speaker	unknown	unknown	反潜机到底抓住目标没有？	0	0	0		
+CNS_CMN_20080701.0310	0	1100.0	1200.0	speaker	unknown	unknown	在预定海区，战机伸出探测深海的触角，雷达和声呐全部开机搜索“猎物”，频频发射电磁波和超声波，对可疑海区进行“地毯式”搜索。	0	0	0		
+CNS_CMN_20080701.0310	0	1400.0	1500.0	speaker	unknown	unknown	“准备攻击！”指挥部命令。	0	0	0		
+CNS_CMN_20080701.0310	0	1600.0	1700.0	speaker	unknown	unknown	演练归来，航空兵指挥员孙来沈告诉记者，“水下声靶”亮相反潜实战化训练场，使海上反潜训练真正实现了与实际目标对抗、与实战过程衔接，战机捕捉、装备应用、快速反应、合同战术运用和综合作战能力得到全面检验，推动反潜这一训练课目真正由“训”向“战”转型，空中反潜训练焕然一新。	0	0	0		

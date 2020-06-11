@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76796-10084884	0	200.0	300.0	speaker	unknown	unknown	Back then I chose ME really because I liked it, just liked working with machines.	0	0	0		
+cmn-NG-4-76796-10084884	0	300.0	400.0	speaker	unknown	unknown	So I didn't concentrate on studying theories, either. After getting an MS by goofing around in a lousy school, I've been doing design, from draft drawing to parts, from prototypes to products, working both as an engineer and a fitter for five or six years in a row. I've clean forgot all theories, though my hands-on skills are pretty good.	0	0	0		

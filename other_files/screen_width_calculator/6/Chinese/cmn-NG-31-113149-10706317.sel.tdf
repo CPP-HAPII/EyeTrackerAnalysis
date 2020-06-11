@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-113149-10706317	0	0.0	100.0	speaker	unknown	unknown	毛泽东思想虽然不是法律和制度，但却胜似法律和制度！	0	0	0		
+cmn-NG-31-113149-10706317	0	100.0	200.0	speaker	unknown	unknown	毛泽东思想虽然不是法律和制度，但却胜似法律和制度！	0	0	0		
+cmn-NG-31-113149-10706317	0	200.0	300.0	speaker	unknown	unknown	毛泽东思想虽然不是法律和制度，但却胜似法律和制度！	0	0	0		
+cmn-NG-31-113149-10706317	0	300.0	400.0	speaker	unknown	unknown	我知道，一涉及到毛泽东思想，便立即会刺痛某些人那本来就对此特敏感的神经。	0	0	0		
+cmn-NG-31-113149-10706317	0	1200.0	1300.0	speaker	unknown	unknown	那么请看，众所周知的新的三座大山以及工农大众沦为弱势群体情况的出现，是我们的法律和制度维护了绝大多数人的利益的结果么？	0	0	0		
+cmn-NG-31-113149-10706317	0	1300.0	1400.0	speaker	unknown	unknown	严重的两极分化以及官民工资、福利待遇差距的扩大，是我们的法律和制度维护了社会的正义与公平的结果么？	0	0	0		
+cmn-NG-31-113149-10706317	0	2500.0	2600.0	speaker	unknown	unknown	答案只有一个，毛泽东思想使然。	0	0	0		
+cmn-NG-31-113149-10706317	0	2700.0	2800.0	speaker	unknown	unknown	所以我要说，毛泽东思想虽然不是法律和制度，但却胜似法律和制度！	0	0	0		

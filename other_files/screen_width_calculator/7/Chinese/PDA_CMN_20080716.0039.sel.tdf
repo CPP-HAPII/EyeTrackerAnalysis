@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080716.0039	0	700.0	800.0	speaker	unknown	unknown	“这里不但是海南的绿色屏障，也是全省840万人民的‘三江源’、大水塔。”	0	0	0		

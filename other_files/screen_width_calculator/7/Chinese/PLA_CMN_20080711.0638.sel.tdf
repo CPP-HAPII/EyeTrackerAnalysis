@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080711.0638	0	300.0	400.0	speaker	unknown	unknown	住房和城乡建设部副部长齐骥主持召开会议，国务院纠风办、监察部、财政部、中国人民银行、审计署和银监会等领导小组成员单位派员参加，会议通报了《关于开展加强住房公积金管理专项治理工作的实施意见》印发以来的工作进展情况，研究明确了专项治理具体工作事项。	0	0	0		

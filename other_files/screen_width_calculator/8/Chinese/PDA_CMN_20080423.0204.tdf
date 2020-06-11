@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0204.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	加勒比共同体寻求提供资金和产品帮助海地	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	900.000	950.000	TEXT1	unknown	unkown	人民网4月23日讯	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	据来自拿骚（巴哈马）的消息，加勒比共同体昨天加紧做出资金安排和提供消费产品，支持海地居民。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	该集团的各国政府面对海地提出的人道援助的需要正进行斡旋和磋商，海地是西半球最贫穷的国家。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	加勒比共同体秘书处透露，将拨出特里尼达和多巴哥石油基金1000万美元用于购买和生产食品，推动海地农业的发展。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	在圭亚那和其他加勒比国家当局寻找原料和消费产品如大米和糖，以便立即运到海地首都太子港。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	巴哈马总理、加共体主席英格拉姆透露，该集团的代表与海地总统普雷瓦尔保持接触。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1293.750	1296.875	TEXT1	unknown	unkown	海地现在是加共体的成员。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1296.875	1300.000	TEXT1	unknown	unkown	“我们将奠定国家更有力的发展的基础，注意到海地短期和中长期的目标与需要”。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	食品价格的上涨和缺乏供应上周在海地首都太子港和南部城市卡耶斯曾引起骚乱，造成5人死亡和近百人受伤。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	一些商店和政府的大楼受到破坏。	0	0	0		statement
+PDA_CMN_20080423.0204.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	为此国会免去了总理阿莱希斯的职务。（管彦忠）	0	0	0		statement

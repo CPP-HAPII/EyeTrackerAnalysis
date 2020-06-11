@@ -116,7 +116,7 @@ def compare_order_by_click(file):
     englishTotal = [0 for i in range(5)]
     spanishCount = [0 for i in range(5)]
     spanishTotal = [0 for i in range(5)]
-
+    
     for index, row in aoi_df.iterrows():
         language = row['Language']
         order = row['Order']
@@ -144,3 +144,35 @@ def compare_order_by_click(file):
         if spanishCount[x] != 0:            
             print ("Spanish order " + str(x) + " =")
             print (spanishTotal[x]/spanishCount[x])
+    
+    path = "analysis_results/comparison_results/by_order/"
+
+    chinese = aoi_df.loc[aoi_df["Language"] == "Chinese"]
+    chinese_order0 = chinese.loc[chinese["Order"] == 0]
+    chinese_order2 = chinese.loc[chinese["Order"] == 2]
+    chinese_order3 = chinese.loc[chinese["Order"] == 3]
+    chinese_order4 = chinese.loc[chinese["Order"] == 4]
+    chinese_order0.to_csv(path + "Chinese_Order0.csv", index=False)
+    chinese_order2.to_csv(path + "Chinese_Order2.csv", index=False)
+    chinese_order3.to_csv(path + "Chinese_Order3.csv", index=False)
+    chinese_order4.to_csv(path + "Chinese_Order4.csv", index=False)
+
+    english = aoi_df.loc[aoi_df["Language"] == "English"]
+    english_order1 = english.loc[english["Order"] == 1]
+    english_order2 = english.loc[english["Order"] == 2]
+    english_order3 = english.loc[english["Order"] == 3]
+    english_order4 = english.loc[english["Order"] == 4]
+    english_order1.to_csv(path + "English_Order1.csv", index=False)
+    english_order2.to_csv(path + "English_Order2.csv", index=False)
+    english_order3.to_csv(path + "English_Order3.csv", index=False)
+    english_order4.to_csv(path + "English_Order4.csv", index=False)
+
+    spanish = aoi_df.loc[aoi_df["Language"] == "Spanish"]
+    spanish_order0 = spanish.loc[spanish["Order"] == 0]
+    spanish_order2 = spanish.loc[spanish["Order"] == 2]
+    spanish_order3 = spanish.loc[spanish["Order"] == 3]
+    spanish_order4 = spanish.loc[spanish["Order"] == 4]
+    spanish_order0.to_csv(path + "Spanish_Order0.csv", index=False)
+    spanish_order2.to_csv(path + "Spanish_Order2.csv", index=False)
+    spanish_order3.to_csv(path + "Spanish_Order3.csv", index=False)
+    spanish_order4.to_csv(path + "Spanish_Order4.csv", index=False)

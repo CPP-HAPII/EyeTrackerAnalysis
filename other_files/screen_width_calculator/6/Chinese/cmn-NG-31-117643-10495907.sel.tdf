@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117643-10495907	0	0.0	100.0	speaker	unknown	unknown	以色列驻联合国大使抨击卡特“偏执”	0	0	0		
+cmn-NG-31-117643-10495907	0	100.0	200.0	speaker	unknown	unknown	以色列驻联合国大使抨击卡特“偏执”2008年 4月 25日 星期五 18:42 BJT	0	0	0		
+cmn-NG-31-117643-10495907	0	200.0	300.0	speaker	unknown	unknown	路透纽约4月24日电---以色列驻联合国大使吉勒曼(Dan Gillerman)周四表示，美国前总统卡特在叙利亚会晤巴勒斯坦好战组织哈马斯领导人的做法显示他是个“偏执狂”。	0	0	0		
+cmn-NG-31-117643-10495907	0	600.0	700.0	speaker	unknown	unknown	曾赢得诺贝尔和平奖的卡特在上周会晤哈马斯最高领袖米夏(Khaled Meshaal)，之後表示“如果得到巴勒斯坦人民支持的话”，哈马斯将“同意按照1967年的边界基础上建立巴勒斯坦国。”	0	0	0		

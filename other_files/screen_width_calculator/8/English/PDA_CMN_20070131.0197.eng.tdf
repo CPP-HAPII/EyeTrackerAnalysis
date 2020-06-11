@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070131.0197	0	10010.000	10019.900				Developing Countries Question Ban Ki-moon's UN Restructure Proposal	0	0	0		
+PDA_CMN_20070131.0197	0	20010.000	20019.900				January 31, 2007 09:23	0	0	0		
+PDA_CMN_20070131.0197	0	30010.000	30019.900				The United Nations Secretary-General Ban Ki-moon formally submitted the United Nations restructure proposal to the 192 member states on January 29 in which he prepares to downgrade the United Nations Department of Disarmament Affairs and to divide the Department of Peacekeeping Operations into two. The two proposals were questioned by developing countries.	0	0	0		
+PDA_CMN_20070131.0197	0	40010.000	40019.900				In response to Ban Ki-moon's proposal to downgrade the United Nations Department of Disarmament Affairs from department-level to office-level, Permanent Representative of South Africa to the United Nations Kumalo spoke without reservation, "Disarmament is of utmost importance to us. Thus, we hope to receive assurances that disarmament will not be marginalized." He stated that he will explain this when Ban Ki-moon returns from his visit to Africa next week.	0	0	0		
+PDA_CMN_20070131.0197	0	50010.000	50019.900				As an office, disarmament affairs may not be headed by a Deputy Secretary-General like it is now but will be led by an Under Secretary-General.	0	0	0		
+PDA_CMN_20070131.0197	0	60010.000	60019.900				In peacekeeping affairs, Ban Ki-moon stated that since the peacekeeping operations authorized by the UN Security Council have greatly increased, thus he suggested to divide the Department of Peacekeeping Operations into two. Besides keeping the existing Department of Peacekeeping Operations, a Department of Field Support will be added.	0	0	0		
+PDA_CMN_20070131.0197	0	60020.000	60029.900				The Department of Peacekeeping Operations will continue to be in charge of the planning, command, and management of peacekeeping operations. The newly added Department of Field Support will be responsible for providing personnel, finances, procurements, and communications support to the peacekeeping troops.	0	0	0		
+PDA_CMN_20070131.0197	0	70010.000	70019.900				Some diplomats worried that this will lead to an increase in personnel and expenses.	0	0	0		
+PDA_CMN_20070131.0197	0	70020.000	70029.900				At present, the United Nations have deployed 18 peacekeeping troops with nearly one hundred thousand soldiers and clerical personnel around the world to engage in peacekeeping operations.	0	0	0		
+PDA_CMN_20070131.0197	0	80010.000	80019.900				The Non-Allied Movement and the Group of 77 will hold a meeting this week to discuss Ban Ki-moon's organizational restructure plan.	0	0	0		
+PDA_CMN_20070131.0197	0	80020.000	80029.900				These two major organizations of developing countries occupy majority of the seats in the United Nations General Assembly.	0	0	0		
+PDA_CMN_20070131.0197	0	80030.000	80039.900				The adoption of the United Nations restructure proposal must be approved by the United Nations General Assembly.	0	0	0		
+PDA_CMN_20070131.0197	0	80040.000	80049.900				(Wang Fei)	0	0	0		

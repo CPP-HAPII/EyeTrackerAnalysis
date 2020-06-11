@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080719.0102	0	0.0	100.0	speaker	unknown	unknown	总装后勤部苇子坑管理处深化主题教育	0	0	0		
+PLA_CMN_20080719.0102	0	400.0	500.0	speaker	unknown	unknown	协理员牟峰告诉笔者，这是缘于教育前的调查分析：部分官兵忙于业务工作多，理论学习兴趣不够浓厚。	0	0	0		

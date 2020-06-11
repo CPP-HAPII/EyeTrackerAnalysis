@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0210.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	选前恐吓要给谢长廷吃子弹 台男子获缓起诉处分	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	900.000	1700.000	TEXT1	unknown	unkown	台湾蔡姓男子在台“大选”前两天，打电话到民进党籍市议员王定宇服务处，恐吓要给谢长廷“吃1颗子弹”，被依恐吓罪嫌移送并遭羁押4天。	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	1700.000	2500.000	TEXT1	unknown	unkown	检察官以蔡姓男子深知悔悟且恶性不重，昨天给予缓起诉1年的处分。	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	据台湾媒体报道，蔡姓男子说，他在电话中的说法，是揶揄民进党若想要赢只有再造“三?一九”事件。	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	3000.000	3100.000	TEXT1	unknown	unkown	检察官认为，蔡姓男子虽触犯台“刑法”恐吓罪，犯后坦承错误且已羁押，因此给予缓起诉处分。	0	0	0		statement

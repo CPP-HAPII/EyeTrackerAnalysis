@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080406.0030.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	94-year-old Elderly Man in Austria Gets a Five-year Sentence for Killing His Wife to "Set Her Free"	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 6, 2008	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	900.000	950.000	TEXT1	unknown	unkown	A 94-year-old elderly man in Vienna, the capital city of Austria, was sentenced to five years in prison for killing his 83-year-old wife.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	According to the report, on the 3rd the state court of Vienna decided to use the lightest penalty for murder in Austrian criminal laws.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The report from Osterreich said that when the old man heard the ruling, at first he kept saying the prison sentence was too long. "I will die in three years," he said.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	However, after consulting with his lawyer, he said that he accepted this ruling.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	On August 16 of last year, this old man in his nineties used a knife to slit his wife's throat while she was sleeping and then tried to commit suicide by slitting his artery and striking himself with an iron bar used for tenderizing steak, but he did not succeed.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	According to the report, this old man who used to love sports and was said to have worked as a driver for the chief commissioner of police in Vienna for many years became depressed and fell into a slump after undergoing a heart bypass surgery last year.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	He never left home and would even lie in bed all day.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	Before this incident, the old man had tried to persuade his wife to commit suicide with him but she refused.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	His wife was ill with chronic lower back pain, but as a devout Catholic, she regarded suicide as a sin.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	His wife always encouraged him to cheer up.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	They were married in 1952.	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	The old man claimed that he killed his wife to "set her free."	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	"I am in utter despair," the old man said, "I loved my wife." (Huang Pin)	0	0	0		statement

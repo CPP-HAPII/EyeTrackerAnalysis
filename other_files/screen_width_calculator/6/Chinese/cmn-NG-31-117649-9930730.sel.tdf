@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117649-9930730	0	600.0	700.0	speaker	unknown	unknown	美国国会众议员、维吉尼亚州共和党人弗兰克·伍尔夫是在3月6号国会的一个听证会上提出这个建议的。	0	0	0		
+cmn-NG-31-117649-9930730	0	1600.0	1700.0	speaker	unknown	unknown	邓永亮：“布什到中国来参加奥运开幕式，在中国人权没有得到改善的情况下，我认为是布什总统一个错误的决策。	0	0	0		
+cmn-NG-31-117649-9930730	0	2000.0	2100.0	speaker	unknown	unknown	勒克兹：“一些政治异见人士获得释放，比如程翔获得释放，但是胡佳现在又被关进监狱，还有很多其他网络异见人士还在监狱，他们有一些人身体很不好。	0	0	0		

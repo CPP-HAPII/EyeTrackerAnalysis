@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0053.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Launch Rocket Wreckage from China's First Relay Satellite Lands in Guizhou (picture)	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008 06:21 Source: CCTV.com - Comment	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	900.000	950.000	TEXT1	unknown	unkown	At 23:35 on April 25th, our country's first data relay satellite "Tianlian I-01" was successfully launched from Xichang Satellite Launch Center.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	8 minutes later, the first stage rocket booster of the Long March-3C carrier rocket used to launch the satellite crashed within the boundaries of my province's Renhuai city, Jiucang town.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	The blaze from the rocket booster wreckage turned half the sky red.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	That evening at 11:35, at the rocket booster wreckage search and recover temporary command post set up in Zunyi city Renhuai Jiucang Middle School all of the command post's people evacuated like a crowd. After that, they scattered to stand in different places and raised their heads to look for movement in the starry sky.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	Three minutes later, a bright scattered beam suddenly appeared in the sky and slid from the top of one horizon to another horizon.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	"That's it, that's it, Tianlian I satellite..." shouted the command people that were standing in different positions and the crowd spread on the nearby hillside.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	Two minutes later, a bright line slid forwards. The scattered beam disappeared soon after and then just the electric-light-shaped light slowly slid towards the other side of the mountain.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	There were two great "rumble, rumble" sounds and the firelight turned half the sky red as the rocket booster wreckage touched down.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2750.000	2800.000	TEXT1	unknown	unkown	"The wreckage touchdown point is definitely not far. It's definitely in Jiucang district," judged Liang Jianlin, the vice-commander of this command operation and the head of the Renhuai human resources department.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	3000.000	3050.000	TEXT1	unknown	unkown	"When the booster rocket wreckage touched down there was an extremely loud sound and the flaming firelight was extremely dazzling.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	3050.000	3100.000	TEXT1	unknown	unkown	After awhile we could smell a pungent odor," observer Wang Shihua said while being interviewed by a reporter 200 meters in diameter away from the wreckage crash area. The rocket booster wreckage touchdown time was 23:43.	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	3300.000	3400.000	TEXT1	unknown	unkown	[1] --	0	0	0		incomplete
+CNS_CMN_20080427.0053.sgm	0	3600.000	3700.000	TEXT1	unknown	unkown	[2] --	0	0	0		incomplete
+CNS_CMN_20080427.0053.sgm	0	3900.000	4000.000	TEXT1	unknown	unkown	[Next Page] --	0	0	0		incomplete

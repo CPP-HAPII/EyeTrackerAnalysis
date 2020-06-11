@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.0366	0	200.0	300.0	speaker	unknown	unknown	昨(1)日，都汶路分别从映秀、汶川方向往中间施工的施工便道全线贯通，施工人员在彻底关大桥两岸隔着滔滔岷江，挥舞着安全帽庆祝。	0	0	0		
+CNS_CMN_20080702.0366	0	700.0	800.0	speaker	unknown	unknown	昨日上午10时，在凌乱的工地上，咆哮的岷江边，9名机驾手、工作人员完成了入党宣誓。	0	0	0		
+CNS_CMN_20080702.0366	0	1100.0	1200.0	speaker	unknown	unknown	岷江对面，映秀往汶川方向，四川路桥集团三分公司的挖掘机清晰可见，机车手在乱石阵中艰难地来回挪动车身，一铲一铲地把石头倒入岷江。	0	0	0		
+CNS_CMN_20080702.0366	0	1600.0	1700.0	speaker	unknown	unknown	由于唐家山堰塞湖的影响，北川-茂县交通只能指望擂鼓—禹里公路通车。	0	0	0		

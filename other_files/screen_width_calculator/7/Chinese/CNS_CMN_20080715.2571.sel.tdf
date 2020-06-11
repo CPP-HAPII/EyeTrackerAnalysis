@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2571	0	0.0	100.0	speaker	unknown	unknown	传媒大亨百强排行榜：梅铎一门三杰皆跻身百大	0	0	0		
+CNS_CMN_20080715.2571	0	200.0	300.0	speaker	unknown	unknown	中新网7月15日电 综合报道，英国《卫报》14日公布英国传媒界最具影响力百大人物排行榜，网上搜索巨擘Google创办人布林和佩奇排榜首。	0	0	0		

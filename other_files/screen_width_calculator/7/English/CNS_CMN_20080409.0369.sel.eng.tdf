@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080409.0369	0	900.0	1000.0	speaker	unknown	unknown	How motivated are the managers?	0	0	0		
+CNS_CMN_20080409.0369	0	1500.0	1600.0	speaker	unknown	unknown	For example, in 2007 Yili suffered a loss of 9.71 million yuan in operating profit, and Hainan Pharmaceutical incurred about 50 million yuan in losses. (2) Cashing out stock options upon resignation has become the top choice for many general managers.	0	0	0		
+CNS_CMN_20080409.0369	0	1900.0	2000.0	speaker	unknown	unknown	The best option is to resign. You can sell your shares for cash all at once when you resign.	0	0	0		
+CNS_CMN_20080409.0369	0	2500.0	2600.0	speaker	unknown	unknown	However, the annual report published by China Ping An shows that the 2007 pre-tax salaries of three directors and senior managers had exceeded 40 million yuan. Ma Mingze's pre-tax salary actually reached 66.161 million yuan, 99% of which came from stock options.	0	0	0		
+CNS_CMN_20080409.0369	0	7900.0	8000.0	speaker	unknown	unknown	By direct incentives, it means an enterprise rewards its managers with a certain percentage of the profit, depending on how much profit the managers have made for the enterprise.	0	0	0		

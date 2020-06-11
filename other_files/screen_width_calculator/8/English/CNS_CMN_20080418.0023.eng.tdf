@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0023.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Uruguay Becomes First Latin American Country to Hold Gay Weddings	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008 15:39 Source: Chinanews.com - Comment	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	900.000	950.000	TEXT1	unknown	unkown	ChinaNews.com, April 18th - At the beginning of the year, Uruguay passed a law formally recognizing unions between same-sex couples.	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	On the 17th, this country became the first country in Latin America to hold weddings for gay couples.	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	According to CCTV's report, Judge Perez presided over this wedding for 38-year-old Figuera and 67-year-old actor and theater director Carlos. Both the "husband and wife" were male.	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	A small group of the couple's friends and relatives also witnessed this beautiful moment.	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	Carlos said he has already lived with Figuera for 14 years. He thinks their marriage is "a matter of justice and also a step forward for Uruguayan society."	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	Uruguay's so-called "cohabitation union law" was put into effect on January first of this year allowing heterosexuals and homosexuals that have lived together for at least 5 years to have the same legal rights and benefits that traditional marriage bestows.	0	0	0		statement

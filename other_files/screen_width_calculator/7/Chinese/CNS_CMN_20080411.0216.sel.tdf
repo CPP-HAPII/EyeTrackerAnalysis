@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080411.0216	0	300.0	400.0	speaker	unknown	unknown	“住院三成误诊”数据准确么?	0	0	0		
+CNS_CMN_20080411.0216	0	400.0	500.0	speaker	unknown	unknown	门诊五成误诊，住院三成误诊！	0	0	0		
+CNS_CMN_20080411.0216	0	2900.0	3000.0	speaker	unknown	unknown	门诊误诊五成 住院误诊三成	0	0	0		
+CNS_CMN_20080411.0216	0	3400.0	3500.0	speaker	unknown	unknown	廖新波在接受记者采访时称，由于医生水平不同，大医院误诊率要低于小医院。	0	0	0		

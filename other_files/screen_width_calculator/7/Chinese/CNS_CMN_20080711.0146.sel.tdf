@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080711.0146	0	700.0	800.0	speaker	unknown	unknown	七月九日，中共安徽省委书记王金山、省长王三运一行甫下飞机，就直奔灾区，马不停蹄地开始考察慰问行程。	0	0	0		

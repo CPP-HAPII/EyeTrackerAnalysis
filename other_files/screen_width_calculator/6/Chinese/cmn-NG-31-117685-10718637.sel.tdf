@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10718637	0	100.0	200.0	speaker	unknown	unknown	Foxit PDFCreator是一款虚拟打印机,通过这款虚拟打印机任何支持打印的应用程序可以非常方便、高效地创建生成高品质的PDF文档。	0	0	0		
+cmn-NG-31-117685-10718637	0	200.0	300.0	speaker	unknown	unknown	和备受大家欢迎的 FoxitReader一样,Foxit PDF Creator也是基于Foxit同一核心技术研发并设计出来的。	0	0	0		
+cmn-NG-31-117685-10718637	0	300.0	400.0	speaker	unknown	unknown	此工具具备有强大的搜索功能和高效的PDF显示及处理能力,本身体积小巧,运行快速并且显示精确,可以将当前流行的任何一种文档格式转换成专业标准的PDF文档 。	0	0	0		
+cmn-NG-31-117685-10718637	0	400.0	500.0	speaker	unknown	unknown	一旦您安装了这款虚拟打印机,就可以快速创建可靠的PDF文档,同时仍然保留有原文档的观感,在创建PDF文档的过程中您会体验其难以想像的快捷的速度。	0	0	0		

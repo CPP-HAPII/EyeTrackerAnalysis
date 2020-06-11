@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1641	0	0.0	100.0	speaker	unknown	unknown	谎称有人要炸歌厅 男子编造虚假恐怖信息被判刑	0	0	0		
+CNS_CMN_20080702.1641	0	300.0	400.0	speaker	unknown	unknown	尹某为泄私愤，谎称有人要炸歌厅，两次拨打“110”，经过依法审查，虹口检察院以编造虚假恐怖信息罪将尹某提起公诉。	0	0	0		
+CNS_CMN_20080702.1641	0	400.0	500.0	speaker	unknown	unknown	尹某，43岁，吉林人，今年5月9日下午3时许，尹某为泄私愤在本市某歌厅5楼厕所内，用手机2次拨打“110”报警电话，称该歌厅6楼处有人要用炸药包作案。	0	0	0		
+CNS_CMN_20080702.1641	0	1200.0	1300.0	speaker	unknown	unknown	最终，法院采纳了公诉人的意见，当庭以编造虚假恐怖信息罪判处尹某两年有期徒刑。	0	0	0		
+CNS_CMN_20080702.1641	0	1300.0	1400.0	speaker	unknown	unknown	(包蹇 陈益俊)	0	0	0		

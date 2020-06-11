@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	坦米尔之虎发动空袭 斯里兰卡战斗情势升高	0	0	0		statement
+AFP_CMN_20080427.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社可伦坡二十七日电	0	0	0		statement
+AFP_CMN_20080427.0009.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	斯里兰卡官员说,安全部队在塔米尔之虎叛军发动致命公车爆炸案后展开新一波地面攻势之际,塔米尔之虎今天清晨在斯里兰卡东 北部以轻航机轰炸军事目标。	0	0	0		statement
+AFP_CMN_20080427.0009.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	一名安全部队高阶消息人士说,「塔米尔伊兰解放之虎」击中维利欧雅区的两处军事设施,安全部队昨天在此地对叛军展开新行动。	0	0	0		statement
+AFP_CMN_20080427.0009.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	这位消息人士说:「他们在两个地点丢下三枚炸弹后飞回,造成的伤害不大,但攻击具象徵意义,这显示他们有军方设施的座标。」	0	0	0		statement
+AFP_CMN_20080427.0009.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	这名消息人士说,一名士兵在攻击行动中受伤。	0	0	0		statement
+AFP_CMN_20080427.0009.sgm	0	2800.000	3100.000	TEXT1	unknown	unkown	这名消息人士说,虽然军方在斯里兰卡北部与东部地区设立了新的防空工事,但这架捷克制的Zlin-143飞机仍勉强在没有阻拦的情况下撤退。	0	0	0		statement
+AFP_CMN_20080427.0009.sgm	0	3300.000	3500.000	TEXT1	unknown	unkown	国防部说,数小时后,军方派出喷射机轰炸同一地区疑为塔米尔之虎的炮兵据点。	0	0	0		statement

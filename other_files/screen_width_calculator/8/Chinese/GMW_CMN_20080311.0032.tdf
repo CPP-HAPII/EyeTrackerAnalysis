@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0032.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	巴以同意本周恢复和谈	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-11	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	本报特拉维夫3月10日电((记者陈克勤)) 巴勒斯坦官员日前表示,本周将恢复和以色列的和谈。	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	巴主席阿巴斯日前在拉马拉强调,和谈是解决巴以冲突的唯一途径,尽管暴力冲突近来加剧,但巴方仍然呼吁和平。	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	他表示,巴当局不会向破坏和平进程的少数派屈服,将尽力阻止暴力行为,通过谈判在年内与以达成和 平协议。	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	巴官员透露,预计谈判将在12日恢复。	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	耶路撒冷一所犹太教学校6日晚遭到巴枪手袭击,致8名学生死亡,11人受伤。	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	为此,以色列全国提升了警戒级别并关闭了加沙和西岸口岸。	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	以领导人敦促巴方采取更多措施消除巴非法武装,并表示以方将把巴恐怖分子和巴当局温和派相区别,继续与巴方和谈。	0	0	0		statement

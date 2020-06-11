@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.0897	0	900.0	1000.0	speaker	unknown	unknown	第15分钟，浙江绿城队22号焦风波在边路带球大胆插上，但得球越位。	0	0	0		
+CNS_CMN_20080703.0897	0	2300.0	2400.0	speaker	unknown	unknown	及兴华上场不到10分钟就帮助浙江绿城队将比分扩大为2-0。	0	0	0		

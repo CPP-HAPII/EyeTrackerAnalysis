@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080713.0177	0	100.0	200.0	speaker	unknown	unknown	新华社北京７月１３日电（吴晶、于春生）教育部新闻发言人王旭明１３日在接受记者采访时说，有关部门目前正在研究制定地震重灾区家庭经济困难学生特别的资助政策。	0	0	0		

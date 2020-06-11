@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117646-10503631	0	100.0	200.0	speaker	unknown	unknown	廊坊市一名政府官员表示，938路支5被堵事件并非孤立，此前就出现过霸州的长途客运班车车主抵制北京943路公交车，而在938路支5被堵事件后，固安等地的经营车主也开始效仿围堵北京9字头公交车。	0	0	0		
+cmn-NG-31-117646-10503631	0	700.0	800.0	speaker	unknown	unknown	资料显示，1998年4月，北京930路公交车进入三河；1998年5月1日，北京938路支线公交车开通香河线路；2002年2月北京938路支5公交车进入东方大学城。	0	0	0		
+cmn-NG-31-117646-10503631	0	800.0	900.0	speaker	unknown	unknown	2006年12月，北京943路公交车进入霸州。	0	0	0		
+cmn-NG-31-117646-10503631	0	1200.0	1300.0	speaker	unknown	unknown	一名看过该份调查报告的人士引用报告内容称，938路进入廊坊及大学城后，最明显的例子是，东方大学城的校车从原来的每天发车，最后改到周末发车。	0	0	0		
+cmn-NG-31-117646-10503631	0	1900.0	2000.0	speaker	unknown	unknown	但“我们是完全市场化经营”，碰上“不完全市场化经营”的对手，“必死无疑”。	0	0	0		
+cmn-NG-31-117646-10503631	0	2100.0	2200.0	speaker	unknown	unknown	而廊坊宣传部外宣局工作人员表示，希望北京方面类似9字头公交车划卡降价的措施，可以提前跟廊坊等与之有关联的地方政府打招呼，“我们也好提前应对”。	0	0	0		
+cmn-NG-31-117646-10503631	0	2300.0	2400.0	speaker	unknown	unknown	昨日下午，938路支5公交车车队梁副队长在电话里说，有问题只能去问八方达公司相关部门，公司其他员工已经被告知不得再接受媒体采访。	0	0	0		
+cmn-NG-31-117646-10503631	0	2500.0	2600.0	speaker	unknown	unknown	而北京市运输管理局公交管理处处长刘恩全在接到记者电话时，直接表态，“对这个事情不再说了，有问题找交通委去”。	0	0	0		
+cmn-NG-31-117646-10503631	0	2800.0	2900.0	speaker	unknown	unknown	newsId=3402[m [1;32m※ 来源:·我爱南开站 nkbbs.org·[FROM: 125.37.170.175] [m	0	0	0		

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0061.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	巴西36名犯人挖地道成功越狱 官方称与狱警串通	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 20:38 来源：新华网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	巴西东北部帕拉伊巴州一所监狱的36名犯人挖了一条6米长的地道，26日越狱成功。	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	帕拉伊巴州监狱管理部门负责人佩德罗·阿达尔森说，目前狱方只抓到一名越狱者，有关部门正在监狱所在的大坎皮纳市及其周围地区展开特别追捕行动。	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	阿达尔森说，这次越狱事件完全是狱方的疏忽造成的，因为犯人逃跑的时候共有64名狱警在值班。	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	同时他认为，那些犯人有可能与狱警串通。	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	据悉，这家监狱只能容纳400名犯人，但与巴西其他监狱一样，也存在严重超员的现象，这里现在关押的犯人已经达到1081人。((记者赵焱　陈威华))	0	0	0		statement

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0151	0	0.0	100.0	speaker	unknown	unknown	(cip) aaa070811 (Please pass onto General Section, International Department) Italy Intends to Broker Peace Talks between Israel and Lebanon	0	0	0		

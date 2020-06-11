@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120550-9946296	0	0.0	100.0	speaker	unknown	unknown	google 搜索的新体验	0	0	0		
+cmn-NG-31-120550-9946296	0	100.0	200.0	speaker	unknown	unknown	这个可能对某些人来说已经是旧闻了：（，不过我才刚刚发现。	0	0	0		
+cmn-NG-31-120550-9946296	0	300.0	400.0	speaker	unknown	unknown	具体情况见： http://www.google.	0	0	0		
+cmn-NG-31-120550-9946296	0	400.0	500.0	speaker	unknown	unknown	com/experimental/ ，在最下面。	0	0	0		
+cmn-NG-31-120550-9946296	0	600.0	700.0	speaker	unknown	unknown	其实 Google 几个产品都实现了类似的操作，如gmail, googlereader等。	0	0	0		
+cmn-NG-31-120550-9946296	0	700.0	800.0	speaker	unknown	unknown	估计 google 用vim 的不少，而且连 vim 作者都网罗进去了。	0	0	0		
+cmn-NG-31-120550-9946296	0	800.0	900.0	speaker	unknown	unknown	我想，如果 google 内部用 emacs 的人多的话，也许这些快捷键就是emacs方式的了。	0	0	0		
+cmn-NG-31-120550-9946296	0	1000.0	1100.0	speaker	unknown	unknown	都说emacs是个操作系统，我看过一些介绍，但没用过，不知感觉如何。	0	0	0		
+cmn-NG-31-120550-9946296	0	1100.0	1200.0	speaker	unknown	unknown	但我却希望 vim 成为操作系统，或者是希望能够统一所有软件的快捷键为 vi-like 的，因为那种行云流水般的的操作真是容易上瘾，让人欲罢不能，尤其是对于天天坐在电脑前操作的人。	0	0	0		
+cmn-NG-31-120550-9946296	0	1300.0	1400.0	speaker	unknown	unknown	看到有个老外说，他愿意用firefox，不因为别的，就是因为 firefox有vimperator :).	0	0	0		
+cmn-NG-31-120550-9946296	0	1500.0	1600.0	speaker	unknown	unknown	对于我们这些 Vim 爱好者，真是值得期待。	0	0	0		

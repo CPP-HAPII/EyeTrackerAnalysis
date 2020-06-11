@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0210.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Pre-Election Threat to Make Frank Hsieh Eat a Bullet - Taiwan Man Gets Suspended Prosecution	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	900.000	1700.000	TEXT1	unknown	unkown	Two days before the "general election" in Taiwan, a Taiwanese man with the surname "Tsai" phoned the service office of a Democratic Progressive Party alderman, Wang Ding-yu, and threatened to make Frank Hsieh "eat a bullet." He was taken into custody for 4 days for criminal intimidation.	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	1700.000	2500.000	TEXT1	unknown	unkown	Since the man with the surname Tsai deeply repented and his viciousness was mild, yesterday, the prosecutor gave him a one year suspended prosecution.	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	According to a report from Taiwan's media, the man with the surname Tsai said that his wording during the phone call was meant to tease the Democratic Progressive Party by saying that if they want to win the election they will have to remake a "March 19th" incident again.	0	0	0		statement
+PDA_CMN_20080423.0210.sgm	0	3000.000	3100.000	TEXT1	unknown	unkown	The prosecutor thinks that although the man with the surname Tsai offended Taiwan's "criminal law" of intimidation, after his offence he admitted his mistake and was taken into custody. Therefore he was given a suspended prosecution.	0	0	0		statement

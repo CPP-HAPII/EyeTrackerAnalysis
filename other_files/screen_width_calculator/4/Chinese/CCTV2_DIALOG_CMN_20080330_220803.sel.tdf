@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'nontrans', u'report', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 259.07400000000001, 380.18299999999999, 801.67100000000005, 1018.73, 1057.2239999999999, 1068.623, 1084.241, 1510.4480000000001, 1758.0709999999999, 1807.8219999999999, 2284.6979999999999, 2324.1469999999999, 3086.4259999999999, 9999999.0]
+CCTV2_DIALOG_CMN_20080330_220803	0	329.331	337.048	speaker#4	male	nonnative	当时我心里心都-心都紧张的很,紧张的我打给-打给妇保站, (()) 妇保站的电话	1	4	6	report	statement
+CCTV2_DIALOG_CMN_20080330_220803	0	1340.264	1354.585	speaker#1	male	native	看着其他的家庭都是呃团圆和谐美好的,而你们的家庭呢,丈夫却因为工作必须常年在外,作为爱人有没有一些什么样的怨言	7	18	70	filler	statement
+CCTV2_DIALOG_CMN_20080330_220803	0	2037.464	2060.272	Liu_Ji_Gui	male	nonnative	平时我们家除了,我像我家境不怎么好,一般都是小孩们放假的时候回来嗯改善他们的生活才买点菜,平时我们两口子家里面种的小菜,随便凑合凑合吃就可以了	10	25	105	filler	statement

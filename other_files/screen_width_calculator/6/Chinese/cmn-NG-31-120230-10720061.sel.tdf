@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120230-10720061	0	0.0	100.0	speaker	unknown	unknown	一个squid的问题	0	0	0		
+cmn-NG-31-120230-10720061	0	100.0	200.0	speaker	unknown	unknown	各位同学大家好，最近升级了一下squid遇到一个问题，请知道的同学解答一下。	0	0	0		
+cmn-NG-31-120230-10720061	0	200.0	300.0	speaker	unknown	unknown	在老版本的squid中有一个“reference_age” 来控制缓存对象在缓存中的最大生存时间，升级到2.6后发觉这个参数无效了。	0	0	0		

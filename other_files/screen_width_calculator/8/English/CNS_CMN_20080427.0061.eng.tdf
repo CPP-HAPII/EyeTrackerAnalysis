@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0061.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	36 Brazilian Convicts Escape by Digging Tunnel, Officials Point to Collusion with Prison Guards	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Apr. 27, 2008, 20:38 Source: Editorial (xinhuanet)	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Thirty-six convicts successfully escaped on the 26th from a prison in the state of Paraíba in the northeast of Brazil by digging a six-meter-long tunnel.	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	Pedro Adalson, director of the Penitentiary Administration of Paraiba state, said only one escaped convict had been recaptured, and that the responsible authorities were carrying out a special manhunt in Campo Grande where the prison is located and in the surrounding area.	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Adalson said the escape was entirely a product of negligence because at the time of the escape a total of 64 prison guards were on duty.	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	He also said that the convicts had possibly colluded with prison guards.	0	0	0		statement
+CNS_CMN_20080427.0061.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	According to reports, the prison can only hold 400 convicts. However, like many other prisons in Brazil, there is serious overcrowding and the total number of convicts currently in custody here is 1081. (Reporter: Zhao Yan; Chen Weihua)	0	0	0		statement

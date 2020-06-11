@@ -1,0 +1,417 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 157.65199999999999, 350.80599999999998, 1157.55, 1318.2539999999999, 1648.204, 9999999.0]
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	157.652	160.793	Sa_wen	male	native	掌握时事幻变，细听各方观点，凤凰全球连线。	1	1	1	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	160.793	165.149	Sa_wen	male	native	各位好，我们常说亡羊补牢为时已晚，但是有人说为时不晚，	1	1	2	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	165.149	167.043	Sa_wen	male	native	当然这是一个备受争议的人物。	1	1	3	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	167.043	169.418	Sa_wen	male	native	有人说他坚毅，也有人说他鲁莽，	1	1	4	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	169.418	171.215	Sa_wen	male	native	甚至得了妄想症。	1	1	5	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	171.215	173.231	Sa_wen	male	native	是，他就是美国总统布什，	1	1	6	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	173.231	175.356	Sa_wen	male	native	那么他要增兵伊拉克的计划出台了，	1	1	7	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	175.356	179.716	Sa_wen	male	native	布什孤注一掷地下赌注，不惜在华盛顿引发国会山之战，	1	1	8	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	179.716	182.107	Sa_wen	male	native	同时也在测试美国民众的忍耐性。	1	1	9	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	182.107	185.372	Sa_wen	male	native	结果是创可贴贴在大伤口上，	1	1	10	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	185.372	189.528	Sa_wen	male	native	直到三年多的安排布什在妄想赢取一场只会输的战争。	1	1	11	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	189.528	191.872	Sa_wen	male	native	各种各样的批评声音不绝于耳，	1	1	12	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	191.872	196.122	Sa_wen	male	native	布什一厢情愿增兵，使得伊战变成了布什个人的战争，	1	1	13	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	196.122	197.497	Sa_wen	male	native	伊拉克人又怎么看呢？	1	1	14	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	197.497	201.606	Sa_wen	male	native	今晚双喜凤凰全球连线，我们将电话连线伊拉克当地人，	1	1	15	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	201.606	206.325	Sa_wen	male	native	里亚德阿尔扎比，听他讲述伊拉克人对于布什新政策的看法。	1	1	16	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	206.325	211.715	Sa_wen	male	native	同时呢在华盛顿方面，我们请到的是美国克莱蒙特研究所研究员林长胜先生。	1	1	17	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	211.715	215.684	Sa_wen	male	native	上海现场，上海外国语大学中东研究所所长朱威烈先生。	1	1	18	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	215.684	218.559	Sa_wen	male	native	将为您深入剖析布什对伊新政策，	1	1	19	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	218.559	222.841	Sa_wen	male	native	将对伊拉克对美国，甚至是对国际格局产生什么样的影响？	1	1	20	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	222.841	225.482	Sa_wen	male	native	首先来看的就是我们今天这个话题新闻。	1	1	21	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	225.482	228.185	Sa_wen	male	native	美军呢自从二零零三年初占领巴格达之后，	1	1	22	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	228.185	231.276	Sa_wen	male	native	布什政府为稳定政局多次推出伊拉克新政策，	1	1	23	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	231.276	233.932	Sa_wen	male	native	但是呢都是没能使美军摆脱泥潭，	1	1	24	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	233.932	237.260	Sa_wen	male	native	反而面对的是伊拉克国内局势更加的动荡，	1	1	25	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	237.260	240.010	Sa_wen	male	native	而美国国内日益高涨的反对声浪。	1	1	26	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	240.010	243.229	Sa_wen	male	native	一月十号呢，布什再度地发表二十分钟的全国电视讲话，	1	1	27	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	243.229	244.807	Sa_wen	male	native	推出新的增兵计划，	1	1	28	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	244.807	248.713	Sa_wen	male	native	同时也警告伊朗和叙利亚休想插手伊拉克事务。	1	1	29	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	250.338	257.947	speaker#1	male	native	一月十号晚黄金时间，美国总统布什透过电视讲话推出他数月思考，调整之后的新伊拉克政策。	1	2	31	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	257.947	260.056	speaker#1	male	native	布什这次公布的新政策，	1	2	32	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	260.056	264.806	speaker#1	male	native	包括美军二月底之前完成向伊拉克派大兵两万一千五百人，	1	2	33	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	264.806	269.743	speaker#1	male	native	其中一万七千五百个大兵进驻巴格达，这个地区闹的最欢，	1	2	34	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	269.743	271.915	speaker#1	male	native	百分之八十的动乱都在这儿发生。	1	2	35	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	271.915	276.181	speaker#1	male	native	其余四千个大兵前往教派冲突激烈的安巴尔省地区，	1	2	36	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	276.181	280.900	speaker#1	male	native	并向中东地区增派航母战斗群和部署爱国者导弹系统。	1	2	37	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	280.900	284.071	speaker#1	male	native	另外，还追加六十八亿美元的预算，	1	2	38	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	284.071	289.102	speaker#1	male	native	五十六亿用于派大兵，十二亿用于给伊拉克搞建设，	1	2	39	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	289.102	290.727	speaker#1	male	native	可谓是多管齐下。	1	2	40	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	291.290	294.633	speaker#1	male	native	美国伊拉克研究小组曾在日前(())伊拉克报告，	1	2	42	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	294.633	297.086	speaker#1	male	native	力谏布什赶快撤兵吧。	1	2	43	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	297.086	299.476	speaker#1	male	native	布什也表态了，呃，考虑考虑。	1	2	44	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	299.476	303.460	speaker#1	male	native	但这回电视讲话是新瓶装旧酒，换汤不换药，	1	2	45	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	303.460	305.491	speaker#1	male	native	激起了民主党人士的反弹。	1	2	46	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	305.491	317.618	speaker#2	female	native	<foreign lang="English">(())</foreign>	1	3	47	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	317.618	321.352	speaker#1	male	native	目前，伊拉克大约有十三万两千名美国大兵，	1	4	48	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	321.352	324.415	speaker#1	male	native	增兵后将达到十五万三千五百人，	1	4	49	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	324.415	327.556	speaker#1	male	native	仅次于一年前的十六万人的最高峰。	1	4	50	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	327.556	330.775	speaker#1	male	native	澳大利亚总理霍华德表示，力挺布什的计划，	1	4	51	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	330.775	333.291	speaker#1	male	native	但不会步美国的后尘向伊增兵。	1	4	52	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	333.291	335.916	speaker#1	male	native	布什的老朋友，英国首相布莱尔也表示，	1	4	53	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	335.916	340.541	speaker#1	male	native	英军控制的伊拉克巴士拉地区平缓，啊很稳定，不需要增兵。	1	4	54	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	340.541	343.681	speaker#1	male	native	让美国耗时三年多，耗资四千亿美元，	1	4	55	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	343.681	346.540	speaker#1	male	native	损兵折将三千多人的这口伊拉克泥潭，	1	4	56	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	346.540	349.493	speaker#1	male	native	让布什深陷其中苦苦挣扎。	1	4	57	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	350.806	354.509	Sa_wen	male	native	那么大家对于布什宣布的新增兵伊拉克的这个政策呢，	2	5	59	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	354.509	356.650	Sa_wen	male	native	伊拉克政府到目前为止表示欢迎。	2	5	60	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	356.650	361.838	Sa_wen	male	native	但是我们听到的伊拉克百姓他们的这个反应就是，有点两极了。	2	5	61	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	361.838	368.884	Sa_wen	male	native	那么其中，那么我们现在现场呢是连线到伊拉克方面请来的是，伊拉克人里亚德阿尔扎比先生。	2	5	62	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	368.884	370.869	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	5	63	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	373.494	375.634	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	5	65	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	377.478	380.068	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	5	67	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	380.068	381.131	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	6	68	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	381.131	383.053	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	7	69	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	383.053	384.724	speaker#4	female	native	非常欢迎来到我们的节目，	2	8	70	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	384.724	390.365	speaker#4	female	native	有一些人说向伊拉克增兵是不会结束伊拉克的问题的，	2	8	71	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	390.365	392.772	speaker#4	female	native	相反将会有更多的流血事件。	2	8	72	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	392.772	394.241	speaker#4	female	native	你的观点是什么呢？	2	8	73	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	397.344	398.552	speaker#4	female	native	我相信	2	8	75	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	398.552	401.531	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	9	76	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	401.531	403.829	speaker#4	female	native	这将会使局势有所改善，	2	10	77	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	403.829	405.657	speaker#4	female	native	但是问题非常的复杂。	2	10	78	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	405.657	408.954	speaker#4	female	native	因此增兵不会是最终的解决方案。	2	10	79	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	408.954	412.306	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	11	80	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	412.306	421.415	speaker#4	female	native	大多数的伊拉克人认为，什叶派和叙尼派之间的斗争将会持续，	2	12	81	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	421.415	423.652	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	13	82	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	423.652	427.105	speaker#4	female	native	政府呢也将会为此负一定的责任，	2	14	83	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	427.105	430.933	speaker#4	female	native	因为政府也是有教派纷争的。	2	14	84	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	430.933	432.714	speaker#4	female	native	你是不是同意这种说法？	2	14	85	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	432.714	437.033	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	15	86	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	437.033	449.267	speaker#4	female	native	我相信，政府的本质以及政府的构成应该是一个教派的政府。	2	16	87	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	449.267	458.048	speaker#4	female	native	因为政府当中有很多的不同的党派和教派。	2	16	88	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	458.048	461.966	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	17	89	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	461.966	469.872	speaker#4	female	native	比如说各部门和国会的各个部门他们都有自己所负责的人，	2	18	90	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	469.872	474.794	speaker#4	female	native	他们有自己的利益，必须协调他们的利益。	2	18	91	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	474.794	476.669	speaker#4	female	native	这是政府的一个本质。	2	18	92	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	476.669	478.044	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	19	93	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	478.044	480.700	speaker#4	female	native	对于大多数的伊拉克人来说，包括你，	2	20	94	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	480.700	483.173	speaker#4	female	native	你是不是认为	2	20	95	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	483.173	485.528	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	21	96	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	485.528	487.653	speaker#4	female	native	美军应该撤出呢？	2	22	97	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	487.653	489.918	speaker#4	female	native	尤其是萨达姆已经倒台之后。	2	22	98	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	489.918	492.386	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	23	99	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	492.386	501.652	speaker#4	female	native	我认为美军其实是希望尽快撤出的，	2	24	100	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	501.652	507.011	speaker#4	female	native	但是他们的责任有很多。	2	24	101	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	508.065	512.080	speaker#4	female	native	美国的政府对于伊拉克也做出很多的承诺，	2	24	103	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	512.080	516.690	speaker#4	female	native	因此必须在撤出之前完成任务。	2	24	104	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	517.320	520.382	speaker#4	female	native	你说的是干预这个词，这个词用的很好。	2	24	106	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	520.382	522.914	speaker#4	female	native	那么我想问的最后一个问题就是，	2	24	107	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	522.914	524.618	speaker#4	female	native	在伊拉克的生活怎么样？	2	24	108	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	524.618	530.477	speaker#4	female	native	是比萨达姆统治时期还要差呢，	2	24	109	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	530.477	534.290	speaker#4	female	native	还是说比美军入侵的时候还要差？	2	24	110	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	534.290	536.899	speaker#4	female	native	我认为已经变得越来越差了，	2	24	111	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	538.993	541.571	speaker#4	female	native	有很多人因此逃离家园，	2	24	113	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	543.384	546.603	speaker#4	female	native	有的人有能力的话就移民到国外去了。	2	24	115	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	546.603	550.498	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	25	116	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	550.498	553.263	speaker#4	female	native	比如说，这一个地区的其它国家	2	26	117	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	553.263	556.639	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	27	118	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	556.639	564.264	speaker#4	female	native	在萨达姆时期我们还能够享受一些服务，	2	28	119	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	564.264	570.827	speaker#4	female	native	比如说电力服务，煤气服务，水利的供应等等，	2	28	120	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	570.827	573.515	speaker#4	female	native	还有一些医疗的保障等等。	2	28	121	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	574.296	576.843	speaker#4	female	native	当然，还有一些教育的服务。	2	28	123	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	576.843	580.015	speaker#3	male	native	<foreign lang="English">(())</foreign>	2	29	124	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	580.015	584.583	speaker#4	female	native	伊拉克在教育方面是在阿拉伯世界是非常领先的，	2	30	125	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	584.583	589.880	speaker#4	female	native	但是现在这些服务的水平非常的低。	2	30	126	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	589.880	591.474	speaker#4	female	native	这是非常不幸的。	2	30	127	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	591.474	594.584	Sa_wen	male	native	<foreign lang="English">(())</foreign>	2	31	128	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	594.584	595.959	Sa_wen	male	native	那么事实上我们现在看到了，	2	31	129	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	595.959	601.195	Sa_wen	male	native	呃目前的伊拉克就算是布什现在决定了要增派更多的美军到当地，	2	31	130	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	601.195	607.414	Sa_wen	male	native	但是还是每一天包括了今天在内，更多的这些袭击事件在不断地发生当中。	2	31	131	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	607.414	609.836	Sa_wen	male	native	那么，有很多人就说了，包括美国人说，	2	31	132	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	609.836	617.758	Sa_wen	male	native	美国总统布什这个政策百分之，大概是八十的民众呢其中有一项民调就说，没有用，不会帮忙。	2	31	133	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	617.758	620.649	Sa_wen	male	native	只有百分之大概十七点多才说有用。	2	31	134	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	620.649	623.993	Sa_wen	male	native	究竟这个计划是不是有点太迟了呢？	2	31	135	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	623.993	629.524	Sa_wen	male	native	那么现在马上连线到上海请来的是，上海外国语中东研究所所长朱威烈先生。	2	31	136	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	629.524	630.024	Sa_wen	male	native	朱所长	2	31	137	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	630.024	630.555	Sa_wen	male	native	您好。	2	32	138	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	630.024	630.555	Zhu_weilie	male	native	您好。	2	32	139	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	630.555	631.274	Zhu_weilie	male	native	您好。	2	33	140	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	631.274	635.457	Sa_wen	male	native	是，那么您怎么看布什这项呃增兵计划是不是太晚了呢？	2	34	141	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	635.457	636.816	Sa_wen	male	native	还是，还是可以有救？	2	34	142	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	637.487	640.472	Zhu_weilie	male	native	您刚刚讲亡羊补牢为时已晚，	2	35	144	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	640.472	640.878	Sa_wen	male	native	嗯哼。	2	36	145	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	640.878	645.159	Zhu_weilie	male	native	对这场错误的战争而言确确实实是为时已晚，	2	37	146	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	645.159	649.627	Zhu_weilie	male	native	但是如果我们来比较 <foreign lang="English">(())</foreign> 跟 <foreign lang="English">(())</foreign> 的报告，	2	37	147	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	649.627	654.018	Zhu_weilie	male	native	那么我觉得这次的布什讲话应该讲，更加实际，	2	37	148	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	654.018	654.424	Sa_wen	male	native	嗯哼。	2	38	149	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	654.424	657.218	Zhu_weilie	male	native	也更加符合，更加符合逻辑。	2	39	150	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	657.846	660.143	Zhu_weilie	male	native	符合布什的思维逻辑，	2	39	152	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	660.143	662.737	Zhu_weilie	male	native	也符合布什的行为逻辑，	2	39	153	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	662.737	667.284	Zhu_weilie	male	native	还符合美国从尼克松时代以来的撤军逻辑，	2	39	154	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	667.284	670.018	Zhu_weilie	male	native	就是他要求一个能够体面地撤军，	2	39	155	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	670.596	675.780	Zhu_weilie	male	native	还符合周边逊尼派的阿拉伯国家的领导人的思维逻辑。	2	39	157	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	676.289	680.939	Zhu_weilie	male	native	如果在现在，按照 <foreign lang="English">(())</foreign> 报告就开始撤军的话，	2	39	159	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	680.939	684.593	Zhu_weilie	male	native	那么将会引起周边国家的巨大惊恐，	2	39	160	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	685.192	690.985	Zhu_weilie	male	native	所以这次增兵比马上就撤军应该讲还是有变化，	2	39	162	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	690.985	691.719	Zhu_weilie	male	native	还是有新意。	2	39	163	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	692.407	694.641	Sa_wen	male	native	呃，问题我们(())就说呢，	2	40	165	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	694.641	700.563	Sa_wen	male	native	这个所谓的伊拉克研究小组他们给布什政府呢提出这么一个七十多项的一建议。	2	40	166	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	700.563	705.485	Sa_wen	male	native	那么其中一项就是，呃基本上就是希望零八的时候要撤兵了，	2	40	167	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	705.485	710.895	Sa_wen	male	native	但是布什就说我们这样做不是一个赢取这场战争的做法，	2	40	168	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	710.895	715.645	Sa_wen	male	native	那么只是一个比较爱面子的一个离开伊拉克的这个政策。	2	40	169	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	715.645	718.348	Sa_wen	male	native	但问题就是说，你光是派多点人进去。	2	40	170	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	718.348	721.707	Sa_wen	male	native	有些人说，解决不了问题，他们还是在不断地炸，	2	40	171	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	721.707	728.114	Sa_wen	male	native	那问题就，增派这个两万多兵就可以真的解决目前对付这些不断发生每天的这袭击事件，	2	40	172	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	728.114	730.880	Sa_wen	male	native	逊尼派跟这个什叶派之间的这，这个争，争斗。	2	40	173	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	731.489	732.942	Zhu_weilie	male	native	您讲的是第二个问题，	2	41	175	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	732.942	733.407	Zhu_weilie	male	native	就是	2	42	176	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	732.942	733.407	Sa_wen	male	native	嗯哼。	2	42	177	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	733.407	735.270	Zhu_weilie	male	native	增兵是不是会有效果。	2	43	178	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	735.270	735.645	Sa_wen	male	native	嗯哼。	2	44	179	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	735.645	739.130	Zhu_weilie	male	native	那么这一点我觉得布什这一次他承认，他是犯了错误。	2	45	180	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	739.130	743.442	Zhu_weilie	male	native	另外，他也承认不会马上就结束暴力活动，	2	45	181	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	743.442	747.926	Zhu_weilie	male	native	也不会减少美军在那里的伤亡和伊拉克人的伤亡。	2	45	182	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	747.926	749.832	Zhu_weilie	male	native	我觉得这从这些来看呢，	2	45	183	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	749.832	753.629	Zhu_weilie	male	native	他还是顾忌到了这个非常多的不确定因素。	2	45	184	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	754.192	760.161	Zhu_weilie	male	native	那么现在撤兵来讲，呃固然我们不能说他一定能解决问题，	2	45	186	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	760.161	769.974	Zhu_weilie	male	native	但至少对于稳定现在的局面这个把这个伊拉克政府的这个军队的培训工作能够抓起来，	2	45	187	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	769.974	775.567	Zhu_weilie	male	native	那么这样才能够造成就是有更多的地方的安全守卫工作，	2	45	188	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	775.567	779.989	Zhu_weilie	male	native	这个边防工作让伊拉克人来承担起来，我觉得这还是有利的。	2	45	189	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	779.989	783.754	Sa_wen	male	native	嗯，那么刚才呢就是呃我们也其中问到这伊拉克朋友的一个问题，	2	46	190	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	783.754	788.770	Sa_wen	male	native	就是因为他目前这个呃伊拉克政府比较是一个教派呃政府，	2	46	191	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	788.770	791.739	Sa_wen	male	native	有很多什叶派跟这个逊尼派之间的争斗，	2	46	192	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	791.739	795.473	Sa_wen	male	native	就是因为目前这个政府的这个形成所造成的。	2	46	193	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	795.473	797.114	Sa_wen	male	native	所以呢，有人就争议说，	2	46	194	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	797.114	799.567	Sa_wen	male	native	你要是把这个权利更多地放在伊拉克人手中，	2	46	195	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	799.567	802.035	Sa_wen	male	native	他们根本没办法解决目前这种乱局。	2	46	196	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	802.035	807.963	Sa_wen	male	native	那么刚才您也讲到一点，就是布什啦对他承认这个有关的这个政治上面的这些错误，他表示了道歉。	2	46	197	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	807.963	809.885	Sa_wen	male	native	我们一起再来听听他怎么说的。	2	46	198	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	811.542	831.328	Bush	male	native	<foreign lang="English">(())</foreign>	2	47	200	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	831.328	835.500	Sa_wen	male	native	没错，布什呢说这个错误由他来承担，责任由他来承担，	2	48	201	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	835.500	839.032	Sa_wen	male	native	问题就是，这场战争是不是他一个人的战争呢？	2	48	202	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	839.032	842.813	Sa_wen	male	native	现场马上连线美国克莱蒙特研究所研究员林长胜先生。	2	48	203	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	842.813	843.797	Sa_wen	male	native	林先生你好。	2	48	204	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	843.797	844.563	Lin_changsheng	male	native	你好。	2	49	205	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	844.563	847.048	Sa_wen	male	native	美国人怎么看布什这个新的政策，	2	50	206	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	847.048	851.524	Sa_wen	male	native	是不是他也是单打独斗也要就是 <foreign lang="English">(())</foreign> ，	2	50	207	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	851.524	855.456	Sa_wen	male	native	就是他决定要增兵了就增兵了，不管国会怎么样的反对？	2	50	208	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	856.025	862.040	Lin_changsheng	male	native	呃，从现在来看呢，布什这个决定真是有些破釜沉舟哇，背水作战，	2	51	210	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	862.040	863.197	Lin_changsheng	male	native	呃孤注一掷	2	51	211	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	863.197	863.494	Sa_wen	male	native	嗯哼。	2	52	212	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	863.494	865.524	Lin_changsheng	male	native	这么一个情况，啊确实就是说。	2	53	213	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	865.524	871.290	Lin_changsheng	male	native	但是呢我们还要看到呢，布什这样做的原因呢就是要维持他的历史地位，	2	53	214	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	871.290	875.477	Lin_changsheng	male	native	他不能说他在两任最后伊拉克打败了。	2	53	215	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	875.477	878.555	Lin_changsheng	male	native	呃，那么现在我们必须要看他这个计划，	2	53	216	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	878.555	881.966	Lin_changsheng	male	native	这些计划呢也许在其他人很多人看了这不现实，	2	53	217	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	881.966	884.716	Lin_changsheng	male	native	但是呢布什大概认为是非常现实的。	2	53	218	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	884.716	889.481	Lin_changsheng	male	native	因为现在呢，根据这个美方这边这军事专家指出哇，	2	53	219	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	889.481	892.606	Lin_changsheng	male	native	这个布什的计划其实关键点不在增兵上头，	2	53	220	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	892.606	893.965	Lin_changsheng	male	native	而在改变策略。	2	53	221	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	893.965	894.465	Sa_wen	male	native	嗯哼。	2	54	222	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	894.465	896.278	Lin_changsheng	male	native	那么这改变策略怎么回事呢？	2	55	223	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	896.278	901.747	Lin_changsheng	male	native	就说呢过去呃美军呃扫荡了一个地区之后，就撤了出来。	2	55	224	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	901.747	902.044	Sa_wen	male	native	嗯哼。	2	56	225	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	902.044	905.480	Lin_changsheng	male	native	撤了出来之后呢这些反抗军呢，恐怖分子又重新回来。	2	57	226	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	906.049	908.387	Lin_changsheng	male	native	那么怎么要改变这个现状呢？	2	57	228	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	908.387	912.074	Lin_changsheng	male	native	就现在要，要扫荡完之后要继续坚持下来，	2	57	229	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	912.074	915.293	Lin_changsheng	male	native	而这个坚持下来呢这最大的问题在哪呢？	2	57	230	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	915.293	919.668	Lin_changsheng	male	native	关键的就是美国军队在伊拉克的如何部署。	2	57	231	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	919.668	924.356	Lin_changsheng	male	native	因为现在呢美国军队呢在伊拉克的部署采取一个大基地，	2	57	232	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	924.356	930.466	Lin_changsheng	male	native	这么一个方法，就说呢很多军队上万名呃军队都在一个大营房里头，	2	57	233	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	930.466	932.935	Lin_changsheng	male	native	然后呢打仗时出去，打完仗就回来。	2	57	234	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	932.935	933.388	Sa_wen	male	native	嗯哼。	2	58	235	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	933.388	937.764	Lin_changsheng	male	native	那么这样的一个基地部署呢好处呢是它比较安全，利于指挥，	2	59	236	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	937.764	941.450	Lin_changsheng	male	native	它不好处就说它没法控制那些街区街道。	2	59	237	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	941.450	945.717	Lin_changsheng	male	native	那么现在呢它改变策略说，它采取小基地的办法。	2	59	238	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	945.717	949.780	Lin_changsheng	male	native	就是说在每个街区啊就每个小区都放一个基地，	2	59	239	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	949.780	954.264	Lin_changsheng	male	native	呃，然后呢派一部分美军，派一部分伊拉克士，士兵合起来，	2	59	240	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	954.264	958.015	Lin_changsheng	male	native	然后呢扫荡完之后这些军队就呃在那呆下来。	2	59	241	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	958.015	963.609	Lin_changsheng	male	native	现在起码就是把伊拉克呢这个由这么几个大基地把它变成二百个小基地，	2	59	242	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	963.609	965.313	Lin_changsheng	male	native	用这么一种方，方法。	2	59	243	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	965.313	968.938	Lin_changsheng	male	native	那么这种方法自然需要一些，需要就是说部队比较多，	2	59	244	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	968.938	970.031	Lin_changsheng	male	native	所以要增兵。	2	59	245	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	970.031	971.500	Lin_changsheng	male	native	这是这一个，这么一情况。	2	59	246	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	971.500	978.547	Lin_changsheng	male	native	但是呢，美国现在来讲呢，就是说认为呢它这个方法呢，就是说太重视这个军事了，	2	59	247	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	978.547	978.828	Sa_wen	male	native	嗯哼。	2	60	248	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	978.828	981.656	Lin_changsheng	male	native	而对这个政治的解决方法没有注意，	2	61	249	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	981.656	984.109	Lin_changsheng	male	native	啊，至少没有给予足够的啊。	2	61	250	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	984.109	988.375	Lin_changsheng	male	native	那么现在呢伊拉克的局势其实呢，我们刚才听了那位伊拉克人讲，	2	61	251	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	988.375	988.640	Sa_wen	male	native	嗯哼。	2	62	252	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	988.375	988.640	Lin_changsheng	male	native	认为	2	62	253	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	988.640	992.609	Lin_changsheng	male	native	伊拉克他现在问题关键啊是一个政治性啊，	2	63	254	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	992.609	994.828	Lin_changsheng	male	native	那么军事上呢是个从属的。	2	63	255	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	994.828	999.922	Lin_changsheng	male	native	但是呢，现在布什现在这个方案呢基本还是一个以军事为主，	2	63	256	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	999.922	1000.406	Lin_changsheng	male	native	啊，	2	63	257	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1000.406	1001.438	Lin_changsheng	male	native	政治为辅。	2	63	258	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1001.438	1001.869	Lin_changsheng	male	native	那么	2	64	259	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1001.438	1001.869	Sa_wen	male	native	嗯哼。	2	64	260	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1001.869	1005.141	Lin_changsheng	male	native	这个方法呢看来要真要想解决问题呢是不太可能。	2	65	261	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1005.141	1005.656	Sa_wen	male	native	嗯。	2	66	262	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1005.656	1008.374	Sa_wen	male	native	而且我们看到就是目前呃英国方面已经说了，	2	66	263	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1008.374	1013.312	Sa_wen	male	native	在这个五月底的时候已经是要撤出呃至少两千多名的这个英兵出来。	2	66	264	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1013.312	1016.395	Sa_wen	male	native	我们看到反而美国方面没办法，因为真的布什自己要说，	2	66	265	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1016.395	1020.190	Sa_wen	male	native	要解放伊拉克人民，结果搞了半天现在美军出不来了。	2	66	266	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1020.190	1023.894	Sa_wen	male	native	那问题你也说到，要注意的就是一个政治层面上，	2	66	267	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1023.894	1028.168	Sa_wen	male	native	呃在这个政治层面上他们能做到些什么东西呢？	2	66	268	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1028.671	1032.519	Lin_changsheng	male	native	现在可以说呢，就是说实际上的伊拉克的关键问题呢，	2	67	270	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1032.519	1037.598	Lin_changsheng	male	native	就是说当初美军打下伊拉克之后啊，把这个萨达姆踢倒之后，	2	67	271	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1037.598	1037.935	Lin_changsheng	male	native	就是	2	68	272	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1037.598	1037.935	Sa_wen	male	native	嗯哼。	2	68	273	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1037.935	1041.973	Lin_changsheng	male	native	说呃让这个伊拉克人选举，选出一个民主的政府，	2	69	274	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1041.973	1045.083	Lin_changsheng	male	native	可是伊拉克呢它是由三派人组成的，	2	69	275	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1045.083	1045.450	Lin_changsheng	male	native	库尔	2	70	276	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1045.083	1045.450	Sa_wen	male	native	嗯哼。	2	70	277	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1045.450	1047.286	Lin_changsheng	male	native	德人，叙尼派和什叶派。	2	71	278	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1047.286	1049.146	Lin_changsheng	male	native	而什叶派占绝大多数。	2	71	279	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1049.146	1054.255	Lin_changsheng	male	native	那根据一人一票的原则，那肯定是什叶派要在政府中占了绝大多数的，	2	71	280	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1054.255	1054.849	Lin_changsheng	male	native	啊，	2	71	281	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1054.849	1056.333	Lin_changsheng	male	native	就是什叶派占主导。	2	71	282	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1056.333	1060.426	Lin_changsheng	male	native	那么什叶派占主导那什叶派自然要维护自己的利益，	2	71	283	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1060.426	1060.801	Sa_wen	male	native	嗯哼。	2	72	284	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1060.801	1061.973	Lin_changsheng	male	native	这是必，必然的。	2	73	285	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1061.973	1067.848	Lin_changsheng	male	native	那么，那么这个呢就和美军现在啊要想伊拉克平稳下来，	2	73	286	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1067.848	1070.504	Lin_changsheng	male	native	这个局势是这个目的是冲突的。	2	73	287	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1070.504	1071.832	Lin_changsheng	male	native	啊，是冲，冲突的。	2	73	288	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1071.832	1078.096	Lin_changsheng	male	native	实际上就是说，如果说美国在伊拉克上它最大问题就是太急于通过选举建立这么一个民主政府，	2	73	289	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1078.096	1078.502	Sa_wen	male	native	嗯哼。	2	74	290	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1078.096	1078.502	Lin_changsheng	male	native	它应	2	74	291	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1078.502	1082.268	Lin_changsheng	male	native	该是先一步一步地来，先组成一个团结什么政府，	2	75	292	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1082.268	1084.268	Lin_changsheng	male	native	联合政府这有比例的这样来。	2	75	293	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1084.268	1087.284	Lin_changsheng	male	native	那么现在这个情况就是说，这民主政府建立起来了，	2	75	294	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1087.284	1089.550	Lin_changsheng	male	native	通过选，选举，合法性在这儿。	2	75	295	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1089.550	1093.347	Lin_changsheng	male	native	而现在呢这合法的政府包庇它们什叶派的民兵，	2	75	296	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1093.347	1097.176	Lin_changsheng	male	native	呃，而这，这样就造成了更大的这个教派的冲突。	2	75	297	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1097.176	1098.598	Lin_changsheng	male	native	啊，教派冲，冲突。	2	75	298	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1098.598	1102.801	Lin_changsheng	male	native	而伊拉克的教派冲突绝不是一天，两天，这是几十年甚至是几百年，	2	75	299	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1102.801	1105.754	Lin_changsheng	male	native	你要想在很短时间解决它，根本就是不可能的。	2	75	300	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1105.754	1106.207	Sa_wen	male	native	嗯哼。	2	76	301	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1106.207	1110.019	Sa_wen	male	native	那么您刚才其中一个策略问题呢，有人说现在这美军呐，	2	76	302	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1110.019	1112.034	Sa_wen	male	native	包括在这巴达，巴格达方面，	2	76	303	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1112.034	1116.301	Sa_wen	male	native	它们老是躲在这个所谓的 <foreign lang="English">(())</foreign> 这个绿营里面，安全区里面。	2	76	304	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1116.301	1116.754	Sa_wen	male	native	结果呢，	2	76	305	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1116.754	1119.982	Lin_changsheng	male	native	就是刚我讲他们就是在巴格达呢有这么几个大	2	77	306	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1119.982	1120.544	Sa_wen	male	native	嗯哼。	2	78	307	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1119.982	1120.544	Lin_changsheng	male	native	基地，	2	78	308	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1120.544	1121.013	Sa_wen	male	native	嗯。	2	79	309	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1121.013	1126.169	Lin_changsheng	male	native	大基地呢就说所有的部队都这，都打完仗之后就回到这个基地来了。	2	80	310	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1126.169	1128.778	Lin_changsheng	male	native	那么这个基地好处就在，它很安全，	2	80	311	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1128.778	1129.497	Lin_changsheng	male	native	啊，	2	81	312	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1128.778	1129.497	Sa_wen	male	native	{laugh}	2	81	313	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1129.497	1130.716	Lin_changsheng	male	native	利于保卫，	2	82	314	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1130.716	1131.856	Lin_changsheng	male	native	啊，后勤也好。	2	83	315	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1130.716	1131.856	Sa_wen	male	native	嗯哼。	2	83	316	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1131.856	1136.152	Lin_changsheng	male	native	啊，可是呢就说因为他打完仗就要回到这个大营房	2	84	317	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1136.152	1136.637	Lin_changsheng	male	native	里，所以	2	85	318	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1136.152	1136.637	Sa_wen	male	native	哎。	2	85	319	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1136.637	1138.904	Lin_changsheng	male	native	这街区清理完之后一走，	2	86	320	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1138.904	1141.844	Lin_changsheng	male	native	这些什叶派，这些民兵和这些恐	2	86	321	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1141.844	1142.344	Lin_changsheng	male	native	怖分子马	2	87	322	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1141.844	1142.344	Sa_wen	male	native	你好。	2	87	323	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1142.344	1143.080	Lin_changsheng	male	native	上就会回来了。	2	88	324	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1143.080	1148.643	Sa_wen	male	native	主导权又给了，对，主导权又给了这些所谓的，对这些民兵呃，武装分子，	2	89	325	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1143.080	1148.643	Lin_changsheng	male	native	(())	2	89	326	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1148.643	1151.550	Sa_wen	male	native	结果就是没办法控制他们也就这个原因。	2	90	327	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1151.550	1153.925	Sa_wen	male	native	所以整个策略可能还要来一个大改变。	2	90	328	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1153.925	1156.941	Sa_wen	male	native	好，我们先休息片刻，稍后回来我们继续连线。	2	90	329	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1156.941	1157.550	Sa_wen	male	native	回来见。	2	90	330	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1318.254	1320.051	Sa_wen	male	native	欢迎回到双喜凤凰全球连线。	4	92	332	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1320.051	1324.879	Sa_wen	male	native	美国总统布什呢增兵的计划遭到了由民主党控制的国会大力的反对之后呢，	4	92	333	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1324.879	1328.332	Sa_wen	male	native	布什内阁已经是动员起来向国会促销有关的计划，	4	92	334	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1328.332	1331.551	Sa_wen	male	native	向美国的民众来促销相关的计划。	4	92	335	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1331.551	1333.848	Sa_wen	male	native	那么看看，呃刚才的一个画面，	4	92	336	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1333.848	1339.380	Sa_wen	male	native	那么赖斯，没错她已经马上了就是尽她的努力来说服美国的民众，	4	92	337	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1340.052	1342.911	Sa_wen	male	native	她说伊拉克目前的状况呢是不可以接受的，	4	92	339	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1342.911	1346.130	Sa_wen	male	native	强调伊拉克的未来掌握在伊拉克的民众手中。	4	92	340	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1346.130	1350.568	Sa_wen	male	native	那么总统布什已经清楚向伊拉克政府表达了美国的全力支持，	4	92	341	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1350.568	1353.600	Sa_wen	male	native	但同时她也警告美国的耐心是有限的。	4	92	342	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1353.600	1357.022	Sa_wen	male	native	她说，美方呢将会不断地要求伊拉克当局做出改善，	4	92	343	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1357.022	1359.365	Sa_wen	male	native	增强自身的保安能力。	4	92	344	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1359.365	1365.646	Sa_wen	male	native	而另外呢，她也指出了除了军事行动美国还将增强非军事人员在伊拉克的任务。	4	92	345	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1365.646	1371.662	Sa_wen	male	native	那么她说目前在伊拉克的非军事人员不能再躲在使馆或是绿区里面，	4	92	346	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1371.662	1374.522	Sa_wen	male	native	而是要分散到伊拉克的各地。	4	92	347	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1374.522	1375.913	Sa_wen	male	native	那么说到这个绿区的问题，	4	92	348	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1375.913	1380.913	Sa_wen	male	native	我们现在马上再联系上我们在伊拉克的朋友 <foreign lang="English">(())</foreign> 。	4	92	349	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1382.854	1388.167	speaker#4	female	native	我想了解一下驻巴格达的美军，	4	93	351	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1388.167	1390.976	Sa_wen	male	native	<foreign lang="English">(())</foreign>	4	94	352	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1390.976	1399.242	speaker#4	female	native	对于大多数伊拉克人来说，他们怎么样看待这些在绿区的驻伊美军呢？	4	95	353	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1399.242	1401.826	speaker#3	male	native	<foreign lang="English">(())</foreign>	4	96	354	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1401.826	1403.100	speaker#4	female	native	事实上	4	97	355	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1403.100	1406.591	speaker#3	male	native	<foreign lang="English">(())</foreign>	4	98	356	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1406.591	1408.747	speaker#4	female	native	在零五年底的时候，	4	99	357	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1408.747	1410.559	speaker#3	male	native	<foreign lang="English">(())</foreign>	4	100	358	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1410.559	1416.029	speaker#4	female	native	伊拉克人都认为驻伊美军对伊拉克人的态度并不是很好，	4	101	359	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1416.029	1421.107	speaker#4	female	native	有的时候在侮辱他们，有的时候也会使用一些暴力。	4	101	360	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1421.107	1427.585	speaker#3	male	native	<foreign lang="English">(())</foreign>	4	102	361	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1427.585	1434.538	speaker#4	female	native	但是，在伊拉克的教派冲突开始之后，	4	103	362	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1434.538	1436.217	speaker#4	female	native	有一些人	4	103	363	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1436.217	1442.007	speaker#3	male	native	<foreign lang="English">(())</foreign>	4	104	364	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1442.007	1443.866	speaker#4	female	native	更加相信美军士兵，	4	105	365	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1443.866	1449.147	speaker#4	female	native	因为他们认为可以得到一些保护，不必卷入教派冲突。	4	105	366	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1449.147	1452.463	Sa_wen	male	native	<foreign lang="English">(())</foreign>	4	106	367	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1452.463	1457.291	speaker#4	female	native	大多数伊拉克人来说，是不是美军在保护他们呢？	4	107	368	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1457.291	1458.697	speaker#4	female	native	是不是有这种感觉呢？	4	107	369	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1458.697	1462.495	speaker#4	female	native	并不是所有的伊拉克人都这么想，	4	107	370	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1462.495	1466.417	speaker#4	female	native	我只说的是巴格达的情况，巴格达比较特殊。	4	107	371	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1466.417	1469.342	speaker#3	male	native	<foreign lang="English">(())</foreign>	4	108	372	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1469.342	1471.514	speaker#4	female	native	在巴格达以外的地区，	4	109	373	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1471.514	1478.389	speaker#4	female	native	可能有一些美军士兵不在的地方就无法得到保护。	4	109	374	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1478.389	1479.717	speaker#3	male	native	<foreign lang="English">(())</foreign>	4	110	375	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1479.717	1482.436	speaker#4	female	native	在伊拉克的情况非常的复杂，	4	111	376	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1482.436	1489.249	speaker#4	female	native	有一些教派的袭击，还有一些其他人发起的袭击。	4	111	377	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1489.249	1498.781	speaker#4	female	native	因此，美军所要面对的敌人不仅仅是教派的冲突当中的武装分子。	4	111	378	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1498.781	1502.937	Sa_wen	male	native	<foreign lang="English">(())</foreign>	4	112	379	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1502.937	1508.299	Sa_wen	male	native	那么事实上呢这个布什推出了这个叫新增兵两万多的计划之后，	4	112	380	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1508.299	1511.258	Sa_wen	male	native	现在我们看到了赖斯刚才也在促销这个计划，	4	112	381	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1511.258	1516.883	Sa_wen	male	native	然后国防部长又跑出来说，哎呀两万多可能还不够，还要增加到八万，九万，不断地增加下去。	4	112	382	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1516.883	1521.149	Sa_wen	male	native	但是，我们要怎么样说服布什怎么样去面对这些美国民众？	4	112	383	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1521.149	1524.946	Sa_wen	male	native	特别要面对的国会山庄上面的民主党派人士。	4	112	384	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1524.946	1528.493	Sa_wen	male	native	我们请教一下，呃很简短地请教一下朱所长。	4	112	385	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1528.493	1533.495	Sa_wen	male	native	您看，在这种情况之下，民主党派说 <foreign lang="English">(())</foreign> 这个议长已经说了。	4	112	386	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1533.495	1537.042	Sa_wen	male	native	她说，我们不会给布什一张空白的支票来解决这个问题。	4	112	387	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1537.042	1539.799	Sa_wen	male	native	那您看，在这场战争当中布什怎么面对呢？	4	112	388	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1540.518	1545.257	Zhu_weilie	male	native	民主党在十，十一呃十一月中上旬的这个选举中胜利以后，	4	113	390	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1545.257	1547.601	Zhu_weilie	male	native	现在显然是要给布什找一些麻烦，	4	113	391	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1547.601	1550.641	Zhu_weilie	male	native	但是如果民主党明白，如果美国现在撤出的话，	4	113	392	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1550.641	1555.516	Zhu_weilie	male	native	对美国是，美国的国家利益和国家形象的损失就实在太大了。	4	113	393	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1555.516	1562.281	Zhu_weilie	male	native	至少布什现在我，我也不认为他增，增兵就能够解决现在伊拉克的安全困局。	4	113	394	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1562.281	1565.812	Zhu_weilie	male	native	因为这是一个非常，非常大的一场后遗症。	4	113	395	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1565.812	1566.312	Sa_wen	male	native	嗯哼。	4	114	396	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1566.312	1569.969	Zhu_weilie	male	native	那么仅仅靠增兵来解决问题是不可能做到的，	4	115	397	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1569.969	1570.406	Sa_wen	male	native	嗯哼。	4	116	398	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1570.406	1574.843	Zhu_weilie	male	native	当然还需要有周边国家跟地区国家，呃跟国际社会的配合。	4	117	399	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1574.843	1580.561	Zhu_weilie	male	native	那么现在布什呢，实际上有些这个 <foreign lang="English">(())</foreign> 的建议他也没有采用。	4	117	400	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1580.561	1580.889	Sa_wen	male	native	嗯哼。	4	118	401	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1580.889	1583.123	Zhu_weilie	male	native	比如说要跟伊朗，跟	4	119	402	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1583.123	1584.295	Zhu_weilie	male	native	叙利亚对话，	4	120	403	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1583.123	1584.295	Sa_wen	male	native	叙利亚。	4	120	404	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1584.295	1584.623	Zhu_weilie	male	native	他是	4	120	405	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1584.295	1584.623	Sa_wen	male	native	嗯。	4	120	406	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1584.623	1585.826	Zhu_weilie	male	native	完全排斥的。	4	121	407	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1585.826	1590.357	Zhu_weilie	male	native	那么，但是赖斯会出访这个中东的六个国家，	4	121	408	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1590.357	1592.920	Zhu_weilie	male	native	来争取逊尼派国家的支持，	4	121	409	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1592.920	1593.544	Zhu_weilie	male	native	或者在	4	121	410	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1593.544	1594.248	Zhu_weilie	male	native	巴以问题上	4	122	411	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1593.544	1594.248	Sa_wen	male	native	嗯哼。	4	122	412	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1594.248	1595.185	Zhu_weilie	male	native	做一些姿态。	4	123	413	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1595.185	1595.529	Sa_wen	male	native	嗯哼。	4	124	414	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1595.529	1599.216	Zhu_weilie	male	native	那么这些行动都在开展，那么综，综合治理来讲，	4	125	415	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1599.216	1600.841	Zhu_weilie	male	native	外交手段也是非常重要的。	4	125	416	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1600.841	1601.278	Sa_wen	male	native	嗯哼。	4	126	417	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1601.278	1603.950	Zhu_weilie	male	native	那么就是对美国民主党而言，	4	127	418	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1603.950	1605.065	Zhu_weilie	male	native	现在不仅	4	127	419	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1605.065	1605.497	Zhu_weilie	male	native	仅是	4	128	420	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1605.065	1605.497	Sa_wen	male	native	嗯。	4	128	421	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1605.497	1606.575	Zhu_weilie	male	native	会产生	4	129	422	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1606.575	1607.045	Zhu_weilie	male	native	一些	4	130	423	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1606.575	1607.045	Sa_wen	male	native	嗯哼。	4	130	424	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1607.045	1608.453	Zhu_weilie	male	native	对布什造成一些障碍，	4	131	425	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1608.453	1610.782	Zhu_weilie	male	native	而且他们从内心世界是怀疑的。	4	131	426	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1610.782	1611.078	Sa_wen	male	native	嗯哼。	4	132	427	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1611.078	1615.540	Zhu_weilie	male	native	就是现在布什究竟能不能够通过增兵就能解决问题？	4	133	428	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1615.540	1616.025	Sa_wen	male	native	嗯哼。	4	134	429	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1616.025	1621.047	Zhu_weilie	male	native	当然这里面实际上还包含了零八年大选的党派利益的考虑。	4	135	430	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1621.047	1621.438	Sa_wen	male	native	嗯。	4	136	431	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1621.438	1622.063	Sa_wen	male	native	那么事实上，对，	4	136	432	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1622.063	1623.516	Zhu_weilie	male	native	要说(())也并不太容易。	4	137	433	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1623.516	1625.516	Sa_wen	male	native	是，现在除了是民主党派人士之外，	4	138	434	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1625.516	1629.298	Sa_wen	male	native	也有很多的共和党人也是加入到这反对增兵计划当中。	4	138	435	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1629.298	1631.735	Sa_wen	male	native	不过，布什他手中还有一个杀手锏，	4	138	436	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1631.735	1637.579	Sa_wen	male	native	那就是他随时还是可以 <foreign lang="English">(())</foreign> 否决国会这个一个呃拒绝他的一个方案，	4	138	437	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1637.579	1641.907	Sa_wen	male	native	那么当然很多人说可能就是布什最后的一个希望来了。	4	138	438	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1641.907	1644.485	Sa_wen	male	native	好，我们今天非常谢谢朱所长来自上海的连线。	4	138	439	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1644.485	1647.532	Sa_wen	male	native	以及是呃请到的嘉宾，同时感谢各位收看。	4	138	440	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1647.532	1648.204	Sa_wen	male	native	我们再会。	4	138	441	report	

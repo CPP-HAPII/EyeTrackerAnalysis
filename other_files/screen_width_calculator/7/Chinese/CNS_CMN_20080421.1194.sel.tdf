@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080421.1194	0	1800.0	1900.0	speaker	unknown	unknown	同时，他又是一个知识丰富、兴趣广泛的士官。	0	0	0		

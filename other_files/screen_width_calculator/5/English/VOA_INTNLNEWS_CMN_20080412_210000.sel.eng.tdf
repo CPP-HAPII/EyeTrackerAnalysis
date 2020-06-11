@@ -1,0 +1,36 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 241.51499999999999, 552.53899999999999, 9999999.0]
+VOA_INTNLNEWS_CMN_20080412_210000	0	241.515	247.437	Lin_Sen	male	native	Good evening, dear listeners and viewers. I'm Lin Sen. Welcome to April 12's Health Forum on VOA.	1	1	1	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	247.437	251.249	Lin_Sen	male	native	The specialist topic of this edition of the Health Forum is obesity and health.	1	1	2	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	251.249	255.157	Lin_Sen	male	native	First, Li Yifei will bring the international news for this hour. Yifei.	1	1	3	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	255.157	256.985	Li_Yi_Fei	female	native	Alright, thank you, Lin Sen.	1	2	4	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	256.985	266.042	Li_Yi_Fei	female	native	Taiwan's vice president-elect Vincent Siew met briefly today with Chinese President Hu Jintao while in China for a regional forum.	1	2	5	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	266.042	272.027	Li_Yi_Fei	female	native	The two had a 20-minute brief meeting while on Hainan island for the Boao +Forum for Asia.	1	2	6	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	285.606	294.059	Li_Yi_Fei	female	native	The meeting is considered the highest-level direct contact of Taiwan and Mainland China since they split over the civil war in 1949.	1	2	9	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	327.823	339.136	Li_Yi_Fei	female	native	US Secretary of State Rice and German Foreign Minister Steinmeier on Friday urged China to ease concerns of the international community over human rights in Tibet following recent riots there.	1	2	13	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	339.136	347.12	Li_Yi_Fei	female	native	Rice and Steinmeier suggest Beijing to allow more foreign reporters and diplomats into Tibetan-populated areas.	1	2	14	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	347.12	353.417	Li_Yi_Fei	female	native	They also encouraged China to hold dialogs with exiled Tibetan spiritual leader Dalai Lama and his representatives.	1	2	15	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	371.979	379.588	Li_Yi_Fei	female	native	At the meeting, he discussed together with scientists the importance of fostering children's compassion at an early stage of their development.	1	2	18	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	379.588	382.417	Li_Yi_Fei	female	native	Several thousand people attended the symposium.	1	2	19	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	382.417	390.261	Li_Yi_Fei	female	native	Organizers of the five-day symposium named Seeds of Compassion say that the gathering is a non-political event.	1	2	20	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	390.261	400.886	Li_Yi_Fei	female	native	Dalai Lama will depart Seattle on Tuesday for a conference at Michigan University, before attending an event at Colgate University in New York State.	1	2	21	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	400.886	409.511	Li_Yi_Fei	female	native	South African President Mbeki today met with President Mugabe in Zimbabwe's capital, Harare, to discuss the political crisis there.	1	2	22	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	409.511	418.933	Li_Yi_Fei	female	native	Following the meeting between Mbeki and Mugabe, the Southern African Development Community will call an urgent summit in Zambia to discuss the crisis in Zimbabwe.	1	2	23	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	418.933	430.136	Li_Yi_Fei	female	native	Last year, the 14-member Southern African Development Community appointed President Mbeki to mediate between Zimbabwean President Mugabe and its opposition leader.	1	2	24	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	430.136	436.839	Li_Yi_Fei	female	native	The Zimbabwe Electoral Commission is yet to release official results of the March 29 presidential election.	1	2	25	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	445.991	456.382	Li_Yi_Fei	female	native	The military says US and Iraqi troops there battled radicals who attacked them with rocket-propelled grenades, machine guns, rifles and roadside bombs.	1	2	27	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	456.382	465.273	Li_Yi_Fei	female	native	The coalition forces say they used an unmanned aircraft to launch a missile on the radicals and used tanks to fire against them.	1	2	28	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	469.772	473.928	Li_Yi_Fei	female	native	Military officials say there were no casualties among the Iraqi or US soldiers.	1	2	30	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	479.631	485.787	Li_Yi_Fei	female	native	Sadr City is an important stronghold of radical Shiite cleric Sadr's Mahdi Army,	1	2	32	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	485.787	490.584	Li_Yi_Fei	female	native	where coalition forces have been fighting insurgents for the last two weeks.	1	2	33	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	490.584	498.194	Li_Yi_Fei	female	native	As is shown by initial results of the Nepalese special Constituent Assembly election, former anti-government group Maoist holds the leading position.	1	2	34	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	498.194	502.054	Li_Yi_Fei	female	native	The special Constituent Assembly may rewrite the Nepalese Constitution.	1	2	35	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	502.054	510.008	Li_Yi_Fei	female	native	The Nepalese Election Commission says today that Maoist candidates won five seats of the special assembly in Thursday's election.	1	2	36	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	510.008	516.523	Li_Yi_Fei	female	native	As a result, Maoist is ahead of its main rivals the Nepal Communist Party and the Nepali Congress Party.	1	2	37	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	516.523	522.148	Li_Yi_Fei	female	native	Tallying the voting results for all 240 electoral districts is expected to take several weeks.	1	2	38	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	522.148	530.038	Li_Yi_Fei	female	native	Relevant officials say Maoist candidates lead in more than half of the 102 electoral districts where tally is underway.	1	2	39	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	530.038	535.836	Li_Yi_Fei	female	native	People had expected the Maoist candidates to excel in the voting of many rural areas.	1	2	40	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	535.836	541.07	Li_Yi_Fei	female	native	Now it seems that their election results are also better than expected in some urban electoral districts.	1	2	41	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	541.07	547.726	Li_Yi_Fei	female	native	This is the first time that Maoist candidates have ever challenged those established political parties in an election.	1	2	42	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	547.726	552.539	Li_Yi_Fei	female	native	That's all for VOA international news. Thank you for being with us.	1	2	43	report	statement

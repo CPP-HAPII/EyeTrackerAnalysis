@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080410.0749	0	200.0	300.0	speaker	unknown	unknown	新华社北京４月１０日奥运专电 一些西方媒体把北京奥运会和政治联系在一起向中国施压，国际奥委会主席罗格也承受着来自媒体的很大压力。	0	0	0		

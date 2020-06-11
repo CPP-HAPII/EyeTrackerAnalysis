@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080710.0510	0	1100.0	1200.0	speaker	unknown	unknown	我5月访问日本时，双方发表了中日第四个政治文件，规划了中日关系未来发展蓝图。	0	0	0		

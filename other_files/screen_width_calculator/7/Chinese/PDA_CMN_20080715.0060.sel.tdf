@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080715.0060	0	200.0	300.0	speaker	unknown	unknown	本报北京专电 昨天，2008北京奥运“中国故事”文化展云南组委会在京召开新闻通报会，宣布被誉为古茶第一镇的西双版纳勐腊县北部山区的易武古镇“茶山人家”将作为2008北京奥运“中国故事”文化展唯一茶文化参展项目，登上奥运“中国故事”文化殿堂。	0	0	0		
+PDA_CMN_20080715.0060	0	300.0	400.0	speaker	unknown	unknown	2008北京奥运“中国故事”文化展云南唯一的参展企业“中国故事”茶文化展项目承办者云南金天叶茶文化传播公司董事长曾丽云向媒体介绍了“茶山人家”的创作理念、设计思路和筹备工作情况。	0	0	0		

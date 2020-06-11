@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0053.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	中国首颗中继卫星发射后火箭残骸坠落贵州((图))	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 06:21 来源：CCTV.com 发表评论	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	900.000	950.000	TEXT1	unknown	unkown	4月25日23时35分，我国首颗数据中继卫星“天链一号01星”在西昌卫星发射中心成功发射。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	时隔8分钟，用于发射该卫星的运载火箭“长征三号丙”的一级助推器残骸坠落我省仁怀市九仓镇境内。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	火箭助推器残骸，火焰映红半边天	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	当晚11点35分，设在遵义市仁怀九仓中学的火箭助推器残骸搜救临时指挥所，所有指挥所人员都像群众一样撤离后，分散站在不同的方位，举目观看繁星点点的动静。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	三分钟后，天空中突然出现一道散状形的一束光亮，从头顶的一端滑向另一端。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	“就是它，就是它，天链一号卫星……”站在不同位置的指挥人员、以及分散在附近山坡的群众，不约而同的呼叫起来。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	二分钟后，光线滑向前方，散状形的光束随后消失，接着就是电灯光形的一颗亮光慢慢滑向山的另一边。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	“轰、轰”，伴随着两声巨响，以及映红半边天的火光，火箭助推器残骸着地。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	2750.000	2800.000	TEXT1	unknown	unkown	“残骸落地地点肯定不远，一定在九仓境内。”参加此次指挥行动的副指挥长、仁怀人武部长梁建林作出判断。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	3000.000	3050.000	TEXT1	unknown	unkown	“火箭助推器残骸着地时，声音非常大，燃烧的火光非常耀眼。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	3050.000	3100.000	TEXT1	unknown	unkown	不一阵就能闻到刺鼻的气味。”站在离残骸着地地点直径约200百米观察员王世华接受记者采访时说，火箭助推器残骸着地的时间，是23点43分。	0	0	0		statement
+CNS_CMN_20080427.0053.sgm	0	3300.000	3400.000	TEXT1	unknown	unkown	[1]	0	0	0		incomplete
+CNS_CMN_20080427.0053.sgm	0	3600.000	3700.000	TEXT1	unknown	unkown	[2]	0	0	0		incomplete
+CNS_CMN_20080427.0053.sgm	0	3900.000	4000.000	TEXT1	unknown	unkown	[下一页]	0	0	0		incomplete

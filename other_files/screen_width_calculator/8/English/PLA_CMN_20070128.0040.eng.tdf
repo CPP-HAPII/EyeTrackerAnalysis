@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070128.0040	0	10010.000	10019.900				Our Nation's First Living-Donor 'Intestinal Transplantation Patient' Weds Almost Eight Years after Surgery	0	0	0		
+PLA_CMN_20070128.0040	0	20010.000	20019.900				(Source: PLA Daily 4th edition, Dispatch time: January 28, 2007 06:39)	0	0	0		
+PLA_CMN_20070128.0040	0	30010.000	30019.900				Staff Reporter, Xi'an, January 27, Xu Feng, Wei Wen. A special wedding was solemnly held at the Xijing Hospital of the Fourth Military Medical University at noon today.	0	0	0		
+PLA_CMN_20070128.0040	0	30020.000	30029.900				The first living-donor intestinal transplantation patient in China Yang Feng ushered in happy moments of warmth and romance eight years after his surgery and walked into the wedding hall hand in hand with the bride in the blessings of the guests.	0	0	0		
+PLA_CMN_20070128.0040	0	40010.000	40019.900				The groom Yang Feng, 27, a native of Sanmenxia City, Henan Province, suffered from intestinal obstruction and intestinal necrosis at the age of 18 and was forced to remove his small intestine.	0	0	0		
+PLA_CMN_20070128.0040	0	40020.000	40029.900				After the surgery, Yang Feng's small intestine was less than one tenth of that of a normal person and had difficulty in supporting his life.	0	0	0		
+PLA_CMN_20070128.0040	0	50010.000	50019.900				In March 1999, Yang Feng was admitted to the Gastrointestinal Ward of the Xijing Hospital.	0	0	0		
+PLA_CMN_20070128.0040	0	50020.000	50029.900				At that time, he, who was 1.83 meters tall, only had 35 kilos of weight left and his life was in grave danger.	0	0	0		
+PLA_CMN_20070128.0040	0	50030.000	50039.900				In order to save Yang Feng's life, his father Yang Runsheng asked to donate his own intestine without regret.	0	0	0		
+PLA_CMN_20070128.0040	0	50040.000	50049.900				In order to ensure the success of the surgery, the Xijing Hospital set up a special small intestinal transplantation leading group and an advisory team of 15 experts. They consulted large volume of domestic and overseas materials to enact a careful surgery plan and conducted over 20 successive animal small intestinal transplantation experiments.	0	0	0		
+PLA_CMN_20070128.0040	0	50050.000	50059.900				On May 20 of that year, using the Gastrointestinal Ward as the hub, 23 departments, over 60 experts, professors, and medical staff of the Xijing Hospital coordinated closely to perform simultaneous surgeries on the patient and his father.	0	0	0		
+PLA_CMN_20070128.0040	0	50060.000	50069.900				They overcame various difficulties to first remove father Yang Runsheng's 150-cm-long ileum and joined it with Yang Feng's blood vessels and intestines by anastomosis after lavage. After 10 hours of hard work, our nation's first living-donor small intestinal transplantation surgery was successfully completed.	0	0	0		
+PLA_CMN_20070128.0040	0	60010.000	60019.900				The post-surgery strong rejection was the biggest challenge to the success of small intestinal transplantation.	0	0	0		
+PLA_CMN_20070128.0040	0	60020.000	60029.900				Under the meticulous treatment and care of the medical staff, Yang Feng's body recovered steadily. He weights 60 kilos now and becomes an independent out-patient of the Gastrointestinal Ward.	0	0	0		
+PLA_CMN_20070128.0040	0	60030.000	60039.900				Not only was he the first person to receive living-donor small intestinal transplantation in the country, he is also the longest surviving living-donor small intestinal transplantation patient in Asia.	0	0	0		

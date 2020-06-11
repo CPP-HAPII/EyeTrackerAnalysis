@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0206.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Ban Ki-moon Visits Burkina Faso to Discuss the Worsening Economic Situation and Other Issues	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	900.000	1100.000	TEXT1	unknown	unkown	On the 22nd in Ouagadougou, capital of Burkina Faso, UN Secretary-General Ban Ki-moon held discussions with Burkina Faso's President Compaore.	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	1100.000	1300.000	TEXT1	unknown	unkown	Ban Ki-moon praised Burkina Faso for the role it played in the Cote d'Ivoire peace process.	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	Ban Ki-moon said, "The role played by Burkina Faso and President Compaore in the process of Cote d'Ivoire moving out of crisis was decisive."	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	Speaking about the problem of Burkina Faso's worsening economic situation caused by the recent climb in world food prices, Ban Ki-moon said that this situation will directly affect the decades-long efforts by Burkina Faso and other developing nations to free their people from poverty.	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	Ban Ki-moon began a two-day official visit to Burkina Faso on the 22nd.	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	On the same day he also held conferences with Burkina Faso's Prime Minister Zongo and National Assembly Speaker Kabore.	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	Burkina Faso is Ban Ki-moon's third stop on this trip to Africa. Before this he visited Ghana and Liberia.	0	0	0		statement
+PDA_CMN_20080423.0206.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	He will also visit Cote d'Ivoire.	0	0	0		statement

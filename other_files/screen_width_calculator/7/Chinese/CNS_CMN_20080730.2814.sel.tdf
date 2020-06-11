@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.2814	0	0.0	100.0	speaker	unknown	unknown	业余拳联总管:英拳手普莱斯将在北京奥运会出彩	0	0	0		

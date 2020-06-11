@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0562	0	300.0	400.0	speaker	unknown	unknown	新出台的奖励标准规定：通过核查举报线索，山西省公安厅将根据查获非法炸药或雷管的重量及数量，给予2000元至3万元不等的奖励。	0	0	0		
+CNS_CMN_20080725.0562	0	600.0	700.0	speaker	unknown	unknown	全省公安、煤炭、安监、国土、国防工办等部门有关人员，包括煤矿安监员在民爆物品安全管理专项整治中主动工作，发现、查获重大非法生产、买卖、运输、储存、使用爆炸物品违法犯罪活动，并收缴非法炸药5吨或雷管5万枚以上的，奖励2万元；收缴非法炸药10吨或雷管10万枚以上的，奖励3万元；收缴非法炸药15吨或雷管15万枚以上的，奖励5万元；收缴非法炸药20吨或雷管20万枚以上的奖励8万元。	0	0	0		

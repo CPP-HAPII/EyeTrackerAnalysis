@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0205.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	300 HK Schools Shut Off Lights for 5 Minutes in Response to "World Earth Day" Appeal	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008.	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	According to a report by Xinhua News Agency (Reporter: Zhang Yashi) on April 22, 300 schools throughout Hong Kong simultaneously shut off their lights for five minutes on the 22nd in response to a "World Earth Day" appeal to protect the Earth.	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The activity's organizer, Green Sense Hong Kong, held a reading of an environmental declaration and a light-shutting ceremony on the morning of the 22nd in the auditorium of Hong Kong's S.K.H. Fung Kei Millennium Primary School.	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	Almost 15 thousand students and teachers in another 290 schools and day-care centers in Hong Kong carried out the ceremony at the same time.	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Green Sense held a light-shutting activity on March 13.	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	In total, 111 middle schools in Hong Kong as well as twelve schools in Macao and two schools in Shenzhen took part.	0	0	0		statement

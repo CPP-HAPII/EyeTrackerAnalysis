@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.3454	0	400.0	500.0	speaker	unknown	unknown	暗施外交部署 “11月前或动手”	0	0	0		
+CNS_CMN_20080710.3454	0	1100.0	1200.0	speaker	unknown	unknown	美国新保守主义鹰派人物博尔顿(John Bolton)曾预言，以色列将于布什任期最后数周内袭击伊朗。	0	0	0		
+CNS_CMN_20080710.3454	0	1200.0	1300.0	speaker	unknown	unknown	以色列前军事情报官员巴尔(Shmuel Bar)亦指， 美国11月大选前，会是袭击伊朗的时机，因为奥巴马甚有可能胜出，上台后会跟伊朗进行对话，结果只会令以色列攻击伊朗的机会变得渺茫。	0	0	0		

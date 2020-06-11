@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	上海“红色幼儿园”60华诞 曾庆红致信祝贺((图))	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 16:35 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网上海4月27日电 ((记者 许晓青))曾抚育中共领导人后代、有“红色幼儿园”之称的上海市立幼儿园今日迎来六十华诞。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	中国前国家副主席曾庆红以校友身份致信祝贺。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	前身为华东保育院的上海市立幼儿园创办于1948年，创办人是曾山夫人邓六金等女革命者。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	知情人士回忆，六十年前，华东保育院在炮火纷飞的山东战场秘密创办，以保护“红色之根”、革命后代为使命，1949年辗转南迁至上海。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	据介绍，曾山之子曾庆红、陈毅之子陈昊苏、粟裕之子粟戎生等均是这一幼儿园早期的小学员。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	今日，陈毅之子、中国对外友好协会会长陈昊苏等老校友重回母校，与小校友一同点亮“红色幼儿园”六十华诞的生日蜡烛。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	幼儿园的孩童还以手绘《我心中的奥运》长卷、创作并义卖环保工艺品等特殊方式，庆祝“红色幼儿园”六十大寿。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	据悉，1980年起，上海市立幼儿园正式归属上海市妇联，如今拥有数百名二岁至五岁的小学员。	0	0	0		statement
+CNS_CMN_20080427.0009.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	这一以寄宿制为主的幼儿园，也招收部分外籍孩童和港澳台人士子女。完	0	0	0		statement

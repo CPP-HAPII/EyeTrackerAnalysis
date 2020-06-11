@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080731.0148	0	1500.0	1600.0	speaker	unknown	unknown	因此，在建设资源节约型、低能耗、低排放型社会的同时，发展碳汇林业是增加我国应对气候变化能力的有效手段之一，应成为国家在“后京都议定”时代进行气候外交的有力支撑。	0	0	0		

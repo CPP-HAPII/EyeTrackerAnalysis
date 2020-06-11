@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76607-10088382	0	0.0	100.0	speaker	unknown	unknown	Yesterday in the center city	0	0	0		
+cmn-NG-4-76607-10088382	0	100.0	200.0	speaker	unknown	unknown	I was going to have dinner in a restaurant over there on the 2nd Street in the center city in the evening, having made an appointment with my friend at 6:00.	0	0	0		
+cmn-NG-4-76607-10088382	0	400.0	500.0	speaker	unknown	unknown	She said, yes, those are places of Mexico, and the United States should not have seized them.	0	0	0		
+cmn-NG-4-76607-10088382	0	700.0	800.0	speaker	unknown	unknown	Thinking of it today that that group of Tibet independence activists (about 20 people) followed me shouting "Dalai Liar," I still couldn't help laughing.	0	0	0		

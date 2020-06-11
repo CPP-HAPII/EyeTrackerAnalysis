@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-151188-10010393	0	300.0	400.0	speaker	unknown	unknown	但是，一旦管理电脑IP地址变更，例如，你的网络是动态IP地址，这时，管理电脑重起后，IP地址变了，那原来被管理的电脑就找不回来了，这样就失去了监控。	0	0	0		
+cmn-NG-31-151188-10010393	0	500.0	600.0	speaker	unknown	unknown	只需要将管理电脑IP地址设置为静态IP就可以。	0	0	0		
+cmn-NG-31-151188-10010393	0	600.0	700.0	speaker	unknown	unknown	假如网络路由器上的自动IP地址分配范围（动态IP）：192.168.0.100~192.168.0.150，则，需要设置管理电脑IP地址不在这个范围，例如：192.168.0.151，然后配置静态DNS即可。	0	0	0		
+cmn-NG-31-151188-10010393	0	700.0	800.0	speaker	unknown	unknown	只要设置为静态IP，管理电脑无论如何重起电脑都不影响对其它电脑的监控咯。	0	0	0		
+cmn-NG-31-151188-10010393	0	800.0	900.0	speaker	unknown	unknown	注意：被监控管理的电脑不需要设置静态IP，保持动态IP也照样被监控。	0	0	0		

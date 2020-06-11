@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080406.0027.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	鄱阳湖生态保护与资源利用项目在江西启动	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月06	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	投入１８００多万元人民币的国家科技支撑计划重点项目――鄱阳湖生态保护与资源利用项目日前在江西启动。	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	江西省山江湖开发治理委员会办公室介绍说，这是科技部对江西省科技投入最大的一次。	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	项目的推进将为保护鄱阳湖生态安全、促进环鄱阳湖区可持续发展提供科技支撑，同时也将为中国湖泊水环境保护与水生态安全提供借鉴。	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	据江西省山江湖委办负责人介绍，这个项目设有五个课题，包括水生态安全监测预警、水污染控制、水土流失治理、湿地生态修复重建、血吸虫病防控等内容。	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	预计项目完成后，可建成鄱阳湖水生态监测的相关数据库及监测和预警平台，使受损湿地基本恢复天然景观，沙化土地植被覆盖率达到８０％，示范乡血吸虫病达到传播控制标准，试点区经济效益提高１５％。	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	鄱阳湖是中国最大的淡水湖，江西省辖区面积的９７％都属鄱阳湖流域。	0	0	0		statement
+PDA_CMN_20080406.0027.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	近年来，随着江西加速工业化与城市化进程，工业与生活污水增加，水质安全面临严峻挑战，“治水”逐渐成为全省生态治理的重心。（记者郭远明　刘晨）	0	0	0		statement

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120278-9942075	0	600.0	700.0	speaker	unknown	unknown	* 致力于软件过程改进的工作,以及中国自由软件社区发展;关注社会化知识管理;喜爱SF和摄影; * 工作信仰: 过程改进乃是开始催生可促生靠谱的人的组织!	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-122296-9961464	0	100.0	200.0	speaker	unknown	unknown	春游小学生将公园草坪变成垃圾场(图) 2008-03-28 08:19:32 来源:新华社< http://www.xinhuanet.	0	0	0		
+cmn-NG-31-122296-9961464	0	200.0	300.0	speaker	unknown	unknown	com/home.htm >(北京)网友评论 285 条< http://comment.news.	0	0	0		
+cmn-NG-31-122296-9961464	0	800.0	900.0	speaker	unknown	unknown	新华社记者刘颖摄(本文来源：新华网< http://media.163.	0	0	0		
+cmn-NG-31-122296-9961464	0	1000.0	1100.0	speaker	unknown	unknown	com/ >【已有*285*位网友发表了看法，点击查看。	0	0	0		

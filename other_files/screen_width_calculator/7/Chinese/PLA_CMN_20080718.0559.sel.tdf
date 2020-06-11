@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080718.0559	0	300.0	400.0	speaker	unknown	unknown	政治部李干事以往训练手枪射击回回拿第一，可这回拿着某新型手持通信机却让他手忙脚乱，幸亏有自动化站孙技师帮助，才逐渐掌握了动作要领。	0	0	0		

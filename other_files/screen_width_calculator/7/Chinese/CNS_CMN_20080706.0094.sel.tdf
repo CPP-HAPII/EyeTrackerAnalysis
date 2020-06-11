@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080706.0094	0	500.0	600.0	speaker	unknown	unknown	报道称，B-52轰炸机群一共投掷了162枚智能水雷。	0	0	0		
+CNS_CMN_20080706.0094	0	600.0	700.0	speaker	unknown	unknown	这种代号MK-62的水雷在离开飞机后会打开自身携带的降落伞减速落到水面。	0	0	0		
+CNS_CMN_20080706.0094	0	800.0	900.0	speaker	unknown	unknown	MK-62水雷能够按照预先设定的程序，进行搜索目标并自主对发现的威胁目标发动攻击。	0	0	0		
+CNS_CMN_20080706.0094	0	1100.0	1200.0	speaker	unknown	unknown	MK-62水雷依靠自身携带的电池供电，可在水下持续待命数周。	0	0	0		
+CNS_CMN_20080706.0094	0	1200.0	1300.0	speaker	unknown	unknown	美军宣称，由于MK-62水雷采用被动探测方式，因此对手的舰艇和扫雷系统很难发现它们。	0	0	0		
+CNS_CMN_20080706.0094	0	1500.0	1600.0	speaker	unknown	unknown	二战后，美国依然持续优先发展战机布雷技术，除B-52外，美军B-2、B-1B轰炸机和F/A-18战斗机等不少战机都可以参与布雷行动。	0	0	0		

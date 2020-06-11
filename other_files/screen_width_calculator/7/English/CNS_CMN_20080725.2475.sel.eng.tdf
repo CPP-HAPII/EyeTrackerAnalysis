@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.2475	0	300.0	400.0	speaker	unknown	unknown	[China News Agency] Reporter: Li Zhuquan	0	0	0		
+CNS_CMN_20080725.2475	0	1600.0	1700.0	speaker	unknown	unknown	She said she followed the "Olympic Torch", first, for the sake of travelling around and, second, to stir up local people's enthusiasm for the Olympic Games and get them to cheer for the Games.	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080407.0117	0	1800.0	1900.0	speaker	unknown	unknown	Any position-related special favor?	0	0	0		
+PLA_CMN_20080407.0117	0	3600.0	3700.0	speaker	unknown	unknown	The findings of the question survey show that, of the more than 300 recruits in the new recruit brigade, 70.6% chose to be assigned to the "grassroots", 12% to "leading organs", 7.4% to the "toughest places" and 10% to the "place most suitable for me".	0	0	0		

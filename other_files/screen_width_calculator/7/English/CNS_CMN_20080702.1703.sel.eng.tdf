@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1703	0	200.0	300.0	speaker	unknown	unknown	China News Network wired on July 2: According to U.S. media reports, the golden partner of Tour of France champion, Armstrong, - famous cyclist Hincapie, was recently elected to the U.S. Olympic Cycling Team.	0	0	0		
+CNS_CMN_20080702.1703	0	500.0	600.0	speaker	unknown	unknown	However, Hincapie has his own record. He is the first American cyclist who took part in five Olympic Games.	0	0	0		
+CNS_CMN_20080702.1703	0	700.0	800.0	speaker	unknown	unknown	I never thought that I could take part in five Olympic Games.	0	0	0		

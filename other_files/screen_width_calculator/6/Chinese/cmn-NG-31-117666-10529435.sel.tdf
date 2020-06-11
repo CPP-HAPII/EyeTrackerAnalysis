@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117666-10529435	0	0.0	100.0	speaker	unknown	unknown	Intel上海OTC招聘实习生	0	0	0		
+cmn-NG-31-117666-10529435	0	100.0	200.0	speaker	unknown	unknown	Intel亚太研发有限公司下的开源技术中心（OTC，Open-source Technology Center）欲招聘若干实习生，参与虚拟技术软件开发，如XEN、KVM等虚拟机监管程序（Virtual Machine Monitor, VMM），该开发涉及到IA32、IA64架构和操作系统内核等。	0	0	0		
+cmn-NG-31-117666-10529435	0	300.0	400.0	speaker	unknown	unknown	职位要求如下：- 熟悉C，对汇编语言有一定了解，有Linux上一定的系统开发经验；- 对Linux（或Windows）内核和IA32架构有一定的了解；- 要求能实习至少一年，每周能工作三天以上；这一条必须满足；- 学习能力快，有团队合作精神。	0	0	0		
+cmn-NG-31-117666-10529435	0	400.0	500.0	speaker	unknown	unknown	如果您对此职位感兴趣，可将简历做成word文档或pdf文档，取文件名为您的姓名，以附件发送至：mei ... @intel.com，并请邮件标题注明“申请OTC实习生:VMM”。	0	0	0		
+cmn-NG-31-117666-10529435	0	500.0	600.0	speaker	unknown	unknown	本帖欢迎转载到其它高校BBS。	0	0	0		
+cmn-NG-31-117666-10529435	0	600.0	700.0	speaker	unknown	unknown	欢迎有兴趣的xdjm们来一起研究虚拟技术！	0	0	0		

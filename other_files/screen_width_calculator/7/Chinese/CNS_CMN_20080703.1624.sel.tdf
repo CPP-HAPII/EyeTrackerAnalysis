@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.1624	0	200.0	300.0	speaker	unknown	unknown	中新网7月3日电 中国国家应对气候变化领导小组办公室司长、发改委气候办主任苏伟3日表示，中国政府将本着对本国人民和世界人民负责任的精神，尽己所能，为应对气候变化作出积极的努力。	0	0	0		
+CNS_CMN_20080703.1624	0	700.0	800.0	speaker	unknown	unknown	他说，政府间气候变化专门委员会第四次评估报告表明，全球气候变化已经是一个不争的事实，给人类生存和发展环境带来了严重的影响，妥善应对气候变化任务是必需的。	0	0	0		

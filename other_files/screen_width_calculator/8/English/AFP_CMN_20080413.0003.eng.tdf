@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	UN Meets Next Week to Discuss Grain Harvests Hit by Biofuels	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	BRASILIA, 13th (AFP).	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	The United Nations Food and Agriculture Organization (FAO) will hold a Latin American conference next week in Brasilia, with one of the main topics of discussion being strategies to develop biofuels without sacrificing grain supply.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	FAO studies show that with both demand and price for grain rising sharply in developing countries, arable land is being transformed into highly-profitable biofuel terrain, and that interest in this is also rising steadily.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	Brazil has a leading role in the debate, because it is a major agricultural and biofuel exporting country.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	The FAO's representative for Latin America and the Caribbean, Graziano, is himself Brazilian.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	He said, even though "there is no absolute truth with respect to biofuels, they can still have a positive or negative influence on food security and the environment, depending on how they are developed."	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	Currently, he said, the grain industry "is facing speculative attack", because low stocks and demand have made the industry appear more fragile, and has also made grain more precious.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	Brazil and certain countries that benefit from exports have been making additional profits.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	But according to a report on biofuel production and food security that will be issued at the conference, FAO has found this situation very volatile.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	4200.000	4400.000	TEXT1	unknown	unkown	The report details opinions for and against the use of crops to make fuels, along with the scale of exchanges, the systems used and market structures for handling the products.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	4600.000	4900.000	TEXT1	unknown	unkown	But the report is not all negative. The report points out that, if appropriately applied, the biofuel plan would bring benefits to Latin America's family-run farms.	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	5100.000	5400.000	TEXT1	unknown	unkown	Brazilian President Lula denied the rise in food prices was linked to biofuels and urged "developed countries to take responsibility and lower agricultural subsidies distort developing countries."	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	5600.000	5800.000	TEXT1	unknown	unkown	The FAO conference will be attended by ministers and senior officials from 33 countries.	0	0	0		statement

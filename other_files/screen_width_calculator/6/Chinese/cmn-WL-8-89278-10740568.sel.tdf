@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10740568	0	100.0	200.0	speaker	unknown	unknown	07月31日13:53 重庆晚报 正文内容 begin内容模块：大图片 begin <div class="imgBig"> </div> 内容模块：大图片 end 内容模块：段落 begin引子 伊拉克体育没有因为战火而萧条甚至“变质”，奥林匹克精神不能拒绝所有人对奥运会的热爱。	0	0	0		
+cmn-WL-8-89278-10740568	0	2000.0	2100.0	speaker	unknown	unknown	重回奥运 比肩奇迹	0	0	0		
+cmn-WL-8-89278-10740568	0	2600.0	2700.0	speaker	unknown	unknown	记者 范天亮 巫天旭(本报北京专电)	0	0	0		
+cmn-WL-8-89278-10740568	0	3000.0	3100.0	speaker	unknown	unknown	7天前——连续痛哭几小时	0	0	0		
+cmn-WL-8-89278-10740568	0	4200.0	4300.0	speaker	unknown	unknown	“我现在全神贯注进行训练，好让自己忘却紧张。	0	0	0		
+cmn-WL-8-89278-10740568	0	4600.0	4700.0	speaker	unknown	unknown	“太高兴了！	0	0	0		
+cmn-WL-8-89278-10740568	0	4800.0	4900.0	speaker	unknown	unknown	“没想到这么快就能如愿，今天该好好庆贺一下！”笼罩在心头的阴云终于散去，伊斯梅尔心情大好，决定和使馆的同事好好吃饭庆贺一下，并安排接待伊拉克奥运代表团的下一步工作。	0	0	0		

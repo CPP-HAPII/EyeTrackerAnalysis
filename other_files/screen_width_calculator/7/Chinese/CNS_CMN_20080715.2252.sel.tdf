@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2252	0	800.0	900.0	speaker	unknown	unknown	谁跟不合理收费斗,无异于堂吉·诃德大战风车。	0	0	0		
+CNS_CMN_20080715.2252	0	1300.0	1400.0	speaker	unknown	unknown	挑战不合理收费最大的难题是其合法性外衣——有关方面均以“物价部门批准了”“国际惯例”“部门机密”等为自己开脱。	0	0	0		
+CNS_CMN_20080715.2252	0	1600.0	1700.0	speaker	unknown	unknown	我国《价格法》也规定,制订关系群众切身利益的公用事业价格、公益性服务价格、自然垄断经营的商品价格等政府指导价、政府定价,应当建立听证会制度。	0	0	0		

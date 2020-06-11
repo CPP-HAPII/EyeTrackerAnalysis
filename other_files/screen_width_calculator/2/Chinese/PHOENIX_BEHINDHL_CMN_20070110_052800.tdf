@@ -1,0 +1,733 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 112.054, 183.524, 361.98899999999998, 439.26400000000001, 1025.3499999999999, 1091.3989999999999, 1611.9849999999999, 1698.1120000000001, 1878.7090000000001, 9999999.0]
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	0.000	4.251	Liu_siqi	female	native	去的地方，通讯不方便，收不到他的信的话，	0	0	0	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	5.120	6.108	Liu_siqi	female	native	呃不要着急。	0	0	2	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	6.952	9.341	Chen_xiaonan	female	native	讲这些事儿的时候，他是一种什么样的状态？	0	1	4	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	10.090	13.982	Liu_siqi	female	native	他说这个很平淡的，很平淡地说出来的，	0	2	6	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	14.850	19.491	Liu_siqi	female	native	就是，你并不看不出来他有什么什么问题。	0	2	8	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	19.491	19.725	Chen_xiaonan	female	native	嗯。	0	3	9	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	20.240	23.801	Liu_siqi	female	native	最后，最后临走的时候他就讲，他说，	0	4	11	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	24.367	27.066	Liu_siqi	female	native	叫我对江青要多个心眼儿就是，	0	4	13	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	27.635	30.060	Liu_siqi	female	native	然后他看见我挺不理解的。	0	4	15	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	30.869	32.266	Liu_siqi	female	native	他就说，	0	4	17	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	32.766	35.332	Liu_siqi	female	native	他和江青有过矛盾，	0	4	19	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	35.332	41.648	Liu_siqi	female	native	曾经跟江青吵过架，他说江青，你要是不爱我爸爸的话，	0	4	20	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	42.456	43.504	Liu_siqi	female	native	你就走开。	0	4	22	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	44.941	47.323	Liu_siqi	female	native	我送他出去送到那个	0	4	24	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	47.852	51.899	Liu_siqi	female	native	呃病号的那个那个病房楼外面，就是到院子里了。	0	4	26	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	51.899	52.516	Chen_xiaonan	female	native	嗯。	0	5	27	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	52.516	58.921	Liu_siqi	female	native	在那楼门口他不让我走了，因为已经是，那已经是十月中旬了，比较冷了，	0	6	28	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	58.921	61.516	Liu_siqi	female	native	你们不要走了，他说，外面很冷。	0	6	29	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	63.013	66.335	Liu_siqi	female	native	他就和我再见他就走了，我就站在大门口，	0	6	31	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	66.335	68.922	Liu_siqi	female	native	他走了几步以后，就下了台阶以后，	0	6	32	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	69.422	72.688	Liu_siqi	female	native	他突然又转过头来就是给我鞠了一个躬，	0	6	34	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	72.688	74.568	Liu_siqi	female	native	很深很深的就是，	0	6	35	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	75.313	77.053	Liu_siqi	female	native	很深很深地鞠了一个躬，	0	6	37	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	77.801	80.034	Liu_siqi	female	native	然后站住看了看我，就	0	6	39	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	80.607	83.937	Liu_siqi	female	native	再转过身走，当时我就觉得很奇怪，	0	6	41	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	83.937	91.902	Liu_siqi	female	native	我说，因为以前他从出差呀什么的，他好象是他没有这样过，当时我就猜怎么回事，	0	6	42	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	92.496	93.519	Liu_siqi	female	native	(())	0	6	44	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	97.679	102.561	speaker#1	male	native	刚刚与毛岸英结婚一年，年仅十九岁的刘思奇不会想到，	0	7	46	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	103.077	105.705	speaker#1	male	native	毛岸英一去便再也没有回来，	0	7	48	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	106.633	112.054	speaker#1	male	native	生离死别的沉重一刻，就这样在刘思奇的生命中轻轻划过。	0	7	50	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	183.524	185.836	Chen_xiaonan	female	native	一九五零年的十一月二十五号，	2	9	52	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	185.836	189.992	Chen_xiaonan	female	native	志愿军总司令彭德怀从朝鲜给北京发去了一封电报，	2	9	53	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	189.992	192.200	Chen_xiaonan	female	native	报告了毛岸英牺牲的消息。	2	9	54	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	192.841	198.308	Chen_xiaonan	female	native	在当时这个消息没有马上汇报给毛泽东，直到一个月之后他才得知噩耗。	2	9	56	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	199.078	203.721	Chen_xiaonan	female	native	时任中央办公厅机要办公室主任的叶子龙这样回忆当时的情形。	2	9	58	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	204.311	210.128	Chen_xiaonan	female	native	他说毛泽东把那份简短的报告足足看了有三四分钟，他的头埋的很深，	2	9	60	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	210.817	215.302	Chen_xiaonan	female	native	而当他抬起头来，我看到他没有眼泪，也没有任何表情，	2	9	62	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	215.302	217.338	Chen_xiaonan	female	native	但是他的脸色非常难看，	2	9	63	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	218.053	222.638	Chen_xiaonan	female	native	后来他向我摆摆手说，战争嘛总会有牺牲，这也没什么。	2	9	65	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	223.714	229.258	Chen_xiaonan	female	native	其实在当时毛岸英牺牲的消息在很长一段时间里都被视为是高度机密，	2	9	67	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	229.258	233.992	Chen_xiaonan	female	native	只有毛泽东江青等少数几个人知道真实的情况，其他人都被蒙在鼓里，	2	9	68	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	234.592	238.336	Chen_xiaonan	female	native	而这其中，也包括他的新婚妻子刘思奇。	2	9	70	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	240.632	244.523	speaker#1	male	native	一九五二年夏天的一个下午，在中南海的院子里，	2	10	72	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	244.523	247.848	speaker#1	male	native	毛泽东给刘思奇讲了一段颇有寓意的话。	2	10	73	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	248.955	252.096	Liu_siqi	female	native	那可能就是五二年的夏天，跟我讲到，	2	11	75	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	252.728	254.974	Liu_siqi	female	native	家里的烈士，就数了	2	11	77	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	255.474	260.153	Liu_siqi	female	native	五个烈士，呃他讲了杨开慧在新疆怎么牺牲的，	2	11	79	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	260.153	265.975	Liu_siqi	female	native	讲到那个点是在新疆，被(())杀害的，他讲到这些	2	11	80	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	266.699	268.167	Liu_siqi	female	native	他是很动感情的，	2	11	82	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	268.680	271.468	Liu_siqi	female	native	但是当时我也没有跟毛岸英联起来。	2	11	84	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	272.368	277.316	Liu_siqi	female	native	就根本是理所当然的，确确实实干革命就会有牺牲。	2	11	86	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	278.811	283.902	speaker#1	male	native	一九五三年初，刘思奇拿到了摄影师候波送来的一张照片，	2	12	88	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	284.421	288.940	speaker#1	male	native	照片上，毛岸英头戴军帽，身穿人民志愿军军服。	2	12	90	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	288.940	294.930	Liu_siqi	female	native	我一看，哎我当时我心里就感觉咔噔了一下，说哎哟，说他是到朝鲜去了，	2	13	91	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	295.888	296.517	Liu_siqi	female	native	那么，	2	13	93	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	297.415	302.719	Liu_siqi	female	native	当时侯波同志给我这张照片的时候，江青的姐姐还在我旁边站着的，	2	13	95	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	303.378	306.017	Liu_siqi	female	native	江青的姐姐也不知道他到朝鲜去了，	2	13	97	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	306.592	312.375	Liu_siqi	female	native	所以江青姐姐看到那个张照片的时候，当时他就叫起来了，他说哎哟他是到那儿去了。	2	13	99	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	314.306	315.026	Chen_xiaonan	female	native	你心里是？	2	14	101	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	315.653	317.216	Liu_siqi	female	native	哎，就是那个时候我就，	2	15	103	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	317.750	319.061	Liu_siqi	female	native	从那以后我心里就，	2	15	105	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	319.637	320.674	Liu_siqi	female	native	就不踏实了。	2	15	107	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	322.296	326.359	speaker#1	male	native	一九五零年十一月二十五日，进驻朝鲜仅仅一个月，	2	16	109	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	326.359	329.004	speaker#1	male	native	毛岸英就牺牲在朝鲜战场上，	2	16	110	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	329.598	332.955	speaker#1	male	native	而刘思奇直到三年后，才得知这个真相。	2	16	112	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	334.033	336.325	Chen_xiaonan	female	native	因为毛岸英牺牲了以后谁也不知道，	2	17	114	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	337.373	338.404	Chen_xiaonan	female	native	到(())	2	17	116	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	339.107	339.844	Chen_xiaonan	female	native	还是一种	2	17	118	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	340.438	341.268	Chen_xiaonan	female	native	保密状态。	2	17	120	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	342.732	345.075	Chen_xiaonan	female	native	所以任何人都不知道我是一个	2	17	122	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	345.700	347.030	Chen_xiaonan	female	native	已经没有丈夫的人。	2	17	124	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	347.769	350.434	Chen_xiaonan	female	native	那你工作的当中你表现跟平常有什么不同？	2	18	126	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	350.434	351.218	Chen_xiaonan	female	native	还是表现很	2	19	127	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	350.434	351.218	Liu_siqi	female	native	(())	2	19	128	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	351.218	351.890	Chen_xiaonan	female	native	正常。	2	20	129	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	351.890	354.171	Liu_siqi	female	native	我也在跟呢主席一样，我也在演戏，	2	21	130	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	354.921	359.662	Liu_siqi	female	native	我就觉得能够一个人(())的地方去哭，	2	21	132	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	361.069	361.989	Liu_siqi	female	native	(())	2	21	134	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	439.264	441.155	Dou_wentao	male	native	锵锵三人行，大家好！	4	23	136	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	441.155	445.679	Dou_wentao	male	native	今天呢我跟许老师都算绿叶儿，啊为的就是这朵红花，	4	23	137	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	445.679	446.444	Dou_wentao	male	native	{laugh}	4	23	138	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	446.444	448.015	Dou_wentao	male	native	咱们于丹老师，	4	23	139	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	448.015	453.899	Dou_wentao	male	native	哎哟火呀，哎呀于丹老师，火到这个在百家讲坛讲讲这个座呀，	4	23	140	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	453.899	456.383	Dou_wentao	male	native	人都讲出电视学者的专业程度，	4	23	141	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	456.383	458.060	Dou_wentao	male	native	你知道她这花干什么的？	4	23	142	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	458.588	460.307	Dou_wentao	male	native	是为了隐藏话筒用的，	4	23	144	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	461.624	465.546	Dou_wentao	male	native	于老师一年前，我要不说这个三人行必有我师啊，	4	23	146	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	465.546	471.396	Dou_wentao	male	native	实际上他在是大家伙儿的老师之前啊，先是我们电视台的老师，	4	23	147	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	471.396	475.581	Dou_wentao	male	native	我们这个来北京开会，我还记得你这个慷慨陈词，	4	23	148	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	475.581	479.659	Dou_wentao	male	native	没想到后来这老师一上幕前啊，那比我们火得太多了，	4	23	149	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	479.659	481.346	Dou_wentao	male	native	我们哪赶得上，这个姜啊	4	23	150	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	482.315	483.437	Dou_wentao	male	native	还是老师的辣。	4	23	152	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	483.437	484.096	Yu_dan	female	native	老了是吧？	4	24	153	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	484.096	487.218	Dou_wentao	male	native	还还还是老师的辣，还是老师的辣。	4	25	154	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	484.096	487.218	Yu_dan	female	native	{laugh}	4	25	155	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	487.218	492.987	Dou_wentao	male	native	你觉得现在能火到什么程度，这书卖一百多万不说，就是你比如说我们有个同事去那个书店，	4	26	156	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	492.987	495.409	Dou_wentao	male	native	敛了点什么事儿，这书店呢人家就说，	4	26	157	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	495.409	498.706	Dou_wentao	male	native	哎呀我们没空我们没空，我们今天下午就办一件事儿，	4	26	158	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	498.706	501.347	Dou_wentao	male	native	知道谁要来吗？说于丹要来了。	4	26	159	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	501.347	505.965	Dou_wentao	male	native	就是火到这程度，你是看穿这衣服就表明你最近运气走火呀！	4	26	160	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	506.624	507.305	Yu_dan	female	native	最近啊？	4	27	162	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	506.624	507.305	Xu_zidong		native	嗯？	4	27	163	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	507.305	508.011	Dou_wentao	male	native	嗯。	4	28	164	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	508.011	510.246	Yu_dan	female	native	最近有点儿身不由己了，	4	29	165	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	510.246	513.825	Yu_dan	female	native	主要是我觉得离电视这个行当离专业已经太远了。	4	29	166	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	513.825	514.783	Dou_wentao	male	native	{laugh}	4	30	167	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	514.783	516.964	Yu_dan	female	native	最近正在寻思着要回归了。	4	31	168	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	516.964	520.801	Dou_wentao	male	native	人家都说易中天是学术超男嘛，说她是学术超女。	4	32	169	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	520.801	522.688	Yu_dan	female	native	你觉得这是好词儿吗？文涛？	4	33	170	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	522.688	525.652	Dou_wentao	male	native	我觉得你是个超级女性，还真的于老师，	4	34	171	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	525.652	529.576	Dou_wentao	male	native	她身上啊，有我所具有的，不是，有我所不具有的，	4	34	172	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	529.576	533.312	Dou_wentao	male	native	她身上我觉得有我对一般女人看法大变。	4	34	173	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	533.823	536.209	Dou_wentao	male	native	她，第一个啊，你，她有气，	4	34	175	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	536.803	537.558	Dou_wentao	male	native	的浩然之	4	34	177	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	537.558	537.798	Dou_wentao	male	native	气。	4	35	178	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	537.558	537.798	Xu_zidong		native	一	4	35	179	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	537.798	538.844	Xu_zidong		native	般女人都没气。	4	36	180	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	539.344	545.069	Dou_wentao	male	native	一般女人不会像她这样，你知道她一说出来这引经据典，这个唐诗宋词哇啦哇啦哇啦这这这，	4	37	182	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	545.069	547.229	Dou_wentao	male	native	一字都不差的呀，啊。	4	37	183	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	547.966	548.484	Dou_wentao	male	native	再有。	4	38	185	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	547.966	548.484	Yu_dan	female	native	你怎么	4	38	186	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	548.484	549.541	Yu_dan	female	native	知道不差啊？	4	39	187	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	550.070	550.739	Dou_wentao	male	native	啊，也有差的。	4	40	189	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	550.739	552.802	Yu_dan	female	native	有差的，你听不出来就是了。	4	41	190	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	552.802	553.503	Dou_wentao	male	native	(())	4	42	191	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	553.503	554.730	Dou_wentao	male	native	(())	4	43	192	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	553.503	554.730	Xu_zidong		native	(())	4	43	193	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	554.730	557.127	Xu_zidong		native	戏就是使得差的人家听不出来。	4	44	194	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	557.127	557.704	Yu_dan	female	native	哎。	4	45	195	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	557.127	557.704	Dou_wentao	male	native	嗯。	4	45	196	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	557.704	560.660	Yu_dan	female	native	许老师点评的比较到位，你稍微有点言过其	4	46	197	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	560.660	561.094	Yu_dan	female	native	实了。	4	47	198	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	560.660	561.094	Dou_wentao	male	native	是吗？	4	47	199	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	561.094	561.477	Yu_dan	female	native	嗯。	4	48	200	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	561.477	566.567	Dou_wentao	male	native	所以，今天为什么请于老师来讲这个啊，我真是想讲一讲咱们节目的宗旨，	4	49	201	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	566.567	570.693	Dou_wentao	male	native	就是学学论语呀，就是三言行必有我师焉。	4	49	202	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	570.693	571.537	Xu_zidong		native	三人行。	4	50	203	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	571.537	572.106	Yu_dan	female	native	{laugh}	4	51	204	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	572.106	575.208	Dou_wentao	male	native	仨人嘛，必有我师啊，你知道下边还有两句	4	52	205	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	575.208	575.952	Dou_wentao	male	native	什么啊？	4	53	206	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	575.208	575.952	Xu_zidong		native	对。	4	53	207	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	575.952	579.279	Dou_wentao	male	native	择其善者而从之，其不善者而改之。	4	54	208	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	579.279	583.642	Yu_dan	female	native	对，你基本上把我当成那个不善者，然而我把许老师当成善者。	4	55	209	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	583.642	584.113	Dou_wentao	male	native	哎哟，我	4	56	210	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	584.113	584.919	Dou_wentao	male	native	猜你就得这么	4	57	211	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	584.113	584.919	Yu_dan	female	native	你差的多了。	4	57	212	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	584.919	585.248	Dou_wentao	male	native	说。	4	58	213	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	585.248	587.075	Yu_dan	female	native	{laugh}	4	59	214	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	587.075	590.219	Xu_zidong		native	我们最近那个，我在呃香港中文大学开会，	4	60	215	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	590.219	590.754	Dou_wentao	male	native	嗯。	4	61	216	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	590.219	590.754	Xu_zidong		native	有一	4	61	217	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	590.754	596.926	Xu_zidong		native	帮顶尖学者，就是我们这个学科里面哈佛啊北大啊，就是就是这世界上最好的一批学者，	4	62	218	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	596.926	597.629	Xu_zidong		native	吃饭的时候，	4	62	219	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	598.195	600.100	Xu_zidong		native	无端端就讲起于丹来了，	4	62	221	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	600.100	600.591	Dou_wentao	male	native	没错，	4	63	222	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	600.591	601.581	Dou_wentao	male	native	(())	4	64	223	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	600.591	601.581	Xu_zidong		native	哎不知道怎么就讲起	4	64	224	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	601.581	602.544	Xu_zidong		native	于丹来了，然后呢，	4	65	225	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	603.081	605.581	Xu_zidong		native	这个我就呃这个告诉你实情哈。	4	65	227	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	605.581	605.987	Yu_dan	female	native	嗯。	4	66	228	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	605.987	607.253	Xu_zidong		native	一片嫉妒声音，	4	67	229	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	607.940	609.523	Xu_zidong		native	为什么呢？大家都在说，	4	67	231	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	610.383	613.924	Xu_zidong		native	结果这些顶尖学者每个人把自己的印数拿出来呀，	4	67	233	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	614.523	616.992	Xu_zidong		native	都不过是七千啦一万啦，	4	67	235	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	616.992	619.831	Xu_zidong		native	然后他们说(())那个八十年代访谈啊，	4	67	236	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	619.831	620.340	Dou_wentao	male	native	嗯。	4	68	237	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	620.340	623.293	Xu_zidong		native	书那么畅销，其实也就是三四万，	4	69	238	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	624.168	627.605	Xu_zidong		native	所以这一桌人加起来还不抵她一本书，	4	69	240	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	627.605	630.925	Xu_zidong		native	你想一群学者的这个这个	4	69	241	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	630.925	631.257	Xu_zidong		native	啊	4	70	242	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	630.925	631.257	Dou_wentao	male	native	要叫	4	70	243	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	631.257	631.943	Dou_wentao	male	native	我杀了她的	4	71	244	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	631.943	632.335	Dou_wentao	male	native	心都有。	4	72	245	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	631.943	632.335	Xu_zidong		native	哎	4	72	246	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	632.335	638.289	Xu_zidong		native	结果呢就，结果有一个学者呢就想出一个一句话，一下子平息了大家的愤怒，	4	73	247	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	638.289	638.925	Xu_zidong		native	就说	4	73	248	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	639.488	640.858	Xu_zidong		native	人家这是娱乐业，	4	73	250	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	641.557	644.461	Xu_zidong		native	咱这个是学术，意思是说一到娱乐业呢	4	73	252	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	644.461	644.761	Dou_wentao	male	native	嗯。	4	74	253	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	644.761	646.707	Xu_zidong		native	大家很多人心里就，就通了。	4	75	254	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	646.707	646.977	Dou_wentao	male	native	嗯。	4	76	255	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	646.977	648.465	Xu_zidong		native	职业我一个人心里还不通，	4	77	256	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	648.978	652.935	Xu_zidong		native	因为我也堕落娱乐界好几年了，销路还是七千呐，	4	77	258	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	652.935	655.959	Xu_zidong		native	哎，你这不是攻击我们凤凰卫视不如中央台吗？	4	78	259	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	652.935	655.959	Dou_wentao	male	native	{laugh}	4	78	260	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	655.959	657.007	Xu_zidong		native	{laugh}	4	78	261	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	655.959	657.007	Dou_wentao	male	native	{laugh}	4	78	262	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	657.007	659.441	Yu_dan	female	native	哎，其实呢徐老师说这个哈，	4	79	263	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	660.019	664.732	Yu_dan	female	native	我觉得是，是很自然的，就是为什么会有现在这个现象？	4	79	265	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	664.732	665.061	Dou_wentao	male	native	嗯。	4	80	266	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	665.061	666.199	Yu_dan	female	native	我想起一个故事来，	4	81	267	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	666.199	666.588	Dou_wentao	male	native	嗯。	4	82	268	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	666.588	666.978	Yu_dan	female	native	知道	4	83	269	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	667.665	669.732	Yu_dan	female	native	中国神医华佗你肯定知道，	4	83	271	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	669.732	670.211	Dou_wentao	male	native	啊，华佗。	4	84	272	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	670.211	671.079	Yu_dan	female	native	还有扁鹊，	4	85	273	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.079	671.379	Dou_wentao	male	native	对，	4	86	274	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.379	671.529	Yu_dan	female	native	对	4	87	275	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.529	671.780	Yu_dan	female	native	吧？	4	88	276	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.529	671.780	Dou_wentao	male	native	是。	4	88	277	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	672.649	673.188	Yu_dan	female	native	扁鹊，	4	89	279	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	674.026	676.032	Yu_dan	female	native	号称也是名动天下啊，	4	89	281	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	676.032	676.212	Dou_wentao	male	native	嗯。	4	90	282	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	676.212	677.711	Yu_dan	female	native	有一回魏文王找他，	4	91	283	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	677.711	677.949	Dou_wentao	male	native	嗯。	4	92	284	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	677.949	680.984	Yu_dan	female	native	问他说，我听说你们家哥仨都学医，	4	93	285	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	681.494	683.039	Yu_dan	female	native	说你那俩兄弟怎么样啊？	4	93	287	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	683.650	689.846	Yu_dan	female	native	然后他想都不想应声而答，说我们弟兄三个人里呀，以我大哥医术最高，	4	93	289	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	689.846	692.829	Yu_dan	female	native	我二哥其次，我医术最不怎么样。	4	93	290	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	692.829	693.440	Dou_wentao	male	native	嗯。	4	94	291	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	693.440	695.769	Yu_dan	female	native	而魏文王说，那他们俩为什么没你名气大呀？	4	95	292	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	696.403	696.844	Yu_dan	female	native	他说。	4	96	294	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	696.403	696.844	Xu_zidong		native	扁鹊	4	96	295	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	696.844	698.940	Xu_zidong		native	扁鹊上了百家讲坛了。	4	97	296	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	698.940	699.539	Yu_dan	female	native	哎。	4	98	297	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	699.539	699.960	Dou_wentao	male	native	扁鹊。	4	99	298	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	699.960	702.157	Yu_dan	female	native	扁鹊告诉魏文王啊	4	100	299	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	702.157	702.488	Yu_dan	female	native	呃跟	4	101	300	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	702.157	702.488	Dou_wentao	male	native	嗯。	4	101	301	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	702.488	703.655	Yu_dan	female	native	一个人儿悄悄说的，	4	102	302	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	703.655	704.104	Dou_wentao	male	native	嗯。	4	103	303	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	704.104	707.448	Yu_dan	female	native	他说我大哥呢是可以防患于未然，	4	104	304	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	707.448	710.101	Yu_dan	female	native	你没得病，一看你气色给你调好了。	4	104	305	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	710.101	710.686	Dou_wentao	male	native	噢。	4	105	306	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.195	711.733	Yu_dan	female	native	所以呢	4	106	308	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.733	711.979	Yu_dan	female	native	他	4	107	309	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.733	711.979	Xu_zidong		native	地	4	107	310	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.979	712.441	Xu_zidong		native	方医学。	4	108	311	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	712.441	715.435	Yu_dan	female	native	被人认为不会治病，一点儿名气没有。	4	109	312	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	715.435	715.733	Dou_wentao	male	native	嗯。	4	110	313	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	715.733	718.530	Yu_dan	female	native	他说我二哥，属于会治小病，	4	111	314	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	718.530	721.422	Yu_dan	female	native	就是病初起之时拿药给你控制了，	4	111	315	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	721.422	723.713	Yu_dan	female	native	你还没到非典呢，刚开始咳嗽感冒	4	111	316	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	723.713	724.258	Yu_dan	female	native	就好了。	4	112	317	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	723.713	724.258	Dou_wentao	male	native	扼杀	4	112	318	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	724.258	724.863	Dou_wentao	male	native	在萌芽状态。	4	113	319	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	724.863	730.096	Yu_dan	female	native	对，所以他说他呢被人认为呢治那种很轻的病，所以名止于乡里。	4	114	320	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	730.096	730.711	Dou_wentao	male	native	嗯。	4	115	321	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	730.711	733.023	Yu_dan	female	native	他说我呢最没出息，	4	116	322	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	733.023	739.458	Yu_dan	female	native	我只能让这一个人病入膏肓，奄奄一息，然后我下虎狼之药起死回生，	4	116	323	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	739.458	742.193	Yu_dan	female	native	所以天底下认为我是神医。	4	116	324	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	742.193	746.584	Yu_dan	female	native	但，但是想想呢，说像我大哥那么治病呢，这人元气丝毫不伤。	4	116	325	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	746.584	747.127	Dou_wentao	male	native	嗯。	4	117	326	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	746.584	747.127	Yu_dan	female	native	像我	4	117	327	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	747.127	750.038	Yu_dan	female	native	二哥呢，就元气稍一破损就找补回来了，	4	118	328	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	750.038	754.179	Yu_dan	female	native	他说像我这样吧，命捞回来了你这元气就大伤过半。	4	118	329	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	754.790	759.017	Dou_wentao	male	native	这就是扁鹊多会说话呀，就每个人在世界上啊都有他的作用，	4	119	331	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	759.017	761.138	Dou_wentao	male	native	我跟你说许老师你说的这种现象，	4	119	332	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	761.138	764.236	Dou_wentao	male	native	我不见得就想起前一阵说那德国汉学家那个顾彬，	4	119	333	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	764.236	764.556	Xu_zidong		native	对呀。	4	120	334	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	764.556	768.341	Dou_wentao	male	native	虽然是说他说过头话，但是呢也是有感而发，	4	121	335	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	768.341	772.186	Dou_wentao	male	native	说你们中国知识分子，我，我当然不是，说你们中国知识分子，	4	121	336	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	772.186	773.574	Xu_zidong		native	不不不，中国作家。	4	122	337	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	773.574	775.319	Dou_wentao	male	native	噢，作家，又	4	123	338	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	773.574	775.319	Xu_zidong		native	中国作家。他指的也是	4	123	339	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	775.319	779.701	Dou_wentao	male	native	胆儿小又互相瞧不起对方，互相蔑视对方，	4	124	340	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	779.701	780.060	Xu_zidong		native	对。	4	125	341	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	780.060	782.971	Dou_wentao	male	native	所以说我为什么讲啊，我跟你说最近有个事儿，	4	126	342	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	782.971	785.988	Dou_wentao	male	native	也有一个上，上电视的学者，李敖。	4	126	343	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	785.988	786.378	Yu_dan	female	native	嗯。	4	127	344	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	786.378	789.462	Dou_wentao	male	native	李敖有话说嘛就不做了，最后我听他	4	128	345	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	789.462	789.778	Dou_wentao	male	native	最后，	4	129	346	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	789.462	789.778	Xu_zidong		native	李敖	4	129	347	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	789.778	790.497	Xu_zidong		native	现在不做啦？	4	130	348	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	790.497	791.335	Dou_wentao	male	native	不做了，最最	4	131	349	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	791.335	791.850	Dou_wentao	male	native	最后说。	4	132	350	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	791.335	791.850	Yu_dan	female	native	他是不是没	4	132	351	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	791.850	792.416	Yu_dan	female	native	话说了吧？	4	133	352	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	792.416	797.825	Dou_wentao	male	native	呃呃也有可能，见好儿就收是吧，呃给大家说再见，	4	134	353	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	798.325	799.515	Dou_wentao	male	native	但是你知道我呀，	4	134	355	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	799.515	799.849	Yu_dan	female	native	嗯。	4	135	356	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	799.849	804.856	Dou_wentao	male	native	我就在凤凰宽频上看他这个东西哈，我看他说完之后，我就跟他说，	4	136	357	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	804.856	810.372	Dou_wentao	male	native	我说老师啊老师啊，我就想起当时啊这个董其昌啊在黄公望的这个画里，	4	136	358	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	811.270	813.605	Dou_wentao	male	native	写就吾师乎吾师乎，	4	136	360	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	813.605	813.785	Yu_dan	female	native	嗯。	4	137	361	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	813.785	818.206	Dou_wentao	male	native	我的老师啊，我的老师啊，我跟你说为什么，我并不是他的信徒，	4	138	362	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	818.206	822.378	Dou_wentao	male	native	甚至我不见得同意他的很多观点，但是他是我看的，	4	138	363	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	823.336	824.794	Dou_wentao	male	native	最多的电视节目，	4	138	365	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	824.794	825.115	Yu_dan	female	native	嗯。	4	139	366	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	824.794	825.115	Dou_wentao	male	native	比	4	139	367	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	825.115	826.808	Dou_wentao	male	native	看我的节目都多。	4	140	368	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	826.808	831.355	Dou_wentao	male	native	这说明我对，你看电视对我来说不是个娱乐工具，不是个消遣的，	4	140	369	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	831.355	834.407	Dou_wentao	male	native	看就像百家讲坛啦，它对我是个教育工具，	4	140	370	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	834.926	836.839	Dou_wentao	male	native	我是就跟上课似的。	4	140	372	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	836.839	841.038	Dou_wentao	male	native	我为什么这么说，我知道很多人讨厌他，很多人不喜欢他，	4	140	373	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	841.038	842.772	Dou_wentao	male	native	但是我就说呀这个这个，	4	140	374	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	843.273	846.055	Dou_wentao	male	native	那都是瞎耽误工夫，跟，跟我没关系，	4	140	376	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	846.055	849.141	Dou_wentao	male	native	因为对我来说，一个七十岁的老人，	4	140	377	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	850.099	855.160	Dou_wentao	male	native	呃曾经沧桑离乱，对吧，写了一百本书，被查禁九十六本。	4	140	379	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	855.160	855.549	Yu_dan	female	native	对。	4	141	380	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	855.549	856.415	Dou_wentao	male	native	还坐过牢，	4	142	381	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	856.986	860.759	Dou_wentao	male	native	咱还说句流氓话，这(())也(())得不错，找的姑娘也漂亮，	4	142	383	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	861.364	862.824	Dou_wentao	male	native	怎么这个这样一个人，	4	142	385	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	863.420	866.978	Dou_wentao	male	native	他说一些他的体会，总是对我有教育。	4	142	387	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	867.795	870.076	Dou_wentao	male	native	你，你不同意的可以不同意啊，	4	142	389	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	870.076	873.728	Dou_wentao	male	native	然后或者有人说他罗嗦他七十岁他罗嗦啊，或者他怎么着，	4	142	390	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	874.238	876.558	Dou_wentao	male	native	但是，择其善者而从之嘛。	4	142	392	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	876.558	876.766	Yu_dan	female	native	对。	4	143	393	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	876.766	877.197	Xu_zidong		native	对。	4	144	394	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	877.197	879.291	Dou_wentao	male	native	对吗？而且我现在觉得啊，	4	145	395	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	879.291	881.150	Dou_wentao	male	native	你都有时候你都想不到，	4	145	396	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	881.150	884.592	Dou_wentao	male	native	你跟一个老师，你跟他学的东西是他想不到的。	4	145	397	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	884.592	885.191	Yu_dan	female	native	对。	4	146	398	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	885.191	885.836	Dou_wentao	male	native	比方说	4	147	399	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	886.367	887.346	Dou_wentao	male	native	李敖，我跟你讲，	4	147	401	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	887.851	890.082	Dou_wentao	male	native	他创了一种电视节目的体儿，	4	147	403	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	890.082	890.412	Yu_dan	female	native	嗯。	4	148	404	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	890.412	894.672	Dou_wentao	male	native	现在你们这电视学者不都说吗？说中国原创的电视节目没一个火的，	4	149	405	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	895.172	898.257	Dou_wentao	male	native	但是李敖这种体儿就组织多种材料，	4	149	407	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	898.946	902.718	Dou_wentao	male	native	呃准直播的状态，自己一人儿对着镜头没有现场观众，	4	149	409	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	902.718	905.059	Dou_wentao	male	native	还性情必现，有声有色，	4	149	410	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	905.569	907.928	Dou_wentao	male	native	我跟你讲我们主持人都做不到的。	4	149	412	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	908.856	911.640	Dou_wentao	male	native	达不到这个这个，这大概只有于丹老师行。	4	149	414	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	911.640	912.235	Yu_dan	female	native	没有。	4	150	415	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	911.640	912.235	Xu_zidong		native	{laugh}	4	150	416	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	912.235	914.305	Xu_zidong		native	不，你那个下面还是有听众的嘛。	4	151	417	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	914.305	918.565	Yu_dan	female	native	有听众，其实我觉得文涛说的李敖老师就这个现象啊，	4	152	418	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	918.565	918.886	Dou_wentao	male	native	嗯。	4	153	419	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	918.886	922.182	Yu_dan	female	native	就跟你刚才说的那个气呀，挺有关系的。	4	154	420	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	922.182	922.749	Dou_wentao	male	native	啊？	4	155	421	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	922.749	926.486	Yu_dan	female	native	其实呢，我，我们传播学上还真有一个统计，	4	156	422	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	926.486	930.845	Yu_dan	female	native	说人呢用语言能传递的语言信息就占百分之三十八，	4	156	423	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	930.845	935.529	Yu_dan	female	native	剩下的那百分之六十二叫副语言系统，就是一个人的气场，	4	156	424	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	935.529	937.627	Yu_dan	female	native	就是你的手势啊姿态啊，	4	157	425	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	935.529	937.627	Xu_zidong		native	我就觉得你气足，姿	4	157	426	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	937.627	940.781	Xu_zidong		native	态呀，说话的呃呃。	4	158	427	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	940.781	943.403	Yu_dan	female	native	是吧？其实李敖老师哈你就觉得这个人	4	159	428	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	943.932	945.961	Yu_dan	female	native	身上首先有才气，	4	159	430	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	945.961	946.350	Dou_wentao	male	native	嗯。	4	160	431	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	946.350	947.395	Yu_dan	female	native	才气逼人，	4	161	432	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	947.913	948.414	Yu_dan	female	native	第二呢	4	161	434	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	948.942	953.154	Yu_dan	female	native	他有真气，就是你觉得他真气浩荡，这人说的都是真话，	4	161	436	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	953.708	957.005	Yu_dan	female	native	另外呢李敖老师还有那么一两分邪气，	4	161	438	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	957.005	957.608	Dou_wentao	male	native	邪气。	4	162	439	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	957.608	960.797	Yu_dan	female	native	哎，这也是一般的上电视说话的人身上没有	4	163	440	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	960.797	961.043	Yu_dan	female	native	的。	4	164	441	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	960.797	961.043	Dou_wentao	male	native	你	4	164	442	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	961.043	961.637	Dou_wentao	male	native	讲这个我	4	165	443	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	961.637	962.060	Dou_wentao	male	native	特别	4	166	444	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	961.637	962.060	Xu_zidong		native	一来	4	166	445	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	962.060	962.398	Xu_zidong		native	就来个	4	167	446	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	962.398	963.985	Xu_zidong		native	(()){laugh}	4	168	447	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	962.398	963.985	Dou_wentao	male	native	我跟你说，你	4	168	448	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	963.985	966.392	Dou_wentao	male	native	他讲这个啊，我特别有感受，我跟你讲，	4	169	449	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	966.939	970.203	Dou_wentao	male	native	我在近几年来，我有两个老师，	4	169	451	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	970.203	970.813	Dou_wentao	male	native	虽然	4	170	452	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	970.203	970.813	Yu_dan	female	native	嗯。	4	170	453	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	970.813	974.374	Dou_wentao	male	native	他们不知道有我这么个人，就是还有一个是个和尚，	4	171	454	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	974.919	975.871	Dou_wentao	male	native	净空法师。	4	171	456	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	975.871	976.440	Yu_dan	female	native	嗯。	4	172	457	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	976.440	977.545	Dou_wentao	male	native	他出那个 <foreign lang="English"> VCD </foreign>	4	173	458	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	977.545	978.503	Xu_zidong		native	哎哟，你老看。	4	174	459	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	978.503	980.253	Dou_wentao	male	native	这算老师嘛，就算你不是得，得，	4	175	460	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	980.253	984.144	Dou_wentao	male	native	但是你看我仍然我不是个佛教徒，我不是佛教徒，我不是信徒，	4	175	461	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	984.144	986.019	Dou_wentao	male	native	我跟你讲至少一点，	4	175	462	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	986.707	987.097	Dou_wentao	male	native	他，	4	175	464	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	987.875	992.038	Dou_wentao	male	native	他有一种中国古代和尚讲经的传统，你知道怎么讲吗？	4	175	466	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	992.038	993.868	Dou_wentao	male	native	没有稿子的，没有稿子，	4	175	467	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	993.868	996.594	Dou_wentao	male	native	照他的理论就是说佛菩萨保佑，	4	175	468	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	996.594	996.953	Yu_dan	female	native	嗯。	4	176	469	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	996.953	1000.407	Dou_wentao	male	native	我在这儿就对着镜头，哇就这么讲这么讲这么讲，	4	177	470	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1000.407	1005.809	Dou_wentao	male	native	讲的他提到一个词，佛教里讲经就类似于你说叫什么呢？叫摄受力。	4	177	471	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1006.327	1006.498	Yu_dan	female	native	对。	4	178	473	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1006.498	1010.959	Dou_wentao	male	native	讲的好的人就摄住，我把你全场观众，有时候咱听领导人讲话就会感觉，	4	179	474	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1010.959	1013.194	Dou_wentao	male	native	一个人咱叫气场啊还是	4	179	475	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1013.194	1013.803	Dou_wentao	male	native	磁场，	4	180	476	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1013.194	1013.803	Yu_dan	female	native	嗯。	4	180	477	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1013.803	1014.892	Dou_wentao	male	native	能摄住你，	4	181	478	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1015.570	1017.516	Dou_wentao	male	native	你像毛主席在天安门城楼上，	4	181	480	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1017.516	1018.272	Yu_dan	female	native	一挥手。	4	182	481	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1018.272	1019.678	Dou_wentao	male	native	一挥手，	4	183	482	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1019.678	1020.538	Dou_wentao	male	native	{laugh}	4	183	483	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1020.538	1023.025	Dou_wentao	male	native	这话不能多说，咱们去一下广告。	4	183	484	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1023.025	1024.243	Dou_wentao	male	native	锵锵三人行，	4	183	485	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1024.243	1024.706	Dou_wentao	male	native	广告	4	184	486	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1024.243	1024.706	Xu_zidong		native	呃？	4	184	487	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1024.706	1025.350	Dou_wentao	male	native	之后见。	4	185	488	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1091.399	1094.042	Dou_wentao	male	native	好，于老师好象是对和尚也很感兴趣？	6	187	490	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1094.042	1094.848	Yu_dan	female	native	对	6	188	491	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1094.848	1095.814	Yu_dan	female	native	和尚感兴趣。	6	189	492	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1094.848	1095.814	Dou_wentao	male	native	不是，他说我们	6	189	493	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1095.814	1099.077	Dou_wentao	male	native	参加三人行节目录完了，她可以拿去做征婚广告。	6	190	494	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1099.077	1100.664	Xu_zidong		native	{laugh}	6	191	495	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1100.664	1102.027	Yu_dan	female	native	不面向和尚啊。	6	192	496	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1102.027	1103.568	Xu_zidong		native	噢不面向和尚。	6	193	497	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1102.027	1103.568	Yu_dan	female	native	{laugh}	6	193	498	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1103.568	1106.729	Yu_dan	female	native	对不能这个，你看这个就是媒体比较恶劣	6	194	499	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1106.729	1107.332	Yu_dan	female	native	的就是这样	6	195	500	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1106.729	1107.332	Xu_zidong		native	嗯。	6	195	501	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1107.332	1108.089	Yu_dan	female	native	任意组	6	196	502	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.089	1108.417	Yu_dan	female	native	接	6	197	503	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.089	1108.417	Dou_wentao	male	native	给你	6	197	504	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.417	1108.928	Dou_wentao	male	native	挖坑，给	6	198	505	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.928	1109.736	Dou_wentao	male	native	你挖坑。	6	199	506	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.928	1109.736	Yu_dan	female	native	(())	6	199	507	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1109.736	1110.834	Dou_wentao	male	native	好，你到底想说什么？	6	200	508	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1110.834	1112.162	Yu_dan	female	native	呃其实你说这个，	6	201	509	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1113.449	1114.856	Yu_dan	female	native	这个讲经啊	6	201	511	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1114.856	1115.186	Yu_dan	female	native	讲	6	202	512	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1114.856	1115.186	Dou_wentao	male	native	嗯。	6	202	513	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1115.186	1119.677	Yu_dan	female	native	经是什么感觉呀？其实什么叫佛祖拈花，迦叶微笑，	6	203	514	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1119.677	1120.096	Dou_wentao	male	native	嗯。	6	204	515	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1120.096	1123.509	Yu_dan	female	native	实际上行不言之教，就是它就是个物，	6	205	516	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1124.108	1129.951	Yu_dan	female	native	所以其实呢这个真正佛家的那个谒语呀，就给你一句话你自己去体会去吧，	6	205	518	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1129.951	1130.610	Dou_wentao	male	native	嗯嗯嗯。	6	206	519	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1130.610	1134.513	Yu_dan	female	native	所以什么叫千江有水千江月，万里无云万里天，	6	207	520	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1134.513	1135.158	Yu_dan	female	native	就是你	6	207	521	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1135.158	1135.969	Yu_dan	female	native	心中有	6	208	522	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1135.158	1135.969	Dou_wentao	male	native	好家伙。	6	208	523	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1135.969	1139.357	Yu_dan	female	native	牵挂，你的心就像是千江水，	6	209	524	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1139.357	1142.576	Yu_dan	female	native	到处随着月色你心中都有这件事儿映出来，	6	209	525	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1142.576	1143.189	Dou_wentao	male	native	嗯嗯。	6	210	526	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1142.576	1143.189	Yu_dan	female	native	但是你	6	210	527	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1143.189	1145.720	Yu_dan	female	native	心中无牵挂，你就是万里天，	6	211	528	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1145.720	1148.610	Yu_dan	female	native	你就浩浩荡荡的一丝云彩都没有，	6	211	529	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1148.610	1153.520	Yu_dan	female	native	所以能不能够懂，就是捻花微笑之间的一点感悟，也就是	6	211	530	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.520	1153.820	Yu_dan	female	native	说	6	212	531	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.520	1153.820	Dou_wentao	male	native	教	6	212	532	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.820	1153.981	Dou_wentao	male	native	主	6	213	533	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.981	1154.358	Dou_wentao	male	native	啊	6	214	534	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.981	1154.358	Yu_dan	female	native	讲	6	214	535	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1154.358	1154.897	Dou_wentao	male	native	经啊	6	214	536	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1154.358	1154.897	Yu_dan	female	native	我可	6	214	537	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1154.897	1155.705	Dou_wentao	male	native	找到你了。	6	215	538	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1155.705	1156.634	Yu_dan	female	native	讲经啊，	6	216	539	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1156.634	1156.953	Dou_wentao	male	native	哎。	6	217	540	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1156.953	1161.057	Yu_dan	female	native	我跟你说啊，一定不是从外在灌输的，是从心里唤醒的，	6	218	541	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1161.057	1162.877	Yu_dan	female	native	所以你说佛家这个词觉悟哈，	6	218	542	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1163.401	1168.568	Yu_dan	female	native	学字头看见的见，竖心吾，觉悟就是见我心，	6	218	544	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1169.126	1171.994	Yu_dan	female	native	自己先得明白了，绝不是外面讲的。	6	218	546	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1171.994	1176.545	Dou_wentao	male	native	我也就说不容易的，你为什么我就说李敖，你别的学者没试过，	6	219	547	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1176.545	1178.581	Dou_wentao	male	native	就是说，许老师有体会。	6	219	548	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1178.581	1178.970	Yu_dan	female	native	嗯。	6	220	549	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1178.970	1183.791	Dou_wentao	male	native	有现场观众和没有现场观众，你哪怕你找郭德钢来俩说相声的，	6	221	550	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1183.791	1184.001	Yu_dan	female	native	嗯。	6	222	551	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1184.001	1186.187	Dou_wentao	male	native	没有现场观众，就对一摄像机你们俩说吧，	6	223	552	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1186.726	1188.867	Dou_wentao	male	native	你不知道他的反应，你气场不接	6	223	554	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1188.867	1189.181	Dou_wentao	male	native	通啊。	6	224	555	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1188.867	1189.181	Xu_zidong		native	所以，	6	224	556	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1189.181	1192.025	Xu_zidong		native	所以那文道叫我带他的网络天下，我最不愿意的。	6	225	557	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1192.025	1192.325	Dou_wentao	male	native	嗯。	6	226	558	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1192.325	1194.182	Xu_zidong		native	就是我对着个镜头就没法说话，	6	227	559	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1195.020	1198.345	Xu_zidong		native	你有，你讲课学生在下面，这非常重要，	6	227	561	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1198.345	1200.891	Xu_zidong		native	可是像李敖这样，就是镜头是吧？	6	227	562	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1200.891	1202.297	Xu_zidong		native	下面没人，是不是？	6	228	563	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1200.891	1202.297	Dou_wentao	male	native	就是镜头。没有没有	6	228	564	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1202.297	1202.718	Dou_wentao	male	native	就这样	6	229	565	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1202.297	1202.718	Yu_dan	female	native	哎呀	6	229	566	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1202.718	1203.047	Yu_dan	female	native	我能	6	230	567	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1203.047	1203.946	Yu_dan	female	native	体会。	6	231	568	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1203.047	1203.946	Xu_zidong		native	对，对。	6	231	569	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1203.946	1205.293	Yu_dan	female	native	我对着镜头，	6	232	570	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1205.293	1205.802	Xu_zidong		native	也行。	6	233	571	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1205.802	1206.820	Yu_dan	female	native	就有状态，	6	234	572	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1207.537	1210.024	Yu_dan	female	native	你知道中国古人石涛画画，	6	234	574	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1210.024	1210.289	Dou_wentao	male	native	对。	6	235	575	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1210.289	1214.261	Yu_dan	female	native	讲究什么？我写此纸时心入春江水，	6	236	576	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1214.261	1217.164	Yu_dan	female	native	江花随我开，江水随我起，	6	236	577	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1217.164	1221.680	Yu_dan	female	native	你自己一看就有了，中国古代那个教画画教徒弟都怎么着啊？	6	236	578	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1221.680	1223.358	Yu_dan	female	native	就是人家也不画蛋，	6	236	579	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1223.358	1223.924	Yu_dan	female	native	也不讲	6	237	580	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1223.358	1223.924	Dou_wentao	male	native	嗯。	6	237	581	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1223.924	1224.650	Yu_dan	female	native	透视关系，	6	238	582	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1224.650	1224.958	Dou_wentao	male	native	嗯。	6	239	583	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1224.958	1231.342	Yu_dan	female	native	就是找一败堵，就是一破墙，然后呢张素绢于其上，就是一白绢往那儿一挂，	6	240	584	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1231.342	1234.123	Yu_dan	female	native	然后就在那儿熟识良久，看着，	6	240	585	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1234.123	1237.639	Yu_dan	female	native	然后看得千山万壑从胸中奔涌而出，	6	240	586	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1237.639	1242.092	Yu_dan	female	native	哗一写生，把心里的画给直接搬纸上就完了。	6	240	587	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1242.092	1242.923	Dou_wentao	male	native	嗯。	6	241	588	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1242.092	1242.923	Yu_dan	female	native	所以	6	241	589	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1242.923	1247.444	Yu_dan	female	native	其实我估计李敖老师就是这样，就对着一个镜头，画是如此，	6	242	590	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1247.444	1253.163	Yu_dan	female	native	中国古人说的音乐，一个人弹琴叫抚琴动操欲令众山皆响，	6	242	591	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1253.163	1256.774	Yu_dan	female	native	千山万壑，你这个幕后头觉得全是眼睛，都是观众。	6	242	592	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1256.774	1257.163	Dou_wentao	male	native	嗯嗯嗯。	6	243	593	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1257.163	1258.361	Yu_dan	female	native	一下儿感觉就找着了。	6	244	594	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1258.361	1264.799	Dou_wentao	male	native	对你像嵇康是临行前临死前呐一曲广陵散，手挥五弦目送归鸿，	6	245	595	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1264.799	1265.997	Dou_wentao	male	native	慨然兀歌，	6	246	596	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1264.799	1265.997	Yu_dan	female	native	附仰自得，	6	246	597	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1265.997	1267.434	Dou_wentao	male	native	咱俩这是干嘛呢？	6	246	598	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1265.997	1267.434	Yu_dan	female	native	游心太玄。	6	246	599	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1267.434	1268.003	Dou_wentao	male	native	{laugh}	6	246	600	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1267.434	1268.003	Yu_dan	female	native	{laugh}	6	246	601	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1268.003	1269.410	Xu_zidong		native	我我觉得我我	6	247	602	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1268.003	1269.410	Yu_dan	female	native	{laugh}	6	247	603	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1269.410	1270.428	Xu_zidong		native	觉得我觉得	6	248	604	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1269.410	1270.428	Yu_dan	female	native	你觉得我们俩在	6	248	605	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1270.428	1270.824	Yu_dan	female	native	威虎	6	249	606	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1270.824	1271.565	Yu_dan	female	native	山吗？	6	250	607	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1270.824	1271.565	Xu_zidong		native	这这	6	250	608	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1271.565	1272.164	Xu_zidong		native	像	6	251	609	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1271.565	1272.164	Yu_dan	female	native	像吗？	6	251	610	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1272.164	1274.012	Dou_wentao	male	native	你像座山雕，呃不是我像座山	6	252	611	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1274.012	1274.350	Dou_wentao	male	native	雕。	6	253	612	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1274.012	1274.350	Yu_dan	female	native	呃不	6	253	613	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1274.350	1275.436	Yu_dan	female	native	我当然得像杨子荣，	6	254	614	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1275.436	1278.182	Dou_wentao	male	native	啊，是，你是有杨子荣的浩然之气，	6	255	615	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1278.182	1278.662	Yu_dan	female	native	是吧，我从小。	6	256	616	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1278.662	1279.590	Dou_wentao	male	native	不是，徐老师，	6	257	617	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1278.662	1279.590	Xu_zidong		native	噢我我	6	257	618	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1279.590	1281.104	Xu_zidong		native	觉得是像水仙子，	6	258	619	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1281.776	1284.530	Xu_zidong		native	她看着下面，看着镜头就是看到自己。	6	258	621	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1285.219	1285.584	Dou_wentao	male	native	嗯。	6	259	623	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1285.584	1288.104	Xu_zidong		native	你知道水仙子吧，她看最后她跳下去。	6	260	624	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1288.104	1288.643	Dou_wentao	male	native	啊啊啊。	6	261	625	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1288.643	1294.991	Xu_zidong		native	对，就是这种，她看着镜头想象后面的，你说她想象后面有无数的观众啊，	6	262	626	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1294.991	1297.984	Xu_zidong		native	我觉得还不够，就是想象后面是自己，	6	262	627	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1298.553	1300.789	Xu_zidong		native	就是像对镜子一样，对镜子一样。	6	262	629	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1300.789	1304.601	Dou_wentao	male	native	所以说我就觉得啊，就是说还不光是这些，这些问题哈，	6	263	630	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1304.601	1309.273	Dou_wentao	male	native	还有一个问题你比如像李敖像这种哈，我琢磨我揣摩着我也能做得到，	6	263	631	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1309.273	1310.026	Dou_wentao	male	native	但是呢，	6	263	632	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1310.611	1314.914	Dou_wentao	male	native	读书没有人家多，就像于丹老师这出口成章的，那么多知识，	6	263	634	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1314.914	1319.911	Dou_wentao	male	native	所以我是觉得就现在的人呐，特别容易瞧不起别人，蔑视别人，	6	263	635	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1319.911	1323.563	Dou_wentao	male	native	你，你比方说举个例子，我听说电影界的讲，好多人很不满，	6	263	636	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1323.563	1328.221	Dou_wentao	male	native	就说现在很多大导演，当年拍某个电影为什么，为什么突然拍差了，对吧？	6	263	637	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1328.221	1333.128	Dou_wentao	male	native	他当年这个电影好多身边的人给他出主意，他善于吸取别人的意见，	6	263	638	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1333.128	1337.192	Dou_wentao	male	native	可是这个人火了之后呢，他不会向别人表示感谢的，不会提的。	6	263	639	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1337.192	1337.636	Yu_dan	female	native	嗯。	6	264	640	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1337.636	1340.959	Dou_wentao	male	native	你知道吗？但是实际上我跟你讲这是两方面的问题，	6	265	641	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1341.473	1345.548	Dou_wentao	male	native	一方面呢，作为他，你提一提人家，感谢人家，	6	265	643	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1345.548	1348.985	Dou_wentao	male	native	都是老师嘛，三人行必有我师嘛，对你没有损害，	6	265	644	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1348.985	1349.344	Xu_zidong		native	嗯。	6	266	645	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1349.344	1351.383	Dou_wentao	male	native	但是另一方面对于那些人来说，	6	267	646	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1352.072	1354.437	Dou_wentao	male	native	如果自己能够对别人有点用处，	6	267	648	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1354.976	1358.686	Dou_wentao	male	native	不也是挺好的一件事儿，所以我觉着两头啊都有个认识，	6	267	650	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1358.686	1361.503	Dou_wentao	male	native	我为什么说这个啊，我最近想起季羡林	6	267	651	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1361.503	1361.952	Yu_dan	female	native	嗯。	6	268	652	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1361.952	1366.466	Dou_wentao	male	native	老先生，所以你讲论语，我觉得现代社会特别需要搞清名与实，	6	269	653	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1367.022	1371.201	Dou_wentao	male	native	你比方说大师，这大师现在都成反话了，咱们这这谁都叫大师，	6	269	655	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1371.739	1376.683	Dou_wentao	male	native	最近季羡林在病床上，哎哟我觉得这病也真可怜，就长那个水疱啊。	6	269	657	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1376.683	1377.102	Yu_dan	female	native	对。	6	270	658	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1377.102	1381.324	Dou_wentao	male	native	他就说，特别这个九十二岁高龄有一天，一舔这个上颚，	6	271	659	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1381.324	1381.635	Yu_dan	female	native	嗯。	6	272	660	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1381.635	1385.108	Dou_wentao	male	native	发现又俩水疱，他就当天晚上一阵心慌意乱，	6	273	661	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1385.108	1387.611	Dou_wentao	male	native	觉得自己对人生啊还没有参透。	6	273	662	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1388.150	1393.281	Dou_wentao	male	native	然后呢是昭告天下就说三个称号你们给我免了，三顶帽子，	6	273	664	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1393.281	1395.484	Dou_wentao	male	native	一个叫国学大师，	6	273	665	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1395.484	1396.021	Xu_zidong		native	嗯。	6	274	666	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1396.021	1400.401	Dou_wentao	male	native	他说我就是小时候读过这些经典，能背点儿诗词，	6	275	667	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1400.401	1406.057	Dou_wentao	male	native	后来我有了别的研究方向，是吧，我国学小师吧，你还叫我国学大师，	6	275	668	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1406.057	1410.420	Dou_wentao	male	native	再有一个叫泰斗，他说什么泰？泰山。	6	275	669	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1410.420	1410.660	Yu_dan	female	native	嗯。	6	276	670	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1410.660	1412.285	Dou_wentao	male	native	什么叫斗？北斗。	6	277	671	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1412.785	1417.935	Dou_wentao	male	native	他说我能达到这个泰山北斗，但是你看咱们现在这社会这个泰斗比比皆是。	6	277	673	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1417.935	1418.325	Yu_dan	female	native	对。	6	278	674	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1418.325	1422.646	Dou_wentao	male	native	老先生说我不要这泰斗，然后第三个呢老先生说国宝，	6	279	675	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1423.295	1426.155	Dou_wentao	male	native	说中国独有的一种动物，大熊猫，	6	279	677	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1426.155	1426.768	Yu_dan	female	native	对。	6	280	678	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1426.768	1427.759	Dou_wentao	male	native	叫国宝，	6	281	679	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1428.291	1434.005	Dou_wentao	male	native	大约在上世纪七八十年代有一位北京市的领导呢见到我，见面说啊国宝，	6	281	681	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1434.005	1437.318	Dou_wentao	male	native	他说我回去就琢磨，他为什么管我叫国宝呢？	6	281	682	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1437.318	1438.482	Xu_zidong		native	长的熊猫吗？	6	282	683	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1438.482	1439.954	Dou_wentao	male	native	对啊，他就琢磨半天，	6	283	684	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1438.482	1439.954	Xu_zidong		native	{laugh}	6	283	685	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1439.954	1445.047	Dou_wentao	male	native	后来他说难道说是因为这个中国只有一个叫季羡林的，独一无二，	6	284	686	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1445.047	1446.230	Dou_wentao	male	native	所以叫国宝吗？	6	284	687	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1446.230	1450.183	Dou_wentao	male	native	他说那那样的话，张三李四那就十三亿国宝呢，所以，	6	284	688	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1450.183	1454.229	Xu_zidong		native	主要是他，他，他学的那些语言呐，他懂得那些有几门语	6	285	689	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1454.229	1454.704	Xu_zidong		native	言啦	6	286	690	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1454.229	1454.704	Yu_dan	female	native	对。	6	286	691	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1454.704	1455.337	Xu_zidong		native	很少人懂。	6	287	692	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1455.932	1456.531	Xu_zidong		native	真的	6	288	694	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1455.932	1456.531	Dou_wentao	male	native	没错。	6	288	695	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1456.531	1458.828	Xu_zidong		native	他的那个学科是非常非常边缘的，	6	289	696	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1458.828	1461.262	Xu_zidong		native	不过他现在呢从边缘变中心了，	6	289	697	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1461.262	1464.466	Xu_zidong		native	就像当年呢，郭沫若变成知识分子代表。	6	289	698	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1464.466	1464.855	Dou_wentao	male	native	嗯。	6	290	699	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1464.855	1470.636	Xu_zidong		native	华罗庚对不对？苏步青。他现在变成新一代的知识分子代表，有领导人去看他嘛，	6	291	700	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1470.636	1472.930	Xu_zidong		native	不过，季老就是清醒，啊	6	291	701	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1472.930	1473.555	Xu_zidong		native	他不是	6	292	702	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1472.930	1473.555	Yu_dan	female	native	哎。	6	292	703	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1473.555	1476.608	Xu_zidong		native	他不会就觉得哎我真是全，全中国学术的	6	293	704	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1476.608	1477.796	Xu_zidong		native	代表，(())	6	294	705	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1476.608	1477.796	Dou_wentao	male	native	我跟你说，我就我就	6	294	706	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1477.796	1478.372	Dou_wentao	male	native	想起我	6	295	707	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1477.796	1478.372	Yu_dan	female	native	其，其	6	295	708	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1478.372	1478.714	Yu_dan	female	native	实呢	6	296	709	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1478.714	1479.127	Yu_dan	female	native	我	6	297	710	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1478.714	1479.127	Xu_zidong		native	嗯。	6	297	711	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1479.127	1484.702	Yu_dan	female	native	是觉得哈，就是说季老做人做到这个份儿上吧，这个境界叫通透，	6	298	712	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1484.702	1488.415	Yu_dan	female	native	就是他已经把各种的学问的东西啊打通了，	6	298	713	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1488.415	1492.040	Yu_dan	female	native	就是他这个人呢就是学问就跟武功似的哈，	6	298	714	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1492.040	1497.134	Yu_dan	female	native	带在人身体里面了，已经不需要外在的东西了，就是人没有障碍了，	6	298	715	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1497.134	1497.592	Yu_dan	female	native	所以。	6	299	716	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1497.134	1497.592	Dou_wentao	male	native	他基	6	299	717	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1497.592	1500.791	Dou_wentao	male	native	本上评价学界都是都是东方不败的视角。是不是？	6	300	718	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1500.791	1501.451	Xu_zidong		native	其实呢	6	301	719	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1500.791	1501.451	Dou_wentao	male	native	{laugh}	6	301	720	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1501.451	1505.946	Xu_zidong		native	学界有这样的老人呢其实还蛮多的，比方说华中师大徐忠玉先生，	6	302	721	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1505.946	1506.578	Xu_zidong		native	而且五十	6	303	722	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1505.946	1506.578	Yu_dan	female	native	对。	6	303	723	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1506.578	1507.059	Xu_zidong		native	五十三岁。	6	304	724	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1507.059	1507.350	Yu_dan	female	native	对。	6	305	725	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1508.474	1513.662	Xu_zidong		native	但走路极快，说话极清楚，那就当然没树典型啦，	6	306	727	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1513.662	1517.529	Xu_zidong		native	其实也是这样，就是这一代的老人季老很清楚，像他这样	6	306	728	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1517.529	1519.211	Xu_zidong		native	的人也是蛮多的。	6	307	729	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1517.529	1519.211	Yu_dan	female	native	确实像我们学校	6	307	730	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1519.211	1520.872	Yu_dan	female	native	呃去世不久的启功先生。	6	308	731	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1520.872	1521.944	Dou_wentao	male	native	噢启启先生。	6	309	732	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1521.944	1524.631	Yu_dan	female	native	启先生呢就是特别通透，启先生呢	6	310	733	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1524.631	1525.178	Yu_dan	female	native	可能就是	6	311	734	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1524.631	1525.178	Xu_zidong		native	对对。	6	311	735	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1525.178	1530.294	Yu_dan	female	native	不较劲，比如说外面儿出现很多赝品，都是仿启先生的字哈，	6	312	736	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1530.294	1534.294	Yu_dan	female	native	启先生出去看见了赝品，说哎哟，他写的比我好，	6	312	737	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1534.294	1535.150	Yu_dan	female	native	完了呢。	6	313	738	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1534.294	1535.150	Dou_wentao	male	native	哎我	6	313	739	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1535.150	1539.132	Dou_wentao	male	native	正想问你呢，我就是说我老觉得你那个笑呵呵的哈，	6	314	740	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1539.132	1541.841	Dou_wentao	male	native	那，他这心情特别好这老师，很开朗，	6	314	741	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1541.841	1544.482	Dou_wentao	male	native	好象说你跟启先生也有过这一个对话。	6	314	742	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1544.482	1546.869	Yu_dan	female	native	那，是，那是我们刚上学，小的时	6	315	743	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1546.869	1547.202	Yu_dan	female	native	候，	6	316	744	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1546.869	1547.202	Dou_wentao	male	native	嗯。	6	316	745	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1547.202	1549.237	Yu_dan	female	native	就是十七八岁刚上大学哈，	6	317	746	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1549.775	1552.022	Yu_dan	female	native	看启先生觉得这境界，成天那么乐，	6	317	748	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1552.022	1555.241	Yu_dan	female	native	启先生没牙的时候挡着时候，呵呵我无齿，	6	317	749	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1555.241	1557.132	Yu_dan	female	native	反正就是总是很高兴，	6	318	750	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1555.241	1557.132	Xu_zidong		native	{laugh}	6	318	751	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1557.132	1558.715	Yu_dan	female	native	他老能找这种方式，	6	319	752	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1559.262	1562.614	Yu_dan	female	native	然后呢，我记得我曾经问过他几个问题哈，	6	319	754	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1562.614	1568.930	Yu_dan	female	native	说我们小时候练字，都讲究凤眼法，就是这手上说虎口要能托一个鸡蛋写字。	6	319	755	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1568.930	1569.343	Dou_wentao	male	native	啊啊啊。	6	320	756	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1569.343	1570.218	Yu_dan	female	native	然后启先生说，	6	321	757	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1570.718	1576.512	Yu_dan	female	native	学过骑自行车吗？你要是紧紧捏着车把，不是撞电线杆子，就是撞老头，	6	321	759	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1576.512	1578.573	Yu_dan	female	native	你托一鸡蛋还写字吗？	6	322	760	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1576.512	1578.573	Xu_zidong		native	{laugh}	6	322	761	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1578.573	1579.135	Xu_zidong		native	{laugh}	6	323	762	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1579.135	1580.328	Yu_dan	female	native	然后呢还问过他说，	6	324	763	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1580.895	1583.679	Yu_dan	female	native	你说什么时候写的论文就叫专业性很强？	6	324	765	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1583.679	1583.943	Dou_wentao	male	native	嗯。	6	325	766	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1583.943	1587.650	Yu_dan	female	native	启先生说，回去自个儿看啊什么时候写的不像人话了，	6	326	767	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1587.650	1589.345	Yu_dan	female	native	那就叫专业化了，	6	327	768	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1587.650	1589.345	Xu_zidong		native	{laugh}	6	327	769	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1589.345	1591.876	Yu_dan	female	native	所以我觉得他，因为他什么大道理都这么说哈，	6	328	770	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1591.876	1592.536	Yu_dan	female	native	后来有一会我问，	6	329	771	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1591.876	1592.536	Dou_wentao	male	native	嗯嗯。	6	329	772	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1592.536	1597.689	Yu_dan	female	native	他，我说启先生你为什么每天都这么乐呀？然后他说，不乐那多冤呐！	6	330	773	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1597.689	1598.051	Dou_wentao	male	native	哎	6	331	774	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1598.051	1599.315	Dou_wentao	male	native	哟，境界。	6	332	775	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1598.051	1599.315	Yu_dan	female	native	哎哟这句话吧	6	332	776	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1599.315	1603.552	Yu_dan	female	native	真是大实在话，这个跟刚才咱们说参禅悟道的那个谒语差不多，	6	333	777	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1603.552	1604.074	Yu_dan	female	native	说你得	6	334	778	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1603.552	1604.074	Dou_wentao	male	native	对。	6	334	779	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1604.074	1606.381	Yu_dan	female	native	一辈子呢才知道不乐多冤呐。	6	335	780	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1606.894	1609.839	Dou_wentao	male	native	这也是咱们共勉吧，许老师，不乐多冤呐。	6	336	782	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1609.839	1611.985	Dou_wentao	male	native	锵锵三人行，广告之后见。	6	336	783	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1698.112	1701.690	Dou_wentao	male	native	所以现在的人就是口称老师，对吧，	8	338	785	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1701.690	1705.074	Dou_wentao	male	native	实际上啊没人真的感谢老师，	8	338	786	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1705.074	1709.908	Dou_wentao	male	native	就或者说，呃街边过的一个人都有可能是我的老师，	8	338	787	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1709.908	1715.611	Dou_wentao	male	native	我就看的这个许老师刚才讲，我想起一句话，有个美国人写为什么美国人要学习历史，	8	338	788	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1715.611	1718.665	Dou_wentao	male	native	他这个一句话里讲，就说一个人的教育程度	8	338	789	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1718.665	1718.911	Yu_dan	female	native	嗯。	8	339	790	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1718.911	1719.986	Dou_wentao	male	native	靠什么来衡量啊？	8	340	791	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1719.986	1723.682	Dou_wentao	male	native	就看他对自己无知的程度是不是心里有数。	8	340	792	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1723.682	1724.111	Yu_dan	female	native	对。	8	341	793	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1724.639	1730.318	Dou_wentao	male	native	对吧？所以咱这满地大师的，满地泰斗的，这说明你这个民族教育程度不高啊，	8	342	795	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1731.016	1731.808	Dou_wentao	male	native	是不是这么解？	8	342	797	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1731.808	1735.914	Yu_dan	female	native	其实啊我觉得呃为什么古人说行不言之教，	8	343	798	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1735.914	1736.317	Dou_wentao	male	native	嗯。	8	344	799	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1736.317	1741.115	Yu_dan	female	native	就是一个人呢，他自己做人的方式其实比他的学问知识要更重要，	8	345	800	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1741.115	1746.052	Yu_dan	female	native	你像这个季先生这种大师，大伙儿都知道那个故事说北大的新生，	8	345	801	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1746.052	1746.307	Dou_wentao	male	native	嗯。	8	346	802	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1746.307	1748.159	Yu_dan	female	native	趾高气扬地进去了，然后拿着	8	347	803	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1748.159	1749.319	Yu_dan	female	native	行李在那儿，对，	8	348	804	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1748.159	1749.319	Xu_zidong		native	看行李看行李。	8	348	805	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1749.319	1750.621	Yu_dan	female	native	说要，要自个儿找，	8	348	806	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1749.319	1750.621	Xu_zidong		native	嗯，我，我听过。	8	348	807	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1750.621	1751.244	Yu_dan	female	native	找宿舍	8	349	808	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1751.244	1751.904	Yu_dan	female	native	去，找一	8	350	809	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1751.244	1751.904	Xu_zidong		native	听过。	8	350	810	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1751.904	1755.159	Yu_dan	female	native	老头说先给我看着，那老头就给他看着，	8	351	811	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1755.159	1757.745	Yu_dan	female	native	回来了以后才知道这老头就是季羡林先生。	8	351	812	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1757.745	1758.735	Dou_wentao	male	native	噢。	8	352	813	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1757.745	1758.735	Yu_dan	female	native	嗯，	8	352	814	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1758.735	1763.675	Yu_dan	female	native	所以呢就是说，真正的老先生从来不会说趾高气扬的，	8	353	815	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1763.675	1768.810	Yu_dan	female	native	说你知道我是谁吗？其实这个就很像你说庄子逍遥游里写的，	8	353	816	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1768.810	1772.702	Yu_dan	female	native	说那大鹏鸟很沉默，啪团扶摇直上九万里，	8	353	817	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1772.702	1775.361	Yu_dan	female	native	然后要从北岭飞到南岭去，	8	353	818	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1775.361	1775.588	Dou_wentao	male	native	嗯。	8	354	819	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1775.588	1780.474	Yu_dan	female	native	背负青天莫之夭阏过去了，底下那个麻雀跟那个季鸟，	8	355	820	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1780.474	1785.490	Yu_dan	female	native	俩人就在那儿说，你说那傻东西干嘛去啊，你说咱们在这儿飞不挺好嘛，没完没了地叨叨它，	8	355	821	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1785.490	1790.012	Yu_dan	female	native	所以这世界上永远呀就是麻雀笑话大鹏，没有大鹏笑话麻雀的。	8	355	822	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1790.012	1792.765	Dou_wentao	male	native	知道吗？最近她讲庄子快开播了，	8	356	823	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1792.765	1794.109	Dou_wentao	male	native	{laugh}	8	356	824	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1794.109	1794.973	Dou_wentao	male	native	我就觉我	8	356	825	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1794.973	1795.637	Xu_zidong		native	真的假的？	8	357	826	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1795.637	1796.016	Dou_wentao	male	native	这是真	8	358	827	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1796.016	1796.872	Dou_wentao	male	native	就我，	8	359	828	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1796.016	1796.872	Yu_dan	female	native	这是真的，真的。	8	359	829	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1796.872	1797.533	Dou_wentao	male	native	觉得她本质上	8	360	830	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1797.533	1799.350	Dou_wentao	male	native	变成(())家了。嗯。	8	361	831	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1797.533	1799.350	Xu_zidong		native	你道儒都能讲啊。嗯。	8	361	832	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1799.350	1805.757	Dou_wentao	male	native	我跟你讲啊，我现在就是特别觉得就是比如说李呃，李敖很欣赏的黄庭坚讲的一句话，	8	362	833	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1805.757	1806.019	Yu_dan	female	native	嗯。	8	363	834	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1806.019	1811.556	Dou_wentao	male	native	就说这个人学习的态度，任老师的态度，我观六书哇，这则处处得益，	8	364	835	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1811.556	1811.900	Yu_dan	female	native	对。	8	365	836	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1811.900	1816.894	Dou_wentao	male	native	但是以呃不是，就是以书观我呢，释卷而茫然，就合上书你傻乎乎，	8	366	837	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1816.894	1823.770	Dou_wentao	male	native	所以说，你去看一个人你比如说有人说，好比说这个有人说李敖什么侵吞别人家产，什么这，这些事儿，	8	366	838	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1823.770	1826.629	Dou_wentao	male	native	我只说这些事儿我不太了解，我不懂，	8	366	839	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1826.629	1832.982	Dou_wentao	male	native	但是呢不以其人废其言，不以其论点废，废其论据，	8	366	840	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1832.982	1833.677	Dou_wentao	male	native	你知道吗？	8	367	841	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1832.982	1833.677	Yu_dan	female	native	对。	8	367	842	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1833.677	1837.496	Dou_wentao	male	native	他至少是很多知识啊，你，你可以呃得到好处啊，	8	368	843	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1837.496	1838.175	Dou_wentao	male	native	你说是吗？	8	369	844	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1837.496	1838.175	Yu_dan	female	native	这就是你	8	369	845	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1838.175	1841.392	Yu_dan	female	native	说的真正说三人行必有我师焉也罢，	8	370	846	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1841.392	1844.914	Yu_dan	female	native	或者说这个世界上见贤思齐，见不肖则内自醒。	8	370	847	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1844.914	1845.242	Dou_wentao	male	native	嗯。	8	371	848	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1845.242	1848.461	Yu_dan	female	native	你就见到不好的东西，不是也以为参照吗？	8	372	849	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1848.461	1849.183	Yu_dan	female	native	我觉得这	8	373	850	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1848.461	1849.183	Dou_wentao	male	native	对。	8	373	851	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1849.183	1852.402	Yu_dan	female	native	社会心态就是少一点儿指责和抱怨，	8	374	852	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1852.402	1855.483	Yu_dan	female	native	你看事事平，人就耳耳顺。	8	374	853	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1856.051	1856.787	Dou_wentao	male	native	哎哟。	8	375	855	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1856.787	1858.199	Xu_zidong		native	她都是出口成章啊。	8	376	856	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1858.199	1860.927	Dou_wentao	male	native	她就是出口成章，你知道怎么造成的吗？	8	377	857	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1860.927	1862.484	Dou_wentao	male	native	我觉得这是童子功。	8	377	858	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1862.484	1862.844	Yu_dan	female	native	不，	8	378	859	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1862.844	1865.978	Yu_dan	female	native	从小话憋的，因为小时候不太说话。	8	378	860	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1865.978	1866.524	Dou_wentao	male	native	噢。	8	379	861	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1866.524	1867.463	Yu_dan	female	native	高中以后话多。	8	380	862	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1867.463	1871.623	Dou_wentao	male	native	她从小背很多这种古代经典，她爸爸是国学的这个大师，	8	381	863	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1871.623	1872.001	Xu_zidong		native	绷了	8	382	864	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.001	1872.538	Xu_zidong		native	绷了二	8	383	865	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.001	1872.538	Dou_wentao	male	native	泰斗。	8	383	866	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.538	1873.810	Xu_zidong		native	十年以后冒出来。	8	384	867	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.538	1873.810	Dou_wentao	male	native	{laugh}	8	384	868	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1873.810	1874.202	Dou_wentao	male	native	嗯。	8	385	869	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1874.202	1875.439	Yu_dan	female	native	绷了十五六年。	8	386	870	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1875.439	1876.533	Dou_wentao	male	native	嗯这井喷了。	8	387	871	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1876.533	1877.525	Yu_dan	female	native	厚积薄发。	8	388	872	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1877.525	1878.709	Dou_wentao	male	native	没错这就是。	8	389	873	report	

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080730.0012	0	0.0	100.0	speaker	unknown	unknown	AAA073033(国际部综合组收)韩国在独岛举行大规模军事演习	0	0	0		
+XIN_CMN_20080730.0012	0	300.0	400.0	speaker	unknown	unknown	韩国空军当天派出包括Ｆ－１５Ｋ在内的作战飞机参加演习。	0	0	0		
+XIN_CMN_20080730.0012	0	400.0	500.0	speaker	unknown	unknown	据报道，本次演习假设韩方预警雷达发现有不明身份的船只接近独岛，韩方先通过海上预警机无线电警告不明身份船只，随后出动Ｆ－１５Ｋ战斗机等对其进行武装警告和驱逐。	0	0	0		

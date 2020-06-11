@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.0985	0	300.0	400.0	speaker	unknown	unknown	报道说，随着人民币在台开放兑换，五星红旗登上台湾100%公营的台湾银行汇率电子看板，人民币的代号是CNY，China Yuan的简写。	0	0	0		

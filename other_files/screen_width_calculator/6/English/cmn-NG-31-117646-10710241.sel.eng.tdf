@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117646-10710241	0	200.0	300.0	speaker	unknown	unknown	Originally there was an attachment 1.jpg here, but at present the mail forwarding system at CN BBS does not forward mails containing relatively large attachments. So it was removed by TJU BBS.	0	0	0		
+cmn-NG-31-117646-10710241	0	600.0	700.0	speaker	unknown	unknown	For attachments, visit the address: [1;4m http://bbs.tju.	0	0	0		

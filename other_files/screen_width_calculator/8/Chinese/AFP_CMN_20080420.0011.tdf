@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0011.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	布希:美未降低对北韩通报核子计划要求	0	0	0		statement
+AFP_CMN_20080420.0011.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社马里兰州大卫营十九日电	0	0	0		statement
+AFP_CMN_20080420.0011.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	美国总统布希今天否认他已经降低对于北韩通报核子计划的要求,他并强调,他不会接受不符合该区域利益的协议,仍将坚持北韩必须就其核子计画提出完整通报。	0	0	0		statement
+AFP_CMN_20080420.0011.sgm	0	1500.000	1700.000	TEXT1	unknown	unkown	布希说,尽管外界传出与谈判有关的谣言,但美国及盟邦仍然在等待北韩通报其核子活动的结果。	0	0	0		statement
+AFP_CMN_20080420.0011.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	布希和南韩总统李明博举行会谈后在记者会上说:「显然,本人不会接受一项不能促进该区域利益的协议。」	0	0	0		statement
+AFP_CMN_20080420.0011.sgm	0	2400.000	2550.000	TEXT1	unknown	unkown	他说:「他们作了一些承诺,我们将会研判他们是否履行这些诺言。	0	0	0		statement
+AFP_CMN_20080420.0011.sgm	0	2550.000	2700.000	TEXT1	unknown	unkown	然后我们将对我们的责任作出我们自己的决定。」	0	0	0		statement
+AFP_CMN_20080420.0011.sgm	0	2900.000	3200.000	TEXT1	unknown	unkown	美国官员十七日首次承认,美方已经调整对北韩的要求,以打破针对北韩废除核武问题所引发的外交僵局。	0	0	0		statement

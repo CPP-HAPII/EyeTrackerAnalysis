@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.2810	0	400.0	500.0	speaker	unknown	unknown	报道目前没有提供其他具体细节，包括此次试射的地点等。	0	0	0		

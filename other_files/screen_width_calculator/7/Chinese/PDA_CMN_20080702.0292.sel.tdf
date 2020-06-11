@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080702.0292	0	1900.0	2000.0	speaker	unknown	unknown	对成员没有组织约束力，不硬性规定各成员执行它的决议。	0	0	0		

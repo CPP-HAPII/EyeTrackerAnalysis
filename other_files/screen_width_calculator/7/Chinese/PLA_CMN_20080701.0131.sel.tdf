@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080701.0131	0	600.0	700.0	speaker	unknown	unknown	网络上尽管有一些不文明的东西，但是不能因噎废食，甘当“网盲”。	0	0	0		
+PLA_CMN_20080701.0131	0	1900.0	2000.0	speaker	unknown	unknown	（作者单位：空军指挥学院政治部）	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080408.1425	0	700.0	800.0	speaker	unknown	unknown	发动机声音异常舱内焦油味呛人	0	0	0		
+CNS_CMN_20080408.1425	0	800.0	900.0	speaker	unknown	unknown	笔者赶到虹桥机场时，MU5545航班上的乘客已被安排到宾馆休息，座位在第2排的葛小姐回忆说：“我在位置上坐下后，能明显闻到一股机油味，当时我想可能是位置靠近发动机，所以并不是很在意。	0	0	0		
+CNS_CMN_20080408.1425	0	900.0	1000.0	speaker	unknown	unknown	8点15分左右，飞机拉升时，发动器的响声与平时听到的不一样，很不规则，这时机油的味道也越来越浓，我当时已经感觉呼吸都很困难，机舱内许多乘客都在咳嗽。”	0	0	0		
+CNS_CMN_20080408.1425	0	2300.0	2400.0	speaker	unknown	unknown	下午6点30分，葛小姐再次致电笔者称，MU5545航班的乘客被重新安排登机，而且已经更换了一架飞机，乘客只剩下不到40人。	0	0	0		

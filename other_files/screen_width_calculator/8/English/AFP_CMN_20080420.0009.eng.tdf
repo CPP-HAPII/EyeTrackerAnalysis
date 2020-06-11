@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Australia Convenes "Elite" Summit, Proposes No Longer Recognizing British Queen as Monarch	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	SYDNEY, 19th (AFP)	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	A plan calling for cut ties between Australia and the British monarchy by 2010 won enthusiastic support today at an Australian summit of elite individuals from various sectors of society.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	1400.000	1500.000	TEXT1	unknown	unkown	More than a thousand representatives took part in the "2020 Summit" held in the capital Canberra.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	Australian Prime Minister Kevin Rudd, after being elected last November and ending twelve years of Conservative Party rule, began preparations for the meeting that aims to call for a broad range of "big ideas".	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2000.000	2100.000	TEXT1	unknown	unkown	The delegates split into ten discussion groups, including one that discussed governance.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	That group of delegates overwhelmingly backed a proposal to end the ever-shrinking links to former colonial master Britain.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2200.000	2400.000	TEXT1	unknown	unkown	It is these ties that mean Queen Elizabeth II remains Australia's monarch.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2600.000	2900.000	TEXT1	unknown	unkown	The delegates initially proposed a 12-year time frame to make Australia a republic, but Home Affairs Minister Bob Debus's call for a much shorter deadline met with a positive response.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	Debus said, "I want us to say that we will proceed to a republic by 2010."	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	A referendum on becoming a republic failed in 1999 after the then prime minister, Howard, strongly campaigned against the change.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	3900.000	4200.000	TEXT1	unknown	unkown	But Howard's successor Kevin Rudd has described himself as "lifelong Republican", and monarchists have accused the center-left leader of calling the summit with a hidden agenda aimed at promoting a republic.	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	4400.000	4700.000	TEXT1	unknown	unkown	Rudd described the delegates at the two-day summit as Australia's "best and most far-sighted figures". On the first day of the summit, they discussed such subjects as tax reform and increasing the exercise level of Australians.	0	0	0		statement

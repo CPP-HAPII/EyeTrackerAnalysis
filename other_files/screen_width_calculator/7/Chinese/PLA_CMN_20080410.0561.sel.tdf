@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080410.0561	0	200.0	300.0	speaker	unknown	unknown	新华社旧金山４月９日奥运专电 本赛季火箭队首次在没有姚麦组合的情况下，主场以１０３：８０轻取西部排名垫底的超音速队。	0	0	0		

@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080422.0555	0	0.0	100.0	speaker	unknown	unknown	调查显示：超七成基民对新基没兴趣	0	0	0		
+CNS_CMN_20080422.0555	0	400.0	500.0	speaker	unknown	unknown	股票被“腰斩”并不新鲜，号称比股票风险低的基金也面临“腰斩”的危险。	0	0	0		
+CNS_CMN_20080422.0555	0	600.0	700.0	speaker	unknown	unknown	而经过长达半年的下跌，基金市场已赫然出现了“五毛”基金。	0	0	0		
+CNS_CMN_20080422.0555	0	800.0	900.0	speaker	unknown	unknown	两只基金净值5毛多	0	0	0		
+CNS_CMN_20080422.0555	0	1100.0	1200.0	speaker	unknown	unknown	截至4月21日，已经有两只基金净值“破六”。	0	0	0		
+CNS_CMN_20080422.0555	0	1300.0	1400.0	speaker	unknown	unknown	此外6毛到7毛之间的基金也有15只。	0	0	0		
+CNS_CMN_20080422.0555	0	1900.0	2000.0	speaker	unknown	unknown	一季度末，基金股票投资市值占A股流通市值的23.2%，较去年年底下降3.3个百分点。	0	0	0		
+CNS_CMN_20080422.0555	0	2200.0	2300.0	speaker	unknown	unknown	超7成基民对新基没兴趣	0	0	0		

@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0034.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	德杂志评全球最具影响力百人排行榜 胡锦涛居首	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 09:35 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月27日电 据香港文汇报报道，德国汉堡时尚杂志《Park Avenue》公布了全球最具影响力100人的排行榜，位居榜首的是中国国家主席胡锦涛。	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	该杂志表示，中国受惠于胡主席的政策，即将超越德国，成为全球第3大经济体。	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	并列第2的是Google的两名创办人，34岁的布兰与35岁的佩奇。	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	排第3的是55岁的俄罗斯总统普京，其总统一职，将由好友梅德韦杰夫继任，其本人则改任总理。	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	该杂志表示，此举是为保留权力，确保他亲手安排的工业及政治精英计划能平稳进行。	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	另外，他是柔道黑带6段高手，每天下班前，都会在克里姆林宫的泳池游泳。	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	排入前10位的还有德国总理默克尔、美国联储局主席伯南克、石油输出国组织((OPEC))秘书长巴德里及美国民主党总统参选人奥巴马等人。	0	0	0		statement

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1100	0	600.0	700.0	speaker	unknown	unknown	布什今天在白宫发表讲话说，美国应感激驻外美军，并为他们提供坚定不移的支持。	0	0	0		

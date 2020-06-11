@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', None]
+;;MM sectionBoundaries	[0.0, 277.11399999999998, 395.697, 401.07999999999998, 514.197, 520.17899999999997, 793.29399999999998, 797.57600000000002, 831.68299999999999, 836.08399999999995, 842.37199999999996, 846.13800000000003, 1008.419, 1198.5060000000001, 1270.6120000000001, 1437.8989999999999, 1441.4269999999999, 1718.7829999999999, 1913.885, 1979.5340000000001, 2700.7890000000002, 2704.7930000000001, 2789.4459999999999, 2793.7510000000002, 2833.0360000000001, 2836.2040000000002, 3071.3960000000002, 3076.48, 3122.6669999999999, 3223.386, 9999999.0]
+CCTV2_DIALOG_CMN_20080309_222803	0	523.446	544.410	Guo_Xiao_Zhen	female	native	是永远不会忘记, {cough} 当时我们从五点钟,下午五点钟就接到这个电话,嗯从乡这卫生医院转过来,一问他说转来一位难产,必须你们对你们动嗯你们妇产科急诊手术	5	8	19	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	544.410	563.206	Guo_Xiao_Zhen	female	native	当时我们接了这个电话以后,我们就马上组织医院的职工嗯妇产科的医生护士 (()) ,就做好接诊准备,结果等了四个小时,那个车子无法行---无法行驶,呃就这个灾害,当时我们在家里的医生护士是非常地着急	5	8	21	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	584.423	601.345	Guo_Xiao_Zhen	female	native	一直等到九点四十病人才到,当时我们就是马上地抬到产房里面去,检查了一番, (()) 当时情况蛮危急,胎心是一百八十多次,羊水是三度污染	5	8	25	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	888.358	902.456	Zhou_Jun	male	native	对对, (()) 最-最大块的冰呢至少有这么大吧一百多毫米吧	11	19	55	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	1379.715	1392.733	speaker#1	male	native	其实对于当时的这个交通状况来说啊,呃,冰雪是一个重要的因素,因为很多的路面结冰,让车根本没有办法行走,当时我们有没有---有没有组织人力去进行相关的一些工作	14	24	78	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	1443.541	1476.184	speaker#1	male	native	像这次呃湖南遭遇到这么大的暴风雪哈,铲车师傅肯定是最为紧缺的啦,哦,那那个时候你在哪儿呢,在家,做什么呢,哦那个时候快过年了,在准备年货了,准备了什么,哦,杀了几头猪,杀了一头猪, {laugh} 嗯,嗯	16	28	87	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	1679.190	1712.581	Lei_Jian_Cheng	male	native	他们还比我们辛苦知道嘛,嗯,我看到他一个晚上,第二个晚上,我们还是在车上,还起码不在冰雪上,他们 (()) ,他们都在雪上,他们比我们还没吃亏一些点吧	16	28	102	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	1992.685	2009.277	Cao_Zuo	male	native	对,当时 {cough} 我们郴州日报社的只有一台一九九九年九九年那个抗冰哦抗洪抢险时,购买了一台十个千瓦的发电机	19	34	112	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	2464.131	2483.586	Cao_Zuo	male	native	对 {laugh} 我们享不了好	19	36	158	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	2524.525	2558.650	speaker#1	male	native	嗯,您是一位摄影爱好者吧, {laugh} 带了这么多的照片,这张照片上体现的是什么,嗯,嗯,嗯	19	37	163	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	2588.577	2608.491	Wang_Yue_Ping	male	native	当时有一个乡镇,当时有一台油机在这儿充电的时候,那个线啊一个--一个插线板接着一个插线板,连起来两百多米,同时充电的有三四--三四百人在那里充电, (()) ,就这样,我们保证了全市这个通信的畅通	19	37	168	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	2836.204	2852.105	Wang_Jia_Xiang	male	native	{cough} ,是,我六十二 {cough}	25	46	191	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	2852.105	2881.348	Wang_Jia_Xiang	male	native	三十上午八点多钟,宋志永他找到我,他说 (()) 我这呢操着一拨人,费用由我出,上郴州,上长沙,咱们抗灾去,当时我毫不犹豫,我就答应	25	46	193	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	2938.325	2975.540	Song_Zhi_Yong	male	native	呃,临走的时候,我已经想到了,我们虽然是几个农民组成的,虽然不是个专业队伍,但是我想第一线它有雪,而且要有物资运到山上,咱们有把力气可以做呀,在那修修路也可以,运运料都可以,所以在临出发的时候,我已经让大家把这个铁锹啊,重镐啊,还有扫把呀已经准备好了,假如有人用我们,我们就跟他一起做,没人用我们,我们都是游击队,我们自己做行不行 {cough}	25	47	199	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	2975.540	2983.827	Wang_Jia_Xiang	male	native	初二开始盯到我们十 {cough} 十七	25	48	201	filler	statement
+CCTV2_DIALOG_CMN_20080309_222803	0	3051.037	3071.396	Song_Zhi_Yong	male	native	对,第二天也是这样继续穿,最后呢, {cough} 但是呢大家伙都没有怨言,因为什么,因为呢大家伙从出来那一刻都知道应该面临什么,应该自己怎么做,不用别人去教,因为啊咱们是主动的,而不是被动的	25	49	207	filler	statement

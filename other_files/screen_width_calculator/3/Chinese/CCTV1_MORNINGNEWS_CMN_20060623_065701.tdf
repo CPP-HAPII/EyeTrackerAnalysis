@@ -1,0 +1,525 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'filler', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'filler', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 219.34299999999999, 243.64500000000001, 329.66000000000003, 416.24799999999999, 477.71600000000001, 588.84900000000005, 659.91099999999994, 730.17399999999998, 797.72299999999996, 893.54999999999995, 929.64499999999998, 994.86699999999996, 1026.011, 1030.8699999999999, 1172.6859999999999, 1291.5029999999999, 1373.9929999999999, 1458.883, 1530.7429999999999, 1718.7349999999999, 1894.1079999999999, 1967.7860000000001, 2242.6210000000001, 2292.944, 2349.2440000000001, 2384.7629999999999, 2459.5, 2544.8139999999999, 2611.2429999999999, 2639.172, 2717.8229999999999, 2804.8180000000002, 2836.2440000000001, 2883.8130000000001, 2891.598, 3019.6370000000002, 3117.5529999999999, 3204.6460000000002, 3402.248, 3496.8850000000002, 3567.482, 3649.607, 3716.2179999999998, 3727.4659999999999, 3886.8649999999998, 3930.5340000000001, 4378.6859999999997, 4407.0379999999996, 4461.4279999999999, 4487.6769999999997, 4563.3919999999998, 4709.9830000000002, 4764.8590000000004, 5075.5200000000004, 5204.241, 5357.9709999999995, 5586.9319999999998, 9999999.0]
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	0.000	219.343					0	0	0	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	219.343	221.439	Zhao_Pu	male	native	朝闻天下开启全新一天。	1	1	1	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	221.439	224.762	Li_Zi_Meng	female	native	朝闻天下新闻服务生活,观众朋友早上好。	1	2	2	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	224.762	230.137	Zhao_Pu	male	native	早上好,这里是中央电视台综合频道和新闻频道并机播出的大型早间节目,朝闻天下。	1	3	3	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	230.137	236.051	Li_Zi_Meng	female	native	今天是六月二十三号星期五,现在是北京时间早晨的七点整,新的一天好。	1	4	4	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	236.051	243.645	Zhao_Pu	male	native	好,梓萌和赵普在这儿呢已经陪伴大家一个小时了,好首先我们要来介绍一下世界杯的赛况,我们请看屏幕。	1	5	5	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	243.645	258.148	Li_Zi_Meng	female	native	在北京时间昨天晚上到今天凌晨所结束的四场比赛当中,~F组的巴西队是以四比一大胜日本队,澳大利亚队是以二比二战平了克罗迪亚队,巴西和澳大利亚队晋级到了十六强。	2	6	6	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	258.148	272.179	Zhao_Pu	male	native	~E组的意大利队以二比零战胜了捷克队,终结了捷克的这次世界杯之旅,上次闯入世界杯八强的美国队以一比二惜败,首次参加世界杯的加纳队呢也遗憾地告别了这次世界杯,而加纳呢,晋级十六强。	2	7	7	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	272.179	276.545	Li_Zi_Meng	female	native	那么在稍后的我们将为您献上这个四场比赛的精彩的报道。	2	8	8	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	276.545	284.641	Zhao_Pu	male	native	嗯,二十二号呢在世界杯赛如火如图的进行的同时呢,柏林举行的女足日活动也是十分的惹眼呀。	2	9	9	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	284.641	302.634	Li_Zi_Meng	female	native	由中国队主办的二零零七年女足世界杯比赛用球在活动上第一次亮相了,阿迪达斯公司量身定制的比赛用球在性能和材质上和本届世界杯用球团队之星是完全一致的。	2	10	10	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	284.641	302.634	Zhao_Pu	male	native	嗯,是,那有所别呢只是颜色呢选用了红,蓝两色。	2	10	11	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	302.634	314.807	Li_Zi_Meng	female	native	国际足联主席布拉特在比赛用球发布仪式上就说,女子足球的意义已经超越了足球本身,女子足球在促进妇女社会地位提高方面正在发挥着越来越大的作用。	2	11	12	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	314.807	322.650	Zhao_Pu	male	native	好啦,关注完了足球世界杯,我们再来快速的了解些今天将要发生的其他几件值得关注的事情。	2	12	13	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	322.650	329.660					2	13	14	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	329.660	339.039	speaker#3	male	native	今天,北京,河北,江西,内蒙古,西藏等地可以查询高考成绩了,考生可以通过声讯电话,手机短信和上网等方式查询。	3	14	15	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	339.039	346.387	speaker#3	male	native	中国银行今天将进行~A股网上申购,~A股网上发行数量为三十一亿两千九百八十七点二万股。	3	14	16	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	346.387	357.070	speaker#3	male	native	占本次~A股发行总量的百分之四十八点二,发行价为每股三点零八元,中国银行~A股发行将成为目前国内最大,首次公开发行项目。	3	14	17	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	357.070	363.055	speaker#3	male	native	第四届北京二零零八奥林匹克文化节今天将在北京八达岭长征拉开帷幕。	3	14	18	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	363.055	371.623	speaker#3	male	native	本届文化节以体验文明,共享奥运为主题,推出了二十八项大型奥运文化活动,将一直持续到七月十五号。	3	14	19	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	371.623	379.545	speaker#3	male	native	从今天到七月十五号,历史上规模最大的一次中阿文化交流活动,阿拉伯艺术节将在北京和南京举行。	3	14	20	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	379.545	387.198	speaker#3	male	native	观众不仅可以欣赏到二十二个阿拉伯国家的艺术演出和民族服饰,还可以品尝到丰富的阿拉伯美食。	3	14	21	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	387.198	391.885	speaker#3	male	native	中国人民银行今天发行青藏铁路全线通车金银纪念币一套。	3	14	22	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	391.885	398.729	speaker#3	male	native	金币正面图案为青藏铁路线路示意图及铺轨机工作图,背面为昆仑山遂道。	3	14	23	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	398.729	406.654	speaker#3	male	native	银币正面图案为拉萨火车站及远山,背面为长江源特大桥,牦牛,藏羚羊及雪山。	3	14	24	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	406.654	416.248	speaker#3	male	native	根据原藏模范将军医生李素芝先进事迹改编的八集电视连续剧雪域情,今晚开始将在我台八套播出。	3	14	25	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	416.248	419.120	Li_Zi_Meng	female	native	好啦,朝闻天下,现在是互动的时间。	4	15	26	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	419.120	425.667	Zhao_Pu	male	native	哎我们今天的互动话题,前面介绍过,那就是银联卡跨行查询收费要不要听证。	4	16	27	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	425.667	434.373	Li_Zi_Meng	female	native	那从今年的六月一号开始,四大国有商业银行和交通银行开始对银联卡跨行查询每次收取零点三元的手术费。	4	17	28	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	434.373	442.723	Zhao_Pu	male	native	对,前几天呢,全国人大代表黄细花向全国人大常委会提出了建议,紧急叫停这项收费并就收费问题呢举行听证会。	4	18	29	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	442.723	450.085	Li_Zi_Meng	female	native	那么现在全国人大常委会已经回复了黄细花的这个建议,我们会在稍后的新闻当中来播发这条消息。	4	19	30	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	450.085	459.450	Zhao_Pu	male	native	所以呢我们今天的互动话题就是您认为银联卡跨行查询收费要不要事先举行听证,欢迎发送短信或者是播打电话,我们一起来诉论断。	4	20	31	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	459.450	468.401	Li_Zi_Meng	female	native	那另外世界杯小组赛只剩下今天晚上最后的四场较量了,到底谁将会进军十六强,谁又会出局呢。	4	21	32	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	468.401	477.716	Zhao_Pu	male	native	嗯,您可以按照屏幕上的互动方式来进行预测,我们将在明天中午一点新闻频道播出的我看世界杯特别节目中抽取获奖观众。	4	22	33	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	477.716	483.341	Li_Zi_Meng	female	native	好了,朝闻天下,期待您的参与,赶紧来看一组来自世界杯的消息。	5	23	34	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	483.341	489.895	Zhao_Pu	male	native	世界杯~E组的最后一轮的比赛呢,四支球队有出线的可能,两场比赛命运是相互关连啊。	5	24	35	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	489.895	501.816	Li_Zi_Meng	female	native	在昨天晚上意大利队最终是以二比零击败了捷克队,夺得了本组的头名出线,首次参加世界杯的加纳队积六分以小组第二名出线。	5	25	36	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	501.816	507.774	speaker#3	male	native	意大利对捷克,美国对加纳的两场比赛同时开球,先来看意大利对捷克的比赛。	5	26	37	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	507.774	512.899	speaker#3	male	native	开场后两队中场拼抢凶狠,双方都有任意球机会,但是彼此威胁不大。	5	26	38	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	512.899	520.837	speaker#3	male	native	上半场第二十六分钟时,意大利队的马特拉奇头球破门,以一比零领先捷克队,这一比分保持到了上半场结束。	5	26	39	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	520.837	527.852	speaker#3	male	native	下半场,红牌罚下一人的捷克队显得比较被动,意大利队反而是越打越勇,多次创造出进机会。	5	26	40	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	527.852	543.692	speaker#3	male	native	中场前几分钟,意大利首次亮相本界世界杯的队员英扎奇接队友传球,单刀突入禁区,右脚淌过倒地扑救的对方守门员,推进扑门,以二比零锁定胜局,积七分以小组第一的成绩进军十六强。	5	26	41	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	543.692	549.055	speaker#3	male	native	再来看上界世界杯闯入八强的美国队与首次参加世界杯的加纳队的比赛。	5	26	42	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	549.055	565.157	speaker#3	male	native	上半场第二十二分钟时,加纳队二十岁的德拉马尼在前场反抢成功,带球突入禁区后,推射远门柱破门,美国队拼命反扑,第四十三分钟时,德姆普西在门前大力劲射洞穿加纳队的球门,将比分扳平。	5	26	43	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	565.157	571.375	speaker#3	male	native	在上半时补时阶段,加纳队阿皮亚将点球罚中,二比一,此比分一次保持到比赛结束。	5	26	44	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	571.375	577.594	speaker#3	male	native	最终加纳队积六分以小组第二的身份晋级,这也是非洲球队获得的第一张十六强的闯券。	5	26	45	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	577.594	588.849	speaker#3	male	native	目前,参加德国世界杯的五支非洲球队,克特迪瓦,安哥拉,多哥队已经被淘汰出局,突尼斯队两战仅积一分,今天晚上将与乌克兰队展开决逐。	5	26	46	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	588.849	596.232	Li_Zi_Meng	female	native	那么就在意大利和捷克队这场比赛结束之后不久,闹得纷纷扬扬的意大利足球丑闻又有了重大的进展。	6	27	47	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	596.232	602.479	Zhao_Pu	male	native	意大利足协呢向法庭提起诉讼,指控尤文图斯等四家俱乐部呢涉嫌体育欺诈的行为。	6	28	48	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	602.479	605.057	Li_Zi_Meng	female	native	来看详细报道。	6	29	49	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	605.057	612.970	speaker#3	male	native	被意大利足协指控的俱乐部是尤文图斯,~A~C米兰,拉奇奥和佛罗伦萨这四家意甲老牌劲旅。	6	30	50	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	612.970	618.615	speaker#3	male	native	目前在德国征战世界杯的二十三名意大利左脚中就有十三人出自这四家俱乐部。	6	30	51	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	618.615	623.669	speaker#3	male	native	同时遭到指控的还有一些俱乐部的管理人员,但是没有球员被起诉。	6	30	52	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	623.669	628.867	speaker#3	male	native	一个体育法庭最迟将在本届世界杯结束前对这些指控作出裁决。	6	30	53	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	628.867	638.602	speaker#3	male	native	上月,意大利媒体披露尤文图斯俱乐部前总经理莫吉通过电话指定裁判操纵比赛,引爆了意大利足坛的一系列丑闻。	6	30	54	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	638.602	644.992	speaker#3	male	native	多家俱乐部及其管理人员牵扯其中,一些著名球员也被怀疑与丑闻有关。	6	30	55	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	644.992	657.243	speaker#3	male	native	如果意大利足协对于这些俱乐部和人员的指控被裁定成立,那么俱乐部所处的球队可能面临降级,巨额罚款等处罚,一些人员还可能面临刑事诉讼。	6	30	56	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	657.243	659.911	Zhao_Pu	male	native	足球好看,可是也多事儿哈。	6	31	57	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	659.911	672.877	Li_Zi_Meng	female	native	德国世界杯~F组过了两场比赛,在今天凌晨的三点钟同时开球了,在多特蒙德卫斯特法伦球场,巴西队是以四比一逆转击败了日本,最终是以全胜的战绩头名出线。	7	32	58	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	672.877	674.768	Zhao_Pu	male	native	看一看。	7	33	59	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	674.768	679.191	speaker#3	male	native	巴西队和日本队今天对首发阵容都作了一定的调整。	7	34	60	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	679.191	687.741	speaker#3	male	native	上半场进行到第三十三分钟,日本队玉田圭司在门前十米处左脚小角度抽射打入了禁角,巴西零比一落后。	7	34	61	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	687.741	696.747	speaker#3	male	native	巴西队随后加强了进攻,上半时补时阶段,状态一直低迷的罗纳尔多终于显示出了自己的势力,利用头球将比分扳平。	7	34	62	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	696.747	701.638	speaker#3	male	native	下半场开始后,巴西队凭借精湛的技术在日本队门前屡屡制造险情。	7	34	63	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	701.638	707.013	speaker#3	male	native	罗迪尼奥和吉尔伯托各打进一球,巴西队很快就取得了领先优势。	7	34	64	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	707.013	713.016	speaker#3	male	native	随后,巴西队将罗纳尔迪尼奥,卡卡等主力队员换下,但巴西队的进球还没有结束。	7	34	65	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	713.016	721.758	speaker#3	male	native	第八十六分钟,罗纳尔多的推射把比分定格为四比一,他本人以十四球的成绩追平了盖特莫瑞的世界杯个人进球纪录。	7	34	66	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	721.758	727.920	speaker#3	male	native	巴西队也以三战全胜积九分的完美战绩小组第一出线。	7	34	67	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	727.920	730.174	Zhao_Pu	male	native	巴西队还是厉害啊。	7	35	68	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	730.174	742.604	Li_Zi_Meng	female	native	而在另外一场澳大利亚对克罗迪亚的比赛当中,出现全是在九十分钟之内四睹一胜,	8	36	69	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	730.174	742.604	Zhao_Pu	male	native	呵,最终呢澳大利亚凭借着一个有争议的进球二比二逼平了克罗迪亚,以小组第二出线了。	8	36	70	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	742.604	749.165	speaker#3	male	native	两队在历史上较真过四场,克罗迪亚队以一胜一平两负稍处下风。	8	37	71	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	749.165	757.165	speaker#3	male	native	克罗迪亚今天打出了完美的开局,开场仅两分钟,松尔纳就利用任意球帮助克罗迪亚以一比零领先。	8	37	72	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	757.165	764.159	speaker#3	male	native	三十八分钟时,克罗迪亚的托马斯禁区内手球犯规,摩尔的点球将双方拉回了同一起跑线。	8	37	73	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	764.159	773.626	speaker#3	male	native	下半场比赛,澳大利亚门将卡拉奇犯下了大错,面对尼克,科瓦奇的远射,他扑球脱手,皮球从他身上跃过,滚入了空门。	8	37	74	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	773.626	782.901	speaker#3	male	native	胜利的天平再一次向克罗迪亚倾斜,当烦强的澳大利亚队并没有放弃,第七十九分钟,科威尔凌空抽射,将比分再一次扳平。	8	37	75	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	782.901	792.775	speaker#3	male	native	慢镜头显示,科威尔在进球时已经处于了越位的位置,澳大利亚队幸运的以小组第二的身份晋级十六强。	8	37	76	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	792.775	797.723	Li_Zi_Meng	female	native	其实这四场比赛啊,看了这个比赛的观众可能每个人都有自己的评论。	8	38	77	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	797.723	802.956	Zhao_Pu	male	native	对啊,我们也要看看国外的媒体对这四-四场比赛呢,呃到底是怎么样来评价的。	9	39	78	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	802.956	805.738	Li_Zi_Meng	female	native	来看一下。	9	40	79	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	805.738	820.145	speaker#3	male	native	对于意大利与捷克队的比赛,法国费加罗报指出,原本有希望小组出线的捷克队由于人员不整,不得不带着被粉碎的梦想黯然离开本届世界杯,由一名表演者变成了一名看客。	9	41	80	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	820.145	833.675	speaker#3	male	native	与意大利队携手出线的是非洲新军加纳队,德国明镜周刊评论说,加纳队在绝大部分时间里表现得富有攻击性,二比一力克美国队出线,加纳队给非洲争了气。	9	41	81	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	833.675	849.356	speaker#3	male	native	对于巴西与日本队的比赛,法国世界报评论说,虽然先得分的是日本,但打出了自己风格和节奏的巴西队仍然是大比分获胜,日本队在这场比赛中,他的作用呢仅仅是充当了场上的另外一半而已。	9	41	82	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	849.356	866.216	speaker#3	male	native	澳大利亚与克罗地亚展开了一场生死战,阿根廷奥莱报指出,尽管两度落后,但希丁克持教的澳大利亚队从未放弃,逐渐占据了场上优势并追平了比分,澳大利亚人创造了历史,希丁克也创造了历史。	9	41	83	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	866.216	893.550					9	42	84	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	893.550	902.851	Li_Zi_Meng	female	native	好的在今天精彩还将会继续,在今天晚上和明天的早晨世界杯小组赛第三轮还将会展开最后四场争夺。	10	43	85	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	902.851	910.079	Zhao_Pu	male	native	对,其中呢~H组沙特对西班牙的比赛将于今天晚上的十点钟开赛,我台的经济频道将会现场直播。	10	44	86	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	910.079	917.670	Li_Zi_Meng	female	native	而~H组的另外一场由乌克兰对阵突尼斯的比赛也将会同时开战,我台的体育频道将会进行现场直播。	10	45	87	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	917.670	925.422	Zhao_Pu	male	native	明天凌晨的三点,~G组的还将同时展开两场争夺,我台的综合频道将为现场直播多哥和法国之间的较量。	10	46	88	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	925.422	929.645	Li_Zi_Meng	female	native	另外我台的体育频道将会现场直播瑞士对阵韩国的比赛。	10	47	89	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	929.645	936.613	Zhao_Pu	male	native	嗯,好,接下来我们来看看国外的媒体对这几场比赛的评测。	11	48	90	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	936.613	946.191	speaker#3	male	native	对于法国与多哥队的比赛,英国天空体育评论说,已经被逼入绝境的法国队并非没有实力,只是受老将拖累。	11	49	91	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	946.191	955.560	speaker#3	male	native	齐达内无法在这场比赛中上场,对法国队来说也许是个好消息,但即使击败多哥队,能否出线还得看本组另外一场比赛的结果。	11	49	92	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	955.560	959.488	speaker#3	male	native	看来法国队极有可能走上届世界杯的老路。	11	49	93	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	959.488	970.565	speaker#3	male	native	而对于决定法国命运的瑞士队与韩国队的比赛,德国法兰克福汇报指出,两队都是快速整体攻防的球队,很可能展开一场激烈的阵地进攻战。	11	49	94	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	970.565	975.769	speaker#3	male	native	届时,能够率先压倒对方气势的一方,将会取得最后的胜利。	11	49	95	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	975.769	981.691	speaker#3	male	native	已经出局的沙特阿拉伯与已经出线的西班牙之间的比赛似乎没有悬念。	11	49	96	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	981.691	994.867	speaker#3	male	native	对于同组乌克兰与突尼斯的比赛,德国图片报报道说,局势对于状态回升的乌克兰来说比较明朗,只要打平突尼斯就可以创造历史,第一次打进世界杯就晋级十六强。	11	49	97	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	994.867	1026.011					12	50	98	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1026.011	1028.616	Li_Zi_Meng	female	native	好,接下来是一段简短的广告。	13	51	99	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1028.616	1030.870	Zhao_Pu	male	native	嗯,我们继续来关注今天国际新闻。	13	52	100	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1030.870	1172.686					14	53	101	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1172.686	1183.202	Zhao_Pu	male	native	您正在收看的是中央电视台综合频道和新闻频道并机播出的早间节目朝闻天下,现在是七点十六分,梓萌正在为我们准备媒体广场的内容。	15	54	102	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1172.686	1183.202	Li_Zi_Meng	female	native	好的,谢谢赵普。	15	54	103	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1183.202	1189.728	Zhao_Pu	male	native	好,接下来由我来继续为您播报国际方面的消息,我们来关注印尼。	15	55	104	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1189.728	1204.956	Zhao_Pu	male	native	在印度尼西亚的海滩,印尼海军官员二十二号说呢,尽管风大浪急,印尼海军当天还是从北苏门答腊省沉船水域救上了八十人,目前,在这起海难中,仍有五十四人是失踪,其中包括三名美国公民。	15	55	105	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1204.956	1216.091	Zhao_Pu	male	native	二十二号的上午,一舰--一艘载有一百二十名乘客和十四名船员的渡船,因为船体漏水在北苏门答腊省西北海域沉没了。	15	55	106	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1216.091	1235.630	Zhao_Pu	male	native	二十二号第二十九届红十字与红新月国际大会在瑞士日内瓦经过投票表决,同意接纳以色列紧急救援组织红色大卫盾和巴勒斯坦红新月会为国际红十字会运动成员,并正式批准将红水晶定为国际救援运动的第三个标志。	15	55	107	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1235.630	1245.604	speaker#3	male	native	经过两天的谈判,与会代表在二十二号的大会上,以绝大多数赞成的表决结果,通过了修订国际红十字与红新月运动章程的决定。	15	56	108	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1245.604	1256.382	speaker#3	male	native	随着对运动章程的修订,国际红十字运动成员代表在二零零五年十二月通过的,新增红水晶标志为国际救援组织第三个标志的附加议定书生效。	15	56	109	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1256.382	1263.413	speaker#3	male	native	被认为不具有任何民族,宗教或文化内涵的红水晶标志被引入国际红十字运动。	15	56	110	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1263.413	1273.694	speaker#3	male	native	红水晶标志与现有的红十字和红新月标志享有同等地位,此举也使得以色列的紧急救援组织红色大卫盾能够加入国际红十字运动/	15	56	111	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1273.694	1282.101	speaker#3	male	native	从而结束了自一九四九年以来以色列红色大卫盾组织因拒绝采用红十字会官方标志,而徘徊在该机构大门之外的历史。	15	56	112	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1282.101	1291.503	speaker#3	male	native	国际红十字运动由红十字国际委员会,红十字会与红新月会国际联合会和各国红十字会和红新月会组成。	15	56	113	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1291.503	1295.800	Zhao_Pu	male	native	更多国际新闻,请看今天的朝闻快报。	16	57	114	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1295.800	1311.802	speaker#3	male	native	二十二号,联合国秘书长安南在瑞士日内瓦与伊朗外长穆塔基举行闭门会谈后表示,伊朗在认真考虑美,俄,中,英,法,德六国提出的伊朗核问题解决方案,但伊朗不会在七月份的八国峰会之前就这一方案作出答复。	16	58	115	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1311.802	1323.964	speaker#3	male	native	安南还说,他也向伊朗领导人强调,伊朗应该通过与国际原子能机构充分合作,来让世界相信其核计划的和平目的,这符合伊朗的利益。	16	58	116	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1323.964	1335.546	speaker#3	male	native	经过近三个月的谈判,乌克兰的季莫申科联盟,我们的乌克兰联盟和社会党二十二号最终签署结盟协议,联合组成议会多数派,以组建新一届联合政府。	16	58	117	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1335.546	1342.396	speaker#3	male	native	根据结盟协议,季莫科联盟领导人季莫申科将成为唯一的总理候选人。	16	58	118	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1342.396	1351.184	speaker#3	male	native	印度尼西亚林业部长卡班二十二号表示,印尼南苏拉威西省连日来发生的水灾是对森林管理不当造成的直接后果。	16	58	119	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1351.184	1360.430	speaker#3	male	native	当地很多林区在承包人完成作业并撤离之后不能继续得到维护,这种现象已有三十年之久,还有一些林区被转作它用。	16	58	120	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1360.430	1367.047	speaker#3	male	native	南苏拉威西省部分地区近日发生水灾和山体滑坡,目前已造成二百多人死亡,上百人失踪。	16	58	121	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1367.047	1373.993					16	59	122	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1373.993	1380.729	Zhao_Pu	male	native	朝闻天下,现在是七点十九分,我们继续连线中国气象局天气主持人,蓝一,请她来为我们介绍今天的天气情况。	17	60	123	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1380.729	1382.292	Zhao_Pu	male	native	蓝一,你好。	17	61	124	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1380.729	1382.292	Lan_Yi	female	native	你好,赵普。	17	61	125	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1382.292	1392.214	Zhao_Pu	male	native	嗯,这个天气一热,就关注气温,今天气温方面的情况怎么样。	17	61	126	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1382.292	1392.214	Lan_Yi	female	native	嗯,怎么说呢,对于今天高温的地方来说呢,今天的这个呃好消息并不多哈。	17	61	127	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1392.214	1404.280	Zhao_Pu	male	native		17	61	128	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1392.214	1404.280	Lan_Yi	female	native	因为高温的范围变化不大,不过呢,在部分地方呢还是有一些变化的,我们一起看到这个图上哦,在这个安徽的西南部还有湖北的东南部,这一片呢今天就已经是退出了橙色的高温区了。	17	61	129	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1404.280	1415.362	Zhao_Pu	male	native		17	61	130	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1404.280	1415.362	Lan_Yi	female	native	而在浙江的大部,福建,江西,湖南,还有广东的北部这些地方呢,今天仍然要经受高温的灸烤,不过很快哈,盘踞在江南的高温天气呢明天就会被雨水冲走了。	17	61	131	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1415.362	1420.077	Zhao_Pu	male	native		17	61	132	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1415.362	1420.077	Lan_Yi	female	native	相信明天早晨的时候呢我们就会给南方的朋友带来更多的气温方面的好消息。	17	61	133	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1420.077	1433.433	Zhao_Pu	male	native	好,我们期待好消息,那降水方面的情况呢。	17	61	134	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1420.077	1433.433	Lan_Yi	female	native	嗯,今天下雨的地方呢还是挺多的,说到雨水哈,近几天里它算是一个功臣了,它先是呢给北方退了烧,现在呢又继续南下来给南方去火降温。	17	61	135	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1433.433	1449.723	Zhao_Pu	male	native		17	61	136	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1433.433	1449.723	Lan_Yi	female	native	那今天我们看到图上啥,雨水的中心主要是在江淮这一带,呃其中的在这河南的南部,江苏,安徽,湖北,呃湖南的北部,重庆的东南部,贵州的西部,云南的东北部和四川南部这些地方呢,都会下起大到暴雨,局部地方还会有大暴雨。	17	61	137	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1449.723	1458.883	Zhao_Pu	male	native		17	61	138	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1449.723	1458.883	Lan_Yi	female	native	那这样一场雨水不仅可以把这个闷热的天气一扫而光呢,还有效的缓和了这里的旱情,好,接下来,我们还是来看看城市预报。	17	61	139	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1458.883	1530.743					18	62	140	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1530.743	1536.552	Zhao_Pu	male	native	好啦,了解完了天气又到了媒体广场的时间了,现在请梓萌给大家介绍今天各大媒体的精彩内容。	19	63	141	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1536.552	1543.986	Li_Zi_Meng	female	native	好的,谢谢赵普,关注今天媒体,打开各大报章,您马上要进入的是今天的媒体广场。	19	64	142	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1543.986	1559.345					19	65	143	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1559.345	1567.070	Li_Zi_Meng	female	native	好啦,在接下来的这二十五分钟的时间里面,我将来带您浏览一下今天各大平面媒体将会主要关注哪些事情。	19	66	144	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1567.070	1578.298	Li_Zi_Meng	female	native	首先进入今天的关注话题,今天在关注这个环节,我们将会来关注两件事情,一个就是在我国的渤海湾成功举办了第一次海空联合军事演习。	19	66	145	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1578.298	1583.501	Li_Zi_Meng	female	native	另外一个话题就会关注一下我们首都北京它的宜居水平到底怎么样。	19	66	146	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1583.501	1600.957	Li_Zi_Meng	female	native	先来看一下来自中国交通报的报道说,我国在渤海湾成功举行了大规模的海上联合搜救演习,那这次联合搜救演习的地点是在大连港的附近海域,时间是在六月二十二号的十点三十分。	19	66	147	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1600.957	1616.864	Li_Zi_Meng	female	native	那另外在今天这个中国交通报的第四版的位置是,对于这次海空联合军事演习作了比较详细的报道,而且还配发了图片,您现在看到的这些图片就是在进行海空联合军事演习当中的一些画面。	19	66	148	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1616.864	1636.057	Li_Zi_Meng	female	native	而这个演习的内容呢,主要包括有五部分,第一幕就是来处置险情,它的第二部分就是进行人命救助,第三部分是进行消防灭火之后会进行海上清物,最后一部分是检阅仪式。	19	66	149	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1636.057	1645.213	Li_Zi_Meng	female	native	而且在这篇文章的旁边啊,给我们提供了一些海上求生的基本常识,我也想向观众朋友介绍一下。	19	66	150	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1645.213	1659.310	Li_Zi_Meng	female	native	他说这个呃船艇失火的时候,怎么样逃生,另外在海上遇险的时候您如何求生,如果船火一旦失火的话,您要这由于空间非常的有限,所以说应该立即关闭引擎。	19	66	151	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1659.310	1675.569	Li_Zi_Meng	female	native	如果是在甲板下面的话,下面的话,船上的人应当立即到甲板上面等等,如果是在海上遇险怎么样求生呢,应该会利用各种途径来获取食物或者是淡水来想方设法的维持自己的生命。	19	66	152	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1675.569	1685.526	Li_Zi_Meng	female	native	好,我们再来看这个半岛成报同样也是对于这次二零零六年的海上联合搜救演习进行了相关的报道。	19	66	153	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1685.526	1699.083	Li_Zi_Meng	female	native	它的题目叫做海空大营救,其中提到了一个信息就是说这次的海空联合军事演习不仅是第一次,而且它所使用的设备也是前所未有的高科技。	19	66	154	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1699.083	1718.735	Li_Zi_Meng	female	native	比如说这次的指挥船呢这个海巡三幺号,它就是在我国目前这个设备最为先进的,而且也是在国际上第一次所使用的这个示航无限航区的国际航行路径传播。	19	66	155	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1718.735	1729.560	Li_Zi_Meng	female	native	好,这个话题我们先来关注到这儿,接下来了解一下到底北京市民他的宜居指标怎么样呢,这个事情还要从这个刚刚发布的蓝皮书开始说起。	20	67	156	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1729.560	1749.147	Li_Zi_Meng	female	native	宜居城市蓝皮书,上午第一次发行了,发行了一万一千份问卷,而给出的这个最终的得分是六十三点八分,满分是一百分,从这个得分可以看了北京市民对于首都的居住状态是基本给出了一个合格的分数。	20	67	157	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1749.147	1754.066	Li_Zi_Meng	female	native	到底北京市民这个关注的宜居的方面应该包-应该包括哪几方面呢。	20	67	158	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1754.066	1766.641	Li_Zi_Meng	female	native	首先是这个生活的方便性啊,安全性,另外还有自然环境的舒适度以及人文环境和出行便捷度以及健康性等等,六大类,一共包括了三十二项指标。	20	67	159	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1766.641	1771.515	Li_Zi_Meng	female	native	而北京市民最为关心的就是城市的安全问题。	20	67	160	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1771.515	1782.586	Li_Zi_Meng	female	native	那给出的最低的分数就是舒适北京和健康北京,对-对于北京的大气污染的问题提出来的是比较关键的一个不满意的地方。	20	67	161	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1782.586	1786.836	Li_Zi_Meng	female	native	另外,他们对于北京最不满意的就是软环境的建设。	20	67	162	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1786.836	1798.024	Li_Zi_Meng	female	native	虽然近来北京市的硬建设发展是相当不错,但是在一些社区里面和一些高档的写字楼里面,相关配套的人性化设计并不是让人非常的满意。	20	67	163	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1798.024	1802.064	Li_Zi_Meng	female	native	另外,市民还表示,在北京的生活其实是挺方便的。	20	67	164	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1802.064	1806.236	Li_Zi_Meng	female	native	在这里有个图表,我们可以通过数据来更加清晰的了解一下。	20	67	165	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1806.236	1817.028	Li_Zi_Meng	female	native	生活北京它的得分是最高的,而在这我们也看到了,自然舒适北京,人文舒适北京还有健康北京这三个指标得分是比较低的。	20	67	166	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1817.028	1823.457	Li_Zi_Meng	female	native	那这次调查呢也是对于这个北京市的不同的城区呀进行了分类。	20	67	167	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1823.457	1833.547	Li_Zi_Meng	female	native	结果这个通过城区的分类得出来的这个最终的结果是,北京的两个最大的经济适用房居住区它的得分是最低的。	20	67	168	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1833.547	1842.282	Li_Zi_Meng	female	native	其中就包括了天通苑,天通苑的宜居水平是倒数第一,这是精华时报为我们带来的消息。	20	67	169	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1842.282	1857.286	Li_Zi_Meng	female	native	天通苑其实是在这个北京市的北边,它是呃这个,是这个目前在北京市最大的一个经济适用房的居住区,不仅仅它的这个安全性上排在最后一位。	20	67	170	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1857.286	1865.723	Li_Zi_Meng	female	native	而且它的舒适度以及它的人文性等方面等等,都是排在最后一位,所以说总体来说,它的评分就是倒数第一。	20	67	171	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1865.723	1873.655	Li_Zi_Meng	female	native	而排在比较靠前的位置是西城区,还有呃这个宣武区等等。	20	67	172	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1873.655	1883.559	Li_Zi_Meng	female	native	同样回龙观也是北京市比较大的一个经济居住区,它的居住条件也比较差,排名也是非常的靠后。	20	67	173	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1883.559	1894.108	Li_Zi_Meng	female	native	好啦,今天的关注环节我们先进行到这儿,接下来再来看一下今天的各大报章有哪些主要内容值得我们关注。	20	67	174	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1894.108	1911.913	speaker#3	male	native	二十八年的行医,帮助困顿家庭无数,终因疲劳过渡而倒下,但人民却永远记得他,人民日报头版头条,看到娃娃就想起你,追记陕西省大荔县妇幼保健院妇产科主任朱翠芳。	21	68	175	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1911.913	1923.409	speaker#3	male	native	农民日报头版头条,几十位孤老的孝顺儿子,农民吴显才,个人出资办养老院,十多年来让四十五名孤寡老人安享晚年。	21	68	176	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1923.409	1936.248	speaker#3	male	native	工人日报头版,八十名农民工二十六万元工资被拖欠长达六年,讨薪马拉松成本之高,令工会都难以承受,农民工维权高成本症结何在。	21	68	177	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1936.248	1944.452	speaker#3	male	native	经济日报头版头条,桥引擅掉畅其流,洪泽湖的水是这样管的。	21	68	178	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1944.452	1952.471	speaker#3	male	native	新华每日电讯头版头条,调控措施从暧昧变硬朗,国六条压力下,地方政府出手了。	21	68	179	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1952.471	1961.259	speaker#3	male	native	经济参考报头版头条,内部通报不灵,公开报光无产,医院骗保屡查屡骗,凸显监管乏力。	21	68	180	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1961.259	1967.786					21	69	181	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1967.786	1981.148	Li_Zi_Meng	female	native	好,欢迎您继续关注朝闻天下,这里是正在为您直播的媒体广场,以下来进入今天的周末瞬间,来看一组来自世界杯的图片。	22	70	182	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1981.148	1991.179	Li_Zi_Meng	female	native	我们现在看到的这个图片是两名球员正在争抢一个足球,这两名球员分别是来自科特迪瓦还有塞黑队。	22	70	183	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	1991.179	2005.005	Li_Zi_Meng	female	native	在前面的是科特迪瓦的球员眼看这个他就要控球了,但是塞黑队的球员恨不得是一把把他给逮住,好象是在说,别跑那么快,嘿你等等我。	22	70	184	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2005.005	2017.765	Li_Zi_Meng	female	native	这同样是一个抢球的画面,很有意思,阿根廷和荷兰队的球员,目前正在拼抢足球,现在阿根廷队的十五号队员好象是有一点急了,他说,我隔着你看你怎么办/	22	70	185	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2017.765	2025.687					22	71	186	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2025.687	2035.535	Li_Zi_Meng	female	native	而这张图片是一个阿根廷球员跟一个荷兰球员在抢球,好象看起来是荷兰球员更加技高一筹,是不是。	22	72	187	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2035.535	2046.897	Li_Zi_Meng	female	native	这张图片的名字应该叫做足球大餐吧,看到足球从天而降,安哥拉的球员是喜笑颜开,干脆就用手来接住这天上掉下来的馅饼。	22	72	188	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2046.897	2054.514					22	73	189	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2054.514	2061.140	Li_Zi_Meng	female	native	这个球员是手眼并用,眼睛盯着上面的足球,但是他的手可没闲着,手拉着旁边的一个球员。	22	74	190	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2061.140	2067.838					22	75	191	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2067.838	2078.070	Li_Zi_Meng	female	native	看到了墨西哥队的球员在比赛当中头球解围,葡萄牙球员的眼睛都瞪圆了,这样看来,对阵双方还真有点象是足球场上的斗鸡。	22	76	192	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2078.070	2083.688					22	77	193	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2083.688	2097.175	Li_Zi_Meng	female	native	我们都说足球好象只有奔跑和拼抢,但是看了这张照片,似乎又多了一层浪漫,有点象泰坦尼克号,那个非常精典的场景。	22	78	194	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2097.175	2106.995	Li_Zi_Meng	female	native	哎,这张照片应该叫做三头六臂吧,摄影师非常精确的捕捉到了这一个瞬间,不过这三个头他们的表情差异太大。	22	78	195	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2106.995	2112.354					22	79	196	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2112.354	2122.604	Li_Zi_Meng	female	native	这张球片,这-这张-这张照片非常有意思,这个球员在不停的拼抢足球,我们都知道足球是用脚踢的,但是莫名其妙在这的旁边伸出了一只手,好象是要把球扒了走/	22	80	197	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2122.604	2130.238					22	81	198	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2130.238	2146.440	Li_Zi_Meng	female	native	最有意思的应该是最后这一张,看到墨西哥球员马上就要跌倒了,葡萄牙队的球员赶紧就举起双手,以示自己是清白的,潜台词就是,我没动,是他自己摔倒,而且这个球员腰部的韧性真的是非常的好。	22	82	199	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2146.440	2154.857	Li_Zi_Meng	female	native	好了,读图看天下,来看一些组来自新华社,法新社以及其它媒体的图片。	22	82	200	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2154.857	2175.698	speaker#5	female	native	印度尼西亚的水灾和山体滑波已经造成了逾百人遇难,在印度尼西亚南苏拉维西省的新甲一,救援人员在泥泞中搬运一名遇难的遗体,生与死就这样被玻璃门永久的隔开,望着遇难者的遗体,活着的人心里有的大概是悲凉。	22	83	201	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2175.698	2186.972	speaker#5	female	native	在美国亚利桑那州的塞多纳附近,山火引起的浓烟笼罩着山头,山火肆虐,尽管动用大量的人力物力,但仅控制了百分之五的火场。	22	83	202	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2186.972	2197.815	speaker#5	female	native	花费一万多个小时,历时四年,莱克飞行者三号飞机复制品终于完成,驾驶这样的飞机在法国飞行也算是对莱克的纪念吧。	22	83	203	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2197.815	2208.249	speaker#5	female	native	明亮的图位二和暗金黄色的图位六相映成趣,如同一场太空芭蕾,这些美丽景象就是美国卡西尼飞船传回的照片。	22	83	204	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2208.249	2219.894	speaker#5	female	native	人们在英国著名的斯通亨奇巨石阵边观看日出,迎接夏日的来临,巨石阵位于英国南部索尔兹伯里平原上,有几千年的历史。	22	83	205	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2219.894	2229.095	speaker#5	female	native	终于下雨了,多日的高温也有所缓解,驾驶摩托车从安徽淮北街头积水中这样驶过,心情也应该是不错的吧。	22	83	206	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2229.095	2238.190	speaker#5	female	native	同日难得的大雨,由于排水设施建设滞后,西安的阿房宫却变成为积水潭。	22	83	207	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2238.190	2242.621	Li_Zi_Meng	female	native	好了,一段简短的广告过后来继续关注今天的媒体广场。	22	84	208	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2242.621	2292.944					23	85	209	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2292.944	2295.835	Li_Zi_Meng	female	native	好,欢迎回来,来继续今天的话题部分。	24	86	210	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2295.835	2302.422	Li_Zi_Meng	female	native	先来看来自人民日报的一篇报道,题目是拖延了三年未完成,半城污水泄长江。	24	86	211	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2302.422	2316.626	Li_Zi_Meng	female	native	说的是三峡库区申明坝污水处理厂,本来应该是在这个二零零三年的六月份就建成并且投入试运行,每天可以处理六万吨污水,但是呃在库区它的作用是非常的重要的。	24	86	212	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2316.626	2332.911	Li_Zi_Meng	female	native	但是直到今天污水处理厂目前连个影子都没有,重庆万州城区现在是仍然有一半的生活污水直接排向了长江,而究其原因主要是有三点,首先是污染防治规划缺位,为了赶进度仓促上岗。	24	86	213	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2332.911	2349.244	Li_Zi_Meng	female	native	那野蛮施工引发了滑坡低级错误,耐人寻味,而这个滑坡治理是一败再败,竣工日期也是一拖再拖,在这里我们想说象这样的工程,当然还是尽早完工的好,有关部门还是要加紧工作。	24	86	214	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2349.244	2367.058	Li_Zi_Meng	female	native	来自深圳商报的一条消息说,孩子你没白来一趟人世,说的是在深圳的一对年轻夫妇,他们在半年之前刚刚生下了一个男孩,但是非常不幸的是由于这个男孩得了绝症,在仅仅来到世间六个月以后就不幸离开了这个人世。	25	87	215	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2367.058	2384.763	Li_Zi_Meng	female	native	这对夫妇说,虽然孩子的年龄非常的小,但是也希望他能够为世界留一点贡献,于是他们就决定把自己孩子的眼角膜捐献出来,目前这个呃受捐者正在赶往深圳的路上。	25	87	216	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2384.763	2403.829	Li_Zi_Meng	female	native	半岛都市报,同样是讲述了一个非常感人的故事,自制感恩卡赠给让座人,一个叫做郑明明的小姑娘,今年二十八岁,在去年的时候她不幸得了红疮狼斑症,那从此之后她不得不拄着双拐来进行行走。	26	88	217	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2403.829	2411.904	Li_Zi_Meng	female	native	因为家庭经济条件比较差,所以说她很难坐出租车来进行交通出行,只能选择公交出行的方式。	26	88	218	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2411.904	2425.072	Li_Zi_Meng	female	native	呃,让她非常感动的是当她每次坐公交车的时候都有很多的好心人为她让坐,她对此事即感激又愧疚,因为她觉得自己只有二十八岁,应该是更多的向社会做贡献的时候。	26	88	219	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2425.072	2437.470	Li_Zi_Meng	female	native	为了表达自己的这份感激以及愧疚之情,她呃亲自制作了很多的感恩卡,一共制作了七十多张,半年的时候发放出了五十多张。	26	88	220	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2437.470	2459.500	Li_Zi_Meng	female	native	这些卡片有方形的,也有棱形的,会在上面写上,写上很多的她的真心的话语,比如说,谢谢您的帮助,您的帮助让我感觉非常的温暖,我想她这种奉献爱心的方式也会让更多乐于助人的人会更多的奉献出自己的爱心,更愿意帮助别人。	26	88	221	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2459.500	2470.485	Li_Zi_Meng	female	native	新华每日电讯,报道了一条消息说,公款重奖名校生,政府花钱是不是太没谱。	27	89	222	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2470.485	2486.441	Li_Zi_Meng	female	native	说的是在广东东莞市的镇政府,为了奖励这个考上清华,还有北大的学生是,给每名学生奖励五十万元,而还有一部分学生会被奖励一万元到三千元。	27	89	223	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2486.441	2502.261	Li_Zi_Meng	female	native	那这三千元到五十万元不等的这个奖金设置从表面上看是政府为了促进当地教育事业的发展,但是实际上这笔钱是公共资金,到底是谁给了政府这个权力,能让他们来随意来使用这笔公共资金呢。	27	89	224	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2502.261	2516.567	Li_Zi_Meng	female	native	文章就说这个问题是财政运行缺乏应有的公开性,严谨性,透明性,政府花起钱来就很没谱,往往是由着领导的性子随意的支配,这才有了公款奖励名校生的现象。	27	89	225	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2516.567	2539.531	Li_Zi_Meng	female	native	而且,在这个政府随意花钱的背后也是错误-错误教育的这个政绩观在作祟,是片面追求质量,只是追求短期经济效益的一个表面文章,而且这种重奖措施对于学生也是没有好处的,只会更加鼓动他们说有分才有钱,有分才有味的这种盲目的思想。	27	89	226	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2539.531	2544.814	Li_Zi_Meng	female	native	这种现象我们希望在其它地方也不要再发生。	27	89	227	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2544.814	2563.025	Li_Zi_Meng	female	native	现在高考已经结束了,那这个很多考生都是纷纷要出去旅行,但是可能人们忘了,忘记了关注另外一个群体,就是现在有很多的大学生也面临这个毕业,他们用什么样的方式来告别自己的大学生活呢。	28	90	228	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2563.025	2578.631	Li_Zi_Meng	female	native	以前我在读大学的时候可能会请老师吃饭呀,或者是和同学一起聚会呀,但是现在的大学生不同了,他们选择了用旅行的方式向大学生活说再见,这是来自中国青年报的一篇报道。	28	90	229	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2578.631	2584.549	Li_Zi_Meng	female	native	其实用旅行的方式可以说是一个 <Event desc="noise.lipsmack" extent="instantaneous" type="entities"。 很好的这个解决方式。	28	90	230	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2584.549	2597.836	Li_Zi_Meng	female	native	现在的在学生真的是非常的聪明,跟着旅行团出国游一圈,而不仅仅是和同学可以巩固一下友情,还且还增长了自己的见识,同时还会留下很多美好的回忆。	28	90	231	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2597.836	2611.243	Li_Zi_Meng	female	native	说到这个旅行啊,现在这个旅行线路在国内最火爆的是哪一条,我想可能很多观众朋友们还并没有想到在这里我会给您提供一下,就是青藏铁路沿线的这个旅行线路。	28	90	232	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2611.243	2617.620	Li_Zi_Meng	female	native	我们来看南方都市报说,青藏铁路首团八天游,六千九百块钱。	29	91	233	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2617.620	2624.331	Li_Zi_Meng	female	native	可能光看这个题目啊,您看不太懂,其实是各大旅行社为这个青藏铁路旅行所估的价钱。	29	91	234	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2624.331	2628.343	Li_Zi_Meng	female	native	六千九百块钱,真的是价格不菲,够我们出国玩一趟了。	29	91	235	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2628.343	2639.172	Li_Zi_Meng	female	native	可见这个青藏铁路旅游线路它的火爆程度,顺便说一下青藏铁路将会在七月一号正式开通。	29	91	236	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2639.172	2647.641	Li_Zi_Meng	female	native	看到这条消息,我不禁有一些愤然,来自精华时报的一篇报道说,小学生被老师打聋了。	30	92	237	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2647.641	2653.375	Li_Zi_Meng	female	native	这是发生在北京市昌平区的一个民工子弟小学的事情。	30	92	238	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2653.375	2662.375	Li_Zi_Meng	female	native	有一个小男孩叫做小迪,今年仅仅只有十二岁,因为和同伴呃在呃互相游戏的时候发生了口角,同伴去向老师告状。	30	92	239	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2662.375	2666.574	Li_Zi_Meng	female	native	但是老师没有很好的处理这件事情,反倒是给了小迪一击耳光。	30	92	240	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2666.574	2676.089	Li_Zi_Meng	female	native	当时就把小迪打得两眼昏花,经过到医院去整治之后得出了这个结论,是他得了神经性耳聋。	30	92	241	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2676.089	2688.647	Li_Zi_Meng	female	native	那么校方对此是怎么样来表态的呢,样方说暂时是不会开除打人的老师,我想校方的这种作法似乎也不妥,应该给老师一定的警醒。	30	92	242	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2688.647	2698.788	Li_Zi_Meng	female	native	而老师对于这个他的行为并没有很好的认识,老师说,其实他这样做也是为了教育孩子,是为了维持学校的纪律。	30	92	243	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2698.788	2704.395	Li_Zi_Meng	female	native	我们不难想象老师的这一举动不仅仅给小迪,在他的幼小的身体上造成的伤害。	30	92	244	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2704.395	2712.832	Li_Zi_Meng	female	native	更重要的是在给他的心理上蒙上了一层阴影,因为他今年仅仅只有十二岁,难道没有更好的方式吗,一定会有的。	30	92	245	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2712.832	2717.823					30	93	246	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2717.823	2726.121	Li_Zi_Meng	female	native	好了,之后还要给您带来一个生活小提示,今天的提示是,夏天吃蔬菜是有学问的,哎,您可要听仔细了。	31	94	247	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2726.121	2732.829	Li_Zi_Meng	female	native	夏天吃蔬菜啊,它可以分这个可以生吃的蔬菜以及可以熟吃的蔬菜,我们先来看一下可以生吃的蔬菜。	31	94	248	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2732.829	2738.376	Li_Zi_Meng	female	native	应该选择那些没有公害的绿色蔬菜或者是有机的蔬菜来吃。	31	94	249	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2738.376	2754.493	Li_Zi_Meng	female	native	那适合生吃的蔬菜有包括有胡萝卜,白萝卜,蕃茄,黄瓜,柿子椒,西兰花,大白菜心,还有呃芥兰和甘兰等等,而生吃菜也是有方法的,要凉伴或者是饮用自制新鲜菜汁。	31	94	250	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2754.493	2764.449	Li_Zi_Meng	female	native	特别重要的是在生吃蔬菜以前最好是采用削皮啊,洗净啊或者是用开水烫,或者是用洗洁剂来彻底清洁这种方式会比较好。	31	94	251	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2764.449	2777.183	Li_Zi_Meng	female	native	而那些应当熟吃的蔬菜呢,比如说象蕃茄,如果想要充分摄取其中对人体有益的蕃茄素的话,应当是把它煮熟了再吃,如果要是生吃的话很难会别好的吸收。	31	94	252	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2777.183	2796.071	Li_Zi_Meng	female	native	象土豆啊,芋头啊,山药等等,这些含淀粉比-比较多的食品的话也是适合熟吃,另外象扁豆,一定要做到百分百熟才要吃,那,而且啊这个残留蔬菜的上面有很多这个农药,你一定要用盐水浸泡之时后才行。	31	94	253	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2796.071	2804.818	Li_Zi_Meng	female	native	那今天的生活提示就是这一些,媒体广场的内容也全部结束了,现在我回到主景区,和赵普来一起为您继续播报新闻。	31	94	254	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2804.818	2821.846	Zhao_Pu	male	native	好,梓萌辛苦,看了刚才梓萌的读报啊,这个有一条印象很深,就是打工子弟学校,那个小迪那个小朋友被打,这个打工子弟学校我是去过的,那些小朋友的父母亲都是在北京打工,而且低收入人群。	32	95	255	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2804.818	2821.846	Li_Zi_Meng	female	native	嗯。	32	95	256	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2821.846	2831.240	Zhao_Pu	male	native	哦,先不说这个孩子家庭出身哈,就是无论如何,孩子在学校受教育,绝对不应该挨打,不管出于什么原因。	32	95	257	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2821.846	2831.240	Li_Zi_Meng	female	native		32	95	258	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2831.240	2832.981	Zhao_Pu	male	native		32	95	259	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2831.240	2832.981	Li_Zi_Meng	female	native	没错,说得非常对。	32	95	260	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2832.981	2836.244	Zhao_Pu	male	native	好啦,接下来是一段简短的广告,我们继续了解今天的天气情况。	32	95	261	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2832.981	2836.244	Li_Zi_Meng	female	native		32	95	262	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2836.244	2883.813					33	96	263	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2883.813	2886.987	Zhao_Pu	male	native	朝闻天下,这会呢又有好多朋友要出门啦。	34	97	264	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2886.987	2891.598	Zhao_Pu	male	native	出门先看天,下面来看下全国三十四个主要城市的天气情况。	34	97	265	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	2891.598	3019.637					35	98	266	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3019.637	3021.840	Zhao_Pu	male	native	朝闻天下开启全新一天。	36	99	267	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3021.840	3024.824	Li_Zi_Meng	female	native	朝闻天下新闻服务生活,观众朋友早上好。	36	100	268	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3024.824	3030.418	Zhao_Pu	male	native	早上好,这里是中央电视台综合频道和新闻频道并机播出的大型早间节目,朝闻天下。	36	101	269	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3030.418	3036.616	Li_Zi_Meng	female	native	那今天是六月二十三号星期五,现在是北京时间早上的七点四十七分。	36	102	270	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3036.616	3041.271	Zhao_Pu	male	native	好啦,首先我们还是要给大家来介绍一下世界杯的赛况,呃请看屏幕。	36	103	271	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3041.271	3056.394	Li_Zi_Meng	female	native	在北京时间的昨天晚上到今天凌晨世界杯的比赛是结束了四场,~F组的巴西队是以四比一大胜日本队,澳大利亚队是以二比二战平了克罗迪亚队,巴西队和澳大利亚队晋级十六强。	36	104	272	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3056.394	3069.842	Zhao_Pu	male	native	~E组的意大利队以二比零战胜了捷克队,终结了捷克的这次世界杯之旅,上次闯入世界杯八强的美国队呢是以一比二惜败,首次参加世界杯的加纳队也遗憾地告别了这次世界杯。	36	105	273	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3069.842	3082.806	Li_Zi_Meng	female	native	那在稍后的我们将为您献上有关这四场比赛的精彩的报道,那今天还将会有很多的比赛将会继续进行,在今天晚上到明天凌晨,世界杯小组赛的第三轮还将会展开后的四场争夺。	36	106	274	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3082.806	3089.751	Zhao_Pu	male	native	是,其中呢~H组沙特对西班牙的比赛呢将于今晚的十点开赛,我台的经济频道将会现场直播。	36	107	275	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3089.751	3096.111	Li_Zi_Meng	female	native	~H组的另外一场由乌克兰对阵突尼斯的比赛也将会同时开战,我台的体育频道将会进行现场直播。	36	108	276	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3096.111	3104.424	Zhao_Pu	male	native	明天凌晨的三点,~G组的还将同时展开两场争夺,我台的综合频道将为现场直播多哥和法国之间的较量。	36	109	277	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3104.424	3110.487	Li_Zi_Meng	female	native	好,关注完世界杯,我们再来快速了解一下今天就要发生的其它几件值得我们关注的事情。	36	110	278	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3110.487	3117.553					36	111	279	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3117.553	3127.131	speaker#3	male	native	今天,北京,河北,江西,内蒙古,西藏等地可以查询高考成绩了,考生可以通过声讯电话,手机短信和上网等方式查询。	37	112	280	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3127.131	3134.227	speaker#3	male	native	中国银行今天将进行~A股网上申购,~A股网上发行数量为三十一亿两千九百八十七点二万股。	37	112	281	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3134.227	3144.506	speaker#3	male	native	占本次~A股发行总量的百分之四十八点二,发行价为每股三点零八元,中国银行~A股发行将成为目前国内大,首次公开发行项目。	37	112	282	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3144.506	3150.867	speaker#3	male	native	第四届北京二零零八奥林匹克文化节今天将在北京八达岭长征拉开帷幕。	37	112	283	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3150.867	3159.662	speaker#3	male	native	本届文化节以体验文明,共享奥运为主题,推出了二十八项大型奥运文化活动,将一直持续到七月十五号。	37	112	284	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3159.662	3167.246	speaker#3	male	native	从今天到七月十五号,历史上规模最大的一次中阿文化交流活动,阿拉伯艺术节将在北京和南京举行。	37	112	285	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3167.246	3175.037	speaker#3	male	native	观众不仅可以欣赏到二十二个阿拉伯国家的艺术演出和民族服饰,还可以品尝到丰富的阿拉伯美食。	37	112	286	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3175.037	3179.724	speaker#3	male	native	中国人民银行今天发行青藏铁路全线通车金银纪念币一套。	37	112	287	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3179.724	3186.503	speaker#3	male	native	金币正面图案为青藏铁路线路示意图及铺轨机工作图,背面为昆仑山遂道。	37	112	288	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3186.503	3194.380	speaker#3	male	native	银币正面图案为拉萨火车站及远山,背面为长江源特大桥,牦牛,藏羚羊及雪山。	37	112	289	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3194.380	3204.646	speaker#3	male	native	根据原藏模范将军医生李素芝先进事迹改编的八集电视连续剧雪域情,今晚开始将在我台八套播出。	37	112	290	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3204.646	3209.975	Zhao_Pu	male	native	现在是早上的七点五十分,您即将看到的是和您的生活密切相关的新闻。	38	113	291	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3209.975	3215.799	Li_Zi_Meng	female	native	还有发生在您身边的新闻以及有用的和有趣的新闻,还是先来关注一下房价。	38	114	292	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3215.799	3223.398	Li_Zi_Meng	female	native	在上个月九部委出台了关于调整住房结构稳定住房价格的意见,对于房地产实施宏观的调控。	38	114	293	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3223.398	3233.116	Zhao_Pu	male	native	昨天呢又有好消息了,建设部呢有关人士表示,中小套型房屋将进行限价开发,扼制房价的上涨。	38	115	294	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3233.116	3239.272	speaker#3	male	native	按九部委的意见规定,从六月一号起,凡新审批,新开工的商品住房项目。	38	116	295	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3239.272	3246.158	speaker#3	male	native	套型面积九十平方米以下的住房面积所占比重,必须达到开发建设总面积的百分之七十以上。	38	116	296	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3246.158	3257.659	speaker#3	male	native	建设部有关人士说,从去年到今年上半年市场情况看,大部分城市九十平方米以上的大户型商品房开发已占到各地商品房开发总量的一半以上。	38	116	297	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3257.659	3262.840	speaker#3	male	native	房屋套型不合理,房价涨幅过高是不少人买不起房的重要原因。	38	116	298	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3262.840	3273.684	speaker#3	male	native	这次宏观调控不但要调整住房供给结构,同时还将对九十平方米以下新开工项目,进行限价开发,有关实施细则也有望在近期出台。	38	116	299	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3273.684	3280.715	Li_Zi_Meng	female	native	那我们也希望这些措施能够切实起到扼制房价快速上涨的作用,给地产市场降降温。	38	117	300	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3273.684	3280.715	Zhao_Pu	male	native		38	117	301	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3280.715	3288.916	Li_Zi_Meng	female	native		38	117	302	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3280.715	3288.916	Zhao_Pu	male	native	不错,昨天开展的北京夏季房展呢就有点降温的迹象了,这是国十五条政策出台后,北京的首个大型的房展。	38	117	303	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3288.916	3302.589	Li_Zi_Meng	female	native	那从这个开展第一天的情况来看,可以说是用门前冷落鞍马稀来形容是一点都不为过的,因为不仅仅参展的楼盘数量少,而且前来看房的人就更少。	38	117	304	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3288.916	3302.589	Zhao_Pu	male	native	嗯,来看一看。	38	117	305	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3302.589	3308.570	speaker#3	male	native	早上九点,北京夏季房展开门迎客,但前来看房选房的人却非常的少。	38	118	306	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3308.570	3314.682	speaker#3	male	native	这与今年四月份北京春季房展上老百姓排队入场,人头窜动的景象大相径庭。	38	118	307	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3314.682	3326.513	speaker#3	male	native	而参展楼盘的数量也只有六十多个,并且以商务地产项目为主,住宅项目所占比例不到百分之四十,远远低于春季房展一百多个参展项目的规模。	38	118	308	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3326.513	3334.089	Zhao_Pu	male	native	房展会我还真去过,从这一次房展会上的情况来看,北京楼市还真有点冷啊,看来消费者已经开始持这种观望的态度了。	38	119	309	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3334.089	3344.674	Li_Zi_Meng	female	native	而-而且这次房地产这个交易会除了出现比较冷清的场面之外,还有一个特点就是有很多的外地楼盘扎堆,这也是引起了相当人士的关注。	38	120	310	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3344.674	3350.387	Li_Zi_Meng	female	native	比如说河北的燕郊啊,承德,还有南戴河,到山东的威海,蓬莱加起来足足有十几个项目。	38	120	311	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3350.387	3357.635	Zhao_Pu	male	native	对,那么这些项目呢,环境好价格低哦,这些外地楼盘呢,是一个优势,这基中呢,威海的声势是最为浩大。	38	121	312	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3357.635	3363.635	Zhao_Pu	male	native	参展楼盘呢有五个,一些展台呢还精心呃搭制了遮阳伞啊,凉椅啊还有皮划艇,游泳圈。	38	121	313	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3363.635	3370.830	Zhao_Pu	male	native	展示出了一种海滨生活的惬意,再加上相比北京要低得多的房价,还是相当的有诱惑力的。	38	121	314	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3370.830	3388.099	Li_Zi_Meng	female	native	和这个房地产市场相比起来,这个世界杯如火如图地在进行哈,同样它是非常的火爆。	38	122	315	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3370.830	3388.099	Zhao_Pu	male	native	对,嗯,那么世界杯火爆是火爆在哪儿,不光是赛式火爆,而且搭着世界杯商季的生意做得也是相当的火爆。	38	122	316	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3388.099	3402.248	Li_Zi_Meng	female	native	不过,这个相关部门啊对于这个很多餐馆现在是借了世界杯的商机来进行经营的这种方式是进行了相关的规定,还有处罚。	38	122	317	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3388.099	3402.248	Zhao_Pu	male	native		38	122	318	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3402.248	3416.170	Zhao_Pu	male	native	好啦,那么呃和这个做生意让我们啊也多少有点关系哈,那就是我们已经讲过很多次的网吧啊,这个不过呢这和泡网吧没关系,是和泡网吧的这个卫生习惯有关系。	39	123	319	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3416.170	3424.517	Zhao_Pu	male	native	那很多朋友呢,经常去泡网吧,也包括我们在办公空间里头,用鼠标,用键盘,它到底是不是干净,很多人忽略了。	39	123	320	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3424.517	3437.420	Li_Zi_Meng	female	native	对,很多人可能会想哎我们的公共厕所是不是细菌非常多,但是其实来自相关部门的报道说,来自这个鼠标上的细菌其实要比我们平时认为的象垃圾场,公共厕所它的细菌指数要高得很多。	39	124	321	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3437.420	3439.350	Zhao_Pu	male	native	赶紧看一下。	39	125	322	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3439.350	3452.932	speaker#3	male	native	在西安市南郊的网吧里,记者看到很多网民在上网的同时还在吃东西,喝水,抽烟,或者用接触过键盘,鼠标的手抓挠皮肤,丝毫没有意识到可能会有潜伏着的病菌危害自己的健康。	39	126	323	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3452.932	3463.574	speaker#3	male	native	通过记者调查的多家网吧来看,有近八成网吧,从没有针对鼠标,键盘等设备采取过消毒措施,而这些网吧每天的人流量都在二,三百人左右。	39	126	324	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3463.574	3477.381	speaker#3	male	native	不久前,北京佑安医院发布的调查结果也显示,在这些网吧电脑键盘,鼠标进行抽样检测后发现,其中存留的乙肝病毒达到百分之三十五,有害病菌的携带量是公厕的四百倍。	39	126	325	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3477.381	3492.988	speaker#3	male	native	记者随后来到有关卫生部门了解情况,工作人员告诉记者,目前卫生部门执行的公共场所卫生管理条例是一九八七年颁布的,并没有将网吧卫生纳入管理的范围,没有行政管理标准,他们也就没法管理。	39	126	326	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3492.988	3496.885	Li_Zi_Meng	female	native	我想可能观众朋友看完这条消息后再上网就要格外的当心了。	39	127	327	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3496.885	3501.979	Zhao_Pu	male	native	好啦,接下来轻松一下,是一组趣闻,带给大家。	40	128	328	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3501.979	3510.385	speaker#3	male	native	重庆万州的陈远贵大妈说,她家里有一个长相奇特的茄子,奇就奇在它的形状长得跟人的手掌一样。	40	129	329	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3510.385	3521.466	speaker#3	male	native	据陈大妈介绍,这个茄子的秧苗是自己今年初从一个农户家中取回的,种在自己开垦的一块地里,没想到竟然结出了这么一个奇怪的茄子来。	40	129	330	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3521.466	3527.751	speaker#3	male	native	在四川安县沸水镇水晶村一村民家中,有一颗十几年树龄的仙人掌树。	40	129	331	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3527.751	3539.288	speaker#3	male	native	这颗仙人掌树大约有四米高,直径达二十厘米,虽然部分枝干已经木质化,但青涩的果实,盛开的花朵还是显示了旺盛的生命力。	40	129	332	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3539.288	3554.430	speaker#3	male	native	山东一只罗威纳犬一次生下了十三只幼崽,这位超级妈妈一岁半大,箱子里的小狗刚刚出生三天,眼睛还没睁开,平衡能力也不是太好,正张牙舞爪的找奶喝呢。	40	129	333	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3554.430	3567.482	speaker#3	male	native	连日来在山东的强降雨使久旱的林沂蒙山饱饮干淋,烟雨浓雾中,蒙山山叠式瀑布位于山势陡峭的岩壁上,上下落差高于百米,十分状观。	40	129	334	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3567.482	3578.379	Zhao_Pu	male	native	朝闻天下,现在又是我们的互动时间了,嗯。	41	130	335	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3567.482	3578.379	Li_Zi_Meng	female	native	那我们今天互动的话题主要是围绕着银联卡跨行查询收费要不要进行听证的这个话题来和大家共同展开互动讨论。	41	130	336	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3578.379	3584.271	Zhao_Pu	male	native	那么您对银联卡跨行查询收费有什么看法,请发送短信或者是播打电话告诉我们。	41	131	337	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3584.271	3592.353	Li_Zi_Meng	female	native	那此外今天晚上世界杯的四场比赛当中,哪支球队能够获胜,或者您对昨天晚上的比赛有什么看法呢,也可以发短信过来。	41	132	338	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3592.353	3600.708	Zhao_Pu	male	native	嗯,好,我们来看看这位朋友,安徽合肥的九六幺六说,银联卡跨行查询不能收费要听证。	41	133	339	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3600.708	3615.055	Li_Zi_Meng	female	native	而来自这个江苏零四五幺的观众朋友说,银行也象是生产企业,在加强服务的基础上如果是增加了成本,可以合理收费,因为,这个服务收费不合理的话会影响他们企业的正常的动作。	41	134	340	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3615.055	3622.809	Zhao_Pu	male	native	呃,浙江宁波幺三六零说,银联跨行查询收费,低额存款收费,不应是按照国际惯例,嗯。	41	135	341	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3622.809	3628.249	Li_Zi_Meng	female	native	而四川绵阳五幺四三的朋友就说,收费和国际惯例是接轨了,服务也同样得跟上去。	41	136	342	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3628.249	3635.992	Zhao_Pu	male	native	唉,这是一个希望哦,北京的九四零九说,要学会利用电子银行查询,自己呢能够减少--节省开支。	41	137	343	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3635.992	3645.428	Li_Zi_Meng	female	native	而上海幺六三二提出了更加具体的措施说,银行该从管理上下功夫,降低管理成本,那样的话这笔费-费用就不用客户来出了。	41	138	344	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3645.428	3649.607	Zhao_Pu	male	native	好啦,接下来是一段简短的广告,我们继续来关注今天的天气情况。	41	139	345	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3649.607	3716.218					42	140	346	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3716.218	3719.561	Zhao_Pu	male	native	现在是七点五十八分,朝闻天下,我们继续了解天气情况。	43	141	347	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3719.561	3724.407	Li_Zi_Meng	female	native	好,我们来连线下中国气象局的天气主持人蓝一来介绍下今天的天气情况/	43	142	348	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3724.407	3725.626	Li_Zi_Meng	female	native	哦蓝一,你好。	43	143	349	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3725.626	3727.466	Lan_Yi	female	native	你们好,赵普,梓萌。	43	144	350	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3725.626	3727.466	Zhao_Pu	male	native	嗯。	43	144	351	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3727.466	3732.799	Li_Zi_Meng	female	native	呃,当然首先还是你们来介绍一下今天天气的总体情况怎么样。	44	145	352	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3727.466	3732.799	Lan_Yi	female	native	嗯,好的。	44	145	353	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3732.799	3750.691	Li_Zi_Meng	female	native		44	145	354	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3732.799	3750.691	Lan_Yi	female	native	呃,今天的高温和大雨哈依然是活跃在天气舞台上的两个主角,我们先来说说高温,那今天呢会出现高温天气的地区呢主要有呃南江大部,还有河北南部的部分地方,以及在浙江,福建,江西,湖南还有广东北部这些地方。	44	145	355	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3750.691	3767.491	Zhao_Pu	male	native	嗯,那其它地方下雨的地方多吗。	44	146	356	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3750.691	3767.491	Lan_Yi	female	native	嗯,今天下雨的地方其实挺多的,我们来看哈这个东北的本--北部,还有这个华北的中北部,呃新疆的西北部以及这个淮河以南这么多浅蓝色的地方呢,大多下的都是一些阵雨和雷雨的天气。	44	146	357	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3767.491	3785.327	Zhao_Pu	male	native	嗯。	44	146	358	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3767.491	3785.327	Lan_Yi	female	native	而大到暴雨主要是集中在河南的南部,江苏,安徽,湖北,湖南的北部还有重庆的东南部,呃以及这个贵州的西部,云南的东北部和四川南部的部分地方,而且呢在这个深蓝色的区域当中,局部地区可能还会有大暴雨。	44	146	359	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3785.327	3806.368	Li_Zi_Meng	female	native	呃,刚才那个新闻中说,重庆和湖北地区有干旱,刚才你说重庆会降雨,是吗。	44	147	360	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3785.327	3806.368	Lan_Yi	female	native	嗯,的确是这样的,呃,今天呢在这个湖北还有重庆的呃都会下起一些雨,呃,其实从前天晚上开始呢在这个湖北啊还有重庆呢都是下起了雨而且局部地区还有大雨。	44	147	361	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3806.368	3815.073	Li_Zi_Meng	female	native		44	147	362	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3806.368	3815.073	Lan_Yi	female	native	预计呢今天在湖北的大部和重庆的东南部呢还将会迎来一些大到暴雨,相信呢这样一场雨应该会对当地的旱情有所缓和吧。	44	147	363	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3815.073	3827.596	Zhao_Pu	male	native	啊这两天呢还有一个报道说啊,说河北进入冬小麦的这个收割高峰期以后,有不少农民在地里焚烧这个麦秸杆,而且造成的污染情况还比较严重,那么能这方面情况跟我们介绍一下。	44	148	364	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3815.073	3827.596	Lan_Yi	female	native	嗯,嗯。	44	148	365	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3827.596	3839.534	Zhao_Pu	male	native		44	148	366	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3827.596	3839.534	Lan_Yi	female	native	呃,说到这问题哦,我们来看一张这个卫星监测图就可以一目了然了,那这张图上这星星点点的红色呢,其实就是这个焚烧秸杆的一个火点,和去年同期相比呢是偏多的。	44	148	367	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3839.534	3849.263	Zhao_Pu	male	native		44	148	368	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3839.534	3849.263	Lan_Yi	female	native	呃,而且呢由于这个近期的气温比较高,而且呢时常还会出现一些大风,所以呢,秸杆的这种焚烧呢会造成火灾还有环境污染等严重的后果。	44	148	369	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3849.263	3864.941	Zhao_Pu	male	native	嗯,好啦,那么刚才梓萌也问到这个问题,就是湖北重庆的一些地方干旱哈,这个地方的这个雨情,再麻烦你着重给我们介绍一下。	44	148	370	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3849.263	3864.941	Lan_Yi	female	native	嗯,好的,呃,重庆和湖北大部哈,前一段时间是由于这个降水少呢,气温高,的确是极度的干旱。	44	148	371	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3864.941	3880.813	Zhao_Pu	male	native		44	148	372	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3864.941	3880.813	Lan_Yi	female	native	不过从前天晚上开始呢,刚才我也说过了哈,这个重庆还有湖北大部都出现了降水,部分地方呢还下起了大雨,预计今天呢在这个湖北的大部还有重庆的东南部还会迎来大到暴雨,相信呢这些地方的这个干旱能够得到一定程度的缓和。	44	148	373	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3880.813	3886.865					44	149	374	filler	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3886.865	3893.455	Zhao_Pu	male	native	观众朋友,早上好,您正在收看的是中央电视台综合频道和新闻频道并机播出的大型早间节目,朝闻天下。	45	150	375	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3893.455	3900.122	Li_Zi_Meng	female	native	现在是北京时间的八点零一分,来看一下今天的时政要闻。	45	151	376	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3900.122	3909.276	speaker#5	female	native	六月二十二号,胡锦涛在人民大会堂主持仪式,欢迎塞内加尔共和国总统阿卜杜拉耶,瓦德访华,特与瓦德总统举行会谈。	45	152	377	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3909.276	3921.645	speaker#5	female	native	应胡锦涛的邀请,老挝人民革命党中央委员会总书记,老挝人民民主共和国主席朱马丽,塞亚共,将于六月二十七号至七月二号对我国进行国事访问。	45	152	378	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3921.645	3930.534	speaker#3	male	native	电影大盗如天,昨天在人民大会堂举行首映式,周永昌在首映式前会见了该片的主放人员。	45	153	379	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3930.534	3935.034	Zhao_Pu	male	native	下面请看本台刚刚收到的消息。	46	154	380	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3935.034	3947.711	speaker#6	female	native	这里是坦桑尼亚首都达累斯萨拉姆,应坦桑尼亚总统基奎特的邀请,国务院总理温家宝当地时间二十二号下午抵达这里,开始对坦桑尼亚进行正式访问。	46	155	381	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3947.711	3961.283	speaker#6	female	native	温家宝抵达达累斯萨拉姆尼雷尔国际机场时,基奎特总统在斜梯旁迎接,中国驻坦桑尼亚大使余庆泰及使馆工作人员等也到机场迎接温家宝总理一行。	46	155	382	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3961.283	3970.078	speaker#6	female	native	基奎特总统在机场为温家宝总理访坦举行了欢迎仪式,军乐队奏中,坦两国国歌,鸣礼炮十九响。	46	155	383	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3970.078	3989.334					46	156	384	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	3989.334	4011.328	speaker#6	female	native	温家宝检阅了仪仗队,温家宝在机场发表书面讲话说,我此次来访就是为了增进双方在新形势下的了解和信任,探讨扩大互利合作的新领域,新方式,全面深化两国友好合作关系,我相信,此访一定会为中坦兄弟般的友好合作关系带来新的动力。	46	157	385	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4011.328	4024.281	speaker#6	female	native	欢迎仪式后,温家宝总理与基奎特总统举行了会谈,温家宝说为进一步巩固和发展中坦友好合作,中方愿与坦方从以下几方面做出共同努力。	46	157	386	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4024.281	4031.047	speaker#6	female	native	一是加强政治交往,广泛开展两国政府,政党,立法机构之间的联系。	46	157	387	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4031.047	4049.860	speaker#6	female	native	二,扩大经贸合作,中方愿在进口补贴,关税等方面采取进一步优惠措施,增加从坦桑尼亚进口,中国政府鼓励中资企业加大对坦投资力度,加强双方在坦桑尼亚基础设施,资源开发,农业,电信等领域的合作。	46	157	388	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4049.860	4064.552	speaker#6	female	native	三,中方将一如既往地为坦桑尼亚经济,社会发展提供力所能及的帮助,中方准备在坦援建农业示范中心和抗疟示范中心,探讨与坦方合作生产抗疟药品。	46	157	389	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4064.552	4072.240	speaker#6	female	native	四,促进双方在文化,教育,旅游等领域的合作,增进两国人民的相互了解和友谊。	46	157	390	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4072.240	4080.419	speaker#6	female	native	五,加强在国际事物中的沟通与协作,共同促进南南合作,维护发展中国家权益。	46	157	391	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4080.419	4088.981	speaker#6	female	native	温家宝说,近来外界对中非关系有一些错误的议论,这些议论既不符合历史事实,也损害中非关系。	46	157	392	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4088.981	4107.238	speaker#6	female	native	中非友好合作五十年的历程表明,中国是非洲国家可以真正信赖的朋友,中非关系的内涵越来越丰富,但平等,互利,共赢的原则不会改变，中国发展了,将为非洲提供更多的助,为非洲的发展做出更大的贡献。	46	157	393	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4107.238	4129.597	speaker#6	female	native	基奎特说,今天,有人渲染中国的发展对非洲是威胁,坦桑尼亚和非洲人民坚决不同意这种说法,历史已经并将继续证明,中国是坦桑尼亚和非洲人民真诚的朋友,中国的发展给我们带来的是机遇,有了中国朋友的支持和帮助,我们有信心克服困难,取得进步。	46	157	394	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4129.597	4141.971	speaker#6	female	native	加强同中国的友好合作是坦桑尼亚最重要的对外关系之一,这一政策是两国传统友谊使然,也是坦桑尼亚未来发展的需要,是正确的选择。	46	157	395	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4141.971	4157.084	speaker#6	female	native	基奎特完全赞同温家宝提出的进一步发展两国关系的建议,他表示,坦桑尼亚愿同中国加强政治交往,将一如既往在台湾和西藏等问题上坚定地站在中国人民一边。	46	157	396	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4157.084	4165.771	speaker#6	female	native	坦方希望扩大两国经贸合作,欢迎中国企业来坦投资,参与坦桑尼亚基础设施和电力等领域的建设。	46	157	397	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4165.771	4177.146	speaker#6	female	native	会谈结束后,温家宝与基奎特共同出席了两国政府经济技术合作协定等双边合作文件的签字仪式,两国还发表了联合公报。	46	157	398	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4177.146	4188.443	speaker#6	female	native	当天晚上,温家宝与基奎特总统,洛瓦萨总理和坦内阁部长以及坦桑尼亚各界友人共同观看了庆祝中坦友好文艺演出。	46	157	399	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4188.443	4196.209	speaker#6	female	native	当天,温家宝还会见了中国驻坦桑尼亚使馆工作人员,中资机构和援坦专家代表。	46	157	400	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4196.209	4200.696	speaker#6	female	native	温家宝是在圆满结束对南非的访问后前往坦桑尼亚的。	46	157	401	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4200.696	4209.725	speaker#6	female	native	当地时间二十二号上午,温家宝和南非副总统努卡在开普敦共同出席了首届中国,南非商务合作论坛开幕式。	46	157	402	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4209.725	4224.960	speaker#6	female	native	温家宝就中非,中南关系以及中国对非洲政策发表了重要演讲,温家宝强调,中非关系是中国外交的重要基石之一,巩固和发展同非洲国家的友好合作是中国长期的战略选择。	46	157	403	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4224.960	4244.804	speaker#6	female	native	中国政府将继续遵循真诚友好,平等相待,互利互惠,共同发展的原则,政治上坚持平等互信,经济上促进互利共赢,在人文和社会领域加强交流,在国际事务中密切配合,与非洲国家携手建立和发展中非新型战略伙伴关系。	46	157	404	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4244.804	4262.403	speaker#6	female	native	温家宝说,中国尊重非洲国家根据本国国情自主选择社会制度和发展道路,不会向非洲输出自己的价值观念和发展模式,支持非洲国家为维护国家主权和独立,实现地区和平与稳定所作的不懈努力。	46	157	405	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4262.403	4287.043	speaker#6	female	native	他说,随着中国的发展,我们将同非洲在更大范围,更广领域,更高层次开展合作,实现优势互补,在力所能及的范围内进一步增加对非援助,扩大对非投资,尽力缓解非洲的债务负担,继续支持非洲发展教育,卫生,文化等社会事业,支持非洲区域合作,促进非洲国家的自主发展。	46	157	406	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4287.043	4296.453	speaker#6	female	native	温家宝说,中国将继续与非洲一道促进南南合作和南北对话,推动国际社会更加关心和支持非洲的发展。	46	157	407	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4296.453	4299.051	speaker#6	female	native	温家宝指出。	46	157	408	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4299.051	4315.436	Wen_Jia_Bao	male	native	中非合作是南南合作的一部分,不是封闭的或排他的,不会影响中非各自与第三方的合作。	46	158	409	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4315.436	4332.983	speaker#6	female	native	在谈到中南关系时,温家宝说,南非是中国在非洲重要的战略合作伙伴,我们愿与南非保持高层交往势头,拓展在经贸,科技,基础设施建设,通信,人力资源等领域的合作,全面提升中南合作的规模和质量。	46	159	410	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4332.983	4337.811	speaker#6	female	native	中方将积极推动两国民间交往,增加人文交流。	46	159	411	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4337.811	4355.686	speaker#6	female	native	努卡在致辞中高度评价南中关系的发展,她指出,中国的发展给南非和非洲带来的是机遇,呼吁南非工商界用长远眼光看待南中关系,抓住机遇,努力拓展同中国在广泛领域的互利合作。	46	159	412	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4355.686	4365.968	speaker#6	female	native	演讲前,温家宝分别会见了南非副总统努卡和非洲发展新伙伴计划秘书处首席执行官穆卡韦莱。	46	159	413	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4365.968	4372.019	speaker#6	female	native	当天,温家宝还听取了南非萨索尔公司的关于煤炭液化技术的介绍。	46	159	414	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4372.019	4378.686					46	160	415	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4378.686	4380.430	Zhao_Pu	male	native	下面我们一起来关注国际。	47	161	416	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4380.430	4391.135	Li_Zi_Meng	female	native	还是先来关注一下印度尼西亚的海难,印尼海军官员二十二号说,尽管风大浪急,印尼海军当天还是从北苏门答腊省沉船水域救上了八十个人。	47	162	417	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4391.135	4396.249	Zhao_Pu	male	native	目前呢,在这起海难中,仍有五十四人失踪,其中包括三名美国公民。	47	163	418	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4396.249	4407.038	Li_Zi_Meng	female	native	这次海难是发生在二十二号的上午,一艘载有一百二十名乘客和十四名船员的渡船,因为船体漏水在北苏门答腊省西北海域沉没了。	47	164	419	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4407.038	4412.242	Zhao_Pu	male	native	来看伊拉克,二十二号伊拉克警察在首都巴格达北部的一个农场展开了行动。	48	165	420	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4412.242	4420.089	Li_Zi_Meng	female	native	这次行动解救出了至少有十七名遭到武装人员绑架的人质,并且抓获了几名绑架者。	48	166	421	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4420.089	4433.551	speaker#3	male	native	二十一号,巴格达附近一家工作的六十四名工人在换班时遭到了武装人员的绑架,随后绑匪释放了其中约三十人,他们多数是妇女和儿童,在伊拉克许多妇女都带着孩子去上班。	48	167	422	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4433.551	4440.397	speaker#3	male	native	警方在解救部分人质后表示,他们仍在继续展开行动,希望近早找到并解救出其余的人质。	48	167	423	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4440.397	4453.756	speaker#3	male	native	另据报道,伊拉克南部穆萨纳省省长二十二号证实,日本自卫队当天已经开始撤离伊拉克,同一天,驻伊英军发言人表示,英军也开始撤离伊拉克,整个撤离行动将持续大约六个星期。	48	167	424	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4453.756	4461.428	speaker#3	male	native	驻扎在穆萨纳省的英国部队和日本自卫队将逐渐把该省的安全保卫任务移交给伊拉克军队。	48	167	425	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4461.428	4470.702	Li_Zi_Meng	female	native	巴以方面二十二号在约旦出席第二届诺贝尔奖获得者大会的以色列总理澳尔默特和巴勒斯坦民主权力机构主席阿巴斯共进早餐。	49	168	426	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4470.702	4474.539	Li_Zi_Meng	female	native	这也是一年以来以巴领导人第一次举行会晤。	49	168	427	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4474.539	4481.190	Zhao_Pu	male	native	两位领导人商定将在未来数周内举行了一次正式会谈,讨论如何打破目前以巴之间的僵局。	49	169	428	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4481.190	4487.677	Li_Zi_Meng	female	native	而巴勒斯坦自治政府总理哈尼亚当天就表示说,巴以局势陷入危机,责任不在巴方。	49	170	429	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4487.677	4492.282	Zhao_Pu	male	native	好啦,更多的国际新闻,请看今天的朝闻快报。	50	171	430	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4492.282	4508.116	speaker#3	male	native	二十二号,联合国秘书长安南在瑞士日内瓦与伊朗外长穆塔基举行闭门会谈后表示,伊朗在认真考虑美,俄,中,英,法,德六国提出的伊朗核问题解决方案,但伊朗不会在七月份的八国峰会之前就这一方案作出答复。	50	172	431	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4508.116	4520.085	speaker#3	male	native	安南还说,他也向伊朗领导人强调,伊朗应该通过与国际原子能机构充分合作,来让世界相信其核计划的和平目的,这符合伊朗的利益。	50	172	432	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4520.085	4531.822	speaker#3	male	native	经过近三个月的谈判,乌克兰的季莫申科联盟,我们的乌克兰联盟和社会党二十二号最终签署结盟协议,联合组成议会多数派,以组建新一届联合政府。	50	172	433	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4531.822	4538.463	speaker#3	male	native	根据结盟协议,季莫申科联盟领导人季莫申科将成为唯一的总理候选人。	50	172	434	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4538.463	4547.598	speaker#3	male	native	印度尼西亚林业部长卡班二十二号表示,印尼南苏拉威西省连日来发生的水灾是对森林管理不当造成的直接后果。	50	172	435	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4547.598	4556.198	speaker#3	male	native	当地很多林区在承包人完成作业并撤离之后不能继续得到维护,这种现象已有三十年之久,还有一些林区被转作它用。	50	172	436	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4556.198	4563.392	speaker#3	male	native	南苏拉威西省部分地区近日发生水灾和山体滑坡,目前已造成二百多人死亡,上百人失踪。	50	172	437	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4563.392	4709.983					51	173	438	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4709.983	4713.509	Zhao_Pu	male	native	朝闻天下,现在是八点十五分,又到了我们的互动时间了。	52	174	439	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4713.509	4720.691	Li_Zi_Meng	female	native	那我们今天主要是围绕的是银联卡跨行查询收费到底要不要听证的话题来和大家展开互动讨论。	52	175	440	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4720.691	4726.706	Zhao_Pu	male	native	嗯,您对银联卡跨行查询收费有什么看法,请发送短信或者是播打电话告诉我们。	52	176	441	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4726.706	4735.989	Li_Zi_Meng	female	native	那另外今天晚上世界杯的四场比赛当中,到底哪支球队能够获胜,或者是您对昨天晚上所进行的比赛又有什么看法,也可以发短信过来。	52	177	442	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4735.989	4747.134	Zhao_Pu	male	native	好的,江苏盐城五五幺八这位朋友说,银联卡查询收费首先要看银行是否有成本的费用,如果有就该收,没有就不该收。	52	178	443	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4747.134	4757.677	Li_Zi_Meng	female	native	而江苏苏州二零六六的朋友就说了,要明明白白消费,跨行收费要听证,那怕听证的结果是要收费也是有必要的,认为持卡人也是银行的消费者。	52	179	444	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4757.677	4764.859	Zhao_Pu	male	native	嗯,我们期待着您继续和我们互动,哦这里是中央第一套节目和新闻频道并机播出的大型早间节目,朝闻天下。	52	180	445	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4764.859	4771.156	Li_Zi_Meng	female	native	现在是北京时间早上的八点十六分,下面一起来看一组世界杯的消息。	53	181	446	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4771.156	4776.947	Zhao_Pu	male	native	德国世界杯~F组末轮,两场的比赛,今天凌晨三点是同时开球啊。	53	182	447	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4776.947	4786.235	Li_Zi_Meng	female	native	在多特蒙德威斯特法伦球场,巴西是以四比一逆转击败了日本,以全胜战绩头名出战。	53	183	448	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4786.235	4790.201	speaker#3	male	native	巴西队和日本队今天对首发阵容都作了一定的调整。	53	184	449	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4790.201	4798.899	speaker#3	male	native	上半场进行到第三十三分钟,日本队玉田圭司在门前十米处左脚小角度抽射打入了禁角,巴西零比一落后。	53	184	450	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4798.899	4807.938	speaker#3	male	native	巴西队随后加强了进攻,上半时补时阶段,状态一直低迷的罗纳尔多终于显示出了自己的势力,利用头球将比分扳平。	53	184	451	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4807.938	4813.037	speaker#3	male	native	下半场开始后,巴西队凭借精湛的技术在日本队门前屡屡制造险情。	53	184	452	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4813.037	4818.168	speaker#3	male	native	罗迪尼奥和吉尔伯托各打进一球,巴西队很快就取得了领先优势。	53	184	453	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4818.168	4824.298	speaker#3	male	native	随后,巴西队将罗纳尔迪尼奥,卡卡等主力队员换下,但巴西队的进球还没有结束。	53	184	454	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4824.298	4832.861	speaker#3	male	native	第八十六分钟,罗纳尔多的推射把比分定格为四比一,他本人以十四球的成绩追平了盖特莫瑞的世界杯个人进球纪录。	53	184	455	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4832.861	4837.939	speaker#3	male	native	巴西队也以三战全胜积九分的完美战据小组第一出线。	53	184	456	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4837.939	4844.721	Li_Zi_Meng	female	native	好了,在另外一场澳大利亚对克罗地亚的比赛当中,出线权是在九十分钟之内四度逾手。	53	185	457	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4844.721	4850.641	Zhao_Pu	male	native	最终呢澳大利亚凭借着一个有争议的进球二比二逼平了克罗迪亚,以小组第二出线啦。	53	186	458	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4850.641	4856.858	speaker#3	male	native	两队在历史上较真过四场,克罗迪亚队以一胜一平两负稍处下风。	53	187	459	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4856.858	4864.780	speaker#3	male	native	克罗迪亚今天打出了完美的开局,开场仅两分钟,松尔纳就利用任意球帮助克罗迪亚以一比零领先。	53	187	460	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4864.780	4871.438	speaker#3	male	native	三十八分钟时,克罗迪亚的托马斯禁区内手球犯规,摩尔的点球将双方拉回了同一起跑线。	53	187	461	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4871.438	4883.761	speaker#3	male	native	下半场比赛,澳大利亚门将卡拉奇犯下了大错,面对尼克,科瓦奇的远射,他扑球脱手,皮球从他身上跃过,滚入了空门,胜利的天平再一次向克罗迪亚倾斜。	53	187	462	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4883.761	4890.657	speaker#3	male	native	当烦强的澳大利亚队并没有放弃,第七十九分钟,科威尔凌空抽射,将比分再一次扳平。	53	187	463	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4890.657	4901.266	speaker#3	male	native	慢镜头显示,科威尔在进球时已经处于了越位的位置,澳大利亚队幸运的以小组第二的身份晋级十六强。	53	187	464	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4901.266	4907.374	Zhao_Pu	male	native	世界杯~E组的最后一轮的比赛呢,四支球队有出线的可能,两场比赛命运是相互关联。	53	188	465	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4907.374	4920.984	Li_Zi_Meng	female	native	在昨天晚上,意大利队最终是以二比零击败了捷克,夺得了本组的头名出线,第一次参加世界杯的加纳队是积六分,以小组第二名出线。	53	189	466	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4920.984	4926.697	speaker#3	male	native	意大利对捷克,美国对加纳的两场比赛同时开球,先来看意大利对捷克的比赛。	53	190	467	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4926.697	4931.853	speaker#3	male	native	开场后两队中场拼抢凶狠,双方都有任意球机会,但是彼此威胁不大。	53	190	468	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4931.853	4940.014	speaker#3	male	native	上半场第二十六分钟时,意大利队的马特拉奇头球破门,以一比零领先捷克队,这一比分保持到了上半场结束。	53	190	469	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4940.014	4946.888	speaker#3	male	native	下半场,红牌罚下一人的捷克队显得比较被动,意大利队反而是越打越勇,多次创造进球机会。	53	190	470	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4946.888	4963.122	speaker#3	male	native	中场前几分钟,意大利首次亮相本界世界杯的队员英扎奇接队友传球,单刀突入禁区,右脚淌过倒地扑救的对方守门员,推进扑门,以二比零锁定胜局,积七分以小组第一的成绩进军十六强。	53	190	471	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4963.122	4968.403	speaker#3	male	native	再来看上界世界杯闯入八强的美国队与首次参加世界杯的加纳队的比赛。	53	190	472	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4968.403	4976.631	speaker#3	male	native	上半场第二十二分钟时,加纳队二十岁的德拉马尼在前场反抢成功,带球突入禁区后,推射远门柱破门。	53	190	473	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4976.631	4984.589	speaker#3	male	native	美国队拼命反扑,第四十三分钟时,德姆普西在门前大力劲射洞穿加纳队的球门,将比分扳平。	53	190	474	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4984.589	4990.573	speaker#3	male	native	在上半时补时阶段,加纳队阿皮亚将点球罚中,二比一,此比分一次保持到比赛结束。	53	190	475	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4990.573	4997.089	speaker#3	male	native	最终加纳队积六分以小组第二的身份晋级,这也是非洲球队获得的第一张十六强的闯券。	53	190	476	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	4997.089	5005.183	speaker#3	male	native	目前,参加德国世界杯的五支非洲球队,克特迪瓦,安哥拉,多哥队已经被淘汰出局,突尼斯队两战仅积一分。	53	190	477	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5005.183	5008.397	speaker#3	male	native	今天晚上将与乌克兰队展开决逐。	53	190	478	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5008.397	5014.415	Zhao_Pu	male	native	前面我们提到了意大利和捷克的比赛哦,闹得纷纷扬扬的意大利足球丑闻呢,现在又有了一个重大的进展。	53	191	479	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5014.415	5023.912	Li_Zi_Meng	female	native	意大利足协就向法庭提起了诉讼,指控尤文图斯等四家俱乐部涉嫌体育欺诈等行为,来看下具体的报道。	53	192	480	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5023.912	5031.663	speaker#3	male	native	被意大利足协指控的俱乐部是尤文图斯,~A~C米兰,拉奇奥和佛罗伦萨这四家意甲老牌劲旅。	53	193	481	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5031.663	5042.460	speaker#3	male	native	目前在德国征战世界杯的二十三名意大利左脚中就有十三人出自这四家俱乐部,同时遭到指控的还有一些俱乐部的管理人员,但是没有球员被起诉。	53	193	482	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5042.460	5047.866	speaker#3	male	native	一个体育法庭最迟将在本届世界杯结束前对这些指控作出裁决。	53	193	483	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5047.866	5057.413	speaker#3	male	native	上月,意大利媒体披露尤文图斯俱乐部前总经理莫吉通过电话指定裁判操纵比赛,引爆了意大利足坛的一系列丑闻。	53	193	484	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5057.413	5063.760	speaker#3	male	native	多家俱乐部及其管理人员牵扯其中,一些著名球员也被怀疑与丑闻有关。	53	193	485	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5063.760	5075.520	speaker#3	male	native	如果意大利足协对于这些俱乐部和人员的指控被裁定成立,那么俱乐部所处的球队可能面临降级,巨额罚款等处罚,一些人员还可能面临刑事诉讼。	53	193	486	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5075.520	5204.241					54	194	487	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5204.241	5207.116	Zhao_Pu	male	native	接下来,我们来看看科技和文化方面的新闻。	55	195	488	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5207.116	5218.090	Li_Zi_Meng	female	native	那一直叫做幺二三二幺的反垃圾邮件总动员,日前在我国的三十个省,区,市同时展开,进行举报的用户还有可能会得到奖励。	55	196	489	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5218.090	5221.001	Zhao_Pu	male	native	了解一下。	55	197	490	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5221.001	5226.487	speaker#3	male	native	幺二三二幺代表的是垃圾邮件举报电话号码,零幺零,幺二三二幺。	55	198	491	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5226.487	5231.209	speaker#3	male	native	中国互联网协会将对部分举报垃圾邮件的用户进行奖励。	55	198	492	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5231.209	5240.385	speaker#3	male	native	此外,中国互联网协会还将招募两万名反垃圾邮件的志愿者,宣传反垃圾邮件的知识,监督网络垃圾邮件传播情况。	55	198	493	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5240.385	5250.419	speaker#3	male	native	有兴趣的网民可以登陆网站报名成为志愿者,网址为三~W点幺七点~A~N~T~I杠~S~P~A~M点~C~N。	55	198	494	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5250.419	5260.921	speaker#3	male	native	对于大量为网民提供邮箱的网络运营商,全国三十个省,自治区,直辖市的互联网协会将建立培训班,培训一千名网络服务器管理员。	55	198	495	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5260.921	5266.895	speaker#3	male	native	据统计,目前我国网民平均每周接到邮件十二点三封,其中垃圾邮件就有七点九封。	55	198	496	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5266.895	5278.945	Zeng_Ming_Fa	male	native	他啊在全球排名是第二或者有时第三这样一个水平,呃他的泛滥的程度主要是因为呃很多就被国外利用了成为这个垃圾件的中转站。	55	199	497	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5278.945	5290.701	Zeng_Ming_Fa	male	native	呃我们这个,给国民经济造成损失啊也非常大,我们调查大概是百分之-百分之六十多的是垃圾邮件给国民经济遭成损失将近六十个亿。	55	199	498	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5290.701	5297.325	Zhao_Pu	male	native	好,接近尾声了,我们轻松一下哈,请梓萌和大家看一幅画,呃看看熟不熟,这画面。	55	200	499	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5290.701	5297.325	Li_Zi_Meng	female	native		55	200	500	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5297.325	5301.957	Zhao_Pu	male	native		55	200	501	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5297.325	5301.957	Li_Zi_Meng	female	native	嗯,清明上河图啊,这经常见,不过我总觉得这清明上河图和以前看的有点不一样。	55	200	502	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5301.957	5315.680	Zhao_Pu	male	native	不大清楚,很模糊呵,因为呢这幅清明上河图啊是用五十-五十六万粒各种不同颜色的粮食啊拼画而成的, <Event desc="noise.laugh" extent="begin" type="entities"。 我们一起来看看,对 <Event desc="noise.laugh" extent="end" type="entities"。 。	55	200	503	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5301.957	5315.680	Li_Zi_Meng	female	native	嗯,粘上去的吗,一块看一下。	55	200	504	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5315.680	5322.057	speaker#3	male	native	刚刚完成的这幅清明上河图,长八点二二米,宽零点五二米,比原图整整大了一倍。	55	201	505	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5322.057	5329.842	speaker#3	male	native	创造中使用了经过防腐处理的小麦,荞麦,绿豆,芝麻等十六种粮食,一共重二点六九公斤,约有五十二万颗。	55	201	506	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5329.842	5333.294	speaker#3	male	native	就是利用各种粮食的天然颜色,进行巧妙的搭配。	55	201	507	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5333.294	5339.452	speaker#3	male	native	尽量的还原原图特色,整幅图仅人物就有五百多个,而且衣着不同,神态各一。	55	201	508	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5339.452	5349.416	speaker#3	male	native	这幅粮食版的清明上河图作者杨贵说,做成一幅具有挑战性的作品,一直是他最大的心愿,而从小喜爱书法,也为自己的创作打下了基础。	55	201	509	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5349.416	5357.971	Yang_Gui	male	native	我作为一-一个合川农民,不但会种粮食,而且要把粮食变为艺术品。	55	202	510	report	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5357.971	5560.172					56	203	511	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5560.172	5562.250	Zhao_Pu	male	native	朝闻天下,天启全新一天。	56	204	512	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5562.250	5564.363	Li_Zi_Meng	female	native	朝闻天下,新闻服务生活。	56	205	513	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5564.363	5568.933	Zhao_Pu	male	native	我们节目的播出时间呢是早上的六点到七点在新闻频道播出。	56	206	514	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5568.933	5574.433	Li_Zi_Meng	female	native	而从早上的七点到八点半在一套和新闻频道同时并机播出。	56	207	515	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5574.433	5577.476	Zhao_Pu	male	native	稍后的新闻频道呢,您将看到的是共同关注。	56	208	516	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5577.476	5584.131	Li_Zi_Meng	female	native	一套即将播出的是天天饮食,那么今天的朝闻天下到这里就结束了,祝您一天心情愉快。	56	209	517	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5584.131	5585.175	Zhao_Pu	male	native	明天再见。	56	210	518	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5585.175	5586.932	Li_Zi_Meng	female	native	再见	56	211	519	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5586.932	5756.629					57	212	520	nontrans	
+CCTV1_MORNINGNEWS_CMN_20060623_065701	0	5756.629	5756.928					57	212	521	nontrans	

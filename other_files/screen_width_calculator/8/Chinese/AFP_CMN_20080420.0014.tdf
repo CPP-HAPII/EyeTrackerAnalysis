@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0014.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	美总统大选宾州初选前 希拉蕊与欧巴马急催票	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社宾州费城十九日电	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	900.000	1350.000	TEXT1	unknown	unkown	美国民主党总统参选人欧巴马及希拉蕊.柯林顿今天搭乘飞机、火车及汽车遍扫宾州各地,在关键的宾州党内初选前三天进行最后 冲刺。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	1350.000	1800.000	TEXT1	unknown	unkown	希拉蕊入主白宫的希望越来越渺茫,新公布的全国性民调又对她形成打击之际,两位参选人在二十二日的宾州初选之前,积极展开催票造势活动。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	希拉蕊在费城近郊西彻斯特的消防队举行第一场活动,间接批评欧巴马。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	约四百名群众沐浴在春阳之际,希拉蕊站在美国国旗及消防车前面说:「这么样重要的选举。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	2600.000	2800.000	TEXT1	unknown	unkown	我不希望只是出现一下,发表别人不屑一顾的演说,激起大家一时的热情,我希望每个人都想想我们必须要做哪些事。」	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3000.000	3150.000	TEXT1	unknown	unkown	欧巴马阵营则攻击希拉蕊的主打政见-健保。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3150.000	3300.000	TEXT1	unknown	unkown	他们推出新广告说希拉蕊的计画将强迫民众买保险,即使负担不起的人也一样。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3500.000	3650.000	TEXT1	unknown	unkown	希拉蕊在约克反击说:「他不去解决问题,反而攻击我的解决方案。」	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3650.000	3800.000	TEXT1	unknown	unkown	这是她今天五场造势活动中的第三站。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	4000.000	4200.000	TEXT1	unknown	unkown	「新闻周刊」最新民调显示,虽然历经多事的一个月,欧巴马在全国民主党选民心中,已经领先希拉蕊。	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	4200.000	4400.000	TEXT1	unknown	unkown	全国民主党员及倾向民主党的人当中,支持欧巴马者达五成四,大幅领先希拉蕊的三成五。	0	0	0		statement

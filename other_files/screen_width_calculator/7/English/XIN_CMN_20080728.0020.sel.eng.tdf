@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080728.0020	0	300.0	400.0	speaker	unknown	unknown	Donald James from Australia is 73 years old this year, but he walks fast and vigorously in the fencing hall, works nearly ten hours every day.	0	0	0		
+XIN_CMN_20080728.0020	0	1700.0	1800.0	speaker	unknown	unknown	"The volunteers are all very enthusiastic, but they have to understand that the most enthusiastic service may not be the most appropriate service.	0	0	0		
+XIN_CMN_20080728.0020	0	2200.0	2300.0	speaker	unknown	unknown	These are all his experiences, and not just armchair strategies," said Liu Zhihai.	0	0	0		
+XIN_CMN_20080728.0020	0	2800.0	2900.0	speaker	unknown	unknown	I always tell them that if there is time, get some shut-eye, or go to karaoke!"	0	0	0		

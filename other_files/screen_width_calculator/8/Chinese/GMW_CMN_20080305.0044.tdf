@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080305.0044.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	雷锋家乡“雷锋潮”涌 望城举行“向雷锋同志学习”系列活动	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-05	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	本报长沙3月4日电((记者唐湘岳通讯员资涵))	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1000.000	1050.000	TEXT1	unknown	unkown	湖南省望城县各级党政领导、学习雷锋的先进代表和各界群众1500人日前隆重集会,纪念毛泽东同志“向雷锋同志学习”题词发表45周年。	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1050.000	1075.000	TEXT1	unknown	unkown	湖南省第六届学雷锋先进个人、英雄公交司机周泽良生前所在公司总经理彭红光向全社会发出“弘扬雷锋精神,构建和谐社会”的 倡议。	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1075.000	1100.000	TEXT1	unknown	unkown	他倡议从自己做起,从现在做起,用爱心帮助身边的每一个人,用真诚感动身边的每一个人,用进取带动身边的每一个人,用一生实践“向雷锋同志学习”的庄严诺言。	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1300.000	1350.000	TEXT1	unknown	unkown	此外,又一个以雷锋名字命名的机构――“雷锋慈善事业基金会”正式宣告成立。	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1350.000	1400.000	TEXT1	unknown	unkown	大会还表彰了该县2007年度学雷锋活动“双十佳”、和谐望城“八大重点工程,六大主体活动”先进集体和先进个人、“影响望城十大杰出人物”等先进典型。	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1600.000	1650.000	TEXT1	unknown	unkown	望城各地都成为了活动的分会场:纪念馆内,“听老馆长讲雷锋故事”吸引了众多的中小学生和参观者;雷锋镇、高塘岭镇等地,咨询、义诊、修理等传统学雷锋活动依然活跃在街头;	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1650.000	1700.000	TEXT1	unknown	unkown	在社区,残疾、孤寡老人家中,万名志愿者或挥帚扫地,或进行医疗义诊,或提供各种咨询。	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1900.000	1950.000	TEXT1	unknown	unkown	望城县内雷锋艺术团组织专场节目送戏下乡;	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1950.000	1975.000	TEXT1	unknown	unkown	千名党员干部深入农村深入企业,在大棚蔬菜基地,百里水产走廊,家禽、家畜养殖场,他们或现场勘察,或传授技术,或帮助运送农资;	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1975.000	1981.250	TEXT1	unknown	unkown	县团委积极开展形式多样的学雷锋活动,组织广大团员青年开展青年志愿者活动;	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1981.250	1987.500	TEXT1	unknown	unkown	县妇联广泛发动广大妇女投入“巾帼社区服务工程”、“关爱留守儿童阳光行动”等活动,切实关心妇女儿童等弱势群体;	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1987.500	1993.750	TEXT1	unknown	unkown	县人武部成立了510个民兵“生产补损”互助小组,热心帮助受灾群众迅速恢复生产。	0	0	0		statement
+GMW_CMN_20080305.0044.sgm	0	1993.750	2000.000	TEXT1	unknown	unkown	县直各单位和各乡镇也纷纷开展了“立足岗位学雷锋”、“洁净环境促文明”、“生产自救献爱心”等系列学雷锋活动。	0	0	0		statement

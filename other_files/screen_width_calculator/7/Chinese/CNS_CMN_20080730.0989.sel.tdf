@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.0989	0	300.0	400.0	speaker	unknown	unknown	“伊朗还没有处于一个革命时期”，这是美国中央情报局1978年8月对伊朗政局做出的评估，当时，伊朗的统治者是美国在中东最亲密的盟友。	0	0	0		

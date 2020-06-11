@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.2576	0	200.0	300.0	speaker	unknown	unknown	中新社惠州七月十七日电(记者 宋秀杰 曾润泉 康孝娟)未来五年，广东惠州将投资十七亿元人民币，从扶持产业园区完善基础设施、扶持产业园区技术改造和创新等八个方面扶持惠州实现“产业转移和劳动力转移”。	0	0	0		

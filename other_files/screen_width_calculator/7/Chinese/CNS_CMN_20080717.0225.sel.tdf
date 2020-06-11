@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0225	0	300.0	400.0	speaker	unknown	unknown	据知，目前全球最具代表性的3G标准有三，其一是中国具有主要自主知识产权的TD-SCDMA标准，其二是欧企主导WCDMA标准，其三是美企主导的CDMA2000标准。	0	0	0		
+CNS_CMN_20080717.0225	0	400.0	500.0	speaker	unknown	unknown	奚国华指出，为北京奥运期间提供服务的TD属于特例，其尚未进入商用阶段，目前还处于扩大规模网络应用试验。	0	0	0		
+CNS_CMN_20080717.0225	0	1000.0	1100.0	speaker	unknown	unknown	对于已在北京等十个城市进行信号覆盖的TD，奚国华称，其产业化和商用化已基本成熟，唯一缺点就是覆盖率还没有2G高，但目前可通过2G与3G的信号切换进行解决。	0	0	0		
+CNS_CMN_20080717.0225	0	1100.0	1200.0	speaker	unknown	unknown	奚国华表示，经过一年多的努力，现在TD覆盖已经达到了2G网的百分之九十五以上，相对于建设了十几年的2G网，这是相当不容易的。	0	0	0		

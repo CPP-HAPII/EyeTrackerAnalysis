@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2493	0	300.0	400.0	speaker	unknown	unknown	据新加坡《联合早报》报道，得克萨斯州大学研究员14日发表报告说，如果气候暖化的趋势以联合国政府间气候变化委员会所预测的速度发展，美国一些气候较干燥地区的人民患上肾结石的比例将增加30%。	0	0	0		

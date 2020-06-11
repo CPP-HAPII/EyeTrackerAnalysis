@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0010.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	奥运圣火在南韩展开传递　八千三百员警戒备	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社首尔二十七日电	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	北京奥运圣火今天将进行南韩站传递活动,人权、宗教与保守派团体矢言封锁传递路线,以抗议中国在西藏的行动及遣返北韩难民之际,数千名镇暴警察出动戒备。	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	警方说,他们沿着首尔市区奥运公园到市政府的二十四公里传递路线,部署约八千三百名警员。	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	1600.000	1900.000	TEXT1	unknown	unkown	接力活动将从下午二时((台湾时间下午一时))展开,晚间七时((台湾时间晚间六时))结束。	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	2100.000	2400.000	TEXT1	unknown	unkown	严密的安全措施包括二十名骑脚踏车的警员,以及一百二十名跑步的警察围绕在圣火周围,还有骑摩托车、开车与乘直升机的警员支援。	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	2600.000	2800.000	TEXT1	unknown	unkown	六十三个人权、宗教与保守派团体组成的联盟表示,预料将有数千人走上街头示威。	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	一名负责安全措施的高阶官员今天告诉法新社:「警方将维持滴水不漏的安全措施,确保一切顺利进行。」	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	他说:「警方将立刻逮捕试着阻止或干扰圣火传递的人。	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	3600.000	3700.000	TEXT1	unknown	unkown	我们会严格处理这类事件。」	0	0	0		statement

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10513253	0	1000.0	1100.0	speaker	unknown	unknown	其实，从红灯笼到什么阿庆嫂、黄继光、刘胡兰、五壮士、董存瑞看，很难不相信这是一个大系统工程中的一个分系统，怪不得说某某是战略家的材料啊！	0	0	0		
+cmn-NG-31-117651-10513253	0	1200.0	1300.0	speaker	unknown	unknown	为什么会贬值？	0	0	0		
+cmn-NG-31-117651-10513253	0	2300.0	2400.0	speaker	unknown	unknown	象那个何蚱蜢一样，自己的核专业一无所成，搞得国家买完法国的核电站又去买美国的核电站，买完美国的还买日本的核电站！	0	0	0		
+cmn-NG-31-117651-10513253	0	2600.0	2700.0	speaker	unknown	unknown	我建议那些专家们，要甘于寂寞，要多把心思花在自己的专业上，不要老象那些艺术家一样，天天想着上报纸，象香港那些艺术家一样，没有新闻，也要制造出一大堆新闻。	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1593	0	200.0	300.0	speaker	unknown	unknown	“限塑”实施一个月以来，超市塑料购物袋的使用量减少了80%以上，但连卷袋使用上升了30%-50%；来自工商部门的检查发现，各级农贸批发零售市场，许多商户公开或半公开地仍在免费使用塑料袋。	0	0	0		
+CNS_CMN_20080701.1593	0	900.0	1000.0	speaker	unknown	unknown	“根据各地协会提供的数据，超市塑料购物袋的使用量减少了80%以上，农贸市场、批零市场塑料购物袋的使用量减少50%左右。”中国塑协塑料再生利用专业委员会副会长董金狮接受记者采访时表示，全国塑料购物袋的用量减少了2/3，限塑成果超出了预期。	0	0	0		
+CNS_CMN_20080701.1593	0	2100.0	2200.0	speaker	unknown	unknown	“发现不合格的塑料袋后，商户无法出具购销台账；按照袋身上的信息联系厂家，厂家也喊冤，表示这些塑料袋不是该厂的产品。”董金狮解释，有的市场管理者卖给商户的塑料购物袋的价格就是0.2元，商户顾忌原价卖给顾客价格高，所以转向低质的“假冒”国标袋，这样即使免费赠送顾客，成本也不太高。	0	0	0		

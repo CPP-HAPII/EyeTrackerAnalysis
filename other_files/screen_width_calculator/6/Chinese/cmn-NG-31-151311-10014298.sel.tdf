@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-151311-10014298	0	1400.0	1500.0	speaker	unknown	unknown	孤身叉手当门立：谁反儒家我反谁！	0	0	0		
+cmn-NG-31-151311-10014298	0	1500.0	1600.0	speaker	unknown	unknown	其六眉横神鬼气横秋，旗展儒家大自由。	0	0	0		
+cmn-NG-31-151311-10014298	0	1700.0	1800.0	speaker	unknown	unknown	2008-4-15东海老人首发《民主论坛》 http://asiademo.org/gb	0	0	0		

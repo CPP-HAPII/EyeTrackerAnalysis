@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.0438	0	600.0	700.0	speaker	unknown	unknown	After "Tiger Zhou" was proven to be a "paper tiger," what the public was most concerned about was whether this was a "deception practiced by one person," or "an evil act of many with hands and gloves together."	0	0	0		
+CNS_CMN_20080703.0438	0	700.0	800.0	speaker	unknown	unknown	In fact, the flawed "paper tiger" went through so many twists and turns before it was discovered, the public easily linked this with "fraud with participation of officers."	0	0	0		
+CNS_CMN_20080703.0438	0	1600.0	1700.0	speaker	unknown	unknown	It is completely logically possible that the "paper tiger case" was a collective of counterfeiting acts, and through setting up a "league," all the problems were put on Zhou Zhenglong's shoulders.	0	0	0		

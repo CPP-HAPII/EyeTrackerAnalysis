@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.1515	0	1200.0	1300.0	speaker	unknown	unknown	关立欣介绍，目前国内飞行员培养主要有三条途径：一是高中毕业生通过高考提前录取，在航校学习4年时间(称为养成生)；二是招收高校大二、大三学生进行技能培养，学习时间两年左右(称为大改驾)；三是军航飞行员转化为民航飞行员。	0	0	0		
+CNS_CMN_20080709.1515	0	2000.0	2100.0	speaker	unknown	unknown	按民航局一位负责人的说法是，“谈效益，谈发展，如果没有了安全，一切都是空中楼阁。”	0	0	0		
+CNS_CMN_20080709.1515	0	2200.0	2300.0	speaker	unknown	unknown	民航局主管安全技术的一位负责人告诉记者，“合格的民航飞行员必须具备坚实理论基础、较高综合素质、熟练驾驶技术、良好团队精神及高度安全意识、组织纪律性和责任感”，因而绝不能因片面追求数量而对飞行员“严进宽出甚至宽进宽出”，为日后留下安全隐患。	0	0	0		
+CNS_CMN_20080709.1515	0	3500.0	3600.0	speaker	unknown	unknown	王东明表示，目前应尽快完善飞行员流动的政策法规，建立起飞行员依法有序流动的机制。	0	0	0		
+CNS_CMN_20080709.1515	0	3800.0	3900.0	speaker	unknown	unknown	努力为行业外院校和社会力量依法、有序开展民航教育培训搭建平台，构建多元化、开放式的民航教育培训体系。	0	0	0		

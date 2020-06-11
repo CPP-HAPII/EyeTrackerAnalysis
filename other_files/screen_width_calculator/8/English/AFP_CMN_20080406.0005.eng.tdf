@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Another Suspected Bird Flu Outbreak in South Korea, 280,000 Chickens and Ducks Culled	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	SEOUL, the 6th (AFP)	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	South Korean officials said today that authorities are investigating the third suspected bird flu outbreak in less than a week.	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	1000.000	1200.000	TEXT1	unknown	unkown	The government has culled 280,000 chickens and ducks in order to contain the virus.	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	The authorities went ahead with the culling after two outbreaks of bird flu last week at poultry farms in South Korea's southwest, but it was announced today that another site had be put under quarantine.	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	South Korean officials confirmed yesterday, a second bird flu outbreak at a duck farm near the city of Jeongeup, about 250 kilometers southwest of Seoul.	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	The duck farm had about 12,000 ducks, about half of which died in the past week, prompting the authorities to implement a slaughter.	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	Kim Hong-Chun, an official handing bird flu outbreaks in North Cheolla, said during an interview, "Officials culled and buried the remaining 6,140 ducks last night at the duck farm in Jeongeup."	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	Kim Hong-Chun said, "They also completed culling and burying 270,614 chickens at a farm in Gimje, which had this year's first outbreak."	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	Jeongeup and Gimje are 27 kilometers apart. The outbreaks in the two locations have caused worry that the bird flu may spread to other areas of North Cheolla.	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	3600.000	3800.000	TEXT1	unknown	unkown	North Cheolla is an important center of South Korea's poultry industry.	0	0	0		statement

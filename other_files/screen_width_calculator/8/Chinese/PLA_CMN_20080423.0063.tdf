@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0063.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	某团士兵在训练间隙学习向南林事迹	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 08:41:55   来源：中国军网	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	900.000	950.000	TEXT1	unknown	unkown	近日，"新一代青年士兵的楷模--向南林"的事迹一经报道便在装甲兵工程学院教练团的士兵群体中引起了强烈的反响。	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	950.000	975.000	TEXT1	unknown	unkown	他们被向南林信仰真理、追求真理的坚定信念所鼓舞；被向南林充满爱心、乐于奉献的高尚品德所感染；被向南林乐观向上、不懈奋斗的坦荡胸怀所感动；被向南林忠诚使命、爱军习武的责任意识所振奋。	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	975.000	987.500	TEXT1	unknown	unkown	迅速掀起了"学英模，做标杆，争当保教先锋"热潮，并付诸保教训练的实际行动中，决心把自己锤炼成"四个新一代"的新型士兵。	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	987.500	1000.000	TEXT1	unknown	unkown	图为曾被评为"全军优秀士官"的班长、四级士官魏奎雨利用工作间隙组织战士们学习向南林同志的事迹。	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	（杨国林、刘峰摄影报道）	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	(责任编辑：张锋）	0	0	0		statement

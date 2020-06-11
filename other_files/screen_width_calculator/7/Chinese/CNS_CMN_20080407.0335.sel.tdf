@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080407.0335	0	700.0	800.0	speaker	unknown	unknown	在人员流动方面，双方承诺将进一步便利两国人员往来，新西兰将为中医、中餐厨师、中文教师、武术教练、中文导游等五类职业提供八百个工作许可，并允许车工、焊工、计算机应用工程师、审计师等二十类职业至少一千名中方人员赴新工作。	0	0	0		
+CNS_CMN_20080407.0335	0	1500.0	1600.0	speaker	unknown	unknown	王新培说，《协定》是中国加入WTO六年后推进对外开放的重要举措，也是中国实施自由贸易区战略的重要组成部分。	0	0	0		

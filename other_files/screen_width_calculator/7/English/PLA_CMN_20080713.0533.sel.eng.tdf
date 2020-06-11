@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080713.0533	0	200.0	300.0	speaker	unknown	unknown	Xinhua News Agency, Budapest, July 12, Special Newswire for Olympics - Special Report: Olympic Champion Kovacs Bid Farewell to Swimming Pool Prior to Beijing Olympics	0	0	0		
+PLA_CMN_20080713.0533	0	600.0	700.0	speaker	unknown	unknown	"Bang!"	0	0	0		
+PLA_CMN_20080713.0533	0	700.0	800.0	speaker	unknown	unknown	At the sound of a starter's pistol, Kovacs vigorously plunged into the water.	0	0	0		

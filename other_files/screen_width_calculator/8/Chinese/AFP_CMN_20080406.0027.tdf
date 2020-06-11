@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0027.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	法人权部长否认提及沙柯吉出席奥运三条件	0	0	0		statement
+AFP_CMN_20080406.0027.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社巴黎五日电	0	0	0		statement
+AFP_CMN_20080406.0027.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	法国人权部长雅德今天否认她曾在接受媒体专访时,提及法国总统沙柯吉出席北京奥运会开幕式的三项条件。	0	0	0		statement
+AFP_CMN_20080406.0027.sgm	0	1400.000	1800.000	TEXT1	unknown	unkown	「世界报」引述雅德表示,沙柯吉出席奥运开幕式有三个「不可或缺」条件,即「中止以暴力对付人民、 释放政治犯、厘清西藏情势并与西藏精神领袖达赖喇嘛展开对话」。	0	0	0		statement
+AFP_CMN_20080406.0027.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	但在世界报披露专访内容数小时后,雅德发表声明说,她并未使用「条件」一词。	0	0	0		statement
+AFP_CMN_20080406.0027.sgm	0	2400.000	2800.000	TEXT1	unknown	unkown	声明说:「如同自西藏危机爆发以来般,我一直使用精确用语审慎表达法国的立场,沙柯吉总统已表明,不排除任何选项,关于他是否出席北京奥运开幕式问题,他将会根据西藏情势发展,于适当时机发表谈话。」	0	0	0		statement
+AFP_CMN_20080406.0027.sgm	0	3000.000	3200.000	TEXT1	unknown	unkown	世界报发言人告诉查询的法新社记者,该报「忠实呈现雅德使用的字词」。	0	0	0		statement

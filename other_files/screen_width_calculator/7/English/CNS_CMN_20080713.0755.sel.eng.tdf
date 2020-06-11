@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080713.0755	0	400.0	500.0	speaker	unknown	unknown	According to reports, the pilot killed in the accident was 37-year-old Lu Zhiguo.	0	0	0		
+CNS_CMN_20080713.0755	0	2800.0	2900.0	speaker	unknown	unknown	As he was trying to put out the fire, a man of 40-odd years of age ran onto the scene and shouted toward the wreckage of the plane: "Lu, come out! Lu!"	0	0	0		
+CNS_CMN_20080713.0755	0	3000.0	3100.0	speaker	unknown	unknown	But Mr. Li had no professional equipment and the fire extinguisher was not enough to get the fire fully under control.	0	0	0		
+CNS_CMN_20080713.0755	0	3300.0	3400.0	speaker	unknown	unknown	Ten minutes later, forest rangers, the firefighters of Pinggu Fire Brigade and six fire engines arrived. They used fire-extinguishing bombs to put out the fire.	0	0	0		
+CNS_CMN_20080713.0755	0	3900.0	4000.0	speaker	unknown	unknown	The rescuers examined pilot Lu Zhiguo and verified he was dead.	0	0	0		

@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0008.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	辛巴威选举争议 选委会下令23选区重新计票	0	0	0		statement
+AFP_CMN_20080413.0008.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社辛巴威首都哈拉雷十三日电	0	0	0		statement
+AFP_CMN_20080413.0008.sgm	0	900.000	1050.000	TEXT1	unknown	unkown	辛巴威国营媒体「周日邮报」报导,选举委员会已经下令二十三个选区于十九日全面重新计票。	0	0	0		statement
+AFP_CMN_20080413.0008.sgm	0	1050.000	1300.000	TEXT1	unknown	unkown	辛巴威共分两百一十个选区。	0	0	0		statement
+AFP_CMN_20080413.0008.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	被视为总统穆加比政府喉舌的周日邮报报导,选委会主席奇维许已经下令重新计算总统、国会、参议院及地方议会选举所有选票。	0	0	0		statement
+AFP_CMN_20080413.0008.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	报导说,奇维许有「合理的理由」相信这些选区的选票遭到误计,且可能影响选举结果。	0	0	0		statement

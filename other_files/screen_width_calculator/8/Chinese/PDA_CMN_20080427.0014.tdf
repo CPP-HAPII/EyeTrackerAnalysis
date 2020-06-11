@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0014.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	美国2005年以来向玻利维亚反对派提供1.2亿美元	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	900.000	950.000	TEXT1	unknown	unkown	人民网4月27日讯	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	据西班牙《起义报》今天报道，委内瑞拉裔美国律师戈林杰日前在一个电视节目中表示，美国利用它的机构如美国国际发展协会和国家民主基金会向玻利维亚的非政府组织和反对派团体提供了1.2亿美元，以执行“援助计划”，如同在委内瑞拉支持反对派攻击查韦斯总统那样。	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	戈林杰说，当2005年莫拉莱斯成为玻利维亚总统候选人时，美国就表示担心，拨款公开介入玻利维亚的政治冲突，但称这些资金是为了反对贩毒。	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	美国称莫拉莱斯为“古柯农的领导人”。	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	戈林杰的调查表明美国国际发展协会曾向委内瑞拉的反对派提供了5亿美元。	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	2004年该组织宣布了它企图改变“援助民主”的计划，以便在新的战略目标之下进行活动。	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1293.750	1296.875	TEXT1	unknown	unkown	它试图减少莫拉莱斯在印第安民众中的影响，开辟一个办公室采取走向过渡的措施。	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1296.875	1300.000	TEXT1	unknown	unkown	戈林杰还提供了美国国家民主基金会干涉玻利维亚的情况。（管彦忠）	0	0	0		statement

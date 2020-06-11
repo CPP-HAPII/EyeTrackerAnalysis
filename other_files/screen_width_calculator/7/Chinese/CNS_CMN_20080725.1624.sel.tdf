@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.1624	0	0.0	100.0	speaker	unknown	unknown	中美男篮之战魔力大 五棵松上演扑票“不眠夜”	0	0	0		
+CNS_CMN_20080725.1624	0	200.0	300.0	speaker	unknown	unknown	中新社北京七月二十五日电 (许晓青 武锴)子夜时分，夜幕低垂。	0	0	0		
+CNS_CMN_20080725.1624	0	1300.0	1400.0	speaker	unknown	unknown	“就是为了看一眼姚明，太苦了！”一些晚间才赶到现场的球迷，见到如此人山人海，不得不放弃露天熬夜的设想。	0	0	0		
+CNS_CMN_20080725.1624	0	1600.0	1700.0	speaker	unknown	unknown	也有个别老者，称替家中爱看篮球的儿孙来“占位”。	0	0	0		

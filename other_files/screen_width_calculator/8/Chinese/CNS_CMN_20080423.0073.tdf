@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080423.0073.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	习近平晤日客人:胡锦涛访日将全面推进中日关系	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23日 19:45 来源：中国新闻网 <span class="style3"><a href='http://comment.chinanews.com.cn/comments/comments.php?newsid((1229763))' target="_blank"><img src="/fileftp/2007/12/2007-12-13/U31P4T47D7993F967DT20071213101145.gif" width="14" height="14" border((0)) /> <span class="style3">发表评论 </span></a></span>	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新社北京四月二十三日电 ((记者 张朔))	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	中国国家副主席习近平二十三日在北京人民大会堂会见日本静冈县知事石川嘉延时表示，胡锦涛主席访日定将对加深双方的相互了解与友谊、推动两国各领域务实合作、全面推进中日战略互惠关系产生重大而深远的影响。	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	习近平积极评价石川嘉延多年来为发展中日友好所做的努力。	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	他说，中日邦交正常化三十多年来，两国关系总体上不断向前发展，双方在各领域的友好合作取得了丰硕成果。	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	希望中日双方抓住当前两国关系改善和发展的大好时机，努力推动中日成为“和平共处、世代友好、互利合作、共同发展”的好邻居、好伙伴。	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	习近平表示，胡锦涛主席不久将对日本的访问是新时期两国关系中的一件大事，相信此访定将对加深双方的相互了解与友谊、推动两国各领域务实合作、全面推进中日战略互惠关系产生重大而深远的影响。	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	习近平说，友好省县和城市交流是中日关系的重要组成部分，希望双方继续加强民间交流和友好城市往来，不断充实中日友好的内涵，为两国关系发展注入新的动力。	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	石川嘉延完全赞同习近平对双边关系的评价，并表示，发展日中友好符合两国人民的根本利益。	0	0	0		statement
+CNS_CMN_20080423.0073.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	静冈县愿继续加强与中方在各领域各层级的互利合作和友好交流，为推动日中关系继续朝着积极方向发展做出自己的贡献。	0	0	0		statement

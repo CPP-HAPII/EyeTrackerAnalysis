@@ -1,0 +1,21 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070131.0017	0	10010.000	10019.900				National Museum of China to be Reconstructed and Expanded; Closes from Today Onward and Bids Temporary Farewell to Visitors for Three Years	0	0	0		
+CNS_CMN_20070131.0017	0	20010.000	20019.900				January 31, 2007, 20:18	0	0	0		
+CNS_CMN_20070131.0017	0	30010.000	30019.900				Photo: Trucks for relocating cultural relics are parking and waiting in front of the gate of the National Museum.	0	0	0		
+CNS_CMN_20070131.0017	0	30020.000	30029.900				The National Museum will be fully closed in February, and the three-year expansion project will commence in April.	0	0	0		
+CNS_CMN_20070131.0017	0	30030.000	30039.900				Currently, 620,000 cultural relics of the museum's collections have started to be moved in batches, among which collections include the treasure of the museum "Si Mu Wu Quadruped" and the "Zi Long Tripod" that has just been added to the collections of the National Museum.	0	0	0		
+CNS_CMN_20070131.0017	0	30040.000	30049.900				China News Service; photograph by He Yeping	0	0	0		
+CNS_CMN_20070131.0017	0	40010.000	40019.900				China News Service, Beijing, January 31 - (Correspondent Ying Ni) The National Museum of China is officially closed from today onward.	0	0	0		
+CNS_CMN_20070131.0017	0	40020.000	40029.900				After three years of reconstruction and expansion, it will become the largest museum in the world in terms of floorage.	0	0	0		
+CNS_CMN_20070131.0017	0	50010.000	50019.900				This morning, the National Museum of China officially hung up a notice on the closure of the museum, and the last exhibition of the museum, "Outstanding Works of Chinese Arts and Crafts Masters," began to be dismantled.	0	0	0		
+CNS_CMN_20070131.0017	0	60010.000	60019.900				Beginning April this year, it will carry out a reconstruction and expansion project that will last for three years. The reconstructed National Museum in 2010 will, will reach 192,000 square meters, making it the largest museum in the world in terms of floorage.	0	0	0		
+CNS_CMN_20070131.0017	0	70010.000	70019.900				Adforward Begin:	0	0	0		
+CNS_CMN_20070131.0017	0	80010.000	80019.900				Adforward End	0	0	0		
+CNS_CMN_20070131.0017	0	90010.000	90019.900				The National Museum, which was inaugurated in 2003, is a merger of the former Museum of Chinese History and Museum of Chinese Revolution. Built and completed in 1959, the current building is one of the top-ten architectures in Beijing that were serviced as commemoration of the 10th anniversary of the founding of the new China.	0	0	0		
+CNS_CMN_20070131.0017	0	100010.000	100019.900				The truth is, this museum has already closed part of its exhibition halls and exhibitions, and moved out some of the cultural relics in succession, since last December.	0	0	0		
+CNS_CMN_20070131.0017	0	110010.000	110019.900				This famous museum has 620,000 cultural relics in its collection, including the treasure of the museum, "Si Mu Wu Quadruped," and the "Zi Long Tripod" that has just been added to the collection after being returned from overseas. The whole process of moving the cultural relics will be kept confidential. According to our information, the Cultural Relics Protection Center, which was just handed over for use last summer, will be the main temporary warehouse for these cultural relics.	0	0	0		
+CNS_CMN_20070131.0017	0	120010.000	120019.900				However, closing the museum does not mean that the National Museum will cancel its exhibitions.	0	0	0		
+CNS_CMN_20070131.0017	0	120020.000	120029.900				According to Huang Chen's introduction, the director of the Education and Propaganda Department of the museum, the National Museum will continue holding exhibitions at other exhibition venues in Beijing through ways such as loan exhibition and exhibition tour, in order to make up for the disappointment that the reconstruction and expansion project brings to the public.	0	0	0		
+CNS_CMN_20070131.0017	0	120030.000	120039.900				(End)	0	0	0		

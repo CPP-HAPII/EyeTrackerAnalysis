@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10513603	0	600.0	700.0	speaker	unknown	unknown	1938年4月1日，毛老师在延安陕北公学第二期开学典礼大会上，向一千六百陕北公学的同学说：“今天陕北公学开学，我应当送点礼物。	0	0	0		
+cmn-NG-31-117651-10513603	0	1800.0	1900.0	speaker	unknown	unknown	这些青年，到延安不是为了赚钱，也不是为了做官。	0	0	0		

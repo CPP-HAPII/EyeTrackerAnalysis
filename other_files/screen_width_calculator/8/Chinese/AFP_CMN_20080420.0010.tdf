@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0010.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	不满法国对奥运态度 中国城市出现反法示威	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社北京十九日电	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	警方和目击者指出,北京等中国若干大城市今天都有人群因法国对西藏问题以及北京奥运的态度,而对法国发动抗议。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	1400.000	1800.000	TEXT1	unknown	unkown	中国三年来规模最大的这些仇外示威活动主要是针对家乐福超商的各地分店而发,因为某些中国人士指控,这个法国超商连锁集团支持西藏,但该集团对此加以否认。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	华中武汉市家乐福超市附近一家书店的店员说:「早上那儿聚集了几百人,多半是年轻人,中午之前他们都走了。」	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	另一名消息人士根据武汉警方的报告说,最初示威人群有三百人,但在接近中午时,增加到了一万人。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	2900.000	3100.000	TEXT1	unknown	unkown	新华社报导,群众在抗议时曾高喊「抵制家乐福」和「反对西藏独立」等口号。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	3300.000	3500.000	TEXT1	unknown	unkown	该社报导了北京、华东城市合肥与青岛,西南城市昆明以及武汉的抗议情况。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	3700.000	3900.000	TEXT1	unknown	unkown	这是法国与中国一九六四年建交以来,中国方面针对法国所出现的首次抗议风潮。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	4100.000	4400.000	TEXT1	unknown	unkown	自奥运圣火在巴黎传递陷入混乱后,中国内部的反法情绪即不断升高,当时支持藏独的抗议群众企图自坐在轮椅上的击剑选手金晶手中抢夺圣火。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	4600.000	4800.000	TEXT1	unknown	unkown	这种情绪又因法国总统沙柯吉将他是否出席北京奥运开幕式与西藏人权是否有进展挂钩,而更加激化。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	5000.000	5200.000	TEXT1	unknown	unkown	新华社和目击者指出,北京法国大使馆和附近法国学校一带,也爆发了规模较小的抗议行动。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	5400.000	5550.000	TEXT1	unknown	unkown	目击者说,在警方将相关地区封锁之前,曾有大约十辆披上五星旗的汽车环绕着法国使馆行驶。	0	0	0		statement
+AFP_CMN_20080420.0010.sgm	0	5550.000	5700.000	TEXT1	unknown	unkown	不久之后,一小群人手持标语牌,在法国学校前方聚集。	0	0	0		statement

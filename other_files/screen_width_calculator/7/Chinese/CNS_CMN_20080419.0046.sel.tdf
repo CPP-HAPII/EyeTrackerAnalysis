@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080419.0046	0	2000.0	2100.0	speaker	unknown	unknown	其中第九页的第五大条关于录取说明里面的第6小条，就是关于金融界高层的子女加10分投档录取的照顾。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080707.0003	0	200.0	300.0	speaker	unknown	unknown	中新社西安七月七日电 (记者 冽玮)因长期外露，风雨侵蚀，位于陕西省关中平原西部的凤翔县秦公一号大墓墓坑南坡出现坍塌。	0	0	0		
+CNS_CMN_20080707.0003	0	900.0	1000.0	speaker	unknown	unknown	而一号大墓墓坑南坡，地处阴面，近年来因长期外露，风吹雨淋，不断出现坍塌。	0	0	0		

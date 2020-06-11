@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0027.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	蔡英文确定参选党主席 对民进党提出三点期望	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	900.000	1250.000	TEXT1	unknown	unkown	人民网4月18日电　综合台媒消息， 民进党主席之争，蔡英文确定也加入了。	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	1250.000	1600.000	TEXT1	unknown	unkown	蔡英文今日下午三点前往民进党部登记参选，她对民进党提出三点期望：质朴、效率、包容。	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	蔡英文办理完登记手续之后，对媒体表示，首先民进党因该回归质朴，做一个有执政经验的在野党；其次，民进党要将理念转化为政策，要有效率；	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	还有，民进党要更包容，不论在族群、意识形态方面都要包容。	0	0	0		statement

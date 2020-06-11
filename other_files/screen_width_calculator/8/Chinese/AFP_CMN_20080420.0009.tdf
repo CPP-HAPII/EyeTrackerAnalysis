@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	澳洲召开菁英峰会 提议不再奉英女王为君主	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社雪梨十九日电	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	一项主张在二零一零年之前切断澳洲和英国君主之间关连的计划,今天在澳洲各界菁英举行的高峰会上获得热烈支持。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	1400.000	1500.000	TEXT1	unknown	unkown	共有一千多位代表参加在首都坎培拉召开的「二零二零高峰会」。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	澳洲总理陆克文去年十一月当选、结束保守党十二年执政后,开始筹备召开这场会议,以广徵灼见。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2000.000	2100.000	TEXT1	unknown	unkown	与会代表分成十组讨论,包括一组讨论治国问题。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	该组代表压倒性支持一项提议,即终结与前宗主国英国之间日益萎缩的关连。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2200.000	2400.000	TEXT1	unknown	unkown	此种关连代表英国女王伊丽莎白二世仍然是澳洲的君主。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	2600.000	2900.000	TEXT1	unknown	unkown	代表们原先拟议以十二年时间使澳洲成为一个共和国,但是内政部长戴布斯敦促大幅缩短最后期限,获得正面回应。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	戴布斯说:「我希望大家表明:我们将在二零一零年之前成为一个共和国。」	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	一九九九年的一场共和国公投以失败收场,当时的总理霍华德强力游说反对这项转变。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	3900.000	4200.000	TEXT1	unknown	unkown	但霍华德的继任者陆克文形容他自己是一个「打不死的共和派」,而保皇派则指控这位中间偏左的领袖召开高峰会暗藏推动共和制的议程。	0	0	0		statement
+AFP_CMN_20080420.0009.sgm	0	4400.000	4700.000	TEXT1	unknown	unkown	高峰会为期两天,陆克文形容与会代表是澳洲「最顶尖和最睿智人士」,在第一天会期中,他们讨论的议题包括了税务改革和增加澳洲人的运动量等。	0	0	0		statement

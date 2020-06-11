@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'filler', u'report', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 87.554000000000002, 261.113, 265.95499999999998, 516.88699999999994, 560.46000000000004, 635.02599999999995, 743.20699999999999, 806.01199999999994, 829.35900000000004, 994.94799999999998, 1004.854, 1206.8689999999999, 1219.479, 1230.2760000000001, 1343.3019999999999, 1444.2719999999999, 1485.02, 1541.002, 1582.634, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20080415_202815	0	184.594	188.331	speaker#3	female	native	而让龙香英吃惊的还不止是这个	1	8	15	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080415_202815	0	243.090	252.093	speaker#1	female	native	这个龙香英葫芦里卖的是什么药,看来啊只能找结婚证上的那个男人去问个究竟了	1	13	23	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080415_202815	0	452.760	464.257	Long_Xiang_Yin	female	native	我讲我你说我结婚啦我讲我那个结婚那个对象是谁呀,他讲叫姚浩泉,我一听我说是我姐夫呀我说 (())	3	28	46	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080415_202815	0	521.680	534.700	Yao_Hao_Quan	male	native	对对对, (())	4	34	54	filler	statement
+CCTV2_ECONOMYANDLAW_CMN_20080415_202815	0	870.502	881.245	Long_Xiang_Yin	female	native	她说她家那个小叔子呀有神经病啦,一天拿她打呀,打她,要打她嘛, (()) 那个我-我那个姐夫呀他也不管,也不问	9	55	84	report	statement

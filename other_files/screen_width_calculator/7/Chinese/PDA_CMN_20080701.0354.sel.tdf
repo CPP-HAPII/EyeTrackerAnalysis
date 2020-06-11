@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080701.0354	0	700.0	800.0	speaker	unknown	unknown	唯一遗憾的是，他罹患糖尿病的妻子，等不到丈夫回家这一刻，前阵子已经去世。	0	0	0		

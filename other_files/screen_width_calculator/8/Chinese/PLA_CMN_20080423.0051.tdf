@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0051.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	中国将研究淘汰白炽灯时间表及措施	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 06:22:32   来源：解放军报第8版	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	解振华是在财政部和国家发展改革委联合召开的全国高效照明产品推广工作会议上透露这一消息的。	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	在这次会议上，财政部和国家发展改革委部署了首批获财政补贴的5000万只高效照明产品的推广任务。	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	对此，解振华表示，大力推广高效照明产品是实现中国“十一五”节能减排目标的一项重要措施。	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	到2010年前，中国将通过财政补贴方式推广高效照明产品1.5亿只，可累计节电290亿千瓦时，相当于少建6个百万千瓦级装机容量的火电厂。	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	1500.000	1525.000	TEXT1	unknown	unkown	解振华说，大力推广高效照明产品也是应对全球气候变化的迫切需要。	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	1525.000	1550.000	TEXT1	unknown	unkown	2006年国际能源署的一份研究报告提出，如果从现在开始在全世界逐步淘汰白炽灯，到2030年全球可节约38%的照明用电，减排二氧化碳166亿吨。	0	0	0		statement
+PLA_CMN_20080423.0051.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	去年2月，澳大利亚政府首先宣布最迟于2010年开始在本国禁止使用白炽灯，成为世界上第一个计划禁止使用传统白炽灯的国家。	0	0	0		statement

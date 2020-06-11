@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121113-9951518	0	0.0	100.0	speaker	unknown	unknown	你能记得10年前某天发生的事情吗？	0	0	0		
+cmn-NG-31-121113-9951518	0	100.0	200.0	speaker	unknown	unknown	发信人: aurox (leo), 信区: NewExpress标 题: Re: 你能记得10年前某天发生的事情吗？	0	0	0		
+cmn-NG-31-121113-9951518	0	200.0	300.0	speaker	unknown	unknown	发信站: 水木社区 (Sun Mar 2 00:41:27 2008), 站内	0	0	0		
+cmn-NG-31-121113-9951518	0	300.0	400.0	speaker	unknown	unknown	我记得十七年前，老师严禁我们和外国人接触，更严禁做"V"形手势拍照的思想品德课，说那是象征资产阶级自由化的反动手势，要被外国人拿去拍照片然后对我们进行和平演变的。	0	0	0		
+cmn-NG-31-121113-9951518	0	600.0	700.0	speaker	unknown	unknown	: 10年前的事情，基本一件也想不起来了。	0	0	0		
+cmn-NG-31-121113-9951518	0	700.0	800.0	speaker	unknown	unknown	--愿提十万城管旅，或安得贪官兮吞扶桑。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080407.0164	0	0.0	100.0	speaker	unknown	unknown	俄媒：俄美有望明年年底前签削减战略武器新条约	0	0	0		
+PDA_CMN_20080407.0164	0	2700.0	2800.0	speaker	unknown	unknown	“一艘航母就是一个系统，”维索茨基在莫斯科举行的一次新闻发布会上说，“我们已评估系统利弊，认为太平洋舰队和北方舰队应该在今后拥有5至6艘航母。”维索茨基说，研究正在展开，以最终确定俄罗斯未来航母的设计方案。	0	0	0		

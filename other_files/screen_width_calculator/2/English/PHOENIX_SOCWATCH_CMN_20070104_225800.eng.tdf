@@ -1,0 +1,459 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 247.32300000000001, 295.25200000000001, 346.97199999999998, 417.09899999999999, 777.27700000000004, 978.41700000000003, 1114.124, 1847.152, 1895.2550000000001, 9999999.0]
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	0.000	6.094	speaker#1	male	nonnative	Something we can talk about is just in which area we, uh, agree...	0	0	0	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	6.094	6.579	speaker#2	female	native	Uh-huh.	0	1	1	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	6.579	9.235	speaker#1	male	nonnative	...we can, can, can do things together.	0	2	2	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	9.235	16.110	speaker#1	male	nonnative	We compare the same, uh, but somewhat, uh, different things.	0	2	3	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	16.110	18.564	speaker#1	male	nonnative	Some have more differences.	0	2	4	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	18.564	21.017	speaker#1	male	nonnative	Uh, anyway, that's just the values.	0	2	5	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	21.017	21.611	speaker#2	female	native	Uh-huh.	0	3	6	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	21.611	28.243	speaker#1	male	nonnative	That is, in general, the values of the West, including the US, in particular, are absolute, uh,	0	4	7	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	29.133	30.989	speaker#1	male	nonnative	either bad, or good,	0	4	9	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	31.892	33.393	speaker#1	male	nonnative	either white, or	0	4	11	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	33.393	33.940	speaker#1	male	nonnative	black.	0	5	12	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	33.393	33.940	speaker#2	female	native	Black.	0	5	13	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	33.940	37.696	speaker#1	male	nonnative	Uh, ((pw)) uh, for China, they are relative.	0	6	14	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	38.564	41.200	speaker#1	male	nonnative	That means you can say, this is okay,	0	6	16	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	41.200	43.056	speaker#1	male	nonnative	this is okay too.	0	7	17	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	41.200	43.056	speaker#2	female	native	This is okay too, right.	0	7	18	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	43.056	43.821	speaker#2	female	native	(())	0	8	19	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	43.821	44.211	speaker#1	male	nonnative	Right.	0	9	20	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	44.211	44.976	speaker#2	female	native	Very flexible.	0	10	21	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	44.976	45.382	speaker#1	male	nonnative	Right.	0	11	22	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	45.382	49.523	speaker#2	female	native	So when you are learning Chinese, are there any phrases now, uh,	0	12	23	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	49.523	52.696	speaker#2	female	native	or any sentences you find very hard to pronounce?	0	12	24	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	53.534	55.055	speaker#1	male	nonnative	Uh, quite a lot.	0	13	26	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	53.534	55.055	speaker#2	female	native	Let's still come back to the language.	0	13	27	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	55.055	59.618	speaker#1	male	nonnative	In fact you know, when I started to learn Chinese,	0	14	28	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	59.618	63.884	speaker#1	male	nonnative	I, I always thought, thought in English.	0	14	29	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	63.884	64.728	speaker#2	female	native	Uh-huh.	0	15	30	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	63.884	64.728	speaker#1	male	nonnative	Then,	0	15	31	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	64.728	67.290	speaker#1	male	nonnative	I translated it in my mind	0	16	32	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	67.290	68.103	speaker#1	male	nonnative	into Chinese.	0	17	33	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	67.290	68.103	speaker#2	female	native	Chinese.	0	17	34	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	68.834	79.165	speaker#1	male	nonnative	But now it's no longer like this. Now when I am talking about something, uh, I usually won't have, won't have such a, a, anyway, background.	0	18	36	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	79.165	82.993	speaker#1	male	nonnative	I simply talk like a Chinese person.	0	18	37	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	82.993	83.633	speaker#2	female	native	Uh-huh.	0	19	38	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	83.633	89.133	speaker#1	male	nonnative	I also express, express some, uh, ideas.	0	20	39	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	89.133	92.258	speaker#2	female	native	For example, uh, I know many foreigners who can speak Chinese,	0	21	40	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	92.258	95.835	speaker#2	female	native	when they speak English sometimes, their mind, that is, they think in English.	0	21	41	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	95.835	100.068	speaker#2	female	native	If they communicate ((pw)) with Chinese, they think in China -- Chinese.	0	21	42	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	100.068	103.201	speaker#2	female	native	So how about you now? Are you still using Chinese when you are communicating with Chinese?	0	21	43	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	103.201	103.732	speaker#2	female	native		0	22	44	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	103.201	103.732	speaker#1	male	nonnative	I,	0	22	45	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	103.732	107.920	speaker#1	male	nonnative	I myself think I, I am completely using Chinese.	0	23	46	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	107.920	109.435	speaker#1	male	nonnative		0	24	47	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	107.920	109.435	speaker#2	female	native		0	24	48	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	109.435	113.092	speaker#1	male	nonnative	I think in Chinese too, um, Chinese culture, yes.	0	25	49	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	113.092	116.555	speaker#2	female	native	Well, in fact I think Chinese and English sentences are quite different in structure sometimes.	0	26	50	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	116.555	121.274	speaker#2	female	native	If you think in Chinese, will it be very interesting if you express it in English?	0	26	51	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	121.274	125.898	speaker#1	male	nonnative	Right. Of course, that's right, because sometimes I won't be able to make any sense.	0	27	52	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	125.898	129.289	speaker#1	male	nonnative	You translate the sentence word for word,	0	27	53	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	129.289	131.992	speaker#1	male	nonnative	Nothing, nothing, incomprehensible, that is, whatever you say.	0	27	54	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	131.992	132.554	speaker#2	female	native		0	28	55	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	132.554	133.096	speaker#1	male	nonnative	Actually...	0	29	56	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	132.554	133.096	speaker#2	female	native	I...	0	29	57	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	133.096	134.086	speaker#1	male	nonnative	...it is Chinese.	0	30	58	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	134.086	139.620	speaker#2	female	native	...actually I find it very enjoyable chatting with you today, but, uh, what we chatted about at the very start was something, uh, about a contest.	0	31	59	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	139.620	143.664	speaker#2	female	native	I know that you have compiled, you yourself compiled something like a combination of folk songs.	0	31	60	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	143.664	144.180	speaker#1	male	nonnative	Yes.	0	32	61	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	144.180	145.492	speaker#2	female	native	I have a small request.	0	33	62	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	145.492	149.930	speaker#2	female	native	I know our viewers in front of TV may also want very much to hear you sing a couple of lines for us.	0	33	63	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	149.930	151.915	speaker#1	male	nonnative	Fine, fine, absolutely no problems.	0	34	64	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	151.915	156.743	speaker#1	male	nonnative	Actually I am particularly interested in Chinese folk songs.	0	34	65	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	156.743	157.852	speaker#1	male	nonnative	I think they are very pleasing to the ear.	0	34	66	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	157.852	158.618	speaker#2	female	native	Very pleasing to the ear.	0	35	67	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	158.618	163.134	speaker#1	male	nonnative	So I have learned quite a few, uh, by myself.	0	36	68	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	163.134	171.196	speaker#1	male	nonnative	Uh, let me sing you a piece, uh, that I actually sang at the contest.	0	36	69	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	171.196	178.321	speaker#1	male	nonnative	Uh, that is, I think all the Chinese know how to sing this song.	0	36	70	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	178.321	185.852	speaker#1	male	nonnative	In a very far away place there is a very nice young lady.	0	36	71	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	185.852	194.997	speaker#1	male	nonnative	Whenever people pass her tent, they will all look back, reluctant to move on.	0	36	72	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	194.997	197.169	speaker#2	female	native	Wow!	0	37	73	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	194.997	197.169	speaker#1	male	nonnative		0	37	74	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	197.169	200.935	speaker#2	female	native	So what is your greatest achievement at this contest?	0	38	75	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	201.607	207.716	speaker#1	male	nonnative	Um, I think first is, uh, that I have, anyway, a chance...	0	39	77	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	207.716	208.387	speaker#2	female	native	Uh-huh.	0	40	78	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	208.387	211.996	speaker#1	male	nonnative	to meet some, some new friends.	0	41	79	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	211.996	218.825	speaker#1	male	nonnative	Uh, in particular, some people from Beijing TV station. They all, all came from Los Angeles.	0	41	80	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	218.825	221.466	speaker#1	male	nonnative	There were also some other American friends.	0	41	81	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	221.466	222.060	speaker#2	female	native	Uh-huh.	0	42	82	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	222.060	224.513	speaker#1	male	nonnative	Uh, especially overseas Chinese.	0	43	83	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	224.513	227.107	speaker#1	male	nonnative	They thought this was a good chance	0	43	84	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	227.107	228.838	speaker#1	male	nonnative	to encourage their children...	0	43	85	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	228.838	230.260	speaker#2	female	native	to learn Chinese,	0	44	86	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	228.838	230.260	speaker#1	male	nonnative	to learn --	0	44	87	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	230.260	230.994	speaker#1	male	nonnative	learn Chinese.	0	45	88	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	230.994	233.792	speaker#2	female	native	Okay, in fact our director is reminding me that time is up for today.	0	46	89	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	233.792	236.839	speaker#2	female	native	But actually I really have quite a lot to talk about with Mr. Hua.	0	46	90	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	236.839	238.064	speaker#2	female	native	We had quite a nice chat, chat.	0	46	91	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	238.064	242.636	speaker#2	female	native	Next time we will still invite Mr. Hua to our program to share with us his experience of learning Chinese.	0	46	92	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	242.636	246.417	speaker#2	female	native	Here let me also wish dear viewers in front of TV a very pleasant and relaxing evening.	0	46	93	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	246.417	247.323	speaker#2	female	native	See you tomorrow.	0	46	94	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	295.252	299.221	speaker#3	male	native	She turned away from her million-yuan assets to rescue four hundred AIDS orphans.	2	48	96	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	300.128	302.706	Zhang_ying	female	native	The kid's parents both passed away.	2	49	98	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	302.706	305.925	Zhang_ying	female	native	So at that time, uh, they also wanted to send him to an orphanage.	2	49	99	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	305.925	311.222	Zhang_ying	female	native	But when they heard he has this disease of AIDS, they felt too scared to take him in.	2	49	100	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	311.222	314.925	Zhang_ying	female	native	They just wanted to throw him away, wanted to throw Gao Jun away.	2	49	101	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	314.925	318.519	speaker#3	male	native	She was honored frequently for her charity work.	2	50	102	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	318.519	321.300	speaker#4	female	native	How much money did you have to pay out of your own pocket?	2	51	103	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	321.300	326.191	Zhang_ying	female	native	I've never calculated it, hundreds of thousands, perhaps. I didn't keep records, either, because some were not countable anyway.	2	52	104	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	326.191	330.505	speaker#3	male	native	Behind the fame, why is "Mother of AIDS Orphans" frequently being questioned?	2	53	105	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	331.279	336.847	speaker#4	female	native	Last year Fuyang Women's Federation did not recommend you for the selection of the top ten figures in Fuyang City.	2	54	107	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	336.847	342.534	speaker#4	female	native	Was it because they didn't seem to be clear about your fund operation so they dared not recommend you?	2	54	108	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	342.534	346.972	Zhang_ying	female	native	Uh, no, there was no such a thing; there was no such a thing at all.	2	55	109	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	417.099	422.646	speaker#4	female	native	The Fuyang No. 1 Middle School behind me is where the Fuyang AIDS Orphan Salvation Association is located.	4	57	111	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	422.646	424.786	speaker#4	female	native	During the 1980s and 1990s,	4	57	112	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	424.786	428.677	speaker#4	female	native	peasants in some parts of Anhui contracted AIDS because they +sold blood.	4	57	113	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	428.677	432.958	speaker#4	female	native	When the AIDS virus took away the lives of these men and women in their prime,	4	57	114	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	432.958	436.430	speaker#4	female	native	they left behind a large number of AIDS orphans.	4	57	115	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	437.208	439.333	speaker#4	female	native	Fuyang in Anhui is just such a place.	4	57	117	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	439.333	443.302	speaker#4	female	native	When people see more and more AIDS orphans,	4	57	118	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	443.302	447.146	speaker#4	female	native	AOS was officially established in March 2004.	4	57	119	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	447.146	452.787	speaker#4	female	native	And Zhang Ying, the founder of this association, personally serves as the president of this non-governmental organization.	4	57	120	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	454.562	457.406	speaker#3	male	native	This was AIDS Day on December 1, 2006.	4	58	122	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	457.406	460.371	speaker#3	male	native	The file video of Premier Wen Jiabao receiving AIDS orphans.	4	58	123	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	460.940	462.890	Wen_jiabao	male	native	This is good and of deep significance.	4	59	125	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	462.890	464.530	Wen_jiabao	male	native	We are all the same.	4	59	126	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	465.451	466.329	Wen_jiabao	male	native	Little children,	4	59	128	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	467.451	472.294	Wen_jiabao	male	native	no matter whether they are orphans or sick children,	4	59	130	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	472.294	474.892	Wen_jiabao	male	native	they are all the same as other little children.	4	59	131	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	475.700	481.465	speaker#3	male	native	Nannan, this little girl standing next to the premier in the group photo, is the first AIDS orphan that Zhang Ying sponsored.	4	60	133	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	482.387	484.965	speaker#4	female	native	How did you start to pay attention to AIDS orphans?	4	61	135	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	484.965	489.285	Zhang_ying	female	native	Actually it is a long story. Because of a very accidental chance,	4	62	136	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	489.285	492.956	Zhang_ying	female	native	in 2003, in November 2003,	4	62	137	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	492.956	495.972	Zhang_ying	female	native	at that time I happened to have the chance to go to the countryside	4	62	138	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	495.972	499.128	Zhang_ying	female	native	to see the living conditions of some orphans.	4	62	139	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	499.128	505.378	Zhang_ying	female	native	Then, uh, at the end, I also saw an orphan living in a family. It was at that time that I saw Nannan.	4	62	140	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	505.378	511.472	Zhang_ying	female	native	When I saw her at that time, uh, she had already contracted the disease. Her parents both had passed away.	4	62	141	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	511.472	515.675	Zhang_ying	female	native	Because it was winter, she did not go to see a doctor even when she was having, uh, a fever.	4	62	142	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	515.675	520.903	Zhang_ying	female	native	Uh, furthermore, she had herpes all over her face, and her entire body seemed to be swollen at that time.	4	62	143	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	521.682	525.347	Zhang_ying	female	native	You could hear her breathing even when you were far away from her, that sort of breathing,	4	62	145	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	525.347	530.004	Zhang_ying	female	native	that is, the kind of noise caused by the lung infection, and she kept coughing incessantly.	4	62	146	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	530.004	531.551	Zhang_ying	female	native	She could not hear when you talked.	4	62	147	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	531.551	536.286	Zhang_ying	female	native	She didn't talk much to others, either, and always hung her head because she couldn't hear, either.	4	62	148	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	536.286	540.974	Zhang_ying	female	native	Uh, at that time her own grandmother, uncle were not with her, either.	4	62	149	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	540.974	544.365	Zhang_ying	female	native	They all lived in different places.	4	62	150	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	544.365	546.177	Zhang_ying	female	native	Only her elder sister and she were together.	4	62	151	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	546.177	554.146	Zhang_ying	female	native	Of course, later I learned from her neighbors that after her parents passed away at that time, uh, the two children had no income to make a living.	4	62	152	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	554.146	559.490	Zhang_ying	female	native	It was said that they took whatever structure, vehicle, something like pots and bowls from home to sell them	4	62	153	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	559.490	562.209	Zhang_ying	female	native	and then used the money to buy something to eat.	4	62	154	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	563.553	566.569	speaker#3	male	native	Nannan's parents contracted ADIS because of selling blood.	4	63	156	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	566.569	568.413	speaker#3	male	native	Later they passed it to their children.	4	63	157	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	568.413	571.116	speaker#3	male	native	A few years ago, they both died,	4	63	158	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	571.116	573.928	speaker#3	male	native	leaving the two young daughters to depend on each other for survival.	4	63	159	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	577.068	578.919	speaker#4	female	native	Did you try to talk to her?	4	64	161	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	579.697	584.051	Zhang_ying	female	native	At that time, uh, we were also asking her about her conditions, but she did not talk.	4	65	163	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	584.051	589.755	Zhang_ying	female	native	She did not talk at that time. It was her close neighbors who were talking to us about how this kid was doing and so on.	4	65	164	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	589.755	592.474	Zhang_ying	female	native	Her parents had this disease and she would not survive either.	4	65	165	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	592.474	595.287	Zhang_ying	female	native	They said she had this disease too, and what a pitiable child she was.	4	65	166	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	595.287	600.515	Zhang_ying	female	native	You -- actually you would also feel she was very pitiable, but, uh, nobody dared to come into contact with her either.	4	65	167	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	601.263	606.990	Zhang_ying	female	native	It was said that when her father died, nobody wanted to carry him, to carry him.	4	65	169	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	606.990	609.162	Zhang_ying	female	native	Nobody dared.	4	65	170	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	611.225	615.350	speaker#3	male	native	The next day Zhang Ying sent a woolen sweater, a padded coat, and some snacks to Nannan.	4	66	172	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	615.350	620.709	speaker#3	male	native	Before she departed, she also left three hundred yuan, and shortly afterwards she took her to Beijing for medical treatment.	4	66	173	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	622.318	623.537	speaker#4	female	native	Did you hesitate?	4	67	175	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	623.537	626.880	speaker#4	female	native	Did you think that it would cost you time and energy to make this trip	4	67	176	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	626.880	629.305	speaker#4	female	native	and also may put yourself at risk of catching the virus?	4	67	177	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	629.911	634.349	Zhang_ying	female	native	There was no way for me to hesitate, but I did struggle with some conflicting thoughts.	4	68	179	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	634.349	639.693	Zhang_ying	female	native	Uh, because even though, uh, you know the ways that AIDS is transmitted,	4	68	180	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	639.693	643.302	Zhang_ying	female	native	yet it was, after all, your first time to come into contact with AIDS patients.	4	68	181	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	643.923	647.662	Zhang_ying	female	native	Though she was a kid, she was seriously sick at that time.	4	68	183	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	647.662	651.614	Zhang_ying	female	native	There were those bloody blisters, blood spots on her body and her hands.	4	68	184	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	653.215	654.693	Zhang_ying	female	native	She was seriously sick.	4	68	186	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	654.693	660.787	Zhang_ying	female	native	And they also suspected that she might have TB, which is a contagious disease too.	4	68	187	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	661.334	667.584	Zhang_ying	female	native	Furthermore, most importantly, I felt that I had a one-year-old child at my own home; sometimes I think that adults could take anything,	4	68	189	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	667.584	672.194	Zhang_ying	female	native	yet for children, sometimes if you accidentally pass this disease again to your own child,	4	68	190	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	672.194	673.756	Zhang_ying	female	native	then what an innocent victim that child would be.	4	68	191	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	673.756	677.996	Zhang_ying	female	native	Uh, but I -- you know what I even thought of at that time?	4	68	192	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	677.996	680.303	Zhang_ying	female	native	At that time I even thought of --	4	68	193	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	680.303	685.303	Zhang_ying	female	native	I thought it over and over again that I could put my son into my sister-in-law's care.	4	68	194	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	685.303	687.022	Zhang_ying	female	native	I even thought of this resort.	4	68	195	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	688.725	693.350	speaker#3	male	native	Meeting Zhang Ying by chance has enabled the little girl Nannan to live through today.	4	69	197	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	693.350	697.646	speaker#3	male	native	Later, after Zhang Ying fetched Nannan from the hospital, she sent her to her uncle's home	4	69	198	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	697.646	700.677	speaker#3	male	native	and provided her with living allowance each month.	4	69	199	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	700.677	704.443	Zhang_ying	female	native	Uh, then I later would pay attention to sterilization.	4	70	200	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	704.443	707.068	speaker#4	female	native	Then how have you been taking care of Nannan later?	4	71	201	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	707.834	713.225	Zhang_ying	female	native	I talked with Nannan's uncle about her and put Nannan, uh, in her uncle's home.	4	72	203	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	713.225	715.162	Zhang_ying	female	native	Let her eat with her uncle.	4	72	204	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	715.162	718.319	Zhang_ying	female	native	Because in the countryside their living conditions were all not particularly good.	4	72	205	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	718.319	721.100	Zhang_ying	female	native	Especially during the time when Nannan's father was sick,	4	72	206	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	721.100	725.287	Zhang_ying	female	native	his elder brother, uh, all these relatives, had lent him as much money as they could.	4	72	207	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	725.287	729.256	Zhang_ying	female	native	So, they, as their family members, these relatives --	4	72	208	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	729.256	732.734	Zhang_ying	female	native	on the one hand, he did not understand AIDS patients and was scared,	4	72	209	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	732.734	736.370	Zhang_ying	female	native	on the other hand, uh, he was indeed very hard up in his own family too.	4	72	210	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	736.370	740.026	Zhang_ying	female	native	So, for a sick child who needed nutrition to support her,	4	72	211	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	740.026	741.416	Zhang_ying	female	native	and needed a better life,	4	72	212	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	741.416	744.323	Zhang_ying	female	native	so at that time I thought I would give her uncle four hundred yuan.	4	72	213	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	744.323	747.417	Zhang_ying	female	native	In this way, uh, when she was sick, I would help her get medical treatment,	4	72	214	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	747.417	750.402	Zhang_ying	female	native	and in normal times, she would live with her uncle.	4	72	215	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	750.402	752.558	Zhang_ying	female	native	For clothes, I would buy them for her.	4	72	216	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	752.558	756.168	Zhang_ying	female	native	Then I would come over every week to see her.	4	72	217	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	756.168	758.965	Zhang_ying	female	native	This way, I could ensure Nannan's livelihood, ah,	4	72	218	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	758.965	762.496	Zhang_ying	female	native	and her uncle could also get some financial aid.	4	72	219	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	762.496	767.558	Zhang_ying	female	native	Under such circumstances, her uncle changed from his rejection of Nannan at the beginning to accepting her later.	4	72	220	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	767.558	771.386	Zhang_ying	female	native	And now he is on particularly good terms with Nannan.	4	72	221	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	771.386	774.636	Zhang_ying	female	native	In the beginning Nannan did not get along well with her uncle, either.	4	72	222	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	777.277	780.371	speaker#3	male	native	Six-year-old Gao Jun is the second child that Zhang Ying sponsored.	5	73	224	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	780.371	785.027	speaker#3	male	native	His parents contracted AIDS because of selling blood and both died a few years ago.	5	73	225	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	785.027	788.261	speaker#3	male	native	And Gao Jun himself is also an HIV carrier.	5	73	226	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	788.261	791.433	speaker#3	male	native	Because of his disease, Gao Jun became homeless at one point.	5	73	227	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	791.433	794.121	speaker#3	male	native	None of his uncles would want to take him in.	5	73	228	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	796.887	799.605	speaker#4	female	native	What did Gao Jun look like when you saw him?	5	74	230	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	801.061	806.139	Zhang_ying	female	native	When I saw Gao Jun, his condition was even worse than Nannan's.	5	75	232	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	806.139	809.701	Zhang_ying	female	native	Because the kid was very small, only three years old, and was very short.	5	75	233	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	809.701	811.404	Zhang_ying	female	native	He was extremely skinny at that time.	5	75	234	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	811.404	816.784	Zhang_ying	female	native	On his head, that is, on the head of that kid, there were patches of those kinds of scars.	5	75	235	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	817.532	819.239	Zhang_ying	female	native	In addition his belly was extremely big.	5	75	237	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	819.868	822.982	Zhang_ying	female	native	That is, his belly was especially bloated, round-shaped like that.	5	75	239	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	823.747	827.618	Zhang_ying	female	native	Uh, there were blisters all over his body and legs.	5	75	241	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	828.490	831.123	Zhang_ying	female	native	They were all those bloody blisters and tiny bumps.	5	75	243	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	831.123	832.435	Zhang_ying	female	native	They were all like that.	5	75	244	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	832.435	833.874	Zhang_ying	female	native	The kid did not speak either.	5	75	245	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	834.682	841.030	Zhang_ying	female	native	Uh, at that time, uh, his uncle said to me, saying that this kid's parents both passed away.	5	75	247	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	841.030	844.030	Zhang_ying	female	native	They said they also wanted to send him to an orphanage.	5	75	248	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	844.030	848.421	Zhang_ying	female	native	When people heard about this ADIS disease, they dared not take him in.	5	75	249	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	848.421	851.437	Zhang_ying	female	native	They dared not take him in, saying that they were going to throw him away.	5	75	250	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	851.437	853.094	Zhang_ying	female	native	At that time Gao Jun was thrown away.	5	75	251	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	853.842	857.735	Zhang_ying	female	native	Then, it was under such circumstances that they found me.	5	75	253	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	857.735	860.219	Zhang_ying	female	native	They found me, uh, and I said, well, get him medical treatment quick.	5	75	254	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	860.219	864.066	Zhang_ying	female	native	That kid, that is to say, perhaps he had never had any treatment before.	5	75	255	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	864.066	866.300	Zhang_ying	female	native	He was greatly changed after he was hospitalized.	5	75	256	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	866.300	870.291	Zhang_ying	female	native	A week after hospitalization, those rashes and blisters gradually faded.	5	75	257	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	870.628	874.628	Zhang_ying	female	native	So this way, uh, Gao Jun was also discharged from the hospital half a month later.	5	75	259	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	874.628	878.331	Zhang_ying	female	native	After Gao Jun was discharged from the hospital, he stayed with his grandmother and an uncle.	5	75	260	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	878.331	883.518	Zhang_ying	female	native	At that time I also gave four hundred yuan to Gao Jun's grandmother each month just as I did with Nannan.	5	75	261	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	883.518	885.674	Zhang_ying	female	native	His grandmother took care of him.	5	75	262	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	888.439	891.471	speaker#3	male	native	However, the grandmother passed away half a year later.	5	76	264	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	891.471	893.596	speaker#3	male	native	Little Gao Jun was again homeless.	5	76	265	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	893.596	898.002	speaker#3	male	native	Through several attempts, Zhang Ying finally found Gao Jun a new family to adopt him.	5	76	266	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	899.705	902.690	speaker#3	male	native	Although this was a family consisting of AIDS patients,	5	76	268	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	902.690	905.643	speaker#3	male	native	Gao Jun at least got the comfort of a family.	5	76	269	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	905.643	909.034	speaker#3	male	native	Zhang Ying, on the other hand, provided four hundred yuan a month to this family	5	76	270	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	909.034	910.987	speaker#3	male	native	as living allowances for Gao Jun.	5	76	271	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	910.987	914.940	speaker#3	male	native	Now Gao Jun affectionately calls Zhang Ying mommy.	5	76	272	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	914.940	915.768	speaker#4	female	native	Who is she?	5	77	273	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	915.768	916.612	speaker#5	female	native	Who is she?	5	78	274	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	916.612	917.987	Gao_jun	male	native	Mommy Zhang.	5	79	275	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	917.987	919.721	speaker#4	female	native	Mommy Zhang.	5	80	276	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	919.721	923.787	Zhang_ying	female	native	In the past few years -- last year he came to this grandpa's family.	5	81	277	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	924.621	930.579	Zhang_ying	female	native	It seemed to be the second day of the lunar year. At that time, uh, Gao Jun had been in his family for just about a dozen days.	5	81	279	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	931.268	935.478	Zhang_ying	female	native	His grandpa called me, saying, um, Gao Jun wants to speak to you. I said okay.	5	81	281	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	935.478	938.416	Zhang_ying	female	native	Then I picked up the phone, and then Gao Jun said at the other end of the line,	5	81	282	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	938.416	941.432	Zhang_ying	female	native	he said right away, mommy, buy me some yogurt drink.	5	81	283	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	942.510	948.823	Zhang_ying	female	native	I, I held the phone, and I said to my mom, Mom, I said, that Gao Jun can speak.	5	81	285	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	948.823	950.261	Zhang_ying	female	native	I was extremely excited.	5	81	286	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	950.261	953.011	Zhang_ying	female	native	Then as I was saying, my tears streamed down.	5	81	287	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	953.011	955.917	Zhang_ying	female	native	Then I put down the phone, and said I need to go see Gao Jun.	5	81	288	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	955.917	957.886	Zhang_ying	female	native	Then I bought some yogurt and went over.	5	81	289	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	957.886	961.152	speaker#4	female	native	Why did this greeting of mommy make you feel so much?	5	82	290	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	961.152	962.360	speaker#4	female	native	What was so special about him?	5	82	291	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	962.512	967.277	Zhang_ying	female	native	In Gao Jun's memory, probably in all his memory now, his mommy is me.	5	83	293	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	968.246	972.248	Zhang_ying	female	native	When a kid, when such a small kid regarded you as his mommy,	5	83	295	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	972.906	976.995	Zhang_ying	female	native	when he regarded you as his own family member, you tell me, if you don't think about him, don't care about him,	5	83	297	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	976.995	978.417	Zhang_ying	female	native	who will care about him?	5	83	298	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1114.124	1117.593	speaker#3	male	native	China's non-governmental charity organizations just started to take shape in the 1990s.	7	85	300	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1117.593	1121.771	speaker#3	male	native	Most of them were faced with major problems like lack of funds and difficulty in communicating with the government.	7	85	301	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1122.489	1125.749	speaker#3	male	native	However, after being deeply touched by the AIDS orphan Nannan,	7	85	303	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1125.749	1130.561	speaker#3	male	native	Zhang Ying decided to establish a non-governmental charity organization to help AIDS orphans.	7	85	304	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1130.561	1133.686	speaker#3	male	native	In December 2003, through her advocacy and efforts,	7	85	305	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1133.686	1136.951	speaker#3	male	native	Fuyang AIDS Orphan Salvation Association was established.	7	85	306	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1138.139	1142.489	Zhang_ying	female	native	I think they are children and they need people to care about and help them.	7	86	308	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1143.238	1147.768	Zhang_ying	female	native	Uh, I think no matter how much strength an individual has, you just cannot help so many kids.	7	86	310	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1148.426	1152.826	Zhang_ying	female	native	Because of the increasing number of children, you surely need to have an organization,	7	86	312	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1152.826	1156.254	Zhang_ying	female	native	a platform through which you can secure some assistance for these kids.	7	86	313	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1156.973	1162.405	Zhang_ying	female	native	So, at that time I was thinking of establishing an association, uh, so that I could have some --	7	86	315	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1162.405	1168.796	Zhang_ying	female	native	At that time I just thought that I could have some of my friends, uh -- that all of us could do something together,	7	86	316	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1168.796	1170.530	Zhang_ying	female	native	to help them together.	7	86	317	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1171.936	1175.186	speaker#3	male	native	At present, AOS has already been staffed with eight full-time personnel.	7	87	319	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1175.186	1180.358	speaker#3	male	native	In addition hundreds of volunteers from across the country also joined the cause of the AOS one after another.	7	87	320	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1180.358	1185.577	speaker#3	male	native	In order to run the AOS well, Zhang Ying said that she had closed her own cafe and sold her restaurant.	7	87	321	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1185.577	1191.311	speaker#3	male	native	She also used the entire monthly rental income of 40,000 yuan from leasing other real estate properties in assisting AIDS orphans.	7	87	322	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1195.245	1197.338	speaker#4	female	native	How much money did you pay out of your own pocket?	7	88	324	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1197.338	1201.666	Zhang_ying	female	native	((pw)), uh, hundreds of thousands, perhaps; I did not keep records, either,	7	89	325	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1201.666	1206.791	Zhang_ying	female	native	because some could not even be calculated. Because when you just take a look at these kids,	7	89	326	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1206.791	1209.151	Zhang_ying	female	native	sometimes you see some families with special difficulties,	7	89	327	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1209.151	1213.909	Zhang_ying	female	native	and also, for example, when I saw Nannan, Gao Jun, and others the first time and found they did not have clothes,	7	89	328	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1213.909	1217.112	Zhang_ying	female	native	it was impossible that you could happen to have some clothes suitable for them to wear at the time,	7	89	329	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1217.112	1220.956	Zhang_ying	female	native	buying clothes for them was quite a normal thing to do.	7	89	330	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1220.956	1227.737	Zhang_ying	female	native	And then, at that time, yes, when I just started doing this, it did not occur to me that with the association you need to keep records for everything.	7	89	331	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1227.737	1231.220	Zhang_ying	female	native	At that time you just thought you were going to help these kids, and then yourself.	7	89	332	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1231.893	1236.429	Zhang_ying	female	native	Anyway you just wanted to bring something, it is also okay you don't bring any, but you know that kids don't have clothes to wear,	7	89	334	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1236.429	1240.706	Zhang_ying	female	native	they need these, and since you are going to visit the kids, and they are looking forward so eagerly to your visit,	7	89	335	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1240.706	1245.596	Zhang_ying	female	native	then you surely will think of bringing something to eat for him and bringing some clothes.	7	89	336	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1245.596	1249.252	Zhang_ying	female	native	Uh, there are a lot, which are impossible to calculate.	7	89	337	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1249.252	1253.799	speaker#4	female	native	How much did the other members initially contribute to this association?	7	90	338	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1253.799	1256.362	Zhang_ying	female	native	Uh, we have two institutional members.	7	91	339	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1256.362	1259.284	Zhang_ying	female	native	Uh, one contributed 10,000 yuan.	7	91	340	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1259.284	1265.332	Zhang_ying	female	native	Each year they -- it's been three years now -- each year they give our association 10,000 yuan.	7	91	341	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1266.140	1267.566	Zhang_ying	female	native	There are two institutional members.	7	91	343	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1267.566	1270.004	speaker#4	female	native	Will there be donations from other companies and individuals?	7	92	344	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1270.004	1270.941	Zhang_ying	female	native	Yes.	7	93	345	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1271.754	1275.488	Zhang_ying	female	native	For example, a company in Guangdong also made a donation to us.	7	93	347	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1275.488	1280.086	Zhang_ying	female	native	And Xiaoyuan Milk Powder in our Qingdao also made a donation to us.	7	93	348	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1280.745	1284.503	Zhang_ying	female	native	Uh, in addition, some individual members of the public also donated to us.	7	93	350	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1284.503	1287.284	Zhang_ying	female	native	Some have been sending in money every month.	7	93	351	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1287.284	1290.356	Zhang_ying	female	native	Some have been assisting kids one-on-one.	7	93	352	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1291.104	1295.018	speaker#4	female	native	What proportion of the entire funds of your association does this part of donations account for?	7	94	354	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1295.018	1297.505	Zhang_ying	female	native	Uh, about 30%.	7	95	355	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1298.224	1301.783	Zhang_ying	female	native	We, uh, the remaining 70% comes all from ourselves.	7	95	357	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1301.783	1305.643	Zhang_ying	female	native	That is to say, we apply for project funding from various foundations, organizations,	7	95	358	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1305.643	1308.706	Zhang_ying	female	native	and, uh, companies.	7	95	359	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1308.706	1315.706	Zhang_ying	female	native	Because at present some large corporations all have some fund allocations earmarked for public charity.	7	95	360	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1315.706	1320.018	Zhang_ying	female	native	They have special projects that we can apply for.	7	95	361	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1320.018	1324.956	Zhang_ying	female	native	Sometimes we do things together and have some cooperation.	7	95	362	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1326.472	1331.253	speaker#3	male	native	At AOS, Zhang Ying hopes that kids can live with their family members at every possible chance.	7	96	364	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1331.253	1336.628	speaker#3	male	native	The association, on the other hand, will provide a monthly living allowance between 100 to 400 yuan to the family members who take care of the child.	7	96	365	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1336.628	1339.581	speaker#3	male	native	In addition it also provides children's tuition and medical expenses.	7	96	366	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1339.581	1342.860	speaker#3	male	native	Calculated this way, the yearly expenditure is at least one million.	7	96	367	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1343.578	1346.066	speaker#3	male	native	Such huge expenditure makes Zhang Ying realize that	7	96	369	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1346.066	1348.894	speaker#3	male	native	depending on the contribution of herself and her friends alone will not last long.	7	96	370	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1349.457	1352.066	speaker#3	male	native	In fact, to charity organizations in China,	7	96	372	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1352.066	1354.378	speaker#3	male	native	the source of funding has always been a huge obstacle.	7	96	373	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1354.378	1356.238	speaker#3	male	native	According to a McKinsey statistic,	7	96	374	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1356.238	1361.456	speaker#3	male	native	in 2005 80% of China's charity donations come from international organizations and multinational corporations.	7	96	375	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1361.456	1367.065	speaker#3	male	native	To get the support of these outside funds is an important factor for the survival of these non-governmental charity organizations.	7	96	376	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1367.065	1369.081	speaker#3	male	native	It is the same with Zhang Ying.	7	96	377	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1370.238	1377.707	Zhang_ying	female	native	We apply to some large foundations, some corporations, uh, and some organizations for funding.	7	97	379	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1378.535	1381.582	Zhang_ying	female	native	We write reports and apply to them through this project.	7	97	381	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1381.582	1381.890	speaker#4	female	native	Uh-huh.	7	98	382	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1382.504	1386.957	Zhang_ying	female	native	For example, this year we are cooperating with UNESCO,	7	99	384	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1386.957	1391.463	Zhang_ying	female	native	uh, for example, the US China AIDS Prevention and Treatment Operation,	7	99	385	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1392.182	1395.425	Zhang_ying	female	native	and Johnson & Johnson, we all have cooperation.	7	99	387	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1396.128	1399.425	Zhang_ying	female	native	This, these few organizations are the main sources of our funding.	7	99	389	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1400.160	1402.800	speaker#4	female	native	How much funding that you have applied for has been approved for this year?	7	100	391	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1403.409	1406.493	Zhang_ying	female	native	Uh, this year it may be nearly one million.	7	101	393	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1407.212	1410.393	speaker#4	female	native	Who talk to these large foundations asking them for contributions?	7	102	395	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1411.112	1415.143	Zhang_ying	female	native	Uh, this is done by our project personnel.	7	103	397	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1415.143	1421.284	Zhang_ying	female	native	Well, I, I also need to participate in it. This is something that we, that is, everyone works on.	7	103	398	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1421.284	1424.644	Zhang_ying	female	native	We, for example, we need to check it out on the Internet.	7	103	399	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1424.644	1426.972	Zhang_ying	female	native	We often need to check some websites.	7	103	400	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1426.972	1431.534	Zhang_ying	female	native	Which organization has what project, like some projects sponsored by foreign countries, uh, global foundations,	7	103	401	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1431.534	1434.221	Zhang_ying	female	native	You can apply to any of these organizations.	7	103	402	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1434.221	1436.792	Zhang_ying	female	native	The World Bank has it, and you can all apply for it.	7	103	403	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1436.792	1439.975	Zhang_ying	female	native	Well, of course some applications are approved, and some applications are probably not.	7	103	404	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1439.975	1444.558	Zhang_ying	female	native	Because we did not know either in the beginning that we can make such applications.	7	103	405	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1444.558	1448.027	Zhang_ying	female	native	This year we did it project by project.	7	103	406	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1448.027	1453.852	Zhang_ying	female	native	So by now we have these experiences cooperating with these international organizations.	7	103	407	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1453.852	1456.134	Zhang_ying	female	native	We could, say, according to their requirements,	7	103	408	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1456.134	1460.369	Zhang_ying	female	native	for example, if it is a 50,000-yuan project, or a 100,000-yuan project,	7	103	409	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1460.369	1465.478	Zhang_ying	female	native	then we will write in advance a proposal about what we are going to do and send it to them.	7	103	410	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1465.478	1467.868	Zhang_ying	female	native	In general we will send it to them in both Chinese and English versions.	7	103	411	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1467.868	1470.525	Zhang_ying	female	native	Then if they think it is fine, they will come over to investigate.	7	103	412	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1470.525	1475.635	Zhang_ying	female	native	Then you write about the expenses for completing each project and send it to them after you finish writing.	7	103	413	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1475.635	1479.838	Zhang_ying	female	native	If they agree, they will then sign a contract. After signing the contract, 50% will be wired.	7	103	414	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1479.838	1484.401	Zhang_ying	female	native	Then after you finish this project -- when you are doing the project, like these two days,	7	103	415	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1484.401	1487.760	Zhang_ying	female	native	they will always send someone over to participate in our project.	7	103	416	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1487.760	1493.120	Zhang_ying	female	native	After finishing it, they will write an assessment report, and we will write a financial report for the project.	7	103	417	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1493.120	1496.385	Zhang_ying	female	native	After giving it to them, the final 50% will be wired.	7	103	418	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1496.385	1498.339	Zhang_ying	female	native	They are all very strictly carried out.	7	103	419	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1498.339	1502.183	speaker#4	female	native	In the past when you did not have these project funds, how did you secure the funding?	7	104	420	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1502.183	1505.746	Zhang_ying	female	native	In the past, uh, our institutional members contributed some.	7	105	421	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1505.746	1509.075	Zhang_ying	female	native	In the first one or two years, mainly I contributed some myself.	7	105	422	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1509.075	1513.497	Zhang_ying	female	native	When the association encounters difficulties, either you don't do it, then you cannot do it.	7	105	423	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1513.497	1517.700	Zhang_ying	female	native	Well, you are the president, you surely want first to find some ways to solve these funding problems.	7	105	424	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1517.700	1521.325	speaker#4	female	native	Does the association have very strict and rigorous financial reports?	7	106	425	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1521.325	1522.200	Zhang_ying	female	native	Yes.	7	107	426	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1522.200	1523.544	Zhang_ying	female	native	All associations do.	7	107	427	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1523.544	1527.606	Zhang_ying	female	native	In addition, the organizations we are currently working with are some international organizations.	7	107	428	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1527.606	1531.261	Zhang_ying	female	native	They all have a very strict review of the project expenditure.	7	107	429	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1531.261	1535.574	Zhang_ying	female	native	From the time you start the application, you will go through a series of reviews.	7	107	430	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1535.574	1540.183	Zhang_ying	female	native	In addition there are assessment agencies, uh, and project compliance.	7	107	431	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1540.183	1542.730	Zhang_ying	female	native	That is to say, every step is very strictly followed,	7	107	432	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1542.730	1548.902	Zhang_ying	female	native	including that for each quarter -- they don't give the money in a lump sum -- for example, they give it by quarterly. Some give it by project.	7	107	433	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1548.902	1553.918	Zhang_ying	female	native	After you have completed the project -- at the end of the project there will be financial reports; the report for this project.	7	107	434	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1553.918	1556.715	Zhang_ying	female	native	Then some assessment people will come over to do another investigation.	7	107	435	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1556.715	1559.934	Zhang_ying	female	native	That is to say, now our funding mainly depends on this,	7	107	436	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1559.934	1563.637	Zhang_ying	female	native	uh, some large foundations and some organizations,	7	107	437	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1563.637	1566.090	Zhang_ying	female	native	they all have particularly strict requirements.	7	107	438	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1567.183	1570.214	Zhang_ying	female	native	From the time you start the application till it is being reviewed --	7	107	440	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1570.214	1575.511	Zhang_ying	female	native	furthermore, regarding every item of expenditure used in carrying out the operation, how many people participated and who were the participants,	7	107	441	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1575.511	1577.823	Zhang_ying	female	native	all of them are particularly detailed.	7	107	442	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1578.932	1581.775	speaker#3	male	native	Although Zhang Ying is very confident about accounting management	7	108	444	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1581.775	1583.540	speaker#3	male	native	and has also won quite a few awards,	7	108	445	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1583.540	1589.087	speaker#3	male	native	yet in reality after she was selected as one of the top ten advocates of rule of law on CCTV's Legal Report in 2005,	7	108	446	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1589.087	1591.775	speaker#3	male	native	she started to face a series of questions.	7	108	447	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1591.775	1596.681	speaker#3	male	native	Most of these questions were directed at the money issues of the association.	7	108	448	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1596.681	1599.838	speaker#3	male	native	First she was accused of taking the money Yao Ming gave to the children.	7	108	449	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1599.838	1603.349	speaker#3	male	native	Then she was accused of deducting the money the filming team gave to the children.	7	108	450	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1604.217	1609.369	speaker#3	male	native	However, Zhang Ying seldom argued for herself through media. Why was that?	7	108	452	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1611.228	1614.884	speaker#4	female	native	But this reporter for Southern Weekend also once wrote in an article, saying that	7	109	454	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1614.884	1620.603	speaker#4	female	native	last year Fuyang Women's Federation did not recommend you for the selection of the top ten figures in Fuyang City	7	109	455	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1620.603	1625.040	speaker#4	female	native	apparently because they were not very clear about the operation of your funds.	7	109	456	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1625.040	1626.399	speaker#4	female	native	They said they did not dare to recommend you.	7	109	457	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1626.399	1628.914	Zhang_ying	female	native	Uh, no, they did not do anything like that.	7	110	458	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1628.914	1630.492	Zhang_ying	female	native	There was no such a thing at all.	7	110	459	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1630.492	1632.414	speaker#4	female	native	They had given two examples.	7	111	460	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1632.414	1635.882	speaker#4	female	native	The first example is that you took some kids to see Yao Ming last year.	7	111	461	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1635.882	1638.054	speaker#4	female	native	And Yao Ming gave each child four hundred yuan.	7	111	462	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1638.054	1641.414	speaker#4	female	native	But you asked two hundred yuan back from these kids. Is this true?	7	112	463	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1638.054	1641.414	Zhang_ying	female	native	Yeah, ah, no.	7	112	464	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1641.414	1643.508	Zhang_ying	female	native	Yeah, he can make a phone call and ask about it.	7	113	465	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1643.508	1647.586	Zhang_ying	female	native	At that time Yao Ming was invited by Professor Li Xiguang, a famous professor from Qinghua University.	7	113	466	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1647.586	1650.836	Zhang_ying	female	native	They were all present on the scene. You can make a phone call and ask whether such a thing happened or not, ah.	7	113	467	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1650.836	1652.666	Zhang_ying	female	native	Why don't you ask the people involved?	7	113	468	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1653.495	1656.852	Zhang_ying	female	native	We met with Yao Ming always in public places. It was right at Qinghua University.	7	113	470	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1656.852	1659.743	Zhang_ying	female	native	After meeting at that place, Yao Ming left.	7	113	471	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1660.555	1664.603	Zhang_ying	female	native	I can say all those professors from Qinghua University can serve as witnesses, ah.	7	113	473	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1665.231	1667.177	Zhang_ying	female	native	Yao Ming hasn't contributed even now.	7	113	475	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1667.852	1673.733	speaker#4	female	native	Another allegation is that Ding Kailing and several sisters were filmed for a movie.	7	114	477	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1673.733	1675.780	speaker#4	female	native	Accordingly, the movie compensation should be 100,000 yuan.	7	114	478	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1675.780	1681.833	speaker#4	female	native	However, their father believes that you took the 100,000 yuan from the agency that paid the money,	7	114	479	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1681.833	1685.451	speaker#4	female	native	but did not give the 100,000 yuan as wages to the Ding Kailing sisters.	7	114	480	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1685.451	1686.858	Zhang_ying	female	native	There was no such a thing at all.	7	115	481	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1687.546	1694.435	Zhang_ying	female	native	And do you know that director? You can ask the general manager of that company now, and then you will know what happened.	7	115	483	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1695.216	1699.623	speaker#4	female	native	Did you receive the 100,000 yuan paid by this general manager?	7	116	485	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1699.623	1702.060	Zhang_ying	female	native	I gave it to the kids, gave it all to the kids.	7	117	486	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1702.060	1704.592	speaker#4	female	native	How much did the two families each get?	7	118	487	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1704.592	1705.757	Zhang_ying	female	native	Forty thousand yuan.	7	119	488	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1706.389	1708.889	speaker#4	female	native	Then how was it said that he paid a total of 100,000 yuan?	7	120	490	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1708.889	1712.733	Zhang_ying	female	native	He just, he just agreed to pay these two kids forty thousand yuan each family.	7	121	491	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1712.733	1718.140	Zhang_ying	female	native	He originally thought that this 100,000 yuan would actually be used by the association to assist all the AIDS families.	7	121	492	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1718.140	1725.296	Zhang_ying	female	native	But because that boss, that is, the director, at that time hoped that I could bring three children to act in his film,	7	121	493	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1725.296	1731.796	Zhang_ying	female	native	because he said at that time that he needed the identities of these three kids, that is to say, his focus of propaganda at that time, the selling point, that is to say, was that	7	121	494	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1731.796	1735.437	Zhang_ying	female	native	these three kids were kids from AIDS families.	7	121	495	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1735.437	1740.546	Zhang_ying	female	native	But because I thought that you did not sign any contract with our association,	7	121	496	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1740.546	1742.781	Zhang_ying	female	native	nor any contract with the kids,	7	121	497	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1742.781	1746.203	Zhang_ying	female	native	then I could not bring the kids to participate in filming your film.	7	121	498	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1746.203	1750.266	Zhang_ying	female	native	Because we are only assisting the kids, and I am not their guardian.	7	121	499	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1750.266	1755.438	Zhang_ying	female	native	So, at that time, I, out of protection for the kids, I thought I could not bring them along.	7	121	500	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1755.438	1758.032	Zhang_ying	female	native	Under such circumstances, the director, uh, then --	7	121	501	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1758.032	1762.144	Zhang_ying	female	native	all of the stories he had in the film were based on ours --	7	121	502	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1762.144	1769.863	Zhang_ying	female	native	but I did not want to act at that time, so he became very upset. He then asked one of our kids to act in the film.	7	121	503	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1769.863	1772.613	Zhang_ying	female	native	He directly went to ask that kid to act.	7	121	504	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1773.504	1777.598	speaker#4	female	native	This kid's father has kept telling others that	7	122	506	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1777.598	1780.059	speaker#4	female	native	you did not offer to give the 40,000 yuan to their family.	7	122	507	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1780.059	1783.768	speaker#4	female	native	It was after he got the written note from that boss did you have to give this...	7	122	508	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1783.768	1785.771	Zhang_ying	female	native	Then when did he keep...	7	123	509	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1783.768	1785.771	speaker#4	female	native	forty thousand yuan to them.	7	123	510	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1785.771	1786.349	Zhang_ying	female	native	saying it?	7	124	511	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1786.349	1789.177	Zhang_ying	female	native	We can now go and ask him whether this was what had happened.	7	124	512	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1789.724	1794.349	Zhang_ying	female	native	Because at that time I was taking the kids to attend the second summer camp. I was still in Beijing.	7	124	514	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1794.349	1797.896	Zhang_ying	female	native	Then he made a phone call, asking the kid's father to go to Beijing.	7	124	515	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1797.896	1800.987	Zhang_ying	female	native	Then, before I came back, uh, the kid's father had returned to Fuyang.	7	124	516	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1800.987	1803.386	Zhang_ying	female	native	As soon as I got back, I gave the money to him.	7	124	517	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1804.011	1807.589	Zhang_ying	female	native	Actually this money should be used on all the kids.	7	124	519	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1807.589	1812.464	Zhang_ying	female	native	But at that time I, that is to say, just did not want to get into so much trouble.	7	124	520	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1812.464	1814.449	Zhang_ying	female	native	Since you, you said it could be given to him,	7	124	521	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1814.449	1815.840	Zhang_ying	female	native	okay, it could be given to him.	7	124	522	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1816.527	1818.996	Zhang_ying	female	native	So I gave the money to them at that time.	7	124	524	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1822.356	1825.590	speaker#3	male	native	Zhang Ying said she could calmly face all these questions,	7	125	526	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1825.590	1829.777	speaker#3	male	native	because she need to put more energy on assisting AIDS orphans.	7	125	527	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1829.777	1832.699	speaker#3	male	native	However, the biggest question does not stop here.	7	125	528	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1832.699	1837.886	speaker#3	male	native	Some media suspect that the number of the AIDS orphans she assists is not as many as it was publicized.	7	125	529	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1837.886	1843.808	speaker#3	male	native	This means that a large amount of donation from overseas charity organizations might have been used elsewhere.	7	125	530	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1843.808	1847.152	speaker#3	male	native	How does Zhang Ying face this?	7	125	531	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1895.255	1896.755	speaker#3	male	native	Zhang Ying told us that	9	127	533	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1896.755	1900.130	speaker#3	male	native	AOS is currently sponsoring a total of over 420 AIDS orphans.	9	127	534	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1900.130	1902.943	speaker#3	male	native	However when we searched online, we found that	9	127	535	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1902.943	1905.162	speaker#3	male	native	just as some media had pointed out,	9	127	536	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1905.162	1910.772	speaker#3	male	native	the reported numbers of the AIDS orphans sponsored by AOS by various media reports have never been consistent.	9	127	537	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1910.772	1912.959	speaker#3	male	native	Some said it was 192 people.	9	127	538	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1912.959	1915.006	speaker#3	male	native	Some said it was 285 people.	9	127	539	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1915.006	1917.163	speaker#3	male	native	Some others said it was more than 350 people.	9	127	540	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1917.163	1918.975	speaker#3	male	native	Why on earth was this?	9	127	541	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1918.975	1921.866	speaker#3	male	native	Were there really financial problems?	9	127	542	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1923.272	1927.319	Zhang_ying	female	native	Because it is like this -- because right now many media have reported about our association.	9	128	544	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1927.319	1932.351	Zhang_ying	female	native	They sometimes took last year's number this year -- it was not reprinted --	9	128	545	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1932.351	1935.289	Zhang_ying	female	native	some media did not contact me.	9	128	546	report	
+PHOENIX_SOCWATCH_CMN_20070104_225800	0	1935.289	1940.148	Zhang_ying	female	native	They just took last year's -- that report written last year -- again this year...	9	128	547	report	

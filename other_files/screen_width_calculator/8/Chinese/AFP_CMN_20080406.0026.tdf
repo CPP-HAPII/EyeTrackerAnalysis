@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0026.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	无意响应沙柯吉　英相布朗排除抵制北京奥运	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社伦敦五日电	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	尽管法国总统沙柯吉警告,他可能因西藏问题而不参加北京奥运开幕式,英国首相布朗今天仍排除抵制北京奥运。	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	布朗在伦敦参加国际中间左派领袖的会议后告诉记者:「我将参加奥运((开幕式)),就像许多其他的人一样。」	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	他又说:「达赖喇嘛本人都说,他不愿见到抵制奥运的局面,因此我已说过,作为二零一二年奥运的地主国,我将会去参加。」	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	布朗呼吁西藏危机的双方都要「节制」,并表示这场危机只能透过对话解决。	0	0	0		statement

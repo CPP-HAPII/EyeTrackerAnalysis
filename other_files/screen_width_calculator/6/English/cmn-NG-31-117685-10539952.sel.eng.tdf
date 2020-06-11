@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10539952	0	1400.0	1500.0	speaker	unknown	unknown	After that, another hacker organization who called itself "Revenge of Flame" cancelled another attack plan on CNN website.	0	0	0		
+cmn-NG-31-117685-10539952	0	1500.0	1600.0	speaker	unknown	unknown	Earlier this week, hackers claimed that they won the first victory. They "hacked" an American sports website that was mistaken as belonging to CNN.	0	0	0		
+cmn-NG-31-117685-10539952	0	1700.0	1800.0	speaker	unknown	unknown	Thank you for your reply!	0	0	0		

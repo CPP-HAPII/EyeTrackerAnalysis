@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0029.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	台前"立委"郭廷才因贪污背信罪被判7年半定谳	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	900.000	1100.000	TEXT1	unknown	unkown	台湾前“立委”郭廷才因受贿运作变更屏东县土地地目及违法贷放侵吞上亿元新台币贷款。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	1100.000	1300.000	TEXT1	unknown	unkown	台“最高法院”昨天依贪污及背信罪判处其有期徒刑七年六个月确定。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	据台湾《联合报》报道，本案从侦查到三审定谳，前后长达十四年。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	因适用法律争议，台“最高法院”曾四度发回二审更审。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	郭廷才今年七十二岁，为确保案件执行，台“最高法院”判决后已通知检方注意。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	郭廷才于一九八九年担任屏东县议长兼屏东县都市计划委员会委员时，审议屏东县都市计划变更案；有预定地的所有者要求其协助变更地目为住宅区。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	郭廷才认有利可图，邀集十余名律师、医生、亲友等组成“投资集团”，由另一涉案人郑武雄收取六千万元新台币的资金，并将其中的两千万新台币交给郭廷才作为运作土地变更地目的代价，涉及贪污罪。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	此外，一九九三年间，郑武雄等以土地声请抵押贷款。	0	0	0		statement
+PDA_CMN_20080418.0029.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	郭廷才当时担任某信用合作社理事主席，高估放款值，使郑武雄等贷得一点七五亿元新台币，其中有一点四亿元新台币还陆续交给郭廷才使用，涉及背信罪。	0	0	0		statement

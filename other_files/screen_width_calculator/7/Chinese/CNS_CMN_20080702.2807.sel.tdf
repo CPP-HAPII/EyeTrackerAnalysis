@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.2807	0	600.0	700.0	speaker	unknown	unknown	招牌的90度鞠躬，身穿黑色小礼服，脂粉未失的周美青陪着马英九，站在门口一起欢迎院士。	0	0	0		
+CNS_CMN_20080702.2807	0	2100.0	2200.0	speaker	unknown	unknown	“二十世纪的物理与数学，就像离了婚又结婚！”诺贝尔奖物理学得主杨振宁30日以“婚姻关系”妙喻物理与数学，他的夫人翁帆在台下频频微笑。	0	0	0		
+CNS_CMN_20080702.2807	0	2500.0	2600.0	speaker	unknown	unknown	杨振宁在发展著名的“gaug e theory”时，便惊讶地发现，他用实际实验证明得到的物理理论，竟与用抽象逻辑发展、凭空想象的数学理论如出一辙，“我想这是宇宙的秘密了，要了解，只能透过宗教！”	0	0	0		

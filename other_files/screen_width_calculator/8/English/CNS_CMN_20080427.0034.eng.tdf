@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0034.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	German Magazine Ranks World's 100 Most Influential, Hu Jintao Tops List	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008 09:35 Source:Chinanews.com.cn (Editorial)	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Apr. 27 (Chinanews.com.cn) According to a report by Hong Kong's Wenwei Pao, the Hamburg, Germany trend magazine Park Avenue had issued a ranking of the world's 100 most influential people and Chinese President Hu Jintao tops the list.	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	The magazine said China has benefited under President Hu's policies and will soon surpass Germany to become the world's third largest economy.	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Ranking second are Google's two founders, 34-year-old Brin and 35-year-old Page.	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	Ranking third is 55-year-old Russian President Putin. His position as president will be taken over by his good friend Medvedev, while he personally will move to the position of prime minister.	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	The magazine said this step was taken to retain power and assure that elite industrial and political plans that he organized himself can smoothly be carried out.	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	Furthermore, he is a 6th-dan expert in judo and each day also swims in the Kremlin's swimming pool before leaving work.	0	0	0		statement
+CNS_CMN_20080427.0034.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	Among the top ten are also German Chancellor Merkel, US Federal Reserve Chairman Bernanke, OPEC Secretary-General el-Badri and US Democratic presidential candidate Obama.	0	0	0		statement

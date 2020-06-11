@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080712.0455	0	500.0	600.0	speaker	unknown	unknown	记者今日在中原地产、链家地产、筑家地产等房产中介了解到，目前本市二手房市场出现抛售现象，业主抛售普遍为2套到3套以上，房源主要以贷款尚未结清的、毛坯房、三居大户型为主。	0	0	0		
+CNS_CMN_20080712.0455	0	1800.0	1900.0	speaker	unknown	unknown	他们主要关注三类房源，第一类是部分业主不得已报出“跳水价”抛售的极品房源；第二类是交房尚未超过1年的新房；第三类是投资回报率高的低总价小户型。	0	0	0		
+CNS_CMN_20080712.0455	0	2100.0	2200.0	speaker	unknown	unknown	中国华迅商业地产秘书长郭杰认为，对房地产未来市场信心不足，是购房者抛售的最主要因素。	0	0	0		

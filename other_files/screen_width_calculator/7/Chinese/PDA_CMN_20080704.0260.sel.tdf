@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080704.0260	0	1000.0	1100.0	speaker	unknown	unknown	武警上尉名叫陈波，是武警青川县中队中队长，当即同意了他的请求。	0	0	0		
+PDA_CMN_20080704.0260	0	1600.0	1700.0	speaker	unknown	unknown	一直到13日下午2点，连续救援一天一夜，粒米未进的李明明，才想起失去联系的母亲和姐姐，急忙写了个小纸条报平安。	0	0	0		
+PDA_CMN_20080704.0260	0	2000.0	2100.0	speaker	unknown	unknown	“只要有一线希望，就要尽百分之百的努力”，李明明和队友们竖着耳朵，不敢遗漏每一个可能的生命讯息。	0	0	0		
+PDA_CMN_20080704.0260	0	2500.0	2600.0	speaker	unknown	unknown	中队长把李明明叫过来，给他一套武警的迷彩服，说：“穿上吧，你就是一名光荣的武警战士。”	0	0	0		
+PDA_CMN_20080704.0260	0	2900.0	3000.0	speaker	unknown	unknown	临行前，战友们纷纷在他那身迷彩服上签名，中队长拉着他的手说：“这身迷彩就是我们并肩战斗的见证，你永远是我们中队的一个兵！”	0	0	0		

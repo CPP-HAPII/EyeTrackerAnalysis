@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.3309	0	400.0	500.0	speaker	unknown	unknown	另据透露，北京市房地产税收增幅较去年下降，但地税局官员表示，房地产目前仍是北京的支柱产业之一。	0	0	0		

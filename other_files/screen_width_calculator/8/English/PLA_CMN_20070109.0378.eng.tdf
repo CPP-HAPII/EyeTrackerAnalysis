@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070109.0378	0	10010.000	10019.900				Jilin Exposes Nine Typical Illegal, Irregular Land Use Cases	0	0	0		
+PLA_CMN_20070109.0378	0	20010.000	20019.900				(Source: Article of Xinhua News Agency, Dispatch time: January 9, 2007 17:01)	0	0	0		
+PLA_CMN_20070109.0378	0	30010.000	30019.900				Xinhua News Agency, Changchun, January 9 (Reporter Zhu Xiaoliang) In order to effectively crack down illegal occupation and abuse of land, Jilin Department of Land and Resources exposed to the public nine typical illegal and irregular land use cases recently.	0	0	0		
+PLA_CMN_20070109.0378	0	30020.000	30029.900				According to information, these cases will be handed over to be handled by disciplinary monitoring and judicial organs respectively.	0	0	0		
+PLA_CMN_20070109.0378	0	40010.000	40019.900				These cases were dealt with in the Investigations into Illegal and Irregular Land Use Cases Special Operation jointly launched by the Jilin Department of Land and Resources and provincial monitoring department since last November.	0	0	0		
+PLA_CMN_20070109.0378	0	40020.000	40029.900				The cases involved illegal occupation of land by Jilin Province Changtong Automobile Parts Limited Company, illegal occupation of land by Changchun City Erdao Hongfa Alloy Steels Plant, illegal transfer of land by Yushu City Stock Seed Plant, illegal occupation of land by Wangqing County Mantianxing Forest Park Limited Company, and illegal occupation of land by Bureau of Communications of Shulan City to construct management stations and toll booths at the Baiqi Highway.	0	0	0		
+PLA_CMN_20070109.0378	0	40030.000	40039.900				These cases all involved occupation of state-owned land, collective land, and even basic farmland that the State strictly prohibits from occupying for use in construction without the approval of the land and resources administration departments.	0	0	0		
+PLA_CMN_20070109.0378	0	40040.000	40049.900				(The end)	0	0	0		

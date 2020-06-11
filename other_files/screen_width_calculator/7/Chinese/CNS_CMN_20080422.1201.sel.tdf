@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080422.1201	0	0.0	100.0	speaker	unknown	unknown	大陆房地产业者抵台考察 称对各区都有兴趣(图)	0	0	0		
+CNS_CMN_20080422.1201	0	700.0	800.0	speaker	unknown	unknown	考察团首站来到台北内湖科学园区的“学学文创志业”，听取台北市副市长林崇一关于台北投资环境的简报，并参观大楼内特别安排的一个建筑模型展。	0	0	0		

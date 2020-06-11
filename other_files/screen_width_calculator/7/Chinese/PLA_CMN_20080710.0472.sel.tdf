@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080710.0472	0	0.0	100.0	speaker	unknown	unknown	郭跃：用奥运金牌奠定乒坛“一姐”地位	0	0	0		
+PLA_CMN_20080710.0472	0	200.0	300.0	speaker	unknown	unknown	新华社石家庄７月１０日电（记者朱峰）北京奥运会夺金，是每个中国运动员的梦想，中国女乒中年轻的世界冠军郭跃也不例外。	0	0	0		
+PLA_CMN_20080710.0472	0	1300.0	1400.0	speaker	unknown	unknown	不过初出茅庐的她只是与队友牛剑锋合作摘得女双铜牌。	0	0	0		
+PLA_CMN_20080710.0472	0	1600.0	1700.0	speaker	unknown	unknown	在去年萨格勒布世乒赛上，她连续击败队友张怡宁、李晓霞获得女单冠军，一时如日中天。	0	0	0		
+PLA_CMN_20080710.0472	0	2200.0	2300.0	speaker	unknown	unknown	施之皓在评价奥运之前的郭跃时认为，“从去年萨格勒布她拿完单打冠军到现在，一共拿了２站公开赛单打冠军，最近一站在韩国，也是实现了她自己近期的一个愿望吧。	0	0	0		

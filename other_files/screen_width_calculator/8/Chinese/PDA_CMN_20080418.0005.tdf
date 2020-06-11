@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	山东平度举办会计人员继续教育培训班	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	人民网青岛4月18日电　（宋学春　李培强）山东省平度市结合财政部新准则的颁布与实施，去年以来，该市职教中心职教师资培训基地、平度市财政局联合举办了会计人员继续教育培训班。	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	培训的内容为《企业会计准则》和《内部会计控制制度》。	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	每期三天，共举办了十四期，培训在职会计人员7000多人次。	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	经过培训和考核，提高了会计人员的专业技能和理论水平，使在职会计人员尽快熟悉、掌握了新企业会计准则的相关规定。	0	0	0		statement

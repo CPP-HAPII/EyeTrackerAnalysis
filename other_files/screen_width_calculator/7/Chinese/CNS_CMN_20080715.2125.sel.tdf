@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2125	0	800.0	900.0	speaker	unknown	unknown	基层检察院向上级院汇报的拟提起抗诉的一审未生效案件同比增加了50%，对一审未生效判决提起抗诉案件数同比上升了66.7%，公诉案件有罪判决率达100%，起诉书事实和定性被法院判决改变的现象减少了40%。	0	0	0		

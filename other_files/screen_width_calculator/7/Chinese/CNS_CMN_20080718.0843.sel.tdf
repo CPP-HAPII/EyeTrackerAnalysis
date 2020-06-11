@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.0843	0	600.0	700.0	speaker	unknown	unknown	把江陵端午节抢注为韩国文化遗产，也成功了；论证孔子是韩国人，美女西施，神医李时珍也被划入“韩国籍”。	0	0	0		

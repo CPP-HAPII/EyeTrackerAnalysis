@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117661-10713801	0	0.0	100.0	speaker	unknown	unknown	求问：win2003server，不借助软件作端口映射	0	0	0		
+cmn-NG-31-117661-10713801	0	100.0	200.0	speaker	unknown	unknown	我有一台win2003server的机器。	0	0	0		
+cmn-NG-31-117661-10713801	0	400.0	500.0	speaker	unknown	unknown	（只有win server和vmareplayer）应该怎么做？	0	0	0		
+cmn-NG-31-117661-10713801	0	500.0	600.0	speaker	unknown	unknown	麻烦达人给个详解。	0	0	0		
+cmn-NG-31-117661-10713801	0	600.0	700.0	speaker	unknown	unknown	谢过了！	0	0	0		

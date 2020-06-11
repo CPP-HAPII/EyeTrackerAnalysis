@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117686-10542904	0	0.0	100.0	speaker	unknown	unknown	打麻将	0	0	0		
+cmn-NG-31-117686-10542904	0	100.0	200.0	speaker	unknown	unknown	发信人: wendyyjw (小强), 信区: Joke标 题: 打麻将发信站: 水木社区 (Wed Mar 5 15:50:56 2008), 站内	0	0	0		
+cmn-NG-31-117686-10542904	0	200.0	300.0	speaker	unknown	unknown	有次夏天晚上打麻将，突然停电了，只好买了蜡烛继续战斗.	0	0	0		
+cmn-NG-31-117686-10542904	0	600.0	700.0	speaker	unknown	unknown	※ 来源:·水木社区 http://newsmth.net· [FROM: 194.138.202.	0	0	0		

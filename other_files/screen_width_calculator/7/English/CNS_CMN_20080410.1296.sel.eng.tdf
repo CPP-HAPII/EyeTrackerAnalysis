@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.1296	0	700.0	800.0	speaker	unknown	unknown	But AS Roma also organized an effective counterattack. At 29 minutes, AS Roma intercepted the ball at the midfield, Amantino Mancini broke and was tripped by Wesley Brown, a back fielder, and the referee gave a penalty to Roma without any hesitation, but De Rossi unexpectedly shoot his penalty kick above the goal.	0	0	0		
+CNS_CMN_20080410.1296	0	800.0	900.0	speaker	unknown	unknown	Without any attainment from either sides in the first half, the score 0-0 held until the end of the first half.	0	0	0		

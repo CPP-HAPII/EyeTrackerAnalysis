@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080406.0024.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	蒋孝严称两蒋不需迁葬大陆 家属:一动不如一静	0	0	0		statement
+PDA_CMN_20080406.0024.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月06	0	0	0		statement
+PDA_CMN_20080406.0024.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	蒋家后代蒋孝严和蒋友松5日一起来到慈湖和头寮谒灵，对于两蒋是否迁葬到大陆，蒋孝严表示，家属大部份认为这个议题太敏感，不必去触碰，反而是两蒋可以就地安葬入土为安。	0	0	0		statement
+PDA_CMN_20080406.0024.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	据台湾东森新闻报道，蒋经国的儿子蒋孝严夫妻跟蒋经国长孙蒋友松5日一起来到慈湖谒灵，对于之前迁葬两蒋回大陆的意见，蒋孝严强调他和蒋友松意见一致，都认为不需要。	0	0	0		statement
+PDA_CMN_20080406.0024.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	国民党“立委”蒋孝严表示，目前家属大部分认为一动不如一静，目前还是维持现状，至于要移灵到大陆的事情，目前不适合碰触这个议题。	0	0	0		statement
+PDA_CMN_20080406.0024.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	让两蒋在台湾就地安葬，可以规避敏感的迁葬问题，至于两蒋地位，蓝绿认知差异很大，蒋孝严也不坚持一定要“国葬”处理两蒋遗体。	0	0	0		statement
+PDA_CMN_20080406.0024.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	不过，蒋孝严还是对马英九喊话，陵寝不要只开放一天，他希望马英九能让两蒋陵寝重见天日，让民众能够天天自由参观。	0	0	0		statement

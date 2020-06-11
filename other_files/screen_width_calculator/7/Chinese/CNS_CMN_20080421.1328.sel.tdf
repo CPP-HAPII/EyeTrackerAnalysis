@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080421.1328	0	100.0	200.0	speaker	unknown	unknown	香港迪斯尼"小小世界"曝光试玩	0	0	0		
+CNS_CMN_20080421.1328	0	600.0	700.0	speaker	unknown	unknown	试玩的家庭表示，“小小世界”色彩丰富，但游客批评场景没有指标，令小朋友分不清不同的场景属于哪个地区，难以教育小朋友认识世界。	0	0	0		
+CNS_CMN_20080421.1328	0	700.0	800.0	speaker	unknown	unknown	香港迪斯尼的“小小世界”让游客有视觉、味觉和听觉的享受。	0	0	0		
+CNS_CMN_20080421.1328	0	800.0	900.0	speaker	unknown	unknown	游人可乘船沿人工河欣赏两岸及半空13个不同国家的场景，逾460个木偶，其中241个人形木偶以9种语言高唱主题曲《小小世界》，而在群岛的场景，游客可嗅到椰子味。	0	0	0		
+CNS_CMN_20080421.1328	0	1200.0	1300.0	speaker	unknown	unknown	分别8岁半和9岁的邝咏珊和关映淘表示，“小小世界”很丰富，但两人又说要大人介绍才知道场景是哪个地方。	0	0	0		

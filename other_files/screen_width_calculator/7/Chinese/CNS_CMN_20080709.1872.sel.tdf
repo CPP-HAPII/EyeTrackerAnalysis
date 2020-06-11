@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.1872	0	1100.0	1200.0	speaker	unknown	unknown	在股市不景气时，很多人都把注意力转移到了商品期货上，而随着原油、农产品的价格上涨，挂钩商品期货的理财产品的收益也超出了部分预期。	0	0	0		

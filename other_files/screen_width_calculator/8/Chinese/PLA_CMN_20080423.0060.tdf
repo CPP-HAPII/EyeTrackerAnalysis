@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0060.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	二炮首批高中级预备役技术军官授衔	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 15:28:16   来源：中国军网	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	900.000	950.000	TEXT1	unknown	unkown	今天上午，二炮预备役高中级专业技术军官授衔仪式上，二炮副参谋长魏士河宣读了军委胡主席和二炮靖司令员、彭政委分别为26名预备役大校、20名预备役上校军官签署的授衔命令。	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	950.000	975.000	TEXT1	unknown	unkown	这是迈入导弹方阵的首批高级预备役专业技术军官。	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	975.000	987.500	TEXT1	unknown	unkown	如此规模、高级别的预备役军官授衔仪式，在二炮尚属首次，在全军也是少有的。	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	987.500	993.750	TEXT1	unknown	unkown	这不仅完善了二炮作战装备保障体系，也必将进一步推动二炮后备力量建设创新发展。	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	993.750	996.875	TEXT1	unknown	unkown	二炮预备役部队组建两年多来，在军地共同努力下，组织机构健全落实，营房设施基本配套，人员编配科学合理，运行机制逐步理顺，战略训练日趋规范，作战保障能力初步形成，部队全面建设步入崭新发展阶段。	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	996.875	998.438	TEXT1	unknown	unkown	二炮预备役部队军官中专业技术军官占98%以上，这次被编入北京预备役大队的首批高级预备役专业技术军官主要是来自全国各地的装备生产厂家，他们都是在技术岗位上的专家型人才、专业技术上的“领头雁”。	0	0	0		statement
+PLA_CMN_20080423.0060.sgm	0	998.438	1300.000	TEXT1	unknown	unkown	自此，他们通过现役部队的一体化训练，实现优势互补，解决那些现役难以解决、建设成本高、而作战又很急需的技术保障力量，将在战时装备维修保障中发挥不可替代的作用，为二炮专业装备保障维修能力实现新跨越提供强有力的人才和技术支撑。 （责任编辑 刘欣欣）	0	0	0		statement

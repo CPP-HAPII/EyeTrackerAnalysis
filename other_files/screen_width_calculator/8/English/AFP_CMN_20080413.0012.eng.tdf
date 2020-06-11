@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0012.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Opposing Demonization - China's Ambassador to Britain Calls on the West to Try to Understand China	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	London (AFP), 12th.	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Today, China's ambassador to Britain, Fu Ying said, protests towards the Olympic torch relay show that China and the West are lacking understanding more and more.	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	Fu Ying wrote a letter to Britain's "Sunday Telegraph," attacking the "violent" British protestors that attempted to snatch the torch in this month's relay in London and accusing Western media of demonizing China.	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	She wrote: "Standing between East and West, I am concerned that mutual impressions between the people of China and the West are quickly drifting in opposite directions."	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	"I cannot help but ask why, when talking about China, people don't question the exact meaning of those vague accusations but rather just easily accept them; Why a story with no facts or figures to support it is able to occupy front page news for days."	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	Fu Ying said that those who obstructed the torch relay to protest China's suppression of Tibet have all been mislead.	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	She wrote: "Of those loud protesters, many of them have probably not been to Tibet.	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	3400.000	3600.000	TEXT1	unknown	unkown	"To Chinese people, Tibet is a loved land and they are able to accept much information about Tibet. Four million tourists visit Tibet every year."	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	She said: "(In Tibet) there may be complex problems with religion and politics, but the people there are all well-fed, well-clothed and well-housed."	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	4200.000	4400.000	TEXT1	unknown	unkown	She said protesting the torch has already made young Chinese people "start to reconsider their overall views about the West."	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	4600.000	4800.000	TEXT1	unknown	unkown	Fu Ying said: "Many people who nourished romantic notions of the West in the past now feel extremely disappointed by the media's attempt to demonize China."	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	5000.000	5200.000	TEXT1	unknown	unkown	She said that each countries' media should try harder to understand China, and called out Western reporters in China to show more "respect."	0	0	0		statement

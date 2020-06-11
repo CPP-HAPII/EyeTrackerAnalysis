@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080424.0093	0	1200.0	1300.0	speaker	unknown	unknown	在一份声明中说,“俄罗斯联邦最近的举动显然是指向兼并一部分格鲁吉亚主权领土。”	0	0	0		

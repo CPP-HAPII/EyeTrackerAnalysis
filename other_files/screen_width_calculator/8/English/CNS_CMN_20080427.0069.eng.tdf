@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0069.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Taliban Attacks Kabul Military Parade, Gunfire Puts Afghan President in Mortal Danger	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Apr. 27, 2008 16:28 Source: China Daily World Online (Editorial)	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	900.000	950.000	TEXT1	unknown	unkown	On April 27 local time, Afghan President Karzai and other important officials were forced to flee the scene when a military parade in Kabul, Afghanistan commemorating victory in the fight against the Soviet invasion was attacked.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	The Taliban claimed responsibility for the attack.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	According to US media reports, gunfire suddenly broke out during the parade and several hundred people observing the parade immediately scrambled into a group.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	At present, it is still not clear who opened fire.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	A live television broadcast of the military parade was cut off.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	Karzai left the scene escorted by bodyguards.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Afghan Defence Ministry Spokesman Azimi said, "President Karzai, all cabinet members and foreign diplomats were seated in the stands and they all safely evacuated the scene.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	I've heard news that two legislators were injured."	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	A police officer at the scene said he had seen two people shooting with AK-47s from the buildings toward where Karzai and the officials were seated.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	The television images in the local media showed that when the shooting began, some people collapsed in their seats. These appear to have been the legislators.	0	0	0		statement
+CNS_CMN_20080427.0069.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	Taliban spokesman Zabiullah said during a telephone interview from a secret location that there were four of the group's militants nearby as the military parade was being carried out in the national stadium. She said they were wearing vests bound with explosives and were carrying AK-47's and rocket-propelled grenades.(Han Ronghua)	0	0	0		statement

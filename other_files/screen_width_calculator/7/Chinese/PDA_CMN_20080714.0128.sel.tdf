@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080714.0128	0	200.0	300.0	speaker	unknown	unknown	7月13日，市公安局出入境管理处宣布，自14日起开始受理市民赴台团队旅游《大陆居民往来台湾通行证》及相关签注申请。	0	0	0		
+PDA_CMN_20080714.0128	0	400.0	500.0	speaker	unknown	unknown	出入境管理处副处长高华达介绍，大陆居民赴台旅游须持《大陆居民往来台湾通行证》及相应签注(签注字头为“L”)。	0	0	0		
+PDA_CMN_20080714.0128	0	1700.0	1800.0	speaker	unknown	unknown	提醒：申请人的“入台许可”在办妥《通行证》、签注后，由组团社通过台湾接待社办理。	0	0	0		
+PDA_CMN_20080714.0128	0	1800.0	1900.0	speaker	unknown	unknown	(卢国强）	0	0	0		

@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 119.09699999999999, 130.941, 135.37200000000001, 902.649, 1091.886, 1847.325, 1898.8099999999999, 1983.106, 2034.769, 2342.6570000000002, 2349.1410000000001, 2534.4279999999999, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	1245.650	1250.712	Huang_Meng_Fu	male	native	对,(()),当然,是	5	81	148	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	1659.799	1667.285	Huang_Meng_Fu	male	native	当然对于那些中小型的企业来讲,(())就十十十来个人,他就让他成立工会这个东西呢他呢就比较难	5	107	200	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	1702.301	1703.911	Cui_Yong_Yuan	male	native	王总您也谈谈	5	108	203	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	2349.141	2355.708	Huang_Meng_Fu	male	native	拍我给他给他穿小鞋	11	151	278	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	2349.141	2355.708	Sun_Heng	male	native	我不是,我是工商联的委员,他不(())	11	151	279	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	2355.708	2359.271	Huang_Meng_Fu	male	native	你们两位吧(())	11	152	280	filler	statement

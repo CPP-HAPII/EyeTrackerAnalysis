@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0382	0	200.0	300.0	speaker	unknown	unknown	据英国媒体7月25日报道，目击者向媒体讲述了塞尔维亚特工本周一在公车上抓获前波黑塞族领导人卡拉季奇的相关细节，一名特工生生的扯下了卡拉季奇的一把胡须。	0	0	0		
+CNS_CMN_20080725.0382	0	900.0	1000.0	speaker	unknown	unknown	卡拉季奇正在贝尔格莱德的监狱里绝食，他的唯一要求是获得一本圣经。	0	0	0		

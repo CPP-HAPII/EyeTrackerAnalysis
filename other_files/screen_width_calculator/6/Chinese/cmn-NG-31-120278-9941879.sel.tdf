@@ -1,0 +1,31 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120278-9941879	0	600.0	700.0	speaker	unknown	unknown	-来几下!	0	0	0		
+cmn-NG-31-120278-9941879	0	800.0	900.0	speaker	unknown	unknown	尝试来几下!	0	0	0		
+cmn-NG-31-120278-9941879	0	1200.0	1300.0	speaker	unknown	unknown	永远的痛 =='''不问不知道,一把辛酸泪哪...'''	0	0	0		
+cmn-NG-31-120278-9941879	0	1300.0	1400.0	speaker	unknown	unknown	- * 在网络中一搜索才知道,只要是个中国人,不论整什么开发,中文!	0	0	0		
+cmn-NG-31-120278-9941879	0	1400.0	1500.0	speaker	unknown	unknown	永远有问题的 * 在网络中一搜索才知道,只要是个中国人,不论整什么开发,中文!	0	0	0		
+cmn-NG-31-120278-9941879	0	1600.0	1700.0	speaker	unknown	unknown	`有时候,选择太多也是个问题;-)`	0	0	0		
+cmn-NG-31-120278-9941879	0	1900.0	2000.0	speaker	unknown	unknown	这么一项项猜,还是显的很傻的哪,万一有些字的高位在不同编码中是相同的,那真的是只能撞大运了!	0	0	0		
+cmn-NG-31-120278-9941879	0	2000.0	2100.0	speaker	unknown	unknown	* 尤其是对可怜的难兄难弟: `gbk和big5`.	0	0	0		
+cmn-NG-31-120278-9941879	0	2400.0	2500.0	speaker	unknown	unknown	org/ -- Character encoding auto-detection 自动字符探测器!	0	0	0		
+cmn-NG-31-120278-9941879	0	2500.0	2600.0	speaker	unknown	unknown	* 问吧...行者们给出个地址:" http://chardet.feedparser.	0	0	0		
+cmn-NG-31-120278-9941879	0	2600.0	2700.0	speaker	unknown	unknown	org/ " * -- Character encoding auto-detection 自动字符探测器!	0	0	0		
+cmn-NG-31-120278-9941879	0	2700.0	2800.0	speaker	unknown	unknown	* 呃真的有哪!	0	0	0		
+cmn-NG-31-120278-9941879	0	2800.0	2900.0	speaker	unknown	unknown	而且是 Mozilla 使用的!	0	0	0		
+cmn-NG-31-120278-9941879	0	2900.0	3000.0	speaker	unknown	unknown	立用不疑!	0	0	0		
+cmn-NG-31-120278-9941879	0	3100.0	3200.0	speaker	unknown	unknown	经过测试在各种情况下都可以正确识别!	0	0	0		
+cmn-NG-31-120278-9941879	0	3300.0	3400.0	speaker	unknown	unknown	cdc 文本依然是 `ASCII` 码!	0	0	0		
+cmn-NG-31-120278-9941879	0	3500.0	3600.0	speaker	unknown	unknown	cdc 文本依然是 `ASCII` 码!	0	0	0		
+cmn-NG-31-120278-9941879	0	3700.0	3800.0	speaker	unknown	unknown	* 冷静一下 -- "既然,文件没有编码都是二进制的,那么光盘文件是如何被系统认识的?	0	0	0		
+cmn-NG-31-120278-9941879	0	4200.0	4300.0	speaker	unknown	unknown	-现在可以将最初的需求细化到这样了 现在可以将最初的需求细化到这样了:	0	0	0		
+cmn-NG-31-120278-9941879	0	4400.0	4500.0	speaker	unknown	unknown	可以将光盘内容索引存储为硬盘上的文本文件- * 存储成*.	0	0	0		
+cmn-NG-31-120278-9941879	0	4500.0	4600.0	speaker	unknown	unknown	cdc 的文本文件` * 存储成 *.	0	0	0		
+cmn-NG-31-120278-9941879	0	4700.0	4800.0	speaker	unknown	unknown	可以根据储存到硬盘上的光盘信息进行搜索* 可以搜索指定目录中所有*.	0	0	0		
+cmn-NG-31-120278-9941879	0	5000.0	5100.0	speaker	unknown	unknown	热心的行者,又嗯了声:`"使用cmd吧"`	0	0	0		
+cmn-NG-31-120278-9941879	0	5200.0	5300.0	speaker	unknown	unknown	这个90% 照抄过来的脚本纯粹是用来尝试 `cmd` 模块功能的,没有作任何实际工作,只是通过打印输出信息,来印证自个儿的想法...	0	0	0		
+cmn-NG-31-120278-9941879	0	5400.0	5500.0	speaker	unknown	unknown	-'''猜测''' 是最自然的方法,不用想着学习什么浑厚的背景知识,按照自个儿的理解,给当前可用的代码个说法,可以支持自个儿自由发挥就对了 '''猜测!	0	0	0		
+cmn-NG-31-120278-9941879	0	5500.0	5600.0	speaker	unknown	unknown	''' 是最自然的方法,不用想着学习什么浑厚的背景知识,按照自个儿的理解,给当前可用的代码个说法,可以支持自个儿自由发挥就对了	0	0	0		
+cmn-NG-31-120278-9941879	0	5800.0	5900.0	speaker	unknown	unknown	非常整齐对称的代码哪,小白不知道怎么可以不破坏这种整齐而可以加入原先的功能代码....	0	0	0		
+cmn-NG-31-120278-9941879	0	6000.0	6100.0	speaker	unknown	unknown	那么如何直接利用暂存到'cdctools.py' 的功能?	0	0	0		
+cmn-NG-31-120278-9941879	0	6600.0	6700.0	speaker	unknown	unknown	但是 `CDROM` 这种定量字串怎么融合到类中?	0	0	0		
+cmn-NG-31-120278-9941879	0	6800.0	6900.0	speaker	unknown	unknown	-小白的想象法随着不断的成功,也不断的膨胀起来,那么就研究文档吧:-'''[ http://aspn.activestate.	0	0	0		

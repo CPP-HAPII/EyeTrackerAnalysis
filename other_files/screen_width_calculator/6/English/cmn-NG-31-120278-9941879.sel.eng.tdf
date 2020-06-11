@@ -1,0 +1,31 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120278-9941879	0	600.0	700.0	speaker	unknown	unknown	-try a few times!	0	0	0		
+cmn-NG-31-120278-9941879	0	800.0	900.0	speaker	unknown	unknown	-try it out a few times!	0	0	0		
+cmn-NG-31-120278-9941879	0	1200.0	1300.0	speaker	unknown	unknown	Everlasting pain ==''' Won't know if you don't ask, a handful of bitter tears...'''	0	0	0		
+cmn-NG-31-120278-9941879	0	1300.0	1400.0	speaker	unknown	unknown	-* On the Internet, one search will tell you, as long as it's a Chinese person, it doesn't matter what kind of development, Chinese!	0	0	0		
+cmn-NG-31-120278-9941879	0	1400.0	1500.0	speaker	unknown	unknown	It always has problems * On the Internet, one search will tell you, as long as it's a Chinese person, it doesn't matter what kind of development, Chinese!	0	0	0		
+cmn-NG-31-120278-9941879	0	1600.0	1700.0	speaker	unknown	unknown	'Sometimes, too many options is also a problem ;-)`	0	0	0		
+cmn-NG-31-120278-9941879	0	1900.0	2000.0	speaker	unknown	unknown	Such a guess, actually looks really dumb, what if the position of some characters in different codings are the same, then you can only count on blind luck!	0	0	0		
+cmn-NG-31-120278-9941879	0	2000.0	2100.0	speaker	unknown	unknown	* Especially for poor old brothers in crime: `gbk and big5.`	0	0	0		
+cmn-NG-31-120278-9941879	0	2400.0	2500.0	speaker	unknown	unknown	org --- Character encoding auto-detection Character encoding auto-detection!	0	0	0		
+cmn-NG-31-120278-9941879	0	2500.0	2600.0	speaker	unknown	unknown	* Ask...the believers give forth an address: "http://chardet.feedparser.	0	0	0		
+cmn-NG-31-120278-9941879	0	2600.0	2700.0	speaker	unknown	unknown	org/" *-- Character encoding auto-detection Character encoding auto-detection!	0	0	0		
+cmn-NG-31-120278-9941879	0	2700.0	2800.0	speaker	unknown	unknown	* eh there really is!	0	0	0		
+cmn-NG-31-120278-9941879	0	2800.0	2900.0	speaker	unknown	unknown	And Mozilla uses it!	0	0	0		
+cmn-NG-31-120278-9941879	0	2900.0	3000.0	speaker	unknown	unknown	+Use without compunction!	0	0	0		
+cmn-NG-31-120278-9941879	0	3100.0	3200.0	speaker	unknown	unknown	After testing in various different conditions they can all be correctly distinguished!	0	0	0		
+cmn-NG-31-120278-9941879	0	3300.0	3400.0	speaker	unknown	unknown	cdc text is still `ASCII` code!	0	0	0		
+cmn-NG-31-120278-9941879	0	3500.0	3600.0	speaker	unknown	unknown	cdc text is still `ASCII` code!	0	0	0		
+cmn-NG-31-120278-9941879	0	3700.0	3800.0	speaker	unknown	unknown	* Calm down a second -- "Since the files without code are all binary, then how does the system recognize CD files?	0	0	0		
+cmn-NG-31-120278-9941879	0	4200.0	4300.0	speaker	unknown	unknown	-Now we can thin down the initial requirements to this type, Now we can thin down the initial requirements to this type:	0	0	0		
+cmn-NG-31-120278-9941879	0	4400.0	4500.0	speaker	unknown	unknown	The CD content can be stored and indexed as a text file on the hard disk-* stored as *	0	0	0		
+cmn-NG-31-120278-9941879	0	4500.0	4600.0	speaker	unknown	unknown	cdc text file * stored as *	0	0	0		
+cmn-NG-31-120278-9941879	0	4700.0	4800.0	speaker	unknown	unknown	You can conduct searches for * based on the CD information stored to the hard disk, can search for any * in the designated directory.	0	0	0		
+cmn-NG-31-120278-9941879	0	5000.0	5100.0	speaker	unknown	unknown	Enthusiastic believers once again nodded and said:` "use cmd"`	0	0	0		
+cmn-NG-31-120278-9941879	0	5200.0	5300.0	speaker	unknown	unknown	This script, 90% of which is copied, is purely designed to test 'cmd' module features, it has no practical function, just confirms your own ideas though printing and exporting information...	0	0	0		
+cmn-NG-31-120278-9941879	0	5400.0	5500.0	speaker	unknown	unknown	-'''Guessing''' is the most natural way, no need to think about studying good old background knowledge, make a call on a currently usable code based on your own understanding, if it can support you just messing around it's just right.''' Guessing!	0	0	0		
+cmn-NG-31-120278-9941879	0	5500.0	5600.0	speaker	unknown	unknown	'''is the most natural way, no need to think about studying good old background knowledge, make a call on a currently usable code based on your own understanding, if it can support you just messing around it's just right	0	0	0		
+cmn-NG-31-120278-9941879	0	5800.0	5900.0	speaker	unknown	unknown	A very neat symmetrical code, Xiao Bai doesn't know how to add in the original function code without ruining this symmetry...	0	0	0		
+cmn-NG-31-120278-9941879	0	6000.0	6100.0	speaker	unknown	unknown	So how do you directly make use of the features temporarily stored in 'cdctools.py'?	0	0	0		
+cmn-NG-31-120278-9941879	0	6600.0	6700.0	speaker	unknown	unknown	But how to merge a fixed character string like 'CDROM' into this category?	0	0	0		
+cmn-NG-31-120278-9941879	0	6800.0	6900.0	speaker	unknown	unknown	-Xiao Bai's imagination is continually swelling up to match his constant successes, so let's go and study up documents:-'''[ http://aspn.activestate.	0	0	0		

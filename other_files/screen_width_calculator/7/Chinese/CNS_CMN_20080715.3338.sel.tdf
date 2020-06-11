@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.3338	0	200.0	300.0	speaker	unknown	unknown	中新网7月15日电 据香港《文汇报》15日报道，英国将产假从9个月延长至12个月，但当地平等及人权委员会称，这会威胁女性的事业发展，因为雇主对录用或提升那些育龄妇女，会有所顾忌。	0	0	0		

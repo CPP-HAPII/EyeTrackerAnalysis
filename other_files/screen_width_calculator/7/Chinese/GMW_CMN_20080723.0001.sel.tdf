@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080723.0001	0	700.0	800.0	speaker	unknown	unknown	新华网加德满都７月２３日电（记者章建华 陈乔炎）尼泊尔联邦民主共和国首任总统拉姆・亚达夫２３日下午在尼首都加德满都宣誓就职。	0	0	0		

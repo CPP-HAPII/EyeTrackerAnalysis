@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070107.0133	0	10010.000	10019.900				Coming Quietly, Going Quietly	0	0	0		
+PLA_CMN_20070107.0133	0	20010.000	20019.900				Feng Bo (Source: PLA Daily, Page 1, Time of Release: 2007-01-07 06:26)	0	0	0		
+PLA_CMN_20070107.0133	0	30010.000	30019.900				At the beginning of a new year, the South Xinjiang Military Command headquarters has sent an integrated working group to carry out an inspection and research into the military's execution of all areas of their work in exercises and on duty, and to solicit the opinions and suggestions of grass-roots officers and soldiers.	0	0	0		
+PLA_CMN_20070107.0133	0	30020.000	30029.900				The working group did not give prior announcement. It traveled light, coming quietly and going quietly. The lower ranks were able to get on with what they ought to be doing without any interruptions.	0	0	0		
+PLA_CMN_20070107.0133	0	30030.000	30039.900				This approach has been widely appreciated by the officers and soldiers.	0	0	0		
+PLA_CMN_20070107.0133	0	40010.000	40019.900				But some working groups from headquarters are not this way when they go to the grassroots ranks. In contrast they send notices in advance, announcing everything: who is heading the team, the members, the schedule, and the areas of inspection.	0	0	0		
+PLA_CMN_20070107.0133	0	40020.000	40029.900				Some units start getting ready ten days or a fortnight before an inspection, focusing all their activities on the conduct of the inspection.	0	0	0		
+PLA_CMN_20070107.0133	0	40030.000	40039.900				Some of them even put up colorful banners, stick up posters, and organize greetings and send-offs.	0	0	0		
+PLA_CMN_20070107.0133	0	40040.000	40049.900				This kind of inspection not only disturbs the normal working order of the lower ranks, it also easily leads to improper practices such as formalism.	0	0	0		
+PLA_CMN_20070107.0133	0	50010.000	50019.900				The approach of the headquarters is an image; more than this it is a form of guidance.	0	0	0		
+PLA_CMN_20070107.0133	0	50020.000	50029.900				If senior officers and headquarters take the lead in maintaining a realistic and practical approach, the lower ranks will make honest reports, tell the truth, and seek real results. They will then put their hearts and their efforts into carrying out their duties.	0	0	0		

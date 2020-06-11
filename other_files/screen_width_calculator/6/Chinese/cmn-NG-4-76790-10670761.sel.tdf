@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76790-10670761	0	200.0	300.0	speaker	unknown	unknown	现在的是AC输入是220V和110V都可以, 然后输出是 16V 或 19V等.	0	0	0		
+cmn-NG-4-76790-10670761	0	300.0	400.0	speaker	unknown	unknown	难道是变压器降压后, 变直流电压, 然后用带标准电压的Low-dropout (LDO) Linear REGULATOR完成电压的控制吗?	0	0	0		

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 216.02099999999999, 227.94300000000001, 236.14599999999999, 332.79700000000003, 337.28800000000001, 496.72300000000001, 549.16700000000003, 678.93399999999997, 684.02700000000004, 835.28700000000003, 840.70799999999997, 1045.528, 1050.5119999999999, 1059.2909999999999, 1064.481, 1076.778, 1103.931, 1627.2460000000001, 1777.383, 2179.1959999999999, 2184.8989999999999, 2370.7420000000002, 2375.5729999999999, 2412.7950000000001, 2434.9180000000001, 2446.5819999999999, 2450.145, 2640.547, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080311_122701	0	840.708	853.880	Cui_Yong_Yuan	male	native	怎么决定的改种橙子呢,为什么为什么不种土豆白薯萝卜梨啊	11	72	104	filler	question
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080311_122701	0	1920.531	1936.749	Luo_Rong	male	native	(()),对	19	149	224	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080311_122701	0	2408.951	2412.795	Cui_Yong_Yuan	male	native	来,(())	23	182	286	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080311_122701	0	2503.551	2508.895	Guo_Sheng_Kun	male	native	反正我讲了你不合适的给我剪掉(())	27	196	306	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080311_122701	0	2515.551	2522.164	Guo_Sheng_Kun	male	native	这个(())	27	198	308	filler	statement

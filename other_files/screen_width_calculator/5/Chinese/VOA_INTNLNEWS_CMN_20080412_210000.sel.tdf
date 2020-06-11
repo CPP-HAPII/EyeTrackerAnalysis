@@ -1,0 +1,36 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 241.51499999999999, 552.53899999999999, 9999999.0]
+VOA_INTNLNEWS_CMN_20080412_210000	0	241.515	247.437	Lin_Sen	male	native	听众和观众朋友晚上好,我是林森,欢迎收听收看美国之音四月十二号的保健园地节目	1	1	1	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	247.437	251.249	Lin_Sen	male	native	这期保健园地的专家话题是肥胖与健康	1	1	2	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	251.249	255.157	Lin_Sen	male	native	首先由李亦菲播送这个小时的国际新闻,亦菲	1	1	3	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	255.157	256.985	Li_Yi_Fei	female	native	好的,谢谢林森	1	2	4	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	256.985	266.042	Li_Yi_Fei	female	native	台湾当选副总统萧万长今天在中国出席一次地区论坛期间,与中国国家主席胡锦涛举行了简短会晤	1	2	5	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	266.042	272.027	Li_Yi_Fei	female	native	两人在海南岛参加博鳌论亚洲坛期间举行了二十分钟的简短会晤	1	2	6	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	285.606	294.059	Li_Yi_Fei	female	native	这次会晤被认为是台湾与中国大陆自一九四九年内战分治以后,双方级别最高的直接接触	1	2	9	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	327.823	339.136	Li_Yi_Fei	female	native	星期五,美国国务卿赖斯和德国外长施泰因迈尔呼吁中国缓解国际社会在西藏近期发生骚乱后对那里人权状况的担忧	1	2	13	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	339.136	347.12	Li_Yi_Fei	female	native	赖斯和施泰因迈尔建议北京当局允许更多外国记者和外交人员进入藏人居住的地区	1	2	14	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	347.12	353.417	Li_Yi_Fei	female	native	他们还鼓励中国与西藏流亡精神领袖达赖喇嘛及其代表展开对话	1	2	15	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	371.979	379.588	Li_Yi_Fei	female	native	他在会上与科学家们一起探讨了在儿童成长早期培养他们具有怜悯心的重要性	1	2	18	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	379.588	382.417	Li_Yi_Fei	female	native	有几千人出席了这次研讨会	1	2	19	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	382.417	390.261	Li_Yi_Fei	female	native	这次为期五天题为播种怜悯心的研讨会的组织者说,这次聚会是一次非政治性活动	1	2	20	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	390.261	400.886	Li_Yi_Fei	female	native	达赖喇嘛将于星期二离开西雅图,出席密西根大学的一个会议,然后他到纽约州参加在科尔盖特大学举行的一个活动	1	2	21	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	400.886	409.511	Li_Yi_Fei	female	native	南非总统姆贝基今天在津巴布韦首都哈拉雷会晤总统穆加贝,讨论那里的政治危机	1	2	22	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	409.511	418.933	Li_Yi_Fei	female	native	在姆贝基与穆加贝会晤后,南部非洲发展共同体将在赞比亚召开一次紧急峰会,讨论津巴布韦的危机	1	2	23	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	418.933	430.136	Li_Yi_Fei	female	native	去年,拥有十四个成员国的南部非洲发展共同体任命姆贝基总统在津巴布韦总统穆加贝和反对党领导人之间进行调停	1	2	24	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	430.136	436.839	Li_Yi_Fei	female	native	津巴布韦选举委员会还没有公布三月二十九号总统选举的正式结果	1	2	25	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	445.991	456.382	Li_Yi_Fei	female	native	军方说,美国和伊拉克部队在那里与用火箭助推榴弹机关枪步枪以及路边炸弹袭击他们的激进分子作战	1	2	27	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	456.382	465.273	Li_Yi_Fei	female	native	联军部队说,部队动用无人驾驶飞机向激进分子发射了一枚导弹,并动用坦克车向他们开火	1	2	28	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	469.772	473.928	Li_Yi_Fei	female	native	军方官员说,伊拉克和美国部队没有人伤亡	1	2	30	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	479.631	485.787	Li_Yi_Fei	female	native	萨德尔城区是激进的什叶派教士萨德尔领导的麦赫迪军的重要据点	1	2	32	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	485.787	490.584	Li_Yi_Fei	female	native	过去两个星期,联军一直在那里与反叛分子交战	1	2	33	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	490.584	498.194	Li_Yi_Fei	female	native	尼泊尔制宪特别大会选举的初步结果显示,前毛派反政府组织居领先地位	1	2	34	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	498.194	502.054	Li_Yi_Fei	female	native	制宪特别大会可能会改写尼泊尔宪法	1	2	35	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	502.054	510.008	Li_Yi_Fei	female	native	尼泊尔选举委员会今天说,在星期四的选举中,毛派候选人赢得了特别大会的五个席位	1	2	36	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	510.008	516.523	Li_Yi_Fei	female	native	这一结果使毛派组织领先于主要对手尼泊尔共产党和尼泊尔大会党	1	2	37	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	516.523	522.148	Li_Yi_Fei	female	native	清点所有两百四十个选区的投票结果预计需要几个星期的时间	1	2	38	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	522.148	530.038	Li_Yi_Fei	female	native	有关官员说,在一百零二个正在清点选票的选区里,毛派候选人领先的选区超过一半	1	2	39	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	530.038	535.836	Li_Yi_Fei	female	native	人们早就预料毛派候选人会在很多农村地区的投票中表现出众	1	2	40	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	535.836	541.07	Li_Yi_Fei	female	native	现在看来,他们在一些城市选区的选举结果也比预期的要好	1	2	41	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	541.07	547.726	Li_Yi_Fei	female	native	这是毛派候选人第一次在选举中挑战那些已经站稳脚跟的政党	1	2	42	report	statement
+VOA_INTNLNEWS_CMN_20080412_210000	0	547.726	552.539	Li_Yi_Fei	female	native	以上是美国之音国际新闻,感谢您的收听收看	1	2	43	report	statement

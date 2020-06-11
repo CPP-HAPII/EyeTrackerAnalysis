@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070115.0134	0	10010.000	10019.900				Hong Kong Collects 72 Dead Birds in One Day	0	0	0		
+PLA_CMN_20070115.0134	0	20010.000	20019.900				(Source: Article of Xinhua News Agency, Dispatch time: January 15, 2007 16:52)	0	0	0		
+PLA_CMN_20070115.0134	0	30010.000	30019.900				Xinhua News Agency, Hong Kong, January 15. Another dead bird was discovered at the same location in Hong Kong where a dead eagle suspected of carrying the H5 virus was picked up six days ago.	0	0	0		
+PLA_CMN_20070115.0134	0	30020.000	30029.900				According to local media report, relevant departments of the special administrative region government collected 72 dead birds around Hong Kong on the day of the 14th.	0	0	0		
+PLA_CMN_20070115.0134	0	40010.000	40019.900				The dead bird collected was sent for testing. The Agriculture, Fisheries, and Conservation Department dispatched staff to the scene to clean up the environment.	0	0	0		
+PLA_CMN_20070115.0134	0	50010.000	50019.900				In order to take preventive measures, employees of the Agriculture, Fisheries, and Conservation Department went to the Bird Street in Mongkok that sells birds on the 14th to urge pedlars to step up sanitation while cleaners frequently washed the dung marks on flower troughs and the ground.	0	0	0		
+PLA_CMN_20070115.0134	0	60010.000	60019.900				On the Bird Street, Mr. Wong, employee of a bird shop called 'Pui Kee', said that if there were dead bird, they would put it inside the dead bird body disposal bucket specially set up by the Food and Environmental Hygiene Department instead of disposing of it casually.	0	0	0		
+PLA_CMN_20070115.0134	0	70010.000	70019.900				While Mr. Lo, owner of 'Lo Pak Kee', stated that since some birds were tested positive of the avian flu virus, his business was greatly affected and dropped approximately 90 percent.	0	0	0		
+PLA_CMN_20070115.0134	0	80010.000	80019.900				Hong Kong is an important migration location of migrant birds. The number of birds that pass through Hong Kong or spend the winter in Hong Kong reaches nearly one hundred thousand each year.	0	0	0		
+PLA_CMN_20070115.0134	0	80020.000	80029.900				(The end)	0	0	0		

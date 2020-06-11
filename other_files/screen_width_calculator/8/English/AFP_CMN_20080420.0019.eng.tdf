@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0019.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Australian "Elite" Summit: Actress Kate Blanchett's Newborn Son Steals Show	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Sydney, 20th (AFP)	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Australian actress Kate Blanchett's six-day-old son stole the spotlight today from the more than one thousand important citizens at the Australian "Elite" Summit, which aims to stimulate innovative political thinking for the future.	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	After his election last November put an end to almost twelve years of Conservative Party rule, Australian Prime Minister Kevin Rudd began organizing the "2020 Summit", which aims to stimulate innovative thinking.	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	The theme of the summit is "Aim Big", but prior to the meeting's opening at Parliament House, it was instead Blanchett's thirteen-day old newborn son Ignatius that attracted all the attention.	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	Thirty-eight-year-old Blanchett and her baby appeared glowing as they were photographed together. The baby has also inherited its mother's ability to steal the spotlight and became the focal point for attention at the scene of the event.	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	2800.000	2950.000	TEXT1	unknown	unkown	Also participating in the summit was Hollywood star Hugh Jackman. He praised Blanchett for her determination to participate in the event so soon after delivering her baby.	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	2950.000	3100.000	TEXT1	unknown	unkown	Blanchett will coordinate the creative arts segment of the summit.	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	3300.000	3600.000	TEXT1	unknown	unkown	Jackman said,"Kate Blanchett is a superwoman......she astounds at every level. I think she's a person without fault. I am also extremely happy that we can have her come to lead us."	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	On the 15th, Kevin Rudd went to the hospital in Sydney to visit Blanchett to ask her if she was still able to participate in the summit. He said, however, that she was very insistent that she wanted to participate.	0	0	0		statement

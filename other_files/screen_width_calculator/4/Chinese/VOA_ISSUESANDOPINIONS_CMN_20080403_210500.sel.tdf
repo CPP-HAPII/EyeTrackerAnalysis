@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'report', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 264.07400000000001, 361.90899999999999, 411.19099999999997, 429.22699999999998, 1138.194, 1149.0329999999999, 1774.394, 1975.6199999999999, 2031.039, 2050.4789999999998, 2120.326, 2124.4830000000002, 2266.848, 2273.0360000000001, 2457.7190000000001, 2466.402, 3158.0390000000002, 3178.7220000000002, 3399.4769999999999, 9999999.0]
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	934.479	951.520	speaker#4	male	native	因此,我认为如果我对于温家宝总理的会议 (()) 理解得对的话,我觉得还有需要沟通的地方,有很多误会的地方,还需要加以澄清	4	10	54	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1374.975	1398.172	speaker#4	male	native	我们一般的人民都希望能够在这个和平的 (()) 能够互相的把生活搞得好,可是中国政府经常是认为西藏呢是一种以-以前的西藏是一种封建的一种呃体制,政教合一的体制,那么对西藏人民呢是不利的	6	16	86	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1436.432	1459.595	Xiao_Xun	male	native	谢谢您,因为这个问题是相当重要的一个问题,我们注意到有很多中国的这个呃听众观众或者是网民在网络上表达意见的时候也谈到了这个西藏过往的这个所谓的 (()) 制的问题,感谢您提出这个呃目前西藏的这样一种发展中的这样一种观念,呃表达这个达赖喇嘛的这样一种态度,我们再抓紧时间听几位听众和观众的这个意见和看法	6	17	89	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1489.211	1503.057	speaker#6	male	native	我想请问嘉宾, (()) 那个他-他们手里吃的茄子,他们都代表什么意思	6	19	93	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1503.057	1511.084	speaker#7	male	native	嗯你好,主持人, {cough} 主持人好,嘉宾好	6	20	95	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1511.084	1528.239	speaker#7	male	native	嗯,我认为中共不应该 (()) 那个国内的媒体啊对那个达赖进行那个妖魔化,因为这样不利于那个西藏局势的那个稳定,而且呢应该采取那个比较诚实,比较务实的态度与达赖多接触,这样比较好控制局势	6	20	97	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1528.239	1544.999	speaker#7	male	native	另外应该呃中共应该 (()) 他以往对那个达赖不采取不接触的那种呃那种政策,因为他认为呃只要达拖延啊时刻,只要达赖死掉了,那一切西藏问题都没问题了解决好了	6	20	99	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1584.729	1606.307	speaker#8	male	native	就西藏就是头一天被烧之前就各个店辅呢挂了一个黑色的小圆圈的那么一个记号,可是第二天的时候呢,这些店辅啊所有都被烧了,就可以推断啊就是基本上这个就是西藏呢有一些有组织有预谋的人说针对这个故意进行破坏活动这个并不是什么和平的示威	6	23	107	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1730.993	1745.976	speaker#4	male	native	我方呢希望能够跟中方建立这个渠道,我们衷心的盼望这是一种有乐观的以-以前曾经有胡耀邦,还有赵子阳这种 (()) 的人士	6	27	118	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	1745.976	1760.489	speaker#4	male	native	二十几年前这种气氛是有这种人物,我相信中国仍然也有这种人物, (()) 不公的,能够尤其是中国的这个呃-呃政治局也有这种人物	6	27	119	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	2677.717	2699.815	speaker#14	male	native	呃我在那个呃西藏这里呆过一些几年的时间,这个-这个印-印度他有一-一块叫 (()) 他实际上他是中国的领土,呃这-这个他已经呃是我们中国的地图,他实际上也包括那个地,实际上是被印度占领的	16	53	192	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	2779.102	2792.660	speaker#15	male	native	所以说达兰萨拉他这个---他这个他作为这个筹码他的份量在中印之间很小很小,因为他毕竟是一个呃只有不到十万-十万人口的小城市, (()) 他也没有军队	16	54	204	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	2800.172	2821.770	speaker#15	male	native	如果他死去的话,如果一些年轻 (()) 派如果再继续呃刺激大陆,刺激中国呃搞一些极端的一些暴力恐怖活动,我认为这将对达兰萨拉这个流氓政府将是一种灭顶之灾,我认为这个--	16	54	208	filler	
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	2840.379	2854.828	speaker#16	male	native	呃在这个僧侣统治一个国家 (()) 这个是不解决问题的,是他比独裁制的政府还要差,那个所以我觉得在这个问题上 (()) 现在是很重要的	16	55	212	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080403_210500	0	3262.386	3277.658	speaker#9	female	native	虽然房价下跌和信贷危机造成了美国经济的动荡,但是伯南基说美联储最近采取的行动对于刺激美国经济应该是有帮助的,除了多次削减利率之外,美联储上个月还促成了有争议的 (()) 贝尔斯登的收购案	18	67	243	report	statement

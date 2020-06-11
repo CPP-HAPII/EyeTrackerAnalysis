@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 71.551000000000002, 1612.021, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080330_073002	0	757.576	764.718	speaker#4	female	native	四,谢长廷希望民进党能扮演好监督和制衡的角色,监督并制衡好国民党	1	19	69	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080330_073002	0	951.598	977.243	Yi_Nai_Jing	female	native	虽然陈水扁没有接受这个辞职的要求哦,但是我们可以看到,谢长廷他们引进了施明德,许信良他们这些代表着美丽岛世代的第一代的人的民进党创党精神的力量进入--进入民进党,就是希望能够彻底的铲除陈水扁的势力哦,所以这个是 (()) 这是一-一场斗争	1	23	82	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080330_073002	0	1262.048	1269.805	Jiang_Min_Qin	male	native	他至少不会被外界解读为 (()) ,所以他代表至少比较贴近民进党原来的这个核心的价值	1	26	106	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080330_073002	0	1297.397	1314.045	Yi_Nai_Jing	female	native	呃就过去的 (()) 平常的政治运作来讲的话,他们应该当天就要会面的,所以这个会面呢一点都不稀奇,而是他们隔了这么多天才会面,就可以知道两个人呢其实呢会无好会,见面呢也不会有什么好话的哦	1	27	109	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080330_073002	0	1560.342	1599.552	Yi_Nai_Jing	female	native	而且如果他不烧光哦,不去把这些呃文件呢都销毁的话,可能陈水扁卸任之后的官司会吃不完了哦,因为在他任内期间的时候,包括有关于金融的弊案的问题,然后对外台湾对外事务上面有没有一些不当的这个呃现金的问题,有没有一些回扣的问题,有没有一些这个洗钱的案子的问题,哇要这么大规模地来去碎哦,碎那些的重要的文件就可以知道,在过去这八年来,哇到底陈水扁的当局有多少贪腐见不得人的事 {laugh}	1	33	123	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080330_073002	0	1560.342	1599.552	Jiang_Min_Qin	male	native	真的是对陈水扁来说碎碎平安 {laugh} ,统统弄碎了才会平安	1	33	124	report	statement

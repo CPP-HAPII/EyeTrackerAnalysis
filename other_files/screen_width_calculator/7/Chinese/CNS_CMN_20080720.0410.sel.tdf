@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0410	0	0.0	100.0	speaker	unknown	unknown	欲抓“五环财运” 什么样的奥运收藏才有价值？	0	0	0		
+CNS_CMN_20080720.0410	0	300.0	400.0	speaker	unknown	unknown	近日有市民询问：收藏品名目繁杂，什么样的奥运收藏才有价值？	0	0	0		
+CNS_CMN_20080720.0410	0	800.0	900.0	speaker	unknown	unknown	“比如我收藏的一幅五年前点火仪式的原始照片，那个地方的树林后来经受一次大火灾，全没了，现在的树林都是后来移栽过去的，当时人们并不能预见到这一点，而恰巧被我收藏了，也就有了文物性价值。”	0	0	0		
+CNS_CMN_20080720.0410	0	1700.0	1800.0	speaker	unknown	unknown	“真正能抓住‘五环财运’的，并不是凭借藏品数量或者短期买进卖出的人，而是那些能够从平常中发现市场亮点的人。”秦杰说。	0	0	0		

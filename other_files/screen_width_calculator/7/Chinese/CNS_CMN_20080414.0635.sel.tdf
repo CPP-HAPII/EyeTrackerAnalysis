@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080414.0635	0	1000.0	1100.0	speaker	unknown	unknown	“这几天迪庆气候转暖，进入了旅游的黄金季节，团队、游客出进自如，游人如织，旅游秩序良好。”次仁诺布说。	0	0	0		
+CNS_CMN_20080414.0635	0	1100.0	1200.0	speaker	unknown	unknown	位于中国西南边陲的云南迪庆藏族自治州是中国十个藏族自治州之一，在它的广袤怀抱中就有美国小说家詹姆斯•希尔顿在小说《失去的地平线》中描绘的“世外桃源”香格里拉，这里有雪峰峡谷、金碧辉煌且充满神秘色彩的庙宇、被森林环绕着的宁静的湖泊、美丽的大草原及成群的牛羊。	0	0	0		

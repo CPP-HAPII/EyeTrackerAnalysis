@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080409.0880	0	1300.0	1400.0	speaker	unknown	unknown	Speaking of the Olympic venues such as the "Bird's Nest," the main stadium of the Beijing Olympics, and the "Water Cube," the well-acclaimed national swim center, Al-Thani regretted not having the opportunity to tour and inspect the sites.	0	0	0		

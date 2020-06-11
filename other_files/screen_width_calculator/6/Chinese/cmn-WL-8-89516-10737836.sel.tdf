@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89516-10737836	0	500.0	600.0	speaker	unknown	unknown	网友聚会，我和他见面了，大家都起他们的哄，但我却觉得他对我有特别的关注，单单要了我的电话号码和MSN。	0	0	0		
+cmn-WL-8-89516-10737836	0	1000.0	1100.0	speaker	unknown	unknown	第二天，我上QQ群，才发现他已经把公告改成向我表白的字句。	0	0	0		
+cmn-WL-8-89516-10737836	0	2400.0	2500.0	speaker	unknown	unknown	人生总是得失两难全，无谓勉强，有时，何妨随波逐流？	0	0	0		
+cmn-WL-8-89516-10737836	0	2700.0	2800.0	speaker	unknown	unknown	男性，花样中年，广告公司美术总监，现居上海，爱好收藏，藏品包括字画、古董表、汽车模型……以及珍贵的感情经历。	0	0	0		

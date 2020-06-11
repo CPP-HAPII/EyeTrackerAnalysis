@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.3169	0	0.0	100.0	speaker	unknown	unknown	Yi Jianlian "fell into the net" with high profile at 10 tonight; all high level officials of the new employer attended	0	0	0		

@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	称米价上涨有利农民　泰总理吁民众忍耐	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社曼谷二十日电	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	泰国总理萨玛今天说,泰国民众应该忍耐高涨的米价,因为米价迭创新高对贫穷的农民有利。	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	萨玛在对全国发表的每周谈话中说:「假如大家能够牺牲,买米时多付点钱,只是多一点,而非很多,这将对农民有利。」	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	1900.000	2050.000	TEXT1	unknown	unkown	泰国稻米出口商协会在米价调查报告中指出,四月九日泰国香米的出口价格为每公吨九百五十六美元,比一个月以前上涨大约百分之五十。	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	2050.000	2300.000	TEXT1	unknown	unkown	香米是泰国最主要的稻米品种。	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	越南与印度这两个重要的稻米出口国,为了确保国内供应而限制稻米出口后,国际市场对泰国稻米的需求大为增加。	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	3000.000	3200.000	TEXT1	unknown	unkown	在出口需求强劲的压力下,泰国国内的米价也随着上涨。	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	3400.000	3550.000	TEXT1	unknown	unkown	萨玛表示,政府了解粮食与燃料价格上涨对泰国一般家庭带来的压力,他再度保证政府将设法增加民众收入。	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	3550.000	3700.000	TEXT1	unknown	unkown	可是萨玛并未进一步说明有关详情。	0	0	0		statement

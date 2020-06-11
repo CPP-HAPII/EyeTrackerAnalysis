@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0045.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	广东梅州两派出所所长因不会用电脑被停职	0	0	0		statement
+CNS_CMN_20080418.0045.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18日 11:36 来源：大洋网-广州日报 发表评论	0	0	0		statement
+CNS_CMN_20080418.0045.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	记者昨日从梅州市公安机关获悉，梅州市公安局对参加全省派出所综合信息系统补考后仍不合格的五华县公安局某派出所所长和兴宁市公安局某派出所所长，发出停止履行职务的通知。	0	0	0		statement
+CNS_CMN_20080418.0045.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	据了解，梅州市公安局把今年确定为公安科技应用年，对全市公安机关进行一次“现代扫盲”，要求全市民警要100%会应用计算机，切实将“不会上网就下岗”的口号变为现实。	0	0	0		statement
+CNS_CMN_20080418.0045.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	同时制定并下发了《梅州市公安机关信息化工作考核奖惩办法》，把信息化应用考核纳入各级公安机关评先评优、基层单位等级评定以及民警的提拔任用、级别晋升、警衔晋升、评聘技术职称、立功受奖中，其中规定：“年度信息化应用操作技能考核不合格的民警，由市公安局统一组织脱产培训和补考，脱产培训和补考所需费用由民警个人负担。	0	0	0		statement
+CNS_CMN_20080418.0045.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	任领导职务的，经补考两次仍不合格，改任非领导职务”；	0	0	0		statement
+CNS_CMN_20080418.0045.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	“民警的提拔任用、级别晋升、警衔晋升、评聘技术职称、立功受奖和评优评先，信息化应用操作技能考核必须为合格以上等次”。	0	0	0		statement
+CNS_CMN_20080418.0045.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	据统计，该局的考试系统目前为止已有近3万多人次登录练习，有近1000民警利用考试系统进行了“四会”((打字、发送邮件、网络搜索、综合查询))考试。(叶仕欣 陈瑛）	0	0	0		statement

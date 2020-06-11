@@ -1,0 +1,80 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 82.072999999999993, 149.74100000000001, 241.53800000000001, 570.33299999999997, 578.86599999999999, 870.29899999999998, 876.55600000000004, 9999999.0]
+VOA_INTNLNEWS_CMN_20080414_210000	0	82.073	91.34	speaker#1	male	native	各位听众,这里是美国之,现场直播的时事经纬节目,在节目的最后,我们再来回顾一下今天播送的主要新闻内容	1	1	1	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	91.34	104.121	speaker#1	male	native	在一些西方国家的中国留学生和华人举行游行集会等示威活动,抗议他们所说的西方媒体歪曲报道西藏骚乱事件,并且对北京奥运会表示支持	1	1	2	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	104.121	117.911	speaker#1	male	native	与此同时呢,法国华侨社团的一位领袖认为,目前在北京奥运会尚未举行的情况下,华人需要采取克制态度,保持冷静,避免造成中国与西方国家之间的对立	1	1	3	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	117.911	128.005	speaker#1	male	native	正在美国参加民间活动的西藏流亡精神领袖达赖喇嘛说,他的代表正在私下与中国官员举行会谈	1	1	4	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	141.247	146.906	speaker#1	male	native	等一会儿呢请继续收听美国之音现场直播的时事大家谈	1	1	6	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	241.538	249.738	Fan_Dong_Ning	female	native	各位听众,观众朋友们大家好,欢迎你收听收看美国之音四月十四号的时事大家谈节目,我是樊东宁	3	3	9	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	251.238	258.783	Bao_Sen	male	native	教皇本笃十六世明天将对美国进行首次正式访问,白宫准备举行盛大的欢迎仪式	3	4	11	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	258.783	268.638	Fan_Dong_Ning	female	native	是的,而今天在节目中除了和大家谈一谈本笃教皇的美国之行,也将探讨中国和梵蒂冈之间的关系,在最近是否出现了转机	3	5	12	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	284.448	289.745	Fan_Dong_Ning	female	native	首先请宁馨来为大家播送这个小时的简要国际新闻,宁馨	3	7	15	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	289.745	292.152	Ning_Xin	female	native	好,谢谢东宁	3	8	16	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	292.152	303.074	Ning_Xin	female	native	奥运火炬今天抵达阿曼,预计这是一次不会出现任何抗议活动的行程,也是奥运火炬在前往北京途中在中东地区唯一停留的一站	3	8	17	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	311.325	314.435	Ning_Xin	female	native	火炬接力的下一站是坦桑尼亚	3	8	19	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	314.435	322.06	Ning_Xin	female	native	火炬上星期在抵达伦敦,巴黎和旧金山的时候引发大规模抗议活动,场面混乱	3	8	20	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	322.06	329.721	Ning_Xin	female	native	但是奥运火炬最近经过布宜诺斯艾利斯和达累斯萨拉姆时都没有遇到重大的事件	3	8	21	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	329.721	340.456	Ning_Xin	female	native	今天几十名阿曼运动员将高举火炬,穿越马斯喀特全城,沿著风景如画的河边大道进行火炬接力活动	3	8	22	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	340.456	349.638	Ning_Xin	female	native	奥运火炬的国际接力活动在几个站点都被被迫改变了线路并缩短了行程,以确保安全	3	8	23	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	349.638	356.842	Ning_Xin	female	native	伊拉克警方说,一枚炸弹在巴格达中部爆炸,炸死至少五人,炸伤九人	3	8	24	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	356.842	364.437	Ning_Xin	female	native	当局说,星期一发生的这起爆炸是路边炸弹袭击事件,目标是一支警察巡逻队	3	8	25	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	372.703	380.018	Ning_Xin	female	native	美国官员说,当时一枚炸弹在美军车辆旁边爆炸,但是美国的军事人员没有人受伤	3	8	27	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	395.253	401.985	Ning_Xin	female	native	声明说,这些尸体已经高度的腐烂,看上去是大约8个月前埋葬的	3	8	30	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	401.985	411.5	Ning_Xin	female	native	在索马里的目击者说,全副武装的伊斯兰激进分子在索马里中部一所学校打死了四名外国人	3	8	31	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	422.194	429.763	Ning_Xin	female	native	当地居民说,有三名死者是女性,包括一名英国教师和两名肯尼亚人	3	8	33	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	452.385	458.816	Ning_Xin	female	native	今天是意大利议会选举的第二天,选民们将选出普罗迪总理的继任者	3	8	36	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	458.816	465.895	Ning_Xin	female	native	名列前茅的候选人是前总理贝卢斯科尼和前罗马市长维尔特罗尼	3	8	37	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	465.895	472.326	Ning_Xin	female	native	胜出者将组建第二次世界大战结束以来的第六十二届意大利政府	3	8	38	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	472.326	481.544	Ning_Xin	female	native	选前的民调显示,保守派人士贝卢斯科尼可能会重返总理的宝座,他也是意大利最有钱的人之一	3	8	39	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	481.544	486.544	Ning_Xin	female	native	这次要选举的是意大利众议院的九百四十五个席位	3	8	40	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	486.544	497.197	Ning_Xin	female	native	今年一月,因为议会通过不信任表决,普罗迪总理的中间偏左政府垮台,意大利随后提前三年举行了这次选举	3	8	41	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	507.341	515.887	Ning_Xin	female	native	一列用鲜花装饰的孟加拉国列车今天离开了达卡戒备森严的 (()) 车站,驶向加尔各答	3	8	43	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	515.887	520.481	Ning_Xin	female	native	一列印度火车同时驶离加尔各答,开往了达卡	3	8	44	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	527.916	532.573	Ning_Xin	female	native	两国官员上个星期四签署了恢复客运列车服务的协议	3	8	46	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	532.573	536.504	Ning_Xin	female	native	两国官员说,这是一项历史性的协议	3	8	47	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	536.504	549.29	Ning_Xin	female	native	亚太地区股市今天开盘以后,不久开始滑落,东京日经指数跌落了四百零六点,以一万两千九百一十八点收盘,跌幅达到百分之三	3	8	48	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	549.29	558.026	Ning_Xin	female	native	香港恒生指数暴跌八百五十七点,以两万三千八百一十一点坐收,跌幅也超过百分之三	3	8	49	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	558.026	562.568	Ning_Xin	female	native	其他地方上海股市暴跌超过百分之五点五	3	8	50	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	562.568	566.506	Ning_Xin	female	native	新加坡 (()) 和台北股市也有下跌	3	8	51	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	578.866	584.798	Bao_Sen	male	native	欢迎继续收听收看美国之音四月十四号的时事大家谈节目,我是宝森	5	10	54	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	590.454	593.891	Bao_Sen	male	native	并呼吁中国政府减少对西藏的控制	5	10	56	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	593.891	603.734	Bao_Sen	male	native	与此同时,中国政府逮捕了九名涉嫌参与炸弹攻击事件的西藏僧侣,请收听收看美国之音的电视报道	5	10	57	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	620.629	628.771	speaker#6	male	native	我没有权利叫他们闭嘴,这是他们的权利,这是他们的自由,因为我们坚持全面推行民主	5	12	60	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	628.771	636.857	speaker#6	male	native	这些人表达他们自己内心深处的感觉,这是他们的权利,但是,必须要采取非暴力的方式	5	12	61	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	644.956	650.628	speaker#5	male	native	这些事件也在世界各地引发了干扰北京奥运会圣火传递的示威活动	5	13	63	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	658.018	666.769	speaker#5	male	native	达赖喇嘛在西雅图参加一个为期五天,名为慈悲心种子的会议,并在星期天举行了记者会	5	13	65	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	666.769	672.722	speaker#5	male	native	他在记者会上再次否认了中国政府声称他寻求西藏独立的说法	5	13	66	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	685.177	692.764	speaker#5	male	native	达赖喇嘛还说,他的代笔正在通过私下渠道跟中国官员沟通,但是他没有直接参与	5	15	68	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	692.764	702.571	speaker#5	male	native	与此同时,中国媒体星期天报道,当局逮捕了涉嫌在三月二十三号引爆土制炸弹的九名西藏僧侣	5	15	69	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	708.654	711.794	speaker#5	male	native	美国之音电视报道	5	15	71	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	711.794	717.701	Bao_Sen	male	native	罗马天主教皇本笃十六世这个星期首次正式访问美国	5	16	72	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	717.701	724.168	Bao_Sen	male	native	成千上万名美国天主教徒将会到纽约和华盛顿欢迎教皇来访	5	16	73	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	724.168	734.327	Bao_Sen	male	native	教皇将在华盛顿拜访布什总统,并且参加两场在大型体育场里举行的弥撒,以及会见世界主要宗教的代表	5	16	74	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	734.327	737.387	Bao_Sen	male	native	以下是美国之音的电视报道	5	16	75	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	737.387	744.859	speaker#5	male	native	为教皇本笃十六世来访所做的准备工作已经在华盛顿的国家圣母大殿进行了好几个星期了	5	17	76	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	744.859	747.671	speaker#5	male	native	这是北美洲最大的天主教堂	5	17	77	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	747.671	753.47	speaker#5	male	native	据估计,在美国有六千七百万名天主教徒占总人口的百分之二十二	5	17	78	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	764.262	769.788	speaker#5	male	native	美国的天主教徒对其所信仰的宗教保持各式各样不同的态度	5	17	81	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	769.788	777.624	speaker#5	male	native	在美国华盛顿的天主教大学数以千计的学生为了一度教皇的风采而排队领票	5	17	82	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	777.624	781.69	speaker#5	male	native	詹姆斯布伦莱恩是这一所大学的教务长	5	17	83	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	788.307	795.221	speaker#7	male	native	在校园里很多人都在谈论这个事情	5	18	85	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	795.221	803.125	speaker#5	male	native	本笃十六世是在三年前当选教皇的,在那之前,他被称作是 (())	5	19	86	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	803.125	811.72	speaker#5	male	native	由于他在梵蒂冈多年来一直负责严格执行教规的工作,因此被一些教会圈内人士称作是上帝的看门犬	5	19	87	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	811.72	823.22	speaker#5	male	native	在那之后,分析家们表示他的形象开始软化,特别是在他写了许多重要的 (()) 之后, (()) 也就是写给信徒们,强调基督的希望和爱的信件	5	19	88	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	825.376	833.18	speaker#8	male	native	他的 (()) 里没有责怪的意思,他的信都是非常激励人心的,神慈爱这是再也基本也不过的了	5	20	90	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	833.18	838.941	speaker#8	male	native	但是上帝的爱要我们也爱别人,穷人被边缘化的人来作为回报	5	20	91	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	846.844	852.814	speaker#8	male	native	约翰保罗二世是个宽宏大量的演员,本笃则是一个安静保守的学者	5	22	93	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	857.455	861.693	speaker#5	male	native	苏珊鲍姆特是学习教会历史的研究生	5	23	95	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	861.693	870.299	speaker#9	female	native	年轻一代的天主教徒很欢迎他传讲的信息,我们很感谢他在很多议题上保持的立场,他做的很好	5	24	96	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	876.556	881.322	speaker#5	male	native	教皇在华盛顿的第一个公开行程是正式造访白宫	7	26	98	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	881.322	888.547	speaker#5	male	native	布什总统和教皇两个人都有很多相同的基督教的价值观,但是在伊拉克战争方面,两个人的立场极端不同	7	26	99	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	893.971	900.658	speaker#9	female	native	在他成为教皇之前,他就相当清楚的表示过,他认为这不是一场正义的战争	7	27	101	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	900.658	906.502	speaker#9	female	native	从那个时候起,他发表的谈话就专注在流血事件造成的苦难	7	27	102	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	906.502	913.487	speaker#9	female	native	在 (()) 他就说过,不要再有暴力,不要再有流血,让他们停止他吧	7	27	103	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	913.487	925.228	speaker#5	male	native	很多美国天主教徒因为近年来许多神父性侵害 (()) 的事件,而使他们的信仰受到动摇,据估计,天主教会花了约十五亿美金与性侵害被害人达成和解	7	28	104	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	925.228	927.65	speaker#5	male	native	美国之音电视报道	7	28	105	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	939.893	941.348	Fan_Dong_Ning	female	native	好的,谢谢宝森	7	30	108	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	941.348	947.683	Fan_Dong_Ning	female	native	教皇本笃十六世明天将抵达美国,展开他出任教皇之后的第一次访美之行	7	30	109	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	947.683	955.816	Fan_Dong_Ning	female	native	布什总统夫妇将亲自到安德鲁空军基地迎接教皇,并且在白宫为教皇举行他八十一岁的寿宴	7	30	110	report	statement
+VOA_INTNLNEWS_CMN_20080414_210000	0	955.816	960.0	Fan_Dong_Ning	female	native	如此隆重的欢迎仪式也将创下美国历史的先例,究竟--	7	30	111	report	

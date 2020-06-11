@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 304.40600000000001, 345.18599999999998, 361.75200000000001, 398.565, 424.94, 536.53200000000004, 552.18100000000004, 729.90300000000002, 874.505, 1209.7349999999999, 1331.259, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	370.283	378.662	speaker#4	male	native	服务费呀是交给我们的,承认我们的物业管理的,我就从这一点来,(())	3	4	9	report	statement
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	378.662	385.080	speaker#4	male	native	人家不同意就(())服务费啦,对不对,到今年还有人主动来交呢	3	4	10	report	statement
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	525.547	536.532	speaker#11	male	native	即使我们(()),这个程序这个--这个不对,这里有不合法的地方,跟你没关系,因为你的合同到期了,自然要走	5	17	30	report	statement
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	683.887	691.825	speaker#6	male	native	如果你什么招呼都不打,你突然就一杠子就一插,(()),而且导致我们的工作进展就难度大了	7	28	45	report	statement
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	703.684	712.489	speaker#6	male	native	这个安居它现在这个服务是一毛五,现在业主委员会要炒它了,炒换了新的物业来的话,他们的收费是三毛五	7	30	47	report	statement
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	712.489	714.363	speaker#6	male	native	增加三毛五,他忽悠人家	7	30	48	report	statement
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	714.363	719.825	speaker#6	male	native	那么,在这个情况的话,就-就(()),我也可能循着一毛五啊,我也不会要三毛五啊	7	30	49	report	statement
+CCTV1_LEGALREPORT_CMN_20080326_123601	0	1094.555	1102.118	speaker#3	female	native	改制之前安居物业是房管局下属的国有企业,改制后成为股份制企业,要自负盈亏	9	49	100	report	statement

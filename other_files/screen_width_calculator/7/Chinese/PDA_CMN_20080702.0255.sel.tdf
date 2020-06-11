@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080702.0255	0	300.0	400.0	speaker	unknown	unknown	一连长常加杰、三连长吕厚桥，辗转千里在第一时间归队。	0	0	0		
+PDA_CMN_20080702.0255	0	500.0	600.0	speaker	unknown	unknown	受领进入茂县的先遣任务后，党委带领全营125名官兵，连夜带着大锤、镐锹和干粮，翻越5座坡度70度以上、绵延120多公里的大山，经历了200多处山体滑坡险情，总行程达210公里，快速进入茂县境内。	0	0	0		

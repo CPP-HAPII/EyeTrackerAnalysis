@@ -1,0 +1,499 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 37.286000000000001, 299.95699999999999, 303.97500000000002, 404.435, 411.07499999999999, 533.95899999999995, 538.59400000000005, 662.99800000000005, 667.58299999999997, 1099.039, 1138.432, 1213.8320000000001, 1235.318, 1274.8209999999999, 1279.0170000000001, 1559.8979999999999, 1566.962, 1727.0699999999999, 1786.5329999999999, 2009.2090000000001, 2014.152, 2046.502, 2050.4830000000002, 2497.5639999999999, 2506.672, 2621.4140000000002, 2873.2020000000002, 2893.7620000000002, 2935.0799999999999, 9999999.0]
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	0.000	37.286					0	0	0	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	37.286	41.660	speaker#1	male	native	非常头脑，非常风暴，欢迎各位再次来到前沿头脑风暴现场。	1	1	1	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	41.660	46.436	speaker#1	male	native	那么今天呢，我们在讨论一个比较有意思的话题~EMBA。	1	1	2	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	46.436	57.689	speaker#1	male	native	今天我们看到很多的企业的老总，他们开着车，他们在周末，或者他们在一个集中的时间到了大学校园，在生意之余，或者耽误了生意去读书。	1	1	3	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	57.689	72.144	speaker#1	male	native	那么为什么他们会对这个读这样的项目啊~EMBA这样的项目有这样的兴趣，或者说他们读了以后，在这个里面到底得到了什么，这就是我们今天头脑风暴所要关注的内容。	1	1	4	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	72.144	75.704	speaker#1	male	native	~EMBA的魅力，或者说~EMBA的价值。	1	1	5	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	75.704	83.516	speaker#1	male	native	现在让我们一起来从大屏幕上看一下~EMBA到底给我们这些同学带来了什么。	1	1	6	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	83.516	101.223	speaker#2	male	native	两年的时间，飞越了二十九万八千六百五十六公里的路程，花费了四十万元人民币，这是一名~EMBA学员完成课程所付出的代价。	1	2	7	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	101.223	107.645	speaker#2	male	native	众多的企业高管和~CU们面对这样高昂的代价，仍然抵挡不住~EMBA的强大诱惑。	1	2	8	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	107.645	115.536	speaker#2	male	native	它到底有什么样的魔力，它到底能给这些有钱人和成功者一些什么呢。	1	2	9	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	115.536	128.228	speaker#2	male	native	而中国的~EMBA班究竟有没有能力满足他们的要求，像魔法学院一样把这些充满了金钱欲望的哈里波特们变成真正的魔法师。	1	2	10	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	128.228	141.237	speaker#2	male	native	而从商学院诞生的一个个魔法师们又能不能够最终造福并推动整个中国的社会商业环境，或者说只能变成一个在商场上更加游刃有余的江湖硕士。	1	2	11	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	141.237	148.550	speaker#2	male	native	究竟是圈子更有魅力，还是文凭更有魅力，还是知识本身更有魅力。	1	2	12	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	148.550	151.206	speaker#3	male	native	呃得到一个系统的培训。	1	3	13	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	151.206	156.188	speaker#3	male	native	那第二个方面呢就是反正同学我想这个是一次很关键的一个方面。	1	3	14	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	156.188	161.478	speaker#4	female	native	要有很好的这个学员，它的学员这个来的成分比较多，多元化。	1	4	15	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	161.478	163.915	speaker#5	male	native	呃花费是比较大，但是我觉得是比较值得的。	1	5	16	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	163.915	171.365	speaker#6	male	native	那么我最想得到的是从各个领域的里面得到管理和那个市场方面的经验。	1	6	17	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	171.365	182.825	speaker#7	female	native	我在一个呃共同的一个管理平台上有不同的呃社会的一些比较大的大型企业的管理人员，然后呃还有一些就是说政府的一些官员那。	1	7	18	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	182.825	187.184	speaker#8	male	native	公司发展到一定程度，感觉有一个瓶颈，希望有一个系统的提升。	1	8	19	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	187.184	191.927	speaker#9	male	native	就希望通过这里学习呢能够系统的提高这个管理上面的能力。	1	9	20	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	191.927	194.981	speaker#10	male	native	呃自己的一个管理能力的一个全面的一个提高。	1	10	21	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	194.981	197.727	speaker#6	male	native	老师创造这个平台，这个平台很值钱。	1	11	22	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	197.727	203.868	speaker#1	male	native	我们讨论今天这样一个话题，我想非常有发言权的是我们今天在座的三方。	1	12	23	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	203.868	206.414	speaker#1	male	native	首先是我们请来的这个非常嘉宾的这一组。	1	12	24	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	206.414	213.756	speaker#2	male	native	本期风暴嘉宾，宾夕法尼亚大学沃顿商学院常务副院长，市场营销学教授。	1	13	25	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	213.756	217.928	speaker#2	male	native	获哥伦比亚大学商科研究硕士学位和博士学位。	1	13	26	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	217.928	220.959	speaker#2	male	native	一九八零年加入沃顿商学院的教授行列。	1	13	27	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	220.959	223.818	speaker#2	male	native	两千年起担任沃顿商学院常务副院长。	1	13	28	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	223.818	231.827	speaker#2	male	native	他在评估企业市场营销行为，设计市场营销和调研，互动市场策略方面的研究已为世人瞩目。	1	13	29	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	231.827	237.139	speaker#2	male	native	张维迎，北京大学光华管理学院副院长，经济学教授。	1	13	30	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	237.139	243.496	speaker#2	male	native	一九八二年西北大学经济学本科毕业，一九九四年获得牛津大学经济学博士学位。	1	13	31	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	243.496	245.809	speaker#2	male	native	回国之后到北京大学工作。	1	13	32	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	245.809	250.758	speaker#2	male	native	是国内最早提出并系统论证双轨制价格改革思路的学者。	1	13	33	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	250.758	258.698	speaker#2	male	native	被公认为中国经济学界企业理论的权威，曾当选为~CCTV二零零二年中国经济年度人物。	1	13	34	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	258.698	266.232	speaker#2	male	native	张维炯，中欧国际工商学院副院长，战略学教授，民营企业研究中心主任。	1	13	35	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	266.232	272.950	speaker#2	male	native	求学于加拿大不列颠哥伦比亚大学商学院，获得市场学硕士学位和企业战略博士学位。	1	13	36	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	272.950	281.076	speaker#2	male	native	目前主要从事中国民营企业，商业环境的不确定性和战略，以及内部价格转移等方面的研究。	1	13	37	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	281.076	284.972	speaker#1	male	native	呃我们同样在这里面还请来了三位非常嘉宾。	1	14	38	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	284.972	290.957	speaker#2	male	native	本期风暴评论员，甄荣辉，前程无忧网总裁兼~CEO。	1	15	39	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	290.957	295.425	speaker#2	male	native	金炜，新天国际经贸股份有限公司副总裁。	1	15	40	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	295.425	299.957	speaker#2	male	native	文武，上海高和有色金属有限公司董事长。	1	15	41	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	299.957	303.975					2	16	42	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	303.975	308.109	speaker#1	male	native	这个我们上来以后就先问一个问题是给我们三位院长。	3	17	43	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	308.109	314.781	speaker#1	male	native	这个三位院长告诉我们一下，你们觉得这个教商学院里面的~MBA和~EMBA哪一个更轻松。	3	17	44	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	314.781	316.910	Zhang_Wei_Jiong	male	native	那当然是~MBA比较轻松了。	3	18	45	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	316.910	317.753	speaker#1	male	native	为什么？ 	3	19	46	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	317.753	322.041	Zhang_Wei_Jiong	male	native	因为~MBA的话它很多的基础知识你可以教他。	3	20	47	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	322.041	324.260	Zhang_Wei_Jiong	male	native	那么基础知识呢相对比较容易一点。	3	20	48	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	324.260	328.394	Zhang_Wei_Jiong	male	native	~EMBA呢它那个战略层面的东西要讲的比较多。	3	20	49	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	328.394	330.715	speaker#1	male	native	你说容易的意思就是说你说什么他信什么。	3	21	50	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	330.715	332.766	Zhang_Wei_Jiong	male	native	呃一般是这样的。	3	22	51	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	332.766	337.888	Zhang_Wei_Jiong	male	native	关键是呢~EMBA还一个难点，什么难点呢就是下面坐的全是专家。	3	23	52	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	332.766	337.888	speaker#1	male	native	嗯，嗯。	3	23	53	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	337.888	344.644	Zhang_Wei_Jiong	male	native	我们~EMBA同学当中很多都是老总，那么老总呢他在本身他这个领域里面他是很懂的。	3	23	54	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	337.888	344.644	speaker#1	male	native	嗯，嗯，~OK。	3	23	55	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	344.644	348.650	Zhang_Wei_Jiong	male	native	所以呢你一要教他的话，你得比他更懂，所以这个难度就非常高。	3	23	56	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	344.644	348.650	speaker#1	male	native	嗯。	3	23	57	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	348.650	360.680	Zhang_Wei_Jiong	male	native	呃如果说你没有金刚钻，这个瓷器活你是没法揽的了，是吧。	3	23	58	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	348.650	360.680	speaker#1	male	native	你比如说你一般这个刚开始给~EMBA讲课，是不是比如很多老师这个腿会打颤那什么之类的这些现象，嗯。	3	23	59	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	360.680	361.960	speaker#1	male	native	这位张院长。	3	24	60	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	361.960	370.301	Zhang_Wei_Ying	male	native	呃其实不一定是吧，因为一般来讲可能张院长讲的对，但是像有些课的话，可能给~EMBA讲更容易一些。	3	25	61	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	370.301	379.409	Zhang_Wei_Ying	male	native	比如说讲战略，那么因为好多~MBA学生他没有做过战略，所以你跟他讲战略的话，相对就比较难一些。	3	26	62	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	370.301	379.409	speaker#1	male	native	比如说，嗯，嗯。	3	26	63	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	379.409	390.530	Zhang_Wei_Ying	male	native	而~EMBA学生因为他本身是高层，他做过好多战略决策，所以你给他讲这些知识，他很容易的这个有共鸣，啊所以这时候效果可能更好。	3	26	64	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	379.409	390.530	speaker#1	male	native	嗯，嗯。	3	26	65	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	390.530	398.521	Zhang_Wei_Ying	male	native	啊所以可能我的意思就是说，在不同的课来讲，给~MBA，~EMBA讲难度可能呃有时候~MBA难，有时候~EMBA难。	3	26	66	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	390.530	398.521	speaker#1	male	native		3	26	67	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	398.521	402.076	speaker#1	male	native	你-你比如说你在你看来什么样的课给~EMBA讲是比较难的？ 	3	27	68	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	402.076	403.733	Zhang_Wei_Ying	male	native	哦对我来讲什么都不难。	3	28	69	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	403.733	404.435	speaker#1	male	native	哦。	3	29	70	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	404.435	411.075					4	30	71	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	411.075	412.471	speaker#1	male	native	 <foreign lang="English"> </foreign>	5	31	72	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	412.471	441.557	speaker#14	male	nonnative	 <foreign lang="English"> </foreign>	5	32	73	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	441.557	450.089	speaker#1	male	native	好，这个问题我想呢请那个文武，因为你现在正在这个读书哈，呃以你的观察，你觉得这个老师们在教你的时候，你觉得他们累吗？ 	5	33	74	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	450.089	451.948	Wen_Wu	male	native	我觉得挺轻松的。	5	34	75	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	451.948	453.948	speaker#1	male	native	挺轻松的，为什么？ 	5	35	76	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	451.948	453.948	Wen_Wu	male	native	嗯。	5	35	77	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	453.948	458.003	speaker#1	male	native	我觉得为什么他们轻松？	5	35	78	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	453.948	458.003	Wen_Wu	male	native	因为我-我的观点是觉得教~EMBA比较简单。	5	35	79	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	458.003	468.478	speaker#1	male	native	嗯，嗯。	5	35	80	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	458.003	468.478	Wen_Wu	male	native	为什么教~EMBA比较简单，他经常我们举到一个公司的例子，可是这个公司老总就在这个下头坐着，然后他呀老师如果比较聪明点就诱导他来讲。	5	35	81	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	468.478	476.583	speaker#1	male	native	嗯，哦，嗯。	5	35	82	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	468.478	476.583	Wen_Wu	male	native	他把老师该讲的内容他全部讲了，然后同学再去反驳他，这老师就很轻松了 {laugh} 。	5	35	83	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	476.583	479.898	speaker#1	male	native	张院长说的正好相反，张院长感觉是教你们都挺累的。	5	36	84	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	479.898	488.239	Zhang_Wei_Jiong	male	native	是，问题在什么地方呢，问题在于就是你没有这样在台上看过，因为你看到的老师他做好很多准备以后，你看他很轻松。	5	37	85	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	488.239	490.926	Zhang_Wei_Jiong	male	native	但是像我是知道的，因为我经常和老师交流。	5	37	86	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	490.926	498.857	Zhang_Wei_Jiong	male	native	那么和老师交流情况下来看的话，就是教~EMBA，尤其是教你们这些成功企业家组成班的~EMBA，那确实是很累。	5	37	87	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	498.857	510.387	speaker#1	male	native	我想请请我们这两位，你们是属于啊没有课读了啊，呃这个金总，您觉得，你就这么乱想吧，你反正也没上过，没有经验。	5	38	88	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	510.387	518.570	speaker#1	male	native	呃你觉得这个老师教-教如果教你们企业家，比如万一你去上学了，你觉得你的感觉会跟文武是一样的吗？ 	5	38	89	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	518.570	523.900	Jin_Wei	male	native	我个人的感觉是教~EMBA应该比教~MBA容易。	5	39	90	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	523.900	531.310	Jin_Wei	male	native	因为你看我们的~EMBA各个都是底蕴比较深厚，目光如电，因此呢一点就通。	5	39	91	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	531.310	533.959	speaker#1	male	native	呃怎么大家都听完以后夸你们都不鼓掌。	5	40	92	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	533.959	538.594					6	41	93	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	538.594	539.782	speaker#1	male	native	甄总您的看法呢？ 	7	42	94	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	539.782	549.738	Zhen_Shi_Hui	male	native	好像~MBA简单一点吧我觉得，我-我还年轻的时候去学~MBA，什么都不懂，老师说什么你都听，都相信。	7	43	95	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	539.782	549.738	speaker#1	male	native	为什么？ 	7	43	96	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	549.738	559.039	Zhen_Shi_Hui	male	native	对吧也，他说对了，说错了，你也不知道，然后给你--给你个期望，你学了以后你就可以去当老总了。	7	43	97	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	549.738	559.039	speaker#1	male	native	这跟刚才我们张-张院长说法一样，对，好抚弄就是。	7	43	98	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	559.039	561.914	Zhen_Shi_Hui	male	native	那所以呢学生都很听话的，很兴奋的。	7	43	99	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	559.039	561.914	speaker#1	male	native	嗯。	7	43	100	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	561.914	574.724	Zhen_Shi_Hui	male	native	我在想现在我还没学那个~EMBA了，那我今天遇到那么多问题，我想要是我去学一个~EMBA的话，把我现在每天遇到的管理问题提出来，我都头疼了，我在想那个老师怎么可能不头疼。	7	43	101	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	561.914	574.724	speaker#1	male	native	嗯嗯。	7	43	102	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	574.724	575.880	speaker#1	male	native	是不是有这样的问题？ 	7	44	103	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	575.880	590.740	Zhang_Wei_Jiong	male	native	呃老师--老师呢不会头疼，但是老师呢会看到更多的东西，你可能提出问题是你-你遇到的，老师呢就要了解十个二十个像你这样头疼的问题，那么他呢就相对不头疼一点，头就不痛了。	7	45	104	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	575.880	590.740	speaker#1	male	native	比如说你-你来判断学生 -- 	7	45	105	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	590.740	593.921	Zhang_Wei_Jiong	male	native	但是他的问题就是什么呢，就花更多的时间去准备，去了解。	7	46	106	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	593.921	600.047	speaker#1	male	native	呃甄总，我给你现场一个测试，你提一个问题，就是让你很头疼的，让我们看看现场考他一下，比如说。	7	47	107	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	600.047	606.156	Zhen_Shi_Hui	male	native	比如说那个-那个-那个员工，我们上市以后，好多猎头公司来挖我们员工。	7	48	108	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	606.156	608.477	Zhen_Shi_Hui	male	native	那你到底是工资是提还是不提呢。	7	48	109	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	608.477	610.289	Zhen_Shi_Hui	male	native	你提工资你的成本涨上去了。	7	48	110	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	610.289	615.789	Zhen_Shi_Hui	male	native	你不提工资因为你现在上市了嘛，知名度高了嘛，猎头公司都盯着你来挖了，那你怎么办呢。	7	48	111	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	615.789	623.239	Zhang_Wei_Jiong	male	native	那么有-有两个措施，一个措施呢就是你-你为你的员工提供非常好的一个职业发展机会。	7	49	112	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	623.239	632.365	Zhang_Wei_Jiong	male	native	在企业里面形成非常好的文化，然后呢把你的企业呢整个工作环境弄成像一个家庭一样，那么这样呢就容易相对的就比较容易留住人了。	7	49	113	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	632.365	643.478	Zhang_Wei_Jiong	male	native	还一个办法就是什么呢，你-你对那个企业员工提-提供一个比较好的一个激烈机制，是吧，他做得好了，他就应该拿多了，这样你人也就留下了。	7	49	114	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	643.478	647.457	speaker#1	male	native	我们再请这位张院长你-你对这个问题你有什么看的？ 	7	50	115	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	647.457	650.929	Zhang_Wei_Ying	male	native	呃我觉得有些员工他想走，应该让他走。	7	51	116	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	650.929	657.112	Zhang_Wei_Ying	male	native	因为你过分的给他提工资的话，会使得其他人呢非常的不平衡是吧。	7	51	117	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	657.112	662.998	Zhang_Wei_Ying	male	native	所以你不要想留住每一个人，企业只留住认同自己理念的人。	7	51	118	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	662.998	667.583					8	52	119	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	667.583	677.736	Zhang_Wei_Ying	male	native	所以我-我告诉你一点啊，教~EMBA和教~MBA百分之八十五的东西都是一样的，只有那百分之十五是不一样的。	9	53	120	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	677.736	682.635	Zhang_Wei_Ying	male	native	就像你吃面条，那面条是一样的，它的调料不一样，那味道就不一样。	9	53	121	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	682.635	688.026	Zhang_Wei_Ying	male	native	所以说谁有本事，能力占我那百分之十五，谁就是最好的老师。	9	53	122	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	688.026	689.573	speaker#1	male	native	这个百分之十五是什么呢？ 	9	54	123	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	689.573	702.501	Zhang_Wei_Ying	male	native	哎就是你好多年的一种感觉，对吧，就是同样的知识你从不同的角度怎么的角度切入它， (()) 。	9	55	124	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	689.573	702.501	speaker#1	male	native	听起来就像就是说，像你刚才这样的这种是吧修炼了那么多年以后，掌握的那个东西就是百分之十五。	9	55	125	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	702.501	709.282	Zhang_Wei_Ying	male	native	嗯 {laugh} 差不多。	9	55	126	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	702.501	709.282	speaker#1	male	native	 {laugh} 。	9	55	127	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	709.282	713.001	speaker#1	male	native	弄了半天，原来我们张院长在销售自己哈 {cough} 。	9	56	128	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	713.001	718.497	Zhang_Wei_Jiong	male	native	这么说吧，那个~MBA是八段选手，~EMBA十段选手。	9	57	129	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	713.001	718.497	speaker#1	male	native	嗯，哄呵。	9	57	130	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	718.497	729.064	speaker#1	male	native	现在我的问题是，以我们这样的一个就是跟~EMBA这样的一个教学的一个特点，我们掐的那么多钱到底在什么地方。	9	58	131	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	729.064	734.674	speaker#1	male	native	按理按我们那两位的看法的话，应该是很轻松的，轻松的就不应该花那么多钱。	9	58	132	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	734.674	743.930	speaker#1	male	native	按我们 {noise} 刚才你的观点的话，他们都可以 {noise}，那意思是说应该是好像我们要倒派他钱，因为他们自己都帮我们当了老师。	9	58	133	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	743.930	748.526	speaker#1	male	native	所以为什么反而掐的大家的钱比那个~MBA高那么多呢？ 	9	58	134	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	748.526	754.849	Zhang_Wei_Ying	male	native	呃我想一个当然它直接的成本啊就很高是吧。	9	59	135	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	754.849	760.178	Zhang_Wei_Ying	male	native	第二的话，你像你，我刚才就说的修炼，这个修炼是需要成本累计起来的。	9	59	136	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	760.178	764.397	Zhang_Wei_Ying	male	native	就像我们培养一个好的老师，那需要若干年的时间。	9	59	137	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	764.397	770.982	Zhang_Wei_Ying	male	native	哦所以它-它 --	9	60	138	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	764.397	770.982	speaker#1	male	native	那维-维迎你是不是这样，你那个修炼你是平时不秀给你们那个光华管理--管理学院的~MBA的。	9	60	139	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	770.982	774.653	Zhang_Wei_Ying	male	native		9	60	140	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	770.982	774.653	speaker#1	male	native	你只有因为大家派钱比较多，所以我专秀给~EMBA的？ 	9	60	141	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	774.653	786.341	Zhang_Wei_Ying	male	native	没有，我-我只就说你这个知识的积累啊，好比说一个好的筛选，他就要创造知识，这些人可能他大量时间不是在教-教我们的学生，而他要进行好多的研究，。	9	60	142	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	774.653	786.341	speaker#1	male	native	嗯，嗯。	9	60	143	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	786.341	797.890	Zhang_Wei_Ying	male	native	因为他要讲好一个案例，他要进行大量的调研活动，啊他要学好多的理论，也就说我们在培养老师，培养一个优秀的老师这个成本就是非常大的。	9	60	144	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	786.341	797.890	speaker#1	male	native	嗯。	9	60	145	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	797.890	799.810	speaker#1	male	native	张院长您呢？ 	9	61	146	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	799.810	808.571	Zhang_Wei_Jiong	male	native	这个~EMBA的老师啊他除了给我们~EMBA讲课以外，外面还有很多企业的咨询机会，讲课机会非常多。	9	62	147	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	799.810	808.571	speaker#1	male	native	嗯。	9	62	148	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	808.571	816.207	Zhang_Wei_Jiong	male	native	那么你-你要让-让他在外面的那么好的机会放弃，到你这儿来给你讲课，这不是就机会成本。	9	62	149	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	808.571	816.207	speaker#1	male	native	嗯，嗯。	9	62	150	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	816.207	822.036	Zhang_Wei_Ying	male	native	机会成本高，所以你要有个市场价码对吧，如果你不付足够高的工资，那老师都跑了。	9	63	151	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	816.207	822.036	speaker#1	male	native	嗯，对。	9	63	152	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	822.036	836.273	Zhang_Wei_Ying	male	native	我-我要强调一点啊，这个一个~EMBA它是一个产品的终端，这-这上游有好多个生产环节，这些环节是没有办法收费的，所以我们只能从终端收的费逐步的往后转移。	9	63	153	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	822.036	836.273	speaker#1	male	native	嗯，嗯，嗯。	9	63	154	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	836.273	844.883	Zhang_Wei_Ying	male	native	就说我们要不这个教育看成一个价值链，就是 {noise} ，而不是一个简单的~EMBA教育的环境。	9	63	155	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	836.273	844.883	speaker#1	male	native	~OK，谢谢。	9	63	156	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	844.883	858.805	speaker#1	male	native	这个我们谢谢两位张院长给我们的解释，这个 {noise} ，你们的这个高收费的 {noise} 或者说它的基础，或者它的原因，也是这样的因素吗？ 	9	64	157	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	858.805	888.407	speaker#14	male	nonnative	 <foreign lang="English"> </foreign>	9	65	158	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	888.407	894.216	speaker#1	male	native	这个文董，您是这个交了这钱的是吧，你到目前为止，你感到这学上的划算吗？ 	9	66	159	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	894.216	895.670	Wen_Wu	male	native	呃非-非常划算。	9	67	160	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	895.670	896.333	speaker#1	male	native	非常划算。	9	68	161	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	896.333	896.801	Wen_Wu	male	native	对。	9	69	162	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	896.801	897.692	speaker#1	male	native	呃为什么？ 	9	70	163	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	897.692	900.245	Wen_Wu	male	native	因为 -- 	9	71	164	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	897.692	900.245	speaker#1	male	native	你-你是不是觉得钱还交少了。	9	71	165	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	900.245	916.727	Wen_Wu	male	native	我感觉到它这个~EMBA的最大的魅力所在是它给这些企业家，尤其中国现代的企业家非常就是说急于成功的，比较在这内心比较充满骚动的这种企业家呀给他们了一个就说轻松的环境。	9	71	166	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	900.245	916.727	speaker#1	male	native	因为你讲了非常，嗯。	9	71	167	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	916.727	926.606	Wen_Wu	male	native	呃怎么讲给轻松环境，就是他教你的都是授权，教你的沟通，教你的团队协作，这本身这内容啊就像人体的一样这血液循环是个系统。	9	72	168	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	926.606	937.256	Wen_Wu	male	native	还有一个，他在里头这个圈子里头啊，他等于是说让你们大家整个人来说感觉到没有竞争，而且就又在一个层面上，可以彻底放松。	9	72	169	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	937.256	939.230	speaker#1	male	native	创造了一种新的社会关系。	9	73	170	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	937.256	939.230	Wen_Wu	male	native	呃对。	9	73	171	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	939.230	954.199	Wen_Wu	male	native	 (()) 就像我们有很多我们看到很多女同学啊都特别可爱，就像邻家的小妹一样，就像-像个白天鹅，像个梅花鹿，哎但是一到了他企业以后，到了不-不-不敢餐 {laugh} 。	9	74	172	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	939.230	954.199	speaker#1	male	native	嗯，嗯，秀色可餐， {laugh} 。	9	74	173	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	954.199	963.932	Wen_Wu	male	native	为啥不敢餐呀，因为到了她企业里头一看呀，发现这个女企业家对她的部下特别严厉，而且后来突然发现是只老虎。	9	75	174	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	963.932	969.207	Wen_Wu	male	native	呃，我，不是母老虎， (()) 感-感觉到就是说让你不寒而栗。	9	76	175	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	963.932	969.207	speaker#1	male	native	母老虎。	9	76	176	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	969.207	980.769	Wen_Wu	male	native	而且有时候发现也不是白天鹅了，她在这，平时在学校跟男同学她都能湖上轻松的游艺，到了企业-企业的时候一看她像只老鹰，她的心胸比男同学还高。	9	77	177	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	980.769	989.597	Wen_Wu	male	native	哎就使我感觉到，但是说~EMBA给这些女同学，就说创造了她当白天鹅，当梅花鹿的这个机会，使她很轻松。	9	77	178	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	989.597	1000.957	speaker#1	male	native	这个哎哟给女同学创造了白天鹅，梅花鹿的机会，让男同学创造了看风景的机会 {laugh} 。	9	78	179	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1000.957	1006.633	Zhang_Wei_Ying	male	native	我要补充一点，其实你说这值不值啊，对不同的人呢答案是不一样的。	9	79	180	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1000.957	1006.633	speaker#1	male	native	嗯，对。	9	79	181	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1006.633	1017.013	Zhang_Wei_Ying	male	native	越是优秀的人她就越值，是吧，因为这个她 (())。	9	79	182	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1006.633	1017.013	speaker#1	male	native	这话--这话狠啊，这话就封杀了你们 {laugh} 。	9	79	183	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1017.013	1024.368	Zhang_Wei_Ying	male	native	他-他在这个两年期间能学到什么东西，与他本身的素质有很大的关系，所以你不能讲这值不值。	9	79	184	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1017.013	1024.368	speaker#1	male	native		9	79	185	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1024.368	1033.437	speaker#1	male	native	你都听完张维迎教授的课了，你还觉得不值，那问题肯定在你那 {laugh} 。	9	80	186	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1033.437	1042.774	speaker#1	male	native	金总，呃您这个属于没上过的，你就作为一个旁观者，或者你就是 (()) 我想你见识也不少，您觉得值不值。	9	81	187	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1033.437	1042.774	Jin_Wei	male	native	嗯。	9	81	188	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1042.774	1044.980	Jin_Wei	male	native	呃 {cough} 我觉得还是有点冤。	9	82	189	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1044.980	1054.508	Jin_Wei	male	native	刚才两位这个院长已经把谜底已经交给我们了，这里面一部分的消费税要转到我企业头上，我觉得还是有点不值。	9	82	190	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1054.508	1064.516	Jin_Wei	male	native	就它主要的价格，呃好像有点性价比比较低，你那调料卖的贵了，那调料便宜些的话，我想甄总我们都会加入。	9	82	191	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1064.516	1066.238	Zhen_Shi_Hui	male	native	嗯，一五折。	9	83	192	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1066.238	1068.359	Jin_Wei	male	native	啊 {laugh} 。	9	84	193	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1068.359	1078.392	speaker#1	male	native	呃有-有便宜的 {laugh} 。	9	85	194	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1078.392	1087.114	Jin_Wei	male	native	呃其实呢我觉得在这个比如中欧商学院，呃有一些单门的课，我们经常派人去学。	9	86	195	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1087.114	1099.039	Jin_Wei	male	native	但是呢我们作为企业来讲啊，呃有的时候想吃红烧大排或者咸猪手，但你把整个猪都卖给我了，我觉得有点贵了 {laugh} 。	9	86	196	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1099.039	1138.432					10	87	197	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1138.432	1148.774	speaker#1	male	native	其实我觉得刚才我们大家看这个呃前面那个大屏幕的时候，呃它是有个故事哈，讲我们有一位女同学啊我们有同学这个飞了多少万公里，花多少钱来读书。	11	88	198	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1148.774	1156.384	speaker#1	male	native	我们今天在现场这个呃我们的主人公哈林真小姐，呃您来给我们讲讲您觉得值不值？ 	11	88	199	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1156.384	1165.510	Lin_Zhen	female	native	我想第一个我想这个要正确一下这是一百万公里，对，两年之间，那我觉得完全值得，因为 -- 	11	89	200	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1156.384	1165.510	speaker#1	male	native	哦一百万公里，比红军走得远多了。	11	89	201	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1165.510	1169.567	Lin_Zhen	female	native	那我想从那个投资上面来讲，那的确是一个非常大的投资。	11	90	202	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1169.567	1179.088	Lin_Zhen	female	native	但是那个整个投资的回报，完全就已经能够呃 {noise} 我们就是讲这个学费的地方，所以如果只是从投资的这个角度讲，我觉得这个是非常值得。	11	90	203	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1179.088	1186.234	Lin_Zhen	female	native	但是我觉得就学生来讲，就去上~EMBA的学生来讲，他的那个投资的回报率更大，因为他是长期的。	11	90	204	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1186.234	1193.196	Lin_Zhen	female	native	因为你今天不是只是进去，我这个做两年我做管理者出来，你是打算你要做管理者，你现在就做很好的领导。	11	90	205	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1193.196	1196.712	Lin_Zhen	female	native	那么这个从长期投资的角度来讲，这就完全值得。	11	90	206	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1196.712	1207.005	speaker#1	male	native	我们听完了少数典型的发言之后，我们现在来请大家一起来投个票，你们觉得划算不划算啊。	11	91	207	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1207.005	1208.849	speaker#1	male	native	觉得划算的~A。	11	91	208	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1208.849	1210.255	speaker#1	male	native	不划算的~B。	11	91	209	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1210.255	1211.818	speaker#1	male	native	说不清的~C。	11	91	210	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1211.818	1213.832	speaker#1	male	native	呃拿起我们的投票器。	11	91	211	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1213.832	1235.318					12	92	212	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1235.318	1240.450	speaker#1	male	native	咱们来一个小风暴啊，这个说划算的呃什么让你觉得划算？ 	13	93	213	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1240.450	1242.872	speaker#1	male	native	呃哪位跟我们分享，哎这位。	13	93	214	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1242.872	1245.618	speaker#19	male	native	我之所以觉得它划算是六个字。	13	94	215	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1245.618	1246.055	speaker#1	male	native	嗯。	13	95	216	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1246.055	1247.868	speaker#19	male	native	第一个字是圆梦。	13	96	217	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1247.868	1249.881	speaker#19	male	native	就圆了我上北大的梦想。	13	96	218	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1249.881	1250.365	speaker#1	male	native	嗯。	13	97	219	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1250.365	1251.491	speaker#19	male	native	第二是解惑。	13	98	220	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1251.491	1251.961	speaker#1	male	native	嗯。	13	99	221	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1251.961	1255.863	speaker#19	male	native	就是师者呃所以传道授业解惑也。	13	100	222	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1255.863	1256.254	speaker#1	male	native	嗯。	13	101	223	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1256.254	1262.856	speaker#19	male	native	我参加了二十多年的工作，有很多的困惑，但是我在北大得到了圆满的回答。	13	102	224	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1262.856	1263.278	speaker#1	male	native	嗯。	13	103	225	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1263.278	1264.558	speaker#19	male	native	第三交友。	13	104	226	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1264.558	1265.058	speaker#1	male	native	嗯。	13	105	227	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1265.058	1274.821	speaker#19	male	native	我认识了北大三百名的精英，这也是我人生可能新的开始的一个很大的一个财务，所以我觉得值，谢谢。	13	106	228	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1265.058	1274.821	speaker#1	male	native	嗯，谢谢。	13	106	229	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1274.821	1279.017					14	107	230	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1279.017	1282.314	speaker#1	male	native	哪一位再来跟我们分享觉得值的，这个方阵中间我们再找一位。	15	108	231	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1282.314	1284.751	speaker#1	male	native	哪位，~OK，旁边的。	15	108	232	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1284.751	1296.165	speaker#20	male	native	啊我之所以觉得值的话，是因为我到这个平台上认识了，找到了许多跟我完全原来的生活，或者工作方式完全不相同的朋友们。	15	109	233	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1296.165	1306.860	speaker#20	male	native	如果不上~EMBA的这个-这个--这个项目的话，我可能要花二十年的时间去认识这些俊杰，那现在这里我两年就可以了。	15	109	234	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1306.860	1310.826	speaker#20	male	native	而且两年以后话，我一辈子可以受用于这个资源。	15	109	235	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1310.826	1311.654	speaker#1	male	native	谢谢。	15	110	236	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1311.654	1324.040	speaker#1	male	native	但是毕竟在我们现场有百分之五的学员，也就是说按我们现场总人数有七个这个学员你是觉得不值的，啊不划算的。	15	110	237	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1324.040	1326.790	speaker#1	male	native	哪位愿意跟我们说说的。	15	110	238	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1326.790	1334.260	speaker#21	male	native	呃我觉得这个问题我选的是不值，因为我觉得第一这个问题呢，你需要区别就对谁来问这个问题。	15	111	239	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1326.790	1334.260	speaker#1	male	native	嗯嗯。	15	111	240	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1334.260	1338.557	speaker#21	male	native	那像我们是已经念过~MBA的，那去念~EMBA很大程度上是浪费钱。	15	111	241	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1334.260	1338.557	speaker#1	male	native		15	111	242	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1338.557	1346.045	speaker#21	male	native	所以说你我觉得这个问题提出来呢，首先你对听众是一个 {laugh} ，这里面的大部分都是现在在读~EMBA的。	15	111	243	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1338.557	1346.045	speaker#1	male	native	哦。	15	111	244	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1346.045	1356.194	speaker#21	male	native	然后我觉得还有一点是需要问一下的是，不是，我觉得你要问一下就当中有多少人是自己付这个钱的，才能来决定这个是不是值。	15	111	245	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1346.045	1356.194	speaker#1	male	native	好像是我这个问题提的不太对，~OK，哦。	15	111	246	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1356.194	1359.942	speaker#1	male	native	好，谢谢。	15	112	247	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1359.942	1362.084	speaker#1	male	native	那我下面就来问这个问题了啊。	15	112	248	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1362.084	1368.694	speaker#1	male	native	你们有多少人是自己付自己的钱，来上这个~EMBA的，举手我看看。	15	112	249	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1368.694	1381.211	speaker#1	male	native	呃大概占了呃这个二分之一啊，总量二分之一，但我注意到，北大光环的这个同学好像这个付自己的钱呢比较多一点。	15	112	250	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1381.211	1394.059	speaker#1	male	native	刚才因为这个-这个同学提到了就说读过~MBA的，可能读~EMBA不太值，这个甄士慧先生是比较有一点发言权，你是读过~MBA的，你觉得是不是~EMBA没什么让你吸引你的地方。	15	112	251	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1394.059	1399.542	Zhen_Shi_Hui	male	native	听了听-听，本来我还想下个礼拜去报名的 {laugh} ，我听了他说我就肯定不用去了。	15	113	252	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1399.542	1400.277	speaker#1	male	native	哦。	15	114	253	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1400.277	1412.258	Zhen_Shi_Hui	male	native	因为我想--我想其实--其实~MBA或者是~EM-~EMBA对于没有读过的其实是蛮有帮助的，就说给你一个很全面的对所有的管理，不同的呃领域的东西有一个基本的了解。	15	115	254	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1412.258	1418.274	Zhen_Shi_Hui	male	native	那你学过~MBA以后，再去学~EMBA我觉得可能是那个意义可能不一定很大的。	15	115	255	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1418.274	1426.919	Zhen_Shi_Hui	male	native	其实在-在我们呃可能在国外比较多的那种叫 {noise} ，可能都是比较短，呃针对一个很-很具体的题目，对。	15	116	256	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1418.274	1426.919	speaker#1	male	native	专门的问题，嗯。	15	116	257	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1426.919	1439.613	Zhen_Shi_Hui	male	native	比如说你让我去呃学一个比如说两个礼拜，三个礼拜，针对一个非常比如说那个收购合并一个题目，我觉得是值的，但是再去学一个~EMBA {sneeze} 那个还是看价格吧。	15	116	258	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1426.919	1439.613	speaker#1	male	native	嗯。	15	116	259	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1439.613	1446.457	speaker#1	male	native	~OK，呃关于这个话题我想问三位院长这个是不是成立，就是假定说，他们已经读过~MBA了，就不用读~EMBA了。	15	117	260	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1446.457	1448.123	Zhang_Wei_Ying	male	native	一般是那样。	15	118	261	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1448.123	1449.248	Zhang_Wei_Ying	male	native	嗯。	15	119	262	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1448.123	1449.248	speaker#1	male	native	一般是那样。	15	119	263	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1449.248	1459.902	Zhang_Wei_Ying	male	native	但你好比你读~MBA的时候年龄很小，有些东西其实你没有很好的理解，所以你再读~EMBA的时候，你有高层工作经验之后，你的感觉是完全不一样。	15	119	264	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1449.248	1459.902	speaker#1	male	native	嗯。	15	119	265	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1459.902	1464.344	Zhang_Wei_Ying	male	native	.就像我们小时候看红楼梦，现在再看红楼梦，感觉完全不一样。	15	119	266	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1459.902	1464.344	speaker#1	male	native		15	119	267	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1464.344	1475.646	Zhang_Wei_Jiong	male	native	就是那个~MBA我刚才说了是八级，比如说你考-考钢琴的话，你考过八级，你如果没有去找好很好的老师教你，你自己练，你会练很长时间你也能考到十级。	15	120	268	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1475.646	1479.393	Zhang_Wei_Jiong	male	native	但是你如果说找一个很好的老师来辅导你，你很快就把十级考过了。	15	120	269	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1479.393	1483.970	Zhang_Wei_Jiong	male	native	所以呢我认为就是一段时间当中，八级和十级当中还是有差距的。	15	120	270	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1483.970	1484.942	speaker#1	male	native	所以还是有必要来读。	15	121	271	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1484.942	1485.567	Zhang_Wei_Jiong	male	native	还是有必要。	15	122	272	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1485.567	1487.301	speaker#1	male	native	 <foreign lang="English"> </foreign>	15	123	273	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1487.301	1509.789	speaker#14	male	nonnative	<foreign lang="English"> </foreign>	15	124	274	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1509.789	1516.976	speaker#1	male	native	呃我们在座的有哪一些哈你们曾经读过~MBA，后来又跑去读了~EMBA的举手我看有没有，有没有这样的。	15	125	275	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1516.976	1527.598	speaker#1	male	native	哎我们还真有一个啊，还有吗，好你来--你来说说看，你这个读了这个~MBA是不是由八段现在升为九段半或者十段。	15	125	276	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1527.598	1533.197	speaker#22	male	native	呃在零零年我~MBA已经毕业了，在读的过程中对企业受益很大。	15	126	277	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1533.197	1533.536	speaker#1	male	native	嗯。	15	127	278	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1533.536	1538.711	speaker#22	male	native	因为前提啊我是公费的，我是单位给我掏钱读的~EMBA的。	15	128	279	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1538.711	1541.665	speaker#22	male	native	所以说从我个人角度来讲，我觉得非常值。	15	128	280	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1541.665	1549.169	speaker#22	male	native	因为我学了很多知识，呃老师讲授很多知识，使-使我在这个在领导岗位 (()) 发挥很大的作用。	15	129	281	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1541.665	1549.169	speaker#1	male	native	嗯。	15	129	282	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1549.169	1559.898	speaker#22	male	native	那么同时呢我觉得也很困惑，就是说我这是国有企业，我每听--每听一个案例，老师每讲个理论，在我们东北的国有企业，哪个都不适合。	15	130	283	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1559.898	1566.962					16	131	284	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1566.962	1571.867	speaker#22	male	native	我觉得从我个人角度非常值值得，因为单位给我掏了钱，我学了这么多知识。	17	132	285	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1571.867	1580.127	speaker#22	male	native	那么从不值角度呢，就是我学了那么多知识呢，暂时在我那企业都用不上，所以呢我很困惑。	17	132	286	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1580.127	1582.371	speaker#1	male	native	谢谢。	17	133	287	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1582.371	1586.505	speaker#1	male	native	这个张院长你给我们评点一下。	17	133	288	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1586.505	1595.025	Zhang_Wei_Ying	male	native	其实我经常讲啊人干事情都有耐心，有些知识可以马上运用，有些知识要以后才能运用。	17	134	289	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1595.025	1599.762	Zhang_Wei_Ying	male	native	你现在不能马上运用的知识，不等于未来就不会有价值是吧。	17	134	290	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1599.762	1603.279	speaker#1	male	native	哎这个就不一定，你将来你还有希望的啊 {laugh} 。	17	135	291	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1603.279	1616.180	Zhang_Wei_Ying	male	native	哎这是我经常跟我的学呃学生强的这一点，你不要想着，就是上~EMBA不是说你今天学一个炒菜，说我学完以后回去就可以炒了，你学的是营养知识，是吧/	17	136	292	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1616.180	1624.799	Zhang_Wei_Ying	male	native	啊这种东西就是它在指导你以后是，可能你自己觉得没用，实际上已经有用了，所以你思考问题的时候，肯定跟你上学之前不一样。	17	136	293	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1624.799	1636.161	speaker#1	male	native	呃我刚才听这个同学的发言，我倒有个启发哈，假定抛开我们各位在座的~EMBA同学你们的虚荣心不论啊，所谓虚弱心说你看我读了一个~EMBA周围全是老总。	17	137	294	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1636.161	1640.458	speaker#1	male	native	要实惠一点来说，说不定你直接去读~MBA这个挺划算的。	17	137	295	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1640.458	1644.911	Zhang_Wei_Ying	male	native	刚才讲就是交流了，就是层次差不多的人交流最好。	17	138	296	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1644.911	1655.589	Zhang_Wei_Ying	male	native	呃就像你-你下棋，一定要有跟你水平差不多的人下才好对吧，你说你现在是九段，你找一段的下，呃两端的下，那么这个就不太好了是吧。	17	138	297	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1655.589	1670.057	Zhang_Wei_Ying	male	native	呃所以我们还是鼓励就是我们为什么分开这些项目，就是说每一个项目，实际上就像好多你们搞企业的，搞产品一样，它一定要有一个呃针对不同的这种人群的是吧，不可以放在一块的。	17	138	298	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1670.057	1674.422	speaker#1	male	native	听了我们张维迎教授那么多循循善诱的教导之后，金总您没动心。	17	139	299	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1674.422	1676.473	Jin_Wei	male	native	{cough} 我 {cough} 还是没有动心。	17	140	300	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1676.473	1679.267	speaker#1	male	native	为什么呀，您怎么铁石心肠啊？ 	17	141	301	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1679.267	1687.972	Jin_Wei	male	native	我觉得什么呢现在的这个~EMBA啊多少的意义上有一些一种流行的时尚。	17	142	302	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1687.972	1696.948	Jin_Wei	male	native	这种时尚有点像我们的高尔夫，现在从村长到-到-到县长，啊从科长到厅长，你不会打高尔夫就不行。	17	142	303	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1696.948	1706.056	Jin_Wei	male	native	我曾经说过我是~EMBA的非常热烈拥护者，后来到了一个今天观立--观点比较孤立的一个批评者。	17	142	304	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1706.056	1714.354	Jin_Wei	male	native	我觉得~EMBA如果说异化为一种像满地锄草一样的高尔夫的时候，我们的~EMBA就可能不太值钱了。	17	142	305	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1714.354	1727.070	Jin_Wei	male	native	我在若干年前，在招收一些高层员工的时候，他拿出一张~EMBA，我觉得很重要，现在这个上面这个抬头，我基本是不看的，这是事实，严酷的事实。	17	142	306	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1727.070	1786.533					18	143	307	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1786.533	1790.032	speaker#1	male	native	下面我给两位这个两边的这个嘉宾布置作业哈。	19	144	308	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1790.032	1804.760	speaker#1	male	native	呃我们请三位院长你们在你们的这个题板上面写出我们商学院能够给~EMBA的学员提供的最有价值的两个服务，或者是两个价值点是什么。	19	144	309	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1804.760	1821.298	speaker#1	male	native	然后我们这边的这个嘉宾呢你们告诉我们一下，如果有一个理想的~EMBA的 {noise} ，你们最需要在这个 {noise} ，如果它是个理想，它最能够应该解决，或者满足你们的什么样的需要。	19	144	310	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1821.298	1823.220	speaker#1	male	native	每人写两点。	19	144	311	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1823.220	1826.814	speaker#1	male	native	哪位同学来跟我们分享。	19	144	312	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1826.814	1839.421	speaker#23	male	native	可能我们在上学之前，就会就更多的觉得在北大上-上一次课，得到一个~EMBA的金子招牌很光荣，则为了这个招牌去的。	19	145	313	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1826.814	1839.421	speaker#1	male	native	很光荣，嗯。	19	145	314	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1839.421	1857.321	speaker#23	male	native	可是上了学以后呢，这个又有新的想法，是不是在同学那儿，老师那儿学点东西，这学习的过程中间可能希望这更多的跟这些同学唠成一个圈子，在圈子中间得到了一些什么，这可能是第二个阶段。	19	145	315	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1839.421	1857.321	speaker#1	male	native	嗯。	19	145	316	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1857.321	1862.647	speaker#23	male	native	那现在最后一个阶段呢，觉得还是知识管用，还得学点东西回来。	19	146	317	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1862.647	1868.285	speaker#23	male	native	这个是我的这个上学一个过程中间的一个心理的一个想法的一个变化。	19	146	318	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1868.285	1870.761	speaker#1	male	native	~OK。	19	147	319	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1870.761	1877.948	speaker#1	male	native	哪位同学有一些呃有一些你自己的很-很-很独特的这个感受来跟我们分享的。	19	147	320	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1877.948	1889.602	speaker#24	female	native	就说~EMBA我们有时候也叫 {noise} ，因为呃很多~MBA学生会觉得学~MBA特别苦，啊我们特别在中欧学~MBA的话，它那个作业啊，项目啊特别多。	19	148	321	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1877.948	1889.602	speaker#1	male	native	嗯。	19	148	322	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1889.602	1896.435	speaker#24	female	native	那~MBA呢就呃~EMBA相对就比较轻松，经常看到我们同学在一起啊吃吃喝喝啊。	19	148	323	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1889.602	1896.435	speaker#1	male	native	嗯，嗯。	19	148	324	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1896.435	1900.967	speaker#24	female	native	当然其实很多 {noise} ，就是在这个 {noise} 就签掉了。	19	148	325	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1896.435	1900.967	speaker#1	male	native		19	148	326	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1900.967	1904.214	speaker#24	female	native	所以 {laugh} -- 	19	148	327	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1900.967	1904.214	speaker#1	male	native	不错啊，经常吃吃喝喝，身材还保持的很好。。	19	148	328	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1904.214	1912.821	speaker#24	female	native	所以就是说呃~EMBA给我们提供了这样一种环境，这种环境呢跟以-以前读大学的那种呃环境是不一样的。	19	148	329	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1904.214	1912.821	speaker#1	male	native	一样的。	19	148	330	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1912.821	1923.617	speaker#24	female	native	那你有很多积累，有很多实践，也有很多有经验的同学，那这种碰撞，这种火花，这种靠每个人的悟性来体会到的东西那是不同的。	19	148	331	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1912.821	1923.617	speaker#1	male	native		19	148	332	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1923.617	1925.090	speaker#24	female	native	谢谢。	19	148	333	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1923.617	1925.090	speaker#1	male	native	~OK，谢谢。	19	148	334	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1925.090	1932.371	speaker#1	male	native	好让我们看看这个听听 {noise} 给我们看看您这个呃提了哪两点。	19	149	335	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1932.371	1980.764	speaker#14	male	nonnative	<foreign lang="English"> </foreign>	19	150	336	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1980.764	1983.748	speaker#1	male	native	张教授。	19	151	337	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1983.748	1988.537	Zhang_Wei_Ying	male	native	呃，我想我们最重要两点，一个思维方式和使命感。	19	152	338	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1988.537	1989.396	speaker#1	male	native	嗯。	19	153	339	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1989.396	1992.720	speaker#1	male	native	这个思维方式给我们解释一下。	19	153	340	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	1992.720	2002.561	Zhang_Wei_Ying	male	native	呃光华管理学院企图教给你的不是是解决某一个具体问题的方式，而是思考解决这种问题的一种方式。	19	154	341	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2002.561	2005.307	speaker#1	male	native	听起来你这个光华管理学院有点像哲学学院。	19	155	342	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2005.307	2009.209	Zhang_Wei_Ying	male	native	越是高层的人，越是聪明的人，越需要哲学思维。	19	156	343	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2009.209	2014.152					20	157	344	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2014.152	2023.953	Zhang_Wei_Ying	male	native	呃因为呃低层的这个经理，他需要懂得技能，到了高层的思呃经理呢他就需要懂得思维方式是吧。	21	158	345	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2014.152	2023.953	speaker#1	male	native	嗯，嗯，嗯嗯。	21	158	346	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2023.953	2033.948	Zhang_Wei_Ying	male	native	呃第二点呢我想使命感，呃其实在光华管理学院我们看到，我们的所有师生进来北大，就是一种历史的责任，不仅仅是一种荣耀。	21	159	347	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2033.948	2046.502	Zhang_Wei_Ying	male	native	啊我经常问跟学生讲就说，你不要告诉我你赚了多少钱，你告诉我，你这个行业有你这个企业和没有你这个企业有什么差别，如果没差别，那你白活了是吧。	21	159	348	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2046.502	2050.483					22	160	349	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2050.483	2052.217	speaker#1	male	native	张教授。	23	161	350	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2052.217	2057.978	Zhang_Wei_Jiong	male	native	这个第一点呢我想和大家差不多的，呃我们这儿呢是拓宽思路。	23	162	351	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2057.978	2061.248	Zhang_Wei_Jiong	male	native	那么这个拓宽思路呢是拓宽管理思路，拓宽经验思路。	23	162	352	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2061.248	2068.003	Zhang_Wei_Jiong	male	native	第二个呢实际上我-我提的这个第二点和那个 {noise} 也差不多，就是是那个培养能力。	23	162	353	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2068.003	2075.700	Zhang_Wei_Jiong	male	native	他的一种能力呢就是一种领导能力，一种带领企业往前走的能力，能带动企业冲向国际的市场的能力。	23	162	354	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2075.700	2088.394	speaker#1	male	native	那个张院长刚才说重要的就是高度，使命感，责任感，是吧，你那个比较强调能力有一点像张院长刚才说的那个技能，这是不太入流的。	23	163	355	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2088.394	2092.404	speaker#1	male	native	你能够解释一下这个--这个差别吗？	23	163	356	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2092.404	2096.653	Zhang_Wei_Jiong	male	native	差别就是说那个--那个这个能力我说这个领导能力。	23	164	357	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2096.653	2102.951	Zhang_Wei_Jiong	male	native	我们一直说我们中国培养是什么，中国培养是能够在国际市场上能够参与竞争的企业家。	23	164	358	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2102.951	2108.357	Zhang_Wei_Jiong	male	native	如果说你把这个能力看作是能力的话，那么领导能力什么的都在里面了。	23	164	359	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2108.357	2112.526	speaker#1	male	native	呃这个呃维迎，我这个里面就-就总结出两个问题了哈。	23	165	360	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2112.526	2125.182	speaker#1	male	native	第一个呢这个好像呃张维炯院长他们那个院里面培养的是比较有能，就是搞定事情那个动手的能力，你那个有点思维能力，好像空想家的成分比较高，这第一啊，不一定对。	23	165	361	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2125.182	2134.381	speaker#1	male	native	第二个呢，第二个呢我刚才虽然你很有使命感，你说了半天刚才说一个行业里有没有你位置，那-那个张院长一说是要在国际上有这个领导能力。	23	165	362	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2134.381	2139.710	speaker#1	male	native	感觉好像第一是吧，第一是有这个技能。	23	165	363	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2139.710	2154.150	speaker#1	male	native	第二这个技能呢还好像比你这个还-还要宽，嗯，嗯。	23	166	364	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2139.710	2154.150	Zhang_Wei_Ying	male	native	没有，如果中国的市场现在已经是全球竞争的市场，如果这个行业里边有你没有，没有差别，你不可能是一个国际化的企业。	23	166	365	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2154.150	2162.063	Zhang_Wei_Ying	male	native	反过来说如果你能成为国际化，你要想成为国际化，你必须要有这种使命感，你要长命百岁，那你必须要有 -- 	23	167	366	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2162.063	2174.522	Zhang_Wei_Ying	male	native	哦其实大量的企业活不过二十年，呃所以你怎么呼吁你这个企业呃企业能够做得长寿，那么这个你应该学学北大的使命。	23	167	367	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2174.522	2179.774	speaker#1	male	native	这个张院长你要学学啊 {laugh} 。	23	168	368	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2179.774	2185.666	speaker#1	male	native	呃现在我们看看我们的这个企业说了一些什么啊，首先请那个甄总。	23	168	369	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2185.666	2191.573	speaker#1	male	native	啊第一您先，呃放假机会，什么意思？ 	23	169	370	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2185.666	2191.573	Zhen_Shi_Hui	male	native	 (()) 放假机会，	23	169	371	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2191.573	2197.866	speaker#1	male	native		23	169	372	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2191.573	2197.866	Zhen_Shi_Hui	male	native	你-你们都想当企业家，其实当企业家没什么好处的，企业可能越来越长寿，你呢就越来越短了。	23	169	373	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2197.866	2206.126	speaker#1	male	native	嗯嗯，嗯嗯。	23	169	374	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2197.866	2206.126	Zhen_Shi_Hui	male	native	企业家的命其实很，你看那个--那个--那个我们在谈那个企业家的寿命是越来越短，过劳死的也越来越多。	23	169	375	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2206.126	2216.083	Zhen_Shi_Hui	male	native	那其实真的是作为一个企业家，不是我们不能放假，你把我扔到一个什么海滩，我是躺在海滩，但是其实脑里面还是在想公司的事情。	23	170	376	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2216.083	2226.896	Zhen_Shi_Hui	male	native	比说有一个好的一个--一个--一个呃两三个礼拜的，而不是两三年的，两三个礼拜的你能学一个东西，你能把东西抛下来，放下来，其实挺好的一个放假的机会。	23	170	377	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2226.896	2237.527	Zhen_Shi_Hui	male	native	呃交朋友本来想写那个什么白天鹅啊，什么梅花鹿，我-我想其实--其实这个--这个交朋友还是很重要的，在-在一个商业的圈子里面。	23	170	378	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2237.527	2246.377	Zhen_Shi_Hui	male	native	呃当然你那个这种情况呢你肯定需要去最贵的~EMBA，最贵的~EMBA里面才是最有价值的朋友。	23	170	379	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2246.377	2250.819	speaker#1	male	native	金总。	23	171	380	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2250.819	2256.187	Jin_Wei	male	native	第一个肯定是要最新的一些观点理念啊，还有个是跨文化交流。	23	172	381	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2256.187	2267.858	Jin_Wei	male	native	我补充一下，中国的这个企业管理者是很可怜的，经常在一个行业里面转，你很少有别的机会去所谓跨文化交流也就交朋友。	23	172	382	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2267.858	2278.515	Jin_Wei	male	native	可怜到只有付出几十万在我们的~EMBA进行这个交朋友看到白天鹅，梅花鹿，我觉得这是一种我们中国企业家的悲哀。	23	172	383	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2278.515	2282.223	speaker#1	male	native	我们来看看文武写了什么？ 	23	173	384	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2282.223	2287.012	Wen_Wu	male	native	这个我来解释一下为什么就说叫轻松。	23	174	385	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2282.223	2287.012	speaker#1	male	native	嗯。	23	174	386	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2287.012	2292.517	Wen_Wu	male	native	首先讲这个同学的层面层次比较高，但是跟同学层面啊他接受比较轻松。	23	174	387	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2287.012	2292.517	speaker#1	male	native		23	174	388	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2292.517	2299.522	Wen_Wu	male	native	你-你说这圈子重要不重要，可能跟领导打交道更重要，跟政府打交道，那太累，跟同学打交道比较轻松。	23	174	389	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2292.517	2299.522	speaker#1	male	native	嗯。	23	174	390	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2299.522	2309.539	Wen_Wu	male	native	呃另外一个就是我们老师教的时候的一些课程啊，都是说教你在这做一些保值，做一些避免风险，而不是说交流一些极端的投机。	23	174	391	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2299.522	2309.539	speaker#1	male	native		23	174	392	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2309.539	2318.735	Wen_Wu	male	native	极端的投机是很累的，而且就说风险很大，那老师教你，你如果做一些保值，还有一些保险的一些相对保险的生意，这也让你比较放松。	23	174	393	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2309.539	2318.735	speaker#1	male	native	嗯。	23	174	394	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2318.735	2326.532	Wen_Wu	male	native	所以我的一个观点就说整个在学~EMBA以后啊，使我们的中国的商人，学完了以后他是更加放松。	23	174	395	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2318.735	2326.532	speaker#1	male	native		23	174	396	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2326.532	2335.207	Wen_Wu	male	native	就像这个呃张维迎教授说的这个青春，这个叫啥青春焕发，呃更加有信心迎接下一次的挑战。	23	174	397	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2326.532	2335.207	speaker#1	male	native	嗯。	23	174	398	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2335.207	2336.035	speaker#1	male	native	谢谢。	23	175	399	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2336.035	2343.567	speaker#1	male	native	站在你们的角度，你们看了他们写的东西之后，觉得这个我们现在的 {noise} 能够满足他们的需要的吗？ 	23	175	400	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2343.567	2353.138	Zhang_Wei_Ying	male	native	应该可以，呃但是从我们设计这个项目来讲，我不是为了学生来轻松而来，也不是简单的为他们交朋友。	23	176	401	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2343.567	2353.138	speaker#1	male	native	嗯。	23	176	402	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2353.138	2356.115	Zhang_Wei_Ying	male	native		23	176	403	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2353.138	2356.115	speaker#1	male	native	我是听起来是有点是让他们不轻松而来的。	23	176	404	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2356.115	2368.231	Zhang_Wei_Ying	male	native	 (())，我们--我们要让他们比较苦，但是乐在其中。	23	176	405	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2356.115	2368.231	speaker#1	male	native	呃这个你进入到北大，你就要有那使命感，有那个 --	23	176	406	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2368.231	2378.183	Zhang_Wei_Jiong	male	native	呃应该说呢这个进来以后认识很多同学，然后呢这个作为一个轻松的一个--一个--一个一段时间，也是可以认为的。	23	177	407	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2378.183	2385.864	Zhang_Wei_Jiong	male	native	因为这些企业家平时在企业里面都是非常--非常忙的，那么来了以后呢在老师这儿学到很多新的思路。	23	177	408	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2385.864	2390.807	speaker#1	male	native	你说的很没错，今天那个甄总到我们来参加节目，下午过来以后，他一个劲的在那批文件，批文件。	23	178	409	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2390.807	2398.565	Zhang_Wei_Jiong	male	native	是这解决很多思路上的问题，把他脑子里边长期积累的，忧愁的一直在想的问题把它脱开了，他一下就轻松了。	23	179	410	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2398.565	2411.606	Zhang_Wei_Ying	male	native	我还有一个，对不起，我再插一句哈，我-我们有一个~EMBA学生，他学完以后，两年之后告诉我，我说你的最大收获是什么，他就说我学完~EMBA以后，工作轻松了。	23	180	411	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2411.606	2418.547	Zhang_Wei_Ying	male	native	我说为什么，我知道怎么样让别人替我干活了，原来都是我自己干是吧，那么这-这也是一种 --	23	180	412	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2418.547	2420.063	speaker#1	male	native	找到了解脱--解脱之道。	23	181	413	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2420.063	2425.315	Zhang_Wei_Ying	male	native	对，就他怎么利用别人的能力，这是一个领导力最重要的。	23	182	414	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2425.315	2426.080	speaker#1	male	native	<foreign lang="English"> </foreign>	23	183	415	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2426.080	2444.018	speaker#14	male	nonnative	<foreign lang="English"> </foreign>	23	184	416	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2444.018	2445.908	speaker#1	male	native	~OK，谢谢。	23	185	417	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2445.908	2451.276	speaker#1	male	native	这个呃我们先鼓鼓掌啊。	23	185	418	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2451.276	2459.152	speaker#1	male	native	金总我再问一次，现在看来就是你要想追求那些东西，这 {sneeze}好像都能满足，你上不上？	23	185	419	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2459.152	2460.933	Jin_Wei	male	native	我觉得还是不上。	23	186	420	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2460.933	2464.245	speaker#1	male	native	呃为什么？	23	187	421	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2464.245	2465.834	Jin_Wei	male	native	呃我想啊 --	23	188	422	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2465.834	2471.845	speaker#1	male	native	就说我-我现在站在你说这个，你看，你要想的东西，你看你说你要这个财经观点，这个就是 {noise} 。	23	189	423	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2471.845	2476.628	speaker#1	male	native	然后你要什么这个啊这都有啊，你想要都能满足你需要，为什么还不上呢？	23	189	424	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2476.628	2491.682	Jin_Wei	male	native	就我而言，呃我能够通过很多的方式已经可以交到朋友，并不需要在一个~EMBA的学校里面用两年时间去交二十年朋友，因为我很注意跨文化的社交。	23	190	425	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2491.682	2497.564	Jin_Wei	male	native	我觉得跨文化社交非常重要，当然如果你没有别的机会，你只能到~EMBA班。	23	190	426	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2497.564	2506.672					24	191	427	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2506.672	2519.081	speaker#1	male	native	刚才其实无论我想我们的这个学员，还是我们的这个教授，院长，都一再的提到了这个~EMBA作为一种圈子，社会关系，包括甚至新型的社会关系，它的这个价值。	25	192	428	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2519.081	2527.316	speaker#1	male	native	下面让我们看一段这个呃 {noise} ，看看在这些我们这些同学他们组成了一种什么样的圈子。	25	192	429	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2527.316	2532.606	speaker#2	male	native	目前在中国各大商学院强大的校友网络形成了~EMBA的卖点。	25	193	430	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2532.606	2539.651	speaker#2	male	native	甚至有一句谚语说，上大学看学校，考研究生看导师，读~EMBA看同学。	25	193	431	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2539.651	2543.025	speaker#2	male	native	这道出了~EMBA班同学身份的影响力。	25	193	432	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2543.025	2548.794	speaker#2	male	native	寻找可能的商机，以及合作伙伴，成为了加入~EMBA部落的动机之一。	25	193	433	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2548.794	2556.333	speaker#2	male	native	各大商学院在竞争中都把同学会作为招生广告的重要卖点。	25	193	434	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2556.333	2564.161	speaker#8	male	native	能认识很多同学，他们都是各个行业中的精英，这个收获我感觉很大。	25	194	435	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2564.161	2571.804	speaker#3	male	native	最关键同学方面以后我们可能可--有一些或者经营，或者生意上面的一些活动。	25	195	436	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2571.804	2575.773	speaker#4	female	native	呃我们有一些同学目前已经关系发展的比较好了。	25	196	437	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2575.773	2585.652	speaker#4	female	native	应-应该说有一些我据我所知同学之间他们有一些已经成为事业上的合伙，合作的伙伴了，已经--已经有组建几个公司了。	25	196	438	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2585.652	2594.973	speaker#9	male	native	这个是绝对--绝对可能的，事实上就说相信我们很多这个同学之间啊，已经在业务上会有些会有些交流，有些合作。	25	197	439	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2594.973	2601.035	speaker#7	female	native	他们都是非常就说无私的一种贡献啊，一种奉献，非常愿意分享自己的经验。	25	198	440	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2601.035	2608.061	speaker#10	male	native	我的这个概念就是一个更为呃大的一个平台，那么就是有更多的这种同学这种资源。	25	199	441	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2608.061	2611.577	speaker#5	male	native	非群体组织嘛，就是自发的也-也有这种交流。	25	200	442	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2611.577	2614.155	speaker#5	male	native	那这是相互结合的，我觉得这个很好。	25	200	443	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2614.155	2621.414	speaker#6	male	native	其实啊同学之间的学习可能更重要，这是一个互动，老师在教，其实老师也在向我们学习。	25	201	444	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2621.414	2635.392	speaker#1	male	native	我曾经在去年啊碰到这个某商学院的这个院长跟我讲，说他们的这个~EMBA班的同学的学员每年圈子内的这个成交业务额能够达到二十亿人民币。	26	202	445	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2635.392	2639.132	speaker#1	male	native	这个我不知道这个啊有点吹牛，还是怎么样，高还是低了。	26	202	446	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2639.132	2653.099	speaker#1	male	native	在我们在现场的我们的~EMBA这个同学，你们在利用这个圈子给你们带来，呃那你跟圈子交往有些很有心得的，这个很有意思的东西，可以跟我们分享一下吗，哪位？	26	202	447	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2653.099	2669.631	speaker#25	female	native	从同学那里我学会了如何塑-塑造自-自己，我原来是不-不注意修边幅的人，后来从同学们那里哎觉得大家都很规矩，都很--都很美丽，都很漂亮，我觉得也应该就是这也是人的一部分。	26	203	448	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2653.099	2669.631	speaker#1	male	native	嗯，是，	26	203	449	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2669.631	2677.235	speaker#25	female	native	所以说我也觉得应该向他们学习	26	203	450	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2669.631	2677.235	speaker#1	male	native	那你为什么以前，比如说你在单位同事啊或者他们也是人那，他们就不能让你修边幅吗，为什么？	26	203	451	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2677.235	2680.713	speaker#25	female	native	平时就是说没有在乎这个东西，平时不太在乎。	26	203	452	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2677.235	2680.713	speaker#1	male	native		26	203	453	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2680.713	2700.108	speaker#25	female	native	再一个我还从北大还学到了什么，刚才张老师张维迎老师讲了，就是--就是学会了如何使-使自己轻松，用别人的脑袋使自己轻松起来，原来就是天天累，天天累，哎对。	26	203	454	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2680.713	2700.108	speaker#1	male	native	嗯，现在不干活了。	26	203	455	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2700.108	2705.605	speaker#1	male	native	好，这个我们听完他们介绍的这个关系圈子以后，对你们两位有没有打动。	26	204	456	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2705.605	2709.371	Jin_Wei	male	native	对我，没有打动 {laugh}。	26	205	457	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2709.371	2718.719	Jin_Wei	male	native	呃我想这样的就是说 {cough} 在改革开放初期，作为企业发展过程当中，这个关系圈子非常重要。	26	206	458	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2709.371	2718.719	speaker#1	male	native	嗯。	26	206	459	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2718.719	2729.708	Jin_Wei	male	native	你看中国的白酒啊，在改革开放初期卖的特别好，因为什么呢，咱不熟，在酒桌上喝上三杯白酒那就大哥， 兄弟马上就关系熟了。	26	206	460	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2718.719	2729.708	speaker#1	male	native		26	206	461	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2729.708	2733.704	Jin_Wei	male	native	当然我们在一起朝夕相处两年，那关系肯定是铁的。	26	206	462	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2729.708	2733.704	speaker#1	male	native	嗯。	26	206	463	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2733.704	2747.709	Jin_Wei	male	native	但是到了现在，在二十五年改革开放以后，它主要是靠那个企业的经营理念，靠的企业的正确的准确的正确的那个判断决策，关系在这里面作用很小。	26	206	464	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2733.704	2747.709	speaker#1	male	native	嗯。	26	206	465	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2747.709	2766.720	Jin_Wei	male	native	试想一下，假如今天张瑞敏，啊柳传志都在我们~MB，~EMBA班，他的销售能不能说啊会因为关系营销增加了百分之三十，我想可能不大，啊。	26	206	466	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2747.709	2766.720	speaker#1	male	native	但是--但是我们可以因为跟他认识，跟他同学，可以介绍他，我们增加百分之三十。	26	206	467	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2766.720	2784.774	Jin_Wei	male	native	这个可能性也不大，因为在全球经济这个一个基本发展规律当中，除了个别行业，凡是民生类产品是面向这个普通消费者产品，这样的行业基本上它和关系营销啊关系就越来越不密切。	26	207	468	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2784.774	2789.118	Jin_Wei	male	native	所以呢这个圈子的作用越来越小。	26	207	469	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2789.118	2794.370	Zhang_Wei_Ying	male	native	他这个就是太实用主义的交朋友观点 这不好。	26	208	470	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2794.370	2802.861	speaker#1	male	native	太厉害了就是你看--你看我说的就是对的，你们要是不划算，你们就是不优秀啊。	26	209	471	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2802.861	2809.091	speaker#1	male	native	这-这好像你看我想大家肯定是碰到你，第一他肯定不会很尊敬你。	26	210	472	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2802.861	2809.091	Zhang_Wei_Ying	male	native	没有--没有，我和--我和我们的学生都是朋友。	26	210	473	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2809.091	2814.395	speaker#1	male	native	我现在找一个同学来说，当然底下肯定有拍马屁的啊 {laugh}。	26	211	474	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2814.395	2817.655	speaker#1	male	native	你来说说看，咱们张院长怎么和蔼可亲法。	26	211	475	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2817.655	2829.616	speaker#26	male	native	我想告诉--告诉主持人和观众我们张教授多么和蔼可亲，啊张教授会在我们同学聚会上给我们唱陕西民歌。	26	212	476	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2817.655	2829.616	speaker#1	male	native	 {laugh} 好。	26	212	477	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2829.616	2837.097	speaker#1	male	native	我们现场就请张教授给我们唱一段， {laugh}。	26	213	478	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2837.097	2843.082	speaker#1	male	native	我曾经在一个电视节目上看听到你这个唱过一段，有没有这样事是吧，今天你一定唱一段。	26	213	479	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2843.082	2847.948	Zhang_Wei_Ying	male	native	我-我-我的这个歌只留给我们光华学生 {laugh}。	26	214	480	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2847.948	2850.346	speaker#1	male	native	是啊，光华在场啊。	26	215	481	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2850.346	2855.806	speaker#1	male	native	经过我们今天的这个讨论啊，大家可能对~EMBA的这个价值也更多的这个认识了。	26	215	482	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2855.806	2863.980	speaker#1	male	native	所以呢，我们对~EMBA到底，或者它最主要的能够给我们带来什么样的价值，我们最后能够来做一次确认。	26	215	483	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2863.980	2866.048	speaker#1	male	native	~A，新的管理知识技能。	26	215	484	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2866.048	2867.376	speaker#1	male	native	~B名校文凭。	26	215	485	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2867.376	2868.733	speaker#1	male	native	~C高端社交圈。	26	215	486	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2868.733	2870.265	speaker#1	male	native	~D高端时尚。	26	215	487	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2870.265	2871.406	speaker#1	male	native	~E其他的。	26	215	488	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2871.406	2873.202	speaker#1	male	native	拿起我们的投票器。	26	215	489	filler	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2873.202	2893.762					27	216	490	nontrans	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2893.762	2901.443	speaker#1	male	native	这个谢谢，我想经-经过今天的这个我们讨论呢，虽然我们过去觉得这个可能圈子是不是很重要，圈子当然很重要。	28	217	491	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2901.443	2907.299	speaker#1	male	native	但是啊我们的很多同学来确认，给我们带来新的知识和技能，可能是更重要。	28	217	492	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2907.299	2909.862	speaker#1	male	native	非常感谢我们今天的嘉宾，谢谢大家。	28	217	493	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2909.862	2935.080	speaker#1	male	native	呃我们也有一些这个礼品来送给我们的这个三位院长啊，感谢你们继续为我们同学带来更多的，更知识的连接和人际关系的连接。	28	217	494	report	
+DONGFANG_BRAINSTORM_CMN_20060521_230249	0	2935.080	2941.597					29	218	495	nontrans	

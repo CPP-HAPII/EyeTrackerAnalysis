@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0847.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	３０名中国大学生记者将采访北京奥运会	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 06:46:19   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社北京４月２８日奥运专电　中国高校的３０名优秀大学生，将有机会参加２００８年奥运会和残奥会的报道。	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	国际奥委会全球合作伙伴三星公司２８日宣布，他们将面向中国高校选拔３０名优秀大学生，以“三星Ａｎｙｃａｌｌ记者”的身份报道北京奥运会和残奥会。	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	据介绍，选拔活动将于５月初启动。	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	选拔出的大学生记者将获得观看北京奥运会和残奥会比赛的机会，并进行报道。	0	0	0		statement

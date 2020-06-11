@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1305	0	800.0	900.0	speaker	unknown	unknown	重庆火车站党办负责人黄涛称，今年重庆火车站将迎来暑运“双高峰”：第一个乘车高峰以学生流为主，预计是七月五日起至十五日止；第二个高峰则是奥运期间前往北京及其它比赛地的“奥运客流”。	0	0	0		

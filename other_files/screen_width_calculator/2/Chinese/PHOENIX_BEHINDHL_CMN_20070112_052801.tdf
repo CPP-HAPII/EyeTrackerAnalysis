@@ -1,0 +1,607 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 132.19200000000001, 304.85000000000002, 773.13300000000004, 829.45600000000002, 1489.819, 1584.377, 1735.7819999999999, 1899.6890000000001, 9999999.0]
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	0.000	6.344	speaker#1	male	native	诉讼了以后呢就是说，呃，如果法院判决我们，呃，胜诉，我们感觉到这个事情我们做的很有意义，	0	0	0	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	6.344	14.951	speaker#1	male	native	如果他，呃，判驳回我们判，呃，判决，我们认为这个事情也，也认为尽了我们民政部门这种职责。啊。	0	0	1	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	14.951	19.717	speaker#2	female	native	在我们的采访即将结束的时候，还传来了另外一个令人欣慰的消息，	0	1	2	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	19.717	23.473	speaker#2	female	native	那就是这起案件已经引起了法学界的高度重视。	0	1	3	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	24.222	32.142	speaker#2	female	native	目前，高淳县民政局已经获得了正式邀请，参加一个由南京大学所主办的关于流浪汉维权的研讨会，	0	1	5	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	32.142	36.726	speaker#2	female	native	届时，将会有许多法学专家以及立法机构的代表参加。	0	1	6	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	37.474	47.370	speaker#2	female	native	而与此同时，这起案件还成为了两千零六年全国检查机关法制理念教育新案名例案例的四个典型之一，在系统内进行交流。	0	1	8	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	48.208	59.885	speaker#2	female	native	我们有理由相信，这样一个官司所讨回的并不仅仅只是一个个体生命的价值和尊严，它还会消除一个法律盲点，让更多的人因此受益。	0	1	10	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	61.262	66.053	speaker#3	male	native	呃，如果江苏省，呃，如有相应的这个地方立法，	0	2	12	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	66.861	71.704	speaker#3	male	native	或者说以后最高人民法院有司，相应的司法解释，	0	2	14	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	72.250	81.752	speaker#3	male	native	啊，甚至可以通过立法的方式把它确定，确定下来的话，那么同样的像这一个遗憾的事情呢，我们认为啊就不会再发生。	0	2	16	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	81.752	86.393	speaker#4	male	native	问题摆出来了，这个矛盾揪出来了，应该解决吧？	0	3	17	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	87.650	92.010	speaker#4	male	native	但解决什么方式还是立法的方式还是其他方式，我想肯定有方式解决，	0	3	19	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	92.010	92.860	speaker#4	male	native	何况我们国家	0	3	20	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	304.850	306.777	Dou_wentao		native	锵锵三人行，大家好。	2	5	23	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	306.777	310.813	Dou_wentao		native	今天很高兴啊，元子还在这儿，丸子，元子哈哈，	2	5	24	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	310.813	313.214	Dou_wentao		native	那我们许老师好象一见你啊，	2	5	25	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	313.214	313.454	Dou_wentao		native	就	2	6	26	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	313.214	313.454	Chen_fangyuan	female	native	嗯。	2	6	27	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	313.454	315.250	Dou_wentao		native	老想提唱歌的事儿。	2	7	28	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	315.250	317.191	Chen_fangyuan	female	native	啊，音乐爱好者嘛肯定是。	2	8	29	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	317.191	317.820	Dou_wentao		native	啊。	2	9	30	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	317.191	317.820	Xu_zidong	male	native	是吧？	2	9	31	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	317.820	321.054	Dou_wentao		native	这，许老师最近还玩(())呢。	2	10	32	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	321.054	323.180	Xu_zidong	male	native	想玩啊，但代价很大。	2	11	33	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	323.180	324.827	Chen_fangyuan	female	native	看来是发烧友。	2	12	34	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	324.827	325.641	Dou_wentao		native	对，你当心。	2	13	35	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	325.641	326.444	Chen_fangyuan	female	native	说的一套一套的。	2	14	36	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	326.444	328.869	Dou_wentao		native	对，但是我要请教你一个问题。	2	15	37	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	328.869	329.259	Chen_fangyuan	female	native	嗯。	2	16	38	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	329.259	333.789	Dou_wentao		native	为什么我们唱歌，只能看着卡拉 <foreign lang="English">OK</foreign> 那的字才能唱？	2	17	39	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	333.789	335.226	Chen_fangyuan	female	native	那因为你背不下词儿来啊。	2	18	40	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	335.226	335.675	Dou_wentao		native	不是。	2	19	41	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	335.675	336.184	Chen_fangyuan	female	native	啊，不是吗？	2	20	42	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	336.184	338.858	Dou_wentao		native	我即便能，我看着我即便拿纸看着词，	2	21	43	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	338.858	339.154	Chen_fangyuan	female	native	嗯。	2	22	44	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	339.154	341.543	Dou_wentao		native	我听这个音乐伴奏，我唱不准点儿。	2	23	45	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	342.082	343.370	Chen_fangyuan	female	native	啊，那是节奏的问题。	2	24	47	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	343.370	343.610	Dou_wentao		native	唉。	2	25	48	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	343.610	344.748	Chen_fangyuan	female	native	那是节奏的问题。	2	26	49	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	344.748	345.766	Dou_wentao		native	节奏感。	2	27	50	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	345.766	347.503	Chen_fangyuan	female	native	就是啊，那就是节奏了。	2	28	51	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	347.503	349.180	Dou_wentao		native	你为什么就节奏感好呢？	2	29	52	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	349.180	350.437	Chen_fangyuan	female	native	啊，也不是节奏感好，就	2	30	53	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	350.437	351.455	Chen_fangyuan	female	native	你还还是	2	31	54	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	350.437	351.455	Xu_zidong	male	native	就是专业唱的。	2	31	55	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	351.455	352.862	Chen_fangyuan	female	native	要多练吧，我觉得。	2	32	56	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	352.862	354.265	Dou_wentao		native	我这节奏感等于零。	2	33	57	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	354.265	354.749	Chen_fangyuan	female	native	是吗？	2	34	58	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	354.749	357.625	Dou_wentao		native	而且呢我就发现节奏感等于零很要命，	2	35	59	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	357.625	363.222	Dou_wentao		native	因为我经过对多学科的考察啊，各个学科的人记忆到了顶尖的程度，	2	35	60	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	363.222	363.828	Chen_fangyuan	female	native	嗯。	2	36	61	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	363.828	365.777	Dou_wentao		native	他都会给你讲出节奏这个词。	2	37	62	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	365.777	366.336	Chen_fangyuan	female	native	嗯。	2	38	63	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	366.336	369.450	Dou_wentao		native	说相声的，作家，干什么的，	2	39	64	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	370.288	375.259	Dou_wentao		native	搞政治的，甚至是练武打的。我那天说最近有本书叫逝去的武林，	2	39	66	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	375.259	375.449	Chen_fangyuan	female	native	嗯。	2	40	67	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	375.449	380.398	Dou_wentao		native	讲的是，嗯，老社会里那真正的这个武术界的这个事情。	2	41	68	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	380.398	385.507	Dou_wentao		native	你看形意门，他就说啊两个人真的比武不是像咱们这种表演性的，	2	41	69	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	385.507	387.739	Dou_wentao		native	真比武的时候会发生一个现象。	2	41	70	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	387.739	388.196	Chen_fangyuan	female	native	嗯。	2	42	71	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	388.196	391.905	Dou_wentao		native	因为那个剑不容发呀，你，你，你根本不能思考啊，	2	43	72	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	391.905	392.114	Chen_fangyuan	female	native	嗯。	2	44	73	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	392.114	393.067	Dou_wentao		native	下意识，	2	45	74	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	393.067	395.833	Dou_wentao		native	而人，会下意识地模仿对方，	2	45	75	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	396.492	400.019	Dou_wentao		native	两个人比武往往靠的是节奏，比如说我这个步伐，	2	45	77	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	400.805	405.016	Dou_wentao		native	你要是弱点儿，你不由自主地，其，其实他说的，我觉得有点儿像催眠。	2	45	79	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	405.016	405.426	Chen_fangyuan	female	native	嗯。	2	46	80	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	405.426	409.198	Dou_wentao		native	比武的过程中，你不由自主地就在模仿我的步伐的节	2	47	81	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.198	409.378	Dou_wentao		native	奏	2	48	82	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.198	409.378	Chen_fangyuan	female	native	套	2	48	83	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.378	409.887	Chen_fangyuan	female	native	路，嗯。	2	49	84	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.887	411.893	Dou_wentao		native	一下子我就把你打趴下了，就	2	50	85	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	411.893	412.372	Dou_wentao		native	是你，	2	51	86	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	411.893	412.372	Chen_fangyuan	female	native	噢。	2	51	87	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	412.372	414.019	Dou_wentao		native	我带着你走，你就傻了。	2	52	88	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	414.947	415.905	Chen_fangyuan	female	native	说演戏嘛，	2	53	90	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	415.905	416.204	Chen_fangyuan	female	native	也是	2	54	91	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	415.905	416.204	Dou_wentao		native	嗯。	2	54	92	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	416.204	417.042	Chen_fangyuan	female	native	有节奏，	2	55	93	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	417.042	417.338	Dou_wentao		native	对。	2	56	94	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	417.338	419.917	Chen_fangyuan	female	native	说一个拍一部电影，也有电影的节奏。	2	57	95	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	419.917	423.689	Dou_wentao		native	生命啊，就是一段一段节奏组成的，	2	58	96	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	423.689	427.851	Dou_wentao		native	但是呢，有的人的这个生命节奏就乱了。	2	58	97	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	427.851	428.270	Chen_fangyuan	female	native	哦。	2	59	98	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	428.270	436.311	Dou_wentao		native	这个事儿啊，我挺受触动的，还是许老师从香港带来了一张报纸，香港的这个明报，	2	60	99	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	436.820	441.121	Dou_wentao		native	香港明报呢最近做一个在西方讨论特别大的一个事情。	2	60	101	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	441.121	441.776	Chen_fangyuan	female	native	嗯。	2	61	102	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	441.776	443.367	Dou_wentao		native	我先给你看这个照片，	2	62	103	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	444.175	447.960	Dou_wentao		native	这个小，这个小孩子啊，名字叫阿诗丽，	2	62	105	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	447.960	451.481	Dou_wentao		native	这是她一岁时候的照片，你再看下一张，	2	62	106	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	452.289	456.990	Dou_wentao		native	阿诗丽的智商等于三个月大的婴儿，整天只能躺在床上。	2	62	108	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	456.990	461.062	Dou_wentao		native	你再看这，这，这张，这是上个月拍的照片，	2	62	109	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	461.601	466.568	Dou_wentao		native	她呀实际年龄已经九岁了，但是呢，她现在是六岁的体型，	2	62	111	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	466.568	472.975	Dou_wentao		native	而且医生说她一辈子，所以我就说他的节奏，她一辈子都是六岁的体型，	2	62	112	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	473.634	478.784	Dou_wentao		native	这是谁决定的呢？她父母亲决定的，就说这个孩子患有脑病，	2	62	114	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	479.442	482.227	Dou_wentao		native	父母亲就发现，这个，你看这里说的，	2	62	116	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	483.365	486.993	Dou_wentao		native	不能说话，不能走路，抬起头来吞食物都不能，	2	62	118	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	486.993	490.880	Dou_wentao		native	三年前，开始出现步入青春期的这个迹象，	2	62	119	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	491.479	499.886	Dou_wentao		native	她的父母要求医院割去女儿的子宫，盲肠和乳蕾，什么叫乳，乳，乳，乳头吧大概就是，	2	62	121	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	499.886	504.917	Dou_wentao		native	并且注射雌激素令她不再长大，永远停留在六岁，	2	62	122	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	504.917	509.244	Dou_wentao		native	她的身高预计一直停留在一点三米，体重七十五磅。	2	62	123	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	509.812	515.411	Dou_wentao		native	她停止长大啊能避免很多病，比如说长期卧床的这个褥疮，	2	62	125	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	515.411	519.679	Dou_wentao		native	还有说呢，呃，切除子宫能够避免月经，避免子宫癌，	2	62	126	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	519.679	524.179	Dou_wentao		native	切除这个乳腺呢这个可以防止乳房的病变，	2	62	127	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	524.179	526.968	Dou_wentao		native	而且还可以防止遭受这个性侵害。	2	62	128	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	527.627	529.902	Dou_wentao		native	所以她父母啊，也是很苦，特别痛苦，	2	62	130	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	530.651	535.741	Dou_wentao		native	做了这么一个决定，这是西方现在讨论就是说叫枕头天使，阿诗丽的这个。	2	62	132	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	535.741	540.472	Xu_zidong	male	native	二二零零六年全球医学界最大的事件就是这个枕	2	63	133	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	540.472	541.370	Xu_zidong	male	native	头天使，对。	2	64	134	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	540.472	541.370	Chen_fangyuan	female	native	噢？是吗？	2	64	135	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	542.059	549.125	Xu_zidong	male	native	因为她的意义在什么地方，就意义在于她，她将来就是一个三个月的	2	65	137	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	550.083	551.939	Xu_zidong	male	native	灵魂，三个月的脑子，	2	65	139	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	551.939	552.358	Dou_wentao		native	嗯。	2	66	140	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	552.358	553.586	Xu_zidong	male	native	六岁的身体，	2	67	141	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	554.364	556.340	Xu_zidong	male	native	三个月的脑子是天生的，	2	67	143	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	557.029	558.826	Xu_zidong	male	native	六岁的身体是人造的，	2	67	145	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	559.814	563.197	Xu_zidong	male	native	所以在医学的角度来讲是一个科学怪人，她，	2	67	147	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	563.197	568.677	Xu_zidong	male	native	你想二十年，三十年以后，她三十岁，可是她还是这么一个，	2	67	148	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	569.515	571.341	Xu_zidong	male	native	你想想这么一个天使的脸。	2	67	150	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	571.341	571.607	Dou_wentao		native	嗯。	2	68	151	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	571.607	576.611	Xu_zidong	male	native	三十岁，她还是这么一个小孩儿，就永远长不大这么一个天使，	2	69	152	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	577.539	583.707	Xu_zidong	male	native	所以这就给大家带来了很多医学医学道德，各种各样伦理上的困惑，	2	69	154	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	583.707	584.695	Xu_zidong	male	native	真的真的	2	70	155	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	583.707	584.695	Dou_wentao		native	元子，你说。	2	70	156	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	584.695	585.234	Xu_zidong	male	native	不得了。	2	71	157	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	585.234	588.844	Dou_wentao		native	女，女，女，女性，看着她照片你什么感觉？	2	72	158	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	588.844	593.047	Chen_fangyuan	female	native	我觉得有的事情，比如从感情上理解是一回事，从理智上理解又是一回事，	2	73	159	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	593.047	596.078	Chen_fangyuan	female	native	就像我们说这个，呃，安乐死。	2	73	160	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	596.078	596.551	Dou_wentao		native	嗯嗯嗯。	2	74	161	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	596.551	600.934	Chen_fangyuan	female	native	虽然在很多国家法律通过了，可以安乐死，那还有很多国家不通过，	2	75	162	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	600.934	605.694	Chen_fangyuan	female	native	另外再有一些可能宗教国家会觉得，上帝造了我们就应该是这样的，	2	75	163	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	605.694	608.329	Chen_fangyuan	female	native	不应该改变，不应该怎么样，死亡也应该是自然的。	2	75	164	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	608.329	608.718	Dou_wentao		native	嗯。	2	76	165	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	608.718	614.248	Chen_fangyuan	female	native	但是我觉得我个人同意安乐死，我觉得这是一个很大的一个一个一个探讨的话题，	2	77	166	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	614.248	618.873	Chen_fangyuan	female	native	简单地讲我觉得就是说，允许让人自己来结束自己的痛苦，	2	77	167	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	618.873	623.347	Chen_fangyuan	female	native	他肯定说，非常痛苦这样的病人，非常你难以想象的那种痛苦，	2	77	168	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	623.347	628.491	Chen_fangyuan	female	native	他觉得生不如死，所以我才去选择死亡，另外一个就是说让自己死的比较有尊严。	2	77	169	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	629.688	634.778	Xu_zidong	male	native	所以看来他这个枕头天使的问题他只是戏剧性地它揭露出来，	2	78	171	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	634.778	635.227	Xu_zidong	male	native	其实	2	79	172	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	634.778	635.227	Chen_fangyuan	female	native	对。	2	79	173	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	635.227	636.993	Xu_zidong	male	native	类似的现象，这个人类啊，	2	80	174	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	636.993	637.473	Dou_wentao		native	嗯。	2	81	175	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	637.473	639.055	Xu_zidong	male	native	到处存在，是不是啊？	2	82	176	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	639.055	642.615	Xu_zidong	male	native	很多人指责她的父母啊，她父母就很伤心。	2	82	177	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	642.615	649.419	Xu_zidong	male	native	指责她的父母的两个层面，第一个层面呢，比较明显就是你刚才讲的，父母说我们是为她好。	2	82	178	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	649.419	649.778	Chen_fangyuan	female	native	嗯。	2	83	179	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	649.778	652.233	Xu_zidong	male	native	这个层面在西方一般道德来讲，	2	84	180	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	652.233	652.622	Chen_fangyuan	female	native	嗯。	2	85	181	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	652.622	655.712	Xu_zidong	male	native	某人为某人好来替他做决定，	2	86	182	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	656.401	662.481	Xu_zidong	male	native	这个是嗯，不受赞成，就是说以她是儿童，以她没有能力来判断，	2	86	184	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	662.481	665.892	Xu_zidong	male	native	我们为她好来替她做决定，这个很多人不同情，	2	86	185	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	665.892	666.371	Chen_fangyuan	female	native	嗯。	2	87	186	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	666.371	671.574	Xu_zidong	male	native	但另外一个是什么呢？因为他父母面对，她父母要照料她一辈子，一，一辈子啊，	2	88	187	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	671.574	675.793	Xu_zidong	male	native	你有了这个孩子，你，我的，这父母的一辈子也彻底改变了，对不对？	2	88	188	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	675.793	679.918	Xu_zidong	male	native	那就想我就把她留在床上了，因为她本来就起不来，	2	88	189	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	679.918	684.231	Xu_zidong	male	native	那长大以后她起不来更难，所以就把她改造成这样一个人。	2	88	190	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	684.231	684.496	Chen_fangyuan	female	native	嗯。	2	89	191	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	684.496	686.802	Xu_zidong	male	native	那么，另一种批评的声音就是说，	2	90	192	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	687.580	689.766	Xu_zidong	male	native	你去残疾人中心看看吧，	2	90	194	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	690.484	694.077	Xu_zidong	male	native	你看看有多少残疾人是怎么生活的。	2	90	196	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	694.077	694.436	Dou_wentao		native	嗯。	2	91	197	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	694.436	700.305	Xu_zidong	male	native	就是说你不能，他的意思说你父母啊害怕见到一个残疾的小孩儿，	2	92	198	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	700.903	705.189	Xu_zidong	male	native	就把她改造成一个比较低的小的残疾。	2	92	200	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	705.189	706.327	Dou_wentao		native	永远也长不大的。	2	93	201	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	706.327	710.279	Xu_zidong	male	native	哎，永远也长不大，其实残疾人也是人，对不对？	2	94	202	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	710.279	716.058	Xu_zidong	male	native	就算她只有三个月的智商，可是她人的权利不应该被剥夺，对不对？	2	94	203	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	716.058	716.537	Dou_wentao		native	可她这个权	2	95	204	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	716.537	717.648	Dou_wentao		native	利她知道吗？	2	96	205	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	716.537	717.648	Xu_zidong	male	native	残疾人的，	2	96	206	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	717.648	725.858	Xu_zidong	male	native	对，她不知道，但是，他们就是说其他人知道，你不能以为这个人本身不知道就可以对她实行另外，	2	97	207	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	725.858	729.654	Xu_zidong	male	native	那你要是这个逻辑通的话，那世界上有很多暴行都被容	2	97	208	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	729.654	730.343	Xu_zidong	male	native	忍了，	2	98	209	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	729.654	730.343	Dou_wentao		native	是是是。	2	98	210	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	730.343	735.223	Xu_zidong	male	native	那以前的那个那个贞节，贞妇节夫啊，小脚啊，他们都是自愿的吗？	2	99	211	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	735.223	740.912	Xu_zidong	male	native	那你帮他做的难道都是对的吗？不是的，是站，站在社会共识的角度来讲，	2	99	212	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	740.912	745.463	Xu_zidong	male	native	你不能说，所以他们的意思是，其实是站在一个非常高的人道标准	2	99	213	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	745.463	745.612	Chen_fangyuan	female	native	嗯。	2	100	214	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	745.612	746.391	Xu_zidong	male	native	提出这样一个批评，	2	101	215	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	746.391	747.169	Xu_zidong	male	native	就是说你父母，	2	101	216	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	747.678	751.241	Xu_zidong	male	native	你要正视世界上有残疾人这么回事。	2	101	218	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	751.241	751.631	Chen_fangyuan	female	native	嗯。	2	102	219	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	751.631	754.056	Xu_zidong	male	native	就要他们到残疾人中心去生活一个月，	2	103	220	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	754.745	755.134	Xu_zidong	male	native	他说你	2	104	222	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	754.745	755.134	Dou_wentao		native	啊。	2	104	223	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	755.134	761.511	Xu_zidong	male	native	去残疾人中心生活一个月，你就会知道残疾人也是人，在世界上他们怎么生活，	2	105	224	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	761.511	767.050	Xu_zidong	male	native	你不应该用科学的方法消灭或者是改造你的小孩儿，是这样的角度提出批评的，	2	105	225	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	767.050	769.587	Xu_zidong	male	native	所以他背后带来的伦理很深。	2	106	226	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	767.050	769.587	Dou_wentao		native	真是真是，这这选择，	2	106	227	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	769.587	770.650	Dou_wentao		native	太，太难了。	2	107	228	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	770.650	771.025	Chen_fangyuan	female	native	嗯。	2	108	229	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	771.025	773.133	Dou_wentao		native	锵锵三人行，广告之后见。	2	109	230	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	829.456	830.444	Dou_wentao		native	元子，想起什么？	4	111	232	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	831.073	836.073	Chen_fangyuan	female	native	我呀，嗯，我首先想起一个例子来，就是说我一个，一个，一个运动员吧。	4	112	234	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	836.073	836.313	Dou_wentao		native	嗯。	4	113	235	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	836.313	840.019	Chen_fangyuan	female	native	呃，我是认识她一个照顾她的一个朋友，	4	114	236	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	840.019	847.177	Chen_fangyuan	female	native	就是她这个受伤以后也高位截瘫啊，生活不能自理，是一个女孩子然后呢我这个朋友呢就一直在照顾她，	4	114	237	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	847.177	854.771	Chen_fangyuan	female	native	照顾她，帮她治疗啊，恢复啊，那么甚至大小便啊，包括这个月经啊，什么都要去，她去清理啊，	4	114	238	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	854.771	855.430	Chen_fangyuan	female	native	帮她弄，	4	115	239	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	854.771	855.430	Dou_wentao		native	啊啊啊。	4	115	240	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	855.430	861.748	Chen_fangyuan	female	native	实际上是一个很，很琐碎，非常具体，而且非常现实的一个问题，所以	4	116	241	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	861.748	862.346	Chen_fangyuan	female	native	就是	4	117	242	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	861.748	862.346	Dou_wentao		native	就是。	4	117	243	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	862.346	863.963	Chen_fangyuan	female	native	这是一个挺，挺	4	118	244	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	863.963	864.173	Dou_wentao		native	这怎	4	119	245	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	864.173	864.562	Dou_wentao		native	么办？	4	120	246	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	864.173	864.562	Xu_zidong	male	native	所以说	4	120	247	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	864.562	868.664	Xu_zidong	male	native	她的父母也是这样说，其实所有的照顾责任最后是她父母	4	121	248	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	868.664	869.652	Xu_zidong	male	native	身上，	4	122	249	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	868.664	869.652	Chen_fangyuan	female	native	对。	4	122	250	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	869.652	871.868	Xu_zidong	male	native	对不对，写了一些信也是满感人的。	4	123	251	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	871.868	872.078	Chen_fangyuan	female	native	对。	4	124	252	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	872.078	876.958	Xu_zidong	male	native	就是说他，他，他说她一个小孩摇摇头，给他一个娃娃，那个小孩不知道，	4	125	253	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	876.958	880.671	Xu_zidong	male	native	海盗般的粗鲁，对着对着那个，那个，那个娃娃。	4	125	254	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	880.671	880.911	Dou_wentao		native	嗯。	4	126	255	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	880.671	880.911	Xu_zidong	male	native	然后	4	126	256	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	880.911	885.971	Xu_zidong	male	native	医院里大家都来围，围观哈，然后向她，就是一直看着他的小孩儿	4	127	257	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	885.971	886.869	Xu_zidong	male	native	父母的心里。	4	128	258	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	885.971	886.869	Chen_fangyuan	female	native	怕她受欺	4	128	259	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	886.869	887.677	Chen_fangyuan	female	native	负，怕她受欺	4	129	260	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	887.677	888.126	Chen_fangyuan	female	native	负	4	130	261	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	887.677	888.126	Xu_zidong	male	native	我看着	4	130	262	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	888.126	891.719	Xu_zidong	male	native	新闻就是反正我看着，尤其这个照片，看着心里的感受是。	4	131	263	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	891.719	899.161	Dou_wentao		native	所以啊，你就说这个就是说，说人生老病死，这是一大苦啊，就是说这个病可以苦。	4	132	264	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	899.161	905.276	Xu_zidong	male	native	呃人，人，我总觉得人呢就是一有孩子，这个生孩子是一件巨大巨大的责任，	4	133	265	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	905.276	905.845	Xu_zidong	male	native	巨	4	134	266	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	905.276	905.845	Dou_wentao		native	没错。	4	134	267	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	905.845	907.043	Xu_zidong	male	native	大巨大的责任就	4	135	268	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	907.043	907.312	Xu_zidong	male	native	是。	4	136	269	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	907.043	907.312	Dou_wentao		native	我还	4	136	270	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	907.312	913.091	Dou_wentao		native	跟你讲，你像我们那导演，就，就是生了孩子，啊，然后有一天跟我说，	4	137	271	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	913.869	920.815	Dou_wentao		native	说这个小孩儿哭，你，你能想象到吗？小孩儿哭，呃，抱着她，也不知道她为什么哭，	4	137	273	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	920.815	923.180	Dou_wentao		native	她就一直在那儿哭，你知道吗？	4	137	274	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	923.180	923.586	Dou_wentao		native	哎呀。	4	138	275	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	923.180	923.586	Chen_fangyuan	female	native	饿	4	138	276	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	923.586	924.484	Chen_fangyuan	female	native	了呗。	4	139	277	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	924.484	928.625	Dou_wentao		native	也，也不知道是饿，你喂，喂她奶，她也不吃，喂她什么，你也不知道她为什么哭，	4	140	278	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	928.625	934.425	Dou_wentao		native	那个时候你就是作为，呃，当爸爸的就开始觉得，我为什么要生这个孩子？你知道吗？	4	140	279	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	934.425	938.215	Dou_wentao		native	再一个可能是个偶然性的生了这孩子，有些会有这么一个。	4	140	280	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	938.215	944.637	Xu_zidong	male	native	鲁，鲁迅的说法说一个小孩儿，呃，哭，而且眼睛滴溜溜地看着房间里的人，	4	141	281	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	944.637	948.589	Xu_zidong	male	native	他说，他是在寻找异性吗？不，谁都知道他要喝奶。	4	141	282	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	948.589	950.445	Xu_zidong	male	native	{laugh}	4	141	283	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	950.445	951.433	Xu_zidong	male	native	很不容易的。	4	142	284	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	951.433	956.282	Chen_fangyuan	female	native	其实父母对孩子的那种，那种关心，那种关怀，那种养育啊其实是说不尽，	4	143	285	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	956.282	958.617	Chen_fangyuan	female	native	而且特别的琐碎，很多的事情，	4	143	286	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	958.617	958.827	Dou_wentao		native	嗯。	4	144	287	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	958.827	960.501	Chen_fangyuan	female	native	把咱们抚养这么成这么大，	4	145	288	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	960.501	963.438	Chen_fangyuan	female	native	我，我想到一个什么例子？就是说这个孩子不是脑瘫吗？	4	145	289	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	963.438	963.938	Chen_fangyuan	female	native	就等于是	4	146	290	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	963.438	963.938	Dou_wentao		native	嗯。	4	146	291	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	963.938	969.345	Chen_fangyuan	female	native	智障啊那种，我们小时候我们在，在中央乐团的时候，那时候我们在上，上学，	4	147	292	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	969.345	973.220	Chen_fangyuan	female	native	然后我们有一个老师的孩子就是这样一个叫，叫蒙古症吧，	4	147	293	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.220	973.698	Chen_fangyuan	female	native	就是	4	148	294	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.220	973.698	Dou_wentao		native	噢。	4	148	295	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.698	973.993	Chen_fangyuan	female	native	全世界	4	149	296	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.993	974.802	Chen_fangyuan	female	native	那种，有一种	4	150	297	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.993	974.802	Dou_wentao		native	蒙古症，对。	4	150	298	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	974.802	981.329	Chen_fangyuan	female	native	病人长的都是一样的，从小呢就，我们就知道他，他老师会带着他来，有时候会上课呀，我们会见到他，	4	151	299	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	981.329	983.724	Chen_fangyuan	female	native	就是一直觉得他是一个智障的一个儿童。	4	151	300	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	983.724	984.143	Dou_wentao		native	嗯。	4	152	301	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	984.143	988.972	Chen_fangyuan	female	native	跟我们也岁数差不多，那么在前些年呢突然发生了变化了，	4	153	302	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	988.972	992.795	Chen_fangyuan	female	native	不是说他就变成正常，而是说他突然有一个能力，	4	153	303	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	993.364	996.877	Chen_fangyuan	female	native	这个非常奇特的就是，他突然可以绘画。	4	153	305	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	996.877	997.266	Dou_wentao		native	啊，	4	154	306	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	997.266	997.775	Dou_wentao		native	往往是	4	155	307	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	997.266	997.775	Chen_fangyuan	female	native	而且画	4	155	308	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	997.775	998.464	Dou_wentao		native	天才。	4	156	309	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	998.464	1001.698	Chen_fangyuan	female	native	真是天才和这个有时候说这个傻子就是一念之差。	4	157	310	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1001.698	1002.087	Xu_zidong	male	native	嗯。	4	158	311	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1002.087	1002.566	Chen_fangyuan	female	native	就是说，	4	159	312	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1002.566	1003.644	Dou_wentao		native	这话说的好。	4	160	313	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1003.644	1006.986	Chen_fangyuan	female	native	有时候就这样，因为我觉得从科学的角度会不会研究他，	4	161	314	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1006.986	1009.183	Chen_fangyuan	female	native	就是说这个在脑子的当中	4	161	315	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.183	1009.452	Chen_fangyuan	female	native	这个。	4	162	316	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.183	1009.452	Xu_zidong	male	native	搭	4	162	317	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.452	1009.871	Xu_zidong	male	native	错线嘛。	4	163	318	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.871	1010.135	Chen_fangyuan	female	native	哎	4	164	319	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1010.135	1011.698	Chen_fangyuan	female	native	就是哪个那个细胞	4	165	320	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1010.135	1011.698	Xu_zidong	male	native	这个线一条一条的。	4	165	321	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1011.698	1016.338	Chen_fangyuan	female	native	和哪个细胞大概挨的很近或者是它怎么样，会产生一些化学的反映怎么样，	4	166	322	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1016.338	1020.026	Chen_fangyuan	female	native	后来画的画特别棒，而且他所有的画都是听着音乐放。	4	166	323	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1020.026	1020.410	Dou_wentao		native	嗯。	4	167	324	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1020.410	1026.218	Chen_fangyuan	female	native	他爸爸是一个特别著名的作曲家，然后呢听他爸爸的作品，他就会两眼流泪，	4	168	325	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1026.218	1029.392	Chen_fangyuan	female	native	然后就会说，爸爸我要画你那个第几号交响乐，	4	168	326	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1029.392	1036.046	Chen_fangyuan	female	native	听马友友的作品，听马友友的那个大提琴曲子，听某某大作曲家的曲子，他就可以画出来一幅画，	4	168	327	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1036.046	1044.941	Chen_fangyuan	female	native	而且这个作曲家本身看到之后非常的震惊说，哎呀，这画就是我的那个音乐所要表达的那种意境，所以特别令人震惊。	4	168	328	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1044.941	1047.692	Dou_wentao		native	呃，但是这个遗传基因很有关系，	4	169	329	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1047.692	1052.542	Dou_wentao		native	我最近这个感觉啊，就好比你说像智障啊或者什么啊，他还有一个问题，	4	169	330	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1052.542	1057.542	Dou_wentao		native	就是说呀，我们对于生命中我们不了解的东西，你得有一种敬畏感。	4	169	331	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1057.542	1058.051	Chen_fangyuan	female	native	嗯嗯。	4	170	332	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1058.051	1064.302	Dou_wentao		native	你不知道，也许比如说他的病就像你说的，他可能在另一方面发现出某方面的天才，	4	171	333	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1064.302	1069.480	Dou_wentao		native	呃，或者呢甚至这种病再过一些年，就有一个治疗的方法，	4	171	334	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1069.480	1073.405	Dou_wentao		native	就是说，咱们的这个认识啊，现在是太有限了。	4	171	335	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1073.405	1073.732	Chen_fangyuan	female	native	对对，	4	172	336	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1073.732	1074.184	Chen_fangyuan	female	native	有限。	4	173	337	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1073.732	1074.184	Dou_wentao		native	你比如	4	173	338	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1074.184	1078.735	Dou_wentao		native	我最近啊，这个，哎，我给你讲，看本书挺有意思，叫精子战争。	4	174	339	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1078.735	1079.064	Xu_zidong	male	native	嗯。	4	175	340	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1078.735	1079.064	Chen_fangyuan	female	native	嗯。	4	175	341	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1079.064	1082.118	Dou_wentao		native	这书挺好玩儿，我跟你说，它，我跟你说许老师，	4	176	342	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1082.118	1082.807	Dou_wentao		native	首先我说	4	177	343	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1082.118	1082.807	Xu_zidong	male	native	美，美	4	177	344	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1082.807	1083.419	Xu_zidong	male	native	国人写的。	4	178	345	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1083.945	1085.767	Dou_wentao		native	美国人，啊，罗宾贝克嘛。	4	179	347	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1085.767	1090.257	Dou_wentao		native	很，首先我说他这个书啊就说明咱中国出版界的这种保守。	4	179	348	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1090.257	1090.652	Chen_fangyuan	female	native	嗯。	4	180	349	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1090.652	1094.634	Dou_wentao		native	这显然是个学术的一个书嘛，很严肃的一个书嘛，	4	181	350	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1094.634	1098.347	Dou_wentao		native	但是他可能用一种比较生动的描写，	4	181	351	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1098.347	1102.957	Dou_wentao		native	然后呢，几 <foreign lang="English">K</foreign> 这个专家导语序言写，恨不得写三四个告诉你，	4	181	352	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1102.957	1103.137	Chen_fangyuan	female	native	嗯。	4	182	353	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1103.137	1104.574	Dou_wentao		native	可不要以为这是黄色小说，	4	183	354	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1104.574	1104.903	Chen_fangyuan	female	native	嗯。	4	184	355	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1104.903	1108.976	Dou_wentao		native	而且呢，解释完了之后，还要告诉读者，我们都删节了，	4	185	356	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1108.976	1109.273	Dou_wentao		native	你	4	186	357	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1108.976	1109.273	Xu_zidong	male	native	嗯。	4	186	358	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1109.273	1113.405	Dou_wentao		native	说这种，我说删什么节，我认为你删节的就是我最想看的，	4	187	359	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1113.405	1114.453	Dou_wentao		native	你怎么随随便便	4	188	360	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1113.405	1114.453	Xu_zidong	male	native	就跟金	4	188	361	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1114.453	1116.281	Xu_zidong	male	native	瓶梅一样，此处删去两百	4	189	362	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1116.281	1116.699	Xu_zidong	male	native	字。	4	190	363	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1116.281	1116.699	Dou_wentao		native	没有，	4	190	364	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1116.699	1119.483	Dou_wentao		native	就是，我认为出版社你把我当智障了嘛。	4	191	365	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1119.483	1123.855	Dou_wentao		native	你，我，我弱智吗？那，那我不懂看，你删节。不，不是，我就说这个事儿，	4	191	366	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1123.855	1130.575	Xu_zidong	male	native	现在出版各行各业他们都有一个标准，就是十五六岁，以这个年龄为标准线，	4	192	367	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1130.575	1131.024	Xu_zidong	male	native	就别	4	193	368	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1130.575	1131.024	Chen_fangyuan	female	native	噢。	4	193	369	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.024	1131.383	Xu_zidong	male	native	超过	4	194	370	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.383	1131.806	Xu_zidong	male	native	这个	4	195	371	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.383	1131.806	Dou_wentao		native	可以	4	195	372	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.806	1132.465	Dou_wentao		native	像香港一样，	4	196	373	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.806	1132.465	Chen_fangyuan	female	native	啊。	4	196	374	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1132.465	1139.471	Dou_wentao		native	有分级嘛。不是，我说的不是这个，我说的是这个精子，太也意思了，你知道人为什么一下子，	4	197	375	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1140.100	1142.555	Dou_wentao		native	需要一个亿吗？需要上亿的精子吗？	4	197	377	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1142.555	1142.914	Chen_fangyuan	female	native	嗯。	4	198	378	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1143.663	1146.417	Dou_wentao		native	不需要吗？过去以为都是奔着奔着那个	4	199	380	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1146.417	1146.807	Dou_wentao		native	那个	4	200	381	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1146.417	1146.807	Xu_zidong	male	native	有后	4	200	382	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1146.807	1148.244	Xu_zidong	male	native	卫有后卫，我听过。	4	201	383	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1148.244	1149.502	Dou_wentao		native	对，你这	4	202	384	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1149.502	1150.610	Dou_wentao		native	发现人类这个这么	4	203	385	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1149.502	1150.610	Xu_zidong	male	native	有前锋，有后卫。	4	203	386	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1150.610	1153.367	Dou_wentao		native	多年的进化呀，这上亿的精子啊	4	204	387	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1153.367	1153.576	Chen_fangyuan	female	native	嗯。	4	205	388	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1153.576	1155.879	Dou_wentao		native	有不同分工的，跟一支军队一样。	4	206	389	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1155.879	1156.388	Chen_fangyuan	female	native	噢。	4	207	390	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1156.388	1162.227	Dou_wentao		native	比如说这科学家他两个男人的精子混合在一起，顿时发现开始作战了，	4	208	391	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1162.826	1163.545	Dou_wentao		native	好家伙，都有	4	208	393	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.545	1163.785	Dou_wentao		native	自我	4	209	394	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.545	1163.785	Xu_zidong	male	native	好。好。	4	209	395	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.785	1163.995	Dou_wentao		native	牺牲	4	210	396	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.995	1165.462	Xu_zidong	male	native	噢，它们就要打仗的。	4	211	397	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1165.462	1168.157	Dou_wentao		native	一部分精子作战，拦截，	4	212	398	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1168.157	1168.576	Chen_fangyuan	female	native	嗯。	4	213	399	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1168.576	1173.246	Dou_wentao		native	一部分精子使劲儿钻那卵子，他就是专门负责去受精的，	4	214	400	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1173.246	1178.707	Dou_wentao		native	你看了吗？它是有策略的，再者说你比如说这个书里，让我想起啊今年是猪年，	4	214	401	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1178.707	1179.066	Chen_fangyuan	female	native	嗯。	4	215	402	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1179.066	1182.300	Dou_wentao		native	好多人啊，都是种子选手，你知道这男的，	4	216	403	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1182.300	1182.839	Dou_wentao		native	知道什么	4	217	404	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1182.300	1182.839	Chen_fangyuan	female	native	明年，	4	217	405	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1182.839	1184.695	Chen_fangyuan	female	native	马上明年吧，阴历年。	4	218	406	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1184.695	1185.204	Dou_wentao		native	噢阴历	4	219	407	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1185.204	1185.501	Dou_wentao		native	年，	4	220	408	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1185.204	1185.501	Chen_fangyuan	female	native	嗯。	4	220	409	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1185.501	1186.549	Dou_wentao		native	都想生孩子嘛。	4	221	410	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1186.549	1186.998	Chen_fangyuan	female	native	嗯嗯。	4	222	411	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1186.998	1187.627	Xu_zidong	male	native	猪年。	4	223	412	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1187.627	1190.522	Dou_wentao		native	嗯，现在有些个种子选手你像老公啊就是种子选手，	4	224	413	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1190.522	1190.881	Chen_fangyuan	female	native	嗯，嗯。	4	225	414	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1190.881	1193.855	Dou_wentao		native	给这老婆给逼的呀，满天漫天飞，	4	226	415	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1193.855	1199.304	Dou_wentao		native	为什么漫天飞呀？因为现在工作尽是分居两地的，你知道吗？两口子算，	4	226	416	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1199.933	1200.711	Dou_wentao		native	我排卵期。	4	226	418	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1200.711	1201.071	Chen_fangyuan	female	native	啊。	4	227	419	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1201.071	1207.538	Dou_wentao		native	就是坐着飞机去呵呵去，去干嘛？去找，找这个排卵期，你知道吗？太可乐了。	4	228	420	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1207.538	1208.227	Chen_fangyuan	female	native	造人呵呵。	4	229	421	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1208.227	1215.502	Dou_wentao		native	没错，你，你，你听说过，我，我那天听俩女，女的，两个做老婆都想生孩子交流经验，把我笑坏了。	4	230	422	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1215.502	1220.922	Dou_wentao		native	就一个，一个，我听一女的说，说啊我这个每次我都拿枕头垫着，	4	230	423	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1220.922	1221.311	Chen_fangyuan	female	native	嗯。	4	231	424	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1221.311	1227.090	Dou_wentao		native	怎么都不管用？老是不受孕啊？那个女的说，不行，拿垫着哪管用啊，我每次都倒立。	4	232	425	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1227.090	1227.599	Chen_fangyuan	female	native	{laugh}	4	233	426	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1227.599	1231.162	Dou_wentao		native	我老公在床上看报纸，我在床上倒立，我说	4	234	427	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1231.162	1231.599	Dou_wentao		native	这这。	4	235	428	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1231.162	1231.599	Chen_fangyuan	female	native	这是	4	235	429	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1231.599	1233.485	Chen_fangyuan	female	native	段子，这肯定是段子演绎了。	4	236	430	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1233.485	1234.862	Dou_wentao		native	我听见那俩女的说的。	4	237	431	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1234.862	1235.282	Chen_fangyuan	female	native	真的吗？	4	238	432	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1235.282	1237.707	Dou_wentao		native	真的倒立，倒立得半个小时，你说这个	4	239	433	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1237.707	1238.396	Dou_wentao		native	是运动员。	4	240	434	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1237.707	1238.396	Chen_fangyuan	female	native	哇	4	240	435	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1239.294	1244.174	Chen_fangyuan	female	native	这个东西我觉得更多的应该是动物的本能，是一种自然的一种一种，一种状态，	4	241	437	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1244.174	1246.480	Chen_fangyuan	female	native	我觉得生理，人都有自己生理，生物钟。	4	241	438	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1246.480	1246.839	Dou_wentao		native	嗯。	4	242	439	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1246.839	1251.720	Chen_fangyuan	female	native	会有他自己生理的发出的一个命令，然后虽然是，我们虽然听不到这个命令，	4	243	440	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1251.720	1255.080	Chen_fangyuan	female	native	他身体各部位是可以感到到这种指令的我觉得。	4	243	441	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1255.080	1258.187	Xu_zidong	male	native	烦恼是没完没了的，你看你没生就有烦恼了吧？	4	244	442	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1258.187	1258.606	Xu_zidong	male	native	哎	4	245	443	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1258.187	1258.606	Dou_wentao		native	怎么样。	4	245	444	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1258.606	1259.265	Xu_zidong	male	native	怎么生？	4	246	445	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1259.265	1259.744	Xu_zidong	male	native	啊，	4	247	446	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1259.265	1259.744	Dou_wentao		native	嗯。	4	247	447	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1259.744	1261.870	Xu_zidong	male	native	生下来，出了问题那么多烦恼。	4	248	448	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1261.870	1262.408	Dou_wentao		native	嗯。	4	249	449	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1262.408	1269.434	Xu_zidong	male	native	斯特林堡那个父亲一出戏啊还讲了另一个烦恼，是怎么呢？那好端端的那个，那个上校，还是大校吧，	4	250	450	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1269.434	1274.090	Xu_zidong	male	native	他跟他老婆不好，他老婆要，要为了害他啊，气他，	4	250	451	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1274.090	1278.506	Xu_zidong	male	native	突然就想个方法告诉他说，他的女儿已经长的蛮大了，	4	250	452	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1279.195	1280.932	Xu_zidong	male	native	说不是他生的。	4	250	454	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1280.932	1282.758	Dou_wentao		native	{laugh}	4	251	455	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1282.758	1290.423	Xu_zidong	male	native	然后那个父亲就，就呆掉啦，然后他就到处去问人，到处去问人，然后大家就当他是神经病，	4	252	456	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1291.321	1293.088	Xu_zidong	male	native	因为什么？谁都笑他，	4	252	458	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1293.088	1293.357	Dou_wentao		native	嗯。	4	253	459	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1293.357	1300.513	Xu_zidong	male	native	哪有说自己的小孩儿突然跑出来说，说不是他的呢，他就到处说，最后渐渐渐渐大家都	4	254	460	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1300.513	1304.216	Xu_zidong	male	native	大家笑他是神经病的时候他就觉得这事情可疑啊，	4	254	461	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1304.216	1304.615	Dou_wentao		native	嗯。	4	255	462	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1304.615	1306.791	Xu_zidong	male	native	你说他老得不到好好的回答，	4	256	463	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1306.791	1307.090	Chen_fangyuan	female	native	嗯。	4	257	464	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1307.090	1312.729	Xu_zidong	male	native	最后他就真的就是变成一个精神病了，就是真的就出现一个精神病了，所以，	4	258	465	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1312.729	1312.969	Dou_wentao		native	确实。	4	259	466	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1312.969	1315.155	Xu_zidong	male	native	所以，所以你说这个小孩儿这个事情，	4	260	467	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1315.155	1315.424	Dou_wentao		native	我跟你说，	4	261	468	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1315.424	1316.262	Xu_zidong	male	native	多麻烦啊！	4	262	469	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1316.262	1319.795	Dou_wentao		native	强大的本能在驱动，我最近有一个怪论啊，	4	263	470	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1319.795	1320.188	Chen_fangyuan	female	native	嗯。	4	264	471	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1320.188	1324.316	Dou_wentao		native	我觉，我觉得人哪，要不说，你以为你是个人哪，其实啊你就是一个容器，	4	265	472	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1324.885	1330.829	Dou_wentao		native	你这辈子，你的所有为人处世，你干的这一切是你是基因的容器，	4	265	474	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1330.829	1331.189	Chen_fangyuan	female	native	嗯。	4	266	475	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1331.189	1337.979	Dou_wentao		native	你，你这辈子实际最大的目的，不管你明白还是不明白，愿意还是不愿意，你都是为了一个基因的策略，	4	267	476	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1337.979	1342.542	Dou_wentao		native	你比如说，我就说这书里提出一个问题，我才刚看了一个开头我就发现一个问题，	4	267	477	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1342.542	1345.117	Dou_wentao		native	为什么不想怀孕的时候，	4	267	478	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1345.117	1345.296	Chen_fangyuan	female	native	嗯。	4	268	479	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1345.296	1345.846	Dou_wentao		native	经常	4	269	480	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1345.846	1346.804	Chen_fangyuan	female	native	嗯。	4	270	481	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1346.804	1350.756	Dou_wentao		native	就会怀孕，想怀孕了呢？老是不会怀孕。	4	271	482	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1351.415	1359.715	Dou_wentao		native	这就讲啊，原，再者说为什么夫妻二人咱们现在说夫妻感情，呃，就是说夫妻生活好象例行公事，	4	271	484	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1359.715	1359.967	Chen_fangyuan	female	native	嗯。	4	272	485	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1359.967	1363.307	Dou_wentao		native	明明都觉得很无聊，但是为什么你还要例行公事呢？	4	273	486	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1363.307	1367.649	Dou_wentao		native	我们通常解释这感情啊，什么亲情啊，爱情这些理由，	4	273	487	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1367.649	1372.738	Dou_wentao		native	照这本书的研究，这是你不能自控的人的本能。	4	273	488	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1373.247	1377.229	Dou_wentao		native	比如说，人类必须对他繁殖最有利的，	4	273	490	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1377.229	1377.679	Chen_fangyuan	female	native	嗯。	4	274	491	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1377.679	1381.600	Dou_wentao		native	保持一种例行公事的性生活，为什么呢？	4	275	492	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1382.109	1387.290	Dou_wentao		native	因为，你啊就人类女性的这个排卵期你永远算不准。	4	275	494	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1387.290	1387.919	Chen_fangyuan	female	native	嗯嗯。	4	276	495	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1387.919	1389.835	Dou_wentao		native	虽然说是这个多	4	277	496	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1389.835	1390.445	Dou_wentao		native	少天，	4	278	497	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1389.835	1390.445	Xu_zidong	male	native	很有	4	278	498	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1390.445	1390.834	Xu_zidong	male	native	研究，	4	279	499	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1390.834	1391.100	Chen_fangyuan	female	native	啊有	4	280	500	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1391.100	1391.606	Chen_fangyuan	female	native	研究。	4	281	501	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1391.100	1391.606	Dou_wentao		native	多少天。	4	281	502	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1391.606	1392.834	Chen_fangyuan	female	native	专家，这是专家。	4	282	503	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1392.834	1396.397	Dou_wentao		native	呃，对啊，你比如说卵子它就存活一天，精子呢，	4	283	504	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1396.397	1397.146	Xu_zidong	male	native	这还真不知	4	284	505	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1397.146	1397.536	Xu_zidong	male	native	道。	4	285	506	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1397.146	1397.536	Dou_wentao		native	对，	4	285	507	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1397.536	1401.072	Dou_wentao		native	人，人这个射精之后，精子大概要，	4	286	508	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1401.072	1404.288	Xu_zidong	male	native	就是要女的一个月三十天里面只有一天是受孕的？	4	287	509	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1404.288	1405.635	Dou_wentao		native	没错，而男	4	288	510	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1405.635	1406.594	Dou_wentao		native	的呢？	4	289	511	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1405.635	1406.594	Xu_zidong	male	native	是这样。	4	289	512	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1406.594	1407.372	Dou_wentao		native	是，你问她	4	290	513	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1406.594	1407.372	Chen_fangyuan	female	native	呃。	4	290	514	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1407.372	1408.121	Dou_wentao		native	她哪知道，她	4	291	515	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1408.121	1408.570	Dou_wentao		native	应该知道。	4	292	516	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1408.121	1408.570	Chen_fangyuan	female	native	不，他	4	292	517	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1408.570	1412.119	Chen_fangyuan	female	native	是这样的，就是过去我们说有一个排卵期，有说按照这个来算日子	4	293	518	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1412.119	1412.762	Chen_fangyuan	female	native	什么的，	4	294	519	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1412.119	1412.762	Xu_zidong	male	native	嗯。	4	294	520	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1412.762	1415.712	Chen_fangyuan	female	native	其实后来又有人想呢这个排卵期未必准确，	4	295	521	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1416.221	1416.864	Chen_fangyuan	female	native	就是我们	4	295	523	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1416.864	1417.343	Chen_fangyuan	female	native	通常说	4	296	524	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1416.864	1417.343	Xu_zidong	male	native	只有	4	296	525	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1417.343	1418.720	Xu_zidong	male	native	一天才有效？	4	297	526	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1418.720	1422.403	Dou_wentao		native	对，而且这一天，太难算了，这个作为	4	298	527	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1422.403	1423.002	Dou_wentao		native	精子	4	299	528	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1422.403	1423.002	Xu_zidong	male	native	你别	4	299	529	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1423.002	1423.990	Xu_zidong	male	native	误导众女哟。	4	300	530	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1423.990	1429.080	Dou_wentao		native	这是这是有书为证啊，这个精子出来之后要到两天，	4	301	531	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1429.858	1431.894	Dou_wentao		native	它得等两天，才能到达	4	301	533	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1431.894	1432.691	Dou_wentao		native	一个比较	4	302	534	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1431.894	1432.691	Xu_zidong	male	native	碰到那	4	302	535	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1432.691	1432.960	Xu_zidong	male	native	一天。	4	303	536	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1432.960	1437.571	Dou_wentao		native	比较适合受精的状态，而且呢一般人拿例假来算，对吧？	4	304	537	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1437.571	1444.743	Dou_wentao		native	但是，极少有女性的这个例假啊是每个月都一样，就那么机械，特别准的，	4	304	538	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1444.743	1447.240	Dou_wentao		native	而且受心情，受什么的影响，	4	304	539	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1447.240	1454.247	Dou_wentao		native	所以呢，这是，这是说这是女的策略，他这样他可以选男的，你知道吗？男的你闹不清我什么时候排卵吧，对吧？	4	304	540	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1454.247	1459.965	Dou_wentao		native	但是作为男的，也要有一个应对的策略，如何保证你生的孩子是我的呢？	4	304	541	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1459.965	1463.826	Dou_wentao		native	最好啊，我每隔一个礼拜就跟你发生一回，	4	304	542	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1463.826	1464.036	Dou_wentao		native	嗯。	4	305	543	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1464.036	1465.832	Dou_wentao		native	这样保证啊一个概	4	306	544	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1465.832	1466.312	Dou_wentao		native	率，	4	307	545	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1465.832	1466.312	Xu_zidong	male	native	错不了。	4	307	546	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1466.312	1469.187	Dou_wentao		native	让我经常的有我的这个精子	4	308	547	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1469.187	1470.093	Chen_fangyuan	female	native	有数量保证。	4	309	548	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1470.093	1471.411	Dou_wentao		native	留，留在	4	310	549	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1470.093	1471.411	Xu_zidong	male	native	守卫在那里。	4	310	550	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1471.411	1472.601	Dou_wentao		native	你的体内，有时间保证。	4	311	551	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1472.601	1473.267	Xu_zidong	male	native	这是	4	312	552	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1472.601	1473.267	Chen_fangyuan	female	native	嗯嗯。	4	312	553	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1473.267	1474.017	Xu_zidong	male	native	岗，岗	4	313	554	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1473.267	1474.017	Dou_wentao		native	所以说	4	313	555	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1474.017	1475.873	Xu_zidong	male	native	哨，定期地换岗哨。	4	314	556	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1475.873	1480.155	Dou_wentao		native	对，所以你甭嫌夫妻俩什么例行公事，你讨厌，这是本能决定的。	4	315	557	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1480.155	1486.173	Dou_wentao		native	你们愿意不愿意，你们每个周末也得例行一下，去一下广告，	4	315	558	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1486.173	1488.538	Dou_wentao		native	锵锵三人行，广告之后见。	4	315	559	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1488.538	1489.819	Xu_zidong	male	native	成方圆听的一楞一楞的。	4	316	560	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1584.377	1585.613	Dou_wentao		native	哎，一说精子许老师来	6	318	562	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1585.613	1586.019	Dou_wentao		native	劲了。	6	319	563	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1585.613	1586.019	Xu_zidong	male	native	噢，在那	6	319	564	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1586.019	1595.001	Xu_zidong	male	native	科学上我不懂，但文化上呢我有点联想就是说，其实啊男人啊忧虑自己的这个东西，呃，就	6	320	565	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1595.001	1595.750	Xu_zidong	male	native	是种是，	6	321	566	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1595.001	1595.750	Dou_wentao		native	什么东西？	6	321	567	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1595.750	1600.241	Xu_zidong	male	native	自己的这个东西，呃，被人错认了，	6	322	568	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1600.241	1600.680	Dou_wentao		native	嗯。	6	323	569	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1600.680	1602.786	Xu_zidong	male	native	这个焦虑是男人永恒的焦虑。	6	324	570	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1602.786	1603.115	Dou_wentao		native	没	6	325	571	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1603.115	1603.444	Dou_wentao		native	错	6	326	572	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1603.115	1603.444	Xu_zidong	male	native	所以	6	326	573	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1603.444	1608.025	Xu_zidong	male	native	奠定到所有现代社会的基础，你知道最原始的时候，男人比方说，	6	327	574	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1608.743	1611.592	Xu_zidong	male	native	一个男的起来了，他跟一个女的做了这个事情以后，	6	327	576	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1611.592	1616.780	Xu_zidong	male	native	他余下来的，他一天最主要关心的事情就是说，这个女的不要跟别的男的来往，	6	327	577	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1616.780	1619.466	Xu_zidong	male	native	不要跟别的，不要让别的精子进入。	6	327	578	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1619.466	1619.616	Chen_fangyuan	female	native	对。	6	328	579	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1619.616	1619.872	Dou_wentao		native	对。	6	329	580	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1619.872	1624.107	Xu_zidong	male	native	为了做到这件事情，所有的人类文明男性就做三件事情。	6	330	581	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1624.796	1626.802	Xu_zidong	male	native	第一，把女的关起来，	6	330	583	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1626.802	1627.400	Xu_zidong	male	native	不让她	6	331	584	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1626.802	1627.400	Dou_wentao		native	看守。	6	331	585	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1627.400	1627.820	Xu_zidong	male	native	出去，	6	332	586	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1627.820	1628.389	Dou_wentao		native	嗯。	6	333	587	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1628.389	1630.245	Xu_zidong	male	native	多少年都这样，所以说后花园的	6	334	588	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1630.245	1630.843	Xu_zidong	male	native	这个事情，	6	335	589	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1630.245	1630.843	Dou_wentao		native	嗯。	6	335	590	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1630.843	1634.703	Xu_zidong	male	native	第二，用其他东西交换她的自由，	6	336	591	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1634.703	1638.389	Xu_zidong	male	native	就我给你多一点野猪肉，你就不跟别人，	6	336	592	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1638.389	1638.748	Dou_wentao		native	嗯。	6	337	593	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1638.389	1638.748	Chen_fangyuan	female	native	嗯。	6	337	594	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1638.748	1642.349	Xu_zidong	male	native	一直到今天还是这样的，对不对？我给你 <foreign lang="English">LV</foreign> 你不跟别人，	6	338	595	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1642.349	1642.887	Chen_fangyuan	female	native	对对。	6	339	596	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1642.887	1648.979	Xu_zidong	male	native	第三，最根本的方法就是教育洗脑，把这个女的洗脑了以后就是说，	6	340	597	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1648.979	1652.961	Xu_zidong	male	native	跟了我以后，跟别人再进入是耻辱的。	6	340	598	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1652.961	1653.320	Chen_fangyuan	female	native	嗯。	6	341	599	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1653.320	1653.560	Dou_wentao		native	啊。	6	342	600	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1653.560	1654.997	Xu_zidong	male	native	那就不算好女人，	6	343	601	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1655.731	1658.314	Xu_zidong	male	native	今天哪，前两条虽然还存在，	6	343	603	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1658.314	1658.486	Dou_wentao		native	嗯。	6	344	604	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1658.486	1660.207	Xu_zidong	male	native	但是，观念上已经被打掉了，	6	345	605	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1660.207	1667.482	Xu_zidong	male	native	可是第三条，男人是最成功的，他久久地灌输到女的，使女的觉得一是好的，	6	345	606	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1667.482	1668.107	Dou_wentao		native	对对对。	6	346	607	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1668.107	1671.195	Xu_zidong	male	native	一辈子的一是好的，其实是男人为了防止	6	347	608	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1671.195	1671.435	Chen_fangyuan	female	native	对。	6	348	609	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1671.435	1671.764	Xu_zidong	male	native	这个，	6	349	610	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1671.764	1672.280	Dou_wentao		native	没错	6	350	611	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1672.280	1673.471	Dou_wentao		native	我认为就是	6	351	612	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1672.280	1673.471	Xu_zidong	male	native	精子的被错用，	6	351	613	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1673.471	1675.426	Dou_wentao		native	就是你们知识分子一般都是这个路，	6	352	614	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1675.426	1676.824	Dou_wentao		native	{laugh}	6	352	615	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1676.824	1677.603	Dou_wentao		native	哎，你不是会	6	353	616	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1676.824	1677.603	Xu_zidong	male	native	是这一群会洗。	6	353	617	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1677.603	1677.932	Dou_wentao		native	洗脑吗？	6	354	618	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1677.932	1679.040	Xu_zidong	male	native	哎，这个这个不是，	6	355	619	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1679.040	1685.837	Dou_wentao		native	哎，方圆，你，你觉得你年轻的时候有没有瞪着一双无知的眼睛，哇，一个很有学问的男人给你洗脑？	6	356	620	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1686.765	1687.274	Chen_fangyuan	female	native	有啊。	6	357	622	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1687.274	1689.121	Dou_wentao		native	有，肯定有。	6	358	623	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1689.121	1696.444	Chen_fangyuan	female	native	没有，这种东西我觉得是对一种比如说对知识的崇拜啊，对这种学问啊，对一些未知世界的一种好奇呀，什么的，	6	359	624	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1696.444	1699.797	Chen_fangyuan	female	native	肯定是会，会，会被这东西所吸引。	6	359	625	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1699.797	1700.067	Dou_wentao		native	哎。	6	360	626	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1700.067	1700.307	Chen_fangyuan	female	native	对。	6	361	627	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1700.307	1703.211	Dou_wentao		native	你，你会因为知识的崇拜产生爱吗？	6	362	628	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.211	1703.570	Chen_fangyuan	female	native	会。	6	363	629	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.570	1703.990	Xu_zidong	male	native	咳	6	364	630	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.990	1704.289	Dou_wentao		native	很	6	365	631	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.990	1704.289	Chen_fangyuan	female	native	会	6	365	632	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1704.289	1704.888	Dou_wentao		native	多女的都	6	366	633	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1704.888	1705.247	Dou_wentao		native	说过这	6	367	634	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1704.888	1705.247	Chen_fangyuan	female	native	对。	6	367	635	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1705.247	1705.906	Dou_wentao		native	崇拜他。	6	368	636	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1705.906	1708.996	Chen_fangyuan	female	native	对对，我觉得这个是好象很多女人都有一个共同的，	6	369	637	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1708.996	1714.978	Chen_fangyuan	female	native	就是说，我，我不能，我不能俯视他，我甚至不能平视他，我最好能仰视他，	6	369	638	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1715.726	1716.355	Chen_fangyuan	female	native	这是好多女	6	369	640	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1716.355	1716.577	Chen_fangyuan	female	native	孩儿。	6	370	641	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1716.355	1716.577	Xu_zidong	male	native	现在	6	370	642	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1716.577	1718.972	Xu_zidong	male	native	都发现才中了精子战争的当。	6	371	643	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1718.972	1719.541	Dou_wentao		native	没错，	6	372	644	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1719.541	1721.487	Dou_wentao		native	这就是这就是	6	373	645	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1719.541	1721.487	Xu_zidong	male	native	全都上了精子战争的当。	6	373	646	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1721.487	1725.319	Dou_wentao		native	基因的作用，这就是，因为你得选到最好的种，最	6	374	647	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.319	1725.916	Dou_wentao		native	优秀的种。	6	375	648	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.319	1725.916	Xu_zidong	male	native	对。	6	375	649	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.916	1728.072	Xu_zidong	male	native	潜意识里面呢是为了小孩儿的。	6	376	650	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.916	1728.072	Chen_fangyuan	female	native	真的真的是有假象的，	6	376	651	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1728.072	1731.665	Chen_fangyuan	female	native	你仰视一个人的时候，你后来发现他不是这么回事的时候，你会很失望。	6	377	652	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1731.665	1735.782	Dou_wentao		native	对，这就是男人的挫折，他的本能上还装，装下去。	6	378	653	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1899.689	1902.598	Shen_xing	female	native	大家好，欢迎收看今天的娱乐大风暴，我是沈星。	8	380	655	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1902.598	1903.335	Yuchi-linjia	male	native	我是尉迟。	8	381	656	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1903.335	1906.400	Shen_xing	female	native	刚刚呢我们看到有两个小，卡通小人在动来动去，对不	8	382	657	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1906.400	1906.730	Shen_xing	female	native	对？	8	383	658	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1906.400	1906.730	Yuchi-linjia	male	native	嗯。	8	383	659	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1906.730	1911.490	Shen_xing	female	native	然后是一个大脑袋，下面穿了条小裙子，我觉得的呢还很可爱，不算恶搞。	8	384	660	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1911.490	1914.395	Yuchi-linjia	male	native	对对对，对于你来说，绝对是恶搞了，	8	385	661	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1914.395	1917.786	Yuchi-linjia	male	native	把你丑化了，对我来说绝对是美化了，给我整了容了。	8	385	662	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1917.786	1924.333	Yuchi-linjia	male	native	很多朋友都知道啊，很多媒体把两千零六年定为一个重要的年份，它叫做恶搞元年。	8	385	663	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1924.333	1929.816	Shen_xing	female	native	那么今天我们的 <foreign lang="English">BBS</foreign> 讨论的话题呢，也就是今天我们暴风热点的话题呢就是，	8	386	664	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1929.816	1935.397	Shen_xing	female	native	恶搞的昨天，今天和明天，感觉呢已经把恶搞的今生今世都说完了。嗯。	8	386	665	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1935.397	1936.809	Yuchi-linjia	male	native	曾经恶搞是什么样子呢？	8	387	666	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1936.809	1939.140	Yuchi-linjia	male	native	我们回忆一下最早的恶搞	8	387	667	report	

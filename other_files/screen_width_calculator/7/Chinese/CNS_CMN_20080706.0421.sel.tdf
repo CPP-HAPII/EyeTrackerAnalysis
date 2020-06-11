@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080706.0421	0	1200.0	1300.0	speaker	unknown	unknown	尽管八国峰会尚未正式开幕，但位于主会场温莎饭店约二十公里外的留寿都度假村临时记者中心却已是“硝烟弥漫”，来自世界各国的约五千名记者在这里厉兵秣马，跃跃欲试，新闻大战可谓一触即发。	0	0	0		
+CNS_CMN_20080706.0421	0	1700.0	1800.0	speaker	unknown	unknown	新闻中心朝南的一面墙则被建成“环境墙”，墙上种植的绿色植物能阻隔日照并保温。	0	0	0		
+CNS_CMN_20080706.0421	0	1900.0	2000.0	speaker	unknown	unknown	札幌市府“体贴”记者 特别配备懂中文人员	0	0	0		
+CNS_CMN_20080706.0421	0	2200.0	2300.0	speaker	unknown	unknown	中心不仅为记者提供免费的电话、复印等服务，还准备了饮用水和丰富的文字与图像资料，包括北海道历史、札幌风光、环保项目、地铁路线等。	0	0	0		
+CNS_CMN_20080706.0421	0	2400.0	2500.0	speaker	unknown	unknown	有趣的是，在记者服务中心的资料展示台上，还摆放着手工制作的工艺品，如充满日本文化特色的小画片和书签，免费供记者领取。	0	0	0		

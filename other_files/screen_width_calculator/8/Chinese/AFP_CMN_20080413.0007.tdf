@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0007.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	海地物价高涨引发暴动 联合国警察遭射杀	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社太子港十二日电	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	联合国维和官员告诉法新社,一名奈及利亚籍联合国警察今天在海地遭到不知名攻击者击毙。	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	联合国驻海稳定特派团发言人康布说:「他是奈及利亚的镇暴警察。」	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	1800.000	2000.000	TEXT1	unknown	unkown	这名男子在太子港的教堂附近遭到射杀时,身穿便服。	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	2200.000	2300.000	TEXT1	unknown	unkown	海地警察寻获他的遗体并转交联合国官员。	0	0	0		statement
+AFP_CMN_20080413.0007.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	这起枪击案发生之际,海地正因为食物及燃料价格飞涨而引发暴动并使得政治紧张情势升高。	0	0	0		statement

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080410.0056	0	1000.0	1100.0	speaker	unknown	unknown	希拉里说，有人对任何撤军主张，即使是经过仔细规划且负责的撤军，都说成是不负责任或缺乏领导，而对这种指摘，“我基本上不同意，我认为公平来说，继续执行导致今天这个结果且将一再重蹈覆辙的政策才是不负责任。”	0	0	0		

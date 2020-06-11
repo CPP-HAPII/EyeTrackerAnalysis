@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.3138	0	1700.0	1800.0	speaker	unknown	unknown	The Hong Kong SAR government is now putting into effect two major items that not only respond to the public's desires, but also take into account the overall situation and benefit both the nation and the people.	0	0	0		

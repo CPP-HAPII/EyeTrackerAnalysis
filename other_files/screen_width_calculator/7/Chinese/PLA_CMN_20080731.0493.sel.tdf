@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080731.0493	0	1200.0	1300.0	speaker	unknown	unknown	此外，海水中还藏有大量细菌，很容易导致皮肤过敏，加之训练后皮肤出汗多，此时接触海水容易导致葡萄球菌、链球菌和真菌感染，引起毛囊炎、脓疱疮、汗疮疹、汗斑等。	0	0	0		
+PLA_CMN_20080731.0493	0	2300.0	2400.0	speaker	unknown	unknown	时间长了，感觉口味很腻，有时还反胃，一些战友患了口腔溃疡。	0	0	0		
+PLA_CMN_20080731.0493	0	3000.0	3100.0	speaker	unknown	unknown	我们驻训的岛屿空气潮湿，到这里才半个多月，战友们的衣被就有点霉味了。	0	0	0		
+PLA_CMN_20080731.0493	0	3700.0	3800.0	speaker	unknown	unknown	配备必要的理疗仪器，也可自备小盐袋和热水袋，将盐袋烘热后热敷在关节上镇痛。	0	0	0		
+PLA_CMN_20080731.0493	0	4600.0	4700.0	speaker	unknown	unknown	这里的岛屿气温高，热辐射强，驻训官兵在训练中易出现人体散热功能紊乱，使中枢神经和循环系统出现障碍，发生中暑。	0	0	0		
+PLA_CMN_20080731.0493	0	5500.0	5600.0	speaker	unknown	unknown	虽说礁堡里电视、电脑、广播都不缺，可我就是提不起兴趣，前天还为一件小事跟战友闹了别扭。	0	0	0		
+PLA_CMN_20080731.0493	0	5900.0	6000.0	speaker	unknown	unknown	为此，驻训部队要想方设法丰富官兵的业余生活，上岛前尽量多带一些健康有益的书籍、影视光盘，多组织群体性文娱活动，营造良好氛围。	0	0	0		

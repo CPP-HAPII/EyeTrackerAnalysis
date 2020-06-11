@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070113.0017	0	10010.000	10019.900				Wen Jiabao Leaves Beijing to Attend Series of Asian Leaders Summit, Visits Philippines	0	0	0		
+PDA_CMN_20070113.0017	0	20010.000	20019.900				January 13, 2007 15:35	0	0	0		
+PDA_CMN_20070113.0017	0	30010.000	30019.900				Xinhua News Agency, Beijing, January 13. Premier Wen Jiabao left Beijing in a special plane on the afternoon of the 13th to attend the 10th China-ASEAN Leaders Summit, the 10th ASEAN and China, Japan, and Korea Leaders Summit, and the 2nd East Asia Summit held in Cebu, Philippines, and to pay an official visit to the Philippines Republic at the invitation of Philippine President Arroyo.	0	0	0		
+PDA_CMN_20070113.0017	0	30020.000	30029.900				During which, Premier Wen Jiabao will preside over the 7th China-Japan-Korea Leaders Meeting.	0	0	0		
+PDA_CMN_20070113.0017	0	40010.000	40019.900				Accompanying Wen Jiabao to attend the meetings and the visit are: Minister of Foreign Affairs Li Zhaoxing, Minister of Finance Jin Renqing, Director of the Research Office of the State Council Wei Liqun, Deputy Secretary-General of the State Council Zhang Ping, Vice-Chairman of the State Development and Reform Commission Chen Deming, Vice-Minister of Agriculture Yin Chengjie, Vice-Minister of Commerce Liu Xiaoqi, and Assistant Minister of Foreign Affairs Cui Tiankai.	0	0	0		

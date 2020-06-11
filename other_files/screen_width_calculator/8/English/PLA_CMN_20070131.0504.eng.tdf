@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070131.0504	0	10010.000	10019.900				O'Neal, Who Just Recovered, Adds a New Injury	0	0	0		
+PLA_CMN_20070131.0504	0	20010.000	20019.900				(Source: Xinhua News Agency script Issue time: 2007-01-31 15:30)	0	0	0		
+PLA_CMN_20070131.0504	0	30010.000	30019.900				Xinhua News Agency, Washington on January 30, Sports Special (Reporter Liang Jinxiong) After resting two months due to knee surgery, "Big Shark" O'Neal has suffered a new injury less than a week after returning to the court. On the 30th, he was on the Heat's injury list, missing the chance to play against the Milwaukee Bucks team.	0	0	0		
+PLA_CMN_20070131.0504	0	40010.000	40019.900				Fortunately, the overall strength of the Heat was one level above them. That evening they won a big victory against the Milwaukee Bucks by the score of 110 to 80.	0	0	0		
+PLA_CMN_20070131.0504	0	50010.000	50019.900				O'Neal is the Heat's most indispensable player. He was also the major contributor to last year's Heat team, which won the NBA championship.	0	0	0		
+PLA_CMN_20070131.0504	0	50020.000	50029.900				He is also currently elected as the first center in the NBA Eastern All Star Team, and will play in the NBA All Star game in February.	0	0	0		
+PLA_CMN_20070131.0504	0	60010.000	60019.900				According to the report, O'Neal was injured accidentally by carelessness during a team practice on the 29th.	0	0	0		
+PLA_CMN_20070131.0504	0	60020.000	60029.900				It was reported that his injury was not serious, and the team may send him onto the court at any time, depending on his recovery.	0	0	0		
+PLA_CMN_20070131.0504	0	70010.000	70019.900				Due to the knee surgery, O'Neal missed most of the games this season. Presently he has only played in six games for the Heat.	0	0	0		
+PLA_CMN_20070131.0504	0	70020.000	70029.900				(end)	0	0	0		

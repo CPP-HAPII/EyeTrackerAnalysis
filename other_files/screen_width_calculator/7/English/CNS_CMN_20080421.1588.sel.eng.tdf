@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080421.1588	0	600.0	700.0	speaker	unknown	unknown	This is just the right opportunity for him to use to the fullest his special ability, which lets him put himself into a state of hypnosis and get through eighty-three minutes on the operating table without any anaesthetic.	0	0	0		

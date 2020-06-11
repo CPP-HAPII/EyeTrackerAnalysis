@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.1315	0	300.0	400.0	speaker	unknown	unknown	本次比赛之所以引人瞩目，是因为三位“飞人”博尔特、盖伊、鲍威尔将齐聚这里参赛，这将是北京奥运会前三“巨头”最后一次同场竞技。	0	0	0		

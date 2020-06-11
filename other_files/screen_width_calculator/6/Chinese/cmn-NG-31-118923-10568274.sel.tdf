@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-118923-10568274	0	0.0	100.0	speaker	unknown	unknown	职场攻关之微笑工作	0	0	0		
+cmn-NG-31-118923-10568274	0	100.0	200.0	speaker	unknown	unknown	职场攻关之微笑工作	0	0	0		
+cmn-NG-31-118923-10568274	0	900.0	1000.0	speaker	unknown	unknown	职场中有些人总是很吝啬的，不舍得露出那浅浅的小酒窝和洁白洁白的牙齿，更不舍得向别人传达的一种喜悦，一种安慰，一种兴奋，一种浪漫，一种呼唤和一份心情。	0	0	0		
+cmn-NG-31-118923-10568274	0	1100.0	1200.0	speaker	unknown	unknown	职场中有些人却时时开怀大笑，一走进他们就嗅到一种天真向上，乐观无私的生活态度，他们不停的传达着喜悦、兴奋和浪漫之情，不管他们工作多么辛苦，压力多么大，总是能听到他们咯咯的笑声；不管他们内心多么苦闷多么压抑，却还是对外传达着微笑的面容，他们有着迷人的酒窝，他们更有着迷人的精神状态：微笑着工作。	0	0	0		
+cmn-NG-31-118923-10568274	0	1400.0	1500.0	speaker	unknown	unknown	——在接待来宾客户的时候你微笑了吗？	0	0	0		
+cmn-NG-31-118923-10568274	0	1500.0	1600.0	speaker	unknown	unknown	——在遇见领导同事的时候你微笑了吗？	0	0	0		
+cmn-NG-31-118923-10568274	0	1600.0	1700.0	speaker	unknown	unknown	——在向领导汇报工作的时候你微笑了吗？	0	0	0		

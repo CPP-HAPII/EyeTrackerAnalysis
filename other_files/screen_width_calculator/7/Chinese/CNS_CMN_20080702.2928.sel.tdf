@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.2928	0	300.0	400.0	speaker	unknown	unknown	在会场上，不少干部旁若无人睡觉的情景，让此次整风大会的效率大打折扣(7月1日《华西都市报》)。	0	0	0		
+CNS_CMN_20080702.2928	0	1100.0	1200.0	speaker	unknown	unknown	民谚曾曰：“狠抓就是开会，管理就是收费，重视就是标语，落实就是动嘴”，实话说吧，早在N年之前，这种靠表面上轰轰烈烈的大会以示决心的招数就已经让大伙看腻了。	0	0	0		

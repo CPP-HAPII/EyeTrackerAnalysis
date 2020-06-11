@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0825.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	West Bromwich to Return to Premier League Soon	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 10:22:48 Source: Xinhua News Agency Dispatch	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Xinhua News Agency, London, April 28, Olympics Special Wire	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	1000.000	1050.000	TEXT1	unknown	unkown	English Championship club West Bromwich drew 1-1 with Southampton in a Championship match on the 28th, thus taking themselves to the top of the table on a score of 78 points level with Stoke City and ranking 1st with a superior goal difference.	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	1050.000	1100.000	TEXT1	unknown	unkown	Two years after bidding farewell to the Premier League, they are finally going to return to the top league.	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	1300.000	1400.000	TEXT1	unknown	unkown	After this round of matches, there will be only one round of league matches left. With a 3-point lead over third-placed Hull City and 12 more goals over Hull City, West Bromwich's chance of losing in the last round and failing to be promoted would exist only in theory.	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	1600.000	1650.000	TEXT1	unknown	unkown	West Bromwich were relegated in 2006 to the Championship league and lost in the Premiership promotion playoff final to Derby County at the end of last season, missing regretfully the chance for promotion.	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	1650.000	1700.000	TEXT1	unknown	unkown	This season the club finally lived up to the fans' expectation and smoothly ascended to the Premier League.	0	0	0		statement
+PLA_CMN_20080429.0825.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	Charlton club, where Chinese player Zheng Zhi is, is currently only placed 12th and has long lost hope of promotion.	0	0	0		statement

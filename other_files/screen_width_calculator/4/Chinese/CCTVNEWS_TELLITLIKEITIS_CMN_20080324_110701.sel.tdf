@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 350.17399999999998, 1244.7, 1277.5419999999999, 2116.3150000000001, 2168.1030000000001, 2917.5680000000002, 9999999.0]
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	1213.176	1244.700	Cui_Yong_Yuan	male	native	天公不语对 (()) ,晚清的政局和人物,江明著,这本更重要你看,中国近代海军史事日志,一八六零,一九一一,江明编著啊,就为了研究一个股票啊,写了三本书啊	1	7	97	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	1350.627	1370.834	Jiang_Ming	male	native	当然呢我学,呃做 (()) ,做 (()) ,就现在已经被很多人提起是,当时在一九七零年的八月毛主席有一个批示,那个批示叫我们也要造大飞机,所谓大飞机就是那种大型喷气式的那种民航机	3	9	109	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	1479.523	1491.229	Jiang_Ming	male	native	第二个呢看完以后,你必须给我编资料成编,就把它编成资料,所以那本史诗 (()) 就是这个资料的那个 (()) ,做学术的方式	3	11	123	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	1818.545	1837.272	Jiang_Ming	male	native	那个书里呢就讲了一个共产主义的美好 (()) ,它就讲这么一个情况,就是说我们现在每个人有自己的职业,这个职业叫分工,这个分工呢不是-不是我先天该做主持人或者我该做什么工作,这种分工呢是对人性的一种限制	3	11	159	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	2073.163	2088.414	Jiang_Ming	male	native	现在我还没 (()) ,一万呃一两万册吧,因为这个书是一个-一个 (())	3	13	189	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	2225.131	2256.343	speaker#9	male	native	应该不能说好人坏人吧,反正我觉得首先他应该是挺有能力的一个人吧,但是在呃历史发展的时候有些呃也是不可避免的就是,会让人产生误解但是那历史就是那样的没有办法,呃是 (())	5	15	202	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	2431.393	2452.251	Jiang_Ming	male	native	那么中国应该办企业啊办纺织厂,办轮船公司,那这种事情在今天看来是天经地义的,太天经地义了,但是在那个时候,说如果中国能造铁路,我李鸿章早-早上听到这个消息晚上死了我也心甘情愿	5	16	220	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	2569.068	2590.218	Jiang_Ming	male	native	那么现在这个-这个船这个定远和志远呢是因为威海那个,那边呢嗯旅游也好,爱国主义教育也好,他们做了一个一比一的复原的模型,就是那个船就真的很大的一个船,就和当年那个一样大的那个-那个船就-就在甲午海战的时候幸亏有定远, (())	5	16	234	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	2617.970	2633.241	Jiang_Ming	male	native	那么在这个过程中呢他比较更倾向于通过外交 (()) ,通过以一治一,通过这个外国去治约那个外国的这种外交手段而不是军事手段,我觉得这是他在外交观上一直是有这样的一个想法	5	16	238	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	2691.662	2716.147	Cui_Yong_Yuan	male	native	(()) 但是依然没有用,宋先生你发现一个问题没有,就是这个江明一谈到这个历史这部分,就忽然语速就加快了,他这个人的这个状态也不一样了	5	17	245	filler	statement
+CCTVNEWS_TELLITLIKEITIS_CMN_20080324_110701	0	2810.594	2828.706	Song_Xiao_Jun	male	native	那么现在呢我们的沿海是什么,刚才说我们呃进口很多铁矿石要造船,大概我们现在是五亿吨钢的炼钢能力,就是将来给我们作城市化的这样的一个必须要支撑的人均三百公斤钢,那么将来我们的第一个首钢已经挪到海边上去了,就 (())	5	19	260	filler	statement

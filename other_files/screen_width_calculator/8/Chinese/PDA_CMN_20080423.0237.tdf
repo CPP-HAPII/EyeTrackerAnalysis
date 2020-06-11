@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0237.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	调查显示：美国最受欢迎的书是《圣经》	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	人民网4月23日讯 根据2008年最新哈里斯民意调查显示，《圣经》一直是在美国成年人中最受欢迎的书。	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	研究者说，在美国，不论性别、年龄、教育水平、地理位置、种族和年龄，能够有如此一致的观点是非常罕见的。	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	而在在线民意调查中，多数美国人一致认为《圣经》是他们最喜爱的书。	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	调查还发现，政治关系未能影响人们对小说的喜爱――共和党、民主党和自由党派人士都同样认为《圣经》和《飘》是他们最喜爱的两部书。（胡琴）	0	0	0		statement

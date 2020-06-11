@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0020.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	报导指德总理梅克尔将再次会晤达赖	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社柏林十二日电	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	德国「法兰克福广讯报」	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	1000.000	1300.000	TEXT1	unknown	unkown	今天报导,该国总理梅克尔愿再次会见西藏精神领袖达赖喇嘛,而无视两人上次会面所引发的争执损及该国与中国之间的关系。	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	梅克尔是在去年九月会见达赖,当达赖五月十六至二十日再次访德时,她将身在拉丁美洲,而届时达赖将会见德国联邦议会议长拉慕特。	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	她在法兰克福广讯报将于明天刊登但已在今天公布的访谈中说:「但我必然会在稍后的日子会见达赖喇嘛。」	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	报导引述她的话说:「我接待达赖喇嘛和中国对达赖的作法是两件完全无关的事情。」	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	2900.000	3200.000	TEXT1	unknown	unkown	她并说:「但这两者都会引导我们采取尊重或不尊重人权的作法,而德国在此方面的态度明确,包括迎接达赖喇嘛在内。」	0	0	0		statement

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080701.0216	0	200.0	300.0	speaker	unknown	unknown	面对灾难，中国农业银行四川省北川羌族自治县支行党委书记、行长江山时刻记挂没有及时抢运出来的钞箱和金库的安全。	0	0	0		
+PDA_CMN_20080701.0216	0	500.0	600.0	speaker	unknown	unknown	他每天在金库现场一忙就是十几个小时，开挖现场，组织清点，整点散钞和扎捆钞票，挽回国家财产损失130万元。	0	0	0		

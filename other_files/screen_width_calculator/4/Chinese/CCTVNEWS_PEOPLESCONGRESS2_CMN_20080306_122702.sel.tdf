@@ -1,0 +1,58 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'report', u'filler', u'report', u'nontrans', u'filler', u'report', u'filler', u'filler', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'filler', u'filler', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'filler', u'filler', u'report', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'report', u'filler', u'report', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 46.905999999999999, 549.95299999999997, 1112.951, 1941.3499999999999, 1965.45, 1973.653, 2334.2440000000001, 2394.5210000000002, 2458.1599999999999, 3168.2159999999999, 3552.0740000000001, 3641.6320000000001, 4028.3679999999999, 4217.0039999999999, 4262.7479999999996, 4434.973, 4775.5119999999997, 4875.018, 5523.4390000000003, 5539.4189999999999, 6075.5339999999997, 6136.5039999999999, 6176.6840000000002, 6386.0110000000004, 6685.2479999999996, 6829.3389999999999, 7082.924, 7212.1750000000002, 7434.7539999999999, 7480.9290000000001, 7809.3119999999999, 7905.9719999999998, 8164.268, 8538.6419999999998, 8788.8379999999997, 9047.0990000000002, 9236.8019999999997, 9592.9969999999994, 9635.9650000000001, 9668.7340000000004, 9705.8610000000008, 9717.4079999999994, 9751.5730000000003, 9756.0409999999993, 9765.9349999999995, 9782.7150000000001, 9800.7669999999998, 10391.985000000001, 10933.812, 12043.723, 12125.57, 12146.282999999999, 12219.495000000001, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	386.764	390.763	Kang_Hui	male	native	嗯,好的,谢谢泉灵从大会堂给我们带来的报道,我们随时会联络	1	18	53	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	1219.366	1224.765	Zhou_Dong_Tao	male	native	(()),啊	3	30	129	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	1700.658	1706.846	Zhang_Quan_Ling	female	native	那是否会有一个大部制的这样的一个改革,是否会有一个大卫生的体制,我们对此也拭目以待	3	44	173	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	1706.846	1710.734	Kang_Hui	male	native	好的,谢谢泉灵从大会堂带来的报道,也谢谢钟南山院士	3	45	174	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	1995.640	2006.396	speaker#10	female	native	我想感谢一下(())凤凰台吧,因为不能这来一个我问声好啊,因为(()),我觉得写在牌子上大伙都能看见是吧	6	52	209	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2013.664	2021.148	speaker#10	female	native	如果要是上好的是一块两毛五,五块钱四斤,呃次一点就是八毛六毛甩卖,那都本钱不够	6	57	217	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2048.784	2051.480	speaker#10	female	native	土豆也不是太涨,(())	6	64	230	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2055.567	2064.911	speaker#10	female	native	南方的,因为南方今年是呃雪,也雪灾嘛,每年都是供菜是基地嘛,今年他们供应不上了,(())会涨价	6	67	235	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2127.521	2130.131	speaker#15	male	native	因为没有,(())没有,少	6	90	271	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2155.458	2157.430	Li_Xiao_Meng	female	native	就是上家就涨两毛是吧	6	102	287	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2167.002	2169.581	speaker#15	male	native	都是两毛钱三毛钱的利	6	103	293	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2177.838	2180.921	speaker#15	male	native	胡萝卜(())那个,那不涨钱	6	104	297	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2244.506	2248.865	speaker#17	female	native	嗯这一段时间就(())	6	123	324	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2258.896	2261.897	Li_Xiao_Meng	female	native	{laugh} 好了,谢谢您,哎	6	125	329	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2320.942	2324.067	speaker#20	female	native	呃鸡蛋现在没涨价,现在鸡蛋还落价呢	6	144	356	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2524.349	2533.138	Kang_Hui	male	native	就说到这个~CPI到底什么是~CPI,这个指数到底是怎么来计算出来的,它怎么来衡量我们这个物价的这个变动	9	153	382	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2570.895	2580.961	Zhou_Dong_Tao	male	native	这三个词呃消费第一个词 <foreign language="English"> CONSUMER </foreign> 消费者,取~C,啊 <foreign language="English"> PRICE </foreign> 价格取~P, <foreign language="English"> INDEX </foreign> 是指数取~I	9	157	390	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2670.623	2676.713	Kang_Hui	male	native	也就是说这个~CPI越来越高的话,就说明这个这个通胀的这个水平在在在上升,(())	9	162	400	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2715.575	2723.482	Zhou_Dong_Tao	male	native	但是稳定价格是很难的,呃大部分时间价格总有波动,呃有波动就要计算~CPI,哎	9	165	409	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2723.482	2735.437	Zhou_Dong_Tao	male	native	计算下来为什么这个总理报告是合理的呢,因为这个商品价格的(())多种因素,呃它有它成本决定,一个成本的力量,一个是需求的力量	9	165	411	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2744.936	2763.378	Zhou_Dong_Tao	male	native	现在在目前时期,因多种原因,哎,一方面商品的需求在增加,一个是大家的购买力在增加,工资在增加,他购买欲望增加了,这个购买欲望所拉动需求拉动拉动(())物价上涨,使它上涨	9	166	414	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2770.861	2790.642	Zhou_Dong_Tao	male	native	比如说这个蔬菜价格吧,蔬菜价格有生产蔬菜的成本和劳动力成本和这个市场资料,现在是劳动力成本(()),因为劳动力成本的劳动再生产的价格上升,呃还成本在上升,还包括生产资料在上升,农用资料上升了	9	166	416	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2790.642	2801.001	Zhou_Dong_Tao	male	native	呃还有些产品是比如说运输蔬菜的这个运费物价在上升,(())	9	167	417	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	2958.823	2973.141	Zhou_Dong_Tao	male	native	现在中国(())大国啊,啊就是啊,啊初级,石油价格上涨,也各种生产产品都需用石油,运输等等需要石油,呃农业薄膜也石油生产价涨了,那成本推动了	9	177	437	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	3145.175	3149.330	Kang_Hui	male	native	好的,谢谢泉灵从大会堂带来的消息,我们稍后再及时的联络	9	186	462	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	4320.758	4328.274	speaker#13	female	native	二零零七年下半年有一句话很流行,可以跑不赢刘翔,但一定要跑赢~CPI	15	197	556	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	4331.322	4338.416	speaker#13	female	native	在二零零八年,居高不下的~CPI还要持续多久,二零零八年,我们的收入能够跑赢~CPI吗	15	197	558	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	4425.932	4434.973	speaker#13	female	native	因为,这项普惠的政策将使大家对收入增加的预期心中有数,能够增强绝大多数人跑赢~CPI的信心	15	197	568	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	4434.973	4443.240	Kang_Hui	male	native	嗯,呃希望我们的各项宏观调控措施呢真的能够帮助我们每个人呢都跑赢~CPI的这种上涨的幅度	16	198	569	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	4555.869	4564.317	Zhou_Dong_Tao	male	native	通货膨胀什么情况下呢,那到了那个奔腾式的膨胀灾难式的,那(())通货膨胀,国家严加控制,啊	16	204	585	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	5923.558	5930.710	Zhou_Dong_Tao	male	native	还有大家心理上预测,房子还会进一步上涨,大家铺天盖地去买房子,也把(())拉起来了	20	226	708	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	5935.203	5944.050	Zhou_Dong_Tao	male	native	使价格最高的啊一种商品,那么中国的房价大城市房价比欧洲比这发达国家比(())还贵,还贵	20	226	710	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	5978.989	5990.241	Zhou_Dong_Tao	male	native	房子问题不像大家想的那么简单,但王石他想做点贡献,他率先降价,这是贡献,但是跟部委降价的人少,啊(())反应的少	20	230	717	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	6005.959	6016.216	Zhou_Dong_Tao	male	native	房子可以自由买卖,我买上房之后,反而希望房价涨价,涨价我可以抛出去,而且一旦,(()),他想着我一套房多少多少钱呢,啊他是这个心理	20	232	722	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	6386.011	6394.027	speaker#59	male	native	这个我很赞成这个我们这位委员刚刚说的,这个关注住房的问题	24	247	763	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	6906.547	6930.592	speaker#63	male	native	我们总强调速度,大概(())现在是说中-中国(())增长速度还是比较高,比预定数字高得多,按照统计资料,按照一些预测,国内总强调速度不要超过百分八,起码百分之七	26	258	806	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	7682.765	7695.852	Kang_Hui	male	native	我们是不是可以这么理解,就是其实现在我们的这种调控措施是希望把这个呃房子这样的一个商品(())市场当中的这个价格规律,和我们这种住房保障体系的建立能够把它更好的结合,嗯	30	275	859	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	7746.172	7765.267	Zhou_Dong_Tao	male	native	就是抑抑制高收入阶层的这个对很多(())的购买,呃使得那个在房地产市场中去炒作的人降低,同时又(())呃帮助中下等收入住房的人说,我想这个政策效果已经明显见到了	30	278	866	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	8117.121	8135.107	Zhou_Dong_Tao	male	native	在这方面呢有很多问题问题也在探索,政府的探索,房地产商的探索,整个公众领域的增长,哎,我觉得公众是吧住房者越来越理性,可以给国家提供建议,呃把(())来治理	32	292	900	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	8139.571	8143.124	Zhou_Dong_Tao	male	native	{laugh} 矛盾不可能消灭,只会不断的调节	32	294	902	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	8870.212	8913.647	Zhou_Dong_Tao	male	native	但是根据我国改革开放以来这三十年来,国家政府在三十年来已经进行了多次宏观调控,应该说从七八年以来到现在三十年,啊据我所研究的宏观调控的每次情况来说,这次也是第七次宏观调控了,啊也取得一些经验,因为现在已经形成了这个比较成熟的呃财政(())和其他呃还有还有法律政策手段问题,还(())相配合	35	304	962	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	9171.797	9181.172	speaker#5	female	native	南方日报,广东数十代表进行专门调研并形成报告,呼吁形成收入增长以物价增长良性循环	36	312	995	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	9587.497	9588.599	speaker#34	male	native	那咱们(())车间	37	321	1037	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	9947.700	9966.294	Cao_Xuan_Yi	female	native	接下来的一位名叫化的央视国际网友也是非常关注信息披露的问题,她说对于增发配股发转站未公开而走漏消息造成股价大幅波动的,应当立法禁止这家公司半年或者一年不准增发配股发转站	47	347	1084	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	10137.827	10144.843	Zhou_Dong_Tao	male	native	呃我自己没炒,因为我没时间炒,我女儿会炒,她在炒,(())	47	351	1101	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	10224.900	10234.801	Zhou_Dong_Tao	male	native	(())慢慢的恢复市场了,呃而去年从那一年是是暴涨	47	354	1110	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	10506.088	10524.616	speaker#39	male	native	政府工作五年,制定了一系列支农惠农强农的政策,采取了一系列具有划时代意义的重大举措,到两零零七年农民人均收入达到四千一百四十元,这是中国农业发展伟大创新	48	366	1142	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	11102.139	11117.127	speaker#44	male	native	第二方面是水利设施,现在我万宁还有十五宗病险加固水库还没有得到加固除险,所以这方面呢整个设计规划要(())	49	383	1194	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	11166.248	11185.279	speaker#44	male	native	对,所以说我们现在是这个产产量到了十一五末,达到八百万吨,那这样的话要海南要为老百姓解决的问题就是农农产品的临场加工	49	385	1199	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	11478.559	11484.372	Kang_Hui	male	native	那稍后呢我们会给大家来报道啊三位农民工代表今天下午接受集体采访这个情况	49	392	1226	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	11674.677	11677.802	Kang_Hui	male	native	好的谢谢泉灵从人民大会堂给我们带来的报道,谢谢	49	398	1244	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	11791.333	11811.611	speaker#54	female	native	目前社会上有一种说法,这三位当选人大代表是感到高兴,也有一种担忧,认为你们虽然在各自的领域非常出色,但是会不会你们在参政议政的能力上会稍微弱一点,又或者说会啊对一些来自基层的真实的情况,在高(())面前,你们可能未必如实的敢说出来	49	403	1257	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	11913.901	11927.976	speaker#49	female	native	呃作为这个人大代表,呃您就说如何被选出来的,比如说是通过投票还是当地的(()),然后请给我们讲一下就是您成为代表以后您的生活发生了什么巨大的变化	49	406	1267	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	12043.723	12053.566	Kang_Hui	male	native	刚才在大家在画面当中也已经看到了,在今天下午啊三位农民工人大代表接受记者采访时候,在现场呢还有很多的外国记者	50	412	1278	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080306_122702	0	12053.566	12072.666	Kang_Hui	male	native	但其实呢今天下午这场记者招待会啊并没有像其他记者招待会呀安排了这个啊翻译,但是这些外国的媒体呢依然非常关注这三位农民工人大代表,他们自带了翻译参加这场记者招待会,所以其实大家都在关注着中国这样一个新兴的社会群体他们的声音	50	412	1279	report	statement

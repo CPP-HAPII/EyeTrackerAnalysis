@@ -28,10 +28,6 @@ To combine the csv files produced
 ```
 python3 main.py combine_csv user_study_data/
 ```
-To produce average read time based on fixation data
-```
-python3 main.py compare_order_fixation user_study_data/Combined/<Combined_aoi_csv_file>
-```
 To produce average read time based on recorded click time
 ```
 python3 main.py compare_order_click user_study_data/combined_relevances.csv
@@ -39,6 +35,10 @@ python3 main.py compare_order_click user_study_data/combined_relevances.csv
 To produce read time based on L1 and recorded click time
 ```
 python3 main.py switch_penalty user_study_data/combined_duration_click.csv
+```
+To produce read time based on Relevance Judgement and recorded click time
+```
+python3 main.py compare_by_relevance user_study_data/combined_relevances.csv
 ```
 To produce csv files based on median split instead of three-way split
 ```

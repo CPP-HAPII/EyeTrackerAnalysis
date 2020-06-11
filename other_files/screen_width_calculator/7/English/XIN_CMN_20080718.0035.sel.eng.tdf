@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080718.0035	0	1000.0	1100.0	speaker	unknown	unknown	Long before Wambach's fracture, the US team had already lost two key players because defender Cat Whitehill and forward Leslie Osborne both suffered injury to their knee ligaments.	0	0	0		

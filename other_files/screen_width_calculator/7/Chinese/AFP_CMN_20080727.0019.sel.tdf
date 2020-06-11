@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080727.0019	0	300.0	400.0	speaker	unknown	unknown	这个情势一触即发的城市,先后在人潮拥挤的场所发生十六起爆炸,市场、巴士成为攻击目标,随后医院忙着收治受伤者。	0	0	0		

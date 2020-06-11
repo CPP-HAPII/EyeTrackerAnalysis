@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 289.40100000000001, 1315.3620000000001, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	348.364	354.020	speaker#2	female	native	当时的唐亚飞和另外三个关系比较好的同学相约去逍遥津公园玩	1	3	10	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	381.976	386.163	Tang_Ya_Fei	male	native	也不知道怎么搞的,就是 (()) 以前没玩过,想去玩一玩	1	8	15	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	386.163	403.078	Tang_Ya_Fei	male	native	然后他们有的怕,然后彭超那个我同学彭超他不-不想玩嘛,然后几个 (()) 那旁边那个售票员说给他们给我们打半票嘛,然后就-就然后就买票上去了	1	8	16	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	519.053	529.472	Tang_Ya_Fei	male	native	当时的时候脚破了,站着的时候就有一点软,就是有一只脚 (()) 非常痛	1	18	30	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	706.516	711.306	Huang_Zhuan_An	male	native	车厢对调以后才产生的这种结果	1	29	47	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	730.473	743.987	Zhang_You_Lian	male	native	(()) 就是把工具电焊机螺丝 (()) 带过来,准备进行焊接,焊接,当时我看了我讲这个是关键部位,因为他后边还连接那个四节车厢	1	31	50	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	813.758	824.057	He_Ping	female	native	(()) 我又打电话又确认了一下,啊确认一下呢他们讲回答我也修好了,没问题,这时候我通知票房卖票	1	35	60	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	896.534	907.227	speaker#14	male	native	所以这个的话就说这-这个 (()) 当时就发现这个异常响声没有--没有消除的话呢,他就运行的话,这个就这个与这个与这个有关系	1	40	70	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	961.640	974.947	speaker#14	male	native	呃那能-能不能调换的话,这一块的话就是嘛就是从-从我们所掌握的情况上来讲的话呢,就是讲的话 (()) 就我不允许你调换, (())	1	44	79	report	statement
+CCTV1_LEGALREPORT_CMN_20080325_123601	0	1224.469	1237.017	Zhang_Shao_Gang	male	native	这类的游乐安全事故啊呃这些年发生的数量在减少,但是仍然在发生,到底我们应该给经营者一些什么样的建议	1	59	113	report	statement

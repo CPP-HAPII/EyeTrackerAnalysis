@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.0307	0	1000.0	1100.0	speaker	unknown	unknown	他在这则发表于今年5月20日的帖子中说：“今日，我在网上收到一个视频，全程共长达7分钟，传称由开平中学的学生所为，视频上面拍到一名女孩受欺凌，一开始由一个男孩裸体准备进行性侵犯，然后到一女孩全身赤裸地被众女孩殴打。”	0	0	0		
+CNS_CMN_20080710.0307	0	2300.0	2400.0	speaker	unknown	unknown	那些男孩也是未成年人。	0	0	0		
+CNS_CMN_20080710.0307	0	2600.0	2700.0	speaker	unknown	unknown	去年7月中旬的一天晚上，7名女孩在开平市内一家网吧里找到了受害少女，强行把她从网吧里拉了出来，然后脱掉她的衣服集体殴打。	0	0	0		
+CNS_CMN_20080710.0307	0	2700.0	2800.0	speaker	unknown	unknown	殴打过程中，其中一个女孩接到一个男孩电话。	0	0	0		

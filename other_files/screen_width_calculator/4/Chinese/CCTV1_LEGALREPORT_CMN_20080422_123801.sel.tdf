@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'nontrans', u'report', u'filler', u'report', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 305.40600000000001, 364.60399999999998, 376.90300000000002, 459.80900000000003, 469.20600000000002, 565.52499999999998, 596.53399999999999, 824.94799999999998, 882.27599999999995, 906.16300000000001, 937.36599999999999, 1035.1179999999999, 1048.3789999999999, 1069.002, 1078.1579999999999, 1098.1669999999999, 1306.7249999999999, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080422_123801	0	422.064	425.148	speaker#5	female	native	公用电话, (())	3	8	9	report	statement
+CCTV1_LEGALREPORT_CMN_20080422_123801	0	882.276	906.163	speaker#10	male	native	呃呃,没有就是从那,参加-参加暗访的同时分开在两个里面,分别到入口以后然后电话联系说已经到位了,然后就开始行动	9	26	37	filler	statement
+CCTV1_LEGALREPORT_CMN_20080422_123801	0	1048.379	1069.002	speaker#12	female	native	什么地方的都有, (()) ,那个卖特别少,那个有的时候一张都不卖,有的时候卖十多二十张也说不定	13	30	43	filler	statement
+CCTV1_LEGALREPORT_CMN_20080422_123801	0	1078.158	1098.167	speaker#13	male	native	这几家店全都是无证照的,没有经营许可证,属于这个无照经营非法应该是,那么今后就是 (()) ,呃对上线呢对他们还周边的一些地方的这个呃货从哪来货到哪去,恐怕还要进一步的这个这就是调查	15	32	45	report	statement

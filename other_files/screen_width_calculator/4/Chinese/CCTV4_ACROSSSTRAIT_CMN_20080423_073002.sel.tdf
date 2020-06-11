@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 62.344999999999999, 66.498000000000005, 70.659999999999997, 659.74800000000005, 664.72000000000003, 1613.2190000000001, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080423_073002	0	436.477	450.154	speaker#2	female	native	据报道,由于国际原油价格上涨,中油公司日前曾经提出过上涨油价的措施,但是台湾当局却做出了冻结油价的决定,被外界认为是把油价难题留给了马英九团队	3	15	41	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080423_073002	0	521.177	529.219	speaker#1	female	native	四月二十二号,美国国务院副发言人凯西表示,美国目前没有派遣陆战队员驻守美国在台协会的计划	3	18	50	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080423_073002	0	592.976	609.487	speaker#7	male	native	有一个背包那个是 (()) ,哦另外是 (()) ,那歹徒--歹徒就从对面的车道啊走过来以后就开始开枪,啊就开枪,那倒地的那个是 (()) 倒地的,另外一个就是攻击歹徒的这个是司机 (())	3	22	57	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080423_073002	0	609.487	618.415	speaker#6	female	native	脚上已经中了好几枪,运钞车的 (()) 驾驶还是奋力抵抗,歹徒拿着枪他没办法靠近,放手一搏,还用 (()) 往前丢,希望能让歹徒收手	3	23	58	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080423_073002	0	624.097	632.426	speaker#6	female	native	(()) 往后退,都已经中弹的谢姓保全员旁边确定再也没有人追上来,当场 (()) 要保全有胆就追上来	3	23	60	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080423_073002	0	1294.040	1298.243	Jiang_Min_Qin	male	native	哦这是尹启铭对于马英九团队的一个坚持哦	5	36	147	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080423_073002	0	1446.220	1450.297	Zhang_Qi_Kai	male	native	可这个经营团队一直不给资料,后来他就决定辞职了	5	38	166	report	statement

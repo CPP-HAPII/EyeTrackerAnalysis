@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0847.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	30 Chinese University Student Reporters to Cover Beijing Olympics	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 06:46:19 Source: Xinhua News Agency rough draft	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Beijing (Xinhua News Agency) Olympics special feed, April 28th - 30 exemplary students from Chinese universities will have an opportunity to participate in the reporting of the 2008 Olympics and Special Olympics.	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	On the 28th, the International Olympic Committee global partner, Samsung, announced they will select 30 exemplary university students from Chinese universities to report on the Beijing Olympics and Special Olympics as "Samsung Anycall Reporter."	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	According to the description, the selection process will start in the beginning of May.	0	0	0		statement
+PLA_CMN_20080429.0847.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	The selected University student reporters will get an opportunity to attend and report on the Beijing Olympics and Special Olympics.	0	0	0		statement

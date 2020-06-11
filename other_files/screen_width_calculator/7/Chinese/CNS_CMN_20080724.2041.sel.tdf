@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080724.2041	0	500.0	600.0	speaker	unknown	unknown	当时他与友人的谈话，被人以手机收录后，于22日放上YouTube网站。	0	0	0		

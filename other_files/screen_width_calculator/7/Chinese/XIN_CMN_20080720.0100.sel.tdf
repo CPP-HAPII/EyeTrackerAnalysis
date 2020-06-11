@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080720.0100	0	500.0	600.0	speaker	unknown	unknown	但近年来阿富汗各地武装分子袭击事件仍旧不断，安全形势每况愈下。	0	0	0		

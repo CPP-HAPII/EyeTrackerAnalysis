@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.2735	0	0.0	100.0	speaker	unknown	unknown	Russian president promises children from Sichuan earthquake zone: later you can come to the Kremlin to work as assistants (photo).	0	0	0		

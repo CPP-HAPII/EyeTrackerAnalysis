@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080430.0150	0	1100.0	1200.0	speaker	unknown	unknown	这是两岸同胞和全体中华儿女的共同荣耀。	0	0	0		

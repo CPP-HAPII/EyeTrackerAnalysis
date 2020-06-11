@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070127.0255	0	10010.000	10019.900				Palestinian Clashes Escalate, Leading to 15 Deaths; Tense Situation in Gaza Strip	0	0	0		
+CNS_CMN_20070127.0255	0	20010.000	20019.900				January 27, 2007, 09:45	0	0	0		
+CNS_CMN_20070127.0255	0	30010.000	30019.900				Chinanews.com, January 27 - The hostile factions in Palestine once again broke into a serious clash in the Gaza Strip on the 26th, causing 15 deaths so far, of which one is a two-year-old young child.	0	0	0		
+CNS_CMN_20070127.0255	0	30020.000	30029.900				An organization that is linked to the Palestinian National Liberation Movement Fatah claimed that it has detained 24 Hamas members as hostages.	0	0	0		
+CNS_CMN_20070127.0255	0	40010.000	40019.900				A report said that since Hamas took over the government one year ago, this is the violent crash with the highest daily death toll caused by violent confrontation within Palestine.	0	0	0		
+CNS_CMN_20070127.0255	0	50010.000	50019.900				Hamas militants surrounded the residence of a senior Fatah official in Jabalya in the south of Gaza, and opened fire at it.	0	0	0		
+CNS_CMN_20070127.0255	0	50020.000	50029.900				At present, it is still unclear whether this official is alive or dead.	0	0	0		
+CNS_CMN_20070127.0255	0	50030.000	50039.900				On the other hand, the al-Aqsa Martyrs' Brigades claimed that it has detained 24 Hamas members in Gaza and the West Bank.	0	0	0		
+CNS_CMN_20070127.0255	0	60010.000	60019.900				Local residents said that deep in the night of the 26th, the echo of gunshots could still be heard in Gaza and the situation was still very tense. Hamas and Fatah militants could be seen patrolling the streets.	0	0	0		
+CNS_CMN_20070127.0255	0	70010.000	70019.900				A Hamas official said that the house of their Foreign Minister, Zahar, was also hit by a rocket propelled grenade.	0	0	0		
+CNS_CMN_20070127.0255	0	70020.000	70029.900				At that time, the family members of Zahar were in the house but no one was hurt.	0	0	0		
+CNS_CMN_20070127.0255	0	80010.000	80019.900				The recent escalation of violence within Palestine caused Hamas to call off its talks with the Fatah camp on the forming of a coalition government.	0	0	0		
+CNS_CMN_20070127.0255	0	80020.000	80029.900				A Hamas spokesperson also strongly criticized the hostile actions of Fatah.	0	0	0		
+CNS_CMN_20070127.0255	0	80030.000	80039.900				On the other hand, Fatah spokesperson Khoussa blamed the failed negotiations on Hamas.	0	0	0		

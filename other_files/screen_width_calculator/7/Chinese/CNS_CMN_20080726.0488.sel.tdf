@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080726.0488	0	700.0	800.0	speaker	unknown	unknown	2、有关部门应注意防范因用电量过高，电线、变压器等电力设备负载大而引发火灾；	0	0	0		
+CNS_CMN_20080726.0488	0	900.0	1000.0	speaker	unknown	unknown	4、注意作息时间，保证睡眠，必要时准备一些常用的防暑降温药品；	0	0	0		
+CNS_CMN_20080726.0488	0	1000.0	1100.0	speaker	unknown	unknown	5、媒体应加强防暑降温保健知识的宣传，各相关部门、单位落实防暑降温保障措施。	0	0	0		

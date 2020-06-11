@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.0480	0	0.0	100.0	speaker	unknown	unknown	迎"七一"暨救灾文艺晚会举行 李长春出席并观看	0	0	0		
+CNS_CMN_20080701.0480	0	200.0	300.0	speaker	unknown	unknown	《向祖国报告》——迎“七一”暨抗震救灾文艺晚会30日在京举行，中共中央政治局常委李长春出席并观看。	0	0	0		
+CNS_CMN_20080701.0480	0	1500.0	1600.0	speaker	unknown	unknown	台上，感天动地的抗震英模说出平凡的话语；台下，热泪盈眶的观众报以热烈的掌声。	0	0	0		

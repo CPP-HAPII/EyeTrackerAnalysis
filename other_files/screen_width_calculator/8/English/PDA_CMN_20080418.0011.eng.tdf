@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0011.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	U.S. Secretary of State Rice: North Korea May Submit Nuclear Program List by End of Month	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008.	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	900.000	950.000	TEXT1	unknown	unkown	At a news conference on the 17th, U.S.A Secretary of State Rice said that according to the results of the meeting of U.S. and North Korean representatives in Singapore, the U.S. plans to send somebody to visit North Korea soon to carry out a final negotiation regarding North Korea's complete nuclear program list.	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	If the negotiation develops smoothly, North Korea may submit a complete nuclear program list by the end of the month.	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Rice said: "Have we already made progress on the North Korean nuclear issue through the six-party talk framework? Yes.	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	Do we still have reason to continue being cautious and doubtful? Yes."	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Rice expressed praise for the six-party talk mechanism. She said that talks under this type of framework resulted in the finding of common ground between each of the attending parties for pushing the Korean peninsula to denuclearization and preventing nuclear proliferation.	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	At that day's press conference, Rice did not answer as to what specific issues there are with North Korea's nuclear disarmament process.	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	Yesterday, a U.S. State Department official said that the U.S. is currently establishing a new mechanism to be used to carefully scrutinize all declarations about North Korea's nuclear weapon list.	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	Media here commented that this obviously hints that the U.S. will probably receive the full nuclear list submitted by North Korea very soon.(Reporter Qiu Hongpo)	0	0	0		statement

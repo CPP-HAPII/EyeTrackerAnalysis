@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76807-10677065	0	300.0	400.0	speaker	unknown	unknown	想请了解st的人说一下这门课程对于fiancial engineering的学生有学的必要么 和fiancial modeling以及其他一些金融相关应用有很大联系不？	0	0	0		

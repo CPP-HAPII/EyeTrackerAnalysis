@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 153.04599999999999, 496.59800000000001, 583.08600000000001, 676.98199999999997, 691.62, 749.99699999999996, 758.351, 786.88099999999997, 807.59699999999998, 919.98400000000004, 989.995, 1002.899, 1086.8510000000001, 1109.297, 1131.837, 1178.4000000000001, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	177.772	186.515	speaker#2	female	nonnative	直到我死那一天我肯定不会忘记, (()) 这一幕	1	2	3	report	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	388.078	394.066	speaker#8	male	nonnative	对呀对呀他的名字叫宋建权, (())	1	22	23	report	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	676.982	691.620	speaker#3	male	native	二十步,我走的-我走的稍微快一点,二十-二十来步,对我爸就在这死的, (())	4	40	48	filler	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	676.982	691.620	speaker#11	female	native	这就是你父亲 (()) 的吧	4	40	49	filler	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	691.620	701.021	Li_Jian_Zhong	male	nonnative	我们一开始同情他是因为无奈呀, (()) 其实, (()) 出这个事这个道理	5	41	50	report	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	709.371	729.012	Li_Jian_Zhong	male	nonnative	就说他这个事情呢又是中午了,生意很淡,这本来,因为本来是本来很多人, (())	5	43	52	report	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	786.881	807.597	Li_Jian_Zhong	male	nonnative	当时就有三个人吧,噢基本上就听到 (()) ,他已经-已经,这个大爷已经-已经到了底下了	8	49	60	filler	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	858.310	871.889	speaker#14	male	nonnative	看我们在那他就,他 (()) ,看我们来了他就走了, (()) 很正常,毕竟是集贸市场	9	54	65	report	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	958.857	965.929	speaker#16	male	nonnative	他没的报案在之前没有报案,只有出了事的 (()) ,他有报案	10	58	73	filler	statement
+CCTV1_LEGALREPORT_CMN_20080330_123801	0	965.929	974.725	speaker#17	male	nonnative	(()) 那肯定跑的快了, (()) ,我的 (()) 里头	10	59	75	filler	statement

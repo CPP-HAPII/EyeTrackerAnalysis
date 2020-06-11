@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0023.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	乌拉圭成为拉丁美洲首个举行"同志"婚礼的国家	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18日 15:39 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月18日电 　乌拉圭年初通过一项法律，正式承认同性伴侣的结合。	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	17日，该国成为拉丁美洲第一个为“同志”伴侣举行婚礼的国家。	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	据“中央社”报道，法官培瑞斯为38岁的费盖拉与67岁的演员兼剧场总监卡罗斯，主持了这场婚礼，“夫妇”二人均为男性。	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	新人的一小群亲友也同时见证了这一美妙时刻。	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	卡罗斯称，他与费盖拉已经同居了14年，他认为两人的婚姻“是正义的问题，也是乌拉圭社会向前迈进的一步”。	0	0	0		statement
+CNS_CMN_20080418.0023.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	乌拉圭所谓的《同居婚姻法》于今年1月1日生效，允许同居至少5年的异性恋与同性恋者拥有传统婚姻赋予的法律权利与福利。	0	0	0		statement

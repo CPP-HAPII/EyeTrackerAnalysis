@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080411.0656	0	300.0	400.0	speaker	unknown	unknown	FDI出现反常现象	0	0	0		
+CNS_CMN_20080411.0656	0	500.0	600.0	speaker	unknown	unknown	国家发改委对外经济研究所所长张燕生说，按道理说，国际资本流动、美国次债危机和全球经济减速的情况下有下行压力，而我国今年贸易、外资政策的调整以及要素成本的上涨也本应给外商投资带来下行压力。	0	0	0		
+CNS_CMN_20080411.0656	0	800.0	900.0	speaker	unknown	unknown	游资或盯上FDI渠道	0	0	0		
+CNS_CMN_20080411.0656	0	1000.0	1100.0	speaker	unknown	unknown	是不是游资在借道FDI进入，张燕生没有直接下结论。	0	0	0		
+CNS_CMN_20080411.0656	0	1300.0	1400.0	speaker	unknown	unknown	魏凤春说，剖析FDI可以发现，2003 年至2007 年以来，FDI 用于固定资产的比例一直在直线上升，保持在50%以上，最高曾达到63%以上，但今年一季度这一比例已经下降到20%左右。	0	0	0		
+CNS_CMN_20080411.0656	0	1400.0	1500.0	speaker	unknown	unknown	“没有用于固定资产投资的FDI可能处于一种观望状态，一方面对很多新一届的地方政府没有建立起信任联系，投资尚在观望，还有部分外资正对中国资本市场虎视眈眈。”魏凤春说。	0	0	0		
+CNS_CMN_20080411.0656	0	1500.0	1600.0	speaker	unknown	unknown	事实上，早在今年1月份FDI猛增109.78%时，商务部研究院投资研究部主任马宇就认为，有国际热钱和游资流入的原因。	0	0	0		
+CNS_CMN_20080411.0656	0	1600.0	1700.0	speaker	unknown	unknown	混入FDI游资将会增加	0	0	0		
+CNS_CMN_20080411.0656	0	1900.0	2000.0	speaker	unknown	unknown	魏凤春认为，二季度开始，将会有更多国际资金进入中国，一方面是由于中美利差还在加大，另一方面，去年在美国次债危机的影响下，国际资金很多撤回本部，然而“当血已经止住，最好的疗伤方式是‘围魏救赵’，通过从新兴市场获利才能真正弥补次债的损失”。	0	0	0		

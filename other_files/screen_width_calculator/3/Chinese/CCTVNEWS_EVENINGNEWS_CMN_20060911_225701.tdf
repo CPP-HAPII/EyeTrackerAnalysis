@@ -1,0 +1,250 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 99.373000000000005, 142.48599999999999, 213.489, 231.78399999999999, 241.934, 316.45600000000002, 388.86200000000002, 517.39800000000002, 542.846, 625.93600000000004, 660.36699999999996, 683.86500000000001, 698.32600000000002, 726.20100000000002, 852.03700000000003, 982.87699999999995, 1171.2090000000001, 1269.9829999999999, 1337.106, 1370.3399999999999, 1404.2929999999999, 1431.0899999999999, 1453.126, 1477.4680000000001, 1507.7380000000001, 1549.7739999999999, 1636.0, 1704.1079999999999, 1742.8209999999999, 1769.289, 1793.78, 1812.8219999999999, 1832.7329999999999, 1921.355, 1955.2180000000001, 1979.02, 2052.634, 9999999.0]
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	0.000	3.383	speaker#1	female	native	乌鲁木齐，多云转晴，十三到二十四度。	0	0	0	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	3.383	6.168	speaker#1	female	native	银川，多云转晴，十到二十三度。	0	0	1	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	7.335	10.030	speaker#1	female	native	西宁，多云，六到二十度。	0	0	3	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	10.030	13.144	speaker#1	female	native	兰州，晴转多云，十一到二十五度。	0	0	4	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	14.581	17.275	speaker#1	female	native	西安，多云，十五到二十五度。	0	0	6	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	17.275	20.389	speaker#1	female	native	拉萨，小雨转阴，十到二十二度。	0	0	7	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	21.766	24.371	speaker#1	female	native	成都，小雨，十七到二十三度。	0	0	9	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	24.371	27.545	speaker#1	female	native	重庆，多云转阵雨，二十到二十五度。	0	0	10	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	29.012	31.796	speaker#1	female	native	贵阳，多云，十四到二十五度。	0	0	12	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	31.796	34.880	speaker#1	female	native	昆明，小雨转多云，十四到二十度。	0	0	13	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	35.838	38.293	speaker#1	female	native	太原，晴，八到二十六度。	0	0	15	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	38.293	41.437	speaker#1	female	native	石家庄，多云转晴，十七到二十七度。	0	0	16	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	42.754	45.299	speaker#1	female	native	济南，晴，十七到二十七度。	0	0	18	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	45.299	48.413	speaker#1	female	native	郑州，晴，十四到二十六度。	0	0	19	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	49.760	52.784	speaker#1	female	native	合肥，小雨转阴，十七到二十四度。	0	0	21	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	52.784	55.718	speaker#1	female	native	南京，小雨转阴，十八到二十五度。	0	0	22	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	57.395	60.030	speaker#1	female	native	上海，阵雨，十九到二十三度。	0	0	24	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	60.030	62.575	speaker#1	female	native	武汉，多云，十八到二十六度。	0	0	25	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	63.982	67.006	speaker#1	female	native	长沙，阴转多云，十九到二十五度。	0	0	27	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	67.006	70.180	speaker#1	female	native	南昌，小雨转多云，十九到二十五度。	0	0	28	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	71.827	74.522	speaker#1	female	native	杭州，小雨，十八到二十二度。	0	0	30	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	74.522	77.696	speaker#1	female	native	福州，阵雨转多云，二十一到二十九度。	0	0	31	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	78.504	81.079	speaker#1	female	native	台北，阵雨，二十四到二十九度。	0	0	33	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	81.079	84.402	speaker#1	female	native	南宁，阴转多云，二十二到二十九度。	0	0	34	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	85.301	88.026	speaker#1	female	native	海口，多云，二十三到二十九度。	0	0	36	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	88.026	90.900	speaker#1	female	native	广州，多云，二十二到二十九度。	0	0	37	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	92.307	95.241	speaker#1	female	native	香港，多云转阵雨，二十三到二十六度。	0	0	39	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	95.241	98.085	speaker#1	female	native	澳门，多云，二十四到二十八度。	0	0	40	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	99.373	101.548	speaker#2	female	native	好，我们再来看一下出行方面的消息。	1	1	42	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	101.548	106.259	speaker#2	female	native	民航方面海南航空公司山西分公司呢调整了部分航班的起飞时刻，	1	1	43	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	106.259	109.203	speaker#2	female	native	调整以后的情况呢，是太原到武汉的航班，	1	1	44	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	109.203	116.139	speaker#2	female	native	航班号是 <foreign lang="English">HU</foreign> 七六七九，七六八零，每周飞行四班，分别在周一，三，五，日飞行。	1	1	45	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	116.139	124.133	speaker#2	female	native	下午的五点二十分从太原起飞，六点五十分到达武汉，晚上七点二十分从武汉返程飞行，九点钟回到太原。	1	1	46	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	124.133	131.618	speaker#2	female	native	太原到南京的航班，航班号是 <foreign lang="English">HU</foreign> 七三六七，七三六八，每周飞行三班，分别在周二，四，六飞行。	1	1	47	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	131.618	139.432	speaker#2	female	native	下午的五点钟从太原起飞，六点五十分到达南京，七点二十分从南京返程飞行，九点十分回到太原。	1	1	48	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	139.432	142.486	speaker#2	female	native	好吧，我们这档节目就先到这，待会再见吧。	1	1	49	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	213.489	218.908	speaker#3	female	native	北京奥运会期间，来宾凭身份注册卡可从国内任意口岸出入境。	3	3	51	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	219.507	224.178	speaker#3	female	native	湖南岳阳县砷污染原因初步查明，污水团正在稀释。	3	3	53	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	224.927	227.771	speaker#3	female	native	美国各地纪念九幺幺五周年。	3	3	55	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	228.580	231.784	speaker#3	female	native	中国网球公开赛正赛第一天角逐。	3	3	57	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	241.934	246.665	speaker#4	female	native	各位晚上好，这里是中央电视台晚间新闻，欢迎您收看，先来看时政要闻。	5	5	59	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	248.521	270.797	speaker#5	male	native	九月六号至十一号，胡锦涛在新疆维吾尔自治区考察工作时强调，必须全面贯彻落实科学发展观， 紧紧抓住国家实施西部大开发战略的宝贵机遇，大力推动民族地区经济社会发展， 切实提高各族人民群众生活水平，不断开创民族地区团结稳定，蓬勃发展的新局面。	5	6	61	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	272.803	278.072	speaker#5	male	native	当地时间九月十号，第六届亚欧首脑会议在芬兰首都赫尔辛基举行，	5	6	65	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	278.072	283.162	speaker#5	male	native	温家宝发表了题为加深亚欧合作，共同应对挑战的重要谈话。	5	6	66	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	283.821	295.438	speaker#5	male	native	当地时间九月十号和十一号，温家宝分别会见了拉脱维亚总统， 波兰总理，荷兰总理，丹麦首相，斯洛文尼亚总理，斯洛伐克总理等与会领导。	5	6	68	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	296.785	300.677	speaker#5	male	native	九月十一号，贾庆林会见韩国国会前议长金守汉。	5	6	71	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	301.755	308.342	speaker#5	male	native	吴官正圆满结束对卢旺达，马达加斯加，博茨瓦纳，加蓬的正式友好访问，九月十号回到北京。	5	6	73	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	309.330	315.288	speaker#5	male	native	九月十一号，李长春会见日本著名作家诺贝尔文学奖获得者大江健三郎。	5	6	75	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	316.456	322.743	speaker#4	female	native	北京奥组委今天宣布，北京奥运会将是历史上证件注册点最多的一届奥运会，	6	7	77	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	322.743	328.821	speaker#4	female	native	奥运会来宾可以凭身份注册卡，在包括香港在内的我国任何一个口岸出入境。	6	7	78	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	330.019	344.729	speaker#3	female	native	按照北京奥组委确定的人员出入境方案，二零零八年奥运会期间，运动员，媒体官员等参与奥运会的有关人员， 手中的身份注册卡可以同时作为签证在中国任何一个口岸办理出入境手续。	6	8	80	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	344.729	348.352	speaker#3	female	native	出入香港和中国大陆也只需办理一次签证。	6	8	82	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	348.951	354.610	speaker#3	female	native	奥运会来宾进入主办国后，证件需要在指定机构激活后才能生效。	6	8	84	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	355.239	364.550	speaker#3	female	native	以往的奥运会，一般只指定少数几个激活中心，人多，工作量大，需要排长队等候，而其他注册设施不能办理激活业务。	6	8	86	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	365.089	377.724	speaker#3	female	native	为此，北京奥组委在奥运会历史上首次规定， 来宾可以到北京和青岛，上海等五个协办城市设置的四十四个注册设施，任意选择其中一个来激活证件。	6	8	88	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	377.724	386.916	speaker#6	male	native	我们在没有增加设备，没有增加人员的情况下，我们增加了服务的地点，这样从而方便他呢能够很快的能够进场，开展他的工作。	6	9	90	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	388.862	393.832	speaker#3	female	native	近日，国务院长江三峡三期工程验收委员会召开第一次全体会议，	7	10	92	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	393.832	399.281	speaker#3	female	native	中共中央政治局委员，国务院副总理，验收委员会主任委员曾培炎主持会议。	7	10	93	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	399.281	403.144	speaker#3	female	native	会议听取了三期枢纽工程和移民工程验收报告。	7	10	94	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	403.144	413.054	speaker#3	female	native	认为，三峡工程全面转入三期建设以来，枢纽工程建设顺利推进，已具备在今年汛后蓄水至一百五十六米水位运行的条件。	7	10	95	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	413.653	424.417	speaker#3	female	native	曾培炎指出，当前和今后一段时间， 三峡工程各有关地方和部门要进一步加强领导，密切配合，高质量，高标准的完成三期建设的各项任务。	7	10	97	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	424.956	429.791	speaker#3	female	native	针对验收中发现的问题，及时采取有效措施加以整改，不留隐患。	7	10	100	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	430.390	440.156	speaker#3	female	native	汛后蓄水方案的实施要科学调度，统筹考虑防洪，下流用水，航运，发电等各方面的需要，进度服从质量，服从安全。	7	10	102	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	440.725	446.982	speaker#3	female	native	继续搞好三峡枢纽工程建设，加强工程运行监测和水库管理，确保安全生产。	7	10	104	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	447.551	453.084	speaker#3	female	native	进一步做好移民安置工作，加快地质灾害防治步伐，加大水污染治理力度。	7	10	106	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	453.084	458.923	speaker#3	female	native	确保人民生命财产安全和水质优良，努力把三峡工程建设成一流工程。	7	10	107	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	459.612	466.858	speaker#4	female	native	据了解，三峡大坝一百五十六米蓄水行动将在九月二十号启动实施，预计二十天左右时间完成。	7	11	109	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	468.445	477.128	speaker#3	female	native	三峡工程从二零零四年转入三期建设以来，各项工作围绕蓄水到一百五十六米目标全面展开，不断取得新的进展。	7	12	111	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	477.128	481.829	speaker#3	female	native	今年五月，三峡大坝全线达到一百八十五米设计高程，	7	12	112	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	481.829	489.164	speaker#3	female	native	左岸电站十四台机组比设计提前一年全部投入运行，累计发电一千百多亿千瓦时。	7	12	113	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	489.164	494.643	speaker#3	female	native	移民安置工作稳步推进，累计搬迁安置移民一百一十六万人。	7	12	114	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	494.643	500.332	speaker#3	female	native	十座县城，两座城市和一百一十二个集镇绝大部分完成了整体搬迁。	7	12	115	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	500.332	507.368	speaker#3	female	native	与此同时，对库区的生态环境保护和地质灾害防治工作全面展开，干流水质总体良好。	7	12	116	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	507.967	516.500	speaker#3	female	native	枢纽工程验收组和移民工程验收组认为，三峡水库已经具备在今年汛后蓄水到一百五十六米的各项条件。	7	12	118	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	517.398	523.805	speaker#4	female	native	国家统计局今天公布，八月份居民消费价格总水平比去年同月上涨了百分之一点三，	8	13	120	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	523.805	530.571	speaker#4	female	native	在食品中，粮价上涨幅度最大，超过百分之三，鲜蛋价格下降幅度最大，达到百分之四。	8	13	121	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	530.571	537.457	speaker#4	female	native	在交通和通信类价格中，涨幅最大的是车用燃料和零配件，上涨了百分之十二以上。	8	13	122	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	537.457	542.008	speaker#4	female	native	降幅最大的是通信工具价格，下降了百分之十七点六。	8	13	123	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	542.846	551.948	speaker#4	female	native	经过国家环保总局和湖南省市环保部门的联合调查，湖南省岳阳县饮用水源砷超标事件的原因已经初步查明，	9	14	125	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	551.948	556.679	speaker#4	female	native	目前，岳阳县城八万居民的饮用水已经得到了妥善解决。	9	14	126	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	557.996	572.082	speaker#3	female	native	国家环保总局会同湖南省，市环保部门初步查明， 湖南临湘市浩源化工公司和桃林铅锌矿化工厂等非法排污企业是造成这次岳阳县新墙河砷污染的主要原因。	9	15	128	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	572.591	583.990	speaker#3	female	native	由于这两家企业没有任何污染治理措施，每个月分别有近五万吨和二百八十吨超过国家标准一千多倍的高浓度含砷废水直排入河。	9	15	131	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	583.990	588.930	speaker#3	female	native	目前，肇事企业已被彻底关停，相关责任人已被刑事拘留。	9	15	132	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	589.499	597.433	speaker#3	female	native	污染事件发生以后，当地政府调运了二十七台消防车，从岳阳市连续拉水，保证当地居民的生活饮用水。	9	15	134	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	598.092	612.972	Wang_shengcai	male	native	环境建设中心站根据截至目前为止，最新的监测数据分析， 这个岳阳县饮用水源和这个入洞庭湖的水质已经降到这个，明显下降，	9	16	136	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	612.972	619.050	Wang_shengcai	male	native	根据专家分析，该水质这个砷元素得到了大量的这个有效的稀释。	9	16	138	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	619.050	623.840	Wang_shengcai	male	native	根据专家们分析，不会对洞庭湖水质和长江造成影响。	9	16	139	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	625.936	635.667	speaker#3	female	native	教育部透露，二零零七年武汉科技大学，北京电影学院等二十所省属高校成为新增的硕士推荐免试资格院校。	10	17	141	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	635.667	641.445	speaker#3	female	native	这二十所高校可以在本校应届毕业生中选出优秀学生向招生院校推荐。	10	17	142	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	641.445	647.852	speaker#3	female	native	获得推荐的学生不必经过全国硕士研究生入学统一考试的初试，直接进入复试。	10	17	143	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	648.421	655.038	speaker#3	female	native	按照教育部的规定，一般院校保送研究生的比例为本校应届毕业生数的百分之二。	10	17	145	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	655.038	659.559	speaker#3	female	native	首次开展保研的院校，前三年的比例为百分之一。	10	17	146	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	660.367	669.798	speaker#3	female	native	哈尔滨市开始推行个税新规定，非直系亲属间的房屋赠与，受赠人应按房屋评估全值的百分之二十缴纳个税。	11	18	148	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	669.798	682.817	speaker#3	female	native	此前由于办理房屋赠与不需要缴纳个税和营业税， 一些人为避税，钻政策空子，在二手房买卖过程中，假赠与，真交易，致使房产部门受理的赠与业务量一度骤增。	11	18	149	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	683.865	689.464	speaker#3	female	native	广州市的防蚊灭蚊行动初见成效，登革热疫情出现平稳下降的趋势。	12	19	152	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	689.464	696.949	speaker#3	female	native	最近几天，每天新发病例都不超过十例，专家预计，随着气温的逐步下降，疫情还会继续缓解。	12	19	153	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	698.326	707.248	speaker#3	female	native	甘肃省出台措施，今后五年内，禁止捕捞甘肃省境内，长江，黄河及内陆河三大水系的全部渔业资源。	13	20	155	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	707.248	711.440	speaker#3	female	native	但三大水系流经的养殖性水域不在禁渔之列。	13	20	156	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	712.039	719.374	speaker#3	female	native	甘肃省的自然水系中生存着多种经济鱼和本地鱼，其中国家二极保护水生野生动物有四种。	13	20	158	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	719.374	725.033	speaker#3	female	native	但是由于水资源总量减少，排污量增加等问题，一些鱼类物种濒临灭绝。	13	20	159	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	726.201	737.129	speaker#4	female	native	全国公共英语等级考试原本是为成年人设计的考试，但是在上个周末的考试中，北京的许多考场却是中小学生扎堆，这是为什么呢？	14	21	161	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	738.147	744.075	speaker#3	female	native	在北京的几个考点，记者见到了不少中小学考生，有的看上去只有八九岁。	14	22	163	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	744.075	745.366	speaker#7	female	native	今天参加几级的考试啊？	14	23	164	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	745.366	745.977	speaker#8	male	native	一级。	14	24	165	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	745.977	746.740	speaker#7	female	native	三级。	14	25	166	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	746.740	754.045	speaker#3	female	native	据了解，在北京公共英语去年的考试中，十到十五岁的报考人数占到了总人数的三分之二，	14	26	167	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	754.045	758.506	speaker#3	female	native	那么这些孩子为什么要来参加这项为成人设立的考试呢？	14	26	168	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	758.506	761.769	speaker#9	male	native	如果要考一个二级，不就可以当特长生来那个择校或是什么。	14	27	169	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	761.769	763.176	speaker#10	male	native	为了考初中呗。	14	28	170	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	763.176	766.948	speaker#11	female	native	为了升学，就是为了小升初做准备。	14	29	171	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	766.948	775.780	speaker#3	female	native	全国公共英语等级考试共分五级，一级相当于高中入学水平，二级就基本满足进入大学学习的要求了。	14	30	172	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	775.780	780.660	speaker#3	female	native	而三级就相当于普通高校非英语专业本科生的水平，	14	30	173	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	780.660	788.714	speaker#3	female	native	现在，北京很多中小学生家长都认为，拿到公共英语三级证书，就有可能上一流重点中学。	14	30	174	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	788.714	795.031	speaker#3	female	native	但是，教育界人士表示，公共英语考试的很多内容其实根本不适合孩子学。	14	30	175	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	795.031	803.564	speaker#3	female	native	比如，今年一级考试的试题中，就有一道题目要求考生写一篇预定机票的短文，孩子们看了就有点发蒙。	14	30	176	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	803.564	808.624	speaker#12	male	native	对我来说比较难的，就是有点深奥。	14	31	177	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	808.624	819.552	speaker#13	female	native	他们所学习的话题，远远的离开孩子们现有的真实生活，这样的话呢，可能孩子就会对知识的一种认知产生一种冲突。	14	32	178	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	819.552	825.780	speaker#14	male	native	这个事情就好象让那个中小学生啊，比如他能够背二十斤的时候，你非让他背五十斤。	14	33	179	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	825.780	834.133	speaker#3	female	native	看着小学还没毕业的孩子，拿着代表中学，甚至是大学毕业水平的英语证书，真不知道应该是喜，还是忧。	14	34	180	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	834.133	850.360	speaker#14	male	native	北京市的学校，如果在均衡发展的前提下，取消了重点校，取消了重点班， 那么各个学校的硬件，还有通过软件，师资的流动大体都相当，那么家长也就不用费这事了，孩子就真正解放了。	14	35	181	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	852.037	859.881	speaker#4	female	native	近年来，一种全密闭的输液药品在医院临床中被广泛使用，这就是非 <foreign lang="English">PVC</foreign> 软袋输液制剂。	15	36	184	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	859.881	866.348	speaker#4	female	native	和传统的瓶装输液相比，它的好处在于不用引入空气，静脉输液更安全。	15	36	185	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	866.348	875.597	speaker#4	female	native	作为这种新型输液用品的生产厂家，广东神州制药有限公司把高标准精细化，零缺陷的要求贯穿于整个生产环节，	15	36	186	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	875.597	878.114	speaker#4	female	native	产品质量有了严格的保证。	15	36	187	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	879.941	887.666	speaker#3	female	native	广东神州制药有限公司四条全自动化生产线都在百级洁净区内进行制袋，罐装和封口，	15	37	189	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	887.666	893.025	speaker#3	female	native	而生产前，车间要进行尘埃粒子等各项指标的严格检测。	15	37	190	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	893.594	902.756	speaker#15	male	native	经过三次检测，现在的话，这个内径大于等于零点五微米以上的尘埃粒子数量都是为零。	15	38	192	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	902.756	910.720	speaker#15	male	native	这说明了我们这个，我们灌装机里面的这个环境洁净度啊完全达到了一百级的要求。	15	38	193	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	910.720	916.528	speaker#3	female	native	非 <foreign lang="English">PVC</foreign> 软袋的厚度虽然只有零点一九毫米，但却有五层物质构成，	15	39	194	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	916.528	928.025	speaker#3	female	native	广东神州制药有限公司根据它耐热性能好的优点，对成品采取了水域式灭菌方法， 使输液药品在一百二十一摄氏度的高度下均衡灭菌。	15	39	195	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	928.714	935.720	speaker#15	male	native	我们常常说一袋输液，一条人命，因此，在日常生产中，我们设有二百六十八个质量监控点，	15	40	198	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	935.720	941.259	speaker#15	male	native	同时我们还要执行更严格的企业内控质量标准，来保证产品的质量。	15	40	199	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	941.259	945.241	speaker#3	female	native	细菌内毒素是药液在杀菌后产生的一种物质，	15	41	200	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	945.241	951.349	speaker#3	female	native	如果内毒素含量过高，临床使用后，病人会产生发烧，颤抖等不良反应。	15	41	201	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	951.349	956.918	speaker#3	female	native	因此，严格控制内毒素含量是反应输液药品质量的重要指标。	15	41	202	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	956.918	966.918	speaker#16	female	native	按国家标准，不能超过零点五个单位，呃，但是我们内部就比较严，要求比较严格，不能超过零点二五个单位。	15	42	203	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	968.086	979.464	speaker#3	female	native	五年来，广东神州制药有限公司的产品抽检合格率都为百分之百，销售量突破了一亿袋，产品销量也正以每年百分之四十的速度递增。	15	43	205	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	980.332	982.877	speaker#4	female	native	好，稍候晚间新闻还有国际方面的消息。	15	44	207	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1171.209	1173.676	speaker#4	female	native	好，欢迎您回来，我们来看国际方面的消息。	17	46	209	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1174.239	1183.454	speaker#4	female	native	今天是九幺幺恐怖袭击五周年的纪念日，美国各地相继举行纪念仪式，悼念九幺幺事件当中的近三千名遇难者。	17	46	211	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1183.454	1193.634	speaker#4	female	native	在纽约世贸中心遗址，死难者家属分别在两架飞机正向世贸双塔的时刻进行默哀，并逐个宣读了遇难者的名单。	17	46	212	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1195.281	1201.898	speaker#4	female	native	纽约，华盛顿以及尚克斯维尔是五年前九幺幺恐怖袭击发生时的三个坠机地点。	17	46	214	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1201.898	1206.928	speaker#4	female	native	从十号上午开始，纪念活动在这三个城市就已经陆续展开。	17	46	215	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1208.156	1217.258	speaker#3	female	native	四千名华盛顿民众十号步行来到美国国防部所在地五角大楼，走在队伍最前面的是华盛顿三所小学的师生。	17	47	217	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1217.258	1222.054	speaker#3	female	native	这三所小学有六名师生在五角大楼的坠机事件中遇难。	17	47	218	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1222.791	1225.287	speaker#3	female	native	五角大楼当晚举行了纪念音乐会。	17	47	220	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1225.287	1233.485	speaker#3	female	native	大楼的楼顶向夜空投射出一百八十四根光柱， 哀悼一百八十四名五角大楼坠机事件中的遇难者。	17	47	220	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1234.144	1242.348	speaker#3	female	native	纽约市在世贸中心遗址举行了向九幺幺遇难者敬献花圈的仪式，布什总统夫妇参加了这个仪式。	17	47	223	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1243.067	1255.492	speaker#3	female	native	在九幺幺事件中的另一个坠机点，宾夕法尼亚州的尚克斯维尔也举行了纪念活动， 悼念在那里坠毁的美联航九十三号航班上的四十名乘客和机组人员。	17	47	225	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1255.492	1262.288	speaker#3	female	native	调查显示，正是由于他们的努力，才使得恐怖分子打算袭击华盛顿市内目标的阴谋没有得逞。	17	47	227	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1263.067	1269.025	speaker#3	female	native	当天，在全美五十多个城市共举行了一百多场纪念活动。	17	47	229	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1269.983	1278.426	speaker#4	female	native	就在九幺幺恐怖袭击事件五周年纪念之际，卡塔尔半岛电视台今天播放了一段基地组织二号人物扎瓦赫里的录像，	18	48	231	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1278.426	1284.504	speaker#4	female	native	扎瓦赫里警告说，海湾地区和以色列将成为基地组织的下一个袭击目标。	18	48	232	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1285.791	1296.240	speaker#3	female	native	扎瓦赫里在录像中告诫西方国家领导人不要在伊拉克和阿富汗加强兵力，这样做只能浪费时间，他们的军队势必打败仗。	18	49	234	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1296.240	1310.219	Zhawaheli	male	native	<foreign lang="unknown">(())</foreign>	18	50	235	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1310.219	1320.489	speaker#3	female	native	另据报道，互联网上十号披露了基地组织策划九幺幺恐怖袭击的五十五分钟完整版录像，该版录像据称是由基地组织发布的。	18	51	236	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1320.489	1327.196	speaker#3	female	native	录像显示，基地组织领导人本拉登，及其组织成员在一处可能位于阿富汗山区的营地会谈。	18	51	237	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1327.196	1332.196	speaker#3	female	native	据称，他们是在策划针对美国纽约和华盛顿的九幺幺恐怖袭击，	18	51	238	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1332.196	1336.208	speaker#3	female	native	录像中，还包括两名九幺幺劫机者的遗言。	18	51	239	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1337.106	1348.244	speaker#3	female	native	由联合国教科文组织，亚泰广播发展机构欧广联等共同主办的首届亚太与欧洲媒体对话会议，十一号在巴黎联合国教科文组织总部举行。	19	52	241	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1348.244	1358.274	speaker#3	female	native	本次对话会议主要讨论大众传媒在新时期所面临的发展机遇与挑战，在世界经济一体化背景下，坚持传播文化的多样性等。	19	52	242	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1358.783	1363.274	speaker#3	female	native	来自世界六十多个国家和地区的三百多名代表出席了本次大会。	19	52	244	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1363.274	1369.382	speaker#3	female	native	中国与会代表做了题为传播多元文化，共建和谐世界的主旨发言。	19	52	245	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1370.340	1372.286	speaker#4	female	native	更多消息来看国际快报。	20	53	247	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1373.035	1380.400	speaker#3	female	native	巴勒斯坦民族权利机构主席阿巴斯十一号证实，他和巴自治政府总理哈尼亚十号晚已经达成协议，	20	54	249	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1380.400	1385.310	speaker#3	female	native	未来几天内将开始着手组建法塔赫和哈马斯联合政府。	20	54	250	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1385.310	1389.412	speaker#3	female	native	哈尼亚称，他仍将在政府内担任总理一职。	20	54	251	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1389.412	1395.161	speaker#3	female	native	自哈马斯今年三月底执政以来，以色列和部分西方国家对巴勒斯坦实施封锁，	20	54	252	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1395.161	1403.604	speaker#3	female	native	巴方希望组织民族联合政府后，能使国际援助得以恢复，结束巴方当前面临的政治和经济危机。	20	54	253	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1404.293	1413.365	speaker#3	female	native	国际原子能机构总干事巴拉迪十一号在维也纳就伊朗核问题发表简短讲话时说，谈判是解决伊朗核问题的最好选择，	21	55	255	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1413.365	1418.395	speaker#3	female	native	他敦促伊朗和谈有关各方，尽快结束僵局，重启谈判。	21	55	256	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1418.395	1429.353	speaker#3	female	native	巴拉迪还表示，欧盟负责外交和安全政策的高级代表索拉纳与伊朗首席核谈判代表拉里贾尼的会谈为寻求达成共识做了一切努力。	21	55	257	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1431.090	1440.192	speaker#3	female	native	英国首相布莱尔十一号抵达贝鲁特进行访问，这是他在任期内第一次访问黎巴嫩，但是他的访问遭到了黎巴嫩民众的抗议。	22	56	259	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1440.192	1451.599	speaker#3	female	native	就在布莱尔和黎巴嫩总理西尼乌拉正准备举行联合记者招待会时， 一名抗议者手持横幅打断了记者招待会，抗议西方国家支持以色列轰炸黎巴嫩。	22	56	260	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1453.126	1461.360	speaker#3	female	native	汤加王室成员十一号宣布，图普托阿王储当天继承王位，就任汤加陶法阿豪图普五世，	23	57	263	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1461.360	1465.222	speaker#3	female	native	不过，新国王的加冕仪式要在一年后举行。	23	57	264	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1465.761	1476.390	speaker#3	female	native	汤加王国位于南太平洋西部，人口十万，陶法阿豪图普四世国王是十一号凌晨在新西兰一家医院因病去世的，享年八十八岁。	23	57	266	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1477.468	1484.354	speaker#3	female	native	近日，一只刚刚出生不久的小长颈鹿成为罗马动物园的新星，引来了众多游客。	24	58	268	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1484.354	1491.091	speaker#3	female	native	这只长颈鹿出生于八月十三号，出生时它的个头就有一米七，体重达到七十公斤。	24	58	269	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1491.091	1501.510	speaker#3	female	native	动物园的饲养员说，这只小长颈鹿的眼睛长得十分迷人，和著名影星葛丽泰嘉宝象极了，所以现在它就被叫做葛丽泰。	24	58	270	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1501.510	1506.660	speaker#3	female	native	不过，它正式的名字要由全罗马的小学生们投票选出。	24	58	271	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1507.738	1517.109	speaker#4	female	native	十号，在马耳他首都瓦莱塔举行的一次特技飞行比赛上发生了一起两机相撞的事故，正好有人拍下了这个惊险的场面。	25	59	273	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1517.109	1523.277	speaker#4	female	native	这就是比赛时的情景，当时几架小型飞机正在马尔萨姆谢特港上空低空飞行，	25	59	274	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1523.277	1532.618	speaker#4	female	native	这架红色的飞机不知道什么原因突然冲向另一架白色飞机，白色飞机的尾部被撞断，两架飞机随后都坠入海里。	25	59	275	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1532.618	1540.762	speaker#4	female	native	据了解，在这次事故中，瑞典的特技飞行冠军加伯尔瓦尔加因为伤势过重，在送往医院后不治身亡。	25	59	276	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1540.762	1545.029	speaker#4	female	native	而另一名来自爱尔兰的飞行员则及时跳伞，幸免遇难。	25	59	277	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1545.029	1548.576	speaker#4	female	native	目前，有关这起事故的原因还在进一步调查中。	25	59	278	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1549.774	1556.451	speaker#4	female	native	开发清洁能源和合理利用可再生资源是世界各国当前面临的两大主要难题，	26	60	280	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1556.451	1563.726	speaker#4	female	native	最近澳大利亚的一家公司发明了一项垃圾处理技术，可以把垃圾转换成植物肥料和能源。	26	60	281	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1564.984	1573.876	speaker#3	female	native	这家可再生能源公司每年可处理十七万五千吨生活垃圾，占整个悉尼市每年垃圾总量的百分之十一。	26	61	283	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1573.876	1578.547	speaker#3	female	native	垃圾在这里没有被废弃，而是几乎全部得到了利用。	26	61	284	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1579.086	1599.861	speaker#17	male	native	<foreign lang="English">(())</foreign>	26	62	286	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1599.861	1605.639	speaker#3	female	native	公司负责人还介绍说，几乎所有的垃圾都可以经过加工处理后得以再次利用，	26	63	287	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1605.639	1613.364	speaker#3	female	native	但是，废旧汽车电池，装有气体的空罐子等，约占百分之十五的生活垃圾目前还不能再次利用。	26	63	288	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1613.364	1619.023	speaker#3	female	native	据悉，把生活垃圾处理后，转化为肥料的过程最长需要两个月。	26	63	289	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1619.592	1627.646	speaker#3	female	native	垃圾合成肥料可以被转化成气体能源，气体再经提炼，转化，积聚后形成电能，	26	63	291	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1627.646	1632.347	speaker#3	female	native	这家垃圾处理厂目前使用的就是这种垃圾再生电能。	26	63	292	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1633.275	1636.000	speaker#4	female	native	稍候晚间新闻，还有文化和体育方面的消息。	26	64	294	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1704.108	1707.371	speaker#4	female	native	好，欢迎您回来，我们来看文化和体育方面的消息。	28	66	296	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1707.371	1714.646	speaker#4	female	native	中国网球公开赛正赛今天开始了第一天的角逐，今天晚上刚刚结束了开赛以来的首场焦点之战，	28	66	297	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1714.646	1719.167	speaker#4	female	native	亚洲头号选手，泰国的斯里查潘迎战德国选手斯特勒。	28	66	298	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1719.167	1725.245	speaker#4	female	native	最终，斯里查潘以二比零击败对手，晋级下一轮，两盘的比分都是六比三。	28	66	299	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1725.844	1734.587	speaker#4	female	native	另外，在今天此前的比赛中，中国台北选手王宇佐以二比零战胜持外卡参赛的于欣源，晋级男单第二轮。	28	66	301	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1734.587	1741.803	speaker#4	female	native	在另外一场比赛当中，斯洛伐克选手赫巴帝以二比零轻取南非选手福伊斯特，晋级第二轮。	28	66	302	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1742.821	1745.186	speaker#4	female	native	好，下面来看一组体育方面的其他消息。	29	67	304	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1745.875	1753.121	speaker#3	female	native	费德勒十号以三比一击败美国选手罗迪克，连续第三次赢得美国网球公开赛男子单打冠军。	29	68	306	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1753.121	1757.043	speaker#3	female	native	四盘的比分是六比二，四比六，七比五和六比一。	29	68	307	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1757.043	1765.127	speaker#3	female	native	费德勒也由此成为网球史上第一位在三年内连续获得温网公开赛和美网公开赛男单冠军的选手。	29	68	308	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1765.127	1768.720	speaker#3	female	native	这也是费德勒赢得的第九个大满贯赛桂冠。	29	68	309	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1769.289	1776.624	speaker#3	female	native	德国著名车手舒马赫十号在蒙扎夺得 <foreign lang="English">F</foreign> 一意大利站冠军后宣布，他将在比赛季结束后退役。	30	69	311	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1776.624	1785.217	speaker#3	female	native	目前，本赛季的 <foreign lang="English">F</foreign> 一大奖赛还有三站赛事，而舒马赫距积分领先的雷诺车队车手阿隆索只有两分的差距。	30	69	312	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1785.217	1792.612	speaker#3	female	native	下一站比赛将于九月二十九号在上海进行，届时，我国的车迷将见证一代车王的精彩演出。	30	69	313	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1793.780	1800.726	speaker#3	female	native	受电话门事件影响， <foreign lang="English">AC</foreign> 米兰和拉齐奥分别背着负八分和负十一分的罚分开始了新赛季。	31	70	315	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1800.726	1811.954	speaker#3	female	native	两队在首轮相遇， <foreign lang="English">AC</foreign> 米兰凭借在第二十七分钟因扎吉，以及第七十分钟奥利维拉的进球， 以二比一战胜拉齐奥，迈出了负分清零的第一步。	31	70	316	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1812.822	1821.924	speaker#3	female	native	第二届中国热气球巡回赛昨天在八达岭脚下进行了首站飞越长城挑战赛，二十个热气球成功完成了飞越。	32	71	319	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1821.924	1826.595	speaker#3	female	native	此次比赛项目为竞速飞行，飞越距离在三十公里左右。	32	71	320	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1826.595	1831.775	speaker#3	female	native	巡回赛将分别在五个赛区举办，采取分站积分制计算排名。	32	71	321	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1832.733	1837.044	speaker#4	female	native	文化方面，继续来关注第三届少数民族文艺会演的情况。	33	72	323	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1837.044	1846.146	speaker#4	female	native	今天晚上，内蒙古自治区代表团的大型歌舞乐天堂草原向观众展示了内蒙古草原独特的民族风情。	33	72	324	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1848.541	1859.170	speaker#3	female	native	天堂草原汇集了蒙古族长调及呼麦，马头琴，四胡等民族乐器，集中展示了蒙古族，达斡尔族，鄂伦春族等民族歌舞。	33	73	326	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1859.170	1865.218	speaker#3	female	native	节目在演绎独特草原风情的同时增加了新元素，让人大饱眼福。	33	73	327	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1865.817	1871.955	speaker#3	female	native	歌舞美丽的草原我的家一改以往的演唱形式，把舞蹈元素融汇表演中，	33	73	329	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1871.955	1877.491	speaker#3	female	native	在无伴奏的情况下，四十人的多声部组合，气势恢弘，错落有致。	33	73	330	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1878.165	1881.476	speaker#3	female	native	搏克是一种蒙古族传统的摔跤运动。	33	73	332	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1881.476	1891.326	speaker#3	female	native	而舞蹈博克雄风以爆发力很强的舞姿技巧将民族体育竞技加入舞蹈表演中，展现出蒙古族健儿强壮的体魄。	33	73	333	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1893.751	1899.739	speaker#3	female	native	中华一家亲第五届海峡两岸各民族中秋联欢晚会昨天晚上在辽宁举行，	33	73	335	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1899.739	1907.523	speaker#3	female	native	来自台湾岛内的一百多名少数民族代表带来了高山族原声乐舞等具有浓郁台湾特色的节目。	33	73	336	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1907.523	1912.373	speaker#3	female	native	台湾少数民族中学生表演了祈祷两岸同胞骨肉团圆的舞蹈，	33	73	337	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1912.942	1919.918	speaker#3	female	native	海峡两岸各民族中秋联欢晚会已经成功举办了四届，成为两岸文化交流的良好平台。	33	73	339	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1921.355	1932.348	speaker#3	female	native	一件从美国回流的宋代龙泉窑立式炉，昨天在北京的秋季拍卖会上以三千万元的价格成交，创下了龙泉窑瓷器的国际拍卖新纪录。	34	74	341	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1932.857	1939.199	speaker#3	female	native	据国家文物鉴定委员会专家介绍，龙泉窑创烧于两晋时期，到宋代达到鼎盛。	34	74	343	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1939.738	1948.481	speaker#3	female	native	这件宋代龙泉窑立式炉器型仿造周朝青铜器，釉色青翠欲滴，色调可以与翡翠相媲美。	34	74	345	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1948.481	1953.661	speaker#3	female	native	它以一百八十万元起拍，价格一路飙升，最终以三千万元成交。	34	74	346	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1955.218	1963.811	speaker#3	female	native	为纪念二零零六中印友好年，国家文物局和印度考古局今晚正式就举办古印度瑰宝展达成协议，	35	75	348	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1963.811	1974.350	speaker#3	female	native	这次展览将在北京，河南，重庆，广州等地巡回展出，展品包括石印度青铜器，精美金银器等一百件，展期十个月。	35	75	349	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	1975.607	1979.020	speaker#4	female	native	以上就是今天的晚间新闻，感谢您收看，再见。	35	76	351	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2052.634	2057.784	speaker#18	male	native	有些画面你一辈子也不会忘记，它们总是不断的出现在你的梦里。	37	78	353	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2058.383	2064.101	speaker#18	male	native	总是不经意的浮现在你的眼里，总是不小心用在你的话语里，	37	78	355	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2064.101	2075.029	speaker#18	male	native	在我们成长的年代里，每个人都幻想着冲锋陷阵，幻想着孤身擒拿敌人，做一回顶天立地的英雄，像王成一样的英雄。	37	78	356	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2094.906	2100.864	speaker#19	male	native	一九六三年，朝鲜电影红色宣传员在中国上映，	37	79	358	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2100.864	2107.660	speaker#19	male	native	作家巴金接到大众电影杂志社的约稿，提笔良久，他写下了这样的开头，	37	79	359	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2108.888	2116.074	speaker#19	male	native	几个到过平壤的朋友见着我，总喜欢谈朝鲜的事情，我们都爱做朝鲜的梦，	37	79	361	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2116.074	2123.050	speaker#19	male	native	我只要闭上眼睛想一想，就会看见许多动人的场面，听见许多热情的声音。	37	79	362	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2123.050	2129.397	speaker#19	male	native	我常说，我把朝鲜带回来了，又说我把心留在朝鲜了。	37	79	363	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2134.835	2145.434	speaker#19	male	native	一九五二年冬天，巴金去了朝鲜战场，他的确经历了很多事情，也听到了很多声音，其中有一个这样的故事。	37	79	365	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2146.781	2157.320	speaker#19	male	native	失散多年的父女在朝鲜战场上重逢了，父亲叫王文清，是政治部主任，女儿叫王芳，是部队上的宣传干事。	37	79	367	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060911_225701	0	2158.009	2158.488	speaker#19	male	native	小	37	79	369	report	

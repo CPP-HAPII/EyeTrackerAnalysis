@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-9938286	0	700.0	800.0	speaker	unknown	unknown	一般来说到图片处理，我们一定会想到强大无比的Photoshop，可是对于一般的网友来说Photoshop提供的很多功能对我们来说都用不上。	0	0	0		
+cmn-NG-31-117685-9938286	0	900.0	1000.0	speaker	unknown	unknown	不但如此现在在线处理图片也渐趋流行，*只要有网络无论你在天涯海角无须借助专业软件就可以对图片进行简单的处理。	0	0	0		
+cmn-NG-31-117685-9938286	0	1000.0	1100.0	speaker	unknown	unknown	下面我们就为大家简单介绍七个非常不错的在线处理图片的网站：*	0	0	0		
+cmn-NG-31-117685-9938286	0	2400.0	2500.0	speaker	unknown	unknown	需要注册使用，有stylR editR TextR mobilR picasRprofilR几大模块，使用很简单而且有多种模板提供，mobilR中还提供各种手机壁纸的制作。	0	0	0		
+cmn-NG-31-117685-9938286	0	2500.0	2600.0	speaker	unknown	unknown	支持从facebook flickrmyspace等服务中中导出导入图片。	0	0	0		
+cmn-NG-31-117685-9938286	0	5100.0	5200.0	speaker	unknown	unknown	页面最简单的一个网站，但功能功能却不简单。	0	0	0		
+cmn-NG-31-117685-9938286	0	6400.0	6500.0	speaker	unknown	unknown	支持OpenID登录，功能虽然不是很多但非常实用而且操作起来很便捷。	0	0	0		
+cmn-NG-31-117685-9938286	0	6500.0	6600.0	speaker	unknown	unknown	界面和Window画图板十分接近。	0	0	0		
+cmn-NG-31-117685-9938286	0	8500.0	8600.0	speaker	unknown	unknown	登录后你会发觉你会发现操作界面和Photoshop如出一辙，而且操作也相近。	0	0	0		
+cmn-NG-31-117685-9938286	0	9500.0	9600.0	speaker	unknown	unknown	虽然7个网站提供的服务都没有Photoshop那样无比的强大，但如果不是专业需要的话，一些简单的图片操作以上介绍的服务绝对是游刃有余了。	0	0	0		
+cmn-NG-31-117685-9938286	0	9600.0	9700.0	speaker	unknown	unknown	本文根据7 Great Online Image EditingApps< http://mashable.com/2008/03/01/online-image-editing/ >编译	0	0	0		

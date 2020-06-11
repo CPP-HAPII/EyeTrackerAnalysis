@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-17-99348-10735678	0	1500.0	1600.0	speaker	unknown	unknown	国际货币基金组织主席卡恩周四告诉媒体，IMF将下调2008年全球经济增长预期至3.7%。	0	0	0		
+cmn-WL-17-99348-10735678	0	1600.0	1700.0	speaker	unknown	unknown	IMF定于下周三将公布其半年度全球经济前景报告。	0	0	0		
+cmn-WL-17-99348-10735678	0	3200.0	3300.0	speaker	unknown	unknown	com/客服热线电话：0571-85868300金怀哲的博客：http://www.zdgold.	0	0	0		
+cmn-WL-17-99348-10735678	0	3300.0	3400.0	speaker	unknown	unknown	com/jhz分析师热线：0571-85868305	0	0	0		

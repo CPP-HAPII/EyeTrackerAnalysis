@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 212.64500000000001, 223.39500000000001, 228.60300000000001, 251.744, 258.96300000000002, 287.24099999999999, 293.59899999999999, 301.92899999999997, 343.28800000000001, 656.154, 660.88800000000003, 671.22500000000002, 675.88499999999999, 709.71500000000003, 742.375, 770.40700000000004, 790.28399999999999, 817.25300000000004, 824.19899999999996, 831.33900000000006, 853.697, 918.61099999999999, 924.57899999999995, 1300.0799999999999, 1305.769, 1335.8219999999999, 1386.8040000000001, 1413.7, 1440.164, 1716.6610000000001, 1720.7080000000001, 1861.4459999999999, 1866.296, 2058.3270000000002, 2183.9250000000002, 2367.232, 2370.3910000000001, 2586.0680000000002, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	580.303	581.475	Cui_Yong_Yuan	male	native	六十五~TB	9	68	95	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	639.793	644.230	Cui_Yong_Yuan	male	native	就首先一点可以肯定,肯定政府的投入要-要-要增多了	9	82	114	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	900.720	908.033	Tian_Jin_Zhen	female	native	(()),留守儿童,我叫他们叫做有父母的孤儿,留守儿童是记者说的	21	113	163	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	1089.250	1090.500	Cui_Yong_Yuan	male	native	没	23	144	205	filler	incomplete
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	1320.160	1334.416	Tian_Jin_Zhen	female	native	谢谢你,谢谢你啊	25	171	248	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	1455.962	1460.055	Cui_Yong_Yuan	male	native	所以你们舍得往农村文化上花花钱是吧	29	185	267	filler	question
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	1528.445	1540.915	Mao_Feng_Mei	male	native	当这场演完以后他捣鼓好几天,谁-谁演怎么样,那个演怎么样,把(())事啊通过这个演出,好人好事什么哈,就给它整出去了,实际这也是一次政治思想工作	29	190	277	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	1696.343	1704.232	Zhou_He_Ping	male	native	(()),对	29	212	313	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	1880.324	1893.434	Gao_Feng_Xian	female	native	我们现在也有一个像他们这个就是这种老年这种乐队,就是没有这个演员这一类的,就是舞蹈,哎,(()),哎,想组建这样的	33	238	351	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	1893.434	1895.027	Cui_Yong_Yuan	male	native	呃演员没有是吧	33	239	353	filler	question
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	2014.865	2028.896	Mao_Feng_Mei	male	native	后来我们家剧团就到外市到外省,俺家搞旅游啊,俺们出去旅游招商,就把剧团带出去,俺不用说,俺们把剧演出一场,(())还有那么好的呀,俺们这一个一场把俺们家的旅游景点整个整出去了	33	248	375	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	2266.555	2284.280	He_Qing_Kui	male	native	我在陕西咸阳,这个小妹妹她-她这们故乡那边,那个地方你别看它落后,那好开展,他上去你不让他唱完,那我-我跟那同一首歌,二下咸阳,三下咸阳,(()),那个妇女急了,我还没唱完呢,就急了	35	258	398	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	2296.756	2312.357	He_Qing_Kui	male	native	特别就是考核一个地方的干部,你重不重视文化,这应该算一个重要的项目,(())就像这个国策似的这个,计划生育似的,一定要-要否决这么一个-一个-一个政策来,来-来去,这个他就能落实下去	35	260	402	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	2323.628	2329.175	He_Qing_Kui	male	native	你像他们那个,你像他打麻将没兴趣,他们参加活动去了,是吧	35	262	408	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080308_122701	0	2364.044	2365.763	He_Qing_Kui	male	native	提这么一个参考参考意见	35	264	414	filler	statement

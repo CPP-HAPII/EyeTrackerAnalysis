@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.1920	0	500.0	600.0	speaker	unknown	unknown	王的一句“我还没傻到对官场基本运行规则还不了解的地步”,让我们看到了 “官话”都已经成为“官场基本运行规则”,也难怪不少新闻发言人多操“官话”,打“官腔”。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.3390	0	1600.0	1700.0	speaker	unknown	unknown	公民党党魁余若薇表示，特区政府在盈余下推出50亿元的纾困措施是“绰绰有余”，他们亦听到不少市民希望特区政府尽快推出措施的意见。	0	0	0		

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080703.0006	0	0.0	100.0	speaker	unknown	unknown	经济成长放缓 OECD成员国今明年失业率看升	0	0	0		
+AFP_CMN_20080703.0006	0	300.0	400.0	speaker	unknown	unknown	除了葡萄牙、爱尔兰和墨西哥以外,其他OECD成员国去年的失业率下滑,平均失业率大幅跌至百分之五点六,创一九八零年以来最低。	0	0	0		
+AFP_CMN_20080703.0006	0	400.0	500.0	speaker	unknown	unknown	但根据OECD的年度就业展望报告,三十个成员国「近数年来失业率下滑的趋势预料在二零零八年反转」。	0	0	0		
+AFP_CMN_20080703.0006	0	500.0	600.0	speaker	unknown	unknown	报告指出,预期OECD成员国平均失业率今年将攀升至百分之五点七,明年回升至上看百分之六,与二零零六年相同。	0	0	0		
+AFP_CMN_20080703.0006	0	600.0	700.0	speaker	unknown	unknown	OECD成员国包括二十多个欧洲国家,以及美国、澳洲、土耳其、纽西兰、加拿大、墨西哥、日本和南韩。	0	0	0		
+AFP_CMN_20080703.0006	0	700.0	800.0	speaker	unknown	unknown	预期OECD三十个成员国的经济成长将放缓,为失业率攀升的根本原因。	0	0	0		
+AFP_CMN_20080703.0006	0	900.0	1000.0	speaker	unknown	unknown	报告预测美国受创尤其严重,加拿大等与美国关系密切的国家也在劫难逃,但指出大部份OECD欧洲成员国的国内生产毛额(GDP)成长也将低于产能。	0	0	0		

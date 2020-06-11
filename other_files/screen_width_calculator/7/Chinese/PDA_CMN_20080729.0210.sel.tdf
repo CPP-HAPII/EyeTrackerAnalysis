@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080729.0210	0	700.0	800.0	speaker	unknown	unknown	前马萨诸塞州州长米特・罗姆尼、明尼苏达州州长蒂姆・鲍雷蒂、前俄亥俄州共和党国会议员罗布・波特曼、前宾夕法尼亚州州长汤姆・里奇。	0	0	0		
+PDA_CMN_20080729.0210	0	1500.0	1600.0	speaker	unknown	unknown	奥巴马阵营也不排除选择温和派共和党人作为潜在的竞选搭档，比如内布拉斯加州参议员查克・哈格尔，上周曾陪同奥巴马出访伊拉克和阿富汗；前海军陆战队指挥官詹姆斯・琼斯、布什政府前农业部长安・维内曼也都在考虑范围内。	0	0	0		
+PDA_CMN_20080729.0210	0	2000.0	2100.0	speaker	unknown	unknown	麦凯恩的好友、明尼苏达州州长蒂姆・鲍雷蒂、佛罗里达州州长查理・克里斯特都是最佳选择之一。	0	0	0		
+PDA_CMN_20080729.0210	0	2200.0	2300.0	speaker	unknown	unknown	印度移民后裔、美国最年轻的州长、路易斯安那州州长博比・金达尔，因为其青春活力也被选中；女性候选者包括惠普公司前CEO卡莉・费奥瑞娜、阿拉斯加州州长莎拉・帕琳。	0	0	0		

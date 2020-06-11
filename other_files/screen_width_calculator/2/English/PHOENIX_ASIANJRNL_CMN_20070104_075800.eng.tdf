@@ -1,0 +1,500 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 139.56899999999999, 160.41200000000001, 271.88, 392.44999999999999, 491.12, 587.91399999999999, 599.75400000000002, 733.51999999999998, 748.57000000000005, 796.48800000000006, 909.45600000000002, 968.86400000000003, 1090.9390000000001, 1184.9259999999999, 1195.895, 1297.1410000000001, 1428.6220000000001, 1525.9970000000001, 1591.212, 1621.6189999999999, 1637.402, 1647.598, 1661.5840000000001, 1674.1300000000001, 1689.223, 1701.1759999999999, 1766.9480000000001, 1859.29, 1946.556, 2027.578, 2039.2809999999999, 2130.614, 2229.7260000000001, 2242.3960000000002, 2333.989, 2416.4279999999999, 2426.8760000000002, 2554.5520000000001, 2641.7660000000001, 2723.768, 2758.502, 9999999.0]
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	139.569	143.600	Jian_fujiang	male	native	Japanese media report that the United States and Japan will jointly research Taiwan Strait contingency plans.	1	1	1	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	145.054	148.867	Jian_fujiang	male	native	Surviving child of Shenzhen explosion describes the explosion process to this station's correspondent.	1	1	3	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	150.960	155.710	Jian_fujiang	male	native	Western media reconstruct the state before Saddam's execution according to clues provided by eyewitnesses.	1	1	5	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	160.412	162.599	Jian_fujiang	male	native	Good evening, this is Asian Journal,	2	2	7	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	162.599	166.880	Jian_fujiang	male	native	Phoenix Satellite TV Chinese Channel, InfoNews Channel, CNE Channel, North American Chinese Channel; I am Jian Fujiang, bringing you the global reports.	2	2	8	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	166.880	168.146	Jian_fujiang	male	native	First, we have news from Japan.	2	2	9	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	168.146	173.677	Jian_fujiang	male	native	Japan's Kyodo News Agency reported today that the U.S. and Japan's governments have basically reached an agreement.	2	2	10	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	173.677	179.927	Jian_fujiang	male	native	Starting in February, Foreign Affairs and Defense authorities from both countries will start their research on certain contingencies in the Taiwan Strait.	2	2	11	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	179.927	184.677	Jian_fujiang	male	native	Japan will also discuss the possibility of other logistic supports such as refueling and medical.	2	2	12	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	184.677	189.724	Jian_fujiang	male	native	Today, in the first press conference after the New Year, Japanese Prime Minister Shinzo Abe reiterated that	2	2	13	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	189.724	194.083	Jian_fujiang	male	native	Japan will promote strong diplomacy, and further deepen its relations with the United States.	2	2	14	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	196.318	197.662	speaker#1	male	native	Kyodo News reported Thursday that,	2	3	16	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	197.662	202.412	speaker#1	male	native	according to disclosures by several Japan-U.S. relations personnel, in order to respond should an emergency arise in the Taiwan Strait,	2	3	17	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	202.412	208.177	speaker#1	male	native	the two governments of Japan and the U.S. have basically reached an agreement, and will start discussions regarding the joint response between U.S. forces and the SDF.	2	3	18	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	208.177	214.490	speaker#1	male	native	Starting in February, the Foreign Affairs and Defense authorities from both countries will start their research on certain contingencies in the Taiwan Strait.	2	3	19	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	214.490	219.880	speaker#1	male	native	Prior to this, the attitude of the Japanese government has not been clear on whether the "Surrounding Situation Laws" are applicable to the Taiwan issues.	2	3	20	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	219.880	226.130	speaker#1	male	native	Japan's Asahi Shimbun said that the United States and Japan will also jointly discuss how to deal with contingency in North Korea, and how it will affect Japan.	2	3	21	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	226.130	229.520	speaker#1	male	native	A spokesman for the Japanese Defense Agency refused to comment on the corresponding reports.	2	3	22	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	229.520	233.754	speaker#1	male	native	In February 2005, Japan and the United States reached an agreement on a common strategic objective,	2	3	23	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	233.754	242.051	speaker#1	male	native	which stated clearly that at the same time as working hard to resolve the Taiwan issue peacefully, they will maintain the ability to meet any contingency that may arise to affect Japan-U.S. in the Asia-Pacific region.	2	3	24	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	242.051	248.817	speaker#1	male	native	On the other hand, in the first news conference of the New Year, Japanese Prime Minister Shinzo Abe said that Japan will promote strong diplomacy.	2	3	25	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	248.817	254.281	speaker#1	male	native	He also said that as Japan's surrounding environment is undergoing major changes, it should further enhance its relations with the United States.	2	3	26	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	254.859	257.584	speaker#1	male	native	Abe will start his European tour next week;	2	3	28	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	257.584	262.974	speaker#1	male	native	he said that it was extremely important for Japan to begin cooperation with countries that share the same values, such as European countries.	2	3	29	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	262.974	266.489	speaker#1	male	native	He believes that through international cooperation, Japan can win the trust of the international community,	2	3	30	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	266.489	269.271	speaker#1	male	native	and will eventually become a permanent member of the UN Security Council.	2	3	31	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	269.271	270.990	speaker#1	male	native	Phoenix Satellite TV comprehensive report.	2	3	32	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	271.880	277.677	Jian_fujiang	male	native	Regarding the Japanese-U.S. study on the contingency plan, we now immediately contact our reporter, ((Fu Zhuhui)), who is stationed in Tokyo. Hello Zhuhui.	3	4	34	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	278.989	280.005	Fu_zhuhui	female	native	Hello Fujiang.	3	5	36	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	280.005	288.129	Jian_fujiang	male	native	On the news that Japan and the United States will conduct research on Taiwan Strait contingency, how do the Japanese media report on it? And, how is the public opinion responding to it?	3	6	37	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	289.317	294.222	Fu_zhuhui	female	native	Yes, on the Japanese side, uh, in fact, we have two channels to go through for the related news.	3	7	39	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	294.222	301.270	Fu_zhuhui	female	native	First, early this morning, the Asahi Shimbun led with a story elaborating on the currently very uncertain situation on the Korean Peninsula,	3	7	40	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	301.270	305.709	Fu_zhuhui	female	native	said this, this plan, uh, is mainly because North Korea has fired a series of missiles,	3	7	41	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	305.709	310.552	Fu_zhuhui	female	native	to do nuclear testing, uh, and that leads to the recent cooperative plan between Japan and the United States.	3	7	42	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	310.552	318.021	Fu_zhuhui	female	native	According to his news, uh, he further expressed in detail that the Japan-U.S. military integration process will move forward soon.	3	7	43	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	318.021	322.052	Fu_zhuhui	female	native	Well, for ((pw)), such, such a plan of Japan and the United States recently,	3	7	44	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	322.052	326.411	Fu_zhuhui	female	native	uh, Asahi also quoted the statement made by officials who were involved in the discussion to talk about the related background,	3	7	45	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	326.411	332.161	Fu_zhuhui	female	native	saying that this is because the United States has been aware that unpredicted events could happen in the Korean Peninsula at any time.	3	7	46	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	332.161	336.505	Fu_zhuhui	female	native	And on the other hand, uh, we have also received news from Kyodo News,	3	7	47	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	336.505	344.365	Fu_zhuhui	female	native	but the Kyodo News is very different from Asahi Shimbun on one point, that the former put the fuse on the crisis in the Taiwan Strait.	3	7	48	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	344.365	347.084	Fu_zhuhui	female	native	And it also quoted an official internal statement,	3	7	49	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	347.084	352.318	Fu_zhuhui	female	native	explaining that such a study, uh, is mainly because Taiwan is frequently issuing its declaration of independence,	3	7	50	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	352.318	358.552	Fu_zhuhui	female	native	and there is a possibility that China will impose sanctions by force, so Japan had to prepare for a situation which is getting more complicated.	3	7	51	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	358.552	364.239	Fu_zhuhui	female	native	Kyodo News further said that Japan and the United States will further discuss this study in February.	3	7	52	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	364.239	369.489	Fu_zhuhui	female	native	And on this issue, uh, I have just asked a senior commentator,	3	7	53	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	369.489	374.489	Fu_zhuhui	female	native	when he analyzed the issue, he said that when Japan and the United States want to have such a military cooperation strategy,	3	7	54	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	374.489	378.051	Fu_zhuhui	female	native	the intention is not unilaterally against the situation on the Korean Peninsula,	3	7	55	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	378.051	380.411	Fu_zhuhui	female	native	the crisis in the Taiwan Strait is also included.	3	7	56	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	380.411	380.817	Jian_fujiang	male	native	OK.	3	8	57	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	380.817	382.910	Fu_zhuhui	female	native	Of course, some comments in Japan also believe that	3	9	58	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	382.910	389.661	Fu_zhuhui	female	native	this situation, uh, may escalate the common strategic objectives set, uh, during the Japan-U.S. military talk two years ago,	3	9	59	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	389.661	389.981	Jian_fujiang	male	native	OK.	3	10	60	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	389.981	391.825	Fu_zhuhui	female	native	the 2 + 2 Japan.	3	11	61	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	391.825	392.450	Fu_zhuhui	female	native	Fujiang.	3	12	62	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	391.825	392.450	Jian_fujiang	male	native	Good,	3	12	63	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	392.450	394.701	Fu_zhuhui	female	native	thank you, Zhuhui, for giving us the latest news from Tokyo.	4	13	64	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	394.701	401.764	Fu_zhuhui	female	native	Today, the spokesman for China's Foreign Ministry, Liu Jianchao, also responded to the report of the joint study between Japan and the Untied States for the Taiwan Strait contingency response plans.	4	13	65	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	401.764	408.061	Fu_zhuhui	female	native	He said that China is seriously concerned about this, and also asked Japan and the United States to abide by the one-China principle.	4	13	66	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	410.170	414.748	Zhou_yan	female	native	For Japan and the United States to prepare to plan a joint response when contingency occurs in the Taiwan Strait,	4	14	68	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	414.748	419.077	Zhou_yan	female	native	spokesman of China's Foreign Ministry, Liu Jianchao, responded that China is solemnly concerned about this.	4	14	69	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	419.077	424.936	Liu_jianchao	male	native	Between Japan and the United States, when they make any arrangement, discussion, or consideration that is related to Taiwan,	4	15	70	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	424.936	426.942	Liu_jianchao	male	native	they should respect	4	15	71	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	427.990	429.966	Liu_jianchao	male	native	the one-China principle,	4	15	73	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	429.966	433.326	Liu_jianchao	male	native	should adhere to and abide by the one-China principle.	4	15	74	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	433.326	435.858	Zhou_yan	female	native	And for the issue that Chen Shui-bian is planning to travel through the United States,	4	16	75	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	435.858	442.170	Zhou_yan	female	native	Liu Jianchao again stressed China's consistent position, which is to resolutely oppose the United States having official contacts in any form with Taiwan authorities,	4	16	76	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	442.170	446.436	Zhou_yan	female	native	demanding that the United States not only adhere to the three Sino-U.S. joint communiqués in verbal commitment,	4	16	77	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	446.436	450.187	Zhou_yan	female	native	but earnestly implement the one-China policy in more concrete actions.	4	16	78	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	450.187	455.875	Liu_jianchao	male	native	Not allowing Chen Shui-bian to carry out activities in the United States in any name or pretext,	4	17	79	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	456.640	459.141	Liu_jianchao	male	native	not sending out any misleading signals to Taiwan's independence forces,	4	17	81	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	459.141	462.248	Liu_jianchao	male	native	taking practical action together with China	4	17	82	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	462.966	466.703	Liu_jianchao	male	native	to explicitly oppose and firmly curb the separatist activities of Taiwan independence,	4	17	84	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	466.703	471.047	Liu_jianchao	male	native	jointly maintain cross-strait peace, stability, and the overall situations of Sino-U.S. relations.	4	17	85	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	471.047	479.531	Zhou_yan	female	native	In addition, to the Japanese diplomats' criticism that China should bear the main responsibility for not making constructive progress in the recently concluded six-party talks,	4	18	86	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	479.531	485.437	Zhou_yan	female	native	Liu Jianchao said that China's painstaking efforts in the denuclearization of the Korean Peninsula have received recognition from the international community.	4	18	87	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	485.437	488.734	Zhou_yan	female	native	In the future, China will continue to take a positive role in this aspect.	4	18	88	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	488.734	490.402	Zhou_yan	female	native	Phoenix Satellite TV, Zhou Yan, reporting from Beijing.	4	18	89	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	491.120	494.281	Jian_fujiang	male	native	Emergency legislation is a symbol of adjustment in Japan's security strategy;	5	19	91	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	494.281	497.468	Jian_fujiang	male	native	the purpose is to establish Japan's emergency response mechanism.	5	19	92	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	497.468	503.577	Jian_fujiang	male	native	In an emergency situation, the Prime Minister can bypass security cabinet meetings and directly order the SDF to dispatch.	5	19	93	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	505.437	507.844	speaker#1	male	native	Japan's emergency legislation includes three major bills:	5	20	95	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	507.844	513.078	speaker#1	male	native	armed attack bill, Security Council establishment amendment, and SDF amendment.	5	20	96	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	513.078	515.359	speaker#1	male	native	According to the definition of the armed attack bill,	5	20	97	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	515.359	522.598	speaker#1	male	native	Japan's contingencies are events in which Japan is attacked by foreign armed forces, and urgent matters in which an armed attack can be foreseen.	5	20	98	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	523.137	525.833	speaker#1	male	native	The purpose of the act is to establish an emergency response mechanism,	5	20	100	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	525.833	533.896	speaker#1	male	native	such as increasing the Prime Minister's power, so that he can bypass the security cabinet meeting in an emergency situation, directly order the SDF to dispatch, restrict the citizens' rights,	5	20	101	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	533.896	536.146	speaker#1	male	native	and determine the compensation for private property, etc.	5	20	102	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	536.146	539.755	speaker#1	male	native	Emergency legislation is Japan's symbol of a security strategy adjustment in the post-Cold War era.	5	20	103	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	539.755	544.349	speaker#1	male	native	As early as the mid-1970s, the Japanese government has been studying the emergency legislation.	5	20	104	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	544.349	547.021	speaker#1	male	native	In 1994, the government departments drafted a bill;	5	20	105	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	547.021	549.599	speaker#1	male	native	in June 2003, the three contingency bills were adopted;	5	20	106	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	549.599	553.255	speaker#1	male	native	and again in June 2004, passed the seven contingency bills,	5	20	107	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	553.255	555.922	speaker#1	male	native	marking a comprehensive establishment of Japan's emergency legislation system.	5	20	108	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	556.459	559.412	speaker#1	male	native	Ever since the related bills of the emergency legislation were published, they have been controversial,	5	20	110	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	559.412	564.303	speaker#1	male	native	as emergency does not only mean that Japan is attacked for a fact; it also includes the risks of being attacked,	5	20	111	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	564.303	568.694	speaker#1	male	native	and the forecast of such risk is entirely made by the Japanese government, which is very subjective.	5	20	112	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	568.694	572.444	speaker#1	male	native	Moreover, whether the crisis in the Taiwan Strait should be included in the scope of emergency,	5	20	113	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	572.444	574.710	speaker#1	male	native	the Japanese government has been adopting an ambiguous attitude all along.	5	20	114	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	574.710	579.226	speaker#1	male	native	The Chinese government has from the very beginning resolutely opposed that, under any circumstances, the Japanese government	5	20	115	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	579.226	581.211	speaker#1	male	native	include Taiwan in the scope of emergency.	5	20	116	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	581.211	585.805	speaker#1	male	native	Thus, in a sense, the emergency legislation becomes a sensitive point within Sino-Japanese relations.	5	20	117	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	585.805	587.914	speaker#1	male	native	Phoenix Satellite TV comprehensive report.	5	20	118	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	599.754	603.863	Jian_fujiang	male	native	In light of Japan and the United States discussing joint solutions to address emergencies in the Taiwan Strait,	7	22	120	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	603.863	607.644	Jian_fujiang	male	native	on this topic, we have asked news commentator Mr. He Liangliang to comment and analyze.	7	22	121	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	607.644	608.363	Jian_fujiang	male	native	Hello, Mr. He.	7	22	122	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	608.363	608.910	He_liangliang	male	native	Hello.	7	23	123	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	608.910	611.019	Jian_fujiang	male	native	How do you interpret this report from Japan's Kyodo News?	7	24	124	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	611.019	619.941	He_liangliang	male	native	Uh, I think we, we should take this Kyodo News Service report, that is the issue that the United States and Japan will conduct a formal discussion about the so-called Taiwan Strait contingencies next month, and	7	25	125	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	619.941	622.800	He_liangliang	male	native	how the military of Japan and the United States will deal with it.	7	25	126	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	622.800	625.565	He_liangliang	male	native	And also should take the related report of Asahi Shimbun today,	7	25	127	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	625.565	629.815	He_liangliang	male	native	this is, such a discussion, uh, that includes not only the Taiwan Strait, but also the Korean Peninsula.	7	25	128	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	629.815	632.315	He_liangliang	male	native	Well, I think the two issues are, in fact, linked.	7	25	129	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	632.315	634.362	He_liangliang	male	native	In fact, we are also very clear that	7	25	130	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	634.362	639.034	He_liangliang	male	native	after the Cold War, the United States and Japan have strengthened their military alliance,	7	25	131	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	639.034	643.300	He_liangliang	male	native	very ((pw)), actually, the main goal is aimed at Mainland China; this has not changed.	7	25	132	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	643.300	647.113	He_liangliang	male	native	Only in recent years, especially passing this so-called emergency legislation, uh,	7	25	133	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	647.113	650.207	He_liangliang	male	native	such cooperation is to regard China as a hypothetical enemy.	7	25	134	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	650.207	654.957	He_liangliang	male	native	Now it has been from furtive to open to regard China as a hypothetical enemy in the Taiwan Strait issue, uh.	7	25	135	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	654.957	661.360	He_liangliang	male	native	Now, what I am most concerned about is, first, how do the United States and Japan want to discuss that once Taiwan, once there is a contingency in the Taiwan Strait,	7	25	136	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	661.360	663.126	He_liangliang	male	native	what is exactly the standard of "contingency?"	7	25	137	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	663.126	665.868	He_liangliang	male	native	Uh, how would they like to develop this standard, and then want to formulate this,	7	25	138	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	665.868	670.212	He_liangliang	male	native	take action once something happens in the Taiwan Strait, based on this standard.	7	25	139	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	670.212	677.448	He_liangliang	male	native	Then, the second thing is, Chen Shui-bian is now eager to, uh, make some big moves while, uh, he is still in office,	7	25	140	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	677.448	680.427	He_liangliang	male	native	some major action in the area of Taiwan independence, whether he will be encouraged by this,	7	25	141	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	680.427	682.958	He_liangliang	male	native	feeling that the Untied States and Japan are backing up at the forefront anyway,	7	25	142	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	682.958	687.677	He_liangliang	male	native	I am not afraid to stir up an all-around confrontation with, with Mainland ((pw)), China, uh.	7	25	143	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	687.677	688.786	He_liangliang	male	native	This is certainly worth being concerned about.	7	25	144	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	688.786	692.958	He_liangliang	male	native	The third is, will the six-party talk be affected by this issue?	7	25	145	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	692.958	697.224	He_liangliang	male	native	Since North Korea has been feeling the threat from the United States and Japan,	7	25	146	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	697.224	700.896	He_liangliang	male	native	it has taken, uh, a hard-line stance on this nuclear issue.	7	25	147	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	700.896	704.443	He_liangliang	male	native	Now, since the United States and Japan also target this emergency legislation at the Korean Peninsula,	7	25	148	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	704.443	705.233	He_liangliang	male	native	of course it is aiming at	7	25	149	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	706.042	707.912	He_liangliang	male	native	North Korea, and not South Korea.	7	25	151	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	707.912	713.458	He_liangliang	male	native	So in this case, North Korea, which feels more threatened, is likely to continue to take a hard-line stance.	7	25	152	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	713.458	718.130	He_liangliang	male	native	So, from this perspective, the Taiwan Strait issue and the Korean nuclear issue have been connected with one another.	7	25	153	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	718.130	723.755	He_liangliang	male	native	Therefore, these, these issues will form a potential threat for China's security.	7	25	154	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	723.755	726.786	He_liangliang	male	native	I think, apart, uh, from the Chinese Foreign Ministry having made a clear stand,	7	25	155	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	726.786	732.973	He_liangliang	male	native	it seems that China's military would also make a more, uh, detailed, uh, response.	7	25	156	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	732.973	733.520	He_liangliang	male	native	Fujiang.	7	25	157	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	733.520	735.554	Jian_fujiang	male	native	OK, thank you Mr. He, for your comment and analysis.	8	26	158	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	735.554	737.742	Jian_fujiang	male	native	We'll take a commercial break, and come back later to cross-strait news.	8	26	159	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	737.742	742.179	Jian_fujiang	male	native	Shenzhen City Mayor Xu Zongheng pledges full investigation of the explosion incident.	8	26	160	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	743.742	748.570	Jian_fujiang	male	native	Chen Shui-bian offers to promote a cross-strait dialogue between the governments based on the 1992 conference.	8	26	162	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	796.488	798.644	Jian_fujiang	male	native	Welcome back to Asian Journal, let's take a look at cross-strait news.	10	28	164	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	798.644	801.269	Jian_fujiang	male	native	An explosion happened in Shenzhen yesterday afternoon.	10	28	165	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	801.269	807.222	Jian_fujiang	male	native	Three boys were playing on a roadside with an unknown object, which suddenly exploded, causing two deaths and one serious injury.	10	28	166	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	807.222	809.347	Jian_fujiang	male	native	However, according to our in-depth investigation,	10	28	167	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	809.347	812.941	Jian_fujiang	male	native	there was another child also at the scene when the explosion took place.	10	28	168	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	812.941	816.612	Jian_fujiang	male	native	In the explosion, he escaped this disaster just in time.	10	28	169	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	816.612	820.408	Jian_fujiang	male	native	Today, he also described the process of the explosion to our reporter.	10	28	170	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	822.643	825.080	Shen_yu	female	native	The 19-year-old boy, Lin Shunxin, who has been seriously injured ((pw)),	10	29	172	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	825.080	830.033	Shen_yu	female	native	and his eight-year-old brother, Lin Shunli, just before the explosion, came downstairs from the apartment, preparing to play together with them.	10	29	173	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	830.033	832.549	Shen_yu	female	native	At the time of the explosion, he was only less than a meter from his older brother.	10	29	174	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	832.549	836.987	Shen_yu	female	native	About why exactly the unknown explosives caught the attention of the outsiders, Lin Shunlin spoke from his memory.	10	29	175	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	836.987	839.362	Shen_yu	female	native	What kind of thing did you see exploding?	10	29	176	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	839.362	849.209	Lin_shunli	male	native	On top of it is a piece of iron, and below is a piece of wood; it has a lid, and also a needle that could not be broken.	10	30	177	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	849.209	852.350	Lin_shunli	male	native	There was also a wire, that exploded when pulled.	10	30	178	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	852.350	854.225	Lin_shunli	male	native	I saw that (()).	10	30	179	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	855.303	857.736	Shen_yu	female	native	It was only smoking, how did you know it was a bomb?	10	31	181	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	858.425	862.946	Lin_shunli	male	native	Because that, uh, ((pw)), my dad said whatever smokes is to explode.	10	32	183	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	863.784	868.741	Shen_yu	female	native	The two seriously injured boys that died in the explosion after failure of rescue are eight-year-old boy Li Weijian and five-hear-old boy Mai Huangqiao.	10	33	185	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	868.741	872.413	Shen_yu	female	native	There is no way of knowing where they found the unidentified explosives;	10	33	186	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	872.413	874.682	Shen_yu	female	native	this makes the police and their families deeply puzzled.	10	33	187	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	875.311	879.913	speaker#2	female	native	Uh, that, that (()) came to my house looking for that grenade,	10	34	189	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	879.913	882.023	speaker#2	female	native	how can you find a grenade in my home?	10	34	190	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	882.820	887.884	speaker#2	female	native	It was (()) my son that took it from my home, my home;	10	34	192	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	887.884	892.245	speaker#2	female	native	when my son left, both his hands were empty, what grenade he took out!	10	34	193	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	892.904	898.414	Shen_yu	female	native	In the home of the survivor, Lin Shunli, the reporter saw this table tennis paddle marked with his class grade and his name.	10	35	195	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	898.414	903.008	Shen_yu	female	native	Lin Shunli said that his older brother has one also, and at the very moment before the explosion occurred, he called for his brother to run with him,	10	35	196	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	903.008	906.539	Shen_yu	female	native	but the explosion occurred just as the older brother turned back to pick up the paddle.	10	35	197	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	906.539	908.737	Shen_yu	female	native	Phoenix Satellite TV, Shen Yu, Liu Haiyan, reporting from Shenzhen.	10	35	198	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	909.456	916.633	Jian_fujiang	male	native	Shenzhen City Mayor Xu Zongheng said that this blast is still under investigation; he assured that once there is any result, it will be announced immediately.	11	36	200	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	918.273	921.726	Zhang_weina	female	native	Xu Zongheng made his response when he attended a government conference on the 4th.	11	37	202	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	921.726	926.648	Zhang_weina	female	native	He said that Shenzhen is a big city with a population of over ten million, and there will always be some unexpected incidents.	11	37	203	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	926.648	931.069	Zhang_weina	female	native	The key is how to face them. Currently, the government is conducting a full investigation, in order to find out the truth about the incident.	11	37	204	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	931.069	931.941	Xu_zongheng	male	native	First,	11	38	205	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	932.522	934.537	Xu_zongheng	male	native	they must rapidly and thoroughly investigate the situation.	11	38	207	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	934.537	936.271	Xu_zongheng	male	native	What is the cause of the explosion?	11	38	208	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	936.929	939.896	Xu_zongheng	male	native	Second, is to make the best effort possible to save and treat the injured children.	11	38	210	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	940.474	944.740	Xu_zongheng	male	native	Third, whatever the outcome, promptly disclose it to the media.	11	38	212	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	944.740	951.662	Xu_zongheng	male	native	Now for this incident, the public security department is embarking, our public security department is embarking on a full-scale investigation process.	11	38	213	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	951.662	953.912	Xu_zongheng	male	native	The key is the source of the explosives,	11	38	214	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	953.912	958.803	Xu_zongheng	male	native	whether it was intentional or where this thing came from, we are still investigating.	11	38	215	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	959.334	961.928	Zhang_weina	female	native	Xu Zongheng said that the Shenzhen government is a transparent government;	11	39	217	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	961.928	965.849	Zhang_weina	female	native	as soon as the police investigation is clear, they will immediately publicize the findings.	11	39	218	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	966.536	968.864	Zhang_weina	female	native	Phoenix Satellite TV, Zhang Weina, Chen Heng, reporting from Shenzhen.	11	39	220	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	969.660	973.871	Jian_fujiang	male	native	When Chen Shui-bian met with the British Parliament delegation this morning, he said that	12	40	222	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	973.871	981.128	Jian_fujiang	male	native	he hoped to promote a direct cross-strait dialogue based on the consensus reached in a Hong Kong conference in 1992.	12	40	223	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	981.128	986.956	Jian_fujiang	male	native	The media immediately interpreted his words as, Chen Shui-bian has been relenting and indirectly accepting the '92 consensus.	12	40	224	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	986.956	989.816	Jian_fujiang	male	native	Nevertheless, Chen Shui-bian's office immediately clarified,	12	40	225	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	989.816	994.066	Jian_fujiang	male	native	pointing out that Chen's emphasis is on the connotation of the '92 Hong Kong conference,	12	40	226	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	994.066	997.457	Jian_fujiang	male	native	it does not represent a change in policy or recognize the 1992 consensus.	12	40	227	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	998.973	1002.863	Yang_mingzhe	male	native	In the morning of the 4th, Chen Shui-bian met with the Parliamentary Group Delegation from Britain.	12	41	229	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1002.863	1006.939	Yang_mingzhe	male	native	In reference to the cross-strait issue, he mentioned that he hoped to actively promote cross-strait reconciliation and dialogue.	12	41	230	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1007.567	1017.581	Chen_shuibian	male	native	He hoped to base on the 1992 consensus reached for the Hong Kong connotation, uh,	12	42	232	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1017.581	1022.534	Chen_shuibian	male	native	to promote direct contact, dialogue between the governments.	12	42	233	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1022.534	1025.066	Yang_mingzhe	male	native	Some media immediately interpreted his remarks as	12	43	234	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1025.066	1027.925	Yang_mingzhe	male	native	Chen Shui-bian relenting, and indirectly accepting the '92 consensus.	12	43	235	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1027.925	1030.175	Yang_mingzhe	male	native	Nevertheless, Chen Shui-bian's office immediately clarified,	12	43	236	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1030.175	1037.578	Yang_mingzhe	male	native	pointing out that Chen's emphasis is on the connotation of the '92 Hong Kong conference; it does not represent a change in policy or recognize the 1992 consensus.	12	43	237	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1038.117	1039.738	Yang_mingzhe	male	native	And the KMT pointed out	12	43	239	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1039.738	1044.004	Yang_mingzhe	male	native	that even if Chen Shui-bian is now directly saying he recognizes the 1992 consensus, it is too late.	12	43	240	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1044.004	1047.962	speaker#3	male	native	Chen Shui-bian's credibility, not only in Taiwan, but also in the Taiwan Strait, and in the international community,	12	44	241	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1049.269	1052.691	speaker#3	male	native	is at an all-time low.	12	44	243	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1052.691	1056.106	speaker#3	male	native	So, if he says he recognizes the 1992 consensus now,	12	44	244	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1057.207	1061.487	speaker#3	male	native	I think it is actually pretty late.	12	44	246	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1061.487	1063.440	Yang_mingzhe	male	native	Scholars who are familiar with cross-strait affairs said that,	12	45	247	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1063.440	1068.644	Yang_mingzhe	male	native	from now until before the 2008 presidential election in Taiwan, the DPP government will not recognize the 1992 consensus.	12	45	248	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1068.644	1073.440	Yang_mingzhe	male	native	Even if they recognize the so-called 1992 consensus, the content would not be the same as that of Beijing.	12	45	249	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1073.440	1076.893	speaker#4	male	native	Speaking from the Mainland, the 1992 consensus is in fact anti-independence and for one-China.	12	46	250	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1076.893	1079.513	speaker#4	male	native	And, I think while the DPP is in office, it is unlikely.	12	46	251	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1080.064	1088.549	Yang_mingzhe	male	native	Zhao Yue further believed that Chen Shui-bian's speech in the morning mainly was a response to KMT Chairman Ma Ying-jeou, who suggested on the 9th that he was willing to act as a go-between between the DPP and Beijing.	12	47	253	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1088.549	1090.142	Yang_mingzhe	male	native	Phoenix Satellite TV, Yan Mingzhe, reporting from Taiwan.	12	47	254	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1090.939	1093.533	Jian_fujiang	male	native	There will be big changes for the senior members of the KMT.	13	48	256	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1093.533	1097.408	Jian_fujiang	male	native	Recently, KMT Chairman Ma Ying-Jeou repeatedly met with party legislator Wu Dun-yi,	13	48	257	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1097.408	1100.314	Jian_fujiang	male	native	inquiring about his desire to become KMT secretary-general,	13	48	258	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1100.314	1102.658	Jian_fujiang	male	native	and Wu Dun-yi has also given his preliminary approval.	13	48	259	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1102.658	1105.314	Jian_fujiang	male	native	It is expected that the KMT will announce this to the public next week.	13	48	260	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1107.096	1111.752	Kong_fanling	female	native	Since KMT Chairman Ma Ying-jeou started to participate in party affairs full-time, there has been a major shake-up in the party.	13	49	262	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1111.752	1118.549	Kong_fanling	female	native	KMT Legislator Wu Dun-yi confirmed on the 4th that Ma Ying-jeou has more than once inquired about his desire and the possibility for him to become the secretary-general of KMT.	13	49	263	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1118.549	1123.206	Wu_dunyi	male	native	I am happy to, if his final decision is for me.	13	50	264	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1124.191	1132.113	Wu_dunyi	male	native	And those party members, and colleagues, especially those who have been his friend for many years, I feel that I have no right to choose the battlefield,	13	50	266	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1132.113	1139.348	Wu_dunyi	male	native	so, I hope that he would, uh, make a careful deliberation before the nomination committee meets.	13	50	267	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1139.348	1143.879	Wu_dunyi	male	native	If he issues the order, I must go all out.	13	50	268	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1143.879	1147.035	Ma_yingjiu	male	native	I think I will let you all know in the appropriate time, OK?	13	51	269	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1147.035	1148.770	Ma_yingjiu	male	native	We are preparing.	13	51	270	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1148.770	1150.786	Kong_fanling	female	native	Currently, Wu Dun-yi has given his preliminary approval,	13	52	271	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1150.786	1153.849	Kong_fanling	female	native	and there will be another appointment for the current Secretary-General, Chan Chun-po.	13	52	272	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1153.849	1156.958	Kong_fanling	female	native	The +selection of the senior officers is about to enter the decision stage;	13	52	273	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1156.958	1160.848	Kong_fanling	female	native	it is expected to be formally announced in the KMT Central Standing Committee meeting next Wednesday.	13	52	274	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1160.848	1165.332	Kong_fanling	female	native	Wu Dun-yi's previous occupation was with the media, former councilor of Taipei City, former head of Nantou County, and former mayor of Kaohsiung.	13	52	275	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1165.332	1169.097	Kong_fanling	female	native	He is in an important party post within the KMT, and an incumbent legislator.	13	52	276	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1169.097	1176.660	Kong_fanling	female	native	Outsiders interpret that Ma Ying-jeou intends to rely on Wu Dun-yi's advantage in the legislature, to always grasp the changes in the house, accelerate the promotion of major motions,	13	52	277	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1176.660	1182.301	Kong_fanling	female	native	and further highlight the initiations that have already been made simultaneously for considerations of both Ma Ying-jeou's efforts for party reform and the election layout.	13	52	278	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1182.301	1184.129	Kong_fanling	female	native	Phoenix Satellite TV, Kong Fanling, reporting from Taipei.	13	52	279	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1184.926	1186.764	Jian_fujiang	male	native	We'll return to look at international news later.	14	53	281	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1186.764	1191.129	Jian_fujiang	male	native	The disappeared Indonesian passenger aircraft is still missing; Singapore and the United States are helping with the search.	14	53	282	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1191.942	1195.895	Jian_fujiang	male	native	North Korea holds a large-scale gathering, vowing about how to achieve the goal of the New Year.	14	53	284	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1297.141	1300.485	Jian_fujiang	male	native	Welcome back to our Asian Journal, we now take a look at international news.	16	55	286	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1300.485	1302.126	Jian_fujiang	male	native	Arab media report that:	16	55	287	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1302.126	1309.188	Jian_fujiang	male	native	The two accomplices with former Iraqi President Saddam in the massacre of Dujail Village are very likely by the end of Eid Al-Adha,	16	55	288	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1309.188	1311.235	Jian_fujiang	male	native	that is, to be executed on this Saturday.	16	55	289	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1311.235	1314.751	Jian_fujiang	male	native	Currently, there is new progress in the incident that bits of the execution of Saddam were furtively photographed with a mobile phone,	16	55	290	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1314.751	1318.689	Jian_fujiang	male	native	and put on the Internet, available for people to browse;	16	55	291	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1318.689	1324.689	Jian_fujiang	male	native	Iraq's national security adviser Rubaie said that an Iraqi guard who participated in the execution process had been arrested.	16	55	292	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1324.689	1330.079	Jian_fujiang	male	native	Western media reconstruct the state at the time of Saddam's execution according to clues provided by eyewitnesses.	16	55	293	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1330.079	1331.000	Jian_fujiang	male	native	Let us watch it together.	16	55	294	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1332.907	1334.767	speaker#5	female	native	According to British Sky TV,	16	56	296	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1334.767	1338.111	speaker#5	female	native	there were a total of 14 people inside the room where the execution of former Iraqi President Saddam took place.	16	56	297	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1338.111	1342.486	speaker#5	female	native	Among them, there were five masked assistant guards and a gallows official next to Saddam.	16	56	298	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1342.486	1347.801	speaker#5	female	native	Next to them, two official photographers and cameramen can be seen from the official published video.	16	56	299	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1348.339	1354.408	speaker#5	female	native	Beneath Saddam's execution platform was a Sunni cleric, and at least one other official with a mobile phone.	16	56	301	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1354.408	1356.893	speaker#5	female	native	In addition, beneath the platform, there were several witnesses,	16	56	302	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1356.893	1366.175	speaker#5	female	native	including Deputy Prosecutor Fallon, Iraq's national security adviser Rubaie, Iraqi judge of the Supreme Court Haddad, and Senior Assistant to the Iraqi President Askari.	16	56	303	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1367.018	1371.440	speaker#5	female	native	In the secretly photographed bits, one can hear Saddam's dispute with someone before the execution.	16	56	305	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1371.440	1373.019	speaker#5	female	native	Saddam spoke first,	16	56	306	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1376.476	1381.039	speaker#5	female	native	finally, possibly a guard recited a section of condolences used by Shi'a,	16	56	308	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1381.039	1387.242	speaker#5	female	native	and commended Muqtada al-Sadr, who was a Shiite leader executed by Saddam, to provoke an argument with Saddam.	16	56	309	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1387.242	1405.078	speaker#6	male	native		16	57	310	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1405.078	1407.609	speaker#5	female	native	At this time, the prosecutor demanded to restore order,	16	58	311	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1407.609	1412.699	speaker#7	male	native		16	59	312	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1412.699	1417.730	speaker#5	female	native	and the last words from Saddam before he died were quoted from a Muslim Shehada.	16	60	313	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1417.730	1425.934	Sadam	male	native		16	61	314	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1425.934	1427.403	speaker#5	female	native	Phoenix Satellite TV comprehensive report.	16	62	315	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1428.622	1433.888	Jian_fujiang	male	native	Another 15 individuals were rescued after drifting at sea for several days following a boat wreckage which occurred in Indonesia last Friday.	17	63	317	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1433.888	1436.903	Jian_fujiang	male	native	However, about 400 people are still missing.	17	63	318	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1436.903	1441.981	Jian_fujiang	male	native	At the same time, the Indonesian airliner which disappeared mysteriously on Monday is still missing;	17	63	319	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1441.981	1445.794	Jian_fujiang	male	native	its neighbor Singapore has also sent aircraft and ships to assist in search and rescue.	17	63	320	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1445.794	1448.544	Jian_fujiang	male	native	The news of this accident is very confusing.	17	63	321	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1448.544	1451.357	Jian_fujiang	male	native	Following the earlier misinformation that the wreckage of the aircraft was found,	17	63	322	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1451.357	1460.576	Jian_fujiang	male	native	civil aviation authorities also +proved today, clarifying that it was not, as reported earlier, that the missing plane send distress signals to the ground.	17	63	323	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1462.311	1466.358	speaker#1	male	native	The missing airliner Indonesia has been searching and rescuing for for several days is still not found, and other countries are offering to help.	17	64	325	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1466.358	1469.686	speaker#1	male	native	The Singapore Air Force dispatched two reconnaissance aircraft to join the line of searching;	17	64	326	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1469.686	1471.826	speaker#1	male	native	a brigade from the United States will also arrive on Friday.	17	64	327	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1471.826	1477.170	speaker#1	male	native	Apart from air and sea search, Indonesia's ground rescue teams are searching in the western forest of Sulawesi Island,	17	64	328	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1477.170	1480.639	speaker#1	male	native	but weather in the region has been very bad, thus delaying the work.	17	64	329	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1481.249	1486.921	speaker#1	male	native	Currently, rescue teams are determining the scope of the search based on the distress signals received from the missing aircraft by Singapore authorities.	17	64	331	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1486.921	1494.446	speaker#1	male	native	However, the director of the Indonesian Civil Aviation Bureau clarified on Thursday that before the passenger aircraft disappeared on Monday, it did not send any distress signals or reports of mechanical failure to Indonesian authorities;	17	64	332	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1494.446	1495.998	speaker#1	male	native	it only indicated that it had encountered strong wind.	17	64	333	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1495.998	1500.638	speaker#1	male	native	Indonesian President Susilo discussed the progress of the search with officials of the Ministry of Civil Aviation.	17	64	334	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1500.638	1504.357	speaker#1	male	native	He ordered a thorough investigation of the incident, and inspection of all domestic passenger aircrafts,	17	64	335	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1504.357	1506.732	speaker#1	male	native	and a comprehensive review of Indonesia's civil aviation system.	17	64	336	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1506.732	1509.872	speaker#1	male	native	Transportation Minister Khatami refused to speculate on the reasons for the missing aircraft.	17	64	337	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1509.872	1515.966	speaker#1	male	native	The missing Boeing aircraft carried 102 passengers on Monday, on its way from Surabaya to Manado, and lost contact with the control tower.	17	64	338	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1515.966	1521.138	speaker#1	male	native	Some of the family members who were waiting for news in the vicinity of Makashener, where the aircraft disappeared, left on Thursday,	17	64	339	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1521.138	1523.138	speaker#1	male	native	believing it was not necessary to wait any longer.	17	64	340	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1523.138	1524.966	speaker#1	male	native	Phoenix Satellite TV comprehensive report.	17	64	341	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1525.997	1529.200	Jian_fujiang	male	native	After news of the death of North Korean Foreign Minister Paek Nam-sun was released,	18	65	343	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1529.200	1532.403	Jian_fujiang	male	native	Foreign Ministries for both China and South Korea have expressed condolences to North Korea.	18	65	344	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1532.403	1536.825	Jian_fujiang	male	native	And on New Year's Day, several official North Korean newspapers published a joint editorial.	18	65	345	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1536.825	1542.216	Jian_fujiang	male	native	After declaring their commitment to strengthen the national defense capacity, they held a large rally in the capital of Pyongyang today.	18	65	346	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1542.216	1546.888	Jian_fujiang	male	native	Senior government officials attending the rally also announced to the public on how to achieve the goal of the new year.	18	65	347	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1548.575	1553.152	speaker#8	female	native	A large number of North Korean people assembled in Kim Jong-il Square on Thursday morning,	18	66	349	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1553.152	1558.457	speaker#8	female	native	and giant banners were hanging on the streets of Pyongyang, and on the banners it was written that they will devote to achieving the new year goals mentioned in the editorials.	18	66	350	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1559.183	1562.308	speaker#8	female	native	A large number of soldiers were lining up neatly in Kim Jong-il Square,	18	66	352	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1562.308	1566.433	speaker#8	female	native	holding high the portraits of former leader Kim Il-sung and current leader Kim Jong-il.	18	66	353	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1567.042	1569.855	speaker#8	female	native	North Korean senior government officials also attended the gathering.	18	66	355	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1569.855	1574.573	speaker#8	female	native	Chairman of the Pyongyang City People's Committee, Ryang Man-gil, read a report to the crowd,	18	66	356	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1574.573	1577.604	speaker#8	female	native	which talked about how to practice the objectives mentioned in the editorial;	18	66	357	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1577.604	1580.026	speaker#8	female	native	people stood in the square to listen.	18	66	358	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1580.026	1582.885	speaker#8	female	native	This year, North Korean authorities issued a joint New Year editorial,	18	66	359	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1582.885	1588.255	speaker#8	female	native	celebrating North Korea's becoming a nuclear weapon nation, expressing the need to strengthen defense capabilities, and efforts to improve the economy.	18	66	360	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1588.824	1590.353	speaker#8	female	native	Phoenix Satellite TV comprehensive report.	18	66	362	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1591.212	1599.118	Jian_fujiang	male	native	Chinese Foreign Ministry spokesman Liu Jianchao said: Iran's chief nuclear negotiator, Larijani, is beginning a two-day trip in Beijing today.	19	67	364	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1599.118	1604.008	Jian_fujiang	male	native	China and Iran will exchange their views on the Iranian nuclear issue and bilateral relations.	19	67	365	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1604.008	1606.305	Jian_fujiang	male	native	Next, we will look at several international bulletins.	19	67	366	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1607.727	1610.508	speaker#8	female	native	The political situation in the South Pacific island nation, Fiji, has a new development.	19	68	368	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1610.508	1614.820	speaker#8	female	native	Commander Bainimarama of the armed forces, which staged a coup last month, declared on Thursday	19	68	369	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1614.820	1618.867	speaker#8	female	native	that he is returning the presidential authority, which he carried out on President Iloilo's behalf for one month, back to President Iloilo,	19	68	370	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1618.867	1620.869	speaker#8	female	native	but the government will still be controlled by the military.	19	68	371	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1621.619	1625.979	speaker#8	female	native	Thursday is the last day of a three-day amnesty disarmament announced by Somalia's transitional government.	20	69	373	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1625.979	1629.370	speaker#8	female	native	A group of armed elements disarmed to the transitional government on the same day in Somalia.	20	69	374	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1629.370	1636.527	speaker#8	female	native	In addition, the armed elements launched a rocket at a fuel tanker near the capital, Mogadishu, on the same day, causing several injuries.	20	69	375	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1637.402	1640.583	speaker#8	female	native	NBC news reported on Wednesday that	21	70	377	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1640.583	1644.051	speaker#8	female	native	U.S. National Intelligence Director Negroponte is about to resign.	21	70	378	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1644.051	1646.708	speaker#8	female	native	Currently, it is not known who is the successor to be the National Intelligence Director.	21	70	379	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1647.598	1650.505	speaker#8	female	native	Belarusian Premier Sidorsky announced on Wednesday that,	22	71	381	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1650.505	1654.990	speaker#8	female	native	from January 1 this year, it will levy taxes on oil passed through Belarus from Russia.	22	71	382	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1654.990	1660.631	speaker#8	female	native	This is a retaliation against Russia, which levies US$ 180.7 export tax for every ton of oil exported from Russia to Belarus.	22	71	383	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1661.584	1665.256	speaker#8	female	native	In Britain, a serious car accident occurred near Heathrow Airport early Thursday morning.	23	72	385	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1665.256	1670.803	speaker#8	female	native	A long-distance bus carrying 65 passengers had an accident and rolled over on the M4 highway which was in the vicinity of the airport,	23	72	386	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1670.803	1673.521	speaker#8	female	native	causing at least two deaths and nine serious injuries.	23	72	387	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1674.130	1680.473	speaker#8	female	native	On Wednesday night, in the northwest part of Sydney, Australian police seized 1,900 liters of chemicals which can be used to manufacture the dancing outreach;	24	73	389	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1680.473	1683.004	speaker#8	female	native	market value is about 427 million U.S. dollars.	24	73	390	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1683.004	1686.469	speaker#8	female	native	Police believe that this is Australia's largest-ever drug case.	24	73	391	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1687.098	1688.582	speaker#8	female	native	Phoenix Satellite TV comprehensive report.	24	73	393	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1689.223	1690.832	Jian_fujiang	male	native	Later, we will come back for some news from Hong Kong.	25	74	395	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1690.832	1694.676	Jian_fujiang	male	native	A case of assaulting a policeman occurs in Hong Kong this morning; a policeman on duty was wounded by a slash.	25	74	396	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1696.379	1701.176	Jian_fujiang	male	native	Exchange rate of RMB to Hong Kong dollar has exceeded the one-to-one rate in some of the banks in Hong Kong.	25	74	398	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1766.948	1769.350	Jian_fujiang	male	native	Welcome back to Asian Journal, we now look at Hong Kong news.	27	76	400	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1769.350	1772.162	Jian_fujiang	male	native	A case of assaulting a policeman occurred in Hong Kong this morning;	27	76	401	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1772.162	1776.256	Jian_fujiang	male	native	a man was suspected of wounding a police on-duty with a knife.	27	76	402	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1776.256	1781.287	Jian_fujiang	male	native	The police officer fired back two shots; after the suspect was hit and sent to the hospital, he was confirmed dead.	27	76	403	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1781.287	1783.850	Jian_fujiang	male	native	The injured police officer is now in stable condition.	27	76	404	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1785.569	1789.850	Qiu_lihua	female	native	For the man who was shot by the police, the bullets hit the left of his neck and chest.	27	77	406	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1789.850	1792.756	Qiu_lihua	female	native	After the man was shot, he was rushed to Tuen Mun Hospital for emergency rescue.	27	77	407	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1792.756	1796.099	Qiu_lihua	female	native	He was confirmed dead after 45 minutes of the hospital's rescue attempts.	27	77	408	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1796.099	1799.708	Qiu_lihua	female	native	The policeman who was attacked got three slashes, two of which were on his head;	27	77	409	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1799.708	1801.286	Qiu_lihua	female	native	he was conscious when sent to the hospital.	27	77	410	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1801.754	1806.864	Qiu_lihua	female	native	After the shooting took place, large numbers of police officers set up blockades at the scene, collecting evidence and bullet casings.	27	77	412	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1806.864	1808.958	Qiu_lihua	female	native	The incident occurred early Thursday morning, at 5 a.m.	27	77	413	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1808.958	1812.887	Qiu_lihua	female	native	Five policemen were conducting an anti-theft operation in Tin Shui Wai ((Ishibe Village)), New Territories.	27	77	414	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1812.887	1816.598	Qiu_lihua	female	native	During the operation, they found a suspicious man, and started a chase.	27	77	415	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1816.598	1820.598	Qiu_lihua	female	native	One policeman struggled with the man, and was stabbed three times with a knife.	27	77	416	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1820.598	1822.473	Qiu_lihua	female	native	The police then answered with two shots.	27	77	417	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1823.223	1827.645	Qiu_lihua	female	native	Police Commissioner Lee Ming-Kwai went to visit the injured officer at Tuen Mun Hospital;	27	77	419	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1827.645	1834.176	Qiu_lihua	female	native	Lee Ming-Kwai said the injured officer had accepted neural connections surgery on his left little finger. Currently, he was conscious and showing improvement.	27	77	420	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1834.176	1839.629	Qiu_lihua	female	native	Lee Ming-Kwai said that the police will review the incident, and will reinforce the equipment and training of the police.	27	77	421	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1839.629	1852.040	Li_mingkui	male	native		27	78	422	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1852.040	1856.368	Qiu_lihua	female	native	After the police's preliminary investigation, the identity of the man who was shot dead has been confirmed.	27	79	423	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1856.368	1858.477	Qiu_lihua	female	native	Phoenix Satellite TV, Qiu Lihua, reporting from Hong Kong.	27	79	424	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1859.290	1865.009	Jian_fujiang	male	native	On the first trading day of 2007, the exchange rate for RMB to U.S. dollars reaches another record high in the foreign exchange market today.	28	80	426	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1865.009	1870.056	Jian_fujiang	male	native	In Hong Kong, the exchange rate of RMB to Hong Kong dollars has exceeded the one-to-one rate.	28	80	427	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1870.056	1874.337	Jian_fujiang	male	native	Many Mainland tourists have felt the obvious increased purchasing power.	28	80	428	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1874.337	1879.040	Jian_fujiang	male	native	However, exchange shops +reflected that the supply of RMB cash is becoming more tense.	28	80	429	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1880.603	1883.478	Wei_yingyin	female	native	The exchange rate for RMB reaches another high during the New Year holiday.	28	81	431	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1883.478	1888.900	Wei_yingyin	female	native	In Hong Kong banks, the official rate of RMB to Hong Kong is pushing close to or even exceeding one-to-one on Thursday.	28	81	432	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1888.900	1891.229	Wei_yingyin	female	native	Recently, the RMB exchange rate has continued to rise;	28	81	433	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1891.229	1895.775	Wei_yingyin	female	native	many Mainland tourists have expressed that it is getting more and more convenient for them to use RMB in Hong Kong.	28	81	434	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1895.775	1898.759	Wei_yingyin	female	native	For consumers' ((foreign)) (()) vary from person to person.	28	81	435	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1898.759	1901.650	speaker#9	female	native	Uh, in this way, it is so much cheaper to go to Hong Kong.	28	82	436	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1901.650	1909.603	speaker#9	female	native	Then, because either we go with groups, or either tour groups, or we go on our own, we first take RMB.	28	82	437	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1909.603	1913.118	speaker#9	female	native	So, then our buying power is definitely stronger than before.	28	82	438	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1913.118	1919.368	speaker#10	male	native	Uh, I feel that I would not do it on purpose, feel that, uh, the RMB was worth more now, and deliberately, I feel that when we spend, uh, we are pretty, relatively pretty sensible.	28	83	439	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1919.368	1922.899	speaker#10	male	native	But I think for people coming from the Mainland, because of the impact, it will indeed	28	83	440	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1922.899	1926.617	speaker#10	male	native	cause more people to come shop in Hong Kong, uh, will be more.	28	83	441	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1926.617	1928.492	Wei_yingyin	female	native	In the business districts where tourists gather,	28	84	442	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1928.492	1933.195	Wei_yingyin	female	native	there are workers from exchange shops holding the RMB exchange rate poster on the streets, and soliciting business,	28	84	443	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1933.195	1938.586	Wei_yingyin	female	native	but in most exchange shops, 100 RMB still can only exchange to a bit more than 90 HK dollars.	28	84	444	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1938.586	1943.586	Wei_yingyin	female	native	As people are looking forward to the revaluation of the RMB, recently the supply of RMB cash has been very tight.	28	84	445	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1943.586	1945.524	Wei_yingyin	female	native	Phoenix Satellite TV, Wei Yingyin, reporting from Hong Kong.	28	84	446	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1946.556	1953.587	Jian_fujiang	male	native	The Shenzhen City government held a press conference today, announcing Shenzhen's development plans for modern services for the 11th Five-Year Plan period.	29	85	448	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1953.587	1960.133	Jian_fujiang	male	native	Shenzhen Mayor Xu Zongheng said in the press conference that Shenzhen will strengthen its cooperation with Hong Kong in high-end services.	29	85	449	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1960.133	1962.992	Jian_fujiang	male	native	He also stressed that Shenzhen will fully coordinate with Hong Kong's development needs.	29	85	450	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1964.571	1970.587	Zhang_weina	female	native	On the first working day of 2007, the Shenzhen City government announced to the public Shenzhen's development planning for modern services in the next five years.	29	86	452	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1970.587	1976.728	Zhang_weina	female	native	Shenzhen expressed that, during the 11th five-year-plan period, until 2020, Shenzhen will accelerate the development in high-end services as its core,	29	86	453	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1976.728	1982.587	Zhang_weina	female	native	and will draw on Hong Kong's strengths in high-end-services, continuing to promote cooperation between both Shenzhen and Hong Kong in this area.	29	86	454	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1982.587	1987.434	Xu_zongheng	male	native	Regarding the background service systems of some of Hong Kong's financial industry	29	87	455	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1988.791	1990.446	Xu_zongheng	male	native	and data processing systems,	29	87	457	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1991.772	1994.770	Xu_zongheng	male	native	for these things he hopes to find a place in the Mainland	29	87	459	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1996.069	1997.674	Xu_zongheng	male	native	with relatively lower costs,	29	87	461	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	1998.538	2003.303	Xu_zongheng	male	native	as well as better technology and talents, as his support;	29	87	463	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2003.991	2006.381	Xu_zongheng	male	native	we fully support Hong Kong, and serve Hong Kong.	29	87	465	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2007.506	2010.748	Zhang_weina	female	native	In addition, he also said that he will work with Hong Kong banks to expand RMB businesses,	29	88	467	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2010.748	2015.701	Zhang_weina	female	native	and research and explore the possibility for Shenzhen and Mainland enterprises to issue RMB bonds in Hong Kong,	29	88	468	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2015.701	2018.561	Zhang_weina	female	native	discuss the possibility of having taxis commuting between the two cities,	29	88	469	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2018.561	2024.062	Zhang_weina	female	native	and the interconnection and exchanged uses of Octopus and Shenzhen Link, to facilitate small change payment for personnel who travel between Shenzhen and Hong Kong.	29	88	470	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2024.671	2026.968	Zhang_weina	female	native	Phoenix Satellite TV, Zhang Weina, Chen Heng, reporting from Shenzhen.	29	88	472	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2027.578	2029.391	Jian_fujiang	male	native	Later, we will have financial +news, and science and technology reports.	30	89	474	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2029.391	2033.563	Jian_fujiang	male	native	The Shenzhen and Shanghai stock markets boom in the first day of the New Year, while the Hong Kong stock market plunges.	30	89	475	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2035.906	2039.281	Jian_fujiang	male	native	Japan invents power generated film, realizing wireless power supply.	30	89	477	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2130.614	2133.599	Jian_fujiang	male	native	Welcome back to Asian Journal, let's look at financial news.	32	91	479	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2133.599	2138.708	Jian_fujiang	male	native	On the first trading day of this year, the Shenzhen and Shanghai stock markets first surged, then leveled off moderately.	32	91	480	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2138.708	2141.286	Jian_fujiang	male	native	The Shanghai stock market closed at an increase of 1.5%.	32	91	481	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2141.286	2144.661	Jian_fujiang	male	native	The fund industry remains optimistic about the performance of China's stock market this year.	32	91	482	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2144.661	2151.443	Jian_fujiang	male	native	It was reported that the Hong Kong market dropped significantly; it dropped 391 points at closing, getting back to the 20,000 point level.	32	91	483	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2153.459	2158.725	speaker#5	female	native	The Shanghai market opened high and after a low advance of 2%, it repeatedly rose higher. The maximum increase was 6.4%,	32	92	485	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2158.725	2161.303	speaker#5	female	native	creating a new historical high of 2,847 points.	32	92	486	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2161.303	2166.100	speaker#5	female	native	But banking stocks encountered pressure on profits, pushing the general index to decline rapidly before closing.	32	92	487	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2166.100	2170.475	speaker#5	female	native	The Shanghai market closed at 2,715 points, increased by 1.5%.	32	92	488	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2170.475	2176.100	speaker#5	female	native	The Shenzhen market once increased by 4.6%; the increase was narrowed to 0.88% at closing time.	32	92	489	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2176.100	2181.241	speaker#5	female	native	Total transactions of the two markets were increased to 121.8 billion Yuan, a new record high.	32	92	490	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2181.241	2185.677	speaker#5	female	native	ICBC once soared by 10%, closing down 2.42%.	32	92	491	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2186.246	2192.507	speaker#5	female	native	Some analysts of the industry said that, due to the revaluation of the RMB becoming stable, the range of increase in market index level will be less than 2006,	32	92	493	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2192.507	2195.491	speaker#5	female	native	so it may not reach the range of increase of 2006.	32	92	494	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2195.491	2205.069	speaker#11	male	native	2007 is a year that has been forecasted by us as a profitable one, but we are not expecting the yield to be as good as 2006.	32	93	495	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2205.069	2210.600	speaker#5	female	native	As for Hong Kong, the market plunged repeatedly, at one point in the afternoon dropping by 565 points, and fell below 20,000 points.	32	94	496	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2210.600	2213.569	speaker#5	female	native	China Mobile and Mainland financial shares all plunged.	32	94	497	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2213.569	2218.038	speaker#5	female	native	The Hang Seng Index closed at 20,025 points, decreasing by 1.9%;	32	94	498	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2218.038	2221.476	speaker#5	female	native	total transactions were increased to a new high of 76.5 billion Hong Kong dollars.	32	94	499	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2221.476	2225.179	speaker#5	female	native	Analysts indicated that large investors are reducing shareholdings.	32	94	500	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2225.179	2228.351	speaker#5	female	native	Hong Kong stocks are expected to have a support at 19,500 points.	32	94	501	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2228.351	2229.726	speaker#5	female	native	Phoenix Satellite TV comprehensive report.	32	94	502	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2242.396	2248.036	Jian_fujiang	male	native	People in the modern era are using more and more different kinds of appliances. Each kind of appliance, uh, needs to be connected to a power outlet by a wire,	34	96	504	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2248.036	2250.271	Jian_fujiang	male	native	and there is often a chaos of lines.	34	96	505	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2250.271	2253.693	Jian_fujiang	male	native	However, there is one invention in Japan recently that can solve this problem.	34	96	506	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2256.927	2260.818	speaker#1	male	native	The Christmas tree on the desk shines automatically, without connection to any power source.	34	97	508	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2260.818	2263.693	speaker#1	male	native	The secret is in this thin, power-generating film.	34	97	509	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2263.693	2269.209	speaker#1	male	native	The power-generating film researched and manufactured at Tokyo University is made of four layers of special plastic, with circuits set up inside.	34	97	510	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2269.209	2274.193	speaker#1	male	native	You only need to put the appliance with the installed receptor on the film, and then it will get a continuous power supply.	34	97	511	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2274.193	2300.178	speaker#12	male	native		34	98	512	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2300.178	2303.428	speaker#1	male	native	Each 20-square-centimeter power generating film weighs only 50 grams,	34	99	513	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2303.428	2307.272	speaker#1	male	native	and it can be bent in any way you want, and installed conveniently in each corner of the room,	34	99	514	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2307.272	2309.881	speaker#1	male	native	including floor, wall, or even ceiling.	34	99	515	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2309.881	2312.865	speaker#1	male	native	You won't need to find a power outlet in order to use your appliances anymore,	34	99	516	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2312.865	2315.705	speaker#1	male	native	and to handle masses of tangling wires.	34	99	517	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2316.273	2318.927	speaker#1	male	native	Each film can supply electricity to multiple appliances at the same time.	34	99	519	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2318.927	2321.818	speaker#1	male	native	In the future, the generating capacity can be raised to more than 100 watts,	34	99	520	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2321.818	2323.219	speaker#1	male	native	enough to drive many home appliances.	34	99	521	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2323.818	2328.333	speaker#1	male	native	Another advantage is safety, as the electricity will only be sent to the transmission devices of the appliances,	34	99	523	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2328.333	2331.239	speaker#1	male	native	you won't be shocked even when you touch the power generating film.	34	99	524	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2331.239	2333.114	speaker#1	male	native	Phoenix Satellite TV comprehensive report.	34	99	525	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2333.989	2342.833	Jian_fujiang	male	native	During the 46th yacht show in Paris, a total of more than 1,200 traders from 20 countries exhibited their latest products.	35	100	527	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2342.833	2347.880	Jian_fujiang	male	native	Among them, the hybrid yachts from Lagoon Co. received the most attention from the market.	35	100	528	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2349.802	2356.520	Ortary	female	native	In the recently held Paris yacht show, a total number of more than 600 steamships, 500 sailboats, and 300 canoes and small boats were displayed.	35	101	530	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2356.520	2360.130	Ortary	female	native	Here, there were also exhibition halls which enabled manufacturers to display their large vessels.	35	101	531	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2360.130	2364.193	Ortary	female	native	The yacht show also features the latest version of the hybrid yacht, the Lagoon 420.	35	101	532	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2364.193	2367.318	Ortary	female	native	This is also the first time a hybrid yacht was shown at the Paris yacht show.	35	101	533	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2367.318	2372.381	Ortary	female	native	The features of this hybrid yacht are clean and quiet, and it can use energy effectively.	35	101	534	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2372.381	2376.928	Ortary	female	native	Its hybrid diesel and electric engine can effectively reduce carbon dioxide emissions.	35	101	535	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2376.928	2381.569	Ortary	female	native	The engine system is composed of two electric motors, connected to the propeller by the driver shaft.	35	101	536	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2381.569	2384.381	Ortary	female	native	Power is directly supplied by two groups of batteries, six of which are in each group.	35	101	537	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2384.381	2390.241	Ortary	female	native	When the quantity of electricity in the battery reaches 100%, it is sufficient enough to operate two motors consecutively for two hours.	35	101	538	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2390.241	2394.991	Ortary	female	native	When the quantity of electricity in the battery drops to 80%, the generator will start itself and recharge the batteries.	35	101	539	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2394.991	2399.303	Ortary	female	native	While sailing, the turning of the propellers generates power and recharges the batteries.	35	101	540	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2399.303	2404.803	Ortary	female	native	Since the Lagoon 420 has another diesel engine connected to the generator, it provides power for the yacht.	35	101	541	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2404.803	2409.850	Ortary	female	native	The manufacturer indicated that, with more people concerned about global warming and the issues of carbon dioxide emission,	35	101	542	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2409.850	2414.006	Ortary	female	native	some yacht fans in Europe and North America hope to use boats that are more environmentally friendly.	35	101	543	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2414.006	2415.756	Ortary	female	native	Phoenix Satellite TV comprehensive report.	35	101	544	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2416.428	2417.603	Jian_fujiang	male	native	Later, we will look at the social silhouette.	36	102	546	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2418.262	2422.428	Jian_fujiang	male	native	A black New Yorker bravely rescues a young man who accidentally fell down to the subway track.	36	102	548	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2423.360	2426.876	Jian_fujiang	male	native	Former battlefield of El Salvador becomes today's tourist attraction.	36	102	550	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2554.552	2556.615	Jian_fujiang	male	native	Welcome back to Asian Journal, let's take a look at the social silhouette.	38	104	552	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2556.615	2561.740	Jian_fujiang	male	native	A soul-stirring scene of a very courageous act occurred in a New York subway yesterday.	38	104	553	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2561.740	2566.240	Jian_fujiang	male	native	When a fast-moving train was entering the station, a young man fell onto the tracks accidentally,	38	104	554	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2566.240	2572.584	Jian_fujiang	male	native	and without hesitation, a waiting passenger jumped onto the tracks and pressed on top of the youth's body.	38	104	555	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2572.584	2575.834	Jian_fujiang	male	native	Both were unhurt, and spared from death.	38	104	556	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2577.552	2581.980	speaker#14	male	native	After the incident, the 19-year-old young man who fell onto the tracks was sent to the hospital for treatment; his condition was currently stable.	38	105	558	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2581.980	2586.511	speaker#14	male	native	The courageous 50-year-old Autrey was, at the time, also waiting for the train with his two daughters.	38	105	559	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2586.511	2589.792	speaker#14	male	native	He said the situation was so pressing at that moment, and he needed to make a quick decision,	38	105	560	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2589.792	2593.057	speaker#14	male	native	either to pull the person back to the platform, or push him under the train.	38	105	561	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2593.057	2605.722	Ortary	female	native		38	106	562	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2605.722	2608.816	speaker#14	male	native	Finally, they lay in the drainage grooves between the tracks,	38	107	563	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2608.816	2611.909	speaker#14	male	native	the train roaring past just five centimeters above their bodies.	38	107	564	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2611.909	2617.377	speaker#14	male	native	For his bravery, Autrey only mentioned casually that he was only doing what he ought to do.	38	107	565	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2617.377	2624.353	Ortary	female	native		38	108	566	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2624.353	2626.915	speaker#14	male	native	The young man who fell onto the tracks was a student at the New York Film Academy.	38	109	567	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2626.915	2629.774	speaker#14	male	native	His family was very grateful for Autrey's brave act.	38	109	568	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2629.774	2639.173	speaker#15	male	native		38	110	569	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2639.173	2640.860	speaker#14	male	native	Phoenix Satellite TV comprehensive report.	38	111	570	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2641.766	2649.157	Jian_fujiang	male	native	Currently, Shanghai's employment situation is severe, but ten private enterprises in Shanghai, in order to help ex-convicts integrate into society as soon as possible,	39	112	572	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2649.157	2654.657	Jian_fujiang	male	native	and prevent them from going back to the old path of crime, sent 44 jobs into the prison.	39	112	573	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2656.204	2659.236	Shen_lan	female	native	A number of private entrepreneurs were gathering outside of Shanghai Tilanqiao prison.	39	113	575	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2659.236	2663.111	Shen_lan	female	native	They were going to enter the prison, and sign with the people who are serving their sentence the commitments to undertake resettlement with assistance and training.	39	113	576	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2663.111	2669.204	Shen_lan	female	native	Earlier, ten private enterprises in Shanghai committed to accepting 44 people serving their sentence who will be released in the first half of 2007,	39	113	577	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2669.204	2672.923	Shen_lan	female	native	so that they have a job as soon as they leave the prison, and can begin a new journey in life.	39	113	578	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2672.923	2676.627	speaker#16	male	native	People like me, without a diploma, when I leave here, it is very hard to find a job.	39	114	579	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2676.627	2680.986	speaker#16	male	native	I will take this, this job seriously, and take this job with a grateful heart.	39	114	580	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2680.986	2687.111	Shen_lan	female	native	These 44 jobs, all in service industries like property management, logistics and couriering, do not need too much knowledge and technique.	39	115	581	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2687.111	2692.564	Shen_lan	female	native	The enterprises accepting the ex-convicts also need to assume the tasks of assisting and training the people who are serving their sentence during their remaining time in prison,	39	115	582	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2692.564	2695.611	Shen_lan	female	native	helping them adjust psychologically, and to be able to integrate back into society as soon as possible.	39	115	583	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2695.611	2703.532	speaker#17	male	native	If there is no harmonious social environment, crime rate is high, the environment of investment, uh, and everything is not good,	39	116	584	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2703.532	2705.391	speaker#17	male	native	how can you do your business well?	39	116	585	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2705.391	2708.344	speaker#18	male	native	As a man, one should have, have a bit of sense of social responsibility.	39	117	586	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2708.344	2710.579	Shen_lan	female	native	People from the Shanghai Prison Administration said	39	118	587	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2710.579	2713.079	Shen_lan	female	native	that from now on, they will introduce jobs into the prison once every six months.	39	118	588	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2713.079	2717.174	Shen_lan	female	native	The people serving their sentences who will be released shortly, and with good performances, will be given priority to get the jobs,	39	118	589	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2717.174	2720.721	Shen_lan	female	native	so this event will also inspire the people who are serving their sentences to be consciously aware of active reform.	39	118	590	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2720.721	2722.424	Shen_lan	female	native	Phoenix Satellite TV, Shen Lan, reporting from Shanghai.	39	118	591	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2723.768	2728.347	Jian_fujiang	male	native	El Salvador's Perkin is concealed in the northern mountainous region of Morazán Province.	40	119	593	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2728.347	2736.597	Jian_fujiang	male	native	During the civil war from the end of the 1970s to the early 1990s, it was a very active area for guerrillas.	40	119	594	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2736.597	2743.988	Jian_fujiang	male	native	However in 1992, after the end of the civil war, local residents set up a museum there, exhibiting large quantities of weapons used by the guerrillas,	40	119	595	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2743.988	2747.566	Jian_fujiang	male	native	and the members of these former guerrillas became the tour guides,	40	119	596	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2747.566	2751.472	Jian_fujiang	male	native	taking tourists to visit the once bloody battlefield.	40	119	597	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2751.472	2753.284	Jian_fujiang	male	native	At the end of the news, let's go take a look,	40	119	598	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2753.284	2756.659	Jian_fujiang	male	native	and thank you for watching Asian Journal on January 4, 2007.	40	119	599	report	
+PHOENIX_ASIANJRNL_CMN_20070104_075800	0	2756.659	2758.502	Jian_fujiang	male	native	I am Jian Fujiang, wish you good night, goodbye.	40	119	600	report	

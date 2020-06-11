@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0014.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	U.S. has Provided 120 Million USD to Bolivian Opposition Party Since 2005	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	900.000	950.000	TEXT1	unknown	unkown	People.com.cn, April 27th	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	According to today's report from Spain's "Rebelion," on a TV program a few days ago, U.S. lawyer of Venezuelan nationality Golinger said that the U.S. used its organizations such as the American International Development Organization and National Endowment for Democracy to provide 120 million USD to Bolivia's non-governmental organizations and opposition party. This was done in order to carry out a "support program" like how they supported the opposition party's attack on President Chavez in Venezuela.	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Golinger said that when Morales became one of Bolivia's presidential candidates in 2005, the U.S. expressed concern and allocated funds and publicly intervened in Bolivia's political conflict, but said these funds were for fighting the drug trade.	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	The U.S. called Morales a "Cocalero leader."	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	Golinger's investigation shows that the American International Development Organization provided 500 million USD to the Venezuelan opposition party.	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	In 2004, this organization announced its attempt to change the "support democracy" plan so as to continue activities under new strategic goals.	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1293.750	1296.875	TEXT1	unknown	unkown	It attempted to reduce Morales' influence on Indian people and opened an office to take interim measures.	0	0	0		statement
+PDA_CMN_20080427.0014.sgm	0	1296.875	1300.000	TEXT1	unknown	unkown	Golinger also provided information about how the American National Endowment for Democracy is interfering with Bolivia. (Guan Yanzhong)	0	0	0		statement

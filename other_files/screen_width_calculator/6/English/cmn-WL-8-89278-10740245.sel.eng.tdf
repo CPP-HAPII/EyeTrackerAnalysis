@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10740245	0	100.0	200.0	speaker	unknown	unknown	August 21, 10:39, Economic Information Daily Text Content begin google_ad_section_start Content Module: Single Picture begin	0	0	0		
+cmn-WL-8-89278-10740245	0	200.0	300.0	speaker	unknown	unknown	Content Module: Single Picture end	0	0	0		
+cmn-WL-8-89278-10740245	0	300.0	400.0	speaker	unknown	unknown	Staff report, Tokyo - Japan's central bank, Bank of Japan, released a monthly economic assessment report on the 20th, summarizing its judgment of the current state of the Japanese economy as "weak," whereas its judgment last month was "further slowdown."	0	0	0		
+cmn-WL-8-89278-10740245	0	400.0	500.0	speaker	unknown	unknown	This is the first time in ten years that Japan's central bank has concluded that the economic situation was "weak."	0	0	0		

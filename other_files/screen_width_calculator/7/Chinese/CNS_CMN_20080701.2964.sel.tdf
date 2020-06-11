@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.2964	0	0.0	100.0	speaker	unknown	unknown	台中市长胡志强：台中周末包机首航不缺席	0	0	0		
+CNS_CMN_20080701.2964	0	600.0	700.0	speaker	unknown	unknown	他指出，他如果不能成行，这个访团还是要去；七月四日将由台湾华信航空班机自台中清泉岗机场飞往厦门，这个满机的成果是大家全力争取，回程也会搭载满机的大陆观光客到台湾来，首站是澎湖，不是说去了以后空机回来。	0	0	0		

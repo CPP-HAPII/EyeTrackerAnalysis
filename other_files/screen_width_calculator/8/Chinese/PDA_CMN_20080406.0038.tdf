@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080406.0038.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	委内瑞拉拒绝国际人权委员会的年度报告	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月06	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	900.000	950.000	TEXT1	unknown	unkown	人民网4月6日讯　据来自加拉拉斯的消息，委内瑞拉拒绝国际人权委员会2007年的年度报告，认为这份文件中关于在委内瑞拉所谓违反人权的内容都是虚假的。	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	这是委内瑞拉外交部在一份公报中说的。	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	外交部的公报说，国际人权委员会为了制作这份报告对许多国家下定论，但它所利用的材料并没有证据，那些数据和看法来自具有反对派倾向的一些组织。	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	不能排除国际人权委员会的这份报告是国际上使委内瑞拉失去信誉的运动的又一次行动，这个运动是美国政府为反对委内瑞拉的机构而发动的。	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	外交部确认委内瑞拉维护人权的行动、言论自由的权利、社会抗议的合法权利、尊重委内瑞拉存在的生命。	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	事实与该委员会的报告相反，这些年来委内瑞拉玻利瓦尔革命在尊重、享受、保障所有委内瑞拉人的人权方面取得了不可否认的进步，这是政府消除国家的贫困、不平等和排斥的结果，那是推行新自由主义政策的后果。	0	0	0		statement
+PDA_CMN_20080406.0038.sgm	0	1293.750	1300.000	TEXT1	unknown	unkown	报告否认委内瑞拉为全面保障宪法权利做出的努力。（管彦忠）	0	0	0		statement

@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0013.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Former US President Carter Holds Second Meeting with Hamas	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	DAMASCUS, 19th (AFP).	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	900.000	1400.000	TEXT1	unknown	unkown	The Palestinian Islamic movement organization Hamas said today that former US President Carter and Meshaal, the Hamas leader exiled in Syria, again held talks today. The talks focused on a possible truce between Israel and Gaza Islamic militants as well as the release of an Israeli soldier.	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	1600.000	1700.000	TEXT1	unknown	unkown	Carter and Meshaal held a lengthy meeting yesterday.	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	1700.000	2000.000	TEXT1	unknown	unkown	Carter's meeting with Meshaal is strongly opposed by the US government and Israel, who continue to view Hamas as a terrorist organization despite its victory in Palestinian elections in 2006.	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	2200.000	2400.000	TEXT1	unknown	unkown	During his meeting with Meshaal, Carter suggested Hamas make a goodwill gesture towards Israel.	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	2600.000	2900.000	TEXT1	unknown	unkown	Carter proposed a truce between Israel and Hamas,"an exchange of prisoners which includes Israeli soldier Shalit, the lifting of the Israeli blockade of the Gaza Strip and a solution to the Rafah terminal."	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	Hamas official Nazzal said Hamas would respond to Carter's proposals "soon".	0	0	0		statement
+AFP_CMN_20080420.0013.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	He said it would reply positively, but "not at any price. The interests of the Palestinian people must be taken into account."	0	0	0		statement

@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 136.06899999999999, 279.99299999999999, 311.78199999999998, 352.05500000000001, 378.30000000000001, 392.63499999999999, 425.23500000000001, 428.464, 442.21199999999999, 445.87200000000001, 842.34000000000003, 849.173, 861.09500000000003, 872.37900000000002, 1010.794, 1018.932, 1024.2919999999999, 1031.8910000000001, 1052.3510000000001, 1063.682, 1087.3230000000001, 1132.2439999999999, 1137.683, 1164.8219999999999, 1172.056, 1230.8389999999999, 1257.8409999999999, 1260.5909999999999, 1261.779, 1266.4349999999999, 1268.3720000000001, 1277.96, 1290.6320000000001, 1336.748, 1658.482, 1672.954, 1676.7349999999999, 1685.5550000000001, 1744.5409999999999, 9999999.0]
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	176.566	177.754	Yao_Fu_Shan	male	native	还凑合	1	6	14	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	177.754	178.988	Yao_Fu_Shan	male	native	凑合	1	6	16	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	191.952	192.843	Yao_Fu_Shan	male	native	那还凑合	1	10	22	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	200.952	203.718	Ma_Xiang	male	native	您也凑合	1	13	27	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	487.921	492.405	Ma_Xiang	male	native	(()),觉得自己打得怎么样	10	80	127	filler	question
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	797.239	813.498	Mai_Xiao_Long	male	native	我觉得他因为我也听了可能是比较传统的,可能是比,就是就是纯粹的快板,啊我觉得他的也不(())我,我我比较会,不好意思,我我会选他的那种玩呃快板	10	124	204	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	813.498	826.230	Mai_Xiao_Long	male	native	对,因为时尚因为我也是做就是(()),也是流行歌,我觉得,对,节奏,就是比较比较舒畅嘻哈的,比较接近	10	125	205	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	975.014	981.538	Yao_Fu_Shan	male	native	基本条件咱大牛有了是吧,(()),都有了,但是在练的时候,还得练好几项的基本功	14	145	241	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1353.149	1358.056	Ma_Xiang	male	native	你现在让我弄一魔方再支持节目,肯定没戏,不是玩这个,就是说那个	34	188	307	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1407.301	1413.293	Mai_Xiao_Long	male	native	而且,就是一般的观众也分不清(()),分不清	34	193	316	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1453.499	1458.273	Ma_Xiang	male	native	你这种精神是非常(()),对	34	203	333	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1477.649	1480.617	Mai_Xiao_Long	male	native	我也我也不,(())	34	210	346	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1491.351	1493.288	Ma_Xiang	male	native	是不是这么(())	34	211	348	filler	question
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1566.656	1577.059	Ma_Xiang	male	native	(()),啊,嗯	34	219	362	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1578.137	1581.246	Da_Niu	male	native	对,(())	34	221	365	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080412_130002	0	1672.954	1676.313	Da_Niu	male	native	然后他里面有很多很多这个绕口令	36	236	392	filler	statement

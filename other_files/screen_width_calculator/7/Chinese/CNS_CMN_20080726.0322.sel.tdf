@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080726.0322	0	0.0	100.0	speaker	unknown	unknown	澳客机直径3米破洞紧急迫降 官员不排除恐袭(图)	0	0	0		
+CNS_CMN_20080726.0322	0	500.0	600.0	speaker	unknown	unknown	据香港《文汇报》报道，这架澳航QF30客机，25日晨9时由香港起飞，原定当地时间晚上约10时飞抵墨尔本，但在起飞约1小时后，机身近右边机翼部分突然传出巨响，机师决定紧急降落马尼拉，11时左右安全着陆后，机上346名乘客和19名机组人员无人受伤。	0	0	0		
+CNS_CMN_20080726.0322	0	700.0	800.0	speaker	unknown	unknown	澳洲运输安全局(ATSB)指，航机原本在约8800米高空飞行，但突然部分机身分离，令机舱气压急速下降，机组人员将航机降落至约3000米高度。	0	0	0		
+CNS_CMN_20080726.0322	0	1800.0	1900.0	speaker	unknown	unknown	澳官员称不排除恐袭	0	0	0		

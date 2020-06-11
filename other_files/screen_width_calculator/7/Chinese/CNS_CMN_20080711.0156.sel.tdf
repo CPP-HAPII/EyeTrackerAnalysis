@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080711.0156	0	300.0	400.0	speaker	unknown	unknown	正如媒体评论所说，温总理真正把人民利益放在了心上、民众的冷暖安危挂在了心间，所以也就换来了民众发自内心的“心疼”和热爱，也就有了《人民心疼你》这首歌走红网络。	0	0	0		
+CNS_CMN_20080711.0156	0	600.0	700.0	speaker	unknown	unknown	虽然，这首歌在词曲的表达和运用上还略显稚嫩，曲调也并不是很优美，歌词也不华丽，但它所寄托和蕴含的真情厚意在网民中形成强烈的共鸣：“百姓心中有杆秤，挑秤砣是老百姓”，这首歌正是民众对温家宝总理一言一行的高度肯定。	0	0	0		
+CNS_CMN_20080711.0156	0	700.0	800.0	speaker	unknown	unknown	歌中唱道：“每当风雨来临，你就会来到我们中间，无论再大的风雨，都被你挡在一边。	0	0	0		
+CNS_CMN_20080711.0156	0	1400.0	1500.0	speaker	unknown	unknown	他多次走到田间、地头与老农们共话农时，还深入工厂、车间、矿井与一线工人共进午餐。	0	0	0		
+CNS_CMN_20080711.0156	0	1500.0	1600.0	speaker	unknown	unknown	正如媒体评论所说，温总理真正把人民利益放在了心上、民众的冷暖安危挂在了心间，所以也就换来了民众发自内心的“心疼”和热爱，也就有了这首歌走红网络。	0	0	0		

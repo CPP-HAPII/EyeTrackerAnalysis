@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080724.0483	0	400.0	500.0	speaker	unknown	unknown	某媒体日前刊载了《30个省级城市地震风险出炉石家庄最高上海最低》报道，经网上传播后，引起社会广泛关注，也引起省地震局的高度重视。	0	0	0		
+CNS_CMN_20080724.0483	0	1200.0	1300.0	speaker	unknown	unknown	按照国家地震动参数区划图，石家庄市抗震设防地震动峰值加速度为0.1G(相当于7度设防)，属于中等设防城市。	0	0	0		
+CNS_CMN_20080724.0483	0	1300.0	1400.0	speaker	unknown	unknown	一般工业民用建筑按照7度进行设防，重大建设工程都依据《河北省地震安全性评价管理条例》开展了地震安全性评价，并依据评价结果进行了抗震设防。	0	0	0		
+CNS_CMN_20080724.0483	0	1800.0	1900.0	speaker	unknown	unknown	昨天，记者还查阅了《河北省志•地震志》。	0	0	0		

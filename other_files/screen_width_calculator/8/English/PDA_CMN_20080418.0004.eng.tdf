@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	British Media Rumors Putin Sweet on Beautiful and Glamorous Gymnastics Champion - 30-Year Age Difference Between the Two (picture)	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	900.000	1550.000	TEXT1	unknown	unkown	A British media report said yesterday saying the 56 year old Russian president, Putin, and 24 year old Russian artistic gymnastics world champion and model Alina Kabaeva will get married.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	1550.000	1875.000	TEXT1	unknown	unkown	This gossip of a romantic story made people feel not too decent because Putin did not officially announce his separation with his 50-year-old wife, Ludmilla.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	1875.000	2037.500	TEXT1	unknown	unkown	But the British media said that Putin, who always keeps his private life far out of the spotlight, divorced his wife two months ago.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2037.500	2200.000	TEXT1	unknown	unkown	A Russian Web site even said that Putin and Kabaeva were seen kissing in a Moscow restaurant.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	A report from the British media said that the news of Putin wooing Kabaeva, a member of Russia's parliament, has been circulating among Russia's citizens for awhile, but only now was revealed by a Russian newspaper.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	The report quoted a St. Petersburg banquet planner saying he is currently applying to organize Putin's luxurious wedding that will be held in St. Petersburg.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	According to reports, the wedding will be held on June 15th, over one month after Putin steps down as Russian president.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2750.000	2775.000	TEXT1	unknown	unkown	One of the most popular rumors is that Putin and Kabaeva will have the wedding inside the Russian Czar's Summer Residence, Pushkin city. Inside this castle is Yekaterina Palace, Alexander Palace, and other buildings.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2775.000	2800.000	TEXT1	unknown	unkown	The media also said the Kremlin is currently still declining to discuss this news.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	3000.000	3350.000	TEXT1	unknown	unkown	Born in 1983, in what is now Uzbekistan's capital city of Tashkent, Kabaeva represented Russia in the Sydney and Athens Olympics. She was also the artistic gymnastics champion in the Athens Olympics. She had sexy pictures of her taken for a magazine, only wrapped in a piece of fur. She also acted in a Japanese action movie, Red Shadow.	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	3350.000	3700.000	TEXT1	unknown	unkown	She started her political career after joining the "United Russia Party" in 2007.	0	0	0		statement

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080722.0059	0	0.0	100.0	speaker	unknown	unknown	Foreign Affairs Ministry Spokesman Answers Reporter's Question on False Report by British Media about China	0	0	0		
+GMW_CMN_20080722.0059	0	300.0	400.0	speaker	unknown	unknown	On the 21st, Liu Jianchao, spokesman of Ministry of Foreign Affairs, answered questions from a reporter regarding a report in the British media about a British official losing his mobile phone in China.	0	0	0		

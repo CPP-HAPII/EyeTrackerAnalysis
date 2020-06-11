@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080702.0292	0	1900.0	2000.0	speaker	unknown	unknown	There are no organizational restraints on members and no rigid regulation that members must implement its resolutions.	0	0	0		

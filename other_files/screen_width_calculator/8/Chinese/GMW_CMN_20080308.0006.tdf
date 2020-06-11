@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080308.0006.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	奥林匹克圣火的起源、发展与意义	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-08	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	奥林匹克火炬接力是奥运会的前奏,也是仅次于奥运会本身最重要的传播工具,同时更是古代奥运会和现代奥林匹克运动之间强有力的连接。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	历次现代奥林匹克火炬接力,在总共100多天的传递活动中都充分传播奥林匹克精神、传递友谊与和平的信息,点燃人们对奥运会的激情。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	正如当年宣布“神圣休战”的传令兵,今天的火 炬手,手持奥运会火炬,传递奥林匹克圣火,鼓励全世界人民共同追求奥林匹克梦想。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	在古代奥林匹克运动会举办地――奥林匹亚,圣火一直在赫斯提女神((希腊神话中的女灶神))祭坛前的城市公共会堂中静静地燃烧。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	这里的圣火同样是通过使用凹面镜汇聚阳光采集而成,它还被作为火种去点燃其他神圣场所的圣火。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	与现代奥运会圣火传递相比,古代的泛希腊奥运会从来没有组织过火炬接力或手持火炬赛跑。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	但是在正式比赛开始之前,头戴橄榄枝环的传令兵在各城邦之间奔走相告运动会正式开始的准确时间。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	他们邀请各城邦的公民前往奥林匹亚,并宣布“神圣休战”的开始。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	现代奥林匹克圣火传递起源于1936年柏林奥运会,当年,在希腊古奥林匹亚遗址的赫拉神庙前采集圣火,随后进行火炬传递活动。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	这一传统延续至今。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	目前已经有16届夏季奥林匹克运动会在这里举行了圣火采集仪式。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	从1964年开始,冬季奥运会也开始了圣火采集活动,虽然也在古奥林匹亚遗址进行,但圣火采集的地点与夏季奥运会取火点赫拉神庙不同,是在现代奥林匹克之父顾拜旦纪念碑前举行。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	72年来,奥林匹克火炬接力已成为奥运会主办国提升公众对奥运会认知度和创造宣传点的最有力的传播活动。	0	0	0		statement
+GMW_CMN_20080308.0006.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	火炬接力使主办国人民有机会全面感受奥运会的力量,也为举办国家和城市提供了展示自己的机会。((王文))	0	0	0		statement

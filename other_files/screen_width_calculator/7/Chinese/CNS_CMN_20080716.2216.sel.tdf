@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.2216	0	200.0	300.0	speaker	unknown	unknown	巴西国家队主帅邓加心水最清，他最近不止一次明确表明自己的观点，巴塞罗那球星罗纳尔迪尼奥必然加盟AC米兰。	0	0	0		
+CNS_CMN_20080716.2216	0	500.0	600.0	speaker	unknown	unknown	自从巴塞罗那宣布可以出售小罗之后，争夺他的两支球队主要是AC米兰和曼城。	0	0	0		
+CNS_CMN_20080716.2216	0	600.0	700.0	speaker	unknown	unknown	邓加早就为AC米兰推波助澜，他说：“小罗必将为AC米兰效力，球员的意愿是转会成功与否的决定因素，AC米兰现在拥有得到小罗的一切有利条件。”	0	0	0		
+CNS_CMN_20080716.2216	0	800.0	900.0	speaker	unknown	unknown	外界普遍对小罗的状态表示担心，邓加则坚决投了信任票，他说：“媒体显然过于夸大了小罗的体重问题，他只不过重了几公斤，我认为他会很快瘦下来并且成为北京奥运会最闪亮的明星。”	0	0	0		
+CNS_CMN_20080716.2216	0	900.0	1000.0	speaker	unknown	unknown	很可惜，无论巴塞罗那还是AC米兰都反对球员参加北京奥运会。	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.2217	0	700.0	800.0	speaker	unknown	unknown	2004年4月16日下午5时，携款外逃近三年的余振东被美国联邦调查局和海关移民与执法局特工押解下了飞机。	0	0	0		
+CNS_CMN_20080718.2217	0	1000.0	1100.0	speaker	unknown	unknown	中国银行广东开平支行原行长余振东被遣返回国受审的消息一经传开，不啻于在外逃贪官心中响起了一声晴天霹雳――“携款外逃――司法合作――回国受审”将成为他们日后无法逃避的命运。	0	0	0		
+CNS_CMN_20080718.2217	0	6100.0	6200.0	speaker	unknown	unknown	其一，对我方司法机关意味着追逃成功；其二，可以为逃犯地国家节省刑事司法合作成本；其三，有利于逃犯地国家的秩序与安全。	0	0	0		

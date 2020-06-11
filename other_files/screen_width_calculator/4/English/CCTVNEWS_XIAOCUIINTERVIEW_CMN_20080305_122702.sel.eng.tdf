@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 119.09699999999999, 130.941, 135.37200000000001, 902.649, 1091.886, 1847.325, 1898.8099999999999, 1983.106, 2034.769, 2342.6570000000002, 2349.1410000000001, 2534.4279999999999, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	1245.650	1250.712	Huang_Meng_Fu	male	native	Yes, (()), of course, it is.	5	81	148	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	1659.799	1667.285	Huang_Meng_Fu	male	native	Of course regarding these small and mid size businesses, (()), just about 10, 10, 10 people, and he let them establish a labor union, this thing, um, +it, um, it's pretty difficult.	5	107	200	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	1702.301	1703.911	Cui_Yong_Yuan	male	native	Chief Wang, you discuss a bit as well.	5	108	203	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	2349.141	2355.708	Huang_Meng_Fu	male	native	You want me to make him, make him look bad.	11	151	278	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	2349.141	2355.708	Sun_Heng	male	native	I'm not, I'm a member of the All-China Federation of Industry and Commerce, he isn't (()).	11	151	279	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080305_122702	0	2355.708	2359.271	Huang_Meng_Fu	male	native	The two of you (()).	11	152	280	filler	statement

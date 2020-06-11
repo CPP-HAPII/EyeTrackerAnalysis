@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080423.0048.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	02 Hillary Wins Pennsylvania Democratic Primary	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	500.000	550.000	sgm_tag	unknown	unkown	April 23, 2008 11:28 Source: Chinanews.com.cn	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	550.000	600.000	sgm_tag	unknown	unkown	[sgm_tag] [html]Editorial[html]	0	0	0		incomplete
+CNS_CMN_20080423.0048.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	PHILADELPHIA, 22nd (China News Agency) (Reporter: Li Jing) Former US first lady Hillary won a key victory in Pennsylvania on the 22nd in the fight for the Democratic presidential nomination, throwing the state of the 2008 US general election up into the air.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	As of this reporter's news dispatch, with 35% of the votes in Pennsylvania counted, Hillary leads her party colleague and opponent, Obama, by about 8 points with 54% support.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	Various news outlets, including CNN and Associated Press predicted early on that Hillary would take this contest.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Voting station exit polls indicate that Hillary's supporters were primarily blue-collar voters, female voters and white voters.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	A majority of older black voters also decided to support Hillary.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	Obama seems to have long anticipated defeat in Pennsylvania. After a short appearance that afternoon in Philadelphia, he didn't wait for the election results before moving the fight to Indiana.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	Hillary on the other hand stayed in Philadelphia with her supporters to celebrate their victory together.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	Following the Pennsylvania election, the gap between Obama and Hillary's party delegate counts has not shrunk markedly.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	Prior to this contest, Obama led Hillary by about 140 delegates.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	Neither of the pair can win enough delegates to secure the nomination before the Democratic primaries in the various states end on June 3.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	Before June 3, the two will go on to hold primary contests in North Carolina, Indiana, Oregon, Kentucky, West Virginia, Montana, South Dakota, as well as Puerto Rico and the island of Guam.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	The US Democratic Party Convention will be held in Denver in August this year.	0	0	0		statement
+CNS_CMN_20080423.0048.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	On that occasion, almost 800 Democratic Party superdelegates will decide who will become the Democratic presidential candidate. (End).	0	0	0		statement

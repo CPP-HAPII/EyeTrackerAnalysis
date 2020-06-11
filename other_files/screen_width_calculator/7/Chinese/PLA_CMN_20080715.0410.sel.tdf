@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080715.0410	0	0.0	100.0	speaker	unknown	unknown	美国独霸田坛 非洲“拳头”更硬	0	0	0		
+PLA_CMN_20080715.0410	0	200.0	300.0	speaker	unknown	unknown	新华社北京７月１５日奥运专电 题：美国独霸田坛 非洲“拳头”更硬	0	0	0		
+PLA_CMN_20080715.0410	0	400.0	500.0	speaker	unknown	unknown	雅典奥运后的四年，世界田坛格局发生了不小变化，总的趋势为：美国的实力更加强大，以肯尼亚、埃塞俄比亚为首的非洲板块迅猛崛起；俄罗斯实力缩水，亚洲依然萎靡不振。	0	0	0		
+PLA_CMN_20080715.0410	0	1700.0	1800.0	speaker	unknown	unknown	经过多年的苦心经营，非洲人在中长跑方面的“拳头”越来越硬。	0	0	0		
+PLA_CMN_20080715.0410	0	1900.0	2000.0	speaker	unknown	unknown	从８００米到马拉松，非洲选手人才济济。	0	0	0		
+PLA_CMN_20080715.0410	0	2500.0	2600.0	speaker	unknown	unknown	俄罗斯缩水、亚洲萎靡不振	0	0	0		
+PLA_CMN_20080715.0410	0	3200.0	3300.0	speaker	unknown	unknown	本届奥运会上，牙买加很可能会成为田坛“黑马”，在男子１００米（博尔特、鲍威尔）、２００米（博尔特）以及女子２００米项目上具有冠军相，另外，在男、女４X１００米接力上具备和美国一争高低的实力。	0	0	0		

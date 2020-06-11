@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0844	0	0.0	100.0	speaker	unknown	unknown	A spokesperson of the National Bureau of Statistics read and explained the economic data of the first half of the year (abstract)	0	0	0		
+CNS_CMN_20080717.0844	0	600.0	700.0	speaker	unknown	unknown	In the first six months of this year, China's GDP was 13.0619 trillion Yuan, increasing 10.4 % from the same period last year.	0	0	0		
+CNS_CMN_20080717.0844	0	2400.0	2500.0	speaker	unknown	unknown	The CPI in the first half of this year increased 7.9% from the same period of last year, increased 7.1% in June and continued to decline.	0	0	0		
+CNS_CMN_20080717.0844	0	2500.0	2600.0	speaker	unknown	unknown	In the first six months of this year, China's consumer price index (CPI) rose 7.9%, and CPI rose 7.1% in June, down 0.6% from the previous month.	0	0	0		
+CNS_CMN_20080717.0844	0	3100.0	3200.0	speaker	unknown	unknown	Bureau of Statistics: pork prices are still high and its impact on the CPI should not be ignored	0	0	0		
+CNS_CMN_20080717.0844	0	3200.0	3300.0	speaker	unknown	unknown	Press spokesperson of the National Bureau of Statistics and the head of the Department of Comprehensive Statistics, Li Xiaochao, explained that from the current appearance, pork prices are still high and its impact on CPI should not be ignored.	0	0	0		

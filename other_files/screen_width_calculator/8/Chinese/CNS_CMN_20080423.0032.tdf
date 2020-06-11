@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080423.0032.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	台报：风水轮流转 台湾政要扫径迎接大陆富豪	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	500.000	550.000	sgm_tag	unknown	unkown	2008年04月23日 10:45 来源：中国新闻网	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	550.000	600.000	sgm_tag	unknown	unkown	<span class="style3"><a href='http://comment.chinanews.com.cn/comments/comments.php?newsid((1229002))' target="_blank"><img src="/fileftp/2007/12/2007-12-13/U31P4T47D7993F967DT20071213101145.gif" width="14" height="14" border((0)) /> <span class="style3">发表评论 </span></a></span>	0	0	0		incomplete
+CNS_CMN_20080423.0032.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月23日电 大陆富豪团日前在台湾参观考察，引起台湾媒体和民众的关注。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	台湾《联合报•黑白集》刊文说，风水轮流转，二十年前大陆迎接台商的场面，今天变成了台湾政要扫径迎迓大陆富豪。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	且看县市长争相作东，简报一场接一场，镁光灯“卡嚓、卡嚓”闪不停。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	社会大众看得目瞪口呆之余，不免皆有一种“既期待，又怕受伤害”的心情：这些大陆富豪，究竟是来“炒楼”，还是来“投资生产”？	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	这一波大陆富豪团来得突然，确实在社会视听上造成震撼。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	看这些男富豪谈吐稳健，女眷也穿着朴素，姿态谦和，未见珠光宝气，应会给台湾民众留下不错的第一印象。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	尤其，首日传出团员有人匿名捐了1000万元新台币供台湾贫童作营养午餐的经费，平添一段佳话。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	文章说，两岸交流势将放大加深，一般人都只想到“钱”的流动，却忽视了“人”的交流。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	其实，要问大陆富豪如何把“钱”用在台湾，不如问大陆富豪的“心”如何看待台湾。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	“钱”的流动是其次的，最重要的是“心”的交流与契合。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	文章指出，过去二十年，台商在大陆也不只是赚钱，而是对大陆经济民生的起步有过重大贡献；台湾的善心人士在大陆参与的慈善工作，如希望工程等，更是充满了善意与爱心，留下了许多可歌可泣的感人故事。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	大陆学童接受台湾所捐助的“希望工程”，与台湾贫童接受大陆捐助的营养午餐。	0	0	0		statement
+CNS_CMN_20080423.0032.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	这不能用“钱”来估价，而要用“心”来衡量。	0	0	0		statement

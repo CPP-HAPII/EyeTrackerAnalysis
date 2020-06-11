@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080407.1130	0	200.0	300.0	speaker	unknown	unknown	Chinanews.com, April 7 - A tragedy took place in San Luis, a city in central Argentina, during a car racing competition held on the 6th. A racing car lost control and crashed into spectators, leaving one person dead and three people injured.	0	0	0		

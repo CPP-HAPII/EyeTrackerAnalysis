@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070115.0361	0	10010.000	10019.900				Brazilian Beach Soccer Team Defeats World Star League	0	0	0		
+PLA_CMN_20070115.0361	0	20010.000	20019.900				(Source: Xinhua News Agency Draft Issue Time: 2007-01-15 11:40)	0	0	0		
+PLA_CMN_20070115.0361	0	30010.000	30019.900				Xinhua News Agency, Brasilia on January 14, Sports Special (Reporter Chen Weihua, Zhao Yan) World beach soccer champion Team Brazil beat World Star League, which was composed of multi-country players, 7-6 on the 14th in Sao Paulo, setting a new record of 44 consecutive wins.	0	0	0		
+PLA_CMN_20070115.0361	0	40010.000	40019.900				This friendly match also was the Brazilian team goalkeeper Pierre's farewell match.	0	0	0		
+PLA_CMN_20070115.0361	0	40020.000	40029.900				Pierre has been Brazil's beach soccer team's goalkeeper for 9 years, and contributed to the Brazilian team's 5-time world championship titles in a distinguished way.	0	0	0		
+PLA_CMN_20070115.0361	0	50010.000	50019.900				The World Star League was composed of players from Argentina, Bahrain, Spain, Portugal and Uruguay, including the Portuguese Madjer, who was considered a superstar in the world of beach soccer. The latter altogether scored 5 goals in this competition.	0	0	0		
+PLA_CMN_20070115.0361	0	60010.000	60019.900				Madjer said after the competition, "It was always very difficult to beat the Brazilian team, but what's important was the brilliance of the competition itself."	0	0	0		
+PLA_CMN_20070115.0361	0	70010.000	70019.900				The beach soccer field has a length of about 37 meters and a width of about 28 meters.	0	0	0		
+PLA_CMN_20070115.0361	0	70020.000	70029.900				Both teams have five field players, respectively, including the mandatory goalkeeper.	0	0	0		
+PLA_CMN_20070115.0361	0	70030.000	70039.900				During the competition there is no limitation concerning the number of times of player substitutions. The player who was substituted could re-enter the competition.	0	0	0		
+PLA_CMN_20070115.0361	0	70040.000	70049.900				The duration of the competition is 36 minutes, divided into three periods, with each period lasting 12 minutes.	0	0	0		
+PLA_CMN_20070115.0361	0	70050.000	70059.900				There is a two-minute break between each period.	0	0	0		
+PLA_CMN_20070115.0361	0	70060.000	70069.900				(end)	0	0	0		

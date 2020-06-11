@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080411.0662	0	0.0	100.0	speaker	unknown	unknown	林丹：恶意报道影响声誉 不论代价要找出造谣者	0	0	0		
+CNS_CMN_20080411.0662	0	700.0	800.0	speaker	unknown	unknown	我希望在媒体的帮助下，无论花多长的时间和代价，也要找出这个人，追究这个记者的法律责任。”	0	0	0		
+CNS_CMN_20080411.0662	0	1700.0	1800.0	speaker	unknown	unknown	“一直封闭 何来采访”	0	0	0		
+CNS_CMN_20080411.0662	0	2100.0	2200.0	speaker	unknown	unknown	据深圳《晶报》报道，事情发生当天为“媒体开放日”，但中国羽毛球队此次在晋江的集训采取封闭式管理，队内比赛当天根本没有任何记者在场。	0	0	0		
+CNS_CMN_20080411.0662	0	2200.0	2300.0	speaker	unknown	unknown	李永波情绪激动地表示：“我们一直就是封闭训练，没有媒体可以进入球场，更不可能有什么媒体开放日。	0	0	0		
+CNS_CMN_20080411.0662	0	2600.0	2700.0	speaker	unknown	unknown	“现在我已经知道这个记者是厦门人，在深圳《晶报》工作，我不知道他为什么要写这样的恶意报道。	0	0	0		
+CNS_CMN_20080411.0662	0	3100.0	3200.0	speaker	unknown	unknown	“那天我们完全按照汤尤杯的形式打队内赛，当时我、陈龙还有郭振东他们一对双打选手分到了一组，我们打得非常投入，最后以3比2赢了，但教练却说陈龙不属于我们组，这样的话我们就以2比3输了。	0	0	0		

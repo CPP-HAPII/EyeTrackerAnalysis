@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.1173	0	1600.0	1700.0	speaker	unknown	unknown	这段充满戏剧性的历史，更是从清代中叶至国民党当局迁台时期的两百年间，与台湾乃至整个中国近代的动荡不安与历史发展紧紧牵连。	0	0	0		

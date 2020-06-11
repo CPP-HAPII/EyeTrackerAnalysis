@@ -1,0 +1,216 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 8.3680000000000003, 25.067, 35.848999999999997, 1185.934, 1193.018, 1200.972, 1210.511, 1359.816, 1386.902, 1428.1610000000001, 9999999.0]
+ANHUI_FAMILY_CMN_20060523_223042	0	0.000	8.368					0	0	0	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	8.368	11.384	speaker#1	female	native	观众朋友大家好，欢迎收看本期的家人节目。	1	1	1	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	11.384	20.957	speaker#1	female	native	二零零五年的三月三十一号，在浙江省温州的一家工厂里，一名工人因为违规操作被三吨多重的铁块重重的挤住了腹部。	1	1	2	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	20.957	25.067	speaker#1	female	native	当时的具体情况是什么样的呢，我们先来看一下事故回放。	1	1	3	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	25.067	35.849					2	2	4	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	35.849	43.646	speaker#2	male	native	二零零五年三月三十一日中午，浙江温州恒丰泰减速机制造有限公司的厂房里机器轰鸣。	3	3	5	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	43.646	47.365	speaker#2	male	native	因为赶着交货，工人们都在紧张的忙碌着。	3	3	6	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	47.365	55.223	speaker#2	male	native	就在一名工人把重达三吨的一个机械挂在挂钩上，准备运行行车的时候，不幸发生了。	3	3	7	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	55.223	64.439	speaker#3	male	native	我当时就是把那个机架吊起来的时候，就是准备把它放倒的时候，就是一开始没注意，就是斜了。	3	4	8	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	64.439	69.521	speaker#4	male	nonnative	当时失去那个平衡， (())上面一个轴那么长，下面一个机架，马上转过来。	3	5	9	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	69.521	72.780	speaker#3	male	native	当时转的时候刚好往他那边转，就是我站在这边。	3	6	10	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	72.780	79.528	speaker#4	male	nonnative	他就往后退，他准备跑，退-退到后面嘛，后面一个大机架给他挡住了，他就没地方退了。	3	7	11	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	79.528	85.968	speaker#3	male	native	当时就刚好就是挤到那个肚子上面，就是那个机架挡住嘛往后面这么一压就蹲在那里。	3	8	12	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	85.968	94.703	speaker#4	male	nonnative	当-当他走了两步，我以为说没事，我还 (())，谁知道往下一倒，我说完了--完了，这下就麻烦了。	3	9	13	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	94.703	102.202	speaker#3	male	native	救护车火速赶到，工人们即刻把这个受伤的小伙子送到了温州市第一医院。	3	10	14	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	102.202	106.406	speaker#3	male	native	受伤的工人叫余兵，他是公司的一名装配工。	3	10	15	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	106.406	113.655	speaker#3	male	native	因为工程紧张，并不熟悉操作行车的他，由于违章操作才酿成了悲剧。	3	10	16	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	113.655	117.824	speaker#3	male	native	余兵被送进医院之后，立刻进行了第一次手术。	3	10	17	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	117.824	122.652	speaker#3	male	native	万幸的是余兵的性命总算保住了。	3	10	18	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	122.652	129.035	speaker#3	male	native	但是因为余兵的腹部挤压得太严重，他的脾脏，肠子都已破裂。	3	10	19	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	129.035	132.364	speaker#3	male	native	最糟糕的是已经形成了肠瘘。	3	10	20	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	132.364	136.074	speaker#3	male	native	而肠瘘是医学上非常棘手的问题。	3	10	21	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	136.074	141.320	speaker#3	male	native	不仅治愈率不高，所需的治疗费用也相当惊人。	3	10	22	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	141.320	149.164	speaker#3	male	native	对于来自农村的打工仔余兵来说，这笔费用是他贫困的家庭所无法承受的。	3	10	23	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	149.164	155.976	speaker#5	female	native	像我们这个家庭跟他讲，那么多钱 (())一辈子也是赚不回来那么多钱。	3	11	24	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	155.976	160.842	speaker#2	male	native	家里实在没有办法，就只能寄希望于公司。	3	12	25	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	160.842	166.888	speaker#2	male	native	对于这起工伤事故，余兵的家里人祈祷公司会负起责任。	3	12	26	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	166.888	176.168	speaker#5	female	native	假如老板不管的话那我们这个家就完了，两个孩子又小。	3	13	27	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	176.168	189.568	speaker#2	male	native	余兵所在的公司是一家民营企业，公司也就是公司的负责人究竟会采取什么态度呢。	3	14	28	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	189.568	195.209	speaker#2	male	native	对于无底洞一样的治疗费用，公司可能全部承担吗。	3	14	29	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	195.209	200.349	speaker#2	male	native	除了余兵的家人，公司的同事也在急切的观望。	3	14	30	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	200.349	207.129	speaker#6	female	native	还需要继续投入呃资金，那时候我们就想老总会怎么来做，大家很关注这个事情。	3	15	31	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	207.129	218.667	speaker#7	male	native	可-可能叶总可能是坚持时间不是很长的，就是大概就是-是那个什么呢前期的工作可能会做一做，呃像后期的工作可能会呃 (())。	3	16	32	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	218.667	230.397	speaker#8	male	native	可能大家都是眼睛都-都会盯住，会发，会想着这个事态是怎么发展，看着企业能够对他怎么样，也是持着一种--一种观望态度。	3	17	33	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	230.397	237.068	speaker#2	male	native	一时之间，全国公司几百双眼睛都盯在了公司老总叶胜康的身上。	3	18	34	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	237.068	247.796	speaker#1	female	native	来给大家介绍一下，现在呢坐在我身边的这位就是刚才短片里提到的那位董事长，叶胜康先生，欢迎你。	3	19	35	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	247.796	250.723	speaker#1	female	native	好，请坐。	3	19	36	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	250.723	257.558	speaker#1	female	native	那厂里很多的人都把这个目光聚集在你的身上，就在看你到底怎么处理这件事情。	3	20	37	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	250.723	257.558	Ye_Sheng_Kang	male	native	嗯。	3	20	38	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	257.558	261.867	speaker#1	female	native	你当时有没有感觉到 {sneeze}这个这种目光，或者说感觉到有压力？	3	20	39	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	257.558	261.867	Ye_Sheng_Kang	male	native	对。	3	20	40	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	261.867	280.101	speaker#1	female	native	嗯，嗯，嗯。	3	20	41	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	261.867	280.101	Ye_Sheng_Kang	male	native	这个应该说作一个我们一个民营企业来讲的话，人家觉得就是首先想到你老板只管赚钱，啊不会管员工的死活，可能这个员工的目光肯定会盯着你，这是我们可以想像的到。	3	20	42	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	280.101	296.728	speaker#1	female	native	嗯，嗯，嗯。	3	20	43	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	280.101	296.728	Ye_Sheng_Kang	male	native	员工出了这么大的问题，那么对我们来说要用事实来证明， {sneeze} 我们作为一个私人企业是善待员工的，也是关爱员工的，也是对我们员工负责的，那么一个心理。	3	20	44	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	296.728	304.260	speaker#2	male	native	一次次手术，治疗，叶总二话没说付了所有的费用。	3	21	45	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	304.260	307.540	speaker#2	male	native	短短几个星期就花掉了二十多万。	3	21	46	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	307.540	314.449	speaker#2	male	native	可是不容乐观的是，余兵的病情仍是无法得到控制，高烧持续不退。	3	21	47	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	314.449	317.981	speaker#2	male	native	谁都清楚，继续治疗意味着什么。	3	21	48	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	317.981	323.277	speaker#2	male	native	可能花上再大的代价，也未必能将余兵治愈。	3	21	49	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	323.277	327.401	speaker#2	male	native	治疗费用还是像流水一样往医院里送。	3	21	50	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	327.401	341.354	speaker#2	male	native	对于无底洞一样的代价，大家都在猜测，叶总能否好人做到底呢，还是已经花了几十万有个交代他就打算草草了事。	3	21	51	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	341.354	353.778	speaker#7	male	native	就是一般这样装配员工， (()) 他在公司的风险的话，这个就是他在公司也是可能干了这个两三年，对公司的奉献可能还没有这么多。	3	22	52	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	353.778	362.188	speaker#8	male	native	是否考虑就说和他呃解除劳动关系，就是说呃不要再治疗了，或者说给他一笔钱，只能把这件事情了了掉。	3	23	53	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	362.188	369.840	speaker#2	male	native	对于员工的种种议论，叶总心里也不是没有考虑，尤其是他身边的朋友。	3	24	54	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	369.840	373.576	speaker#2	male	native	甚至给他提出了更为实际的建议。	3	24	55	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	373.576	385.727	Ye_Sheng_Kang	male	native	呃比如说这种也有人比如说某有些人会采-采取这样的方式处理，比如说呃 (()) 人死了，也就是赔他这么多钱嘛对不对。	3	25	56	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	385.727	390.936	Ye_Sheng_Kang	male	native	也有人是通过那种方式处理，也只不过花多岁钱而已嘛。	3	25	57	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	390.936	405.166	speaker#2	male	native	乌漏偏逢连阴雨，就在是否给余兵继续投入治疗，公司上下议论纷纷的时候，公司又遇到了一个相当棘手的问题。	3	26	58	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	405.166	409.838	speaker#2	male	native	这更加让叶胜康左右为难。	3	26	59	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	409.838	416.247	speaker#2	male	native	十年前，叶胜康从一个打工仔开始艰苦创业。	3	26	60	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	416.247	422.031	speaker#2	male	native	十年的打拼与奋斗才有了今天这个减速机制造公司。	3	26	61	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	422.031	428.531	speaker#2	male	native	他自己也记不清经过了多少曲折与磨难，才把公司做得稍见起色。	3	26	62	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	428.531	436.648	speaker#2	male	native	即便现在，在商贾云集的温州，叶胜康的公司其实也算不上有多大规模。	3	26	63	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	436.648	448.399	speaker#2	male	native	而此时正值生产高峰期，为余兵的治疗已经投入了二十多万，公司能够周转的资金也已经不是十分充足。	3	26	64	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	448.399	456.624	speaker#2	male	native	如果继续把剩下的钱汇进医院的帐户，公司的生产运行将陷入僵局。	3	26	65	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	456.624	466.812	Ye_Sheng_Kang	male	native	财务经理报说，账上可能资金不够了，不够，那么付了这笔钱可能就会对那边会有影响。	3	27	66	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	466.812	471.678	Ye_Sheng_Kang	male	native	那么也可能会对我们企业的信誉造成这个影响。	3	27	67	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	471.678	478.125	Ye_Sheng_Kang	male	native	第二个，我们应该采购的材料不能及时到位。	3	27	68	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	478.125	482.719	Ye_Sheng_Kang	male	native	那么像这种情况下 {sneeze} 我们怎么办。	3	27	69	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	482.719	495.182	speaker#1	female	native	看来现在呢不仅仅是这个决定拿钱去救人的问题了，而是关系到整个公司的信誉，关系到几百号人的这个利益问题了。	3	28	70	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	482.719	495.182	Ye_Sheng_Kang	male	native	嗯。	3	28	71	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	495.182	496.909	speaker#1	female	native	当时是不是很难抉择？	3	29	72	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	496.909	503.780	Ye_Sheng_Kang	male	native	呃当时确实有这么个矛盾，又是交货的高峰期，高峰期。	3	30	73	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	496.909	503.780	speaker#1	female	native	嗯，高峰期，嗯。	3	30	74	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	503.780	512.770	Ye_Sheng_Kang	male	native	等于说原先--原先跟别人签定的一种交货啊，合同啊都马上要进行去提货。	3	30	75	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	503.780	512.770	speaker#1	female	native	嗯。	3	30	76	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	512.770	526.353	Ye_Sheng_Kang	male	native	在这个时候我们确实犯难，如果说把这笔钱挪用到那边去，势必会给我们的生产造来影响，不能按时的提货，这个材原材料不能按时提货。	3	30	77	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	512.770	526.353	speaker#1	female	native	嗯。	3	30	78	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	526.353	533.228	Ye_Sheng_Kang	male	native	不能按时提货，我们的客户都在这里等-等着要这批货，要交-交给他们。	3	31	79	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	533.228	545.255	Ye_Sheng_Kang	male	native	所以说，不能按时提货，那么我们生产，我们的产品不能按时交货，那么会势必给客户带来一个很大的一种影响。	3	31	80	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	545.255	552.705	Ye_Sheng_Kang	male	native	因为人家是上工程，我们那个产品都是工程配套的，他是他几月几号投产都-都有规定的。	3	31	81	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	552.705	562.534	Ye_Sheng_Kang	male	native	那么我们这个产品况且都是个末端产品，他装上去可能就马上就能一种投产，所以这个时候我们确实很犯难。	3	31	82	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	562.534	569.560	speaker#2	male	native	丁晋鹏，公司财务经理，对于余兵的遭遇他深表同情。	3	32	83	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	569.560	580.013	speaker#2	male	native	但是，全公司上下的集体利益，又让他不得不考虑建议叶总是否要做出一个现实而又残酷的决定。	3	32	84	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	580.013	590.625	Ding_Jin_Peng	male	native	我是说，呃就是因为呃如果说因为一个人的余兵一个人的事情啊，如果说拖累了大家，毕竟企业是啊社会的。	3	33	85	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	590.625	599.232	Ding_Jin_Peng	male	native	如果说呃不是因为企业当中不是他一个人吃饭，而是还有啊两百来号的这个员工吃饭。	3	33	86	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	599.232	608.486	Ding_Jin_Peng	male	native	所以说如果因为一个人而这个让大家两百人没饭吃，我说这也是啊也-也是一种矛盾的。	3	33	87	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	608.486	611.877	speaker#2	male	native	一边是挽救一个年轻的生命。	3	34	88	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	611.877	618.955	speaker#2	male	native	一边是十年打拼创下的公司信誉，还有全公司两百多号员工的利益。	3	34	89	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	618.955	621.002	speaker#2	male	native	究竟该怎么办。	3	34	90	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	621.002	626.801	speaker#2	male	native	叶胜康又会做出怎样艰难的决定。	3	34	91	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	626.801	636.912	Ye_Sheng_Kang	male	native	那么后来我们想一想，作为这件事情来说，那人的生命是不能拖延的。	3	35	92	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	636.912	643.316	Ye_Sheng_Kang	male	native	如果我把这笔钱不交不用在他身上，他可能就明天就没命。	3	35	93	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	643.316	654.082	Ye_Sheng_Kang	male	native	但是这笔损失 (()) 无论是经济上的损失，或者是信誉上的损失，那么我想或许都会补上来的。	3	35	94	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	654.082	661.728	Ye_Sheng_Kang	male	native	通过我们另外一个努力，通过另外的方式，我想客户也能够得到--得到一些理解。	3	35	95	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	661.728	671.533	Ye_Sheng_Kang	male	native	啊所以我们当场就决定还是不论怎么样有多少困难，那么也先以救人为主。	3	35	96	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	671.533	679.176	speaker#1	female	native	从这里，从这里我们也能够看得出叶总救人的这个决心。	3	36	97	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	679.176	685.315	speaker#1	female	native	当时一门心思就想把余兵的病救好，因为生命不能拖延。	3	36	98	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	685.315	694.809	speaker#2	male	native	一个普通的工人受伤，一个民营企业的老总拍板要负责到底。	3	37	99	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	694.809	700.678	speaker#2	male	native	事情发展到这一步，也许是让所有人都觉得比较圆满的了。	3	37	100	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	700.678	706.545	speaker#2	male	native	可是，就在这个时候，一件大大出乎人们意料的事情发生了。	3	37	101	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	706.545	710.827	speaker#2	male	native	被救者余兵竟突然要放弃治疗。	3	37	102	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	710.827	725.744	Yu_Bing	male	native	因为那时候在医院治光治不见好，人呢被折磨的不像样， {sneeze} 我自己悄悄跟叶总，我说不治了，我说不治了，我吃不消。	3	38	103	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	725.744	735.707	speaker#2	male	native	由于病情一直无法得到控制，余兵当时在医院腹腔一直是打开的，并且每天持续高烧四十多度。	3	39	104	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	735.707	742.624	speaker#2	male	native	身体上难以承受的痛苦，把这个原本开朗的小伙子折磨的不成人形。	3	39	105	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	742.624	752.125	speaker#2	male	native	还有公司的巨额投入，以及渺茫的治愈希望，这些都让病痛中的他产生了很大的心理负担。	3	39	106	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	752.125	763.431	Yu_Bing	male	native	一天到两天在那里住，十万块钱两三天，后来十万块钱一个礼拜左右没有，十万块钱一个礼拜左右没有，我就跟叶总讲我说不治了，这样钱花下去不一定治得好。	3	40	107	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	763.431	768.105	Yu_Bing	male	native	另外我自己也实在不想治了。	3	40	108	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	768.105	772.620	speaker#1	female	native	当时余兵是什么样的一个情况跟你说这件事的时候。	3	41	109	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	772.620	790.450	Ye_Sheng_Kang	male	native	我进入他的病房的时候，他这个心情非常的一种--一种郁闷，非常的一种 {sneeze}呃压抑，那么他就是有一种 {sneeze} 的一种心情，叫他的家人离开，到房间外面去。	3	42	110	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	772.620	790.450	speaker#1	female	native	嗯，嗯，嗯，嗯。	3	42	111	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	790.450	801.801	Ye_Sheng_Kang	male	native	他就是握住我紧握住我的手，眼泪两眼都哗哗哗就下来，就 {lipsmack} 他说，叶-叶总我不想治了，我想放弃这个治疗。	3	43	112	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	801.801	810.708	Ye_Sheng_Kang	male	native	那么所以说他当他说-说到这个放弃治疗的时候， {sneeze} 那个时候我也无形当中这我的眼泪也下来了。	3	43	113	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	810.708	819.808	Ye_Sheng_Kang	male	native	哦，我就马上打断他的话，哟我也不问他为什么，我说这个是不行的，这个 --	3	43	114	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	819.808	825.523	Ye_Sheng_Kang	male	native	现在是放到这么程度，医到这-这么程度，你绝对不能放弃治疗。	3	43	115	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	825.523	840.897	Ye_Sheng_Kang	male	native	那么至于你钱的问题你不-不需要任何考虑，啊公司我们无论花多少钱，我一定会把你治好的，是啊我们公司无论有多少困难，我们一定会给你治好。	3	43	116	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	840.897	845.941	Ye_Sheng_Kang	male	native	但是这种痛苦呢，我说我们是没法给你承担。	3	43	117	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	845.941	857.740	Ye_Sheng_Kang	male	native	但是你要坚定你的一种信心，那么你的生命要-要对你的家人，对你的子女，包括你的父母要负责人。	3	43	118	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	857.740	860.054	Ye_Sheng_Kang	male	native	如果没有你，我说你这个家也完了。	3	43	119	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	860.054	865.946	Ye_Sheng_Kang	male	native	所以说，我希望你要坚强起来，啊我们会尽力配合你治疗。	3	43	120	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	865.946	868.097	Ye_Sheng_Kang	male	native	啊，哎就这么劝他。	3	44	121	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	865.946	868.097	speaker#1	female	native	你当时就这样劝他的是吗。	3	44	122	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	868.097	874.853	Ye_Sheng_Kang	male	native	劝过他-他就是心里就是就马上就缓和了，马上缓和了。	3	44	123	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	868.097	874.853	speaker#1	female	native	那劝过以后他有什么反应呢，嗯。	3	44	124	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	874.853	882.341	Ye_Sheng_Kang	male	native	那么我们回来以后呢，实-实际上我带着一种非常沉重的一种包袱回到公司。	3	44	125	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	874.853	882.341	speaker#1	female	native	嗯，嗯。	3	44	126	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	882.341	894.064	Ye_Sheng_Kang	male	native	我说他有他到底是怎么样，是不是痛苦的受不了，还是什么原因，我们怕他这个 {sneeze} 会自杀，受不了的话自杀，或者有其他原因。	3	44	127	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	882.341	894.064	speaker#1	female	native	嗯，嗯。	3	44	128	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	894.064	903.635	Ye_Sheng_Kang	male	native	因为他想放弃这个治疗，那么我回来马上在公司里召集这个--这个会议，啊把部门经理叫过来，把这个现象告诉他。	3	44	129	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	894.064	903.635	speaker#1	female	native	嗯，	3	44	130	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	903.635	915.134	Ye_Sheng_Kang	male	native	那么传达这个信息，然后马上我们做出这个决定， {sneeze} 啊呃第一个就是派几名员工守着他。	3	44	131	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	903.635	915.134	speaker#1	female	native		3	44	132	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	915.134	922.661	Ye_Sheng_Kang	male	native	一方面就是跟他交沟通交流，然后跟他沟通思想哦，通过这种缓解他的情绪。	3	44	133	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	915.134	922.661	speaker#1	female	native	嗯，嗯。	3	44	134	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	922.661	931.962	Ye_Sheng_Kang	male	native	另一方面就是能够守着他，防止他跳下去，我也就麻烦，因为他住的，哎对，是八楼，万一跳下去 (())。	3	44	135	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	922.661	931.962	speaker#1	female	native	哦防止他做傻事，嗯，嗯。	3	44	136	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	931.962	947.540	Ye_Sheng_Kang	male	native	第二个方面我们就是，第二天就是我们把公司，就是他第一季度他有个质量奖，他的这个员工是非常不错的做的，他叫我每-每个季度有个质量评比奖。	3	44	137	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	931.962	947.540	speaker#1	female	native	嗯，嗯。	3	44	138	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	947.540	953.756	Ye_Sheng_Kang	male	native	那么我们每年还有个人才激励奖，刚好是在那个时候发的，人才激励奖。	3	44	139	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	947.540	953.756	speaker#1	female	native	嗯，嗯。	3	44	140	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	953.756	968.340	Ye_Sheng_Kang	male	native	那么就还 (()) 他有个优秀--优秀班组奖，对等于说合并起来啊证书啊，奖金啊，那么就是我们叫 (()) 工会，啊大家把送这-这个呃送给他。	3	44	141	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	953.756	968.340	speaker#1	female	native	嗯。	3	44	142	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	968.340	976.566	Ye_Sheng_Kang	male	native	就是以此就唤起他生命的希望了，让他感觉到活得，我生命还有一种价值，对。	3	44	143	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	968.340	976.566	speaker#1	female	native	有价值，嗯。	3	44	144	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	976.566	984.185	Ye_Sheng_Kang	male	native	那么另-另外给我再鼓励我们的员工，我说你这段时间大家多去看他，多买点鲜花或者什么去看他。	3	44	145	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	976.566	984.185	speaker#1	female	native	嗯。	3	44	146	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	984.185	988.316	Ye_Sheng_Kang	male	native	我们在那个时候可能那几天确实去了不少人。	3	44	147	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	984.185	988.316	speaker#1	female	native		3	44	148	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	988.316	994.802	Ye_Sheng_Kang	male	native	那么大家就感化起他是一种生-生命的一种信心是吧。	3	44	149	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	988.316	994.802	speaker#1	female	native	嗯。	3	44	150	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	994.802	1007.458	Ye_Sheng_Kang	male	native	呃再一个呢就是我们马上打电话叫他的家里人，就说把他的孩-孩俩他们夫妻有两个孩子嘛，我说接过来让他们看。	3	44	151	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	994.802	1007.458	speaker#1	female	native	两个孩子，嗯，你是在这个 --	3	44	152	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1007.458	1015.795	Ye_Sheng_Kang	male	native	他是在家里，老家在泗阳嘛，在上学，我就叫他们把他接过来，接过来就是让他父亲看看。	3	44	153	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1007.458	1015.795	speaker#1	female	native	在泗阳上学是吗，嗯。	3	44	154	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1015.795	1022.165	Ye_Sheng_Kang	male	native	因为他看到他，等他看到子女的时候，肯定会他觉得一定要为这两个子女负责。	3	44	155	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1015.795	1022.165	speaker#1	female	native		3	44	156	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1022.165	1033.394	Ye_Sheng_Kang	male	native	所以说我-我们就做了这个决定，他后来他就 {sneeze} 就是对自己一种生命有活下去的信心，就有了。	3	44	157	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1022.165	1033.394	speaker#1	female	native	嗯，嗯。	3	44	158	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1033.394	1043.015	speaker#1	female	native	看来啊，这个叶总呢对余兵真的是用心良苦，煞费苦心的安排了这一切，那余兵能回心转意吗。	3	45	159	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1043.015	1047.611	Yu_Bing	male	native	我讲过这事情，从第二天我发现厂里面的人不断。	3	46	160	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1047.611	1062.773	Yu_Bing	male	native	就以前的同事也好，什么的什么领厂里领导也好，那是基本上不断的。	3	46	161	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1062.773	1071.586	Yu_Bing	male	native	从检查室出来时候，我的儿子，女儿到跟前，那时候我比较激动的，我看见小孩眼泪就流下来了。	3	46	162	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1071.586	1088.040	Yu_Bing	male	native	也不知道怎么说好，小孩子在跟前那种感觉 {sneeze}。	3	46	163	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1088.040	1097.883	Yu_Bing	male	native	那时候我在想呢，这么多人费这么多心，如果你再一天到晚自暴自弃，那就没意思了是吧。	3	46	164	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1097.883	1118.253	Yu_Bing	male	native	人家是为什么，是为我好，一切配-配合医生治疗，一切配合医生治疗，配合厂里，一切事情 (())。	3	46	165	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1118.253	1125.389	speaker#2	male	native	一个普通的工人受伤，一个民营企业的老总竟拍板负责到底。	3	47	166	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1125.389	1130.982	speaker#2	male	native	仗义老板百万巨资拯救一个垂危打工仔的生命。	3	47	167	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1130.982	1133.687	Ye_Sheng_Kang	male	native	那个是人的良心。	3	48	168	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1133.687	1139.453	speaker#2	male	native	一共工商事故，引发一段荡即回肠的真情故事。	3	49	169	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1139.453	1143.860	speaker#2	male	native	敬请关注家人，危情时刻。	3	49	170	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1143.860	1155.580	speaker#2	male	native	经济上，心理上的负担都解决之后，剩下的也是最关键的就是治疗了。	3	50	171	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1155.580	1162.954	speaker#2	male	native	在温州一院没有起色，叶总就托朋友四处打听全国治疗肠瘘最好的医院。	3	50	172	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1162.954	1167.871	speaker#2	male	native	最后得知，南京军区总医院是这一方面的权威。	3	50	173	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1167.871	1173.935	speaker#2	male	native	叶总花了一万多元租了一辆救护车，请了一名医生全程陪护。	3	50	174	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1173.935	1179.013	speaker#2	male	native	又派出公司一名员工专程负责余兵在南京的治疗事宜。	3	50	175	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1179.013	1185.934	speaker#2	male	native	这样一行人才匆匆赶往南京军区总医院。	3	50	176	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1185.934	1193.018					4	51	177	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	1193.018	1200.972	speaker#2	male	native	二零零五年六月九日，余兵被紧急送入了南京军区总医院的重症监护病房。	5	52	178	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1200.972	1210.511					6	53	179	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	1210.511	1214.527	speaker#2	male	native	余兵当时的主治医生是任建安教授。	7	54	180	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1214.527	1221.201	speaker#2	male	native	任教授是南京军区总医院的主任医师，也是全国治疗肠瘘的权威专家。	7	54	181	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1221.201	1227.561	speaker#2	male	native	当他得知这位患者和老板之间背后的故事时，他相当震惊。	7	54	182	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1227.561	1234.250	Ren_Jian_AN	male	native	这样的病人很多，所以我们有时候讲，民工受了伤，老板把他送到医院，老板就消失了。	7	55	183	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1234.250	1238.438	Ren_Jian_AN	male	native	我说有这种可能吗，他有这个实力，但他有没有这个心呢。	7	55	184	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1238.438	1247.361	Ren_Jian_AN	male	native	呃能不能真正的为他的职工出这几十万呢，因为他这个职工可能这一辈子也不能给他创造这么高的价值，所以还不是太相信。	7	55	185	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1247.361	1256.122	Ye_Sheng_Kang	male	native	每次的用钱哦我们都会给他一种信号，就是我们基本上看都不看就把字签了。	7	56	186	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1247.361	1256.122	speaker#1	female	native	嗯。	7	56	187	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1256.122	1267.544	Ye_Sheng_Kang	male	native	嗯，对签了，因为就是我们就是不会告诉别人这是我对他的治疗没有犹豫的。	7	56	188	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1256.122	1267.544	speaker#1	female	native	就是如果医疗费来了之后，你看都不看就签了，嗯。	7	56	189	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1267.544	1278.338	Ye_Sheng_Kang	male	native	后来就是我-我就是告诉这个那边我们的财务经理，我说你就是只要医院申请要-要用钱，我们马上把钱打过去。	7	56	190	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1267.544	1278.338	speaker#1	female	native		7	56	191	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1278.338	1296.161	Ye_Sheng_Kang	male	native	哎对，哎-哎-哎对，这也就是我们证实了因为我们对让告诉任何人就说我们对他治疗一种没有犹豫的。	7	56	192	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1278.338	1296.161	speaker#1	female	native	就甚至说都不需要你签字，直接就可以给医院汇钱了，嗯。	7	56	193	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1296.161	1300.603	speaker#2	male	native	医院也被叶胜康的行为打动了。	7	57	194	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1300.603	1309.634	speaker#2	male	native	当即决定，由中国工程院院士已经八十二岁高龄的黎价寿教授亲自为余兵主刀。	7	57	195	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1309.634	1315.914	Li_Jie_Shou	male	native	作为他的老板希望他存活，我们也希望他能够很好的活下去。	7	58	196	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1315.914	1324.552	Li_Jie_Shou	male	native	所以在这种 精神的鼓舞之下呢，大家以最好的力量来解决他的最大的困难。	7	58	197	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1324.552	1335.550	Ren_Jian_AN	male	native	黎教授院士这么著名的专家，他也很感动，他就跟我说，像这样的好人，我们就应该鼓励他，啊他这样做善事，我们就要帮他这个心愿完成。	7	59	198	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1335.550	1341.995	Ren_Jian_AN	male	native	所以后来呢，他专门跟我一起反反复复研究手术方案，哎希望能够一次手术成功。	7	59	199	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1341.995	1359.816	Li_Jie_Shou	male	native	呃作为我来讲呢，是这个科里头最老的，经验多一些，所以上去呢跟他们一起做，就希望能够手术做成功，恢复得很好，这样对这个年轻人来讲，这是给了他的第二次生命。	7	60	200	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1359.816	1386.902					8	61	201	nontrans	
+ANHUI_FAMILY_CMN_20060523_223042	0	1386.902	1398.275	Ren_Jian_AN	male	native	总是希望说好事嘛，希望他更好是吧，把这些美好的事情，善良的事情都给它发挥起来。	9	62	202	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1398.275	1408.951	speaker#1	female	native	喂，你好是余兵吗，我们现在是在节目录制现场，呃想问一下你现在的身体怎么样啊？	9	63	203	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1398.275	1408.951	Yu_Bing	male	native	你好，对。	9	63	204	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1408.951	1412.853	speaker#1	female	native	嗯，挺好的是吗，嗯。	9	63	205	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1408.951	1412.853	Yu_Bing	male	native	我现在身体恢复的可以，对。	9	63	206	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1412.853	1416.540	speaker#1	female	native	嗯。	9	63	207	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1412.853	1416.540	Yu_Bing	male	native	就是呢希望自己身体好得快一点，早一点回到厂里面。	9	63	208	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1416.540	1422.910	speaker#1	female	native	嗯。	9	63	209	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1416.540	1422.910	Yu_Bing	male	native	怎么说呢，比如说报答吧，也感觉不---感觉不到说什么报答，只是说早一点为厂里面服务吧。	9	63	210	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1422.910	1428.161	Ye_Sheng_Kang	male	native	呃我们公司全体员工都是非常想念你。	9	64	211	report	
+ANHUI_FAMILY_CMN_20060523_223042	0	1428.161	1485.558					10	65	212	nontrans	

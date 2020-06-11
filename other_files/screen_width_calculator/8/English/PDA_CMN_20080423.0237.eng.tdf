@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0237.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Survey Indicates Bible Most Popular Book in US	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008.	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	(People.com.cn) April 23. According to the most recent 2008 Harris Poll, the Bible remains the most popular book among American adults.	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The researchers said that to have such a concordance of viewpoint in the US regardless of sex, age, education, geographical location, race and age is extremely rare.	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	Still, in the online opinion poll, most Americans concurred that the Bible is their favorite book.	0	0	0		statement
+PDA_CMN_20080423.0237.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	The poll also revealed that political ties do not influence people's fondness for books--Republicans, Democrats and independants all feel similarly that the Bible and Gone with the Wind are their two favorite books.(Hu Qin)	0	0	0		statement

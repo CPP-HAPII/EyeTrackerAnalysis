@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 170.98500000000001, 222.917, 236.053, 444.52300000000002, 474.70699999999999, 610.952, 646.65899999999999, 705.77300000000002, 723.05600000000004, 853.66099999999994, 934.52200000000005, 944.85199999999998, 960.44100000000003, 1102.9659999999999, 1185.248, 1209.78, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080408_123801	0	346.889	354.124	speaker#6	male	native	我是很对她很负责的,可以这么讲,为什么很对她 (()) ,我觉得苗头不对,我马上就到医院去	3	14	21	report	statement
+CCTV1_LEGALREPORT_CMN_20080408_123801	0	444.523	466.588	speaker#9	female	native	(()) 就站在这,看这一排书,嗯,砸到这边来了	4	20	30	filler	statement
+CCTV1_LEGALREPORT_CMN_20080408_123801	0	466.588	474.707	speaker#10	male	native	这个她是身体的肋骨－－肋骨,这个部分,对,整个的这么一侧 (())	4	21	31	filler	statement
+CCTV1_LEGALREPORT_CMN_20080408_123801	0	487.629	495.058	speaker#10	male	native	(()) 因为这个从四楼这么高的高度,一个这么成年人掉下来这个力量是很大的	5	23	34	report	statement

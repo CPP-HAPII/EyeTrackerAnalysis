@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0815.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	中国女子公路自行车奥运会有望带来惊喜	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 20:55:38   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	900.000	950.000	TEXT1	unknown	unkown	新华社上海４月２９日奥运专电（记者刘宁）２００８年都邦保险杯环崇明岛女子国际公路自行车赛２９日落幕，中国选手包揽全部两个项目的前三名。	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	这一成绩并没有让带队参赛的南非教练艾・彼得森感到惊讶，他说：“中国女子公路车近年来进步神速，有望在北京奥运会上带来惊喜。”	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	彼得森在赛后的新闻发布会上说：“从上世纪８０年代开始我就带队伍到亚洲和其他地方比赛，那时候很少在国际赛场上看到中国队的身影。	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	现在情况不一样了，我们几乎在每站比赛都能看到他们。”	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	在彼得森看来，中国选手取得的成绩同中国香港捷安特队教练沈金康是分不开的。	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	“沈（金康）是位非常优秀的教练，在他的带领下，中国选手进步很快，学会了进攻。	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	她们比赛中总是利用队员的配合找准时机进攻、进攻、再进攻，把我们队员拖垮”。	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	按照国际自行车联盟的规定，排名世界前１６名的队伍将拥有３个奥运会参赛名额。	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	彼得森介绍说，目前南非队紧紧跟随中国队，排在第１６位。	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	“我希望我们两个队都有３名队员去参加奥运会，当然我希望获胜的是我们的队员，”彼得森笑着说。（完）	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	2008/04/29 19:44	0	0	0		statement

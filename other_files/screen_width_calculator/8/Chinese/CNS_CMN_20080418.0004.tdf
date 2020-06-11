@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	刘虹成为“鸟巢”揭幕以来产生的第一位中国冠军	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18日 21:00 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新社北京四月十八日电 ((记者 周兆军))	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	950.000	975.000	TEXT1	unknown	unkown	在今天下午进行的“好运北京”国际田联竞走挑战赛女子二十公里竞走比赛中，中国选手包揽了比赛的前三名。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	一向表现稳定的刘虹以一小时二十九分三十三秒的成绩夺得冠军，她也成为“鸟巢”揭幕以来产生的第一位中国冠军。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	上午进行的男子二十公里竞走比赛，中国选手表现欠佳，仅收获一枚银牌。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	下午，中国姑娘们没有让顶着烈日前来助威的北京市民再次失望，一举将金、银、铜牌全部收入囊中。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	比赛一开始就成了中国运动员之间的“内战”。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	鸣枪后，国家集训队的一百二十五号柏丽敏采取了先行战术，但在走出“鸟巢”上了景观大道后，她由于吃到黄牌不得不压住步伐而逐渐落后。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	来自陕西的孙丽敏开始领走，她和蒋秋燕、刘虹、姜静、杨明霞等人形成了第一集团。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	第一集团的运动员们在十四公里处进行补水，随后突然加速，年轻的杨明霞和队友蒋秋燕配合走在前面，不过大赛经验丰富的刘虹很快就跟上了她们的步伐。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	此时，孙丽敏因体能不足退出了比赛。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	不久后，来自重庆队的石阳、杨亚伟追了上来，场面变成了两对重庆选手和杨明霞、刘虹之间的竞争，其他人则被甩在了后面。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	进入冲刺阶段，一直采取跟随战术的刘虹脱颖而出，走在了最前头，并最终率先抵达终点。	0	0	0		statement
+CNS_CMN_20080418.0004.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	杨亚伟以微弱劣势屈居亚军，石阳则获得一枚铜牌。	0	0	0		statement

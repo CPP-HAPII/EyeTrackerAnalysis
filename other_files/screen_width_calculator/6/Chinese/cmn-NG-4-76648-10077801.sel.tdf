@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76648-10077801	0	0.0	100.0	speaker	unknown	unknown	做软陶共需要些什么呢?	0	0	0		

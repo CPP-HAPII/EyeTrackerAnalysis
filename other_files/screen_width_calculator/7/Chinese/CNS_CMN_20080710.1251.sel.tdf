@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.1251	0	300.0	400.0	speaker	unknown	unknown	会议透露，仅二OO七年中国就已关停造纸企业一千一百二十家。	0	0	0		
+CNS_CMN_20080710.1251	0	1000.0	1100.0	speaker	unknown	unknown	将三湖(太湖、巢湖、滇池)以及七湖库(三峡库区、小浪底库区、丹江口库区、洪泽湖、鄱阳湖、洞庭湖和洱海)等重点湖库，以及国家确定的淮河、辽河、海河、松花江等重点流域作为污染防控的重点。	0	0	0		

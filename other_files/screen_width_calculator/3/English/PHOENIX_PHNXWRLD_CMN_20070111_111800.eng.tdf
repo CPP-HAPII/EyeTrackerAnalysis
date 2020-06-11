@@ -1,0 +1,417 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 157.65199999999999, 350.80599999999998, 1157.55, 1318.2539999999999, 1648.204, 9999999.0]
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	157.652	160.793	Sa_wen	male	native	This is Phoenix World Watch. Have a good grip on fantastic turns of current events! Tap views from all sources.	1	1	1	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	160.793	165.149	Sa_wen	male	native	Greetings everybody! We often say it's already too late mending the fence after your sheep are already lost. But, others might disagree.	1	1	2	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	165.149	167.043	Sa_wen	male	native	Of course, he is at the center of controversy.	1	1	3	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	167.043	169.418	Sa_wen	male	native	Some say he is firm and tenacious. Others say he is a daredevil,	1	1	4	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	169.418	171.215	Sa_wen	male	native	even one afflicted by daydreaming.	1	1	5	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	171.215	173.231	Sa_wen	male	native	Yes. he is American President Bush.	1	1	6	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	173.231	175.356	Sa_wen	male	native	His plan to send more troops to Iraq is now made public.	1	1	7	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	175.356	179.716	Sa_wen	male	native	Bush bets all his chips on one throw, risking a battle on the Capitol Hill in Washington,	1	1	8	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	179.716	182.107	Sa_wen	male	native	and, at the same time, risking a test on the patience of the American people.	1	1	9	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	182.107	185.372	Sa_wen	male	native	The end result is a medicinal plaster on a large wound.	1	1	10	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	185.372	189.528	Sa_wen	male	native	After three years of preparations, Bush still day-dreams of winning a pre-determined losing war.	1	1	11	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	189.528	191.872	Sa_wen	male	native	Criticism of all kinds is loud, widespread and never ending.	1	1	12	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	191.872	196.122	Sa_wen	male	native	Critics attack Bush for his wishful reinforcement decision that makes Iraq his personal battlefield.	1	1	13	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	196.122	197.497	Sa_wen	male	native	How do the Iraqi people think?	1	1	14	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	197.497	201.606	Sa_wen	male	native	Tonight, on our Double Fortune Phoenix Global Watch, we are extending telephone linkages to individuals in Iraq.	1	1	15	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	201.606	206.325	Sa_wen	male	native	We have reached Riad Alzabi to hear what the Iraqi people are thinking about the new Bush policy.	1	1	16	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	206.325	211.715	Sa_wen	male	native	At the same time, in Washington, we will be talking with Mr. Lin Changsheng, Researcher of the Claremont Institute, U.S.A.	1	1	17	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	211.715	215.684	Sa_wen	male	native	in Shanghai, with Mr. Zhu Weilie of the Middle East Institute of Shanghai Foreign Language University,	1	1	18	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	215.684	218.559	Sa_wen	male	native	to analyze in depth, for you, the new Bush policy on Iraq.	1	1	19	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	218.559	222.841	Sa_wen	male	native	How will the policy affect Iraq, America and even the development in the world?	1	1	20	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	222.841	225.482	Sa_wen	male	native	Let's first turn to the top news item of the day.	1	1	21	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	225.482	228.185	Sa_wen	male	native	Since American forces occupied Baghdad early in 2003,	1	1	22	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	228.185	231.276	Sa_wen	male	native	the Bush government has put forth new Iraq policies several times in its effort to stabilize the political situation.	1	1	23	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	231.276	233.932	Sa_wen	male	native	But, none of them could free the U.S. forces from the quagmire in Iraq.	1	1	24	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	233.932	237.260	Sa_wen	male	native	On the contrary, situation there has become increasingly tumultuous.	1	1	25	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	237.260	240.010	Sa_wen	male	native	And in America, domestic anti-war sentiments surge ever higher and louder.	1	1	26	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	240.010	243.229	Sa_wen	male	native	On January 10, Bush again made a 20-minute television speech to a national audience.	1	1	27	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	243.229	244.807	Sa_wen	male	native	He brought forth a new plan to reinforce U.S. troops in Iraq.	1	1	28	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	244.807	248.713	Sa_wen	male	native	At the same time, he also warned Iran and Syria against interfering in Iraq.	1	1	29	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	250.338	257.947	speaker#1	male	native	In the evening prime time on January 10, U.S. President Bush, after several months' of deliberation and rumination put forth his new Iraq policy in a TV address.	1	2	31	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	257.947	260.056	speaker#1	male	native	Measures freshly announced in the new policy	1	2	32	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	260.056	264.806	speaker#1	male	native	include dispatching 21,500 American troops to Iraq before the end of February.	1	2	33	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	264.806	269.743	speaker#1	male	native	Of them, 17,500 are to be stationed in Baghdad, the most strife-ridden part of the country.	1	2	34	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	269.743	271.915	speaker#1	male	native	where 80 percent of the troubles take place.	1	2	35	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	271.915	276.181	speaker#1	male	native	The remaining 4,000 will be sent to the Anbar Province where sectarian violence presents its ugliest face.	1	2	36	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	276.181	280.900	speaker#1	male	native	And more aircraft carrier groups and Patriot guided missiles are to be sent to the Middle East.	1	2	37	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	280.900	284.071	speaker#1	male	native	In addition, 6.8 billion U.S. dollars are to be allocated from a supplementary budget	1	2	38	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	284.071	289.102	speaker#1	male	native	of which 5.6 billion goes to the dispatching of reinforcement and 1.2 billion for the reconstruction of the Iraqi economy.	1	2	39	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	289.102	290.727	speaker#1	male	native	It is a multi-faceted program.	1	2	40	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	291.290	294.633	speaker#1	male	native	The U.S. Iraq Study Group issued not long ago (()) its report	1	2	42	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	294.633	297.086	speaker#1	male	native	strongly urging that Bush pull troops out of Iraq as early as possible.	1	2	43	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	297.086	299.476	speaker#1	male	native	And Bush did comment on it this way: Eh, I'll consider, consider.	1	2	44	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	299.476	303.460	speaker#1	male	native	But, this latest television address is old wine in a new bottle, and old medicine with a new chaser.	1	2	45	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	303.460	305.491	speaker#1	male	native	It brought out strong opposition from the Democrats.	1	2	46	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	305.491	317.618	speaker#2	female	native	(())	1	3	47	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	317.618	321.352	speaker#1	male	native	At present, there are about 132,000 American soldiers in Iraq.	1	4	48	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	321.352	324.415	speaker#1	male	native	After reinforcement arrived, the total will reach 153,500 which	1	4	49	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	324.415	327.556	speaker#1	male	native	is only next to the peak of 160,000 reached one year ago.	1	4	50	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	327.556	330.775	speaker#1	male	native	Australian Prime Minister Howard gave strong support to the new Bush strategy,	1	4	51	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	330.775	333.291	speaker#1	male	native	but he will not follow the American example and send more troops to Iraq.	1	4	52	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	333.291	335.916	speaker#1	male	native	Bush's old friend, British Prime Minister Blair also said	1	4	53	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	335.916	340.541	speaker#1	male	native	that Basra, Iraq, which is under British control, stays stable and needs no reinforcement.	1	4	54	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	340.541	343.681	speaker#1	male	native	After three years of engagement, 400 billion American dollars,	1	4	55	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	343.681	346.540	speaker#1	male	native	and battlefield casualties of more than 3000 --	1	4	56	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	346.540	349.493	speaker#1	male	native	Bush is left deep down in the quagmire of Iraq, struggling desperately to get out.	1	4	57	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	350.806	354.509	Sa_wen	male	native	Then, how do people react to the Bush policy of sending new reinforcement to Iraq?	2	5	59	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	354.509	356.650	Sa_wen	male	native	Up to the present, the Iraq government has expressed welcome.	2	5	60	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	356.650	361.838	Sa_wen	male	native	But the reactions we heard from the Iraqi people are on two extremes.	2	5	61	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	361.838	368.884	Sa_wen	male	native	Among them, now we have Mr. Riad Alzabi from Iraq.	2	5	62	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	368.884	370.869	Sa_wen	male	native	(())	2	5	63	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	373.494	375.634	Sa_wen	male	native	(())	2	5	65	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	377.478	380.068	Sa_wen	male	native	(())	2	5	67	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	380.068	381.131	speaker#3	male	native	(())	2	6	68	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	381.131	383.053	Sa_wen	male	native	(())	2	7	69	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	383.053	384.724	speaker#4	female	native	I bid you hearty welcome for coming to our program.	2	8	70	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	384.724	390.365	speaker#4	female	native	Some people say reinforcement to Iraq will not end the Iraqi problem.	2	8	71	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	390.365	392.772	speaker#4	female	native	On the contrary, it will lead to more bloodletting.	2	8	72	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	392.772	394.241	speaker#4	female	native	What is your view?	2	8	73	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	397.344	398.552	speaker#4	female	native	I believe,	2	8	75	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	398.552	401.531	speaker#3	male	native	(())	2	9	76	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	401.531	403.829	speaker#4	female	native	it will improve the situation.	2	10	77	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	403.829	405.657	speaker#4	female	native	But the problem is a complex one.	2	10	78	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	405.657	408.954	speaker#4	female	native	Hence, reinforcement will not be the final step.	2	10	79	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	408.954	412.306	Sa_wen	male	native	(())	2	11	80	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	412.306	421.415	speaker#4	female	native	Most Iraqi people think strife between Shiites and Sunnis will continue.	2	12	81	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	421.415	423.652	Sa_wen	male	native	(())	2	13	82	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	423.652	427.105	speaker#4	female	native	The government will take certain responsibility for this,	2	14	83	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	427.105	430.933	speaker#4	female	native	for the government is also riven with sectarian strife.	2	14	84	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	430.933	432.714	speaker#4	female	native	Do you agree with this view?	2	14	85	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	432.714	437.033	speaker#3	male	native	(())	2	15	86	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	437.033	449.267	speaker#4	female	native	I believe the government is, in its basic character and in its make-up, a sectarian government.	2	16	87	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	449.267	458.048	speaker#4	female	native	For it consists of many different political parties and religious sects.	2	16	88	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	458.048	461.966	speaker#3	male	native	(())	2	17	89	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	461.966	469.872	speaker#4	female	native	For instance, different departments of the government and the parliament, each has its own person in charge.	2	18	90	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	469.872	474.794	speaker#4	female	native	Each of them has his/her own interest. Among them coordination and adjustment is needed.	2	18	91	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	474.794	476.669	speaker#4	female	native	This is the basic character of a government.	2	18	92	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	476.669	478.044	Sa_wen	male	native	(())	2	19	93	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	478.044	480.700	speaker#4	female	native	Do most Iraqi people, including yourself,	2	20	94	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	480.700	483.173	speaker#4	female	native	consider that	2	20	95	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	483.173	485.528	Sa_wen	male	native	(())	2	21	96	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	485.528	487.653	speaker#4	female	native	American troops should leave Iraq?	2	22	97	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	487.653	489.918	speaker#4	female	native	Especially after Saddam was brought down.	2	22	98	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	489.918	492.386	speaker#3	male	native	(())	2	23	99	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	492.386	501.652	speaker#4	female	native	I think American troops, in fact, hope to leave Iraq as soon as possible.	2	24	100	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	501.652	507.011	speaker#4	female	native	But, many are their responsibilities.	2	24	101	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	508.065	512.080	speaker#4	female	native	The American government has also made numerous promises to Iraq,	2	24	103	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	512.080	516.690	speaker#4	female	native	hence, it must fulfill them before withdrawal.	2	24	104	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	517.320	520.382	speaker#4	female	native	You used the word "interfere" which is quite apt.	2	24	106	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	520.382	522.914	speaker#4	female	native	Now, I wish to ask a last question.	2	24	107	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	522.914	524.618	speaker#4	female	native	How is life in Iraq?	2	24	108	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	524.618	530.477	speaker#4	female	native	Worse than the time when Saddam was in power?	2	24	109	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	530.477	534.290	speaker#4	female	native	Or, worse than the time when America invaded?	2	24	110	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	534.290	536.899	speaker#4	female	native	I think it has gotten worse and is deteriorating.	2	24	111	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	538.993	541.571	speaker#4	female	native	This is the reason that many fled from their homestead.	2	24	113	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	543.384	546.603	speaker#4	female	native	Those who could, moved out to other countries.	2	24	115	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	546.603	550.498	speaker#3	male	native	(())	2	25	116	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	550.498	553.263	speaker#4	female	native	For instance, to other countries in the region.	2	26	117	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	553.263	556.639	speaker#3	male	native	(())	2	27	118	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	556.639	564.264	speaker#4	female	native	During Saddam's time, we could enjoy some services,	2	28	119	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	564.264	570.827	speaker#4	female	native	such as power and gas supply, water resources, etc.	2	28	120	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	570.827	573.515	speaker#4	female	native	and some health and medical care.	2	28	121	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	574.296	576.843	speaker#4	female	native	Naturally, also some educational services.	2	28	123	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	576.843	580.015	speaker#3	male	native	(())	2	29	124	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	580.015	584.583	speaker#4	female	native	In educational services, Iraq was by far a leader in the Arab world.	2	30	125	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	584.583	589.880	speaker#4	female	native	But today, educational services are very poor.	2	30	126	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	589.880	591.474	speaker#4	female	native	Very unfortunate, indeed.	2	30	127	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	591.474	594.584	Sa_wen	male	native	(())	2	31	128	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	594.584	595.959	Sa_wen	male	native	In fact, we saw today,	2	31	129	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	595.959	601.195	Sa_wen	male	native	even when Bush has decided to send more American troops to Iraq,	2	31	130	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	601.195	607.414	Sa_wen	male	native	more and more violent attacks flare up there day in and day out, including today.	2	31	131	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	607.414	609.836	Sa_wen	male	native	This leads many people, including Americans -- about 80 percent of the American people, according to one public opinion poll say,	2	31	132	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	609.836	617.758	Sa_wen	male	native	that this Bush policy is useless.	2	31	133	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	617.758	620.649	Sa_wen	male	native	Only about 17 percent say that it will serve some purpose.	2	31	134	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	620.649	623.993	Sa_wen	male	native	Is it somewhat too late, after all?	2	31	135	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	623.993	629.524	Sa_wen	male	native	Now, we have, from Shanghai, Director Zhu Weilie of the Middle East Studies Institute of Shanghai Foreign Languages University.	2	31	136	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	629.524	630.024	Sa_wen	male	native	Director Zhu	2	31	137	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	630.024	630.555	Sa_wen	male	native	How do you do?	2	32	138	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	630.024	630.555	Zhu_weilie	male	native	How are you?	2	32	139	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	630.555	631.274	Zhu_weilie	male	native	How are you?	2	33	140	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	631.274	635.457	Sa_wen	male	native	Yes. Do you think the Bush reinforcement plan is too late?	2	34	141	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	635.457	636.816	Sa_wen	male	native	Or, can things still be salvaged?	2	34	142	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	637.487	640.472	Zhu_weilie	male	native	You have just said that it is already too late to mend the fence after your sheep are lost.	2	35	144	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	640.472	640.878	Sa_wen	male	native	Uh.	2	36	145	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	640.878	645.159	Zhu_weilie	male	native	For the "wrong war," it is really too late.	2	37	146	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	645.159	649.627	Zhu_weilie	male	native	But, if we compare the reports of (()) and (())	2	37	147	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	649.627	654.018	Zhu_weilie	male	native	Then, I think I should say, this Bush talk is more realistic,	2	37	148	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	654.018	654.424	Sa_wen	male	native	Um.	2	38	149	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	654.424	657.218	Zhu_weilie	male	native	and more consistent, more consistent with logic.	2	39	150	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	657.846	660.143	Zhu_weilie	male	native	consistent with the logic of the Bush theories,	2	39	152	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	660.143	662.737	Zhu_weilie	male	native	also consistent with the logic of Bush's behavior and actions.	2	39	153	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	662.737	667.284	Zhu_weilie	male	native	In addition, it is also consistent with the logic of withdrawing troops that has been followed by America ever since Nixon's time.	2	39	154	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	667.284	670.018	Zhu_weilie	male	native	The basic premise is to withdraw with dignity,	2	39	155	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	670.596	675.780	Zhu_weilie	male	native	and consistent with the logic of all Sunni Arab countries around Iraq.	2	39	157	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	676.289	680.939	Zhu_weilie	male	native	Should America follow the (()) report and begin to pull troops out right away,	2	39	159	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	680.939	684.593	Zhu_weilie	male	native	that would shock and panic the countries around Iraq.	2	39	160	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	685.192	690.985	Zhu_weilie	male	native	Hence, I think, bringing more troops to Iraq this time should provide greater room for maneuver than immediate withdrawal of troops would,	2	39	162	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	690.985	691.719	Zhu_weilie	male	native	and should be viewed as something new and positive.	2	39	163	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	692.407	694.641	Sa_wen	male	native	Eh, the question, we (()) that is to say,	2	40	165	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	694.641	700.563	Sa_wen	male	native	This so-called Iraq Study Group presented to the Bush government a report containing more than 70 recommendations.	2	40	166	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	700.563	705.485	Sa_wen	male	native	One of the recommendations is, basically, withdrawing troops, hopefully in the year of 2008.	2	40	167	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	705.485	710.895	Sa_wen	male	native	But Bush said, doing that is not the way of winning the war.	2	40	168	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	710.895	715.645	Sa_wen	male	native	But only a way to save face,	2	40	169	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	715.645	718.348	Sa_wen	male	native	The question is: merely sending in more troops	2	40	170	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	718.348	721.707	Sa_wen	male	native	cannot solve the problem, some people say. They will keep up the bombing, the violence.	2	40	171	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	721.707	728.114	Sa_wen	male	native	The question is: By sending in more than 20 thousand troops, can the Americans really solve the problem of daily perennial attacks,	2	40	172	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	728.114	730.880	Sa_wen	male	native	and the problem of sectarian clashes between the Sunnis and the Shiites?	2	40	173	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	731.489	732.942	Zhu_weilie	male	native	Your second question	2	41	175	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	732.942	733.407	Zhu_weilie	male	native	is:	2	42	176	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	732.942	733.407	Sa_wen	male	native	Uh.	2	42	177	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	733.407	735.270	Zhu_weilie	male	native	Can troop reinforcement really make a difference?	2	43	178	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	735.270	735.645	Sa_wen	male	native	Uh.	2	44	179	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	735.645	739.130	Zhu_weilie	male	native	In connection with this point, I think, Bush did admit this time that he was wrong,	2	45	180	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	739.130	743.442	Zhu_weilie	male	native	and he also admitted that violence in Iraq will not cease right away,	2	45	181	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	743.442	747.926	Zhu_weilie	male	native	and death and injuries suffered by Americans and by the Iraqi people are not expected to diminish.	2	45	182	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	747.926	749.832	Zhu_weilie	male	native	Judging from the observations he made,	2	45	183	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	749.832	753.629	Zhu_weilie	male	native	I think Bush is paying attention to numerous imponderables.	2	45	184	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	754.192	760.161	Zhu_weilie	male	native	Now, about withdrawing troops at this time. Although we cannot say that it leads definitely to resolving the problems,	2	45	186	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	760.161	769.974	Zhu_weilie	male	native	at least, it could stabilize the present situation and let the Iraqi government take up the task of training and building the Iraqi forces,	2	45	187	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	769.974	775.567	Zhu_weilie	male	native	so that more can be done to ensure security and safeguard peace in Iraq.	2	45	188	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	775.567	779.989	Zhu_weilie	male	native	And I think it is good and advantageous to have the Iraqis assume the responsibility of guarding their own borders.	2	45	189	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	779.989	783.754	Sa_wen	male	native	Um. A little while ago, we also asked an Iraqi friend the question	2	46	190	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	783.754	788.770	Sa_wen	male	native	concerning the sectarian nature of the Iraqi government.	2	46	191	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	788.770	791.739	Sa_wen	male	native	The sectarian strife between the Shiites and the Sunnis	2	46	192	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	791.739	795.473	Sa_wen	male	native	has its roots in the nature of a sectarian government.	2	46	193	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	795.473	797.114	Sa_wen	male	native	Therefore, many people advance this argument:	2	46	194	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	797.114	799.567	Sa_wen	male	native	when you give the Iraqis more power,	2	46	195	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	799.567	802.035	Sa_wen	male	native	they could not solve this problem of sectarian strife at all.	2	46	196	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	802.035	807.963	Sa_wen	male	native	You have also mentioned this point, that Bush admitted he made some political mistakes, and he apologized.	2	46	197	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	807.963	809.885	Sa_wen	male	native	Let all of us hear how he said it.	2	46	198	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	811.542	831.328	Bush	male	native	(())	2	47	200	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	831.328	835.500	Sa_wen	male	native	That's right. Bush said, he takes responsibility for the mistakes. He takes the responsibility.	2	48	201	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	835.500	839.032	Sa_wen	male	native	The question is: Is this a war of only one person?	2	48	202	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	839.032	842.813	Sa_wen	male	native	Now we move on to Mr. Lin Changsheng, Researcher of the Claremont Institute in America.	2	48	203	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	842.813	843.797	Sa_wen	male	native	Ho do you do, Mr. Lin.	2	48	204	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	843.797	844.563	Lin_changsheng	male	native	How are you?	2	49	205	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	844.563	847.048	Sa_wen	male	native	How do the American people view this new Bush policy?	2	50	206	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	847.048	851.524	Sa_wen	male	native	Is this his own war, a war involving him alone?	2	50	207	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	851.524	855.456	Sa_wen	male	native	That is, when he decides to send more troops to Iraq, it is done, no matter what the Congress says?	2	50	208	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	856.025	862.040	Lin_changsheng	male	native	Eh, it now appears that for Bush there is no turning back.	2	51	210	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	862.040	863.197	Lin_changsheng	male	native	He is betting everything on one throw.	2	51	211	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	863.197	863.494	Sa_wen	male	native	Uh.	2	52	212	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	863.494	865.524	Lin_changsheng	male	native	That is the case. It actually comes to that.	2	53	213	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	865.524	871.290	Lin_changsheng	male	native	But, we should see that Bush took this step, for he wishes to answer to history.	2	53	214	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	871.290	875.477	Lin_changsheng	male	native	He could not afford to have history describe the second Bush Administration as one vanquished by Iraq.	2	53	215	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	875.477	878.555	Lin_changsheng	male	native	Eh, now we must take a look at his new plans.	2	53	216	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	878.555	881.966	Lin_changsheng	male	native	These plans might appear unrealistic to some people.	2	53	217	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	881.966	884.716	Lin_changsheng	male	native	But, to Bush, they are quite realistic.	2	53	218	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	884.716	889.481	Lin_changsheng	male	native	For, American military affairs expert now express the view	2	53	219	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	889.481	892.606	Lin_changsheng	male	native	that key to the new Bush plan is not sending more troops to Iraq,	2	53	220	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	892.606	893.965	Lin_changsheng	male	native	but a change of strategy.	2	53	221	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	893.965	894.465	Sa_wen	male	native	Um.	2	54	222	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	894.465	896.278	Lin_changsheng	male	native	What is this change of strategy?	2	55	223	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	896.278	901.747	Lin_changsheng	male	native	In the past, after clearing one area, U.S. troops would pull out.	2	55	224	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	901.747	902.044	Sa_wen	male	native	Um, huun.	2	56	225	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	902.044	905.480	Lin_changsheng	male	native	After U.S. troops pulled out, the terrorists return again.	2	57	226	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	906.049	908.387	Lin_changsheng	male	native	Then, how can this be changed?	2	57	228	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	908.387	912.074	Lin_changsheng	male	native	To change this cycle now, the troops who did the sweep must stay and persevere.	2	57	229	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	912.074	915.293	Lin_changsheng	male	native	What is the biggest problem facing the American troops who want to stay on?	2	57	230	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	915.293	919.668	Lin_changsheng	male	native	The key lies in how to disperse the American troops over the country.	2	57	231	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	919.668	924.356	Lin_changsheng	male	native	At present, the American troops are concentrated in a huge base.	2	57	232	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	924.356	930.466	Lin_changsheng	male	native	This way, large numbers of troops are quartered in one big camp.	2	57	233	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	930.466	932.935	Lin_changsheng	male	native	To fight a battle, they leave the camp. After the battle, they come back.	2	57	234	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	932.935	933.388	Sa_wen	male	native	Um.	2	58	235	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	933.388	937.764	Lin_changsheng	male	native	It is safer this way. And battle orders are easily transmitted.	2	59	236	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	937.764	941.450	Lin_changsheng	male	native	The drawback is that they cannot control streets and districts in the city.	2	59	237	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	941.450	945.717	Lin_changsheng	male	native	Now, the strategy and tactics will be changed and operations will be directed through a system of small bases.	2	59	238	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	945.717	949.780	Lin_changsheng	male	native	That is: to set up one base in a small area around a street or district.	2	59	239	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	949.780	954.264	Lin_changsheng	male	native	Eh, then, send one detachment of American troops, another detachment of Iraqi troops and organize them into one group.	2	59	240	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	954.264	958.015	Lin_changsheng	male	native	After the sweep action, the detachment will stay put in the region.	2	59	241	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	958.015	963.609	Lin_changsheng	male	native	The huge bases of today will be broken down to 200 small bases.	2	59	242	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	963.609	965.313	Lin_changsheng	male	native	With this new form, this new method,	2	59	243	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	965.313	968.938	Lin_changsheng	male	native	naturally, more troops are needed.	2	59	244	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	968.938	970.031	Lin_changsheng	male	native	And that is the reason for sending in reinforcements.	2	59	245	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	970.031	971.500	Lin_changsheng	male	native	This is the real situation.	2	59	246	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	971.500	978.547	Lin_changsheng	male	native	But, to the Americans, this method appear to be assigning too much emphasis on the military side of things.	2	59	247	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	978.547	978.828	Sa_wen	male	native	Um.	2	60	248	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	978.828	981.656	Lin_changsheng	male	native	and at the expense of political approaches.	2	61	249	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	981.656	984.109	Lin_changsheng	male	native	At least, there is insufficient attention to the political side of things.	2	61	250	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	984.109	988.375	Lin_changsheng	male	native	The Iraqi question of today is, in fact, as we just heard directly from the Iraqis,	2	61	251	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	988.375	988.640	Sa_wen	male	native	Um.	2	62	252	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	988.375	988.640	Lin_changsheng	male	native	they consider that	2	62	253	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	988.640	992.609	Lin_changsheng	male	native	the problems in Iraq today are of a political nature.	2	63	254	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	992.609	994.828	Lin_changsheng	male	native	The military problem is secondary and subsidiary	2	63	255	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	994.828	999.922	Lin_changsheng	male	native	But, Bush is basically putting out a military plan, a plan with a military core.	2	63	256	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	999.922	1000.406	Lin_changsheng	male	native	Oh.	2	63	257	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1000.406	1001.438	Lin_changsheng	male	native	Political emphasis is secondary and subsidiary.	2	63	258	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1001.438	1001.869	Lin_changsheng	male	native	Then	2	64	259	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1001.438	1001.869	Sa_wen	male	native	Um, huun.	2	64	260	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1001.869	1005.141	Lin_changsheng	male	native	It does not seem possible that this method could lead to a real solution.	2	65	261	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1005.141	1005.656	Sa_wen	male	native	Um.	2	66	262	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1005.656	1008.374	Sa_wen	male	native	Besides, we have heard that the British side has spoken up.	2	66	263	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1008.374	1013.312	Sa_wen	male	native	At the end of May, the UK wishes to withdraw at least 2,000 British troops from Iraq.	2	66	264	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1013.312	1016.395	Sa_wen	male	native	But, for the Americans, we don't see a way out. For Bush himself actually said	2	66	265	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1016.395	1020.190	Sa_wen	male	native	that the Iraqi people must be liberated. After a long struggle, now the American troops cannot get out.	2	66	266	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1020.190	1023.894	Sa_wen	male	native	The crux of the problem, as you just pointed out, lies on the political side.	2	66	267	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1023.894	1028.168	Sa_wen	male	native	Eh, what can they do on the political side?	2	66	268	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1028.671	1032.519	Lin_changsheng	male	native	Now, we see that, in fact, the crux of the Iraqi problem	2	67	270	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1032.519	1037.598	Lin_changsheng	male	native	may be traced back to the time when American troops took over Iraq, that is brought Saddam down,	2	67	271	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1037.598	1037.935	Lin_changsheng	male	native	that is,	2	68	272	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1037.598	1037.935	Sa_wen	male	native	Eh,	2	68	273	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1037.935	1041.973	Lin_changsheng	male	native	they say: let the Iraqis hold elections, and create a democratic government.	2	69	274	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1041.973	1045.083	Lin_changsheng	male	native	But Iraq consists of three factions:	2	69	275	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1045.083	1045.450	Lin_changsheng	male	native	the Kurds,	2	70	276	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1045.083	1045.450	Sa_wen	male	native	Eh.	2	70	277	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1045.450	1047.286	Lin_changsheng	male	native	the Sunnis and the Shiites.	2	71	278	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1047.286	1049.146	Lin_changsheng	male	native	And the Shiites are in an overwhelming majority.	2	71	279	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1049.146	1054.255	Lin_changsheng	male	native	On the principle of one person, one vote, the Shiites will definitely form the majority in the government.	2	71	280	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1054.255	1054.849	Lin_changsheng	male	native	Oh,	2	71	281	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1054.849	1056.333	Lin_changsheng	male	native	That means, the Shiites will control the government.	2	71	282	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1056.333	1060.426	Lin_changsheng	male	native	Then, the controlling faction naturally will try to take care of their own interests.	2	71	283	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1060.426	1060.801	Sa_wen	male	native	Uh.	2	72	284	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1060.801	1061.973	Lin_changsheng	male	native	That is just inevitable.	2	73	285	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1061.973	1067.848	Lin_changsheng	male	native	Then, then, this situation	2	73	286	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1067.848	1070.504	Lin_changsheng	male	native	runs counter to the American goal of stabilization in Iraq.	2	73	287	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1070.504	1071.832	Lin_changsheng	male	native	Yes, they are contradictory.	2	73	288	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1071.832	1078.096	Lin_changsheng	male	native	In fact, it is like this. We may say that the greatest pitfall for the Americans in Iraq is too hasty a rush into balloting to setting up a democratic government,	2	73	289	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1078.096	1078.502	Sa_wen	male	native	Uh.	2	74	290	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1078.096	1078.502	Lin_changsheng	male	native	What it should have done is	2	74	291	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1078.502	1082.268	Lin_changsheng	male	native	to move forward step-by-step. First of all, they should form a government of solidarity,	2	75	292	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1082.268	1084.268	Lin_changsheng	male	native	a united government in which all factions are represented in a judicious ratio.	2	75	293	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1084.268	1087.284	Lin_changsheng	male	native	The present situation is: a democratic government has been set up	2	75	294	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1087.284	1089.550	Lin_changsheng	male	native	Through election, it acquired legitimacy.	2	75	295	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1089.550	1093.347	Lin_changsheng	male	native	But, now, this legitimate government unjustifiably sheltered Shiite militia bands,	2	75	296	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1093.347	1097.176	Lin_changsheng	male	native	eh, thus raised the level of sectarian clashes.	2	75	297	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1097.176	1098.598	Lin_changsheng	male	native	Ah, sectarian clashes.	2	75	298	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1098.598	1102.801	Lin_changsheng	male	native	But, sectarian strife in Iraq is not a one-day affair. It could last tens or even hundreds of years.	2	75	299	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1102.801	1105.754	Lin_changsheng	male	native	It is absolutely impossible to solve this problem in a short time.	2	75	300	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1105.754	1106.207	Sa_wen	male	native	Um	2	76	301	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1106.207	1110.019	Sa_wen	male	native	Then, you just mentioned a strategic question. People say that American troops,	2	76	302	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1110.019	1112.034	Sa_wen	male	native	including those in +Badad, Baghdad,	2	76	303	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1112.034	1116.301	Sa_wen	male	native	They always hide themselves in the so-called (()) Green Zone, the safe area.	2	76	304	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1116.301	1116.754	Sa_wen	male	native	As a result,	2	76	305	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1116.754	1119.982	Lin_changsheng	male	native	that is, what I just mentioned, a few huge	2	77	306	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1119.982	1120.544	Sa_wen	male	native	Uh.	2	78	307	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1119.982	1120.544	Lin_changsheng	male	native	bases.	2	78	308	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1120.544	1121.013	Sa_wen	male	native	Uh.	2	79	309	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1121.013	1126.169	Lin_changsheng	male	native	Large bases. That is: all the American troops, after finishing the fighting outside, immediately return to these bases.	2	80	310	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1126.169	1128.778	Lin_changsheng	male	native	The good thing about these bases is: they are very safe.	2	80	311	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1128.778	1129.497	Lin_changsheng	male	native	Oh,	2	81	312	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1128.778	1129.497	Sa_wen	male	native		2	81	313	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1129.497	1130.716	Lin_changsheng	male	native	Easy to defend and easy to ensure peace for the troops,	2	82	314	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1130.716	1131.856	Lin_changsheng	male	native	and logistics are good.	2	83	315	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1130.716	1131.856	Sa_wen	male	native	Um.	2	83	316	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1131.856	1136.152	Lin_changsheng	male	native	Ah. But since the troops return to these huge bases soon after they finished the battle,	2	84	317	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1136.152	1136.637	Lin_changsheng	male	native	consequently,	2	85	318	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1136.152	1136.637	Sa_wen	male	native	Eh,	2	85	319	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1136.637	1138.904	Lin_changsheng	male	native	the streets, cleared but immediately abandoned	2	86	320	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1138.904	1141.844	Lin_changsheng	male	native	to the Shiites, militia and the	2	86	321	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1141.844	1142.344	Lin_changsheng	male	native	terrorists would	2	87	322	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1141.844	1142.344	Sa_wen	male	native	Good.	2	87	323	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1142.344	1143.080	Lin_changsheng	male	native	immediately return.	2	88	324	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1143.080	1148.643	Sa_wen	male	native	Control is again returned to, right, control is again returned to the so-called militia, eh, armed elements,	2	89	325	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1143.080	1148.643	Lin_changsheng	male	native	(())	2	89	326	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1148.643	1151.550	Sa_wen	male	native	In conclusion, this is the reason that one finds no way to control them.	2	90	327	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1151.550	1153.925	Sa_wen	male	native	Therefore, the entire strategy need a complete overhaul.	2	90	328	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1153.925	1156.941	Sa_wen	male	native	Okay. We'll first take a break and then come back to continue.	2	90	329	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1156.941	1157.550	Sa_wen	male	native	See you again in a minute.	2	90	330	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1318.254	1320.051	Sa_wen	male	native	Welcome back to Double Fortune Phoenix Global Watch.	4	92	332	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1320.051	1324.879	Sa_wen	male	native	After the Democrat-controlled Congress aired its strong opposition to the troop reinforcement plan announced by American President Bush,	4	92	333	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1324.879	1328.332	Sa_wen	male	native	The Bush Cabinet is mobilized to sell related programs to Congress.	4	92	334	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1328.332	1331.551	Sa_wen	male	native	and to sell these programs to the American people.	4	92	335	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1331.551	1333.848	Sa_wen	male	native	Now, we see	4	92	336	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1333.848	1339.380	Sa_wen	male	native	Rice. That's right! She plunged in right away to convince the American people	4	92	337	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1340.052	1342.911	Sa_wen	male	native	that the present situation in Iraq is entirely unacceptable.	4	92	339	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1342.911	1346.130	Sa_wen	male	native	She emphasized that the future of Iraq is now in the hands of the Iraqi people.	4	92	340	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1346.130	1350.568	Sa_wen	male	native	And President Bush has clearly expressed America's whole-hearted support behind the Iraqi government.	4	92	341	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1350.568	1353.600	Sa_wen	male	native	But, at the same time, she also warned that America's patience has its limits.	4	92	342	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1353.600	1357.022	Sa_wen	male	native	She said America will constantly ask the Iraqi authorities to make improvements,	4	92	343	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1357.022	1359.365	Sa_wen	male	native	to increase their self-defense capabilities.	4	92	344	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1359.365	1365.646	Sa_wen	male	native	In addition, she also pointed out that besides military action, America will also strengthen the role non-military personnel are playing in Iraq.	4	92	345	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1365.646	1371.662	Sa_wen	male	native	And she said, the non-military personnel in Iraq can no longer hide themselves inside the Embassy compound and the Green Zone,	4	92	346	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1371.662	1374.522	Sa_wen	male	native	but must scatter to all points in Iraq.	4	92	347	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1374.522	1375.913	Sa_wen	male	native	Speaking of the Green Zone,	4	92	348	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1375.913	1380.913	Sa_wen	male	native	we are calling on our friends in Iraq (()).	4	92	349	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1382.854	1388.167	speaker#4	female	native	I wish to know more about American troops in Iraq,	4	93	351	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1388.167	1390.976	Sa_wen	male	native	(())	4	94	352	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1390.976	1399.242	speaker#4	female	native	How do most Iraqi people think about the American troops stationed in the Green Zone in Iraq?	4	95	353	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1399.242	1401.826	speaker#3	male	native	(())	4	96	354	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1401.826	1403.100	speaker#4	female	native	The fact is	4	97	355	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1403.100	1406.591	speaker#3	male	native	(())	4	98	356	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1406.591	1408.747	speaker#4	female	native	when the year 2005 was coming to a close,	4	99	357	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1408.747	1410.559	speaker#3	male	native	(())	4	100	358	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1410.559	1416.029	speaker#4	female	native	Iraqi people generally do not think American troops in Iraq are friendly or nice toward the Iraqi population.	4	101	359	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1416.029	1421.107	speaker#4	female	native	Sometimes, they insult the Iraqis. Sometimes, they use force.	4	101	360	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1421.107	1427.585	speaker#3	male	native	(())	4	102	361	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1427.585	1434.538	speaker#4	female	native	But, when the sectarian clashes began,	4	103	362	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1434.538	1436.217	speaker#4	female	native	some people	4	103	363	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1436.217	1442.007	speaker#3	male	native	(())	4	104	364	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1442.007	1443.866	speaker#4	female	native	trust American troops more,	4	105	365	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1443.866	1449.147	speaker#4	female	native	because they think they can avoid involvement in these sectarian strife as American troops will give them some measure of protection.	4	105	366	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1449.147	1452.463	Sa_wen	male	native	(())	4	106	367	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1452.463	1457.291	speaker#4	female	native	To most Iraqi people, are the American troops protecting them?	4	107	368	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1457.291	1458.697	speaker#4	female	native	Do they feel that way?	4	107	369	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1458.697	1462.495	speaker#4	female	native	Not all Iraqis think so.	4	107	370	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1462.495	1466.417	speaker#4	female	native	I am talking about the situation in Baghdad. Baghdad is special.	4	107	371	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1466.417	1469.342	speaker#3	male	native	(())	4	108	372	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1469.342	1471.514	speaker#4	female	native	Outside of Baghdad,	4	109	373	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1471.514	1478.389	speaker#4	female	native	Where the American troops do not make an appearance, the local population gets no protection.	4	109	374	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1478.389	1479.717	speaker#3	male	native	(())	4	110	375	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1479.717	1482.436	speaker#4	female	native	The situation in Iraq is extremely complicated.	4	111	376	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1482.436	1489.249	speaker#4	female	native	Some attacks are launched by sectarian elements. Other raids, by others.	4	111	377	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1489.249	1498.781	speaker#4	female	native	Hence, the enemies American troops are facing are not only armed sectarian elements.	4	111	378	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1498.781	1502.937	Sa_wen	male	native	(())	4	112	379	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1502.937	1508.299	Sa_wen	male	native	In fact, after Bush put forth this plan of sending some 20,000 troops to Iraq,	4	112	380	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1508.299	1511.258	Sa_wen	male	native	now we see Rice was trying to sell this plan.	4	112	381	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1511.258	1516.883	Sa_wen	male	native	Then, the American Secretary of Defense also came out and said, it is possible that 20,000 troops are not enough. Maybe the need is 80,000 or 90,000 and increasing.	4	112	382	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1516.883	1521.149	Sa_wen	male	native	But, how do we convince Bush that he needs to face the American people?	4	112	383	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1521.149	1524.946	Sa_wen	male	native	Particularly, to face the Democrats on the Capitol Hill?	4	112	384	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1524.946	1528.493	Sa_wen	male	native	May we ask, ask Director Zhu a simple and short question?	4	112	385	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1528.493	1533.495	Sa_wen	male	native	You see, under the present circumstances, Democrats said (()). The House Speaker has said.	4	112	386	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1533.495	1537.042	Sa_wen	male	native	She said, we will not hand a blank check over to Bush for him to solve this problem.	4	112	387	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1537.042	1539.799	Sa_wen	male	native	How do you think Bush would cope?	4	112	388	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1540.518	1545.257	Zhu_weilie	male	native	After winning the election in November, the first half of November,	4	113	390	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1545.257	1547.601	Zhu_weilie	male	native	the Democrats now apparently will hand Bush some difficult problems.	4	113	391	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1547.601	1550.641	Zhu_weilie	male	native	But, if the Democrats see clearly... Immediate withdrawal	4	113	392	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1550.641	1555.516	Zhu_weilie	male	native	will strike too heavy a blow to American prestige and national interest.	4	113	393	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1555.516	1562.281	Zhu_weilie	male	native	At least to Bush.... Now, I, I, too, do not think his adding more troops to Iraq would solve the problem of security in Iraq.	4	113	394	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1562.281	1565.812	Zhu_weilie	male	native	For this is an extremely grave situation left behind by the war.	4	113	395	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1565.812	1566.312	Sa_wen	male	native	Uh yuh.	4	114	396	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1566.312	1569.969	Zhu_weilie	male	native	It is impossible to solve the problems merely by sending in more troops.	4	115	397	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1569.969	1570.406	Sa_wen	male	native	Uh huh	4	116	398	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1570.406	1574.843	Zhu_weilie	male	native	Naturally, coordination with neighboring countries and the international community is needed.	4	117	399	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1574.843	1580.561	Zhu_weilie	male	native	Now Bush, in fact, paid no heed to the recommendations of the (()) report.	4	117	400	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1580.561	1580.889	Sa_wen	male	native	Um.	4	118	401	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1580.889	1583.123	Zhu_weilie	male	native	For instance, it was recommended that America enter into a dialogue with Iran, and	4	119	402	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1583.123	1584.295	Zhu_weilie	male	native	with Syria.	4	120	403	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1583.123	1584.295	Sa_wen	male	native	Syria.	4	120	404	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1584.295	1584.623	Zhu_weilie	male	native	But, he	4	120	405	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1584.295	1584.623	Sa_wen	male	native	Um.	4	120	406	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1584.623	1585.826	Zhu_weilie	male	native	will have no truck with them.	4	121	407	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1585.826	1590.357	Zhu_weilie	male	native	However, Rice will visit six countries in the Middle East	4	121	408	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1590.357	1592.920	Zhu_weilie	male	native	to win over countries of large Sunni population,	4	121	409	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1592.920	1593.544	Zhu_weilie	male	native	or to show some gestures	4	121	410	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1593.544	1594.248	Zhu_weilie	male	native	toward mediating Israeli-Palestine	4	122	411	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1593.544	1594.248	Sa_wen	male	native	Uh huh	4	122	412	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1594.248	1595.185	Zhu_weilie	male	native	relations.	4	123	413	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1595.185	1595.529	Sa_wen	male	native	Um.	4	124	414	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1595.529	1599.216	Zhu_weilie	male	native	All such actions are undertaken and in a comprehensive approach.	4	125	415	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1599.216	1600.841	Zhu_weilie	male	native	diplomatic means are also very important.	4	125	416	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1600.841	1601.278	Sa_wen	male	native	Um.	4	126	417	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1601.278	1603.950	Zhu_weilie	male	native	As to the Democrats in America,	4	127	418	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1603.950	1605.065	Zhu_weilie	male	native	now, they	4	127	419	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1605.065	1605.497	Zhu_weilie	male	native	not only	4	128	420	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1605.065	1605.497	Sa_wen	male	native	Uh	4	128	421	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1605.497	1606.575	Zhu_weilie	male	native	make life difficult,	4	129	422	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1606.575	1607.045	Zhu_weilie	male	native	somewhat	4	130	423	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1606.575	1607.045	Sa_wen	male	native	Um.	4	130	424	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1607.045	1608.453	Zhu_weilie	male	native	difficult for Bush.	4	131	425	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1608.453	1610.782	Zhu_weilie	male	native	But also, they are, from the bottom of their heart, skeptical	4	131	426	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1610.782	1611.078	Sa_wen	male	native	Um	4	132	427	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1611.078	1615.540	Zhu_weilie	male	native	about the usefulness of the present Bush plan of reinforcing troops to solve the Iraq problem.	4	133	428	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1615.540	1616.025	Sa_wen	male	native	Uh	4	134	429	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1616.025	1621.047	Zhu_weilie	male	native	Of course, in all these matters one can see the shadow of partisan interests in the 2008 election.	4	135	430	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1621.047	1621.438	Sa_wen	male	native	Uh huh	4	136	431	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1621.438	1622.063	Sa_wen	male	native	In fact, yes,	4	136	432	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1622.063	1623.516	Zhu_weilie	male	native	it won't be easy to (()).	4	137	433	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1623.516	1625.516	Sa_wen	male	native	Now, besides the Democrats,	4	138	434	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1625.516	1629.298	Sa_wen	male	native	many Republicans are also joining the ranks of the anti-reinforcement movement.	4	138	435	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1629.298	1631.735	Sa_wen	male	native	However, Bush does have a powerful lever.	4	138	436	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1631.735	1637.579	Sa_wen	male	native	He could veto a bill that Congress passes against his will.	4	138	437	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1637.579	1641.907	Sa_wen	male	native	That, of course, as many people say, is quite likely a last resort.	4	138	438	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1641.907	1644.485	Sa_wen	male	native	Now, we wish to tender our thanks to Director Zhu from Shanghai	4	138	439	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1644.485	1647.532	Sa_wen	male	native	and other guests who joined our program. At the same time, we also appreciate our audience for watching the program.	4	138	440	report	
+PHOENIX_PHNXWRLD_CMN_20070111_111800	0	1647.532	1648.204	Sa_wen	male	native	Bye-bye.	4	138	441	report	

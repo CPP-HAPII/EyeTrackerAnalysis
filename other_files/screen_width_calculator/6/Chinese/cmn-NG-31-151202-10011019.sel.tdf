@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-151202-10011019	0	0.0	100.0	speaker	unknown	unknown	断药危机 折射各方博弈	0	0	0		
+cmn-NG-31-151202-10011019	0	200.0	300.0	speaker	unknown	unknown	我前段时间为第35期《携手》的“特别关注”撰写了一篇关于艾滋病药物的短文。	0	0	0		
+cmn-NG-31-151202-10011019	0	400.0	500.0	speaker	unknown	unknown	然而，我仍然感觉有些问题没有说得很清楚，因此连夜补充了一些素材，形成了这份“加长版”的《断药危机 折射各方博弈》，详见附件。	0	0	0		
+cmn-NG-31-151202-10011019	0	700.0	800.0	speaker	unknown	unknown	断药危机 折射各方博弈.	0	0	0		

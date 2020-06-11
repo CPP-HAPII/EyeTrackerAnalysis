@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.1108	0	0.0	100.0	speaker	unknown	unknown	Studies show that one-tenth of children in England conduct "sex talks" online	0	0	0		

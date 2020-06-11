@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 412.25200000000001, 428.97300000000001, 544.36300000000006, 669.19799999999998, 997.46799999999996, 1015.6660000000001, 1521.2809999999999, 1556.961, 2035.5119999999999, 9999999.0]
+CCTVNEWS_PEOPLEINNEWS_CMN_20080324_202401	0	449.873	475.376	Hou_Xin_Hua	male	native	(()) 各位朋友大家好	2	2	5	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080324_202401	0	475.376	482.915	Liu_Qing_Xiang	male	native	(()) ,谢谢大家	2	3	7	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080324_202401	0	1795.081	1815.246	Hou_Xin_Hua	male	native	那个通过给他做工作以后,后来这户人家同意他女儿上学,离开的时候他那个小女孩很感动,一直拉着我的手,只会用两句话,就是我们傈僳族的话, (()) 就是非常感谢,非常感谢,所以这种事情啊在基层一线经常会遇到	8	20	95	filler	statement

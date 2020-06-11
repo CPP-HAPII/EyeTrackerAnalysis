@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120230-10578917	0	0.0	100.0	speaker	unknown	unknown	Recruiting someone to develop PHP on behalf of my friend	0	0	0		
+cmn-NG-31-120230-10578917	0	100.0	200.0	speaker	unknown	unknown	I am looking for someone who develops PHP on behalf of my friend. The work location is near Metro Line 1 Lianhua Road Station	0	0	0		
+cmn-NG-31-120230-10578917	0	400.0	500.0	speaker	unknown	unknown	Responsibility: Company's business-related web development	0	0	0		
+cmn-NG-31-120230-10578917	0	500.0	600.0	speaker	unknown	unknown	Requirements: Aptitude for learning (very important) skilled in writing PHP codes familiar with jQuery, Prototype and related Javascript Ajax library familiar with MVC structure, experience in developing MVC framework based on CakePHP desirable one year of relevant experience	0	0	0		

@@ -1,0 +1,65 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'nontrans', u'report', u'filler', u'report', None]
+;;MM sectionBoundaries	[0.0, 208.21299999999999, 451.47300000000001, 610.76300000000003, 1024.3019999999999, 1047.9380000000001, 1108.0229999999999, 1252.2539999999999, 1309.575, 1334.8699999999999, 9999999.0]
+CCTV2_ECON30MIN_CMN_20080413_213502	0	208.213	211.369	Ma_Hong_Tao	male	native	观众朋友你好,欢迎收看经济半小时,我是马洪涛	1	1	1	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	211.369	218.374	Ma_Hong_Tao	male	native	很多人都听过一首歌,歌名叫我的家在东北松花江上,松花江呢可以说是东北人的一条母亲河	1	1	2	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	233.129	242.004	Ma_Hong_Tao	male	native	二零零六年国家提出了让松花江休养生息,投资一百三十三亿元用五到十年的时间恢复山清水秀	1	1	4	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	242.004	246.754	Ma_Hong_Tao	male	native	不过,这场发生在松花江的变局,却是从一场生态灾难开始的	1	1	5	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	246.754	264.056	speaker#2	male	native	二零零五年十一月十三日,中国石油天然气股份有限公司吉林石化分公司双苯厂硝基苯精馏塔发生爆炸,造成八人死亡,六十人受伤,直接经济损失六千九百零八万元,并引发松花江水污染事件	1	2	6	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	273.068	288.756	speaker#2	male	native	作为东北人民的母亲河,它曾经碧波荡漾,滋润着广袤的土地,给沿江百姓源源不断地输送生产和生活用水,但近年来,一些石油,化工,煤炭,造纸等企业对松花江造成了一定的污染	1	2	8	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	298.741	312.65	speaker#2	male	native	这次事件的发生之后,二零零六年国家环保总局主持的松花江水污染防治十一五规划编制工作已经基本完成,松花江将和三河三湖一样,列为流域水污染治理的重点	1	2	10	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	312.65	326.29	Ma_Hong_Tao	male	native	二零零六年国家环保总局主持编制的松花江流域水污染防治规划在全国七大江河中第一个获得了国家批准,它制定的防治标准也高于之前出台的一些治污规划	1	3	11	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	326.29	336.873	Ma_Hong_Tao	male	native	未来几年里面,松花江流域两省一区将会加大对电力,钢铁,建材,电解铝等十二个高耗能,高污染行业落后产能的淘汰力度	1	3	12	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	346.589	355.948	Ge_Feng_Ling	male	native	我们佳木斯呢恰恰是在松花江的下游,应当说是我们松花江出境之前最后一个地市级城市	1	4	14	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	362.4	371.54	Ge_Feng_Ling	male	native	能不能站好,给松花江站好最-最后这一班岗,对我们佳木斯市政府来讲,从执政能力上也是一个考验	1	6	16	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	371.54	386.955	speaker#2	male	native	松花江是一条国际河流,佳木斯市区距离中俄边界水路距离只有三百多公里,市区内水质情况的整治就显得尤为突出,治理松花江的水污染成为葛风岭这两年来最重要的工作	1	7	17	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	405.161	421.808	Ge_Feng_Ling	male	native	处在这样一个边-边缘的一个城市,我们的经济发展是不发达的,相对说是比较落后的,我们的经济总量很小,全市的经-经济总量~GDP才三百多个亿	1	10	20	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	421.808	430.292	speaker#2	male	native	一方面是滞后的经济发展,另一方面又要进行环境的整治,摆在葛风岭面前的困难可想而知	1	11	21	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	660.711	672.368	speaker#2	male	native	火电,造纸,水泥和电解铝等几个高耗能,高污染行业中,佳木斯多家产能落后企业相继被关停,在这其中最主要的就是造纸企业	3	15	28	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	672.368	682.375	Ge_Feng_Ling	male	native	我们所有的造纸企业的呃污染减排,呃这个量是吧是占全市工业废水排放量的一个百分之七十八	3	16	29	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	682.375	688.956	Ge_Feng_Ling	male	native	原来这些纸厂啊没有废水治理设施,基本上处于直排状态	3	16	30	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	688.956	698.549	speaker#2	male	native	记者在佳木斯汤原县的一家造纸厂见到,这家老企业刚刚恢复了试生产,与以前不同的是这里安装了碱回收设备	3	17	31	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	720.636	732.885	speaker#2	male	native	同时,记者在厂子里面见到了刚刚投入使用的废水处理设备,原来这些~PH值在十二的废水直接排放进了松花江,而现在处理后的情况大大得到了改观	3	21	35	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	732.885	743.069	speaker#4	female	native	现在我们排水 (()) 基本上是在维持在中性这个范围了,大概在六点五到八这个范围内,应该不会低于七	3	22	36	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	743.069	756.537	speaker#2	male	native	其实,这个建于上世纪七十年代的企业产量也只有五万吨,设备落后,规模有限,可是在二零零七年被要求关闭整改后,对整个地区都产生了不小的影响	3	23	37	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	756.537	768.318	Ge_Feng_Ling	male	native	它的财政的三分之一的收入来源于这个企业,并且这个企业呢是一个千人规模的,对于一个县来讲,这样的企业对于县很重要了	3	24	38	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	768.318	775.506	speaker#2	male	native	为了救活这个原本就资金匮乏的老纸厂,当地政府不得不想尽一切办法筹措资金	3	25	39	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	795.163	806.256	speaker#2	male	native	在佳木斯现在已经有十六家造纸企业经过治理后,能够达到零污水排放的标准,这也使得佳木斯工业废水的排放得到了更本性的改变	3	27	42	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	806.256	821.639	Ge_Feng_Ling	male	native	是吧,就是工业的百分之七十八是由造纸行业 (()) ,呃它这个问题要是解决了,我们就等于工业的水的污染的排放与治理,我们完成了百分之七十八的任务	3	28	43	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	821.639	831.932	Ma_Hong_Tao	male	native	除了造纸行业,佳木斯对装备制造,化工,煤炭,建材等重点行业也动了大手术,减少污染排放,提高资源的综合利用水平	3	29	44	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	831.932	837.499	Ma_Hong_Tao	male	native	有这样一句话大家都知道,说这个世界上没有废物,只有放错了地方的资源	3	29	45	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	854.461	868.133	speaker#2	male	native	三月初了,记者在佳木斯市郊的万庆村见到这里的村民都在为今年种植大米的品种讨论着,这也将直接关系到他们一年最后的收入	3	30	47	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	906.759	914.539	speaker#2	male	native	而除了价格要比市场收购价格率高以外,签订合同之后又解决了村民卖粮难的问题	3	34	51	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	941.805	949.137	Li_Tao	male	native	因为我们的水稻进来以后呢要加工成米以后要运出去,形成一个循环才能够赚起来	3	37	54	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	959.95	967.309	Li_Tao	male	native	水稻经过这里呢被扒被壳啊被剥掉,把米糠外头第二层的米糠也剥掉	3	39	56	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	967.309	973.907	Li_Tao	male	native	那么稻壳呢沿着这个输送管道,过来以后直接被吹送到电厂进行燃烧	3	39	57	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	973.907	981.032	speaker#2	male	native	这是国内第一家利用稻壳发电的电厂,很难想象小小的稻壳竟然有这么大的作用	3	40	58	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	981.032	991.667	Li_Tao	male	native	那么稻壳这个燃烧这个热值呢和这个煤炭的这个比呢是大概在一点五一点七五吨稻壳,相当于一吨标煤	3	41	59	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1002.235	1019.177	speaker#2	male	native	李涛告诉记者,原来这些稻壳被当作废物满天抛洒,降解时间需要五年,造成很大的环境污染,而现在用稻壳发电每年可以减少二氧化碳的排放九十六吨,可减少烟尘的排放为六十五电六吨	3	42	61	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1019.177	1024.302	speaker#2	male	native	同时,原来无法利用的米糠,如今在李涛这里也变成了宝贝	3	42	62	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1047.938	1061.093	speaker#2	male	native	李涛给记者算了这样一笔帐,将原本只是用于简单食用的水稻循环利用之后,每吨水稻的成本可以减少将近一百二十元,这就是他为什么可以高于市场价格收购的原因	5	44	67	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1061.093	1073.89	Li_Tao	male	native	那么说一棵水稻进来以后,壳用于燃烧,米糠用于去榨油,大米用于做成品用于使用,一棵水稻全部被综合利用了	5	45	68	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1073.89	1094.129	speaker#2	male	native	李涛说他现在就是要将水稻吃干榨净,使得水稻能够在产区就地升值,这样一方面解决了农民卖粮难的问题,另方面通过这样的产业组合实现了良性的循环经济,减少了米厂的副产品废弃所造成的资源浪费和给环境造成的污染	5	46	69	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1094.129	1108.023	Li_Tao	male	native	对于这个整个这个加工的意义来讲呢,他综合利用完了以后呢,能够做对于--对于自然界提供给我们的这些这种植物呢,能够完全被利用,而不对不给环境带来任何的污染.	5	47	70	report	
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1264.879	1276.133	Ma_Hong_Tao	male	native	在佳木斯,我们还看到了一项绿色产业,它的环保价值,经济价值比水稻循环利用还要高,给佳木斯打开了一座更加广阔的资源宝库,一起再去看一下	7	49	73	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1276.133	1287.357	speaker#2	male	native	顶着强劲的寒风,记者在佳木斯桦南横岱山,见到了正在检修维护设备的郑岩涛,它告诉了记者这个风电项目的预计规模	7	50	74	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1287.357	1301.355	Zheng_Yan_Tao	male	native	这个风厂全部通入运行以后啊,年发电量在两点二亿度左右,呃咱们这个发电量啊,就是咱们华南县-县域之内的所有用户,一年的用电量完全可以满足	7	51	75	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1329.068	1334.87	Zheng_Yan_Tao	male	native	对,就像一个 (())	8	54	79	filler	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1361.145	1373.848	speaker#2	male	native	据了解,一台一千千瓦的风力发电机,一年就能节约煤炭八百八十吨,减少排放二氧化碳两千吨,二氧化硫十吨,即创造了经济价值,又可以保护环境	9	57	82	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1390.971	1397.675	speaker#2	male	native	由于这里独特的风力资源,很多同行都开始对在这里进行风电投资跃跃欲试	9	59	84	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1397.675	1415.11	Zheng_Yan_Tao	male	native	佳木斯地区的风资源呃蕴藏量非常丰富,啊它具备大规模的开发价值,所以说各大公司,特别是我们呃能源电力公司吧,呃对佳木斯的这个风能资源非常看好,也非常舍得投入	9	60	85	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1415.11	1424.236	speaker#2	male	native	风力发电的逐步增加就意味着火力发电的逐步减少,佳木斯市政府早已为这种清洁能源的利用做好了打算	9	61	86	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1424.236	1438.064	speaker#9	male	native	我们在市委市政府定一个长远的目标, (()) 三到五年的时间内,把我们佳木斯发展成一百万千瓦的这么风电之都	9	62	87	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1456.827	1464.0	Ge_Feng_Ling	male	native	就是说哪一个企业来了,祸害了我们这个地方的资源,就是祸害了我们的老百姓,坚决不允许	9	64	89	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1464.0	1486.858	speaker#2	male	native	在葛凤岭看来,在佳木斯浪费资源的项目坚决不上,破坏生态环境的项目坚决不上,不符合国家产业政策的项目坚决不上,而正是在他的坚持之下,松花江污染防治在佳木斯取得了显著的成效,在上游来水水质变化不大的情况下,佳木斯下游的水质变化明显	9	65	90	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1486.858	1499.305	Ge_Feng_Ling	male	native	我们在松花江水污染事件之前,松花江对我们佳木斯断面的水质一直呢是处在四类水左右,就是四类水体	9	66	91	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1499.305	1515.107	Ge_Feng_Ling	male	native	那么同江的出境水也是处在四类水体,那么我们经过这两年的治理,两千零七年的下半年,它的水质基本都稳定在三类水体上	9	66	92	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1515.107	1520.123	speaker#2	male	native	而这些变化的背后,佳木斯市也付出了巨大的代价	9	67	93	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1520.123	1530.536	Ge_Feng_Ling	male	native	对于工业企业实行停产治理,所影响的~GDP,绝对数字是接近六个亿的工业产值	9	68	94	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1530.536	1540.05	Ge_Feng_Ling	male	native	那么这么大一个工业产值,对于我们这个城市,几十个亿工业产值的这么一个城市,其影响那是可想而知的	9	68	95	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1540.05	1545.19	speaker#2	male	native	在面对如此大的影响的时候,葛凤岭有着自己清醒的认识	9	69	96	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1566.258	1575.446	Ma_Hong_Tao	male	native	随着能源价格不断的走高,随着人们发现环境的报复越来越激烈,越来越多的人开始意识到节能减排,保护环境的重要性	9	71	98	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1575.446	1581.649	Ma_Hong_Tao	male	native	很多地方已经开始加快落实节能减排的速度,很多单位也对员工发出了节能减排的号召	9	71	99	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1581.649	1587.055	Ma_Hong_Tao	male	native	人们已经意识到,节能减排不再只是一个口号,而是一个迫在眉睫的选择	9	71	100	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1587.055	1596.101	Ma_Hong_Tao	male	native	但是呢令人痛心的是,最近媒体不断的曝光一些公司继续的上马污染项目,而有的地方政府对这些项目也采取了睁一只眼闭一只眼的态度	9	71	101	report	statement
+CCTV2_ECON30MIN_CMN_20080413_213502	0	1596.101	1609.832	Ma_Hong_Tao	male	native	这不禁使我们疑问,尽管节能减排的口号在全国很多地方都喊了起来,标语喷在了墙上,横幅挂在了天上,但是到底有多少城市能够像佳木斯一样将节能减排落在实处	9	71	102	report	statement

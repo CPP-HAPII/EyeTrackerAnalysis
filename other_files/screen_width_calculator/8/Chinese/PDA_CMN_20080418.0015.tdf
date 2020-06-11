@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	法国人休假天数连续8年居主要欧美国家之首	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	市场调查机构哈里斯网上评估公司最新的一项研究显示，法国人平均年休假天数达到37天，连续8年高于其他主要欧美国家。	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	今年3月该机构对欧美8个国家进行了网上调查，这8个国家是法国、西班牙、德国、意大利、英国、荷兰、奥地利和美国。	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	调查的主要内容是各国每年休假的天数，其中不包括周末和节日假期。	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	调查结果显示，法国人的平均年休假天数达到37天，连续8年高于其他主要欧美国家。	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	意大利人和西班牙人以33天和31天分列第二位和第三位。	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	美国人的平均年休假天数为14天，是被调查的国家中最少的。	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	另外，法国人多数是在国内休假而较少出国，休假总天数中只有17%是在国外度过的，而德国人的这一比例高达64%。	0	0	0		statement

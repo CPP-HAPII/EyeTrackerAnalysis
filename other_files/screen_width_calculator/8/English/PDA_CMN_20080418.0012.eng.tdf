@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0012.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	EU Trade Chief Opposes Grain Export Limits as Response to Surging Food Prices	0	0	0		statement
+PDA_CMN_20080418.0012.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Apr. 18, 2008	0	0	0		statement
+PDA_CMN_20080418.0012.sgm	0	900.000	1600.000	TEXT1	unknown	unkown	According to a report in Zaobao.com on the 18th, EU trade chief Mandelson has warned that if countries used export restrictions to respond to soaring food prices, it might trigger a wave a protectionism.	0	0	0		statement
+PDA_CMN_20080418.0012.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	Mandelson said,"These policies throttle domestic production, choke off supplies to other countries, and therefore increase the risk of a spiral of protectionism and dwindling production."	0	0	0		statement
+PDA_CMN_20080418.0012.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	Countries are worried that surging food prices will cause turmoil.	0	0	0		statement
+PDA_CMN_20080418.0012.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	Some countries have therefore restricted or banned exports of basic commodities in order to ensure sufficient domestic supply.	0	0	0		statement
+PDA_CMN_20080418.0012.sgm	0	2175.000	2200.000	TEXT1	unknown	unkown	Indonesia's government for example has banned farmers from selling rice abroad; Kazakhstan, one of the world's top producers of wheat, has also announced it will halt foreign sales.	0	0	0		statement
+PDA_CMN_20080418.0012.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	On the other hand, Mandelson also said the food crisis could be an opportunity for developing countries that are primarily agricultural because these countries have relative advantages in the area of agriculture. Other developed countries could provide them an opportunity by permitting these poorer countries to enter their markets. This is also the best way to solve the issue of global food supply in the long term.	0	0	0		statement

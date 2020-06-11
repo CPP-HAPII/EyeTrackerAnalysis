@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080729.0070	0	300.0	400.0	speaker	unknown	unknown	集团总经理Maurice Lévy表示非常荣幸，阳狮能够参予北京奥运会的传播行销项目，以及成为法国奥林匹克委员会的一员。	0	0	0		
+PDA_CMN_20080729.0070	0	400.0	500.0	speaker	unknown	unknown	他向北京奥运表示祝福，“我诚挚地相信北京奥运会，将会取得巨大成功，这是一次全世界期盼的体育盛会。”Maurice Lévy相信，中国经过近10年的精心准备，通过北京奥运会，中国将向世界展示一个富有活力和朝气的真实社会面貌。	0	0	0		
+PDA_CMN_20080729.0070	0	900.0	1000.0	speaker	unknown	unknown	总经理Eric Giuily 强调，公司精英团队能够协助中国公司在欧洲市场的投资业务，尤其针对公共关系、公共事务、危机议题事件处理、广告传播以及网络等多种服务。	0	0	0		

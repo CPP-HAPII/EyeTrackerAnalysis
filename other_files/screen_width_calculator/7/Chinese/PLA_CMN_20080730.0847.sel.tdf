@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0847	0	1400.0	1500.0	speaker	unknown	unknown	国家标准《数字键盘汉字输入通用要求》，也从2005年立项修订。	0	0	0		
+PLA_CMN_20080730.0847	0	1500.0	1600.0	speaker	unknown	unknown	与会专家认为，国产汉字输入技术大规模应用于市场的压力首先来自国外垄断企业。	0	0	0		

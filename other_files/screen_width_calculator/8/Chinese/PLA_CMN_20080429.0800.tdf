@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0800.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	江苏立法明确发布违法药品广告的媒体责任	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 20:59:01   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	900.000	950.000	TEXT1	unknown	unkown	新华社南京４月２９日电（记者朱旭东）虚假违法药品广告不但图财，甚至“害命”。	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	将于５月１日正式施行的《江苏省药品监督管理条例》，不仅对广告发布者明确了法律责任，同时也明确了刊登违法药品广告媒体的责任。	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	《江苏省药品监督管理条例》是江苏第一部药品监管地方性法规，这个条例从地方政府责任、药品生产管理、药品经营管理、医疗机构药剂管理、药品价格与广告管理等多方面，就加强药品监督管理作出了新的规定。	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	江苏省食品药品监督管理局副局长朱勤虎介绍，对发布严重违法药品广告的药品，药品监管部门应当依法责令暂停在江苏销售，并予以公告。	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	对新闻媒体及其他广告发布者发布药品广告，条例规定：“应当核实药品广告批准文件，不得发布未经批准的药品广告，不得发布含有虚假内容的药品广告。”	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	对于“发布国家禁止的药品广告，被责令改正而不改正”，或者“发布未经批准的药品广告或者其他虚假药品广告，被责令改正而不改正的”新闻媒体，条例明确将对媒体主要负责人和直接负责的主管人员给予警告、记过直至撤职的处分。（完）	0	0	0		statement
+PLA_CMN_20080429.0800.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	2008/04/29 18:39	0	0	0		statement

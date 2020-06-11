@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0132	0	600.0	700.0	speaker	unknown	unknown	民主党选民对奥巴马赢得竞选更有信心，71%的民主党认为奥巴马会赢，51%的共和党认为麦凯恩会赢。	0	0	0		
+CNS_CMN_20080725.0132	0	1000.0	1100.0	speaker	unknown	unknown	如果两大党派竞选人一对一比较，奥巴马在注册选民中的支持率为41%，而马侃为40%，如果加上自由派候选人鲍勃·巴尔(Bob Barr)和独立党派候选人拉尔夫·纳达尔(Ralph Nader)，奥巴马以40%对37%的支持率领先。	0	0	0		

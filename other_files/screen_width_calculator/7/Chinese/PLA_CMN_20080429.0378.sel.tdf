@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080429.0378	0	800.0	900.0	speaker	unknown	unknown	“首先碰到的是理想与现实的落差。”当披坚执锐的豪迈情怀落实到队列训练的一步一动，当金戈铁马的浪漫激情还原为养猪种菜的一瓢一勺，蒋国清心里的失落是无法用言语形容的。	0	0	0		
+PLA_CMN_20080429.0378	0	1000.0	1100.0	speaker	unknown	unknown	说归说，团里还是把蒋国清调整到指挥自动化站，发挥其优长，让他负责网络信息化建设。	0	0	0		
+PLA_CMN_20080429.0378	0	2500.0	2600.0	speaker	unknown	unknown	孙大礼很快带出一支维修队伍，如今，参加重大演习等活动，他们多是依靠自己的力量进行技术保障。	0	0	0		

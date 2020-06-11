@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0007.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	张荣发会面马英九 请马关注货运直航和道德教育	0	0	0		statement
+PDA_CMN_20080418.0007.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0007.sgm	0	900.000	1550.000	TEXT1	unknown	unkown	马英九今天上午拜访了台湾知名企业家、长荣集团总裁张荣发。	0	0	0		statement
+PDA_CMN_20080418.0007.sgm	0	1550.000	1875.000	TEXT1	unknown	unkown	张荣发肯定马英九当选后马上就积极改善两岸关系，但提醒马英九三通措施中忽略了货运直航部分，希望马英九能够加强补助，落实海洋政策。	0	0	0		statement
+PDA_CMN_20080418.0007.sgm	0	1875.000	2200.000	TEXT1	unknown	unkown	据台湾“中广新闻”报道，马英九表示，今天是请益航运问题，张总裁希望三通七月能够如期开放，包机也能尽快改为班机，而马英九行政团队上任后也将逐步采取开放措施。	0	0	0		statement
+PDA_CMN_20080418.0007.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	据悉，张荣发会面时提了七点建议，除了航运部分，更重视品德教育问题。	0	0	0		statement
+PDA_CMN_20080418.0007.sgm	0	2450.000	2475.000	TEXT1	unknown	unkown	他认为，做好道德教育，将可减少许多社会成本。	0	0	0		statement
+PDA_CMN_20080418.0007.sgm	0	2475.000	2500.000	TEXT1	unknown	unkown	马英九也回应强调，自己参选的重要目的就是要找回台湾的传统价值。	0	0	0		statement

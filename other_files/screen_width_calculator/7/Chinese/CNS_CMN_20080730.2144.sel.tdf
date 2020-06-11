@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.2144	0	200.0	300.0	speaker	unknown	unknown	在陕西省珍稀野生动物抢救饲养研究中心饲养的一只九岁大熊猫“娅老大”，29日晚上顺利产下一对大熊猫双胞胎。	0	0	0		
+CNS_CMN_20080730.2144	0	300.0	400.0	speaker	unknown	unknown	7月29日，待产大熊猫“娅老大”表现出强烈的产前征兆。	0	0	0		
+CNS_CMN_20080730.2144	0	400.0	500.0	speaker	unknown	unknown	晚上8点30分，“娅老大”顺利产下第一只幼仔，半个小时以后，又顺利产下第二只幼仔，整个过程31分钟，没有出现异常情况。	0	0	0		
+CNS_CMN_20080730.2144	0	600.0	700.0	speaker	unknown	unknown	“娅老大”仅带第一只幼仔，工作人员用特制工具将第二只幼仔取出后放入育婴箱人工照看。	0	0	0		
+CNS_CMN_20080730.2144	0	1000.0	1100.0	speaker	unknown	unknown	今年参与繁殖的雌性大熊猫有4只，“娅老大”是今年第一个产仔的雌性大熊猫。	0	0	0		

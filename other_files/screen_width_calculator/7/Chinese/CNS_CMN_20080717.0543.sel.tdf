@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0543	0	200.0	300.0	speaker	unknown	unknown	奥运颁奖台、颁奖证书、颁奖花束设计方案发布	0	0	0		
+CNS_CMN_20080717.0543	0	1600.0	1700.0	speaker	unknown	unknown	此系列礼服的将会出现在体操、室内球类比赛和击剑等项目的颁奖现场。	0	0	0		
+CNS_CMN_20080717.0543	0	2700.0	2800.0	speaker	unknown	unknown	所有的奥运礼服和升旗手制服都绣有“Beijing 2008”的字样。	0	0	0		

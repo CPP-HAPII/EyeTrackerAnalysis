@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080406.0059.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	空军依托新装备厂家培训千名技术骨干	0	0	0		statement
+PLA_CMN_20080406.0059.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-06 06:20:02   来源：解放军报第1版	0	0	0		statement
+PLA_CMN_20080406.0059.sgm	0	900.000	950.000	TEXT1	unknown	unkown	近年来，空军武器装备改装换装步伐不断加快，部队培训需求扩大与院校培训力量不足的矛盾日益突出。	0	0	0		statement
+PLA_CMN_20080406.0059.sgm	0	950.000	975.000	TEXT1	unknown	unkown	空军从2001年开始，积极探索军民融合式人才培养新途径，建立依托新装备研制生产厂家组织技术骨干培训的机制。	0	0	0		statement
+PLA_CMN_20080406.0059.sgm	0	975.000	987.500	TEXT1	unknown	unkown	他们突出新装备检测调试、操作使用、故障诊断及排除等知识技能培训，采取深化新装备原理、结构和性能等理论学习，现场跟班学习和技术专家带教相结合的方式，提高参训人员新装备维护保障能力。	0	0	0		statement
+PLA_CMN_20080406.0059.sgm	0	987.500	1000.000	TEXT1	unknown	unkown	参训人员普遍反映，这种培训方式形象直观、针对性强，可以在熟悉装备构造原理中提高维护保障技能，实现“源头”与“终端”的对接。	0	0	0		statement
+PLA_CMN_20080406.0059.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	据悉，空军今年还将增设3个深化培训基地，空军有关院校的专业教员也将与部队技术保障人员一起参加深化培训。	0	0	0		statement

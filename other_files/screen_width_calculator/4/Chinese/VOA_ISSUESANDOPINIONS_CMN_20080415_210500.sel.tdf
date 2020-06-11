@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 305.18799999999999, 312.44299999999998, 456.71899999999999, 461.52100000000002, 546.05899999999997, 552.31600000000003, 747.48800000000006, 765.37800000000004, 808.71299999999997, 814.73099999999999, 1263.4200000000001, 2605.6149999999998, 2614.567, 2877.049, 2883.0369999999998, 2994.0259999999998, 3014.0529999999999, 3410.393, 9999999.0]
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	721.538	731.767	Lin_Sen	male	native	今天演播现场邀请的嘉宾是华盛顿研究机构 (()) 研究中心的研究员 (()) 女士, <foreign language="English"> </foreign>	6	20	85	report	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	731.767	736.767	Lin_Sen	male	native	(()) 女士在节目中讲英语,你所听到的是同声翻译的声音	6	20	86	report	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	1411.444	1419.835	speaker#21	male	native	虽然这个中国这个经济没有日本发展,但是中国人民这个--这个乐观指数,还有这个 (()) 中国人民这个精神文化生活是绝对比日本人强	11	43	138	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	1860.402	1877.555	speaker#22	male	native	呃我刚才听了几位听众的观众的这个看法,我也 {cough} 我现在也谈一下我的看法吧,就是呃中日建交邦交以来吧,就是 (())	11	49	164	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	1884.208	1884.849	speaker#23	male	native	喂	11	51	166	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	1981.351	1998.883	speaker#24	male	native	现在的社呃日本社会已经走上了很正常的道路,正常国家的道路,所以说咱们再也不能用以前的有色眼镜还-还是日本法西斯占据什么社会各个阶层,没有这种现象了基本上,他的社会这个 (()) 基础已经没有了	11	56	178	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	1998.883	2016.543	speaker#24	male	native	所以我认为这个中国政府啊在这个地方宣传的这个力度太大了,老是揪住过去日本这个小辫子不放,弄得整个中华民族这个人啊,这个很狭隘,心胸很狭窄,这不一提到日本就恨得要命,我觉得这样不好,对中-中日 (()) 中日的发展前景是不利的	11	56	179	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	2130.535	2143.553	speaker#10	female	native	我 (()) 山-山东好像刚才的一位听众呢谈到了说他的小孩子在谈到日本的时候是怎么想到,他可能说这可能是和他们在学校教的这个东西有关系	11	59	188	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	2300.049	2323.432	speaker#10	female	native	因为尽管日本政府没有做正式的战争赔偿,但是呢就好像你刚才讲的,他的确已经提供了大量的经济的援助给中国,给韩国,有很多的经济合作的这种呃协-协-协议哦,就是在他和这些国家签订了这种呃关系正常化条约之后呢进行	11	59	196	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	2397.635	2410.859	speaker#26	male	native	呃我刚才听了前面几位观众,就是谈到一个问题,因为我年纪比较轻,但是我从老一辈,因为我这个 (()) 其实我认为就是说日本在中国的近代史上其实前半夜是扮演一个很不光彩的一个角色	11	64	203	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	2441.316	2459.076	speaker#26	male	native	这关键问题是说日本现在就是有一大部分的观点好像我已经给你--给你的钱,他的道义上,良心上已经不受到这个任何的历史的 (()) ,所以他的反省啊,他对战争,在中国犯下的一些列滔天罪行啊,他的反省绝对是没有德国人那么诚恳	11	64	207	nontrans	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	2702.466	2735.265	speaker#10	female	native	可是谈到官方的政府的做法呢,九三九四年的时候已经做过了,已经有了一个正式的一个道歉的一个声明了,所以呢就说从以后的首相也许可能会有情有这-这个情况适当的话,也许他们会从个人的角度呢表达一些--一些道歉,但是呢我想从官方的角度来讲呢,以后不可能还有一系列的这种道歉了,因为我想有一个政府一届政府进行一次官方的道歉呢就已经够了	13	70	223	report	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	2954.623	2980.818	speaker#10	female	native	但的确 (()) 就是现在情况就很不幸,那么现在在我在回到前面来讲呃这个误解的问题,我希望他能得到一定缓解	15	82	243	report	statement
+VOA_ISSUESANDOPINIONS_CMN_20080415_210500	0	3173.815	3194.406	Fan_Dong_Ning	female	native	每一年都有数千名的北韩叛逃者冒着生命的危险逃离贫穷和 (()) 的压迫,跑到中国,这是一段漫长而艰辛的旅程,而美国之音的记者雷卢斯跟随这些北韩难民从中朝边境一路到泰国进行深度报道,下面就是这系列报道的头一偏	17	97	270	report	statement

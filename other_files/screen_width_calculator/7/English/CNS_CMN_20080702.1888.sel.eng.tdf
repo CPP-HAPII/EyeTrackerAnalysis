@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1888	0	1500.0	1600.0	speaker	unknown	unknown	Beijing Weather Modification Office said that behind the every rainfall in Beijing, they were always there to "add fuel to the fire". Since June 23, it had rained continuously for nine days in Beijing, and they have also continuously carried on the artificial rain work during the nine days.	0	0	0		

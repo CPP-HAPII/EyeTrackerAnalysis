@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080414.1116	0	0.0	100.0	speaker	unknown	unknown	Fifteen-year-old British girl sets record exploring arctic, endures severe cold and expedition mate's snore.	0	0	0		

@@ -1,0 +1,191 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 32.801000000000002, 288.012, 325.68599999999998, 357.47699999999998, 439.94400000000002, 583.70299999999997, 709.22799999999995, 760.36300000000006, 1039.5239999999999, 1123.5609999999999, 1178.867, 1234.114, 1257.848, 1281.25, 1337.7570000000001, 1342.0619999999999, 9999999.0]
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	4.698	10.449	speaker#1	male	native	郭伯雄，曹刚川分别观看军队参加全国展演话剧我在天堂等你，马蹄声碎。	0	0	1	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	10.449	13.982	speaker#1	male	native	徐才厚会见受国家表彰的军队话剧艺术家。	0	0	2	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	13.982	22.784	speaker#2	female	native	全军各部队以作战任务为牵引，打破传统的练兵模式， 在近似实战的环境中苦练精兵，促进了部队战斗力的快速生成。	0	1	3	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	22.784	29.660	speaker#1	male	native	广东省军区首次公开集中销毁假冒军车号牌， 对重点地区进行重点整治，打击不法分子。	0	2	5	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	32.801	36.227	speaker#2	female	native	观众朋友您好，欢迎收看中央电视台军事报道。	1	3	8	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	36.227	37.844	speaker#1	male	native	下面请看详细内容。	1	4	9	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	38.533	50.180	speaker#1	male	native	在纪念中国话剧诞生一百周年之际， 我军参演的黄土谣，天籁，我在天堂等你，马蹄声碎等四台优秀剧目赢得广泛好评， 成为首都话剧舞台的一道亮丽风景。	1	4	11	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	50.180	57.485	speaker#1	male	native	昨天，中共中央政治局委员，中央军委副主席郭伯雄观看了参加全国展演的话剧，我在天堂等你。	1	4	14	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	57.485	65.389	speaker#1	male	native	中共中央政治局委员，中央军委副主席，国务委员兼国防部长曹刚川观看了参加全国展演的话剧，马蹄声碎。	1	4	15	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	65.389	72.215	speaker#1	male	native	中共中央书记处书记，中央军委副主席徐才厚会见了受国家表彰的军队话剧艺术家。	1	4	16	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	73.892	84.084	speaker#3	male	native	郭伯雄在观看由解放军艺术学院创作演出的话剧我在天堂等你时指出， 这台话剧是近年来军队话剧舞台涌现出的一部优秀作品，	1	5	18	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	84.593	91.171	speaker#3	male	native	讴歌了特别能吃苦，特别能忍耐，特别能战斗，特别能奉献，特别能创业的老西藏精神。	1	5	21	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	91.697	96.587	speaker#3	male	native	是一部对青年官兵进行革命历史教育和理想信念教育的生动教材。	1	5	23	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	97.246	103.264	speaker#3	male	native	解放军艺术学院为部队和社会输送了大批优秀的文艺人才， 推出了很多好作品。	1	5	25	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	103.264	107.845	speaker#3	male	native	为加强部队文化建设，繁荣社会主义文艺发挥了积极作用。	1	5	27	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	108.534	115.630	speaker#3	male	native	郭伯雄希望军艺全体师生和全军广大文艺工作者， 认真学习贯彻胡主席重要讲话精神。	1	5	29	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	115.630	120.171	speaker#3	male	native	始终坚持军队文艺工作的正确方向， 大力弘扬时代主旋律，	1	5	31	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	120.728	128.738	speaker#3	male	native	始终坚持为兵服务，为提高部队战斗力服务， 为推进中国特色军事变革做好军事斗争准备提供精神动力。	1	5	34	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	129.333	140.211	speaker#3	male	native	始终坚持投身时代洪流，扎根军营沃土，不断进行艺术创新， 创作演出更多官兵喜闻乐见的精品力作， 向党的十七大胜利召开献礼。	1	5	37	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	141.545	151.453	speaker#3	male	native	曹刚川在观看由南京军区政治部文工团创作演出的话剧马蹄声碎时指出， 这是一台好戏，对长征历史进行了新的开掘，	1	5	41	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	151.453	167.886	speaker#3	male	native	是一部优秀的革命历史题材作品， 对于教育引导部队官兵牢固树立革命理想信念，发扬长征精神， 始终坚持听党指挥，服务人民，英勇善战的优良传统， 培育不怕牺牲，敢打必胜的战斗意志，具有重要意义。	1	5	43	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	169.056	176.826	speaker#3	male	native	南京军区政治部文工团是一支有着光荣历史和广泛影响的队伍， 近年来继承光荣传统，不断开拓创新，	1	5	49	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	176.826	179.882	speaker#3	male	native	创作了很多好作品，取得了突出成绩。	1	5	51	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	180.571	194.379	speaker#3	male	native	曹刚川希望文工团的同志和全军广大文艺工作者认真学习贯彻胡主席重要讲话精神， 坚持军队文艺工作的正确方向，大力弘扬主旋律， 更好地为兵服务，为提高部队战斗力服务。	1	5	53	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	194.918	206.146	speaker#3	male	native	要坚持贴近时代，贴近部队，贴近官兵， 用优秀的作品和优异的成绩向建军八十周年献礼， 为党的十七大胜利召开营造良好的文化氛围。	1	5	57	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	207.430	217.374	speaker#3	male	native	徐才厚在会见受国家表彰的军队话剧艺术家时强调， 全军文艺工作者包括话剧工作者， 要认真学习贯彻胡主席的有关重要论述，	1	5	61	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	217.374	235.817	speaker#3	male	native	特别是胡主席在会见受表彰的话剧艺术家时所作的重要指示， 自觉以邓小平理论和三个代表重要思想为指导， 全面贯彻落实科学发展观，大力弘扬主旋律， 把党对军队文艺工作的要求很好地贯彻和体现到话剧创作，表演的实践中去。	1	5	64	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	236.737	255.368	speaker#3	male	native	徐才厚说，要发扬我军文艺工作紧跟时代，贴近生活，服务官兵的光荣传统， 使作品能够更有效地凝聚军心，鼓舞斗志， 更好地为兵服务，为提高部队战斗力服务， 在推动军队建设又好又快发展，履行好使命任务上有更大作为。	1	5	69	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	256.016	269.987	speaker#3	male	native	要强化创新意识，努力推出一批无愧于时代，无愧于人民，无愧于官兵的优秀作品， 为加强军队思想政治建设，繁荣社会主义先进文化， 建设社会主义和谐社会做出新的贡献。	1	5	75	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	271.215	275.257	speaker#3	male	native	中央军委委员，总政治部主任李继耐参加会见和观看。	1	5	79	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	275.875	281.718	speaker#3	male	native	总政治部和军委办公厅领导刘永治，孙忠同，刘振起，童世平，	1	5	81	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	281.718	286.056	speaker#3	male	native	姜吉初，贾廷安等，分别参加会见和观看演出。	1	5	82	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	288.012	296.694	speaker#3	male	native	中央军委委员，总参谋长梁光烈上将今天在八一大楼会见了来访的德国空军监察长克劳斯彼得斯帝格利斯中将一行，	2	6	84	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	297.233	304.374	speaker#3	male	native	梁光烈说，中德双方在文教，经济科技，环保，法律，旅游等领域的交流与合作不断取得新的成果，	2	6	86	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	304.925	307.393	speaker#3	male	native	中方重视发展与德国军队的关系，	2	6	88	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	307.393	312.382	speaker#3	male	native	愿与德方共同努力，把中德两军友好合作关系提高到新的水平。	2	6	89	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	313.011	319.478	speaker#3	male	native	斯帝格利斯表示，愿为进一步加强德中两军间现已存在的友好合作关系而继续努力，	2	6	91	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	320.146	324.298	speaker#3	male	native	中央军委委员，空军司令员乔清晨上将等会见时在座。	2	6	93	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	325.686	329.358	speaker#4	female	native	今天，总后思想教育政治教育工作会在京结束，	3	7	95	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	329.358	337.543	speaker#4	female	native	中央军委委员，总后勤部部长廖锡龙参加会议， 并听取了典型单位开展思想政治教育的先进经验介绍。	3	7	96	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	338.094	344.113	speaker#4	female	native	总后勤部政委孙大发在会上要求， 总后各级要深入贯彻胡主席重要指示，	3	7	99	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	344.113	353.222	speaker#4	female	native	切实增强总后思想政治教育的主动性，针对性和时效性， 确保党从思想上，政治上，组织上牢牢掌握部队。	3	7	101	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	353.791	356.725	speaker#4	female	native	总后副政委孙思敬也一起参加了会议。	3	7	104	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	357.477	364.212	speaker#5	female	native	今天下午，中共中央宣传部，教育部，解放军总政治部联合举办的方永刚同志先进事迹报告会	4	8	106	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	364.212	366.665	speaker#5	female	native	首场巡回报告在国防大学举行。	4	8	107	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	366.665	380.353	speaker#4	female	native	报告会上，大连舰艇学院原副院长崔常发，大连市委宣传部副部长王卫， 沈阳军区联勤部某部军务装备科科长王志元从不同角度讲述了方永刚真情传播党的创新理论的经历，	4	9	108	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	380.881	389.840	speaker#4	female	native	方永刚的妻子回天燕和大连舰艇学院学员丁谨芳讲述了方永刚对事业的忠诚和对亲人对学生的满腔挚爱。	4	9	111	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	390.454	393.775	speaker#4	female	native	由于健康原因，方永刚没有出席今天的报告会，	4	9	113	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	393.775	402.056	speaker#4	female	native	而是采用录像的方式， 回答了自己长期以来孜孜以求，真学，真信，真情传播党的创新理论的心路历程。	4	9	114	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	402.625	409.871	speaker#6	male	native	这个方永刚同志的先进事迹，以及他的这个教学的经验 给了我们很多的教育和启示，	4	10	117	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	410.663	426.543	speaker#6	male	native	啊，我们呐， 这个一定要像他那样， 啊， 来很好的把 这个 传播党的创新理论呢作为天底下，太阳底下这最美丽的事业， 啊最崇高的事业。	4	10	121	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	427.112	438.341	speaker#7	male	native	我觉得 当前 学习方永刚，最主要的是 公心实践， 见诸行动， 要干字当头，落实为先。	4	11	135	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	439.944	447.173	speaker#2	female	native	全军各部队以作战任务为牵引，在近似实战的环境中苦练精兵， 促进了部队战斗力的快速生成。	5	12	147	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	448.251	451.954	speaker#3	male	native	今天，广州军区某团组织了一场全员全装综合演练。	5	13	150	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	452.648	456.538	speaker#8	male	native	东海，东海，我是东海一号，我是东海一号，	5	14	152	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	457.052	461.344	speaker#8	male	native	五幺幺 三七幺动八，三七幺栋八，执行。	5	14	154	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	461.872	468.041	speaker#3	male	native	战斗命令下达后，参演官兵迅速对守敌形成合围态势， 并实施精确打击和远程打击。	5	15	158	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	468.550	474.734	speaker#3	male	native	演练中，许多课目同时展开， 在实战中练指挥，练谋略，练战法，练协同。	5	15	161	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	476.432	490.676	speaker#4	female	native	近日，沈阳军区某师围绕实战需要，将各保障分队与战斗分队融为一体， 展开了一场以战机一体，四组保障的综合演练 ， 使受损装备在快速抢修后再次投入战斗的时间大为缩短。	5	16	164	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	491.425	504.833	speaker#4	female	native	近年来，通过围绕解决作战行动，予以保障时有脱节这一问题， 创新装备保障模式， 并展开针对性强的用修双能拓展训练， 使坦克成员的单装自我保障能力得到提升，	5	16	168	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	504.833	510.556	speaker#4	female	native	一批拿起武器能战斗，拿起工具能修理的复合型装备人才脱颖而出。	5	16	172	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	511.211	516.774	speaker#3	male	native	昨天，第二炮兵某团把部队全员全装拉到野外，进行了一次综合性机动保障演练，	5	17	174	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	517.531	520.063	speaker#3	male	native	演练不设预案，按实战标准进行，	5	17	176	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	520.063	531.664	speaker#3	male	native	当车队行至某地域时，通信指挥信号突然出现异常， 指挥员判定遭敌强电磁干扰，立即启动屏蔽，设置佯动电台， 对敌电磁干扰实施有效牵制。	5	17	177	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	532.233	536.844	speaker#3	male	native	一波未平，一波又起，此时空中又突然响起化学袭击警报，	5	17	182	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	536.844	541.994	speaker#3	male	native	只见官兵立即穿戴好防护装具，快速通过沾染区，并进行洗消。	5	17	183	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	542.765	548.402	speaker#3	male	native	经过近二十多个训练课目的演练，使部队的快速反应和实战能力明显提高。	5	17	185	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	549.000	559.211	speaker#4	female	native	日前，海军东海舰队航空兵某厂站针对未来航空兵作战特点， 组织部队开展了一场旨在提升军交运输保障能力的野外机动演练。	5	18	187	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	560.109	566.247	speaker#4	female	native	演练中，他们应用先进的通信指挥系统， 对参演部队进行全程实时监控。	5	18	190	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	566.247	578.251	speaker#4	female	native	在设置无千斤顶更换轮胎，车队通过复杂路面， 快速开展野外指挥所等十多个训练课目的同时， 还针对战时车辆运输分队可能遭敌打击的课题，	5	18	192	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	578.251	582.654	speaker#4	female	native	展开了一系列战术战法的演练，以提高部队的保障能力。	5	18	195	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	583.703	589.540	speaker#9	female	native	由国防部组织的四十四个国家的中华武官参观团今天来到了武警四川总队女子特警队进行参观，	6	19	197	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	590.079	593.851	speaker#9	female	native	女子特警队员们出色的表演令在座的武官惊叹不已。	6	19	199	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	595.095	598.563	speaker#4	female	native	这次参观是驻华武官首次参观武警部队，	6	20	201	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	599.067	606.127	speaker#4	female	native	女子特警队的主要任务是打击违法犯罪，维护社会稳定， 协同公安机关处置突发事件等。	6	20	203	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	606.696	611.187	speaker#4	female	native	女子特警队员表演的十一个课目让驻华武官们赞叹不已。	6	20	206	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	612.263	617.474	speaker#4	female	native	在进行到反劫持突入战术的演练中，各国的驻华武官起立观看，	6	20	208	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	618.178	624.053	speaker#4	female	native	女子特警队员超强的心理素质和灵活的战术手段， 武官给予了很好的评价，	6	20	210	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	624.700	632.369	speaker#4	female	native	表演刚一结束，各国武官们便按捺不住自己的好奇， 走近女子特警队和特警队员们交谈了起来。	6	20	213	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	633.625	638.013	speaker#4	female	native	英国驻华武官米亚奇认真询问了特警队员的训练情况，	6	20	216	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	638.612	642.487	speaker#4	female	native	对这些特警队员的军事素质和身体素质表示惊讶。	6	20	218	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	643.075	645.139	speaker#4	female	native	阿根廷驻华武官对记者说，	6	20	220	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	646.848	651.935	speaker#10	male	native	很好，我想用一个词来描述，非常职业化，专业化，很好。	6	21	222	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	653.671	658.169	speaker#11	male	native	他们是非常好的战士，肯定接受了非常多的训练。	6	22	224	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	660.612	664.706	speaker#12	male	native	我认为反劫持飞机作战行动给我的印象非常深刻，	6	23	226	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	664.706	667.284	speaker#12	male	native	而且这种表演我从来没见过，	6	23	227	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	667.284	670.389	speaker#12	male	native	对于女子来说是标准非常高的表演。	6	23	228	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	672.587	675.228	speaker#13	male	native	印象非常深刻，表演非常成功，	6	24	230	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	675.228	678.493	speaker#13	male	native	中国妇女经过训练后和男人一样能战斗。	6	24	231	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	680.021	685.096	speaker#4	female	native	随后，驻华武官团的全体成员来到女子特警队的生活区参观，	6	25	233	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	686.011	690.323	speaker#4	female	native	在荣誉室里，武官们仔细观看了女子特警队的工作成绩。	6	25	235	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	690.842	695.257	speaker#4	female	native	对女子特警队员在维护社会中出色表现所折服。	6	25	237	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	696.417	701.431	speaker#4	female	native	参观结束时，驻华武官们怀着对女子特警队员们的敬佩之情，	6	25	239	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	701.431	707.476	speaker#4	female	native	纷纷留言互赠纪念品， 以表达他们对中国女特警们的美好祝愿。	6	25	240	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	709.228	720.770	speaker#2	female	native	连日来，沈阳军区军务部，保卫部，军交运输部， 会同武警部队，公安交通部门在辽宁，吉林，黑龙江三省展开集中打击盗用假冒军车号牌统一行动。	7	26	243	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	720.770	731.219	speaker#2	female	native	这次行动中，军地有关部门共出动兵力警力五百多人， 设立了三十五个稽查点，先后查获假冒军车十多辆，假冒军车号牌数十副。	7	26	245	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	732.392	736.488	speaker#2	female	native	昨天，广东省军区首次公开集中销毁假冒军车号牌，	7	26	248	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	736.488	745.410	speaker#2	female	native	此次销毁的五千多块假冒军车号牌， 是广东省军区在珠三角地区开展的多次设卡检查和突击巡查中缴获的。	7	26	249	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	745.410	754.718	speaker#2	female	native	近两年来，在广东省军区的统一组织和指挥下， 广东省军区所属各单位加大打击不法分子使用假冒军车号牌的力度，	7	26	251	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	754.718	758.787	speaker#2	female	native	对重点地区进行重点整治，取得了较好的效果。	7	26	253	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	760.363	773.760	speaker#1	male	native	圆满完成和平零七海上多国联合军事演习任务的中国海军舰艇编队， 在水文气象复杂，生疏敏感海区多的一万余海里的航程中， 创下了我海军历史上第一次不带补给舰远航等诸多记录。	8	27	255	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	773.760	777.443	speaker#1	male	native	请看今天的特别关注，中国战舰远征大洋。	8	27	258	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	789.918	792.856	speaker#4	female	native	远航的日子寂寞，但并不可怕，	8	28	260	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	792.856	796.484	speaker#4	female	native	可怕的是吃不上新鲜蔬菜，用不上淡水。	8	28	261	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	797.373	805.906	speaker#4	female	native	为了解决这一问题， 启航前，两舰一次性补给了大量的主副食品， 足够两舰官兵四十多天的消耗。	8	28	263	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	807.925	814.128	speaker#4	female	native	从启航到靠上巴基斯坦卡拉奇港码头，单次航程五千多海里。	8	28	267	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	814.678	820.116	speaker#4	female	native	途经的海区敏感，生疏，复杂，需要连续航行十四昼夜，	8	28	269	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	820.620	826.215	speaker#4	female	native	官兵工作强度大，心理压力大，工作生活条件都非常艰苦。	8	28	271	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	826.215	835.946	speaker#4	female	native	对此，他们发扬了风浪再大晕不倒， 任务再重压不倒，困难再多吓不倒， 时间再长累不倒的精神。	8	28	272	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	835.946	842.862	speaker#4	female	native	把大洋作为流动的练兵场，真正做到航行一路，训练一路，提高一路。	8	28	275	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	844.921	855.016	speaker#4	female	native	此次和平零七演习既是各参演国之间的一次真诚的协作的交流， 也是各参演国海军形象与素质的同台比拼。	8	28	277	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	856.006	868.072	speaker#4	female	native	三月六号上午，马来西亚捷巴特导弹护卫舰官兵代表参观连云港舰时， 看到连云港舰舰容整洁，全舰找不到一处明显的斑驳锈迹。	8	28	280	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	869.346	876.384	speaker#14	male	native	马来西亚的官兵到我舰参观时， 看到我们的舰艇非常的干净整洁， 以为我们舰艇是新服役的舰艇。	8	29	283	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	876.893	881.366	speaker#14	male	native	但是当我们告诉他我们的舰艇已经服役八年的时候， 他们非常的惊讶，简直不能相信。	8	29	288	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	882.480	896.396	speaker#4	female	native	如果说编队官兵一点一滴的擦拭保持了我军舰整洁的舰容， 那么，编队官兵文明的言行，得体的举止则展示了我军文明之师，威武之师的良好形象。	8	30	291	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	897.752	910.503	speaker#4	female	native	三月十日，巴基斯坦总统穆沙拉夫在检阅参加海上多国联合军演编队时， 对我编队两舰整洁的舰容，官兵严整的军容给予了高度评价。	8	30	294	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	918.637	922.384	speaker#4	female	native	音乐无国界，音乐架起了友谊的桥梁。	8	30	297	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	922.983	926.608	speaker#4	female	native	在舰上是战斗员，在乐队是演奏员。	8	30	299	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	927.170	932.967	speaker#4	female	native	这支被誉为担负友好使命音乐外交家的演出队编制只有十六人，	8	30	301	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	933.548	938.470	speaker#4	female	native	为了完成好这次礼仪任务，他们只能在工作之余苦练基本功。	8	30	303	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	939.008	946.766	speaker#4	female	native	欢快的旋律，美妙的音乐久久地回荡在异国他乡， 回荡在浩瀚的印度洋上。	8	30	305	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	948.049	956.462	speaker#4	female	native	我海军舰艇编队顺利完成和平零七演习任务后， 离开巴基斯坦卡拉奇港，前往印尼访问。	8	30	308	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	958.017	964.247	speaker#4	female	native	经过六昼夜连续航行，编队在三月十九日跨越赤道，进入南半球。	8	30	311	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	965.341	967.185	speaker#4	female	native	一号预备，放。	8	30	313	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	968.502	970.252	speaker#4	female	native	两号预备，放。	8	30	315	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	971.591	978.073	speaker#4	female	native	为纪念这一不同寻常时刻， 编队官兵整齐列队，鸣放礼炮十五响，	8	30	317	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	978.639	982.661	speaker#4	female	native	并在飞行甲板上举行了隆重的投放漂流瓶仪式。	8	30	321	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	983.799	988.453	speaker#4	female	native	伴随着雄壮的国歌，鲜艳的五星红旗冉冉升起。	8	30	323	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	989.463	995.116	speaker#15	male	native	同一片天空，同一个地球， 让我们携手共创人类美好的未来。	8	31	325	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	995.116	998.371	speaker#16	male	native	祖国， 亲人们，我在赤道向你们祝福。	8	32	328	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	998.880	1002.278	speaker#17	male	native	让和平的阳光普照世界的每一个角落，	8	33	332	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1002.809	1004.881	speaker#17	male	native	祝愿祖国 繁荣昌盛。	8	33	334	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1004.881	1005.410	speaker#17	male	native	谢谢！	8	33	337	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1007.636	1011.871	speaker#4	female	native	一句句铮铮誓言，表达着官兵对祖国的忠诚，	8	34	339	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1011.871	1017.571	speaker#4	female	native	一个个多彩的漂流瓶，寄托着官兵对世界和平的向往。	8	34	340	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1019.183	1022.933	speaker#4	female	native	四月二号，我海军舰艇编队载誉凯旋，	8	34	342	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1022.933	1027.123	speaker#4	female	native	编队此次远航创下海军历史上诸多第一。	8	34	343	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1027.680	1033.184	speaker#4	female	native	第一次不带补给舰远航，第一次在国外参加多边联合军演。	8	34	345	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1033.184	1037.590	speaker#4	female	native	第一次用英语指挥参演的多国海军舰艇编队。	8	34	346	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1039.524	1041.024	speaker#1	male	native	好，下面请看一组简讯。	9	35	348	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1042.609	1049.992	speaker#4	female	native	日前，南京军区组织文艺创作人员， 沿着当年新四军活动的路线进行战斗的抒情风采活动，	9	36	350	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1050.549	1057.796	speaker#4	female	native	他们行程两千多公里，通过参观革命遗址， 听取当地党史专家介绍等感受生活，体验生活。	9	36	353	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1058.425	1068.515	speaker#3	male	native	今天上午，海军某部组织战士参观驻地新跨越，新成就大型摄影图片展， 进一步增强自豪感和责任感， 坚定立足本职岗位做贡献的决心。	9	37	356	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1069.392	1080.791	speaker#4	female	native	今天上午，广州军区某部组织驾驶员来到驻地交警支队参观见学， 进一步学习交通法规，并开展争当文明驾驶之星和红旗车驾驶员评比活动。	9	38	360	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1081.753	1086.885	speaker#3	male	native	近日，新疆军区驻石河子部队出动五千多名官兵来驻地进行义务植树，	9	39	363	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1086.885	1090.102	speaker#3	male	native	栽下两万棵树苗，为驻地绿化做出了贡献。	9	39	364	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1090.930	1104.204	speaker#4	female	native	连日来，四川省政府省军区集中对一百六十名专武干部， 进行了军事技能，业务理论，计算机技能等十多个训练课目培训， 增强专武干部开展基层武装工作的能力。	9	40	366	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1105.086	1113.151	speaker#3	male	native	连日来，武警吉林总队通化支队十个助民服务队深入驻地农村田间地头， 帮助群众解决春耕生产生活中遇到的困难。	9	41	370	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1113.151	1116.147	speaker#3	male	native	先后帮助群众维修农机具一百多台。	9	41	372	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1123.561	1125.402	speaker#2	female	native	好，下面是国际方面的消息。	10	42	374	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1126.466	1130.911	speaker#1	male	native	近两天，伊拉克首都巴格达遭到了血腥的恐怖袭击，造成大批平民死亡，	10	43	376	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1130.911	1136.611	speaker#1	male	native	十九号，美国国防部长罗伯特盖茨突访巴格达， 与伊拉克领导人和驻伊美军官员会晤，	10	43	377	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1136.611	1141.121	speaker#1	male	native	商讨如何加速伊拉克各派的政治和解，改善安全局势。	10	43	379	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1142.544	1147.228	speaker#4	female	native	这是盖茨去年十二月就任国防部长以来对巴格达进行的第三次访问，	10	44	381	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1147.228	1152.767	speaker#4	female	native	也是美国决定向伊拉克增兵和美伊启动巴格达新安全计划以来的首次访问。	10	44	382	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1152.767	1158.142	speaker#4	female	native	他在抵达伊拉克之前对媒体表示，希望看到伊拉克政治和解的进程更快些。	10	44	383	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1158.711	1163.059	speaker#4	female	native	就在盖茨到访的前一天，巴格达经历了数月来最为血腥的一天，	10	44	385	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1163.059	1169.384	speaker#4	female	native	包括市中心萨德里亚市场在内的多个地方遭到炸弹袭击，造成至少一百八十人死亡。	10	44	386	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1169.384	1177.524	speaker#4	female	native	盖茨抵达伊拉克的当天， 巴格达市中心再次发生自杀式汽车炸弹袭击，造成至少十人死亡，二十一人受伤。	10	44	387	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1178.867	1183.272	speaker#2	female	native	十九号，北约俄罗斯理事会在北约总部所在地布鲁塞尔召开会议，	11	45	390	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1183.272	1187.584	speaker#2	female	native	双方就美国计划在东欧部署导弹防御系统问题展开讨论，	11	45	391	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1187.584	1190.458	speaker#2	female	native	但是在该问题上的分歧仍未能消除。	11	45	392	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1191.775	1199.144	speaker#3	male	native	在会后举行的新闻发布会上， 北约秘书长夏侯雅伯说，目前分歧依然存在， 北约成员国已经被美国说服，	11	46	394	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1199.144	1202.456	speaker#3	male	native	一致认为，反导系统不会打破欧洲战略平衡，	11	46	397	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1202.456	1204.831	speaker#3	male	native	但是俄罗斯方面对此持怀疑态度。	11	46	398	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1205.401	1219.296	speaker#3	male	native	据悉，美国已经向俄罗斯提出共享导弹防御预警数据， 各自战区导弹系统对接，联合演习，扩大在非导弹防御领域防卫合作等建议 以获取俄罗斯对美国在欧洲部署导弹防御系统的支持。	11	46	400	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1219.815	1227.554	speaker#3	male	native	对此，俄罗斯第一副总理谢尔盖伊万诺夫十九号表示， 目前似乎还找不到要与美国合作，建立导弹防御系统的理由。	11	46	404	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1227.554	1233.153	speaker#3	male	native	不过双方将会在下周，美国防部长盖茨访俄时继续就这一问题举行磋商。	11	46	406	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1234.114	1238.794	speaker#4	female	native	委内瑞拉首都加拉加斯第一艘治安巡逻飞艇十九号正式亮相。	12	47	408	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1238.794	1244.081	speaker#4	female	native	这艘耗资一百四十万美元，时速八十公里的飞艇将用于城市日常巡逻。	12	47	409	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1244.081	1248.928	speaker#4	female	native	当罪案发生后，它能迅速赶到犯罪现场上空拍摄音像资料，	12	47	410	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1249.438	1252.235	speaker#4	female	native	委内瑞拉是世界上犯罪率较高的国家之一，	12	47	412	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1252.235	1257.105	speaker#4	female	native	委内瑞拉政府预计将陆续投入三艘飞艇，降低暴力犯罪的发生。	12	47	413	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1257.848	1266.117	speaker#3	male	native	哥伦比亚西南的内瓦多火山十七号夜间开始发生喷发， 并引发了大面积洪水和泥石流，许多道路和桥梁被吞噬。	13	48	415	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1266.840	1272.285	speaker#3	male	native	哥伦比亚空军随后出动救援直升机前往偏远地区， 并将那里的居民运往安全地带。	13	48	418	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1272.285	1279.980	speaker#3	male	native	十九号，前往灾区视察的哥伦比亚总统乌里维承诺， 政府将动用救援基金重建被毁地区的公共设施。	13	48	420	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1281.250	1286.515	speaker#2	female	native	节目的最后为您安排的是下周中央电视台第七套军事节目将要播出的部分内容。	14	49	423	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1287.735	1295.126	speaker#4	female	native	本期军事科技瞭望台资讯版将介绍近期全球最新军事发展动态， 探索军事装备的发展方向。	14	50	425	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1295.668	1301.387	speaker#4	female	native	设计师将为您讲述以色列乌兹冲锋枪的发明者乌兹盖尔的传奇人生。	14	50	428	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1302.131	1307.600	speaker#4	female	native	本期中国武警栏目为您播放系列纪录片，海拔四六六三第八集，生命卫士。	14	50	430	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1308.119	1313.452	speaker#4	female	native	精湛的射术，充沛的体能，过人的心理，面对困难，他们如履平地，	14	50	432	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1313.452	1318.672	speaker#4	female	native	敬请收看四月二十二号超级战士，海军陆战队男子两栖队。	14	50	433	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1320.153	1323.917	speaker#4	female	native	有了远程打击能力，水雷战还能起什么作用？	14	50	435	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1323.917	1328.902	speaker#4	female	native	敬请关注本期军情连连看，水雷战双刃剑，还是撒手锏？	14	50	436	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1329.511	1335.521	speaker#4	female	native	下周的百战经典为您推出系列节目，二战人物志之永远的瓦尔特铁托。	14	50	438	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1337.757	1339.676	speaker#1	male	native	好，感谢收看今天的军事报道。	15	51	440	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1339.676	1341.476	speaker#2	female	native	明天同一时间我们再见！	15	52	441	report	
+CCTV7_MILITARYNEWS1_CMN_20070420_193000	0	1341.476	1342.062	speaker#1	male	native	再见！	15	53	442	report	

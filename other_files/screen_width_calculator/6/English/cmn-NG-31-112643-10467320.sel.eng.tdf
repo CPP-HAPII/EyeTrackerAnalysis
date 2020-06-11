@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-112643-10467320	0	100.0	200.0	speaker	unknown	unknown	*[Original] No matter what, mainstream public opinion supported the government in quelling the *Tibetan* incident.	0	0	0		
+cmn-NG-31-112643-10467320	0	700.0	800.0	speaker	unknown	unknown	What kdnet non-governmental democrats (note: I did not call them right dung) need to ponder is why being so highbrow that few people can understand?	0	0	0		
+cmn-NG-31-112643-10467320	0	4000.0	4100.0	speaker	unknown	unknown	Will it be that easy to compromise Can public opinion on domestic forums be fair and true? Those who have visited NetEase have already known how they got the 10,000 support!	0	0	0		
+cmn-NG-31-112643-10467320	0	4100.0	4200.0	speaker	unknown	unknown	Why can't I click the "disagree" button?	0	0	0		

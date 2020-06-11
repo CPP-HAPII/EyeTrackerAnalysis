@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0010.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	北京奥运圣火抵达坦尚尼亚 传递行程大缩水	0	0	0		statement
+AFP_CMN_20080413.0010.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社坦尚尼亚三兰港十二日电	0	0	0		statement
+AFP_CMN_20080413.0010.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	象徵二零零八年北京奥运的圣火,今天在戒备森严的安全防护下抵达坦尚尼亚最大城市三兰港,将展开其实风险不高,但已经大幅缩水、在非洲仅有的圣火传递行程。	0	0	0		statement
+AFP_CMN_20080413.0010.sgm	0	1500.000	1900.000	TEXT1	unknown	unkown	目前并无支持西藏的反中示威活动计划于明天在三兰港展开,但原先规划的二十五公里圣火传递行程,已经缩水为在坦尚尼亚商业大城三兰港的两小时五公里路跑活动。	0	0	0		statement
+AFP_CMN_20080413.0010.sgm	0	2100.000	2600.000	TEXT1	unknown	unkown	三兰港濒临印度洋,市政府已矢言加强圣火传递沿 线的安全防护;市长金比萨表示,明天的圣火传递规模缩减「是因为坦尚尼亚雨量很多」,他昨天对「法新社」坦承:「当然,可能会有两三个疯子想要干扰圣火传递」。	0	0	0		statement
+AFP_CMN_20080413.0010.sgm	0	2800.000	3100.000	TEXT1	unknown	unkown	金比萨在一份声明中表示,但「我要向大众保证无需担心,我们掌控全局,我们将确保奥运圣火在坦尚尼亚的传递获得成功」。	0	0	0		statement
+AFP_CMN_20080413.0010.sgm	0	3300.000	3500.000	TEXT1	unknown	unkown	三兰市警方表示,安全防护工作将以「高警戒」沿着圣火传递路线部署。	0	0	0		statement
+AFP_CMN_20080413.0010.sgm	0	3700.000	4100.000	TEXT1	unknown	unkown	北京奥运圣火传递所到之处,抗议如影随行,在非洲只停留坦尚尼亚一站,市政府表示,三兰港决心要成为第一个无抗议问题的圣火传递城市,并希望追随布宜诺斯艾利斯的脚步。	0	0	0		statement

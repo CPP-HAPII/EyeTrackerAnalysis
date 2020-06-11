@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080416.0218	0	1700.0	1800.0	speaker	unknown	unknown	李维一：十分希望大陆企业能到台湾投资	0	0	0		
+PDA_CMN_20080416.0218	0	3300.0	3400.0	speaker	unknown	unknown	大陆给他们起名的时候，不仅仅限于大陆方面，台湾同胞和海外侨胞也都提出了很多建议，最后根据最多的票数确定为“团团”和“圆圆”。	0	0	0		

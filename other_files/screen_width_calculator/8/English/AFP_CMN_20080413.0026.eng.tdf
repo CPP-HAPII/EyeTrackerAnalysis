@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0026.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Kenyan President and Opposition Leaders Reach Agreement on Forming Coalition Government	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	AFP on the 12th, Nairobi	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	Political and diplomatic sources said that Kenyan President Kibaki and opposition leader Odinga, the would-be prime minister, have reached an agreement on forming a coalition government and will announce the name list of a new cabinet tomorrow.	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	Sources close to the two leaders said, "The two leaders held talks today and agreed to form a new coalition cabinet. The name list of the cabinet will be announced around noontime tomorrow."	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	2000.000	2100.000	TEXT1	unknown	unkown	A Western diplomat has confirmed that the two parties reached this agreement.	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	2300.000	2400.000	TEXT1	unknown	unkown	The result of Kenya's elections in December of last year led to disputes and violence, leaving at least 1,500 people dead and hundreds of thousands of people displaced.	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	2400.000	2700.000	TEXT1	unknown	unkown	The government and the opposition party later signed a power-sharing agreement in February of this year in an effort to end conflicts.	0	0	0		statement

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117649-10710908	0	300.0	400.0	speaker	unknown	unknown	奥运会开幕式上那首《歌唱祖国》并不是由电视上所有观众都看到的那个小女孩儿唱的，而是由另外一个小女孩儿在幕后演唱的。	0	0	0		
+cmn-NG-31-117649-10710908	0	1200.0	1300.0	speaker	unknown	unknown	据美国之音报道，北京大军经济分析研究所的仲大军说：说实话，艺术这个东西就是弄虚作假，是吧？	0	0	0		
+cmn-NG-31-117649-10710908	0	1300.0	1400.0	speaker	unknown	unknown	（原话：“这个东西，艺术就是弄虚作假，说实话的，是吧？”）“ 就是说有些孩子用的是汉族的小孩来表现56个民族，这个没什么不可以的。	0	0	0		
+cmn-NG-31-117649-10710908	0	1400.0	1500.0	speaker	unknown	unknown	因为它是演出嘛！	0	0	0		
+cmn-NG-31-117649-10710908	0	1800.0	1900.0	speaker	unknown	unknown	说的和实际做的不是一回事儿，这让世界感到不对劲儿。	0	0	0		
+cmn-NG-31-117649-10710908	0	2100.0	2200.0	speaker	unknown	unknown	北京的陈子明星期五(15日)对美国之音表示，当局主导的一些做法，实际上是给自己找麻烦。	0	0	0		
+cmn-NG-31-117649-10710908	0	2500.0	2600.0	speaker	unknown	unknown	陈子明说，实际上中共这么多年来一直就是把所谓的利益放在第一位，把正义、公正放在可有可无的位置。	0	0	0		

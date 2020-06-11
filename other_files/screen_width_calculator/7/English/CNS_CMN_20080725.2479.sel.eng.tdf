@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.2479	0	800.0	900.0	speaker	unknown	unknown	Prior to the Athens Olympics, Xie Xingfang was only the number four in Chinese women's singles. After she was defeated, an SMS message "I'll protect you with my scores!" from Lin Dan seemed to give support and confidence to this girl who was at a loss and vulnerable.	0	0	0		

@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 11.755000000000001, 36.781999999999996, 79.653000000000006, 522.57000000000005, 603.34000000000003, 1136.492, 1226.4010000000001, 1526.22, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20080422_202802	0	150.841	163.027	Li_Sheng	male	native	雾大,雾相当大,天黑望不见,灯-灯光一米-一米左右 (())	3	5	7	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080422_202802	0	184.162	198.770	Wang_An_Yu	male	native	那晚上我是一直没-没睡好,等他带-带到以后,打电话给我,心里才安全的	3	7	9	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080422_202802	0	438.806	449.046	Li_Sheng	male	native	我没拿你东西,值多少钱我也不知道,我也不知道你把贵重的东西给我,我也没-没藏你东西,装起来	3	26	30	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080422_202802	0	740.471	758.222	speaker#3	female	native	王安玉一口咬定包裹里是货真价实的黄金,李胜却说他根本不知道里面是什么,那么如果真的是六斤重的黄金,这么贵重的东西,如此随便地就交给别人捎带,有没有这种可能呢	5	41	46	report	statement

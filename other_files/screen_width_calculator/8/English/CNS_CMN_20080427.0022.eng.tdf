@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0022.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Rogge: Western Nations Must Stop Hectoring China over Human Rights Issues	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008, 11:33, Source: Chinanews.com - Comment	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Chinanews.com, April 27 - According to foreign newswire, International Olympic Committee President Rogge said in an interview on Saturday that Western nations must stop "hectoring" China over human rights issues.	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	In an interview with Britain's Financial Times, Rogge said that the West likes to impose its own opinions on others, which is the biggest mistake Westerners make.	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	Rogge said that the dialogue with China must be conducted on the premise of "respect and calmness."	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Imposing different opinions on others can only produce the opposite results.	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	"It took the West 200 years to evolve from the French Revolution to the current mode. China only started in 1949."	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	Rogge said, "We abandoned colonial rule only 40 years ago. Let's be a little bit more modest."	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	Rogge said, "We have the obligation to give China more time, and the Olympics will have a positive social influence on China."	0	0	0		statement
+CNS_CMN_20080427.0022.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	And personally, Rogge said, he himself has a very good relationship with Beijing authorities.	0	0	0		statement

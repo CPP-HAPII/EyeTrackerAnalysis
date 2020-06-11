@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.1236	0	800.0	900.0	speaker	unknown	unknown	7月15日，记者一走进这个家属院，映入眼帘的就是刻在门口一块巨石上的“园桂园”三个红色大字。	0	0	0		
+CNS_CMN_20080718.1236	0	900.0	1000.0	speaker	unknown	unknown	一进大门东侧墙上标有红色的“5”、“6”、“7”三栋别墅，共11套，别墅共上下两层，均带有一个小院，每套别墅都是统一模式的铁栅门。	0	0	0		
+CNS_CMN_20080718.1236	0	1000.0	1100.0	speaker	unknown	unknown	在“园桂园”里，还有4栋一般工作人员的住宅楼。	0	0	0		
+CNS_CMN_20080718.1236	0	1500.0	1600.0	speaker	unknown	unknown	当时，这宗土地很快被信阳市国土资源局的领导看上，取消其原定的拍卖出让计划，10亩土地用于建设名为“土地大厦”的信阳市国土资源局办公大楼，剩余30亩土地用于建设这个局处级领导别墅群，共11套，分配给领导时，仅收取建筑成本，每套约20万元，而当前实际价值约200万元。	0	0	0		
+CNS_CMN_20080718.1236	0	2600.0	2700.0	speaker	unknown	unknown	国土资源局把本来用于招拍的土地，借助手中的权力，摇身一变就成了囊中私物，最后被定性为超面积集资建房。	0	0	0		

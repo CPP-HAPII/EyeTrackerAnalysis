@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080427.0057.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Beijing Olympic Torch Relay Run in Rain in Nagano, Japan	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-27 06:17:40 Source: PLA Daily, Page 3	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	900.000	950.000	TEXT1	unknown	unkown	The Olympic torch relay was held on the morning that day.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	950.000	975.000	TEXT1	unknown	unkown	Hundreds of thousands of local residents and overseas Chinese from all over Japan were waiting along the route since early morning for the torch.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	At 08:25 local time, Hoshino Senichi, the first torch bearer and head coach of the Japanese baseball team, ran out from the site of the starting ceremony to kick off the relay.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The relay route was about 18.7km long and involved 80 torch bearers.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	They come from all walks of life, including well-known athletes, such as Kosuke Kitajima, Saori Yoshida, Ai Fukuhara and Mizuki Noguchi, as well as blind persons, intellectually challenged, seriously deaf individuals and people suffering from infantile paralysis.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	There were also there Chinese torch bearers, including Cui Tiankai, the Chinese Ambassador to Japan.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Late April is when the peach blossoms in Nagano are in full bloom. Along the relay route, people were waving colored flags and various slogans to welcome the arrival of the torch.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	A white-haired Japanese old man in a coat bearing the wordings "Thank you my Chinese parents for the rearing" stood on street side to greet the relay motorcade.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	Some people held high the placards "Oppose Distortion of Facts by European and American Media".	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	A female Chinese student broke into tears when she saw the torch. She waved the five-star red flag in her hand and shouted "China Jiayou!".	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	She told reporters she and some of her classmates had driven for 12 hours overnight to get to Nagano.	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	They were all very excited when seeing the torch of the Beijing Olympic Games.	0	0	0		statement

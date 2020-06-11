@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080723.0021	0	1100.0	1200.0	speaker	unknown	unknown	图为贝尔格莱德《健康生活》杂志7月22日提供的一张未注明日期的卡拉季奇近照。	0	0	0		
+GMW_CMN_20080723.0021	0	2100.0	2200.0	speaker	unknown	unknown	他说：“即使他的房东也没有认出他的真实身份。”他透露，卡拉季奇还取了一个假名字：德拉甘・达比奇。	0	0	0		
+GMW_CMN_20080723.0021	0	2500.0	2600.0	speaker	unknown	unknown	贝尔格莱德《健康生活》杂志主编科伊奇说，当他在电视看到卡拉季奇的照片非常震惊，认出他就是经常给他们杂志供稿的人。	0	0	0		
+GMW_CMN_20080723.0021	0	3800.0	3900.0	speaker	unknown	unknown	新华社/路透	0	0	0		
+GMW_CMN_20080723.0021	0	4400.0	4500.0	speaker	unknown	unknown	卡拉季奇在那里将会遇到的37个囚犯中包括他担任总统时的议长莫姆契洛莫姆契洛?	0	0	0		

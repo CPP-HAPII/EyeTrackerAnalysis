@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080726.0063	0	100.0	200.0	speaker	unknown	unknown	新华社索非亚７月２５日电（记者王蒙）近一周来，由于保加利亚首都索非亚市主要环卫公司“诺维拉”公司的环卫工人集体离职，导致街道无人清扫，索非亚市区垃圾成灾。	0	0	0		
+XIN_CMN_20080726.0063	0	400.0	500.0	speaker	unknown	unknown	但直到２４日，“诺维拉”公司的负责人才向媒体宣布，由于公司的２００多名环卫工人集体离职，致使公司出现劳动力危机。	0	0	0		
+XIN_CMN_20080726.0063	0	500.0	600.0	speaker	unknown	unknown	“诺维拉”公司还说，虽然公司每年夏季都会遇到员工离职的问题，但今年的情况不同寻常，不排除有人在背后组织操纵。	0	0	0		
+XIN_CMN_20080726.0063	0	800.0	900.0	speaker	unknown	unknown	同时，索非亚市政府决定对“诺维拉”公司处以５万列弗（约合４万美元）罚款。	0	0	0		

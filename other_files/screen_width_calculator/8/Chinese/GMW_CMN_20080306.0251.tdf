@@ -1,0 +1,23 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080306.0251.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	樊金龙代表：引导过剩资金流向农村	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	记者　周英峰 2008-03-06	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	900.000	950.000	TEXT1	unknown	unkown	新华网北京３月６日电	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	950.000	975.000	TEXT1	unknown	unkown	全国人大代表、江苏省淮安市市长樊金龙说，“三农”和流动性过剩是两会上的热点话题，实际上这两个话题完全可以联系起来讨论。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	建议政府出台有针对性的政策措施，把市场上过剩的资金吸引到真正需要资金的农村。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	樊金龙说，一方面是流动性过剩，另一方面是农村发展需要大量的资金。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	具体来说，农村有五个地方需要资金投入：一是农业生产条件。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	包括农业生产所需的水利灌溉、电力供应等设施。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	目前，一些地方的农用设施已出现老化等现象。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1293.750	1296.875	TEXT1	unknown	unkown	二是农村基础设施。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1296.875	1298.438	TEXT1	unknown	unkown	完善道路、交通、饮水、绿化等基础设施，是农村改善生产、生活条件的基础工作。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1298.438	1299.219	TEXT1	unknown	unkown	三是高效生态农业。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.219	1299.609	TEXT1	unknown	unkown	高效生态农业是农民增收的重要渠道，产出高，投入也高，需要外界资金大量介入，支持农业产业化经营与发展。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.609	1299.805	TEXT1	unknown	unkown	四是新农村建设。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.805	1299.902	TEXT1	unknown	unkown	中国人多地少，分散的村庄有进行集中的必要，以节省土地资源。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.902	1299.951	TEXT1	unknown	unkown	做好这项工作同样需要资金支持。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.951	1299.976	TEXT1	unknown	unkown	五是农民创业。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.976	1300.000	TEXT1	unknown	unkown	农民无论是搞种植、养殖还是农产品运输，以及其他为农服务的创业，都需要资金支持。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	樊金龙认为，目前过剩的资金流不到农村，主要是投资者需要考虑投入产出比。	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	樊金龙建议，国家应出台一些鼓励政策，推动国有商业银行“往下沉”，使之能真正扎根农村服务“三农”；让民间信贷“往上浮”，使之拥有合法身份进行经营；让工商资本进农村，使之能从投资“三农”中获得合理收益。	0	0	0		statement

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0008.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Research Indicates a High Degree of Genetic Differentiation among Indians	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	An Indian genome sequencing report recently released by the Indian Department of Science and Technology indicates that the genes of Indians vary greatly, and that among India's various ethnicities, there exists a high degree of genetic differentiation.	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	This research was completed after long-term investigations conducted by more than 150 scientists and research personnel in India. The subjects of study included Indians from four main language families within India's borders: the South Asian language family, the Tibetan-Burmese language family, the Indo-European language family, and the Dravidian language family.	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	The research also indicated that although the degree of genetic differentiation among Indians was quite high, still, Indians universally lack a kind of genetic marker that is resistant to the human AIDS virus HIV-1. It is possible that this causes Indians to have a higher risk of contracting the AIDS virus. (Li Baodong)	0	0	0		statement

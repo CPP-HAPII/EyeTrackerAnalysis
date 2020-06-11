@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080713.0434	0	300.0	400.0	speaker	unknown	unknown	民航华北地区管理局有关负责人13日说，7月12日9时50分，北京泛亚通用航空公司施瓦泽S300C／B-7218号直升机在北京市平谷区金海湖酸枣峪林场执行农化作业飞行时，因直升机撞上10千伏高压线后坠毁，机上1名驾驶员当场死亡。	0	0	0		
+CNS_CMN_20080713.0434	0	600.0	700.0	speaker	unknown	unknown	(记者林红梅)	0	0	0		

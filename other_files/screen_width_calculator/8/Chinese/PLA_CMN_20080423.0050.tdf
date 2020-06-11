@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0050.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	法国：西方支持"藏独"是反华情绪作怪	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 06:22:32   来源：解放军报第8版	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	900.000	950.000	TEXT1	unknown	unkown	社论表示，人们能够从西方在支持“藏独”的活动中分辨出一种反华情绪，也就是隐藏在人权旗帜下的敌意。	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	950.000	975.000	TEXT1	unknown	unkown	这似乎可以联想到上世纪70年代和80年代西方对日本的敌意。	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	因为如今的中国就像当年的日本那样，动摇了全球经济的平衡，而对“中国制造”的恐惧更为这种敌意火上浇油。	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	社论指出，在普世价值的“高尚保卫战”之下，偶尔也会散发出种族主义臭气，而这与西方宣扬的原则是背道而驰的。	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	支持“藏独”的活动实际上折射出西方的复杂心态。	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	面对代表全球化的中国，西方茫然不知所措。	0	0	0		statement

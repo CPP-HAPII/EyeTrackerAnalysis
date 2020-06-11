@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117661-10713801	0	0.0	100.0	speaker	unknown	unknown	could I ask: the win2003 server, doesn't require software interface mapping	0	0	0		
+cmn-NG-31-117661-10713801	0	100.0	200.0	speaker	unknown	unknown	I have a win2003server machine	0	0	0		
+cmn-NG-31-117661-10713801	0	400.0	500.0	speaker	unknown	unknown	(only win server and vmareplayer) what should I do?	0	0	0		
+cmn-NG-31-117661-10713801	0	500.0	600.0	speaker	unknown	unknown	could experts please explain in more detail.	0	0	0		
+cmn-NG-31-117661-10713801	0	600.0	700.0	speaker	unknown	unknown	thanks in advance!	0	0	0		

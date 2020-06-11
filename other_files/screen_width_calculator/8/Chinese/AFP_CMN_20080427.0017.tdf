@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0017.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	北韩拒与南韩互设办事处　批李明博装模作样	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社首尔二十六日电	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	北韩国营媒体报导,北韩今天拒绝南韩总统李明博在两国首都成立联络办事处的提议,声称这项提议是「反统一」的装模作样把戏。	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	1400.000	1800.000	TEXT1	unknown	unkown	北韩执政劳动党的机关报「劳动新闻」说,这不是什么崭新的构想,李明博之前的几任总统为了使朝鲜半岛永久分裂,也曾提出类似建议,但都被「丢到垃圾桶了」。	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	1800.000	2200.000	TEXT1	unknown	unkown	这家日报形容李明博的提议是「规避两韩关系恶化责任的肤浅策略」。	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	报导说:「李明博必须停止这种装模作样的把戏, 回归六月十五日的精神。」	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	2500.000	2850.000	TEXT1	unknown	unkown	这是指公元两千年的两韩和平与和解宣言。	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	2850.000	3025.000	TEXT1	unknown	unkown	一九九零年代,南韩也曾提议在彼此首都成立联络办事处,但遭北韩拒绝。	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	3025.000	3200.000	TEXT1	unknown	unkown	双方目前在停战村板门店设有联络办事处。	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	3400.000	3700.000	TEXT1	unknown	unkown	在南韩两位自由派总统奉行十年「阳光」交往政策后,保守派的李明博二月二十五日就职后在两韩关系上采取较强硬的立场,为此激怒北韩。	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	3900.000	4100.000	TEXT1	unknown	unkown	北韩已中止与南韩的所有对话,并指责李明博是「战争贩子般」的叛徒。	0	0	0		statement

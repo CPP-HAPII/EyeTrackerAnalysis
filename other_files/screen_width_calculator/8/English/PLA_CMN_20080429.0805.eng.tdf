@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0805.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Stewart: Kubica Gave Me Deep Impression	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 21:00:14 Source: Xinhua News Agency rough draft	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Warsaw (Xinhua News Agency), April 29. - Olympics Special Feed (Reporter Zhang Zhang) - The third F1 world champion, Stewart, said recently that as a car racer from Poland, Kubica's performance shocked him. Kubica is the car racer for the BMW team.	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	According to a report from Poland's "Daily Newspaper" on the 29th, when Stuart was interviewed he said Kubica made him feel shocked. One aspect was his score, and another aspect was that he came from undeveloped car-racing Poland.	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	Stewart said: "To my knowledge, Poland hasn't had any F1 car racers, but now Kubica has become a contender for the championship."	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Stewart said: "I previously thought Kubica was the most outstanding young F1 car racer, of course +after that the even more outstanding Hamilton appeared."	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	But he said that it was beyond his ability to describe this season's outstanding performance by Kubica and the BMW team.	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	Stewart said he was not surprised that the BMW team could grow to be the best team because BMW is one of the world's biggest car manufacturers, with strong and solid hardware and they also prepare their tactics thoroughly.	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	He said what surprised him was the BMW team's rate of advancement. Being able to get into the top three teams within such a short time is really a miracle.	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	Stewart said the BMW team will undoubtedly become the "lion on the path" for the Ferrari team's road to the championship. They may some day force their way to the world championship.	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	But he said that this race season's BMW team still isn't mature enough. Next race season they will inevitably make a lot of trouble for the Ferrari team. (The End)	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	2008/04/29 18:48	0	0	0		statement

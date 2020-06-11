@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070105.0030	0	10010.000	10019.900				Cold War: A Lesson for the Economy - Commemorating the 15th Anniversary of the End of the Global Cold War	0	0	0		
+CNS_CMN_20070105.0030	0	20010.000	20019.900				January 5, 2007, 17:18	0	0	0		
+CNS_CMN_20070105.0030	0	30010.000	30019.900				On December 25 fifteen years ago, the red flag that was printed with a sickle and hammer on top of the Kremlin Palace was slowly lowered amid the rustling, cold wind.	0	0	0		
+CNS_CMN_20070105.0030	0	30020.000	30029.900				It was a declaration to global citizens that a super power - the Soviet Union - had arrived at its final days. It also symbolized the official conclusion of the Cold War that had influenced global structure since the Second World War.	0	0	0		
+CNS_CMN_20070105.0030	0	40010.000	40019.900				In the 70s of the last century, regardless of whether it was socialism or capitalism, economic development encountered a bottleneck.	0	0	0		
+CNS_CMN_20070105.0030	0	40020.000	40029.900				At that time, Western capitalist countries took the lead in undertaking self-reflection, and injected larger doses of market factors into their economies in order to rescue the economies. But since the Soviet Union and Eastern Europe stuck to their old models, their economies finally collapsed, and this in turn led to social unrest.	0	0	0		
+CNS_CMN_20070105.0030	0	40030.000	40039.900				Whereas at that time, China attempted to reform its old system by boldly yet cautiously introducing a market economy. This eventually brought a new life to its troubled national economy.	0	0	0		
+CNS_CMN_20070105.0030	0	50010.000	50019.900				[1]	0	0	0		

@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070107.0054	0	10010.000	10019.900				Guo Yue among Kong Linghui's First Batch of Disciples	0	0	0		
+PLA_CMN_20070107.0054	0	20010.000	20019.900				(Source: Issue time: 2007-01-07 21:28)	0	0	0		
+PLA_CMN_20070107.0054	0	30010.000	30019.900				Xinhua News Agency, Guangzhou on January 7 Sports Special (Reporter Jia Wenjun) With the start of the official winter training of Chinese female ping pong national players in Zhongshan, the male all-around champion Kong Linghui also officially welcomed in his own coaching career. Asian Games three-time gold medalist Guo Yue and young Guangdong player Liu Shiwen became the first batch of frontline team members under his charge.	0	0	0		
+PLA_CMN_20070107.0054	0	40010.000	40019.900				Last October, after retirement, Kong Linghui became coach of the First Chinese Female Ping Pong Team.	0	0	0		
+PLA_CMN_20070107.0054	0	40020.000	40029.900				But at that time Kong Linghui had no charge of consistent team members. His work was primarily assisting other coaches.	0	0	0		
+PLA_CMN_20070107.0054	0	40030.000	40039.900				After arriving at Zhongshan, the coaching staff reassigned team members. Kong Linghui also officially had team members under his charge.	0	0	0		
+PLA_CMN_20070107.0054	0	50010.000	50019.900				The head coach of the Chinese Female Ping Pong Team, Shi Zhihao, has expressed approval of Kong Linghui's work in the women's team during the recent period: "Since Kong Linghui took the post, he has been working very diligently as well as very devotedly. He has also earned the respect of the team members."	0	0	0		
+PLA_CMN_20070107.0054	0	60010.000	60019.900				Regarding her own new coach, Guo Yue said that, "Kong Linghui himself was a ping pong all-around champion. I can certainly learn a lot of techniques and gain experience from him."	0	0	0		
+PLA_CMN_20070107.0054	0	70010.000	70019.900				Kong Linghui was also full of confidence about the future. He indicated: "Regarding how to train the team members is already well understood. The short-term and long-term training plans are all very clear in my mind. I hope I can achieve better results in the training post."	0	0	0		
+PLA_CMN_20070107.0054	0	80010.000	80019.900				After China's Women's Ping Pong Team arrived at Guangdong Zhongshan on the 3rd of this month, they took a two day-long rest. The team members went to visit the museum of Sun Yat-Sen's former residence, and afterward carried on a short military training.	0	0	0		
+PLA_CMN_20070107.0054	0	90010.000	90019.900				This time all those attending the Zhongshan winter training were from the national women's team's frontline members.	0	0	0		
+PLA_CMN_20070107.0054	0	90020.000	90029.900				Team captain Huang Biao introduced the winter training goals: "This year is the most crucial year in preparing for the Beijing Olympic Games. This winter training not only needs to guarantee advancement of each player's techniques and tactics, but also needs to make every major team member achieve and maintain optimum condition to welcome next year's Olympic Games."	0	0	0		
+PLA_CMN_20070107.0054	0	100010.000	100019.900				The second half of this month, the Chinese women's team will participate in international tournaments in two places in Croatia and Slovenia.	0	0	0		
+PLA_CMN_20070107.0054	0	100020.000	100029.900				At that time, frontline team members such as Zhang Yining, Wang Nan, etc., will go to compete.	0	0	0		
+PLA_CMN_20070107.0054	0	100030.000	100039.900				(end)	0	0	0		

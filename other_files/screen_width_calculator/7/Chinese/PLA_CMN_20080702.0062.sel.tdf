@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080702.0062	0	900.0	1000.0	speaker	unknown	unknown	５月１３日凌晨，就在老党员汪浩带着官兵赶赴汉旺镇的同时，贵州消防安顺支队的三级士官，入党不久的周瑜伟也告别了病重的母亲，匆匆离开了家。	0	0	0		
+PLA_CMN_20080702.0062	0	1400.0	1500.0	speaker	unknown	unknown	早早出发的周瑜伟没想到，通向汉旺镇的高速公路早已因为通信、道路中断而堵得水泄不通。	0	0	0		
+PLA_CMN_20080702.0062	0	1500.0	1600.0	speaker	unknown	unknown	他心急如焚地坐在大巴上，无计可施。	0	0	0		
+PLA_CMN_20080702.0062	0	1700.0	1800.0	speaker	unknown	unknown	他安排战士们在车上休息，自己带领着几名干部继续冒雨勘察地形，确定现场指挥部设立地点。	0	0	0		
+PLA_CMN_20080702.0062	0	2200.0	2300.0	speaker	unknown	unknown	上午，经过数十个小时车程颠簸，辗转６００多公里的周瑜伟也赶到了汉旺镇，向总指挥汪浩报到，加入了抗震救灾的队伍。	0	0	0		
+PLA_CMN_20080702.0062	0	2400.0	2500.0	speaker	unknown	unknown	暴露“真相”的小纸条	0	0	0		
+PLA_CMN_20080702.0062	0	2500.0	2600.0	speaker	unknown	unknown	汪浩慢慢地翻看着战士们准备让贵州志愿者带给家人的小纸条，突然，贵阳支队搜救分队队长鲁波的小纸条吸引了他的目光。	0	0	0		
+PLA_CMN_20080702.0062	0	2700.0	2800.0	speaker	unknown	unknown	汪浩和战友们很快知道，今年４月，鲁波的妻子陈小露被查出身患白血病，就在鲁波进入灾区时，她正在医院进行第六次化疗，医生也已经下发了病危通知书。	0	0	0		
+PLA_CMN_20080702.0062	0	2900.0	3000.0	speaker	unknown	unknown	简单给妻子说了一下赴川救援的事情，带着妻子“我很好，你自己小心”的叮咛，牵上自己亲手训练的搜救犬“黑豹”，鲁波踏上了抗震救灾的征程。	0	0	0		
+PLA_CMN_20080702.0062	0	3100.0	3200.0	speaker	unknown	unknown	抗震救灾回来，鲁波才知道，支队在得知他家中的特殊困难后，立即组织消防官兵捐献血小板，使得他的妻子转危为安。	0	0	0		
+PLA_CMN_20080702.0062	0	3300.0	3400.0	speaker	unknown	unknown	但是我又想，我走了，还有家人可以照顾她，而且到了灾区，也许能多救出几个人来。”鲁波说。	0	0	0		

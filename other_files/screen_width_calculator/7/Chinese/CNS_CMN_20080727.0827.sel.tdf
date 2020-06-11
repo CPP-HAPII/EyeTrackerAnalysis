@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080727.0827	0	900.0	1000.0	speaker	unknown	unknown	考虑到近年来美元汇率大幅下滑，佳加乔夫——这位出生于莫斯科近郊的昔日高山滑雪教练建议俄罗斯总理，从北京奥运会开始，宣布俄罗斯金、银、铜牌得主可分别获得十万欧元(约合一百零七万元人民币)、六万欧元和四万欧元。	0	0	0		

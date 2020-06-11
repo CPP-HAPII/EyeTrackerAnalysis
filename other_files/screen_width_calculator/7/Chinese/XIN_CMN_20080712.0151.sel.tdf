@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080712.0151	0	2300.0	2400.0	speaker	unknown	unknown	４月１２日，北京奥运村（残奥村）村长第一次工作会议在北京举行，会上宣布北京奥运村和残奥村设同一个村长工作班子，由全国人大常委会副委员长、北京奥组委副主席陈至立担任村长。	0	0	0		
+XIN_CMN_20080712.0151	0	4500.0	4600.0	speaker	unknown	unknown	８月４日，北京奥运会倒计时一周年主题歌Ｗｅ Ａｒｅ Ｒｅａｄｙ（《我们准备好了》）正式发布。	0	0	0		
+XIN_CMN_20080712.0151	0	5600.0	5700.0	speaker	unknown	unknown	１月６日，国务院调整北京奥组委领导班子，主席刘淇；第一副主席陈至立；执行主席刘鹏、王岐山、邓朴方。	0	0	0		
+XIN_CMN_20080712.0151	0	5700.0	5800.0	speaker	unknown	unknown	６月２６日，第２９届奥运会主题口号“Ｏｎｅ Ｗｏｒｌｄ Ｏｎｅ Ｄｒｅａｍ”（同一个世界同一个梦想）正式发布。	0	0	0		
+XIN_CMN_20080712.0151	0	5900.0	6000.0	speaker	unknown	unknown	１１月１１日，第２９届奥运会吉祥物在工人体育馆正式公布，五个形象为鱼、熊猫、奥运圣火、藏羚羊、京燕的福娃令人爱不释手，他们的名字分别是贝贝、晶晶、欢欢、迎迎、妮妮，即“北京欢迎你”。	0	0	0		
+XIN_CMN_20080712.0151	0	6700.0	6800.0	speaker	unknown	unknown	８月３日，第２９届奥运会会徽“中国印·舞动的北京”正式发布。	0	0	0		
+XIN_CMN_20080712.0151	0	7400.0	7500.0	speaker	unknown	unknown	７月１３日，由北京市政府和北京奥组委共同制定的《北京奥运行动规划》正式公布，提出了“新北京，新奥运”两大主题和“绿色奥运，科技奥运，人文奥运”三大理念。	0	0	0		

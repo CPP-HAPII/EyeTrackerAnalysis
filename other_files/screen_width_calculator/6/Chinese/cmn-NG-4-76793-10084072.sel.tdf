@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76793-10084072	0	200.0	300.0	speaker	unknown	unknown	现在对方律师给我一个release 医疗记录的表格要我签名, 而且他要得是所有医疗记录, 这个我必须要给马?	0	0	0		
+cmn-NG-4-76793-10084072	0	300.0	400.0	speaker	unknown	unknown	法庭的人说我要给他们医疗记录, 是我给她们关于这个事故的医疗记录就好了呢, 还是要签那release?	0	0	0		

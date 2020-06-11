@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080724.1964	0	1300.0	1400.0	speaker	unknown	unknown	北京奥运会纺织服装和中国代表团礼仪装备赞助商、恒源祥集团奥运项目部副总经理李巍在接受本报采访时透露，期间甚至有国际一线品牌的设计师主动请缨参加大赛，鉴于这位大师的参赛要求颇为苛刻——希望直接晋级决赛，评委会经过讨论之后仍然决定婉拒。	0	0	0		

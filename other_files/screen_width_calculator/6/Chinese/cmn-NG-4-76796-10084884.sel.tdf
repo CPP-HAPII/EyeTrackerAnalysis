@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76796-10084884	0	200.0	300.0	speaker	unknown	unknown	当初选择ME实在是自己喜欢，就是喜欢做机器。	0	0	0		
+cmn-NG-4-76796-10084884	0	300.0	400.0	speaker	unknown	unknown	所以也没专心读理论，烂校混个MS以后，一直是在做设计，从草图到零件，从原型机到产品，又当工程师，又当钳工，一干五六年，理论已经忘光了，手上的功夫还不错。	0	0	0		

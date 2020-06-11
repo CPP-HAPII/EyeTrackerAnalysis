@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121113-9950869	0	0.0	100.0	speaker	unknown	unknown	电影院为什么不把以前的一些精典影片拿来重播？	0	0	0		
+cmn-NG-31-121113-9950869	0	100.0	200.0	speaker	unknown	unknown	发信人: saharawalker (非树非苔染尘埃), 信区: Movie标 题: 电影院为什么不把以前的一些精典影片拿来重播？	0	0	0		
+cmn-NG-31-121113-9950869	0	200.0	300.0	speaker	unknown	unknown	发信站: 水木社区 (Sun Apr 27 22:47:34 2008), 站内	0	0	0		
+cmn-NG-31-121113-9950869	0	400.0	500.0	speaker	unknown	unknown	J&amp;J合拍的影片，武打场面还不错，但情节苍白，编剧类似神话，也是古今交替，成龙已演过N个类似的片子。	0	0	0		
+cmn-NG-31-121113-9950869	0	500.0	600.0	speaker	unknown	unknown	10000BC，还在老套地演绎被压迫者反抗的故事。	0	0	0		
+cmn-NG-31-121113-9950869	0	900.0	1000.0	speaker	unknown	unknown	呼唤经典！	0	0	0		

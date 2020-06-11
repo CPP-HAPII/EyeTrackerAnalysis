@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080423.1708	0	700.0	800.0	speaker	unknown	unknown	她向警察说，自己很注重保养，“婚后身材一点没有变”，曾和丈夫沟通，丈夫说爱她的心没有变，“问题是，躺在床上就完全变了”，她用尽方法向丈夫暗示自己的需求，但丈夫均不理睬，“我真的不如一只猫？”	0	0	0		
+CNS_CMN_20080423.1708	0	800.0	900.0	speaker	unknown	unknown	“猫咪已夺走我的幸福，宛如是第三者”，林女说，猫咪让她的精神饱受折磨，所以才决定要声请保护令，要求丈夫晚上不得再抱猫咪睡觉，影响他们夫妻生活。	0	0	0		
+CNS_CMN_20080423.1708	0	900.0	1000.0	speaker	unknown	unknown	警方好奇问她：“这只是什么猫？”她说，是一只白色波斯猫，当初是她饲养的，没想到丈夫后来这么爱它，反而与她争宠。	0	0	0		

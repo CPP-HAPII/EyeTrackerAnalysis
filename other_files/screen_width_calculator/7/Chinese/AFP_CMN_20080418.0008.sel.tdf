@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080418.0008	0	0.0	1000.0	speaker	unknown	unknown	这项研究让罗伦兹提出所谓的「蝴蝶效应」,也就是看似微不足道的小小变化,例如昆虫鼓动翅膀,也许会导致可能相当重大的后果。	0	0	0		

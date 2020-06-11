@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080705.0148	0	600.0	700.0	speaker	unknown	unknown	5日7时30分开始，约300名战士再次冲上废墟，继续4日下午开始的档案抢救。	0	0	0		
+CNS_CMN_20080705.0148	0	1900.0	2000.0	speaker	unknown	unknown	它们是北川经济、民生和羌族文化恢复重建的重要依据。”北川县档案局局长、档案馆馆长苏义德说。	0	0	0		

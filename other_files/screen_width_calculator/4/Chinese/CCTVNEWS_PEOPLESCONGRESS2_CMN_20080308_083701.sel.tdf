@@ -1,0 +1,142 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 196.12299999999999, 1380.8510000000001, 1392.4949999999999, 1863.1099999999999, 1875.175, 2010.537, 2016.319, 2203.828, 2505.7800000000002, 4592.3519999999999, 4637.9759999999997, 6858.8370000000004, 6872.7359999999999, 6878.3140000000003, 6887.1009999999997, 6888.6940000000004, 6921.0709999999999, 7814.2839999999997, 7830.1220000000003, 8374.6630000000005, 8400.2540000000008, 8544.4359999999997, 8562.7250000000004, 8608.3520000000008, 8612.0589999999993, 8708.8850000000002, 8741.8410000000003, 10211.136, 10220.145, 10474.380999999999, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	346.199	362.290	Zhang_Quan_Ling	female	native	呃其实非常的有意思,因为每一次的三八妇女节都是在两会期间哈,所以 (()) 今天呢我们也特别约请了这个女性的代表和委员,大概会在这个大会发言结束之后呢呃来聊一些呃包括新阶层和女委员女代表的一些感受	1	6	19	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	362.290	368.774	Zhang_Yu	male	native	嗯,好谢谢泉灵,我们期待着你在前方给我们带来最新的消息,谢谢,嗯	1	7	20	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	410.105	416.876	Zhang_Yu	male	native	那我们今年在人大当中第一次有三位农民工代表,哎进入我们国家最高权力机关	1	7	28	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	467.490	472.031	Zhang_Yu	male	native	{laugh} 所以我也想把这个第一个问题啊呃提给朱代表	1	10	38	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	467.490	472.031	Zhu_Xue_Qin	female	native	谢谢 {laugh}	1	10	39	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	498.115	507.232	Zhu_Xue_Qin	female	native	所以要怎么样当好履行好这个代表的职责的话说这,所以为了考虑这个问题的话,有好几个晚上都睡不着觉的 {laugh}	1	11	46	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	595.858	611.176	Zhu_Xue_Qin	female	native	是的是的,一亿农民工	1	12	69	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	611.176	616.529	Xu_Bao_Jian	male	native	一点五亿,这是最新的统计 (())	1	13	70	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	611.176	616.529	Zhang_Yu	male	native	我记得原来的数字好像说是 (()) 哎对	1	13	71	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	681.799	695.546	Zhang_Yu	male	native	其实往年两会当中啊我们也有很多关注农民工权利的那这种提案,议案也有,但是你看今年朱代表她关注的这个五个建议当中啊,其中有一个建议非常有意思,她讲关注这个农民工女性生育权利的	1	16	84	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	766.201	778.375	speaker#3	female	native	专家指出,城乡二元结构是产生农民工问题的制度根源,要从根本上解决农民工问题,必须在制度上创新,统筹城乡发展,打破城乡 (()) 的状态	1	18	99	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	793.250	798.031	speaker#3	female	native	目前农民工工资拖欠和偏低问题正在逐步解决	1	18	102	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	938.170	944.266	Zhang_Yu	male	native	对, {laugh} ,嗯	1	20	123	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	944.266	964.753	Zhang_Yu	male	native	这个他实际是在我们这个社会转型经济变革的过程当中他们身份 (()) ,或者一种 (()) ,就是本来是种地的,现在进城打工了,所以他用这个农民工这样一个词来,嗯,嗯,嗯	1	20	125	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	973.644	993.565	Xu_Bao_Jian	male	native	因为一是 (()) ,另外一个他还确实能够反映农民工这个群体的特征,就是说他的身份是农民,就是他的户-户籍是农民,而且呢就是在农村呃有这个承包地,但是呢他从事的职业呢又是到城里面做工人的职业	1	20	128	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1003.970	1037.143	Xu_Bao_Jian	male	native	如果从这个角度讲的话,从 (()) 角度讲话,就是已经农民工为主了,二点一亿人,产业工人的主题结构以及发生了变化了,啊但是呢呃这个大家知道就是说从工人是没有就是过去我们讲的无产阶级是吧,就没有自己的这个土地呃这个权益的,啊,对对对,对对	1	20	132	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1204.394	1215.280	Zhang_Yu	male	native	{laugh} 对,价格问题,因为在去年这个一年当中一个是粮食,还一个就是像我们的这个主要的是肉类,猪肉,哎上,油,上涨非常厉害	1	24	153	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1204.394	1215.280	Xu_Bao_Jian	male	native	农产品价格, (())	1	24	154	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1249.087	1267.718	Zhang_Yu	male	native	(()) ,对,对	1	25	164	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1352.325	1371.420	Xu_Bao_Jian	male	native	那么我们觉得呢就是这个价格确实这个长得会比较大,那么政府呢也采取了这个临时干预措施,但是呢他也是一种恢复性的上涨,就是针对过去多年来这个农产品价格偏低的这样一种状况, (()) ,呃可以这样理解	1	25	177	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1505.167	1509.967	speaker#11	male	native	那么使农民 (()) 周围的环境质量 (())	3	31	196	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1570.502	1580.729	Lin_Yi_Fu	male	native	对中国未来发展的前景,大家知道我是一个乐观主义者,啊因为中国产业 (()) 空间非常的大	3	36	204	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1613.045	1623.846	Lin_Yi_Fu	male	native	我想呢他有他内在的原因啊,因为我们现在投资的机会比较多啊,然后资金也比较充裕吗, (()) 国家提出了宏观调控	3	38	209	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	1942.809	1951.246	speaker#8	female	native	胡浩说,我国月球探测二级工程 (()) 实现月球软着陆,并通过释放无人探测器对月球表面进行勘察	5	52	250	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2036.397	2050.135	speaker#8	female	native	当地时间七号下午一点半左右,工人社会党前议员伊萨亚斯卡拉斯克与他的妻子和女儿一起离开位于巴斯克自治区 (()) 住所时,在住家门口连中数枪,不治身亡	7	58	262	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2614.535	2626.425	Chang_Ting	female	native	那这一位呢他说呃我们农民欢迎种粮等 (()) 的优惠政策,更期待能够出台对农村技术方面的扶持的优惠政策	9	66	293	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2657.608	2674.175	Zhang_Yu	male	native	好谢谢常婷,我们看呃观众朋友还是非常踊跃哈,关于三农问题提出 (()) 各种各样的问题,那么刚才我们在谈话中也讲到了实际在过去一年当中,尤其城镇居民对于农产品价格的上涨,真是有这个切身的感受,而且十分关注	9	67	297	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2808.029	2811.566	speaker#19	male	native	(()) 现在有多深,都看不到底, (())	9	73	313	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2811.566	2816.597	speaker#20	male	nonnative	这些是政府 (()) 十-十米吧	9	74	314	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2840.395	2851.054	speaker#20	male	nonnative	(()) ,打个比方一个小时浇一亩地,现在两个多小时浇一亩地	9	74	332	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2871.330	2889.000	speaker#21	male	nonnative	(()) 一共是二百多亩地,二百多亩地,好像是两万多块钱的这个--这个--这个呃节水灌溉项目,他那个就是直接上面又直接给了这个--这个节水灌溉管道,然后 (()) 自家就是自己去铺设的	9	76	337	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2896.157	2899.569	speaker#21	male	nonnative	那小零头, (())	9	80	341	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	2958.738	2974.705	speaker#19	male	native	我们在东佐村看到了他们对集体资产从新发包后签订的合同,那么一年前呢这个合同的数量只有十六份,现在呢是六十六份,这多出来的呢就是对过去不够明确的集体资产进行重新明确后 (()) 形成的	9	82	349	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3002.655	3015.083	speaker#20	male	nonnative	这呃职-职工--职工资就是职工固定用工可以长期用工的这个--这个短期用工 (()) 五六万	9	83	355	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3081.621	3086.228	Zhang_Yu	male	native	哦,哦	9	87	368	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3112.140	3120.602	Zhang_Yu	male	native	但是我想就全国范围来讲的话,江苏地区还是属于富裕地区 {laugh} ,苏北肯定是在江苏地区属于相对落后一点的	9	87	380	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3112.140	3120.602	Zhu_Xue_Qin	female	native	{laugh} ,嗯	9	87	381	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3177.154	3186.591	Xu_Bao_Jian	male	native	这样呢就说呃农业的基础设施建设,包括刚才讲到的这个病险水库的出现加固呃这个 (()) 才能改造	9	89	396	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3252.260	3260.692	Xu_Bao_Jian	male	native	呃要-要调动多方面的积极性和力量,才能把这个农业基础设施呃 (()) 的这种局面呢呃有一些改观	9	89	420	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3322.053	3331.395	Zhang_Yu	male	native	同时呢还有着自然的因素, (()) 面对现在我们在农业生产所面临的一些问题,包括现在农产品涨价的一些问题呢,国家也在加强两方面的措施	9	89	435	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3351.192	3357.614	speaker#3	female	native	粮食不断增产得益于党和国家五年来连续出台了一系列惠农强农政策	9	91	439	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3374.632	3379.866	speaker#3	female	native	与此同时, (()) 的惠农政策逐步实施	9	91	442	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3502.375	3505.896	speaker#22	male	native	啊特别是着眼于房子 (())	9	92	459	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3531.533	3546.092	Zhang_Yu	male	native	嗯,刚才我们看到的短片呢是国家对农业生产的扶持哈,我注意到在放这个短片的时候呃雪琴呢非常有感触,呃只当时讲-讲到这个国家对这个农业税费的减免的时候,雪琴说哎这个政策太好了 {laugh}	9	94	462	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3549.691	3572.817	Zhang_Yu	male	native	呃承包地,是吧,嗯,哦,嗯,嗯,人大代表了, {laugh} ,嗯,哦	9	95	465	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3748.575	3754.234	Zhang_Yu	male	native	雪琴说句实话,我觉得对于进城务工的农民朋友来讲的话,好像学习不是一件容易的事情 {laugh}	9	101	488	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3853.778	3872.724	Zhang_Yu	male	native	你讲了这个学习的重要性,我想有很多朋友也都知道,但是确实从现实情况来讲到话,一个进城务工的农民朋友,他第一个工作压力很大,啊可能工作强度也比较大,还一个他的收入并不会很高,怎么能让能坚持学习下来,你 (()) 抽时间去花钱能让你坚持学习下来	9	101	506	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	3901.051	3909.682	Zhu_Xue_Qin	female	native	因为的话就是说如果你-你想赶上这个时代的步伐,那么你就 (()) 就要不断的去充电,就是所以我是这样子的	9	101	511	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4187.987	4190.300	Zhang_Yu	male	native	好谢谢泉灵,我们等着啊	9	115	548	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4190.300	4196.924	Zhang_Yu	male	native	{cough} 那么泉灵呢为我们带来的是政协大会发言的一个最新情况	9	115	549	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4295.235	4302.294	speaker#24	male	native	(()) 这个地方呢我就要提一下呢就是说我们农林科研院所的话向企业转资的问题	9	117	559	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4529.393	4539.554	speaker#27	male	native	更进一步充实在农业高等学校和这一些学校的重点学科的建设,这是我想讲到一个建议	9	120	579	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4652.269	4669.863	Chang_Ting	female	native	那网络这平台上呢又有很多的新声音了,我们来看一下首先这位还是呃博客的博主 (()) 他说啊义务教育一费制,农村合作医疗及时兑现,有效的解决了农村孩子一个是上学难,还有一个是看病难的现状哈	11	123	587	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4788.794	4799.310	Zhang_Yu	male	native	像我们今天这样一个直播节目呢,就是一个信息咨询意见汇总的一个大平台, (()) ,,我们一开始刚才听到的是代表委员们对于三农问题的议论	11	124	598	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4827.815	4843.164	Zhang_Yu	male	native	(()) ,嗯,方式了,嗯	11	125	606	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4851.293	4858.996	Zhang_Yu	male	native	那么呃雪琴我不知道就是你回家的时候当地农民什么感受,他们 (()) 什么才是新农村	11	126	608	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4858.996	4880.929	Zhang_Yu	male	native	嗯,嗯,嗯,惠农政策,这是新农村的一部分 {laugh} ,嗯	11	127	610	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4893.102	4909.773	Xu_Bao_Jian	male	native	呃过去农民有一句话叫楼上楼下,电灯电话, (()) 哎就特别早的话了,但是那时候确实是一种理想,确实是一种理想,哎,哎	11	128	613	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	4893.102	4909.773	Zhang_Yu	male	native	电灯电话, (()) ,对,没错,那是大伙对这个理想的生活的一个描述	11	128	614	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5187.221	5196.533	speaker#3	female	native	针对我国农村基础设施薄弱的现实,新农村建设明显加大了对农村水电路 (()) 等基础设施建设的投入	11	132	650	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5376.896	5388.964	speaker#30	male	native	今年呢中央呢又实行了很多这个农业补贴制度 (()) ,你看中央财政用于三农支出也增加了投入	11	136	672	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5554.819	5572.218	speaker#34	male	native	总理的报告里边呢也讲到很清楚,那就是什么呢,就是大力的加大土地开发 (()) 力度,土地开发村容整理呢即包括对荒地的,对未利用地的开垦,利用使他变成耕地	11	142	692	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5572.218	5581.719	speaker#34	male	native	也包括对现有的耕地进行整理,小块并大块啊,提高他的 (()) 程度啊,使他耕地的质量能够提高	11	142	693	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5581.719	5588.858	speaker#34	male	native	这个通过土地开发 (()) 这个项目实施,我们可以取得多重的这个效果	11	142	694	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5591.061	5603.518	speaker#34	male	native	一方面我刚才说了,耕地增加,耕地的质量提高, (()) 条件改善了,毫无疑问增强了农业他的生产力强	11	142	696	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5603.518	5615.292	speaker#34	male	native	第二个呢在这个基础上面,因为土地呢由原来的可能呢小块的并成了大块以后,这个有利于机械耕种,有利于 (()) ,农业产业化的 (())	11	142	697	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5615.292	5633.867	speaker#34	male	native	我们到四川去考察过,他引用了农业产业化农村企业来了以后,农民可以分成两块 (()) ,第一个他通过,把土地租给这个公司,他可以拿一笔土地的资租金	11	142	698	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5633.867	5637.258	speaker#34	male	native	这也就是十七大上面写的,叫做财产 (())	11	142	699	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5637.258	5641.009	speaker#34	male	native	农民有什么财产 (())	11	142	700	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5657.379	5666.880	speaker#34	male	native	第四个呢通过 (()) 综合改造,使得社会主义新农村建设有一个很时代的一个 (())	11	142	704	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5666.880	5670.755	speaker#35	male	native	应该看到一个本质就是 (())	11	143	705	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5670.755	5679.520	speaker#35	male	native	所谓 (()) 呢就是很-很多 (()) 多年的承包地,承包下来以后, (())	11	143	706	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5686.114	5691.051	speaker#35	male	native	所以呢这些土地呢实际上还掌握在他们这些 (()) 手里	11	143	708	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5723.021	5738.273	speaker#35	male	native	那么总体上,我感觉在总理的这个讲话中就是适当的这个进行这个土地使用权的流转制度的改革,我觉得这-在 (()) 是都非常重要的	11	143	711	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5738.273	5759.396	speaker#35	male	native	就说要把这农民啊同国-国家的政策,真正能够从土地中间能够释放出来,现在我们的有的--有点劳动力,有的这个生产力不是啊没有 (()) ,呃不是那个 (()) 而是那个叫做被制约了	11	143	712	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5787.842	5794.232	speaker#36	male	native	水太凉, (()) 太-太冷了,原来 (()) 时间太长,他熬不住了	11	144	716	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5799.576	5821.514	speaker#36	male	native	那么哎其他我-我相信啊那个因为农业他比较脆弱,受天气气候影响很多很大,但是光是靠政府的 (()) ,我感到这还是缺乏市场的手段,我建议这个啊农业保险应该做一个 (())	11	144	718	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5834.453	5846.734	speaker#36	male	native	我-我感到除了生活的保障 (()) 以外呢,在生产上保障他是更根本,更重要,更是长远的	11	144	720	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5863.462	5886.898	speaker#37	female	native	在这次呢 (()) 之前呢我做了调查研究,这个目前的农资价格是一个什么情况呢,这个种子的价格比不上水稻,水稻的 (()) 零六年每一公斤是一十六块钱,零七年是二十五二块钱,那么比零六年就上涨了百分之三十七	11	145	723	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5925.428	5941.566	speaker#37	female	native	国家财政零八年给予的补贴是每亩呢四十一元,所以由于农子价格的暴涨,与国家补贴 (()) 的这个差距每一亩是相差二十八块钱	11	145	728	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	5941.566	5959.503	speaker#37	female	native	那么这一种情这一个情况的出现,就出现了一个什么情况呢,就说现在这个农民呢种一季度的比例在增长,所以这么一个情况下的话,那么呢就是呃 (()) 有可能呢就是说严重的影响到国家的粮食安全	11	145	729	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6178.666	6188.558	Zhang_Yu	male	native	(()) ,嗯,嗯	11	150	756	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6188.558	6195.766	Zhang_Yu	male	native	嗯,现在父母还在务农,替你--替你管地还在哈 {laugh} ,嗯	11	150	758	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6229.538	6233.881	Zhang_Yu	male	native	所以我们现在有二点多亿的农民工啊 {laugh}	11	150	766	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6229.538	6233.881	Zhu_Xue_Qin	female	native	所以, {laugh} 对对对对	11	150	767	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6245.265	6251.014	Zhu_Xue_Qin	female	native	对对对, {laugh}	11	150	771	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6251.014	6258.689	Zhang_Yu	male	native	但是确实像雪琴说的呃如果单纯依靠这个的话,这个肯定不是一个现代新农村的一个养老 (()) 问题,嗯	11	150	772	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6433.140	6442.235	Zhang_Yu	male	native	对呀 {laugh} ,对呀,现在这个朱代表是这个农民工中的佼佼者了,还真是榜样来,嗯	11	155	799	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6433.140	6442.235	Xu_Bao_Jian	male	native	像这样这个朱代表这样的能人, (())	11	155	800	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6470.937	6475.374	Zhu_Xue_Qin	female	native	所以说感觉还是这个主要还是这个 {lipsmack} 增加吸引力这一块	11	156	805	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6499.905	6524.048	Xu_Bao_Jian	male	native	另外一方面呢呃就说他的工资收入绝大部分都寄回到农村去了,这实际上也是无形当中增加了农-农业的投入,农村的投入,因为我们了解呢就说呃农民工在城里打工呃这个收入啊呃很少用于自己消费,啊然后呢都-都寄回到农村	11	158	814	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6557.085	6563.600	Zhang_Yu	male	native	这样让他再回到农村的话,呃无论是演技,还是能力的话就远远超出 (())	11	158	823	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6596.900	6605.796	speaker#3	female	native	按照中央要求,统筹城乡经济社会协调发展,要坚持工业 (()) 农业,城市支持农村	11	160	828	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6657.418	6678.422	speaker#41	male	native	那么从具体的方面来讲呢,农民这几年下来已经比较习惯了,他比如说种粮要补贴,呃这个买粮中有补贴, (()) 农机有补贴,购买这个农业生产资料有补贴,那么这一条可以农民呃可以很踏实的了解到,这个农村工作会议制定了一个政策,在这些补贴方面和去年会有进一步的提高	11	163	835	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	6994.200	6999.833	speaker#43	male	native	都-都叫个人拿来糊墙了,做手纸,干啥都有 (())	17	190	891	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7043.181	7057.846	speaker#46	male	native	因为乡镇的文化站站长活动场所没有,啊办公场所没有,呃所以呢他也就脱离了跟 (()) 村的文化室已经脱离了	17	198	902	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7062.810	7068.050	speaker#44	male	native	每年没有固定的经费 (())	17	200	904	report	question
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7085.414	7095.427	speaker#46	male	native	呃所有的村基本上都这样文化室,呃咱们以前就写不写那个 (()) 就是几间破房,几个破桌	17	203	909	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7106.832	7113.657	speaker#47	male	native	他 (()) 他是那个呃各种组织,就是开展活动都是在这一个	17	205	920	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7117.970	7124.079	speaker#47	male	native	那他也基本上 (())	17	205	924	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7134.908	7136.612	speaker#44	male	native	你们多少个 (())	17	207	926	report	question
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7136.612	7137.816	speaker#46	male	native	呃八 (())	17	208	927	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7137.816	7140.448	speaker#44	male	native	八个 (()) ,那照顾多少村呢	17	209	928	report	question
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7152.999	7162.414	speaker#46	male	native	(()) 运输,那个运输,那个还有人吃的,还有住宿啥的,去了这个费用,再加上放映机的维修,影片的那个购买	17	209	939	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7162.414	7167.460	speaker#42	male	native	缺人缺钱缺机制,是工业文化建设反映最集中的问题	17	210	940	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7237.708	7243.710	Zhang_Quan_Ling	female	native	比如说我们知道这个 (()) 呢他主要的这个成员啊都是教育界的以及高级的知识分子	17	214	950	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7329.513	7341.308	Zhang_Quan_Ling	female	native	那比如说还有三位 (()) 他们是来自贵州,那我们也知道今年的呃一开-开年的时候这个贵州啊是遭受了强烈的冰雪的凝冻的这样的一个灾害	17	214	962	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7393.610	7407.984	Zhang_Quan_Ling	female	native	那除了像我们呃这个委员的发言,今天在人民大会堂呢还有一个活动,那就是江苏省呢在这儿开一个记呃江西省在这儿开一个记者招待会,主要的内容是关于 (()) 鄱阳湖地区的经济发展	17	214	967	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7437.349	7458.191	Zhang_Quan_Ling	female	native	呃首先他们的这个发言来自一线的调查,就我 (()) 呃刚才给你介绍过,像民建的这个发言,虽然只有短短的八分钟的时间,但事实上他们已经跑了大半个中国,进行了差不多一年多的这个调研,而且从民间党中央来说也是给了很多的这个经费的支持,才形成了最后的调研的报告	17	217	972	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7575.564	7583.218	Zhang_Quan_Ling	female	native	呃那么他们作为这个新阶层会有什么样的体验,那他们作为女委员,女代表在这个三八节里又有什么样的感想,张羽	17	221	985	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7692.318	7697.834	speaker#3	female	native	首次产生的三位农民工人大代表是本届两会媒体聚焦的焦点	17	223	1002	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	7889.134	7893.124	Zhang_Yu	male	native	雪琴你觉得他的提议有现实意义吗 {laugh}	19	225	1027	report	
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8292.319	8297.244	Xu_Bao_Jian	male	native	他已经是企业的管理层了, (())	19	236	1085	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8292.319	8297.244	Zhang_Yu	male	native	雪琴现在也确实是管理人员来 {laugh} ,对,已经是企业的管理层了	19	236	1086	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8420.971	8422.803	speaker#50	male	native	{laugh} 嗯, (())	21	240	1103	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8508.250	8514.934	speaker#53	male	native	忙完之后就是下了班没事了到外面去逛逛啊,呃晚上回来就睡觉了 (()) {laugh}	21	249	1129	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8531.939	8544.436	speaker#53	male	native	打个比方你要是干-干 (()) ,要是你也是干我这一行的,你就不会讲给我,你讲给我了, (())	21	253	1137	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8575.956	8581.701	speaker#49	male	native	但是今天啊在这小小的课堂里,孔庆升和他工人们的这种互动,让我们的心里特别的 (())	23	255	1141	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8581.701	8584.663	speaker#49	male	native	你一个堂堂的大老板在这里 (())	23	255	1142	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8618.482	8630.718	Kong_Qing_Sheng	male	native	就是你搞民工学校跟你的这个评优,啊 (()) 挂钩,比如说这个呃你要评 (()) ,你要评 (())	25	259	1147	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8634.844	8641.156	Kong_Qing_Sheng	male	native	我们公司,国家级的奖就是 (()) ,我们是有十一个	25	261	1149	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8641.156	8646.321	Kong_Qing_Sheng	male	native	这个省级以上的 (()) 工程我们有四百多项	25	261	1150	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8647.141	8651.125	Kong_Qing_Sheng	male	native	(()) 那是更-更不用说了	25	263	1152	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8647.141	8651.125	speaker#49	male	native	(()) 就更不用说了	25	263	1153	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8651.125	8656.237	Kong_Qing_Sheng	male	native	(()) 相当于市级杯,就是地区一级的	25	263	1154	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	8651.125	8656.237	speaker#49	male	native	哦,哦	25	263	1155	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	9233.874	9248.691	Zhang_Quan_Ling	female	native	因为 (()) 作为我们各个界别的代表,一般的来说呢我们在大会上呢,在试会前呢和整个呃作为政协委员和全国人大代表,我们在平时也都会关注到,我们因为有这个社会的责任和这份担当	27	278	1226	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	9366.521	9375.377	Zhang_Quan_Ling	female	native	穆总听说,政协委员有礼物收到, (()) ,嗯	27	281	1237	report	
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	9375.377	9380.831	Zhang_Quan_Ling	female	native	好,那我们利用最后的这个时间,两位是不是对于我们所有的这个女性朋友说一句话	27	282	1239	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	9380.831	9389.770	Wang_Jing	female	native	呃我-我是认为改革开放啊给我们中国的女-女性哈提供了非常--非常好的机会跟很大的一个平台	27	283	1240	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	9444.440	9449.190	Zhang_Yu	male	native	好,谢谢泉灵,最后也祝你们三位节日快里,节日好,嗯	27	286	1246	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	9479.117	9481.336	Zhang_Yu	male	native	哎对 {laugh} 最完美的女人哈	27	287	1252	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	10056.245	10064.059	Xu_Bao_Jian	male	native	我觉得我们讲这个加强农业基础设施建设,呃科技的 (()) 确实也是一个很重要的基础	27	306	1314	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	10158.726	10166.135	Zhang_Yu	male	native	呃有一位手机尾号是二幺四的朋友提到说,他说我是一位农民工,我很担心我们的孩子的教育问题	27	307	1332	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	10176.842	10181.873	Zhu_Xue_Qin	female	native	我-我-我孩子还没有,因为他才还小,一岁半 {laugh}	27	308	1334	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	10176.842	10181.873	Zhang_Yu	male	native	哦-哦 {laugh}	27	308	1335	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	10264.827	10286.662	speaker#65	female	native	作为我是一个女人,我想我在 (()) 什么难度,作为我们要有信心,是吧,这个就业其学习,我相信我们的企业一定能做得好,做大,做好做强	29	314	1347	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	10311.306	10328.322	speaker#66	female	native	所以呢我一直从事林业工作,一直参加到 (()) 工程当中去吧,这一个在我们农村当中妇女发挥的作用特别大,在建设社会主义新农村当中,我们妇女是占最主要的位置	29	315	1349	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080308_083701	0	10358.390	10375.175	Xu_Bao_Jian	male	native	对,现实的问题,高考的问题, (())	29	317	1354	report	statement

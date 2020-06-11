@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080721.0459	0	900.0	1000.0	speaker	unknown	unknown	旅政委韩耀玉告诉记者：“对一级党委来说，创建节约型军营，既要从节约一滴水、一度电、一粒粮做起，更要把住决策关，提高现有资源的利用效益，避免重复建设和现有资源的浪费。”	0	0	0		
+PLA_CMN_20080721.0459	0	1000.0	1100.0	speaker	unknown	unknown	据了解，这几年他们先后把编制体制调整后遗留下来的两栋办公楼改为战士宿舍楼，把3个装备修理工房改为六营饭堂、分队军官训练室、基层综合宣教室，旧房利用面积数万平方米，节约经费500多万元。	0	0	0		
+PLA_CMN_20080721.0459	0	1500.0	1600.0	speaker	unknown	unknown	记者在这个旅采访时了解到，只要与资源有关的决策，这个旅领导总要考虑是不是更节约一些，更环保一些。	0	0	0		

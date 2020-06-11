@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0378	0	700.0	800.0	speaker	unknown	unknown	Lee Myung-bak invigorated the morale of the "Tai Chi Corps" during their last round of tense training before departing for Beijing Olympic Games, and then personally served them breakfast.	0	0	0		

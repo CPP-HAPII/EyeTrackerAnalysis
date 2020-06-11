@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.2380	0	700.0	800.0	speaker	unknown	unknown	曾经：俱乐部和文化宫俱全	0	0	0		
+CNS_CMN_20080716.2380	0	1000.0	1100.0	speaker	unknown	unknown	据《广州市志、工业志》记载，1956年，在广州市东郊员村四横路征用20万平方米的土地，投资900万元兴建一间以生产果蔬罐头为主、半自动化的大型罐头厂——广东罐头厂，设计年产能力为2万吨；并在罐头厂之侧配套兴建年产工业用玻璃制品4万吨的广东玻璃厂。	0	0	0		
+CNS_CMN_20080716.2380	0	1800.0	1900.0	speaker	unknown	unknown	现场：墙面涂有毛主席语录	0	0	0		

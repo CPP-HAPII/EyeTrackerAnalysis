@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080411.0953	0	200.0	300.0	speaker	unknown	unknown	中新社北京四月十一日电(记者 王彤)AC米兰中文官网开通仪式暨“二OO八金圣•AC米兰互动中国足球公园”启动仪式日前在北京举行。	0	0	0		
+CNS_CMN_20080411.0953	0	300.0	400.0	speaker	unknown	unknown	意大利足协副主席、AC米兰官员、AC米兰著名球星德米特里欧•阿尔贝蒂尼等亲自来中国参加了启动仪式。	0	0	0		

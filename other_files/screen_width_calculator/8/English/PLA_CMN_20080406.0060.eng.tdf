@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080406.0060.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Gold Branch No.5 of the Armed Police Enriches Cultural Life of Front Line Troops and Officers	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-06 06:20:02 Source: PLA Daily, Page 1	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	900.000	950.000	TEXT1	unknown	unkown	(Staff Report)	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	950.000	975.000	TEXT1	unknown	unkown	(Reporters: Zhan Liqi, Kang Jie) The mining district assignment area of Gold Branch No.8 of the Armed Police is in a remote location deep in the mountains. The natural surroundings are harsh.	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	975.000	987.500	TEXT1	unknown	unkown	For the last three years, they have invested more than Rmb600,000 in the mining district assignment area to hook up electricity, install satellite television receivers, build a basketball court and a cultural activity room, as well as installing televisions, chess cases, musical instrument cases, drum kit cases, book cases and other cultural materials.	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	987.500	1000.000	TEXT1	unknown	unkown	They have also, in accordance with the practical conditions of the mining district assignment, formulated a cultural activity plan and established a group to oversee cultural activities so as to regularly hold cultural activities and enrich the cultural life of officers and troops.	0	0	0		statement

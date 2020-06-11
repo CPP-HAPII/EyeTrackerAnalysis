@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0013.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	To Prevent Demonstrations, Australia will Announce Revised Relay Route Just Prior to Olympic Torch Arrival	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	SYNDEY, 13th (Sydney)	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Australian officials said today that following pro-Tibetan demonstrations of unprecedented intensity that the Olympic torch relay attracted in Europe, the route for the Australian stage of the relay has been changed.	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	Organizers for the torch's two-day stop in the Australian capital Canberra said the route will not be shorter, but that security precautions will be strengthened.	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	The organizer of the Canberra leg of the torch relay, Quinlan, said that because of security threats arising from anger over Olympic host China's repression of Tibet, the arranged torch route was still being revised.	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	2300.000	2350.000	TEXT1	unknown	unkown	He told AFP, "We are revising the route.	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	2350.000	2600.000	TEXT1	unknown	unkown	Our revising of the original route is wholly due to our need to consider security along the route."	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	2800.000	3100.000	TEXT1	unknown	unkown	Quinlan said it was regrettable the new route would only be announced about forty-eight hours before the torch arrived in Australia on April 23, and that the distance between the public and torch would be greater than originally planned.	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	3300.000	3600.000	TEXT1	unknown	unkown	He said, "We will possibly choose wider roads for the relay route and the public will be somewhat farther away. There will also possibly be more security personnel between the crowds and the torch. This is very regrettable."	0	0	0		statement

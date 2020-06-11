@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080729.0365	0	0.0	100.0	speaker	unknown	unknown	（时政）国务院公布修改后的《营业性演出管理条例》	0	0	0		
+XIN_CMN_20080729.0365	0	100.0	200.0	speaker	unknown	unknown	新华社北京７月２９日电 国务院总理温家宝日前签署第５２８号国务院令，公布了《国务院关于修改〈营业性演出管理条例〉的决定》。	0	0	0		
+XIN_CMN_20080729.0365	0	300.0	400.0	speaker	unknown	unknown	新华社受权播发这一决定，并同时播发修改后的《营业性演出管理条例》。	0	0	0		
+XIN_CMN_20080729.0365	0	400.0	500.0	speaker	unknown	unknown	修改后的《营业性演出管理条例》共５７条，分为总则、营业性演出经营主体的设立、营业性演出规范、监督管理、法律责任、附则六章。	0	0	0		
+XIN_CMN_20080729.0365	0	500.0	600.0	speaker	unknown	unknown	《国务院关于修改〈营业性演出管理条例〉的决定》自公布之日起施行。	0	0	0		

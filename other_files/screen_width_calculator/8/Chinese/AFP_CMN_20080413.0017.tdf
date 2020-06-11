@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0017.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	美前国务卿鲍尔:萧胡会是区域好消息	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社博鳌十三日电	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	台湾副总统当选人萧万长昨天与中国国家主席胡锦涛举行会晤,美国前国务卿鲍尔今天赞扬这场历史性会晤是「本区域的好消息」。	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	萧万长昨天与胡锦涛举行二十分钟会谈,这是台湾和中国历来的最高层级接触,鲍尔于会晤萧万长后作以上表示。	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	鲍尔在记者会上表示,「我已转达我的评价((给萧万长)),那就是这一切都是本区域的大好消息,双方如今已迈上新的道路。」	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	鲍尔又说:「我希望这是一条通往两岸更大互动的道路,我也希望这是一条通往新合作领域的道路。」	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	即将于下个月就任副总统的萧万长表示,鲍尔强调台湾和中国之间关系解冻的区域意义。	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	萧万长说,鲍尔「希望这不仅对台海两岸关系的和平与稳定有帮助,且对区域的安全与和平也有帮助。」	0	0	0		statement

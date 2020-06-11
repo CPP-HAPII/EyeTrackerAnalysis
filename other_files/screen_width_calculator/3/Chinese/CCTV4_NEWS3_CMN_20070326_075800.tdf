@@ -1,0 +1,252 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 74.808999999999997, 92.141000000000005, 139.399, 329.71300000000002, 434.37599999999998, 546.24900000000002, 942.34699999999998, 974.27999999999997, 998.03599999999994, 1643.145, 1663.0039999999999, 1705.9839999999999, 1768.6030000000001, 1806.4000000000001, 9999999.0]
+CCTV4_NEWS3_CMN_20070326_075800	0	0.000	2.297	speaker#1	male	native	密显得与众不同，	0	0	0	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	3.094	11.234	speaker#1	male	native	据考证这位湖人是许显秀辖区内的商人，他与许显秀有很好的交情。	0	0	2	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	12.765	23.218	speaker#1	male	native	根据壁画，专家分析，西域金戒指极有可能是当时西域通商的商人，送给许显秀的礼物。	0	0	4	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	36.186	41.107	speaker#1	male	native	如今这枚嵌蓝宝石金戒指啊，被珍藏于山西省博物馆。	0	0	6	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	42.044	45.716	speaker#1	male	native	一千四百多年前，它作为奇珍异宝被带到中原，	0	0	8	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	46.419	51.857	speaker#1	male	native	一千四百多年中呢它又因奇货可居差点被人倒卖丢失。	0	0	10	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	53.029	59.232	speaker#1	male	native	而一千四百多年后的今天，金戒指奇迹般地毫发无损保留至今。	0	0	12	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	60.091	66.622	speaker#1	male	native	看着它呀不少专家都说，这真是一个难得的国宝千载奇遇。	0	0	14	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	68.309	73.590	speaker#1	male	native	好了，观众朋友，感谢收看本期的国宝档案，请您下期继续关注我们的节目。	0	0	16	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	74.809	82.443	speaker#1	male	native	然而，最不能让人理解的是，为什么会把人的脸型铸在青铜器的四个面上呢？	1	1	18	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	82.443	92.141	speaker#1	male	native	人们不禁会猜测，难道这顶上的人脸就是上古传说里长着四张脸，八只眼的皇帝。	1	1	19	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	139.399	143.150	speaker#2	male	native	华人世界，世界华人的家园，欢迎您收看我们今天的节目。	3	3	21	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	143.753	145.478	speaker#2	male	native	做什么呀都得讲究方法，	3	3	23	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	145.478	150.213	speaker#2	male	native	在今天的华语台联播中我们先给您介绍一位新西兰的华裔高中生，	3	3	24	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	150.213	158.386	speaker#2	male	native	他呢还没有毕业就获得了一笔一万新西兰元的奖学金，而且呢因为成绩优异被英国剑桥大学录取。	3	3	25	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	159.042	165.214	speaker#2	male	native	那么他到底有着什么特殊的学习方法？听一听他怎么说，对大家也许都有启发。	3	3	27	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	166.936	174.156	speaker#3	female	native	今年十七岁的陈(()) <foreign lang="English">(())</foreign> ，是国内外数学竞赛中的常胜军，他所获得的奖项不胜枚举。	3	4	29	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	174.156	181.485	speaker#3	female	native	光是他已经获得英国剑桥大学录取以及 <foreign lang="English">NCA</foreign> 考试最高奖学金的表现，就不难知道他是多么的杰出。	3	4	30	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	181.485	184.770	speaker#3	female	native	后者还提供了每年一万元的奖学金。	3	4	31	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	184.770	189.859	speaker#3	female	native	寡言的 <foreign lang="English">(())</foreign> 说他读书没有什么窍门，反复地读是他制胜的关键。	3	4	32	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	189.859	193.796	speaker#3	female	native	就连数学也是读出来的，练习题反而做得不多。	3	4	33	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	195.281	200.750	speaker#4	male	nonnative	<foreign lang="English">(())</foreign>	3	5	35	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	201.563	208.563	speaker#4	male	nonnative	<foreign lang="English">(())</foreign>	3	5	37	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	209.378	219.282	speaker#4	male	nonnative	<foreign lang="English">(())</foreign>	3	5	39	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	220.220	223.189	speaker#3	female	native	三岁随父母从香港和哥哥移民来纽西兰，	3	6	41	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	223.189	225.958	speaker#3	female	native	<foreign lang="English">(())</foreign> 一路从 <foreign lang="English">(())</foreign> 小学，国中，	3	6	42	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	225.958	230.117	speaker#3	female	native	然后进入人才济济的 <foreign lang="English">(())</foreign> 高中，从来没有补习过。	3	6	43	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	230.117	237.789	speaker#3	female	native	他说小时候母亲要求他做进度超前至少两年的练习题，在去年之前他都不觉得自己的数学高人一等。	3	6	44	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	237.789	244.742	speaker#3	female	native	不过他也都是在数学资优班中，他说一直到进入了奥林匹亚数学班，他的成绩才突飞猛进。	3	6	45	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	244.742	250.851	speaker#3	female	native	在他的指导老师看来，沉默清瘦的 <foreign lang="English">(())</foreign> 脑筋不仅灵活还具有惊人的天赋。	3	6	46	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	250.851	258.366	speaker#5	female	native	呃 <foreign lang="English">(())</foreign> 的特，最最大的特殊之处就是他对问题有他自己的独到的那个理解，他的理解非常的，	3	7	47	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	258.366	260.913	speaker#5	female	native	他这个学生呢就是反应非常快。	3	7	48	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	260.913	263.475	speaker#5	female	native	就是有很多学生吧比如你是教出来的，	3	7	49	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	263.475	268.600	speaker#5	female	native	而至于 <foreign lang="English">(())</foreign> 的这样的学生呢，你感到呢就是嗯他自己有这个能力啊，	3	7	50	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	268.600	274.694	speaker#5	female	native	他能够融汇贯通，就是自己学过的东西呀他都能给它前后地连串连连贯起来。	3	7	51	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	275.319	277.273	speaker#3	female	native	<foreign lang="English">(())</foreign> 目前就读十三年级，	3	8	53	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	277.273	285.618	speaker#3	female	native	不过他已经完成高中的数学课程和中学所能提供的最高程度的进阶数学，目前他还修大学的数学，进阶物理等等。	3	8	54	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	285.618	292.571	speaker#3	female	native	除了数学之外， <foreign lang="English">(())</foreign> 在物理，统计，地理，英文科目也表现出众，还在学校乐团担任钢琴伴奏。	3	8	55	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	292.571	298.073	speaker#3	female	native	<foreign lang="English">(())</foreign> 的学习成就，特别是获准进入剑桥大学，让校长觉得与有荣焉。	3	8	56	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	299.073	305.323	speaker#6	male	nonnative	<foreign lang="English">(())</foreign>	3	9	58	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	306.135	312.166	speaker#3	female	native	连续两年代表学校参加全国奥林匹亚数学竞试， <foreign lang="English">(())</foreign> 今年还入围国家代表队的资格赛。	3	10	60	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	312.166	320.385	speaker#3	female	native	他说未来他不会去读剑桥大学，因为学费过于昂贵，他会利用奖学金留在纽西兰就读奥克兰大学的电脑相关课程。	3	10	61	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	320.901	324.807	speaker#3	female	native	<foreign lang="English">(())</foreign> 的杰出成绩替纽西兰年轻华人再度争光。	3	10	63	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	324.807	327.697	speaker#3	female	native	中视记者梁(())布依乐采访报道。	3	10	64	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	329.713	333.025	speaker#2	male	native	天赋加勤奋加方法就等于成功。	4	11	66	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	333.759	335.853	speaker#2	male	native	另外呢学还要致用。	4	11	68	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	335.853	344.296	speaker#2	male	native	也许呢我们都有这样的经历，每天呢都要花上不少的时间等巴士，但是如果能够预先知道巴士的位置，就要方便多了。	4	11	69	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	344.296	351.055	speaker#2	male	native	新加坡一所理工学院的华裔学生就学以致用，研发了一个新系统方便乘客。	4	11	70	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	356.118	366.399	speaker#7	male	native	(())理工学院学校以四个月的时间，设计了这个能通过手机简讯和互联网通知乘客，巴士究竟在路上哪个地方的全新系统。	4	12	72	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	366.399	370.133	speaker#8	male	native	我们开发这个系统主要就是为了我们公众节省他们等车的时间，	4	13	73	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	370.133	375.149	speaker#8	male	native	那如果他在办公室或者在开会的时候，或者通过他的移动设备，	4	13	74	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	375.149	379.555	speaker#8	male	native	服务于互联网的(())的话，也可以登陆我们的(())得到相应信息。	4	13	75	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	380.250	385.212	speaker#7	male	native	系统也会显示新闻，广告和天气资讯，如空气污染指数，	4	14	77	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	386.238	392.759	speaker#7	male	native	另外学院也和陆路交通管理局合作，研究出具有成本效益的人行过道集成系统。	4	14	79	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	394.056	397.916	speaker#7	male	native	简化现有的交通灯显示器协助行人过马路。	4	14	81	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	398.713	402.888	speaker#9	female	native	这个系统它是有多一个 <foreign lang="English">(())</foreign> ，	4	15	83	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	402.888	406.888	speaker#9	female	native	然后呢就，如果假如坏的话还要换两个。	4	15	84	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	406.888	411.327	speaker#9	female	native	现在做的是嗯就一体套嘛跟那个(())都有，	4	15	85	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	411.327	415.390	speaker#9	female	native	所以都是那种呃很容易(())然后就是招商。	4	15	86	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	416.171	420.327	speaker#7	male	native	简化后的显示器安置成本减少了大约百分之十六。	4	16	88	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	421.187	425.406	speaker#7	male	native	这个产品自去年九月就已经开始在((泰寿港))六十二街使用，	4	16	90	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	425.406	430.344	speaker#7	male	native	学院目前正同制造商接洽，最快等到年底就能够推出市场。	4	16	91	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	430.938	433.157	speaker#7	male	native	新传媒新闻记者吴((良宵))报道。	4	16	93	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	434.376	440.594	speaker#2	male	native	一个简单的想法和创意就能给我们的生活带来很多便捷，有时候呢甚至是服务全社会。	5	17	95	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	441.235	445.922	speaker#2	male	native	我们知道在海外啊及时地阅读中国大陆的华文期刊，不是一件容易的事儿。	5	17	97	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	445.922	450.750	speaker#2	male	native	在加拿大一名来自中国北京的移民，就利用互联网解决了这个问题。	5	17	98	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	450.750	457.782	speaker#2	male	native	而且呢在短短一年的时间内，与大多伦多地区的一百多家公立图书馆建立了合作关系。	5	17	99	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	457.782	460.157	speaker#2	male	native	来看加拿大城市电视的报道。	5	17	100	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	461.610	470.375	speaker#10	male	native	海外华人要阅读中文杂志必须到书店购买或是到图书馆查阅，除了时效性差，而且每次只能一个人阅读。	5	18	102	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	470.906	478.265	speaker#10	male	native	对此，中国移民汤潮利用互联网技术迅速发展的机会，创办了期刊网有效解决了上述难题。	5	18	104	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	478.265	486.530	Tang_chao	male	native	而现在数字化的内容在网上，无论是有多少人，让所有的都能够图书馆的，或者大家的这个持证读者都可以同时阅读。	5	19	105	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	486.530	493.249	speaker#10	male	native	目前期刊网在本地独家同步发行中国大陆的一千六百四十多种杂志的网络版，	5	20	106	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	493.249	500.014	speaker#10	male	native	因为这种方式廉价而便捷，大多地区的一百多家公立图书馆均已成为期刊网的签约客户。	5	20	107	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	500.014	507.545	speaker#10	male	native	任何读者都可以到图书馆上网阅读，而汤潮下一步还计划为大学的图书馆提供网上服务。	5	20	108	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	507.545	514.858	speaker#10	male	native	这西方的一些学者呀，西方的一些就加拿大本地的一些主流社会的人呀也开始越来越关注中国的发展。	5	20	109	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	514.858	524.217	speaker#10	male	native	那这样的话呢我们就是要逐步地，把把中国的一些这个这些这些期刊杂志资讯的英文版呢或其他语言的方法来向他们提供服务。	5	20	110	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	546.249	551.437	speaker#2	male	native	关注全球华人热点，聚焦海外生活百态，接下来我们一起浏览全球华文报刊。	6	21	112	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	551.437	556.156	speaker#2	male	native	今天呢我们首先来关注一下美国中餐馆鼠肉风波的最新进展。	6	21	113	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	556.698	563.969	speaker#2	male	native	来看屏幕上的这张图片，这位就是当初向电视台投诉中餐馆卖鼠肉的非洲裔女士。	6	21	115	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	564.562	569.702	speaker#2	male	native	美国中文网的消息说，近日这位消失了一个半月的投诉者终于现身了，	6	21	117	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	569.702	575.406	speaker#2	male	native	并且呢通过自己的律师向外界表示她要状告新福建中餐馆，	6	21	118	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	575.406	583.328	speaker#2	male	native	理由呢是她在新福建中餐馆买到老鼠肉的经历，给她的身体和精神上造成了严重的伤害。	6	21	119	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	584.391	593.126	speaker#2	male	native	不过新福建中餐馆儿的律师却认为这位女士的出现，对新福建中餐馆儿或者对美国整个中餐业来说呀是一件好事儿，	6	21	121	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	593.126	605.798	speaker#2	male	native	因为呢她既然要状告势必要拿出证据，只要她把当初投诉的那块肉交出来在法庭上做现场检验，一切就会真相大白。	6	21	122	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	605.798	615.388	speaker#2	male	native	如果检验发现这块肉不是老鼠肉，那么这两个月以来深受新闻报道影响的美国中餐业，就会恢复声誉和生意。	6	21	123	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	616.732	620.013	speaker#2	male	native	俗话说呀好事不出门坏事传千里。	6	21	125	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	620.013	626.497	speaker#2	male	native	世界日报说，鼠肉事件的新闻报道，给美国整个中餐业造成了不小的影响，	6	21	126	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	626.497	632.060	speaker#2	male	native	让将近四万间中餐馆的生意遇到了前所未有的毁灭性的打击，	6	21	127	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	632.060	642.220	speaker#2	male	native	此外一系列连锁反应也随之而来，华人肉食，海鲜，蔬菜批发公司，外卖餐盒供应公司等等生意都有不同程度的下滑。	6	21	128	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	643.220	646.689	speaker#2	male	native	说到这儿啊我们有必要来回顾一下这场鼠肉风波。	6	21	130	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	648.079	654.356	speaker#2	male	native	民报的消息，今年的一月二十九号，纽约电视台十一频道接到一位非洲裔女士的投诉，	6	21	132	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	654.356	661.230	speaker#2	male	native	说她在纽约布鲁克林区新福建中餐馆购买的芥兰鸡肉饭中混有老鼠肉。	6	21	133	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	661.886	666.011	speaker#2	male	native	当天傍晚这家电视台就对此事做出了现场报道。	6	21	135	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	666.683	669.511	speaker#2	male	native	为了澄清事实，也为了讨回公道。	6	21	137	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	669.511	681.340	speaker#2	male	native	侨报的消息说， 二月二十六号来自纽约，新泽西和宾州的五十多个华人社团的两千华侨华人走上街头，举行声势浩大的示威游行。	6	21	138	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	681.340	685.543	speaker#2	male	native	那么现在我们看到的图片就是当天游行示威的场面。	6	21	141	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	686.402	693.793	speaker#2	male	native	民报的消息，在纽约以作画为生的田先生说，我看了报纸才知道今天的抗议集会，	6	21	143	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	693.793	700.089	speaker#2	male	native	虽然呢没有人通知我，但是我今天不做生意也一定要来，因为这是全体华人的事情。	6	21	144	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	701.089	707.229	speaker#2	male	native	参加抗议的一位美国律师说我从来没有见过在美国的华人有如此声势浩大的行动，	6	21	146	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	707.229	712.386	speaker#2	male	native	如果类似老鼠肉的事件发生在过去，许多人呢会选择忍气吞声，	6	21	147	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	712.386	720.622	speaker#2	male	native	但今天不同了，华人的维权意识增强了，当我们的权益受到侵犯的时候，我们就要勇敢地站出来，发出自己的声音。	6	21	148	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	721.981	729.262	speaker#2	male	native	游行队伍中呢不少老华侨说，七十年代曾经有媒体以味精能致癌的报道诬蔑中餐馆，	6	21	150	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	729.262	735.981	speaker#2	male	native	但当时呢大家没有抗争到底，至今有不少美国人还误认为当时的报道是对的，拒绝吃中餐。	6	21	151	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	736.637	743.488	speaker#2	male	native	今天有媒体再次以芥兰鼠抹黑中餐馆，大家无论如何都要表示抗议，不要再让历史重演。	6	21	153	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	744.269	749.207	speaker#2	male	native	那么面对这些抗议的声音，纽约电视台十一频道做出过什么回应呢？	6	21	155	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	750.504	759.113	speaker#2	male	native	侨报说，十一频道啊在示威游行当天，继续发表声明，坚持说他们的报道是真实的。	6	21	157	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	759.113	769.894	speaker#2	male	native	并不针对任何一个少数族裔，也没有蓄意地要伤害亚裔社区，并且呢继续声称他们请的专家确实从盒儿饭中检验出了老鼠肉。	6	21	158	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	770.472	778.300	speaker#2	male	native	但是，侨报上的另一篇文章，为捍卫中餐业声誉而战的评论文章却不这么认为。	6	21	160	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	779.128	790.096	speaker#2	male	native	文章说第一，中餐馆不可能出售老鼠肉，因为没有人会向他们供应老鼠肉，餐馆也不可能自己捉老鼠来加工冒充鸡肉。	6	21	162	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	790.096	794.424	speaker#2	male	native	因为这样做成本远远要比使用鸡肉贵得多。	6	21	163	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	795.283	801.392	speaker#2	male	native	再加上美国食品卫生检查非常严格，只要卫生不合格都要受罚甚至呢被吊销执照。	6	21	165	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	801.392	808.253	speaker#2	male	native	餐馆儿如果用鼠肉冒充鸡肉，等于是自找封门歇业，没有餐馆儿愿意冒这样的风险。	6	21	166	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	808.941	813.503	speaker#2	male	native	况且被报道的新福建餐馆已经通过纽约市卫生机构的检查，	6	21	168	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	813.503	820.581	speaker#2	male	native	所以电视台报道所说的拿鼠肉冒充鸡肉的事儿根本不可能发生，是给中餐业抹黑。	6	21	169	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	821.737	829.658	speaker#2	male	native	第二呢就是电视台所谓的报道啊是从公共卫生角度出发，并不针对任何一个少数族裔也是托词，	6	21	171	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	830.251	839.876	speaker#2	male	native	如果他们是从公共公平的角度进行报道，当别人举报的时候电视台怎么能够如此轻易地相信，至少需要弄清以下基本事实，	6	21	173	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	839.876	848.667	speaker#2	male	native	这盒饭菜是否确实来自新福建餐馆，其中可疑肉块是不是被人另外放进去的呢等等？	6	21	174	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	849.448	852.604	speaker#2	male	native	所以这不是公正的采访和调查。	6	21	176	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	852.604	863.744	speaker#2	male	native	第三，电视台找一位缺乏公信力的个体食品检验师进行检验，并且呢这位检验师都没有合法的执照，这个检验结果如何让人相信。	6	21	177	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	864.541	870.635	speaker#2	male	native	然而当律师提出要那块肉的样品进行检验的时候，电视台却至今没有回应。	6	21	179	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	871.760	881.447	speaker#2	male	native	据美国世界日报的报道， 全美餐馆反暴利联盟主席黄克锵，在第二次示威结束以后正式表示，侨界准备扩大起诉，	6	21	181	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	881.447	892.166	speaker#2	male	native	并且呢开始在纽约，费城两地收集证据，号召其他由于芥兰鼠报道严重影响声誉和生意的中餐馆，一起提出集体诉讼，	6	21	184	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	892.166	897.073	speaker#2	male	native	因为法律诉讼的时间太长，中餐馆经不起长时间的消耗，	6	21	185	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	897.073	902.620	speaker#2	male	native	所以呢要用经济和政治手段给电视台施压，尽快地挽回中餐业的声誉。	6	21	186	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	904.057	909.573	speaker#2	male	native	其实回顾这场鼠肉风波，一开始它就是一件小小的食品投诉案，	6	21	188	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	909.573	917.940	speaker#2	male	native	只要通过当地卫生部门的一次简单的检验便可真相大白，也不至于出现今天这样一发不可收拾的局面。	6	21	189	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	918.908	925.814	speaker#2	male	native	众所周知，在美国中餐业是华裔移民高度密集的行业，他们呢日夜打拼薄利多销，	6	21	191	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	925.814	930.063	speaker#2	male	native	为当地提供品种多样的食品，繁荣了市场，发展了经济。	6	21	192	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	930.641	935.547	speaker#2	male	native	我们希望这场风波早日结束，中餐业的声誉和生意呢能够早日地恢复。	6	21	194	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	936.329	940.970	speaker#2	male	native	好了，观众朋友今天的报纸我们先说到这儿，稍后请继续收看华人世界。	6	21	196	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	942.347	946.895	speaker#11	male	native	他是法国最高的学术机构里出现的第一位华人。	7	22	198	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	947.404	955.005	Zhu_dequn	male	native	因为作为自由要表现我自己的思想，我自己，所以说这个看到和想到的东西。	7	23	200	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	955.770	960.978	speaker#11	male	native	在法国他代表着华人在艺术领域取得的最高成就。	7	24	202	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	961.541	967.292	Zhu_dequn	male	native	一个画家不是为钱画，换句话说为你自己的理想而画。	7	25	204	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	967.292	974.280	speaker#11	male	native	华人世界即将为您播出，法兰西学院院士朱德群的艺术之路。	7	26	205	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	998.036	999.911	speaker#2	male	native	好欢迎继续收看华人世界，	9	28	207	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1000.646	1009.771	speaker#2	male	native	一六三五年法国国王路易十三时期的首相黎赛留创立了法兰西学院，旨在吸纳法国文学和思想界的泰斗加入。	9	28	209	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1010.380	1020.333	speaker#2	male	native	许多为世界各国人民耳熟能详的法国文学艺术大师，像拉辛，拉封丹，雨果，小仲马等等，先后呢成为这里的终生院士。	9	28	211	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1020.974	1032.130	speaker#2	male	native	如今法兰西学院已经将弘扬法兰西文化与追求文化多样性相融合，逐渐成为超越政治制度和时代局限的法国最高荣誉机构。	9	28	213	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1033.068	1041.615	speaker#2	male	native	一九九七年十二月十七号，旅法画家朱德群被法兰西学院选为二百五十名院士中的一员，	9	28	215	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1041.615	1046.927	speaker#2	male	native	而且呢是法兰西学院成立两百多年来的第一位华裔艺术院士。	9	28	216	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1058.065	1067.023	speaker#11	male	native	一九九九年二月三日下午三点， 法兰西学院圆拱形会议厅内正在举行隆重的院士加冕典礼，	9	29	218	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1067.820	1082.569	speaker#11	male	native	旅法画家七十八岁的朱德群老人，身穿特制的拿破仑时代的绿底金线刺绣院士大礼服， 在法兰西共和国仪仗队的击鼓致敬声中登上了神圣的奖台。	9	29	222	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1085.908	1092.798	Zhu_dequn	male	native	面对法兰西学院的主要的就是， 一般的艺术家就是创作的艺术家，	9	30	226	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1093.470	1097.253	Zhu_dequn	male	native	就是到了相当的水准以上他们才可以，	9	30	230	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1097.910	1101.613	Zhu_dequn	male	native	才可以，可以就，在选举的时候才可以被选上。	9	30	232	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1102.332	1109.144	Zhu_dequn	male	native	有这个对，对我来讲，就等于是好像对我的工作上的一种肯定。	9	30	234	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1109.816	1117.582	Zhu_dequn	male	native	所以这这一点我觉得，我工作了几十年都觉得这个， 对我来讲是最大的安慰。	9	30	236	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1118.629	1127.098	speaker#11	male	native	法兰西学院一共只有二百五十把椅子，而且这个数额是固定的，既二百五十位终生院士，	9	31	240	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1127.770	1131.786	speaker#11	male	native	只有在一位院士辞世以后才能选出新院士。	9	31	242	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1132.490	1137.974	speaker#11	male	native	当时和朱德群同时参加角逐的还有法国著名画家朗日，	9	31	244	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1138.630	1142.833	speaker#11	male	native	但是院士头衔却只能授予他们当中的一个人。	9	31	246	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1144.380	1147.583	Zhu_dequn	male	native	那么竞选的时候有时候很多了，不只两个人。	9	32	248	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1148.255	1152.582	Zhu_dequn	male	native	有四五个人六七个，六七个人参加。	9	32	250	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1152.582	1158.691	Zhu_dequn	male	native	哎所以，所以很多，他们选很多次都选不上。	9	32	251	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1158.691	1165.763	Zhu_dequn	male	native	我讲一个一件事情很简单，左拉，你们学过的这个画这个写作家，	9	32	252	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1166.607	1170.888	Zhu_dequn	male	native	他竞选了二十四次，都没选上，	9	32	254	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1171.513	1173.396	Zhu_dequn	male	native	到，直到他死都没有选上。	9	32	256	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1173.995	1179.404	Zhu_dequn	male	native	所以有时候有很多问题不见得就很容易选上，	9	32	258	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1179.404	1184.248	Zhu_dequn	male	native	这个很，就一般的因为这些投票的这些院士，	9	32	259	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1185.123	1188.951	Zhu_dequn	male	native	都是比较有，在水准以上，他们是专业的，	9	32	261	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1188.951	1193.638	Zhu_dequn	male	native	所以这东西没有，作品不够的话，他们不会投票的。	9	32	262	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1194.622	1200.669	speaker#2	male	native	朱德群被选为院士就意味着进入法国文化历史的殿堂而成为不朽者，	9	33	264	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1201.278	1209.964	speaker#2	male	native	在加冕典礼上由法兰西院士著名雕塑家亚贝尔费洛，专门为朱德群设计的法兰西院士宝剑非常特别。	9	33	266	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1210.589	1223.871	speaker#2	male	native	剑柄上镶了四块中国传统文人借以抒发高洁情怀的汉白玉，两块扁平中空的绿松石，还有一块刻着战国时代兽面纹的琥珀。	9	33	268	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1223.871	1226.855	speaker#2	male	native	下面让我们来仔细地看一下这把剑。	9	33	269	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1228.795	1232.217	speaker#11	male	native	法兰西学院是法国最高的荣誉机构，	9	34	271	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1232.217	1242.077	speaker#11	male	native	按照惯例，院士加冕要穿深绿色金龙刺绣的院士大礼服，佩戴象征国宝荣誉的院士宝剑。	9	34	272	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1242.937	1250.171	speaker#11	male	native	朱德群没有用西方传统的宝石而是选用了中国文人喜欢的汉白玉镶在了剑柄上，	9	34	274	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1250.842	1257.920	speaker#11	male	native	他说这样正可以象征他的东方与西方，古典与现代相和谐的绘画风格。	9	34	276	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1260.727	1264.617	Zhu_dequn	male	native	因为有，每一个人的剑呃都不一样，	9	35	278	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1265.305	1267.196	Zhu_dequn	male	native	因为每一个人的是，	9	35	280	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1268.055	1271.508	Zhu_dequn	male	native	他自己(())这个生活的背景不一样，	9	35	282	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1272.242	1278.211	Zhu_dequn	male	native	因为我，我觉得我是中国人，你和我那个剑上我也放了有几块玉，	9	35	284	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1279.164	1281.367	Zhu_dequn	male	native	(())因为中国人喜欢玉。	9	35	286	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1281.367	1295.336	Zhu_dequn	male	native	而且比较尊重我也，里面有一块玛瑙是商朝的，这是我一个朋友帮我找的，另外有几块玉，所以我镶在那个剑柄剑把上面。	9	35	287	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1303.736	1308.487	speaker#11	male	native	成为院士以后，朱德群的社交活动也随之增加了不少，	9	36	289	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1309.174	1315.331	speaker#11	male	native	在画布前游刃有余的朱德群，对参加各种应酬却感到十分的苦恼。	9	36	291	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1317.775	1322.369	Zhu_dequn	male	native	同人接触啊我没有这个才气我讲的实在话，	9	37	293	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1322.369	1335.900	Zhu_dequn	male	native	我我这个人比较，呃好好像比较有不是那个很，呃有些人的这个比较外向，我比较内向，	9	37	294	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1335.900	1344.503	Zhu_dequn	male	native	所以我对这一点我有时候感觉很烦恼我，我总是希望能尽量地减少这种同外边的接触。	9	37	295	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1344.503	1349.847	Zhu_dequn	male	native	当然法兰西学院里面有可以很多，开那个会那是很多。	9	37	296	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1349.847	1362.268	Zhu_dequn	male	native	但是这种这个(())没有什么问题，就去开会这这事情，但是这除此以外的这个社会的活动，我对这些我不太喜欢。	9	37	297	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1365.320	1373.070	speaker#11	male	native	一九二零年十月二十四日，朱德群出生在江苏萧县白图镇的一个殷实的中医世家。	9	38	299	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1373.773	1382.086	speaker#11	male	native	朱德群的父亲不仅医术高明，还是一位颇有水准的业余文人画家，收藏过不少古代的名画。	9	38	301	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1382.757	1390.789	speaker#11	male	native	父亲的爱好影响了幼年的朱德群，自然也就成了朱德群绘画生涯的第一任启蒙老师。	9	38	303	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1392.133	1399.694	Zhu_dequn	male	native	他每一天天气热就是夏天要把那画，因为在箱子里面，要拿出去晒一下，因为怕那个潮湿了。	9	39	305	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1400.274	1407.398	Zhu_dequn	male	native	(())，所以就(())，所以这样呢关于我，对我有有一种影响从小的时候就，	9	39	307	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1408.116	1411.773	Zhu_dequn	male	native	就写字啊什么画画都是我父亲的关系。	9	39	309	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1413.101	1420.976	speaker#11	male	native	进入初中后，朱德群的个头迅速向一米八挺进，篮球取代了他对绘画的兴趣。	9	40	311	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1421.680	1427.867	speaker#11	male	native	老师甚至也认为，朱德群有运动天赋，建议他报考上海体育专科学校。	9	40	313	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1428.664	1431.929	speaker#11	male	native	但是却遭到了朱德群父亲的极力反对。	9	40	315	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1431.929	1435.712	Zhu_dequn	male	native	我也可以体谅父亲说的，他说这个不要，	9	41	316	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1435.712	1443.518	Zhu_dequn	male	native	他说你这个运动，他说你到三十岁以后，你老了以后根本没有用，没有什么没有什么前途的。	9	41	317	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1444.127	1455.442	Zhu_dequn	male	native	因为我父亲本人喜欢画，他也买了收藏了不少画，他自己也对画(())就好像这种消遣的画，	9	41	319	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1456.067	1465.208	Zhu_dequn	male	native	后来我说呃进杭，进艺专他就非常赞成，(())所以在我就去考杭州艺专结果就考取。	9	41	321	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1467.364	1473.114	speaker#11	male	native	杭州艺专讲究中西兼修的学风，开阔了朱德群的思维和视野。	9	42	323	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1473.676	1478.442	speaker#11	male	native	正规的绘画教育为他日后的创作打下了坚实的基础。	9	42	325	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1478.442	1481.864	Zhu_dequn	male	native	这头几年呢画那个呃是中国画，	9	43	326	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1482.551	1493.271	Zhu_dequn	male	native	所以天一，学校里面吃早饭以前一醒就，那么(())床么就床前有板凳放个砚台，	9	43	328	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1493.271	1497.974	Zhu_dequn	male	native	就左，我这个左手可以磨墨嘛，还就是那时候学。	9	43	329	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1497.974	1502.739	Zhu_dequn	male	native	天不亮就在这儿磨了，天一亮马上起来就画，	9	43	330	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1502.739	1510.848	Zhu_dequn	male	native	然后用左手磨着墨，用右手画就就就是那时候训练出来，就变成习惯了。	9	43	331	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1512.285	1518.957	speaker#11	male	native	在杭州艺专对朱德群影响最深的老师莫过于著名画家吴大羽了，	9	44	333	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1519.629	1524.816	speaker#11	male	native	那时的朱德群每天都要到西湖边上写生，风雨不误。	9	44	335	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1524.816	1528.363	speaker#11	male	native	然后把画儿交到吴大羽手里接受点评，	9	44	336	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1528.957	1533.098	speaker#11	male	native	至今朱德群仍铭记着吴大羽当年的教导。	9	44	338	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1533.098	1543.218	Zhu_dequn	male	native	吴大羽他们教了我们的东西都是， 印象派，後期印象派的东西， 所以比较接近就是现代绘画。	9	45	339	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1544.234	1553.391	Zhu_dequn	male	native	吴大羽很好的一个老师，而且他很，他那个中中国的中文各方面修养都很好。	9	45	345	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1554.110	1563.079	Zhu_dequn	male	native	(())教的，他教的我们，我们很很幸运碰到这样的一个，几个好的老师，还有(())。	9	45	347	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1564.079	1566.001	Zhu_dequn	male	native	(())都非常好的老师。	9	45	349	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1567.657	1574.782	speaker#11	male	native	由于老师吴大羽对塞尚非常的推崇，这引起了朱德群对西方绘画的兴趣。	9	46	351	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1575.610	1581.611	speaker#11	male	native	塞尚是后期欧洲印象画派的代表人物，被誉为现代绘画之父。	9	46	353	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1582.252	1584.596	speaker#11	male	native	而巴黎又是印象派的故乡，	9	46	355	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1585.252	1589.549	speaker#11	male	native	朱德群萌生了前往世界艺术之都巴黎的愿望，	9	46	357	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1590.236	1598.190	speaker#11	male	native	尽管接下来的日子朱德群历经了战火纷飞的流亡岁月，但他仍对巴黎心驰神往。	9	46	359	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1600.159	1604.070	speaker#2	male	native	一九五五年朱德群做出了一个他一生中最重要的决定，	9	47	361	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1604.070	1611.848	speaker#2	male	native	那就是放弃在中国台湾已经有的艺术声名和学术地位，坐船经埃及，西班牙前往巴黎。	9	47	362	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1612.738	1621.269	speaker#2	male	native	尽管朱德群的绘画作品已经达到了相当高的境界，然而要想在被称为世界艺术之都的巴黎得到认可，并非易事。	9	47	364	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1621.972	1625.894	speaker#2	male	native	那么当年初到法国的时候，朱德群有着怎样的一番经历？	9	47	366	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1625.894	1630.705	speaker#2	male	native	他的绘画作品又是如何被法国艺术界认可，从而打入国际画坛的呢？	9	47	367	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1631.612	1636.722	speaker#2	male	native	下一期的华人世界我们将继续为您讲述朱德群的艺术之路，欢迎您的收看。	9	47	369	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1643.145	1644.802	speaker#2	male	native	欢迎来到华人咨询站。	10	48	371	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1644.802	1646.708	speaker#2	male	native	先来看一条安全方面的消息，	10	48	372	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1646.708	1653.145	speaker#2	male	native	近日由于科索沃部分地区爆发了大规模示威游行以及暴力冲突，已经造成多人伤亡，	10	48	373	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1653.145	1662.160	speaker#2	male	native	在这儿呢中国外交部领事司提醒在科索沃的中国公民要随时注意人身安全，尽量地减少外出避开事故多发地区。	10	48	374	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1663.004	1664.960	speaker#2	male	native	再来看一条有关移民方面的消息，	11	49	376	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1664.960	1674.535	speaker#2	male	native	最近加拿大出台了新措施，允许在加拿大的国际留学生以及持工作签证的居民，在境内直接申请永久居留的手续，	11	49	377	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1675.144	1682.597	speaker#2	male	native	根据加拿大有关负责人的介绍，这项新措施的目的是希望可以招揽立即可用的移民劳工，	11	49	379	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1682.597	1693.628	speaker#2	male	native	因为呢在加拿大过去五年增长的一百六十万人口中，有四分之三是来自于新移民，可以说移民已经成为了加拿大社会劳动力主力军了。	11	49	380	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1694.222	1705.062	speaker#2	male	native	据了解，目前加拿大呢还有二十五万个职位空缺，实行这一政策以后，估计每年大约有两万五千人，可以在加拿大境内申请永久居留。	11	49	382	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1705.984	1708.063	speaker#2	male	native	再来关注一组旅游方面的信息。	12	50	384	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1708.063	1713.718	speaker#2	male	native	一年一度的泰国泼水节就要到了，泰国游再次成为出境游的热点。	12	50	385	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1713.718	1719.578	speaker#2	male	native	根据我们的了解，目前北京已经有不少旅行社，推出了以这个节日为主题的泰国游。	12	50	386	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1720.125	1723.500	speaker#2	male	native	现在赴泰国旅游的价格啊也是非常划算的，	12	50	388	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1723.500	1729.048	speaker#2	male	native	普通团队游的价格一般在三千元左右，自由行在三千到四千元。	12	50	389	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1729.048	1734.471	speaker#2	male	native	行程呢一般是四到六天，如果您想放松一下心情不妨呢可以考虑一下。	12	50	390	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1735.018	1741.695	speaker#2	male	native	另外呢去北欧旅游也是一个不错的选择，像瑞典，丹麦，都是很吸引华人朋友的旅游目的国。	12	50	392	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1742.222	1748.597	speaker#2	male	native	那么从三月二十六号开始，北欧航空公司正式开通了北京直飞斯德哥尔摩的航班，	12	50	394	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1748.597	1757.957	speaker#2	male	native	每周四班，另外呢还有六班从北京直飞丹麦的哥本哈根，而从四月八号起原来从上海直飞哥本哈根的航班将终止。	12	50	395	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1757.957	1760.895	speaker#2	male	native	有这方面出行计划的观众您可要注意了。	12	50	396	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1761.504	1766.833	speaker#2	male	native	好了，观众朋友今天的节目内容就是这些，感谢您的收看，明天的同一时间我们再见。	12	50	398	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1768.603	1773.696	speaker#11	male	native	从具象到抽象，他萌生了与古人对话的冲动。	13	51	400	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1774.383	1782.399	Zhu_dequn	male	native	对于这个自然的认识，是我自己的想，幻想我自己的所感觉的自然。	13	52	402	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1783.040	1787.665	speaker#11	male	native	在他的眼中时间是评判创作的最佳标准。	13	53	404	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1788.353	1792.088	Zhu_dequn	male	native	时间呢是很苛刻也很准确，	13	54	406	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1792.823	1795.417	Zhu_dequn	male	native	慢慢地不好的东西会淘汰掉。	13	54	408	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1796.120	1798.432	Zhu_dequn	male	native	因为好的东西啊慢慢地会出来。	13	54	410	report	
+CCTV4_NEWS3_CMN_20070326_075800	0	1799.338	1806.400	speaker#11	male	native	华人世界下集为您播出，法兰西学院院士朱德群的艺术之路。	13	55	412	report	

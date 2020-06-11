@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0025	0	0.0	1000.0	speaker	unknown	unknown	White House and America's Central Intelligence Agency officials told the senator today that North Korea, which believes in Stalinism, had assisted Syria in building a nuclear reactor. The site was destroyed in an airstrike by Israel in September of last year.	0	0	0		

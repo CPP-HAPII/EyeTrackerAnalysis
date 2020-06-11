@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080730.0149	0	300.0	400.0	speaker	unknown	unknown	台湾“农委会”今天举行“F4台湾农产品前进北京”记者会，发布这一消息。	0	0	0		
+PDA_CMN_20080730.0149	0	400.0	500.0	speaker	unknown	unknown	“农委会”主委陈武雄在记者会上说，4种水果入选奥运推荐水果，是台湾面向大陆及全球推销特色水果的绝佳良机。	0	0	0		
+PDA_CMN_20080730.0149	0	600.0	700.0	speaker	unknown	unknown	“农委会”目前已规划8月1日北京奥运开幕前，在北京和乔丽致饭店办理“台湾水果在北京”记者会。	0	0	0		

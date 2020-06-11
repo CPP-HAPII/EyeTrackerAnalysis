@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0059.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	梁光烈会见斯洛伐克军队副总参谋长	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 20:46:13   来源：新华社	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社北京４月２３日电（记者谭晶晶）国务委员兼国防部长梁光烈２３日在北京会见了斯洛伐克军队副总参谋长彼德・加伊多什一行。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	梁光烈说，中斯两国和两国人民之间有着深厚的传统友谊。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	特别是近年来，双方高层领导人交往不断，政治互信日益增强。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	中斯两军之间长期保持着密切的交往与合作，发展两军友好关系有利于两国关系的全面发展。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	中国军队高度重视发展与斯洛伐克军队的关系，对推动两军友好合作关系持积极态度。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1293.750	1300.000	TEXT1	unknown	unkown	中方愿与斯方共同努力，使两军友好合作关系得到健康、持久、稳定的发展。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	加伊多什说，斯中两军合作有着良好、坚实的基础，近年来双方在人员培训、医疗、卫生等方面开展了广泛交流与合作，希望两军友好合作关系得到进一步加强。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	斯方坚定奉行一个中国政策。	0	0	0		statement
+PLA_CMN_20080423.0059.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	会见开始前，副总参谋长马晓天与加伊多什举行了会谈，双方在坦诚友好的气氛中就双边关系、两军合作以及共同关心的问题深入交换了意见。（完）	0	0	0		statement

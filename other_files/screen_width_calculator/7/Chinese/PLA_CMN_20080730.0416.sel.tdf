@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0416	0	0.0	100.0	speaker	unknown	unknown	洪都拉斯代表团举行升旗仪式	0	0	0		
+PLA_CMN_20080730.0416	0	200.0	300.0	speaker	unknown	unknown	新华社北京７月３０日奥运专电（记者纪国华 阎涛）３０日上午，北京奥运村为洪都拉斯代表团举行入村仪式，这是中美洲地区第一个举行入村仪式的代表团。	0	0	0		
+PLA_CMN_20080730.0416	0	300.0	400.0	speaker	unknown	unknown	上午１０时，入村仪式正式开始，北京奥运村值班村长、联合国前任副秘书长陈健对洪都拉斯代表团的到来表示热烈欢迎。	0	0	0		
+PLA_CMN_20080730.0416	0	700.0	800.0	speaker	unknown	unknown	陈健最后用西班牙语再次表达了对洪都拉斯代表团的欢迎。	0	0	0		
+PLA_CMN_20080730.0416	0	900.0	1000.0	speaker	unknown	unknown	洪都拉斯位于中美洲，玛雅文明最重要的地区之一－－科潘玛雅遗址就坐落在这个国家。	0	0	0		
+PLA_CMN_20080730.0416	0	1100.0	1200.0	speaker	unknown	unknown	据本届奥运会ＩＮＦＯ２００８系统资料显示，１９６８年，洪都拉斯首次参加奥运会。	0	0	0		
+PLA_CMN_20080730.0416	0	1200.0	1300.0	speaker	unknown	unknown	该国奥运历史上最好成绩出自１９７６年蒙特利尔奥运会，圣地亚哥・丰塞卡获得男子２０公里竞走第２７名。	0	0	0		
+PLA_CMN_20080730.0416	0	1300.0	1400.0	speaker	unknown	unknown	洪都拉斯是继贝宁代表团之后第二个举行升旗仪式的外国代表团。	0	0	0		

@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121113-9951320	0	0.0	100.0	speaker	unknown	unknown	毛新宇为什么和前妻离婚的?	0	0	0		
+cmn-NG-31-121113-9951320	0	1000.0	1100.0	speaker	unknown	unknown	图：毛新宇的现任妻子：刘滨与儿子 第二部分 郝明莉现在到底怎样？	0	0	0		
+cmn-NG-31-121113-9951320	0	1300.0	1400.0	speaker	unknown	unknown	可是，今天才在一个毛新宇一家三口出席某座谈会的帖子看到，毛新宇现任妻子竟是"第 二任"（帖中注明）。	0	0	0		
+cmn-NG-31-121113-9951320	0	1500.0	1600.0	speaker	unknown	unknown	对于毛新宇1997年结婚的事媒体也是作了大量报道，所以印象深刻，不想20 03年为毛新宇生下儿子的并不是原配而是"另有其人"，也即第二任妻子刘滨。	0	0	0		
+cmn-NG-31-121113-9951320	0	1900.0	2000.0	speaker	unknown	unknown	当然结婚两次也没有什么，可是却在一个帖子看到这样的话："毛新宇的前妻郝明莉，在2002年五月，由於得知毛新宇又有新欢，而和毛新宇闹翻，被秘密关进秦城监 狱，于今天早晨在狱中病逝（帖子时间是2003年12月）。"	0	0	0		
+cmn-NG-31-121113-9951320	0	2300.0	2400.0	speaker	unknown	unknown	关进去为什么那么快突然死亡？	0	0	0		

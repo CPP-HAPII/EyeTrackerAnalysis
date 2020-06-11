@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080425.0753	0	300.0	400.0	speaker	unknown	unknown	新华社记者２５日从北京奥组委志愿者部获悉，北京奥运会、残奥会赛会志愿者录用通知工作正式启动，录用通知书正在陆续发放。	0	0	0		

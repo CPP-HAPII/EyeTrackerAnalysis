@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080703.0136	0	700.0	800.0	speaker	unknown	unknown	７月１日，专柜为北京地区此次赴台人员办理了签注申请，并在次日发放。	0	0	0		

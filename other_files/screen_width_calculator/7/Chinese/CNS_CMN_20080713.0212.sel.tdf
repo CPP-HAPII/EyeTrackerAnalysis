@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080713.0212	0	2800.0	2900.0	speaker	unknown	unknown	蒋志培：是的，国家目前正处于经济转型时期，市场经济秩序正在规范，要着力改变经济发展方式，建立创新型国家。	0	0	0		
+CNS_CMN_20080713.0212	0	3500.0	3600.0	speaker	unknown	unknown	其实，在一些地方法院中，已经有采用综合审判模式审理知识产权案件的法院。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.2663	0	1700.0	1800.0	speaker	unknown	unknown	And sales of corrective products for myopia are improving quickly. In one optician's shop, several parents brought their children to have eyes examined and glasses made. They asked at the same time, "Do you have those XX lens advertised in commercials?"	0	0	0		
+CNS_CMN_20080710.2663	0	2800.0	2900.0	speaker	unknown	unknown	(Reporter Liu Wenjing)	0	0	0		

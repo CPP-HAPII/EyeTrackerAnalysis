@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0824.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	牙买加"飞人"鲍威尔因伤休战两个月	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 11:19:33   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社华盛顿４月２８日奥运专电 现世界男子１００米跑世界纪录保持者、牙买加短跑名将鲍威尔因胸部肌肉拉伤将暂时离开赛场，可能要休战至六月底。	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	鲍威尔的经纪人多伊尔２８日向媒体透露，此次鲍威尔将至少休战至六月底，他会错过在多哈、奥斯陆等地举行的多项比赛，不过休战将不会影响到他备战八月份的北京奥运会。	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	六月底的牙买加国内田径锦标赛将可能是鲍威尔的复出之战。	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	２００７年９月９日，鲍威尔在意大利列蒂举行的国际田联大奖赛中，以９秒７４的成绩打破了他本人保持的世界纪录。	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1600.000	1700.000	TEXT1	unknown	unkown	而这个项目９秒７７的原世界纪录是他于２００５年在希腊雅典举行的田径大奖赛上创造的。	0	0	0		statement

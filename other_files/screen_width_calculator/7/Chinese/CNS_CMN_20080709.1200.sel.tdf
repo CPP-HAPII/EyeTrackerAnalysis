@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.1200	0	600.0	700.0	speaker	unknown	unknown	在这54个交易日里，沪深证券交易所A股大宗交易累计多达192起，其中沪市116起，深市76起，相当于每个交易日沪深两市平均完成3至4起A股大宗交易。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.2735	0	0.0	100.0	speaker	unknown	unknown	俄总统允诺川震区娃：以后可来克宫当助手(图)	0	0	0		

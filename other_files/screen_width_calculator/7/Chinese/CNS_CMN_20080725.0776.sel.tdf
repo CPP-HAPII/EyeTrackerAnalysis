@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0776	0	700.0	800.0	speaker	unknown	unknown	中国限价电煤，意图缓解CPI上涨压力。	0	0	0		

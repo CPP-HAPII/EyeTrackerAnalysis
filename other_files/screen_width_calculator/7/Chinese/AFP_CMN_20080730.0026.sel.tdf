@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080730.0026	0	500.0	600.0	speaker	unknown	unknown	南韩海军表示,在日本海(东海)举行的演习,将出动三千吨级驱逐舰、反潜艇直升机和南韩最新的战斗机群。	0	0	0		

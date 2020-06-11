@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0019.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	澳洲菁英峰会　女星凯特布兰琪新生儿超抢镜	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社雪梨二十日电	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	澳洲女星凯特布兰琪六天大的儿子,今天在旨在为未来激发创新政治想法的澳洲菁英高峰会上,抢去一千多位澳洲重要公民的锋头。	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	澳洲总理陆克文去年十一月当选、结束保守党近十二年执政后,开始筹办这场鼓励创新想法的「二零二零高峰会」。	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	峰会主题是「目标远大」,但会议在国会大楼揭幕之前,大家注意的却是布兰琪十三日才出生的儿子伊格内修。	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	三十八岁的布兰琪与宝宝合影时看来容光焕发,小宝宝也继承妈妈抢戏的本事,成为现场目光的焦点。	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	2800.000	2950.000	TEXT1	unknown	unkown	也参加这场高峰会的好莱坞影星休杰克曼,赞扬布兰琪生产完随即参加这场盛会的决心。	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	2950.000	3100.000	TEXT1	unknown	unkown	布兰琪将在会中协调有关创意艺术的部分。	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	3300.000	3600.000	TEXT1	unknown	unkown	杰克曼说:「凯特布兰琪是超人......她在每个层面都很让人惊艳,我想她是个完美无缺的人,我也非常高兴,能由她来带领我们。」	0	0	0		statement
+AFP_CMN_20080420.0019.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	陆克文十五日曾到雪梨的医院探视布兰琪,问她是不是还能参加高峰会,但他表示,她很坚持要参加。	0	0	0		statement

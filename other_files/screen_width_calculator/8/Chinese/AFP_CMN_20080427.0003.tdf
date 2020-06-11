@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	油厂罢工加北海输油管关闭 英掀抢购汽油潮	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社苏格兰格兰茅斯二十七日电	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	英国最大炼油厂之一格兰茅斯炼油厂的员工今天展开两天的罢工, 迫使北海一条主要输油管因而关闭,并引发消费者抢购汽油。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	英国石油公司的营运人员说,位在爱丁堡以西的格兰茅斯炼油厂一千两百余名工人从上午六时起开始罢工 ,附近的一条佛提斯输油管在大约同时间关闭。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2000.000	2150.000	TEXT1	unknown	unkown	这条输油管每天把七十余万桶原油输送到岸上,供应英国本土大约百分之四十的石油与天然气,以及供应部份国际市场。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2150.000	2400.000	TEXT1	unknown	unkown	没有来自格兰茅斯炼油厂的电力和蒸汽 ,这条输油管无法运作。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2600.000	2700.000	TEXT1	unknown	unkown	这场工会主导的罢工是因为养老金争执而引发,炼油厂的员工与眷属今天曾经在工厂外示威抗议。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2700.000	2900.000	TEXT1	unknown	unkown	炼油厂在罢工结束后,可能需要数周才能恢复正常运作。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	3100.000	3200.000	TEXT1	unknown	unkown	英国主要的反对党保守党警告说,这次罢工行动将会对世界油价带来打击。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	而执政的工党则呼吁各界冷静,并且表示英国有足够的库存可以维持到罢工结束。	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	3600.000	3900.000	TEXT1	unknown	unkown	尽管政府官员多次保证,假如大家保持镇静,可以有足够的供应,但仍有许多民众慌忙到加油站加油,特别是在苏格兰与英格兰北部地区。	0	0	0		statement

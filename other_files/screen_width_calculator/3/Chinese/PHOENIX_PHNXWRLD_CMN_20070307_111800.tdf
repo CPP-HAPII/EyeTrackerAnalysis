@@ -1,0 +1,239 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 172.44300000000001, 1119.1690000000001, 1280.713, 1567.914, 1793.1300000000001, 9999999.0]
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	172.443	175.898	Sa_wen	male	native	掌握时事幻变，细听各方观点，凤凰全球连线，各位好！	1	1	1	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	175.898	186.485	Sa_wen	male	native	从对立到对话，从邪恶轴心到同台谈心， 美国跟朝鲜呢，经历了五十多年的敌对之后，终于平心静气地坐在一起好好聊聊，试图解开彼此的心结，	1	1	2	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	186.485	196.036	Sa_wen	male	native	当然对于美国来说，跟朝鲜面对面坐下来，就像是进行一场心理测试，因此他很想确定朝鲜答应解除核武计划，究竟不是在演戏。	1	1	4	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	196.036	203.701	Sa_wen	male	native	那么正当朝美心理攻防暂告一段落的时候呢，朝日这两个宿敌也要上演一场好戏，就是好邻居的戏嘛！	1	1	5	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	203.701	209.929	Sa_wen	male	native	只不过也许是话不投机半句多，双方才刚见面，朝鲜说变脸就变脸。	1	1	6	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	209.929	219.121	Sa_wen	male	native	今晚双喜凤凰全球连线，我们就分别跟在纽约的记者张世新，以及仍在河内的特派记者舒振辉连线了解朝美朝日双边会谈的内幕，	1	1	7	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	219.121	228.762	Sa_wen	male	native	而在北京的现场，北京人民大学国际关系学院教授朱峰先生，纽约现场呢，世界日报资深评论员孟玄先生也将加入连线，	1	1	8	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	228.762	238.073	Sa_wen	male	native	一起来分析朝鲜双管齐下背后的外交手腕，六方会谈的故事能否要得到真正的落实，首先来关心(())今天的这个话题新闻。	1	1	9	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	238.073	246.336	Sa_wen	male	native	希尔跟金桂冠呢，这次在纽约举行了朝美关系正常化工作组第一次会议呢，是两国近七年来在美国境内举行的最高级别的会谈，	1	1	10	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	246.336	251.695	Sa_wen	male	native	在访问纽约的行程当中呢，金桂冠还公开在纽约百老汇的演出现场露面。	1	1	11	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	251.695	255.468	Sa_wen	male	native	外界解读，他是在表达朝鲜人也能接受美国文化。	1	1	12	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	255.468	264.001	Sa_wen	male	native	那么还有消息说呢，朝鲜在澳门汇业银行被冻结的资金本周有可能解冻，看来双方都在向对方释出积极的信息。	1	1	13	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	265.468	272.175	Zhang_shixin	female	native	踏上破冰之旅的朝鲜外务省副相金桂冠，六号在纽约结束和美国助理国务卿希尔的首轮会谈，	1	2	15	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	272.175	277.325	Zhang_shixin	female	native	此次会谈议题包括如何落实六方会谈协议和实现美朝关系正常化。	1	2	16	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	277.325	283.822	Zhang_shixin	female	native	过去半个多世纪，美朝间几乎只玩骂声，不见笑脸，核问题是双方争(())的关键，	1	2	17	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	283.822	289.900	Zhang_shixin	female	native	此次纽约会谈被视为朝美双方在对立了五十多年之后走向和解的第一步，	1	2	18	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	289.900	299.750	Zhang_shixin	female	native	会谈中，希尔肯定了朝鲜对落实六方会谈共识的决心，也表示只要朝鲜实现自己的承诺，美国也会把朝鲜从恐怖主义国家名单中去除。	1	2	19	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	299.750	304.570	Zhang_shixin	female	native	并向两国关系正常化，也就是重新建立外交关系的目标推进。	1	2	20	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	304.570	313.911	Zhang_shixin	female	native	不过，美国把朝鲜的洲际导弹，涉嫌伪造美元，洗钱，人权和宗教问题与关系正常化挂了钩，增加了实现目标的难度。	1	2	21	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	313.911	321.336	Zhang_shixin	female	native	美朝关系从持续紧张走向对话，对于朝鲜核问题的缓解，希尔在新闻会上特别提到中国的重要性。	1	2	22	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	321.336	329.300	speaker#1	male	nonnative	<foreign lang="English">(())</foreign>	1	3	23	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	329.300	335.258	Zhang_shixin	female	native	朝美关系终于见到一丝曙光，接下来美方要求朝鲜和盘托出他的浓缩铀计划，	1	4	24	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	335.258	341.995	Zhang_shixin	female	native	希尔和金桂冠很快又要在北京见面，高层频频接触，能否让两国之间云开雾散。	1	4	25	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	343.103	351.454	Sa_wen	male	native	那么至少呢，这次在纽约的金桂冠跟希尔他们双方的会谈呢，已经被认为是一个 <foreign lang="English">(())</foreign> ，一个里程碑，	1	5	27	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	351.454	356.005	Sa_wen	male	native	而且呢这次会谈也是呃有一个比较乐观，比较好的结果，	1	5	28	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	356.005	366.127	Sa_wen	male	native	希尔也说了， <foreign lang="English">very good</foreign> 那么至于采访这次会谈的我们的同事呢世新究竟她心里面觉得， 他两个人的会谈，是不是真的那么友好呢？	1	5	29	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	366.127	372.091	Sa_wen	male	native	这一次其实他们都说非常的 <foreign lang="English">(())</foreign> 非常综合的一个商谈，一个和谈，	1	5	31	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	372.091	375.618	Sa_wen	male	native	那其实呃世新，媒体怎么看这次的会谈呢？	1	5	32	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	376.905	381.486	Zhang_shixin	female	native	是的，金桂冠这次访问美国啊，可以说是相当的保密和低调，	1	6	34	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	381.486	386.276	Zhang_shixin	female	native	那么他的行程呢，从一开始在旧金山的部分呢，就几乎是没有跟媒体见面，	1	6	35	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	386.276	391.336	Zhang_shixin	female	native	因此守候在旧金山的超过百余名的媒体啊，几乎都扑了空。	1	6	36	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	391.336	398.701	Zhang_shixin	female	native	那么他到了纽约之后呢，是稍微比较放松一些，那么在一到一抵达纽约的时候，的确就我们看到他进入饭店的画面，	1	6	37	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	398.701	403.461	Zhang_shixin	female	native	不过呢，在这个会谈当天呢，这个行程可以说是一改再改，	1	6	38	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	403.461	408.432	Zhang_shixin	female	native	包括这个从早上九点，大家就在美国常驻联合国代表团外来守候，	1	6	39	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	408.432	413.492	Zhang_shixin	female	native	那么一直到这个下午五点，接近六点的时候才真正进行会谈。	1	6	40	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	413.492	421.456	Zhang_shixin	female	native	那么这个由于当时呢，美方是公布说这个会在美国的驻地啊，在纽约的驻地，因此大家就直接推测是在美国常驻联合国代表团，	1	6	41	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	421.456	428.761	Zhang_shixin	female	native	不过后来这个，代表团的新闻人员偷偷告诉我们说，这个美国在纽约驻地呢其实这个范围很广泛，	1	6	42	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	428.761	435.228	Zhang_shixin	female	native	包括他们临时在华尔道夫酒店临时租了一个临时的办公室，那么也那个也代表是美国的驻地。	1	6	43	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	435.228	439.360	Zhang_shixin	female	native	因此后来真正举行会谈的地点啊果然是在这个华尔道夫酒店。	1	6	44	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	439.360	445.767	Zhang_shixin	female	native	那么这一次还有一个比较特别的一点就是这个亚洲媒体呀，明显地付出了比西方媒体更多的关注，	1	6	45	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	445.767	450.707	Zhang_shixin	female	native	那么包括金桂冠在一开始抵达纽约的时候呢，其实现场都没有西方媒体在，	1	6	46	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	450.707	455.857	Zhang_shixin	female	native	那么西方媒体是到美朝会谈当天啊，才逐渐出现在这个采访的场合。	1	6	47	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	455.857	462.923	Zhang_shixin	female	native	那么这一次双，两人会谈的真正的这个意义呀，其实我个人认为是它，它的象征意义是大于实际意义的。	1	6	48	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	462.923	469.300	Zhang_shixin	female	native	因为从他们正式会谈的时间看来啊，因为他们当天呢，在会谈的第一天是共进了一个工作晚餐，	1	6	49	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	469.300	469.570	Sa_wen	male	native	嗯哼。	1	7	51	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	469.300	469.570	Zhang_shixin	female	native	那么	1	7	50	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	469.570	478.522	Zhang_shixin	female	native	那么晚餐时候是边谈边聊，在晚餐结束之后呢，这个金桂冠的这个随从人员啊，其他的官员，甚至是呃脸脸色通红的走出来，	1	8	52	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	478.522	483.282	Zhang_shixin	female	native	可见大家是在席间有喝一些酒啊，这样气气氛相当的轻松愉快。	1	8	53	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	483.881	490.827	Zhang_shixin	female	native	那么第二天的这个行程呢，大家的会谈也是，除了早上的会谈之外呢，大家就是共进一个工作午餐，	1	8	55	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	490.827	495.198	Zhang_shixin	female	native	因此几乎都是在呃边用餐的期期间来聊天进行的。	1	8	56	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	495.198	500.438	Zhang_shixin	female	native	因此这个气氛呢，可见啊，他们其实并没有正式要谈出一个什么具体的协议来，	1	8	57	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	500.438	504.901	Zhang_shixin	female	native	那么，我个人认为说，他其实这个双方探底的成分是比较居多，	1	8	58	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	504.901	510.558	Zhang_shixin	female	native	也就是互相看看是不是有这个诚意，要来落实六方会谈中达成一些协议。	1	8	59	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	510.558	510.947	Zhang_shixin	female	native	萨文。	1	8	60	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	510.947	513.941	Sa_wen	male	native	好的，非常谢谢世新，辛苦了，来自纽约的连线。	1	9	61	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	513.941	522.504	Sa_wen	male	native	那么实际上呢，包括希尔本身也说了，目前关键就是看六十天，那么这个考验期，朝鲜方面真的是不是有所行动，	1	9	62	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	522.504	525.371	Sa_wen	male	native	那么他说呢，这个其实说起来非常的复杂，	1	9	63	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	525.371	532.324	Sa_wen	male	native	那么，现场我们也马上连线到北京方面，请到的是北京大学国际关系学院教授，朱峰教授，朱教授，请教一下，	1	9	64	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	532.324	542.114	Sa_wen	male	native	那现在美国方面啊，朝鲜方面互相在摸底，互相看对方的这个诚意，朝鲜又确定一下美国是不是真的有心要跟他建立这个外交关系，	1	9	65	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	542.114	550.497	Sa_wen	male	native	啊，然后美国方面又要确定他真的是不是要解除核武，那您觉得这个彼此是不是透过这次会谈，要有更好的一个了解？	1	9	66	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	551.605	564.719	Zhu_feng	male	native	对，我相信这次会谈一个非常重要的信号就是双方都要进一步来摸对方的底，或者说来，进一步来强调对方到底有多大诚意，	1	10	68	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	564.719	573.581	Zhu_feng	male	native	那么事实上二月十三号的共同文件，对于前六十天彼此需要做的事情其实都已经做了非常明确的规定，	1	10	69	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	573.581	578.341	Zhu_feng	male	native	所以，现在接下来的问题就是一些细节涉及到今后，	1	10	70	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	578.341	586.935	Zhu_feng	male	native	因为，希尔也在不同的场合再三强调过，就是说(())是第一步，整个朝鲜的弃核必须是一个连续的进程。	1	10	71	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	586.935	587.234	Sa_wen	male	native	嗯哼。	1	11	72	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	587.234	592.863	Zhu_feng	male	native	所以现在美国也摆出了一副新的柔和的姿态，欢迎金桂冠到纽约，等等。	1	12	73	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	592.863	603.522	Zhu_feng	male	native	我相信这都是呃在向朝鲜在传达有关美国愿意用一些新的做法来给予朝鲜以弃核的鼓励。	1	12	74	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	603.522	605.977	Zhu_feng	male	native	那么当然现在来看，朝鲜也很配合。	1	12	75	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	606.576	612.714	Sa_wen	male	native	那现在，呃，也有人说了，接下来比如说美国就是要求朝鲜呢必须要真的是解除它的核计划，	1	13	77	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	612.714	616.980	Sa_wen	male	native	而且他还指控了就是朝鲜方面呢就是透过这个 <foreign lang="English">AQ</foreign>	1	13	78	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	616.980	624.780	Sa_wen	male	native	呃，(())这么一个非法的(())网络呢，要买了很多贵重的仪器，要发展它的这个铀元素啊之类的。	1	13	79	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	624.780	631.427	Sa_wen	male	native	那您觉得这在方面，朝鲜有可能要真的跟美国呃交心呢，要放弃这些计划，如果有的话。	1	13	80	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	632.086	636.427	Zhu_feng	male	native	我觉得现在这么说恐怕还为时尚早。	1	14	82	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	636.427	647.146	Zhu_feng	male	native	因为迄今为止他现在所传达的信息都是明确的，就是要求美国解除这个金融制裁，这样朝鲜从所谓恐怖国家的名单中去除。	1	14	83	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	647.146	652.805	Zhu_feng	male	native	然后可以为进一步的朝鲜松动和外界的经济关系呃打开大门。	1	14	84	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	652.805	657.925	Zhu_feng	male	native	当然另外方面我们可以看到事实上朝鲜迄今为止所做的所有的承诺，	1	14	85	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	657.925	658.165	Sa_wen	male	native	嗯。	1	15	86	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	658.165	660.321	Zhu_feng	male	native	都仅仅是恫吓而已。	1	16	87	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	660.321	671.788	Zhu_feng	male	native	也就是呃关闭宁边的核设施接受核查，以及这个呃向所谓的六方其会谈中其他各方提交有关朝鲜核计划的具体清单，	1	16	88	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	671.788	679.842	Zhu_feng	male	native	但是现在我们知道有两个实质性的问题，一个是，现在已经说得很清楚，说朝鲜有五十公斤的可用于制造原子弹的钸。	1	16	89	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	679.842	685.291	Zhu_feng	male	native	那么这个钸不在这六十天的第一阶段行动方案之内，那么这是下一阶段要做的。	1	16	90	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	685.291	691.668	Zhu_feng	male	native	而这个五十公斤可以做原子弹的这个钸，恰恰是今天六方会谈中的核心问题。	1	16	91	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	691.668	696.129	Zhu_feng	male	native	那么这一点朝鲜迄今没有做出任何非常明确的承诺，	1	16	92	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	696.129	702.880	Zhu_feng	male	native	所以我相信这一次美朝的纽约会谈也会就美国所关心的就像呃五十公斤钸，	1	16	93	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	702.880	708.674	Zhu_feng	male	native	呃未来朝鲜到底应该采取一个什么样的行动，向朝鲜来摸底。	1	16	94	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	708.674	715.890	Sa_wen	male	native	嗯，呃，这个朝鲜方面呢，也认为跟美国都可能有一些共识，就是一步， <foreign lang="English">step by step</foreign> 一步一步来，	1	17	95	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	715.890	722.297	Sa_wen	male	native	那么至少金桂冠呢，在这个会面之后就跟这个韩国的媒体说，呃一切呢都进展蛮顺利，也蛮不错的，这样，	1	17	96	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	722.297	726.788	Sa_wen	male	native	那么现在我也想请教一下纽约世界日报资深评论员孟玄先生了，	1	17	97	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	726.788	736.215	Sa_wen	male	native	那么，美国方面希尔说，他说呃有人提议朝鲜跟美国呢要是真的恢复， 呃，建立一个外交关系的话，可能要采取((这么))中国模式。	1	17	98	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	736.215	744.329	Sa_wen	male	native	就是现在彼此，呃，这个对方的地方呢建立一个所谓联络办事处这样子，但是希尔说呢，这个模式不太适用，	1	17	100	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	744.329	748.281	Sa_wen	male	native	那你觉得两国真的是要建立关系的话，要怎么样开始？怎么样展开呢？	1	17	101	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	749.269	762.021	Meng_xuan	male	native	这个当然，呃，还路很长啊。这个希尔大使今天都还在讲说，呃首先就是朝鲜必须要把这个所有的这个核的问题一定要搞得非常清楚，	1	18	103	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	762.021	769.985	Meng_xuan	male	native	他说我们不能假装他们，呃呃，已经把事情讲清楚了，或者他们不能假装说我们已经把事情讲清楚了，	1	18	104	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	769.985	770.432	Meng_xuan	male	native	啊。	1	19	105	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	769.985	770.432	Sa_wen	male	native	嗯。	1	19	106	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	770.432	781.600	Meng_xuan	male	native	换句话就说，如果这个六十天的这个一步一步的行动里头有任何一步没有做到位的话，美国国会里面的这个支持度啊，就会大降，	1	20	107	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	781.600	786.989	Meng_xuan	male	native	目前来讲，美国呃这个中间的，就左右两方的中间都很支持。	1	20	108	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	786.989	790.971	Meng_xuan	male	native	但是左右两方的即便，极端的都是非常反对。	1	20	109	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	790.971	797.528	Meng_xuan	male	native	因为整个的这个，呃，这次的谈判基本上是美国让步，而不是朝鲜让步，	1	20	110	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	797.528	803.037	Meng_xuan	male	native	朝鲜的话呢，是准备要等到下一个政府来了以后再说，	1	20	111	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	803.037	812.139	Meng_xuan	male	native	可是呢这个美国的这个，呃，国务卿跟总统都觉得，就布什总统都觉得他们必须要在这个朝鲜上面得到突破，	1	20	112	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	812.139	822.199	Meng_xuan	male	native	所以到这个，在北京会谈的时候，这个呃实际上是美，在在柏林会谈跟北京会谈的时候都是这个非常的呃辛苦，	1	20	113	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	822.199	828.247	Meng_xuan	male	native	这个，这个希尔大使甚至拍桌子跟那个金桂冠两个人几乎就骂了，	1	20	114	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	828.247	836.510	Meng_xuan	male	native	就说，如果你在这个条件底下你再不答应的话，我告诉你，我警告你，我会是你们在美国最反朝鲜的人。	1	20	115	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	836.510	836.870	Sa_wen	male	native	嗯哼。	1	21	116	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	836.870	842.349	Meng_xuan	male	native	在这样的情况，才把最后基于，濒于破裂的这个状态收回来，	1	22	117	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	842.349	860.736	Meng_xuan	male	native	所以换句话说，这件事情的话呢，这个就美国跟朝鲜，朝鲜是真正在意的是美国，而不是在意，呃，其他的 亚洲国家，所以 的话呢，在这个情况底下，我我认为是，朝鲜目前来讲，是美国跟朝鲜都是有极力，极力地想把这个事情做好。	1	22	118	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	851.213	852.179	Sa_wen	male	native	嗯。(())	1	23	120	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	860.736	865.929	Sa_wen	male	native	那您刚才讲到就是说在这个二幺三的这个时候呢，就是美国方面做的让步比较多，	1	25	122	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	865.929	870.137	Sa_wen	male	native	有人甚至用了就说布什呃向朝鲜挂起了白旗，这样子。	1	25	123	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	870.137	875.586	Sa_wen	male	native	呃，说他做了很大的让步出来，那您觉得这个在零六年的时候，布什才把这个朝鲜	1	25	124	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	875.586	878.730	Sa_wen	male	native	称为是这个 <foreign lang="English">(())</foreign> ，其中邪恶轴心的一部分，	1	25	125	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	878.730	885.886	Sa_wen	male	native	那现在他要他好好的跟他要建立关系，其实在美国国内，在这个 <foreign lang="English">(())</foreign> ，怎么看的呢？	1	25	126	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	886.575	892.892	Meng_xuan	male	native	呃，在这个一般来讲，就是说个这样大家对金正日当然没有什么太大的信心，	1	26	128	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	892.892	904.239	Meng_xuan	male	native	可是呢，是觉得这个，这个尤其六方会谈所建立这个架构啊，就不光是为了这个北朝鲜的，(())解决核这个朝鲜半岛核问题而已，	1	26	129	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	904.239	914.029	Meng_xuan	male	native	而是要照顾到二零二零年，就是说还有十年，十五年左右的这个时间，究竟整个东北亚要怎么样子的一个国际格局，	1	26	130	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	914.029	916.544	Meng_xuan	male	native	这是美国，才是真正的大战略。	1	26	131	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	916.544	924.568	Meng_xuan	male	native	换句话就是说，他们要把这一个为基础，变成了朝鲜这个统一的一个，一个一个步骤。	1	26	132	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	924.568	933.909	Meng_xuan	male	native	然后使到中国跟日本，中国跟整个的朝鲜，就说整个朝鲜半岛的关系，以及整个亚洲的局势，	1	26	133	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	933.909	940.107	Meng_xuan	male	native	所以从美国的大战略的角度觉得这个必须要在这个时候，必须要让步了。	1	26	134	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	940.107	950.406	Meng_xuan	male	native	所以的话呢，在美国来讲的话呢，他是在情报的这个判断上头来讲，都是做出很多很多自己找台阶下的办法，	1	26	135	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	950.406	960.346	Meng_xuan	male	native	而这个让步事实上看起来好象跟这个一九九四年那个没有什么差别，但是还是就布什来讲，还是一个很大的差别。	1	26	136	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	960.346	970.645	Meng_xuan	male	native	就是说，他认为这一个让步可以使到他有了一个，在这个他，下下台的时候，他所谓三个这个，这个邪恶轴心啊，	1	26	137	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	970.645	972.233	Meng_xuan	male	native	伊拉克当然打得一塌糊涂	1	26	138	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	972.233	972.562	Meng_xuan	male	native	啦。	1	27	139	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	972.233	972.562	Sa_wen	male	native	嗯哼。	1	27	140	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	972.562	976.334	Meng_xuan	male	native	这个伊朗他很难搞定，现在能够搞定的就是北朝鲜。	1	28	141	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	976.334	986.980	Meng_xuan	male	native	所以，从短期，从长期，甚至就从短期，中期，长期来讲，美国认为这一次的这个，这个，这个让步是划得来的。	1	28	142	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	986.980	990.651	Sa_wen	male	native	嗯，其实你说这个美国布什政府希望可以搞定的朝鲜，	1	29	143	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	990.651	998.717	Sa_wen	male	native	其实对于朝鲜来说，他们也换另外一个角度说，哎，我们， 本来就可以很勇敢的跟你这个布什政府，跟美国呢，面对面，平起平坐起来，	1	29	144	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	998.717	1007.489	Sa_wen	male	native	包括很多时候，韩国方面都不敢说不的事情呢，至少， 金正日他做到了，至少让你布什低声下气跟他好好地妥协下来，	1	29	146	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1007.489	1013.627	Sa_wen	male	native	呃，朱教授，那您觉得在这场这个交锋当中，呃是可以说朝鲜先占上风吗？	1	29	148	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1014.675	1018.867	Zhu_feng	male	native	我觉得，呃，很难说朝鲜已经占了上风，因为，	1	30	150	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1019.466	1024.765	Zhu_feng	male	native	呃，当然，金融制裁我们说是朝鲜呃最直接的压价，	1	30	152	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1024.765	1025.185	Sa_wen	male	native	嗯哼。	1	31	154	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1024.765	1033.389	Zhu_feng	male	native	那么， 美国原来一直抵挡得很厉害，而且强调这个金融制裁不是一个外交问题，是美国国内的这个金融政策问题，	1	31	153	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1033.389	1040.006	Zhu_feng	male	native	所以在这种情况下，当然美国愿意吐口这个愿意在金融制裁问题上做出重大让步。	1	32	156	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1040.006	1042.910	Zhu_feng	male	native	我相信这对朝鲜来说是一个很大的收获。	1	32	157	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1042.910	1051.234	Zhu_feng	male	native	但是另外一方面来看，我们说，呃，目前的六方会谈，二月十三号的这个共同文件规定设定五个工作组，	1	32	158	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1051.234	1062.162	Zhu_feng	male	native	事实上我相信也是美国在一种以退为让，以进，呃以退为进的这种方式，希望能够挤压朝鲜做出实质性的松动。	1	32	159	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1062.162	1072.791	Zhu_feng	male	native	那么也使得美国在六方会谈中，比如说因为他的强硬政策难以获得任何实质性突破的这样一个长期的指责来受到呃这个改变。	1	32	160	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1072.791	1078.510	Zhu_feng	male	native	所以从这个角度来说，我觉得这一波双方的呃外交攻势可以说是五五开，	1	32	161	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1078.510	1083.540	Zhu_feng	male	native	对朝鲜 来说， 他可能在第一阶段恫吓他能获得比如说五万吨铀等等，	1	32	162	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1079.055	1079.443	Sa_wen	male	native	嗯。	1	33	164	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1083.540	1083.989	Sa_wen	male	native	嗯哼。	1	35	166	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1083.989	1092.971	Zhu_feng	male	native	呃，但是另外一方面，我觉得布什政府来说，刚才孟玄老师说得非常好，他有他的政治战略考量，而这些考量也同样是非常重要。	1	36	167	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1092.971	1101.294	Sa_wen	male	native	嗯，那至于朝鲜方面他有他的考量，就是像你也所说的，他必须要美国解除他金融制裁也好，或者把自己国内的经济搞起来，	1	37	168	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1101.294	1111.953	Sa_wen	male	native	那么至于他也要面对另外一个人给他的压力，就是日本呢这个邻居呢， 呃，跟朝鲜也要展开这个所谓，啊，要修复关系，这么一个会谈结果，	1	37	169	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1111.953	1119.169	Sa_wen	male	native	双方还是话不投机，今天一谈到上午之后，马上下午的会议马上就取消了，怎么回事，我们稍后回来继续连线。	1	37	171	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1280.713	1286.851	Sa_wen	male	native	欢迎回到我们现场，那么正当朝鲜跟美国关系出现解冻迹象的时候呢，朝日之间就不是那么顺利，	3	39	173	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1286.851	1297.719	Sa_wen	male	native	那么事实上呢朝鲜驻越南大使馆的今天从河内传出消息，原定呢， 是在今天开始的朝日关系正常化会谈，在早上的会晤之后就突然取消了下午的会议，	3	39	174	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1297.719	1302.453	Sa_wen	male	native	那么朝鲜呢跟日本历来(())重重，到目前为止呢没有建立正式的外交关系。	3	39	176	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1302.453	1309.729	Sa_wen	male	native	在落实二幺三协议的过程当中，日方坚持上世纪七十年代，朝鲜呢，曾经绑架至少是，是三名日本人，	3	39	177	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1309.729	1316.076	Sa_wen	male	native	只要绑架问题不解决，就不会向朝鲜提供能源援助，日朝关系正常化也不可能实现，	3	39	178	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1316.076	1325.717	Sa_wen	male	native	那么朝鲜方面只希望能够跟日本讨论解除经济制裁和二战赔偿的问题，双方各有盘算，给谈判结果可以说是增加了变数，	3	39	179	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1325.717	1331.346	Sa_wen	male	native	那么这次朝鲜跟日本在河内要举行的这个会议原本是今天跟明天，	3	39	180	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1331.346	1340.657	Sa_wen	male	native	但是现在这个朝鲜方面呢，据他们消息说， 取消了今天下午的会晤之外，明天呢，也可能是结束了，究竟如何？振辉。	3	39	181	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1341.286	1349.579	Shu_zhenhui	male	native	是的，萨文呢，其实我们刚刚收到最新消息，朝日双方呢已经宣布呢在明天会继续恢复，恢复会谈，	3	40	184	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1349.579	1349.789	Sa_wen	male	native	嗯。	3	41	185	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1349.789	1359.220	Shu_zhenhui	male	native	因为呢，刚刚呢，日本代表呢，((元口晋次))呢，亲自呢到这个朝鲜大使馆去，去交涉这个问题，希望呢能够，能够恢复这个会议。	3	42	186	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1359.220	1362.184	Shu_zhenhui	male	native	所以说呢明天的会议，会议呢，将会继续举行的，	3	42	187	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1362.184	1369.489	Shu_zhenhui	male	native	而今天(())这次的会谈呢突然间中断了，我们可以看得到两国的就历史上的问题做出了谈判，确实有相当的难度。	3	42	188	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1369.489	1378.381	Shu_zhenhui	male	native	首先是日本方面呢是要把在国内的压力下，希望呢， 与朝鲜交手的时候，就一定要把七八十年代这个人质无故失踪被绑架的问题问个清楚。	3	42	189	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1378.381	1378.561	Sa_wen	male	native	嗯。	3	43	191	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1378.561	1389.190	Shu_zhenhui	male	native	那朝鲜呢则提出呢要求历史呃，历史更久的，要追溯到一九一零年日本殖民时代的时候呢， 三十多年期间所做的损失呢，做出一些赔偿，	3	44	192	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1389.190	1397.933	Shu_zhenhui	male	native	看起来这些问题呢都是很难在两天的之内会议就能够谈出结论，但是事实上呢其实朝鲜的核武呢对日本来说是直接的地区的威胁。	3	44	194	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1397.933	1406.496	Shu_zhenhui	male	native	而在，但是在六方会谈之后呢，两国的关系其实出现了一些缓和的状况啊，相信日本呢也希望透过接触来探探对方的虚实。	3	44	195	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1406.496	1410.747	Shu_zhenhui	male	native	而很明显呢，朝鲜呢同时也需要透过这些援助来重建他们的经济，	3	44	196	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1410.747	1420.698	Shu_zhenhui	male	native	所以说这次呢这两个地区性的主要国家是否会透过这一次的会议建立互信， 保持交流，还是会呢突然之间还会再继续，继续中断呢，是值得我们关注的焦点。	3	44	197	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1420.698	1421.087	Shu_zhenhui	male	native	萨文。	3	44	199	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1421.087	1423.392	Sa_wen	male	native	好的，非常谢谢振辉来自河内的连线。	3	45	200	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1423.392	1432.015	Sa_wen	male	native	那么据说呢，呃，今天上午开完会之后，朝鲜翻脸的原因就是因为谈到有关这个绑架日本人这个事件了，	3	45	201	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1432.015	1441.207	Sa_wen	male	native	那么据说当年呢呃，朝鲜方面给了一些假的骨灰，就随便找一个人的骨灰，然后就送给日本方面说是其中一名被绑架者的骨灰，	3	45	202	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1441.207	1450.399	Sa_wen	male	native	结果 <foreign lang="English">DNA</foreign> 验出来是别人的，那么现在日本方面呢， 就包括读卖新闻的调查也是百分之八十多的民众都是支持安倍现在立场，	3	45	203	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1450.399	1454.441	Sa_wen	male	native	就是朝鲜必须要解决这个问题，然后才谈关系正常化。	3	45	205	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1454.441	1462.974	Sa_wen	male	native	那么我想请教一下孟玄先生呢，您刚才也说到朝鲜现在其实只是在乎美国，那么他有把日本放在眼里面吗？	3	45	206	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1463.812	1472.375	Meng_xuan	male	native	那个倒是没有，真的。这个北朝鲜呢，它是，它的这个这个心态是一个呃很奇怪的心态，	3	46	208	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1472.375	1478.153	Meng_xuan	male	native	他对这个整个事件的看法是跟外边的这个现实有很大很大的差距。	3	46	209	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1478.153	1485.458	Meng_xuan	male	native	简单的来讲，他就是远交近攻，他认为他跟美国如果搞定的话，日本当然是不在话下就可以搞定。	3	46	210	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1485.458	1485.788	Sa_wen	male	native	嗯。	3	47	211	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1485.788	1493.004	Meng_xuan	male	native	所以在金桂冠才是真正整个朝鲜这个外交里面真正能够拿主意的人。	3	48	212	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1493.004	1500.279	Meng_xuan	male	native	也是真正能够直接跟金正日直接通上话的人，其他的人都是，都是边缘性的人物。	3	48	213	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1500.279	1503.213	Meng_xuan	male	native	所以在，呃，金正日人在美国，但是你。	3	48	214	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1503.213	1503.572	Sa_wen	male	native	嗯哼。	3	49	215	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1503.572	1507.704	Meng_xuan	male	native	其他的那个谈判就不见得能够呃进进行到什么程度。	3	50	216	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1507.704	1516.237	Sa_wen	male	native	嗯，最后很简短的请教一下朱教授啊，您看朝鲜方面也必须要求日本方面呢真的为这个二战事情要做出一个正式的道歉。	3	51	217	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1516.237	1520.968	Sa_wen	male	native	那您觉得其实双方在河内的这个会谈有任何的这个突破吗？	3	51	218	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1521.776	1525.848	Zhu_feng	male	native	我觉得他不会有任何的突破，因为现在最重要的问题是绑架问题。	3	52	220	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1525.848	1526.152	Sa_wen	male	native	嗯哼。	3	53	221	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1526.152	1533.213	Zhu_feng	male	native	而且，呃，日本在二幺三的这个文件呃发表之后，已经非常迅速地做出了强硬表示，	3	54	222	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1533.213	1537.914	Zhu_feng	male	native	就你刚才谈到的，绑架问题不解决，不会提供援助，不会关系 正常化。	3	54	223	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1537.225	1537.914	Sa_wen	male	native	嗯。	3	55	225	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1537.914	1546.237	Zhu_feng	male	native	所以，日本现在这样一个立场，在安倍政府目前整个外交内政都表现出新的强势面前，我相信不会改变。	3	56	226	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1546.237	1549.052	Zhu_feng	male	native	所以，谈判恐怕只是形式。	3	56	227	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1549.052	1556.387	Sa_wen	male	native	嗯，那么正当这个日朝关系没有这个突破的时候，我们看到这个呃朝韩方面他们至少他们也恢复了这个部长级的会议了，	3	57	228	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1556.387	1563.363	Sa_wen	male	native	然后已经这个根据最新的报道呢，韩国方面也要马上向朝鲜呢，提供这个化肥的这个援助了。	3	57	229	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1563.363	1567.914	Sa_wen	male	native	好，我们今天非常感谢两位嘉宾分别来自纽约和北京连线，我们再会。	3	57	230	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1793.130	1796.304	speaker#2		native	紧贴时事现在开讲，欢迎您收看三一重工时事开讲节目，	5	59	232	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1796.304	1804.029	speaker#2		native	国务院总理温家宝日前呢是在十届人大第五次全体会上说所作的政府工作报告在海峡版舆论呢引起了高度的评价，	5	59	233	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1804.029	1812.263	speaker#2		native	舆论都认为呢这是一份关系民生的一份报告，同时呢对中国未来在经济走向提出了一个总的一个原则和一个指导性的一个方向，	5	59	234	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1812.263	1816.904	speaker#2		native	那么如何来看这份工作报告，我们再来听听朱文辉先生是如何来评论的。	5	59	235	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1816.904	1820.308	speaker#2		native	我们知道这份报告呢在海内外都引起高度的一个评论啊，	5	59	236	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1820.308	1825.527	speaker#2		native	香港的媒体这两天都有这个相应的一些呃评论或者是分析的文章，你是怎么看？	5	59	237	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1825.527	1835.407	Zhu_wenhui	male	native	啊，应该说呢这份报告呢，它和以前呃就前两任的政府，包括温 总理 呃前几次的都有一些区别，	5	60	238	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1832.194	1832.585	speaker#2		native	嗯。	5	61	240	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1835.407	1839.036	Zhu_wenhui	male	native	那么我们可以看看这个香港的一些报纸，它的标题，	5	62	242	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1839.036	1839.356	speaker#2		native	对。	5	63	244	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1839.036	1845.946	Zhu_wenhui	male	native	比如 说像文汇报在昨天的这个叫做中央动用万亿扶持弱势群体，	5	63	243	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1845.946	1846.305	speaker#1	male	nonnative	嗯。	5	65	246	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1846.305	1851.814	Zhu_wenhui	male	native	那么是非常的明显，对吧，就是它是强调了是用大量的财政资源来扶持弱势群体，	5	66	247	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1851.814	1852.113	speaker#1	male	nonnative	嗯。	5	67	248	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1852.113	1857.562	Zhu_wenhui	male	native	那么另外一份的这个叫做温总送三千二百亿民生大礼，	5	68	249	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1857.562	1857.951	speaker#1	male	nonnative	对。	5	69	250	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1857.951	1864.089	Zhu_wenhui	male	native	对吧，也是强调这个民生，那么还有一个这个说法叫，这是一份最实在的工作报告，	5	70	251	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1864.089	1864.508	speaker#1	male	nonnative	嗯。	5	71	252	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1864.508	1874.209	Zhu_wenhui	male	native	它引述一位十多年都采访两会记者的，这个两会的记者，这个境外记者，他说呢这是我读过的最实在的政府工作报告，	5	72	253	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1874.209	1882.023	Zhu_wenhui	male	native	他特别强调呢，这个报告没有用太多以前那种故意撰写的鼓动式的语言来吸引掌声，	5	72	254	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1882.023	1882.454	speaker#1	male	nonnative	嗯。	5	73	255	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1882.023	1887.413	Zhu_wenhui	male	native	我们知道 有的地方做报告，他是喜欢写写讲得很振奋人心的话， 底下掌声雷动。	5	73	256	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1886.305	1886.425	speaker#1	male	nonnative	对。	5	75	258	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1887.413	1887.712	speaker#1	male	nonnative	嗯。	5	77	260	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1887.712	1893.431	Zhu_wenhui	male	native	其实呢，呃，到最后我们发现它也就是那么过了就完了，但是呢它这里面特别强调这么一个观点，	5	78	261	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1894.030	1899.180	Zhu_wenhui	male	native	那么还有一个标题呢，叫做政府呢由增长型转向民生型，	5	78	263	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1899.180	1899.449	speaker#1	male	nonnative	嗯。	5	79	264	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1899.449	1902.233	Zhu_wenhui	male	native	我觉得这个呃是总结得比较贴切。	5	80	265	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1902.233	1902.593	speaker#1	male	nonnative	是。	5	81	266	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1902.593	1909.719	Zhu_wenhui	male	native	就是从这里边我们可以反应出呢，整个这个政府的工作方向，特别是经过前几年卓有成效的这个工作。	5	82	267	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1909.719	1914.719	Zhu_wenhui	male	native	因为前几年的 <foreign lang="English">GDP</foreign> 呢，可以说是改革开放以来增长最快，也是最平稳的。	5	82	268	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1914.719	1915.048	speaker#1	male	nonnative	嗯。	5	83	269	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1915.048	1918.082	Zhu_wenhui	male	native	它连续四年超过百分之十。	5	84	270	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1918.082	1925.118	Zhu_wenhui	male	native	那么而且呢是我们看到呢就政府呢，他现在兜里边确实是跟以前相比完全不一样了，他有很多钱，	5	84	271	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1925.118	1925.567	speaker#1	male	nonnative	嗯。	5	85	273	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1925.118	1932.483	Zhu_wenhui	male	native	那么， 按照这个总理的工作报告讲呢，他是去年的全国财政收入是三点九三万亿人民币，	5	85	272	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1932.483	1932.753	speaker#1	male	nonnative	嗯。	5	87	275	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1932.753	1937.783	Zhu_wenhui	male	native	净增，呃，咳七千多万人民币，所以呢，这个是，这个是非常大的一块。	5	88	276	report	
+PHOENIX_PHNXWRLD_CMN_20070307_111800	0	1937.783	1940.148	Zhu_wenhui	male	native	所以呢，从这些	5	88	277	report	

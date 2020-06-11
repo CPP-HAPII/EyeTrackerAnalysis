@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080706.0266	0	0.0	100.0	speaker	unknown	unknown	日本纪念花冈事件63周年：不能让历史“风化”！	0	0	0		
+CNS_CMN_20080706.0266	0	700.0	800.0	speaker	unknown	unknown	因此，我们不能忘记这段历史，不能让这段历史‘风化’。	0	0	0		
+CNS_CMN_20080706.0266	0	1200.0	1300.0	speaker	unknown	unknown	悼念仪式结束后，来自中国的劳工遗属按照家乡的风俗习惯，为受难者点燃起一张又一张纸钱。	0	0	0		
+CNS_CMN_20080706.0266	0	1300.0	1400.0	speaker	unknown	unknown	第一次来到日本的杨静失声痛哭，不停地喊着“爷爷！	0	0	0		
+CNS_CMN_20080706.0266	0	1400.0	1500.0	speaker	unknown	unknown	爷爷！”同样是首次踏上日本土地的贾传善(68岁)，在“中国殉难烈士慰灵碑”上看见父亲的名字后，再也抑制不住，摸着碑上父亲的名字大哭起来。	0	0	0		

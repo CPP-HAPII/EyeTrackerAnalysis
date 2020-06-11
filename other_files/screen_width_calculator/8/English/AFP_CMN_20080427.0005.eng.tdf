@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Iranian Parliamentary Election Results Announced - Big Win for Conservatives	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Teheran (AFP), 26th.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	900.000	1050.000	TEXT1	unknown	unkown	According to the results of the final vote count that were announced today, after going through two rounds of voting for the parliamentary election, Iranian conservatives won a majority of the seats.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	1050.000	1300.000	TEXT1	unknown	unkown	However, the new parliament still criticizes the conservative president, Ahmadinejad.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	Interior Minister Mohammadi said the conservatives took 69% of the seats, the reformists won 16% of the seats, and independents took 14% of the seats.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	2000.000	2100.000	TEXT1	unknown	unkown	Iran held the second round of voting for parliamentary elections yesterday to select 82 members of parliament out of a total of 290 seats.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	2100.000	2300.000	TEXT1	unknown	unkown	The first round of elections was held on March 14th. At that time, it was already certain that the conservatives would win big.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	Mohammadi did not reveal the number of seats that each party won, but the percentages that he revealed imply that the conservatives took about two hundred seats, the reformists won about 50 seats and the independents stole about 40 seats.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3000.000	3100.000	TEXT1	unknown	unkown	Mohammadi said: "By my evaluation, the new parliament will be more capable and have more professional knowledge than the old parliament.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	I hope the government and parliament will have stronger interactions."	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	The number of votes that the reformists received outside of Teheran isn't bad, but is very poor within Teheran.	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3600.000	3800.000	TEXT1	unknown	unkown	In Teheran, the conservatives carried away 10 of the 11 seats that were up for the final election.	0	0	0		statement

@@ -1,0 +1,69 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 41.494, 82.216999999999999, 182.24700000000001, 271.99400000000003, 333.68900000000002, 360.50599999999997, 423.21899999999999, 476.13600000000002, 583.83699999999999, 683.49900000000002, 832.15099999999995, 867.91800000000001, 938.55899999999997, 1006.323, 1059.2840000000001, 1140.0619999999999, 1209.7180000000001, 1254.433, 1296.2439999999999, 1398.3869999999999, 1404.01, 9999999.0]
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	41.494	55.43	speaker#1	male	native	我军工程兵目前是一支由工兵, (()) 伪装,给水,工程建筑,工程维护等专业构成的现代化兵种,如今它已成为应对多种安全威胁,完成多样化军事任务的重要保障和突击力量	1	1	1	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	63.633	70.334	speaker#1	male	native	广东省军区青远军分区日前在当地公安机关的配合下,成功破获一个假军人诈骗团伙	1	3	3	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	70.334	82.217	speaker#2	female	native	驻守在雪域高原的西藏军区官兵 (()) 不忘为民,,积极帮助藏族群众致富奔小康,使藏族群众的生活发生了翻天覆地的变化	1	4	4	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	85.069	86.918	speaker#4	male	native	下面请看详细内容	2	6	6	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	86.918	104.433	speaker#3	female	native	记者今天从总参军训和兵种部了解到,我军工程兵目前已成为一支由工兵 (()) ,伪装,给水,工程建筑,工程维护等专业构成的现代化兵种,成为应对多种安全威胁完成多样化军事任务的重要保障和突击力量	2	7	7	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	104.433	122.361	speaker#5	female	native	数十年来,我军工程兵先后参加了川藏公路,酒泉卫星发射中心,三峡大坝,小浪坻水利枢纽等四百多项国家重点工程建设,历时四年,在中越边境地区排出地雷二百一十万枚,使千里雷场变成和平通道	2	8	8	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	122.361	139.83	speaker#5	female	native	二十多年来,工程兵给水部队解决了一千多万人口的吃水和数百万平方公里农枚场灌溉难题,一九九二年以来,先后向全球六个任务区派遣了二十三批五千多人次维和人员,赢得国际社会广泛赞誉	2	8	9	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	139.83	161.504	speaker#5	female	native	据介绍我军工程兵现有十九支抗洪抢险专业队伍,担负全国七大流域,两大湖泊的抗洪抢险任务,既有实施水上救生,架设浮桥,构筑堤坝,快速封堵决口等能力,由两支工兵部队担负抗震救援任务,能随时 (()) 国内外地震灾害紧急救援任务	2	8	10	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	182.247	190.984	speaker#4	male	native	近段时间一些部队坚持把难题攻关作为提高训练质量的突破口,不断加大训练的实战性,真正检验部队战斗力水平	3	9	12	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	214.84	233.859	speaker#5	female	native	成都军区某高炮旅组织部队远程 (()) 野外生疏地域展开复杂电磁环境下的防空演练,演练中导演组将电磁干扰强度持续加大,逼着各分队指挥员多渠道寻求破解方法,探索强电磁环境下防空作战的战法训法	3	11	14	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	233.859	252.835	speaker#6	male	native	这是第二炮兵某团进行的一次综合性野外拉动演练,记者在现场看到,导调中心随机更新课目,险局危局不断出现,一批信息化程度较高的训练装备也亮相训练场,让官兵在实战环境中强化实装操作技能和应急处置能力	3	12	15	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	252.835	271.994	speaker#5	female	native	武警江西总队把部队拉到生疏地域展开实战背景下的 (()) 作战演练,演练中他们在锤练部队指挥员组织指挥能力的同时,对后勤应急保障进行更加客观全面的评估,使部队官兵在 (()) 复杂条件下 (()) 任务的能力得到有效提升	3	13	16	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	271.994	280.401	speaker#3	female	native	二零零八年度,军队专业技术干部外语计算机应用能力和中级卫生技术资格考试今天顺利开考	4	14	17	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	280.401	294.922	speaker#6	male	native	据了解今年全军武警部队和公安现役部队共有八万多名干部共二十一万多人次报名参加考试,总政干部部和各大单位干部部门专门派出督察组对考试考务工作检查指导	4	15	18	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	294.922	309.979	speaker#6	male	native	军队专业技术干部考试坚持以严肃考风考纪为重点,以信息化管理为手段,进一步加强考试工作标准化信息化和制度化建设,逐步建立起具有我军特色的考试体系和运行管理机制	4	15	19	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	309.979	321.865	speaker#6	male	native	卫生技术资格考试已全部采用了机考形式,外语考试也实现了网上阅卷,标志着军队专业技术干部考试信息化建设达到了新的发展水平	4	15	20	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	321.865	333.689	speaker#6	male	native	今年还在江苏,甘肃两省组织军队干部参加全国统一组织的专业技术人员考试试点工作,为建立社会化的人材评价机制不断积累经验	4	15	21	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	360.506	369.039	speaker#4	male	native	沈阳军区某炮兵旅班长大学生士兵李国文苦练军事技能,带动了全班整体训练水平显著提高	6	17	23	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	386.794	410.411	speaker#6	male	native	连队组织班协同训练时,他还大胆改变传统的训练方法,推行新训法,使炮班协同训练时间提前出两分钟,不仅如此,他在训练中摸索总结出的简易单修计算法,炮长作业五部法,突化六部法等七项训练小招法,在全旅推广,缩短了部队基础课目训练时间	6	18	25	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	410.411	423.219	speaker#6	male	native	李国文当班长一年多来,全班有八人在各类考核比武中取得第一名,今年三月,李国文被沈阳军区授为学雷锋标兵,荣立一等功	6	18	26	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	423.219	431.124	speaker#3	female	native	广州军区某海防团不断提升海岛部队装备保障能力,实现了所有装备大修不出岛的目标	7	19	27	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	431.124	444.651	speaker#6	male	native	这是这个团的装备保障综合演练场,担负装备 (()) 抢修任务的保障突击连运用自行研制的海岛部队作战指挥控制系统,快速阻网,及时检测和抢修受损装备	7	20	28	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	444.651	454.196	speaker#7	male	native	我们注重 (()) 结合, (()) 的路子,着力强化部队信息化,网络化和模拟化教学训练水平	7	21	29	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	454.196	476.136	speaker#6	male	native	这个团通过规范训练基地中修区,保养区,检测区等建设标准,统一了一百多项维修 (()) 配套建设内容,并且引进配备了车辆全自动检测线,发动机综合分析仪,不解体清洗仪等先进检测设备,使部队基本实现了训练设施配套化,维修训练设备系列化	7	22	30	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	476.136	484.636	speaker#3	female	native	日前广东省军区清远军分区在当地公安机关的配合下,一举破获了一个冒充军人进行诈骗的案子	8	23	31	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	484.636	498.139	speaker#6	male	native	三月底清远军分区接到举报,有人打着广州军区国防教育基地指挥部的名义行骗,保卫部门经过侦察发现,所谓的广州军区国防教育基地清远指挥部根本就不存在	8	24	32	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	498.139	512.507	speaker#6	male	native	经过三十多个小时的布控,四月四号下午,保卫人员与当地公安干警一起将正在与承包商谈业务的两名假军人抓获,现场发现了大量的假军队公文,假公章和假军车牌照	8	24	33	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	512.507	520.292	speaker#8	male	native	你-你是不是军人啊,你是不是军人啊,你也不是啊,对大校,啊,你两个都不是军人啊	8	25	34	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	520.292	541.753	speaker#6	male	native	记者看到这两名假军人在租住的办公室挂上广州军区国防教育基地指挥部,和广州军区国防教育基地红军长征公园筹建处两块牌子,平时穿着零七新式军装,开着悬挂假军牌的轿车,对外声称广州军区派他们负责在清远筹建一个投资六十亿元的国防教育基地	8	26	35	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	541.753	554.984	speaker#6	male	native	办案人员搜查发现,在这个所谓的指挥部里,办公设备一应俱全,墙上居然还挂着广州军区国防教育基地总体规划图,和红军长征公园总体规划图	8	26	36	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	577.799	583.837	speaker#6	male	native	目前这一案件已由清远军分区移交当地公安机关作进一步审理	8	26	38	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	583.837	592.31	speaker#4	male	native	连日来一名藏族民兵奋不顾身勇救落水回族青年的英雄事迹在青海各族群众中广为传颂	9	27	39	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	631.139	636.376	speaker#10	male	native	就在我绝望的时候,突然有人抓住了我的手,把我拖上了岸	9	30	42	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	636.376	648.503	speaker#6	male	native	此时还没来得及喘气的格志听到马鲁海的妻子指着河水大喊,才知道他们装有三千元钱的钱包还在水里,于是格志又一次跳入河中将钱包找到	9	31	43	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	648.503	665.774	speaker#6	male	native	化龙县和坚扎县是黄河沿岸相邻的两个县,也是藏回两个民族的聚居地,格志勇救回族青年的先进事迹在当地传开后,各族人民纷纷表示,学习格志先进事迹,加强各族人民团结,共建美好明天	9	31	44	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	683.499	693.733	speaker#3	female	native	驻守在雪域高原的西藏军区官兵 (()) 不忘为民,积极帮助藏族群众致富奔小康,使藏区群众的生活发生了翻天复地的变化	10	33	46	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	710.185	723.93	speaker#3	female	native	村民普普寸仁是这条路的受益者之一,两年前他年收入还不到五百元,如今一家人住进了新房,家里的电冰箱电视机洗衣机等现代化设施也一应俱全	10	33	48	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	741.368	754.566	speaker#13	male	native	我们住一方热土就要保一方平安,促一方发展,帮助人民群众发展生产,增加收入,早日使他们过上富足幸福的生活	10	35	50	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	754.566	770.758	speaker#5	female	native	在全国唯一不通公路的没托县每年八个月的封山期里,西藏军区后勤部都会派出医疗队进驻没托进行医疗服务,让缺医少药的驻地群众得到有效的医疗保证,并为当地培训了四十多名村级卫生员	10	36	51	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	770.758	788.656	speaker#14	male	native	(()) 的解放军很好,那个军民关系嘛也很好, (()) ,经常到我们村庄来,我们也感谢他们	10	37	52	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	832.151	840.624	speaker#4	male	native	驻辽宁某海防团官兵长期参与驻地爱护蓝色海洋,保护绿色海岛行动,为美化驻地生态环境做贡献	11	39	55	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	867.918	877.762	speaker#3	female	native	最近沈阳军区文艺工作者带着最新编排的文艺节目深入基层部队巡回演出,给基层官兵带去艺术上的熏陶和精神上的享受	12	41	58	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	877.762	894.08	speaker#6	male	native	这次赴基层慰问的文艺工作者有知名艺术家,也有青年演员,他们带给基层官兵的除了先进创作的歌曲,舞蹈,相声,小品和器乐演奏外,还包括许多在全国全军获奖的作品	12	42	59	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	894.08	909.343	speaker#15	female	native	那我们作为部队的文艺工作者,文艺工作者呀就是应该多到基层来,呃倾听基层官兵的,他们的心声,多反映创作他们的这个生活当中这样的作品,来服务于官兵	12	43	60	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	909.343	918.295	speaker#6	male	native	在驻赛外某旅露天演出过程中,天下起了雪,演出人员坚持穿着演出服,冒着严寒登台演出	12	44	61	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	918.295	927.038	speaker#16	male	native	很感人,尤其是这,这么下着大雪的天气,到我们这来-来演出,我们战士心里吧感觉到非常的温暖	12	45	62	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	927.038	938.559	speaker#6	male	native	为了不给部队增添麻烦,演员们自己动手搬运道具,布置场景,几天来,他们把欢歌笑语送给官兵	12	46	63	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	938.559	949.571	speaker#4	male	native	昨天对于南京军区林汾旅十连官兵来说是一个大喜的日子,连队为因工作需要三次推迟婚礼的士官杨松特地举办了一个俭朴而热闹的婚礼	13	47	64	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	997.048	1006.323	speaker#17	female	native	作为军嫂我感到非常自豪,我会永远铭记这么一天,也会更加支持他在部队安心的工作	13	49	67	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1006.323	1016.137	speaker#3	female	native	今天北京军区连勤某分部请地方军转部门负责人做客政工网,为即将转业的干部进行第二次创业答疑识惑	14	50	68	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1016.137	1023.473	speaker#18	female	native	大家好,欢迎走进分部干部转业工作网上互动访谈	14	51	69	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1048.644	1059.284	speaker#5	female	native	由于即将转业干部的热烈响应,原计划八十分钟的活动被延长至两个多小时,受到网上留言两千多条,解答各种问题三百多个	14	52	71	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1059.284	1062.182	speaker#3	female	native	来看简讯	15	53	72	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1062.182	1079.547	speaker#6	male	native	连日来空军某部组织官兵在北京南园机场周围开展植树造林活动,至此空军驻军单位已造林育林十六万亩,支援地方义务植树五十四万棵, (()) 造林一百三十五万亩,有十个营区被评为全军绿色营区	15	54	73	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1079.547	1093.676	speaker#5	female	native	清明节期间武警天津总队千余名官兵来到驻地义务参加迎奥运美化新城环境卫生整治活动,以实际行动为迎接奥运创建绿色奥运城市作贡献	15	55	74	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1093.676	1112.846	speaker#6	male	native	近日中共浙江省委党史研究会和浙江省新四军历史研究会在浙江开会举行了新四军一二三支队在开化集结组编七十周年纪念活动,活动中情景剧铁军园真实再现了新四军集结编组,各届群众踊跃支前的历史场景	15	56	75	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1112.846	1128.445	speaker#5	female	native	北京军区某装甲团通过定期邀请法律专家集中授课,现场解答疑难问题,组织网上授课等方式建立了一套遵纪守法新机制,从根源上筑牢官兵的思想防线,增强遵纪守法的意识	15	57	76	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1128.445	1140.062	speaker#6	male	native	日前解放军第四五五医院医疗分队来到某驻海岛部队训练场为岛上官兵提供医疗服务,较好的解决了远离大陆的岛屿官兵就医难的问题	15	58	77	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1140.062	1142.52	speaker#3	female	native	来看国际方面的消息	16	59	78	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1224.588	1240.75	speaker#5	female	native	伊朗政府发言人伊尔哈姆说,国际原子能机构了解所有伊朗合法的核活动,停止这些活动不在我们的日程安排上,我们将继续推进核计划,生产核燃料并且完成核电站的建设,直到生产两万兆瓦电力为止	17	63	83	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1240.75	1254.433	speaker#5	female	native	当天在德黑兰举行的新闻发布会上伊尔哈姆还说即将到来的四月八号是伊朗的国家核技术日,希望在这一天能够有关于伊朗核计划的好消息,但他没有对此做进一步的说明	17	63	84	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1254.433	1261.433	speaker#4	male	native	美国总统布什五号下午抵达俄罗斯旅游城市索气进行为期两天的非正式访问	18	64	85	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1307.295	1314.985	speaker#20	female	native	襟帼不让须眉,今天我们给大家介绍一支全国全军文明的别样的女子高炮班,准让你耳目一新	19	67	88	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1336.393	1351.139	speaker#20	female	native	而在今天这个被誉为海上集体花木兰的新一代战斗集体更是高标准严要求,练兵的强度和标准始终与正规部队一样,姐妹们风雨无阻,训练完以后呢还要回到单位继续工作	19	69	90	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1398.387	1404.01	speaker#20	female	native	好今天的节目就到这里了,感谢您的收看,再见	20	73	94	filler	statement
+CCTV7_MILITARYNEWS1_CMN_20080407_100502	0	1398.387	1404.01	speaker#19	male	native	明天同一时间我们再见	20	73	95	filler	statement

@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'filler', u'nontrans', u'filler', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 86.997, 91.103999999999999, 95.774000000000001, 100.102, 107.03100000000001, 116.843, 230.97300000000001, 235.958, 413.28199999999998, 498.27800000000002, 532.51999999999998, 1302.568, 1418.893, 1699.3869999999999, 1704.8869999999999, 1922.1279999999999, 1954.6110000000001, 2493.7080000000001, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	299.907	317.860	Zhang_Mei_Ying	female	native	我想总书记一行人带来了很丰富的这种政治信息,第一,是吧,要推动我国社会主义民主政治的建设,是吧,在新时期,要推动民主建设,对吧	8	26	41	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	405.438	413.282	Zhang_Mei_Ying	female	native	(()),对,对	8	29	51	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	481.287	487.840	speaker#1	male	native	二零零七年十一月,张梅颖参加民盟沿海省市发展海洋经济研讨会	9	30	59	report	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	621.940	637.105	Zhang_Mei_Ying	female	native	特别是在沙漠中走,那还是很辛苦的啊,那我这个老太太呃到四千多公尺高的那个,像像像像那个若尔盖草原草原那,比很多比我年轻的都缺氧都走不动了,我(())还是往前走啊	11	39	76	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	816.038	818.179	Zhang_Mei_Ying	female	native	(()),着急	11	52	105	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	1013.115	1018.171	Zhang_Mei_Ying	female	native	当然这是到二零二零,(()),反正是一段时间里头	11	75	141	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	1525.335	1529.163	Cui_Yong_Yuan	male	native	那些孩子是不是心地很好	13	117	214	filler	question
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	1840.424	1844.314	Zhang_Mei_Ying	female	native	就像这均衡,均衡(()),均衡	15	140	258	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	2059.493	2063.040	Yu_Min_Hong	male	native	就是(())	17	156	290	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	2170.942	2181.869	Xiao_Jian_Guo	male	native	给您的发的聘书,辅导员聘书,给您发的聘书,(())	17	166	309	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080304_123301	0	2405.366	2415.834	Cui_Yong_Yuan	male	native	是不是	17	182	342	filler	incomplete

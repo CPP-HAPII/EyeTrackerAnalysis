@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080704.0164	0	2000.0	2100.0	speaker	unknown	unknown	但我们下定决心，咬牙挺住，坚持推动。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.1076	0	500.0	600.0	speaker	unknown	unknown	其中，广发基金的减仓最为迅猛，旗下偏股基金的平均股票仓位下降了9.13个百分点，平均股票仓位为73.7%；长信基金的平均股票仓位下降了7.98个百分点，平均仓位为79.3%；而东方基金旗下的偏股基金的平均股票仓位只下降了2.56个百分点，平均仓位为88.08%。	0	0	0		
+CNS_CMN_20080718.1076	0	600.0	700.0	speaker	unknown	unknown	报告同时显示，3家基金公司二季度重点减持了与经济发展速度密切相关的部分高弹性行业，如金属非金属、房地产、机械设备仪表、石化行业和金融保险业等；而增持了采掘业、医药生物制品、批发零售、农林牧渔业和信息技术业，都是清一色的抗通胀、抗经济波动的行业品种。	0	0	0		

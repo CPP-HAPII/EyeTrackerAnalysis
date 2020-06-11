@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080731.0135	0	500.0	600.0	speaker	unknown	unknown	"The figure has been changing constantly these days, and has also been adjusting constantly," said Liu Jianchao.	0	0	0		

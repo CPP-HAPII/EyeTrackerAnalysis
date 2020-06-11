@@ -1,0 +1,579 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 134.37700000000001, 1142.0160000000001, 1164.9649999999999, 1786.819, 1898.018, 9999999.0]
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	134.377	136.893	Lu_jian	male	native	Hello everyone, welcome to Today's Focus Live.	1	1	1	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	136.893	139.627	Lu_jian	male	native	Yesterday afternoon, the police of Xinjiang, China, announced that	1	1	2	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	139.627	145.876	Lu_jian	male	native	the Public Security Department of Xinjiang Autonomous Region has destroyed the East Turkistan terrorist training camp in the Eastern Pamirs on January 5;	1	1	3	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	145.876	148.626	Lu_jian	male	native	18 people were shot dead, and 17 were arrested.	1	1	4	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	148.626	153.235	Lu_jian	male	native	Well, in terms of the number of, uh, terrorists killed and arrested this time, it is rare in recent years.	1	1	5	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	153.235	156.016	Lu_jian	male	native	Moreover, this incident, uh, has aroused the attention of the international media.	1	1	6	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	156.016	158.047	Lu_jian	male	native	So, let's focus on this topic today.	1	1	7	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	158.047	161.891	Lu_jian	male	native	We have invited two guests to the studio; one is from the China Institute of Contemporary International Relations,	1	1	8	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	161.891	164.438	Lu_jian	male	native	director of the CTC research center, Mr. Li Wei. Hello.	1	1	9	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	164.438	169.002	Lu_jian	male	native	And the other is Mr. Li Sheng, who is the director of China's Borderland History Research Center of the Chinese Academy of Social Sciences.	1	1	10	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	169.002	170.518	Lu_jian	male	native	Welcome, both of you, to our studio today.	1	1	11	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	170.518	176.144	Lu_jian	male	native	Let us first watch a video and see how the terrorists were arrested in the action.	1	1	12	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	182.984	188.687	speaker#1	female	native	On January 5, Xinjiang Public Security Organizations destroyed a terrorist training base in the Pamirs mountainous area of southern Xinjiang.	1	2	14	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	188.687	191.640	speaker#1	female	native	In the process of search and arrest, terrorists conducted an armed resistance,	1	2	15	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	191.640	194.172	speaker#1	female	native	causing one policeman's death, and another one injured.	1	2	16	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	194.172	196.218	speaker#1	female	native	In the process of the counterattack by Xinjiang's police,	1	2	17	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	196.218	197.781	speaker#1	female	native	18 terrorists were shot down,	1	2	18	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	197.781	199.062	speaker#1	female	native	17 were arrested,	1	2	19	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	199.062	200.859	speaker#1	female	native	22 homemade grenades were seized,	1	2	20	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	200.859	202.822	speaker#1	female	native	along with more than 1,500 semi-finished grenades.	1	2	21	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	203.391	208.328	speaker#1	female	native	Prior to this, the homemade grenades used by the East Turkistan terrorists in terrorist operations already had the power of military grenades.	1	2	23	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	209.016	213.828	speaker#2	male	native	On September 11, 2002, the East Turkistan Islamic Movement was announced by the United Nations	1	3	25	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	213.828	215.406	speaker#2	male	native	as a terrorist organization,	1	3	26	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	216.156	217.432	speaker#2	male	native	and it is also one of the four	1	3	28	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	218.031	222.859	speaker#2	male	native	East Turkistan terrorist organizations first identified as such by our Ministry of Public	1	3	30	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	222.859	225.969	speaker#2	male	native	Security on December 15, 2003.	1	3	31	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	225.969	229.203	speaker#2	male	native	It is characterized by the East Turkistan Islamic Movement,	1	3	32	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	229.203	232.344	speaker#2	male	native	the East Turkistan Liberation Organization,	1	3	33	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	233.031	235.234	speaker#2	male	native	World Uyghur Youth Congress,	1	3	35	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	235.234	238.312	speaker#2	male	native	and another one is the East Turkistan Information Center.	1	3	36	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	238.312	240.906	speaker#1	female	native	Xinjiang's public security organization investigated and found out that	1	4	37	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	240.906	243.437	speaker#1	female	native	the East Turkistan Islamic Movement had dispatched its backbone elements into the country,	1	4	38	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	243.437	246.906	speaker#1	female	native	assembled a mob of violent terrorists to sneak into the Pamirs mountainous area of China,	1	4	39	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	246.906	248.750	speaker#1	female	native	established a terrorist activities training camp	1	4	40	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	248.750	250.297	speaker#1	female	native	to carry out terrorist training activities.	1	4	41	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	250.297	252.125	speaker#1	female	native	According to the announcement made by the Xinjiang Public Security Bureau,	1	4	42	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	252.125	254.219	speaker#1	female	native	there are still a handful of terrorists who have escaped.	1	4	43	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	254.219	256.031	speaker#1	female	native	Public Security Departments are going all out to hunt them down,	1	4	44	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	256.031	260.938	speaker#2	male	native	so, the Chinese police will work hard together, uh, in order to maintain the stability in our border regions,	1	5	45	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	260.938	265.032	speaker#2	male	native	in order to protect the safety of people's lives and properties,	1	5	46	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	265.032	267.672	speaker#2	male	native	will also watch this problem closely,	1	5	47	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	267.672	272.782	speaker#2	male	native	and will continue to take strong and powerful measures to strengthen the international +cooperation,	1	5	48	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	273.579	278.423	speaker#2	male	native	and resolutely fight against the criminal activities of all terrorist organizations and terrorists according to law.	1	5	50	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	278.423	280.876	speaker#2	male	native	The case is now under way.	1	5	51	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	282.822	283.197	Lu_jian	male	native	OK.	1	6	53	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	284.009	286.884	Lu_jian	male	native	What we saw is the situation of a press conference.	1	6	55	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	286.884	288.872	Lu_jian	male	native	Well, from the perspective of this organization,	1	6	56	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	288.872	293.775	Lu_jian	male	native	this training camp, uh, should belong to the East Turkistan Islamic Movement, which is one of the East Turkistan terrorist organizations;	1	6	57	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	293.775	295.478	Lu_jian	male	native	this is called the ETIM for short.	1	6	58	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	295.478	297.119	Lu_jian	male	native	And I saw an Associated Press report,	1	6	59	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	297.119	299.994	Lu_jian	male	native	this is, actually, also listed as a terrorist organization by the United States,	1	6	60	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	299.994	302.150	Lu_jian	male	native	and the United Nations also list them as a terrorist organization,	1	6	61	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	302.150	304.509	Lu_jian	male	native	and in the end, what kind of organization is this ETIM?	1	6	62	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	305.306	307.541	Li_wei	male	native	OK. This ETIM, uh,	1	7	64	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	307.541	309.744	Li_wei	male	native	when in 1993, last time, it,	1	7	65	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	309.744	311.885	Li_wei	male	native	since first, we are not talking about other East Turkistan organizations.	1	7	66	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	311.885	312.197	Lu_jian	male	native	Um.	1	8	67	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	312.197	315.994	Li_wei	male	native	In 1993, uh, there were several East Turkistan elements outside the border, uh,	1	9	68	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	315.994	318.181	Li_wei	male	native	which initiated the establishment of an organization,	1	9	69	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	318.181	318.478	Lu_jian	male	native	Um.	1	10	70	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	318.478	319.650	Li_wei	male	native	which was called ETIM.	1	11	71	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	319.650	322.494	Li_wei	male	native	However, shortly after 1993, this organization was dissolved.	1	11	72	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	322.494	322.978	Lu_jian	male	native	Um.	1	12	73	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	322.978	325.213	Li_wei	male	native	At that time, that is, inside our border,	1	13	74	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	325.213	327.431	Li_wei	male	native	there was a criminal,	1	13	75	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	327.431	330.463	Li_wei	male	native	in fact, we all know that his name, uh, was Hasan Mahsum.	1	13	76	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	330.463	330.807	Lu_jian	male	native	Um.	1	14	77	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	330.807	333.619	Li_wei	male	native	He escaped across the border in '97.	1	15	78	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	333.619	334.807	Li_wei	male	native	After he became a fugitive, uh,	1	15	79	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	334.807	339.197	Li_wei	male	native	he reassembled and networked with some people, uh, outside the border, uh,	1	15	80	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	339.197	342.478	Li_wei	male	native	and established such an organization called the East Turkistan Islamic Movement.	1	15	81	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	342.478	346.431	Li_wei	male	native	When this organization, uh, reached its peak outside the border, uh,	1	15	82	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	346.431	348.400	Li_wei	male	native	it had around 1,000 members.	1	15	83	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	348.400	348.869	Lu_jian	male	native	Um.	1	16	84	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	348.869	350.541	Li_wei	male	native	But after 9/11,	1	17	85	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	350.541	353.184	Li_wei	male	native	uh, including our strike in the country,	1	17	86	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	353.184	355.559	Li_wei	male	native	and some international co-operations outside, uh,	1	17	87	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	355.559	358.090	Li_wei	male	native	actually, members of this organization have gradually reduced.	1	17	88	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	358.090	360.699	Li_wei	male	native	Not long ago, an assessment was made about this organization,	1	17	89	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	360.699	364.152	Li_wei	male	native	and it is said that there are still several hundred people in the organization;	1	17	90	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	364.152	368.277	Li_wei	male	native	they were hiding in the mountainous area in the Baha border, and were	1	17	91	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	368.277	371.059	Li_wei	male	native	hiding together with other, uh, international terrorist organizations.	1	17	92	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	371.059	371.309	Lu_jian	male	native	OK.	1	18	93	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	371.309	374.777	Li_wei	male	native	Anyway, from what we have just heard from a spokesman, uh, this organization, uh,	1	19	94	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	374.777	379.324	Li_wei	male	native	is, in fact, one of the four terrorist organizations announced by China's Public Security, Public Security Ministry.	1	19	95	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	379.324	379.746	Lu_jian	male	native	Um.	1	20	96	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	379.746	386.402	Li_wei	male	native	But one thing about this organization is that, uh, it is considered violent, together with the East Turkistan Liberation Organization,	1	21	97	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	386.402	391.089	Li_wei	male	native	including engaging in, engaged in frequent terrorist violent activities, uh, in the territory.	1	21	98	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	391.089	392.980	Li_wei	male	native	It is the same outside the territory.	1	21	99	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	392.980	393.355	Lu_jian	male	native	Um.	1	22	100	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	393.355	395.651	Lu_jian	male	native	And this time the news, uh,	1	22	101	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	395.651	398.406	Lu_jian	male	native	uh, has lifted the spirits of anti-terrorism around the world.	1	22	102	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	398.406	400.648	Lu_jian	male	native	We see a lot of media, foreign media,	1	22	103	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	400.648	404.570	Lu_jian	male	native	including USA Today, International Herald Tribune, and even including Israel's	1	22	104	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	404.570	406.617	Lu_jian	male	native	Jerusalem Post, etc.	1	22	105	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	406.617	408.523	Lu_jian	male	native	International media are very concerned about this incident as well.	1	22	106	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	408.523	409.226	Lu_jian	male	native	Why?	1	22	107	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	410.398	413.429	Li_sheng	male	native	Uh, from the standpoint of CTC,	1	23	109	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	413.429	414.897	Li_sheng	male	native	after 9/11,	1	23	110	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	414.897	417.647	Li_sheng	male	native	this is a big pattern of anti-terrorism in the world.	1	23	111	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	417.647	417.976	Lu_jian	male	native	Um.	1	24	112	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	417.976	420.211	Li_sheng	male	native	And for the terrorist activities in the world, uh,	1	25	113	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	420.211	422.180	Li_sheng	male	native	although regional distributions are not the same,	1	25	114	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	422.180	423.523	Li_sheng	male	native	each has its own characteristics.	1	25	115	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	423.523	429.960	Li_sheng	male	native	However, it has caused very serious damage to world peace and people's lives.	1	25	116	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	429.960	433.523	Li_sheng	male	native	Every country detests terrorism,	1	25	117	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	433.523	437.086	Li_sheng	male	native	that is, uh, they all have adopted, uh, various measures, uh, to combat terrorism.	1	25	118	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	437.086	442.023	Lu_jian	male	native	OK, what effects were produced for China and neighboring countries because of the successful operation this time?	1	26	119	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	442.023	444.023	Li_wei	male	native	We saw this matter,	1	27	120	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	444.023	446.976	Li_wei	male	native	including last year, that is the 2006 which has just passed,	1	27	121	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	446.976	451.179	Li_wei	male	native	for me, in fact, for those who have been paying attention to the fight against international terrorism, we found a phenomenon,	1	27	122	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	451.179	456.678	Li_wei	male	native	which is, the international community has thwarted more and more terrorist plots,	1	27	123	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	456.678	460.756	Li_wei	male	native	including we know that Britain has defeated one, uh, on August 10,	1	27	124	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	460.756	463.053	Li_wei	male	native	also the United States has frustrated many cases.	1	27	125	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	463.053	468.362	Li_wei	male	native	For our people, that is, for the international community, uh, this is very heartening good news.	1	27	126	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	468.362	476.330	Li_wei	male	native	That is to say, uh, many times, we now, we have the ability before the terrorists carry out their attacks,	1	27	127	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	476.330	481.611	Li_wei	male	native	that is, if you arrest them after their attacks, the losses caused are very huge.	1	27	128	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	481.611	487.689	Li_wei	male	native	Therefore, we, uh, that is, we can see remarkable progress in China's anti-terrorism.	1	27	129	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	487.689	487.939	Lu_jian	male	native	Um.	1	28	130	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	487.939	490.048	Li_wei	male	native	That is to say, before they conduct their	1	29	131	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	490.048	492.079	Li_wei	male	native	terrorist activities. You see 40,	1	29	132	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	492.079	494.641	Li_wei	male	native	there were close to 40 people, with so many grenades.	1	29	133	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	494.641	494.969	Lu_jian	male	native	Um.	1	30	134	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	494.969	499.705	Li_wei	male	native	If it was implemented, against the whole Xinjiang region, or when if it even penetrated into the inland,	1	31	135	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	499.705	502.486	Li_wei	male	native	it would, uh, constitute, uh, great harm.	1	31	136	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	502.486	505.361	Li_wei	male	native	Another point is the same as what Director Li has just mentioned;	1	31	137	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	505.361	509.283	Li_wei	male	native	actually, the ETIM is a threat to all our neighboring area, uh, including Central Asia,	1	31	138	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	509.283	513.359	Li_wei	male	native	including Afghanistan, including, uh, Pakistan.	1	31	139	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	513.359	513.681	Lu_jian	male	native	Um.	1	32	140	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	513.681	516.237	Li_wei	male	native	Uh, in fact it even links up with another terrorist organization,	1	33	141	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	516.237	519.580	Li_wei	male	native	uh, Uzbekistan, and Stan Islamic Movement.	1	33	142	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	519.580	523.189	Li_wei	male	native	That's why the earlier film said that it includes, uh,	1	33	143	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	523.189	525.674	Li_wei	male	native	some of the terrorist ((pw)) of Kyrgyzstan.	1	33	144	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	525.674	528.518	Lu_jian	male	native	Right, that's why they have 20, uh, more than 22 self-made grenades,	1	34	145	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	528.518	531.377	Lu_jian	male	native	and more than 1,500 semi-finished grenades, and these,	1	34	146	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	531.377	533.424	Lu_jian	male	native	uh, grenades, uh, it was explained in the video that	1	34	147	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	533.424	535.377	Lu_jian	male	native	they already have the power equivalent to military grenades.	1	34	148	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	535.377	540.908	Lu_jian	male	native	So if they were really, uh, used in terrorist activities, their destructive power would have been quite shocking.	1	34	149	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	540.908	547.350	Lu_jian	male	native	Uh, also, before, East Turkistan terrorist organizations, uh, used this kind of violent terrorist means, uh, to have harmed countries and harmed societies.	1	34	150	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	547.350	549.428	Lu_jian	male	native	Next, through a short video,	1	34	151	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	549.428	553.053	Lu_jian	male	native	let's take a look at some of the actions of the East Turkistan terrorist organizations.	1	34	152	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	559.546	561.437	speaker#3	male	native	February 5, 1992,	1	35	154	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	561.437	567.469	speaker#3	male	native	East Turkistan terrorists made two bus bombings on bus routes No. 52 and No. 30 in the city of Urumqi.	1	35	155	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	567.469	569.422	speaker#3	male	native	Two buses were destroyed by the blasts,	1	35	156	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	569.422	571.609	speaker#3	male	native	leaving three people killed and 23 injured.	1	35	157	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	572.226	576.813	speaker#3	male	native	At the same time, they placed a time bomb in a theater and a residential building, respectively;	1	35	159	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	576.813	578.438	speaker#3	male	native	they were fortunately discovered and removed in a timely manner.	1	35	160	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	579.594	581.188	speaker#3	male	native	The figures from the Public Security Department show that,	1	35	162	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	581.188	582.391	speaker#3	male	native	in the last ten years,	1	35	163	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	582.391	583.797	speaker#3	male	native	the forces of terrorism,	1	35	164	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	583.797	585.812	speaker#3	male	native	separatism, and extremism in the Xinjiang region	1	35	165	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	585.812	588.921	speaker#3	male	native	have created more than 260 cases of terrorist incidents inside and outside the Chinese border,	1	35	166	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	589.468	595.171	speaker#3	male	native	causing more than 160 deaths, and more than 440 were injured among innocent people, grassroots cadres, religious figures, among those	1	35	168	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	595.171	596.546	speaker#3	male	native	including the Uyghur nationality.	1	35	169	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	597.250	601.375	speaker#3	male	native	The activities of the East Turkistan terrorists not only pose a threat to the stability within China,	1	35	171	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	601.375	603.625	speaker#3	male	native	but they also seriously affect the security of neighboring countries.	1	35	172	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	604.188	605.423	speaker#3	male	native	In May 2000,	1	35	174	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	605.423	608.262	speaker#3	male	native	in order to raise funds, the East Turkistan Liberation Organization, outside the Chinese border,	1	35	175	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	608.262	611.294	speaker#3	male	native	kidnapped a Xinjiang businessman in Kyrgyzstan,	1	35	176	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	611.294	614.357	speaker#3	male	native	and burned down a Chinese commodity market in Bishkek.	1	35	177	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	615.122	617.528	speaker#3	male	native	May 25, the terrorists plotted an attack	1	35	179	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	617.528	621.122	speaker#3	male	native	on a Chinese work team in Kyrgyzstan to handle kidnapping and arson cases,	1	35	180	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	621.122	623.122	speaker#3	male	native	causing one death and two injuries.	1	35	181	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	623.997	626.607	speaker#3	male	native	After committing this violence, the terrorists fled to Kazakhstan,	1	35	183	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	626.607	630.873	speaker#3	male	native	and in September of the same year, gunned down three Kazakhstan policemen in Almaty.	1	35	184	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	649.453	652.750	Lu_jian	male	native	We have seen, uh, the masses of Uyghurs,	1	36	186	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	652.750	654.969	Lu_jian	male	native	and some religious patriots, uh, were killed.	1	36	187	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	654.969	659.352	Lu_jian	male	native	Why are these terrorist organizations, uh, targeting innocent civilians?	1	36	188	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	660.274	661.867	Li_wei	male	native	Uh, for East Turkistan terrorists,	1	37	190	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	661.867	665.804	Li_wei	male	native	its main purpose is to create a split,	1	37	191	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	665.804	666.804	Li_wei	male	native	or seek separation.	1	37	192	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	666.804	668.633	Li_wei	male	native	Terror is just a means,	1	37	193	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	668.633	671.930	Li_wei	male	native	and it has sustained great pressure while creating the separation.	1	37	194	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	671.930	674.914	Li_wei	male	native	The huge pressures are, first, it is a unified and powerful People's Republic of China;	1	37	195	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	674.914	680.789	Li_wei	male	native	second, being unified and multi-ethnic countries as well as integrated and diverse Chinese nations,	1	37	196	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	680.789	684.492	Li_wei	male	native	it needs to maintain its own stability and develop prosperity.	1	37	197	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	684.492	686.227	Li_wei	male	native	Also, the pressures from people's dictatorship	1	37	198	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	686.227	689.321	Li_wei	male	native	and from the dictatorship organizations to fight against terrorist activities.	1	37	199	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	689.321	692.759	Li_wei	male	native	And again, this pressure made for this kind of terrorist activities is that people from all nationalities who are asking for prosperity,	1	37	200	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	692.759	699.025	Li_wei	male	native	and hoping for economic development, too,	1	37	201	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	699.025	701.541	Li_wei	male	native	so, under these circumstances, when it wants to implement separation,	1	37	202	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	701.541	704.135	Li_wei	male	native	make a terrorist attack, it is regardless of which nationality it is.	1	37	203	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	704.792	707.104	Li_wei	male	native	As long as he feels that he can make an impact,	1	37	205	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	707.104	710.994	Li_wei	male	native	then, uh, he would use terrorist means to carry it out.	1	37	206	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	710.994	712.463	Li_wei	male	native	Also, another thing	1	37	207	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	712.463	719.901	Li_wei	male	native	is to use terror to create some big, or, uh, this, to form some big social impact.	1	37	208	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	719.901	724.635	Li_wei	male	native	Then some of the nationalities' upper classes, including religious figures,	1	37	209	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	724.635	728.150	Li_wei	male	native	including some party members, our party members, including some cadres,	1	37	210	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	728.150	732.245	Li_wei	male	native	and they believe these, uh, are becoming a resistance to their separatist activities.	1	37	211	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	732.245	735.729	Lu_jian	male	native	Sometimes, they have also created these kinds of public incidents,	1	38	212	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	735.729	739.010	Lu_jian	male	native	for instance, on public transport buses, uh, or some other places like this,	1	38	213	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	739.010	742.057	Lu_jian	male	native	such kind of method as detonating a bomb in public places.	1	38	214	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	742.057	744.619	Li_sheng	male	native	For this, what we have seen is why they set	1	39	215	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	744.619	747.697	Li_sheng	male	native	a target on innocent civilians, uh, like what we have said, including	1	39	216	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	747.697	751.167	Li_sheng	male	native	some of the officials and people of their own nationality.	1	39	217	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	751.167	751.417	Lu_jian	male	native	Um.	1	40	218	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	751.417	752.652	Li_sheng	male	native	In fact, we should see this kind of,	1	41	219	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	752.652	755.980	Li_sheng	male	native	that is to say, these terrorists implement terrorist activities, uh,	1	41	220	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	755.980	758.215	Li_sheng	male	native	people like these are very few.	1	41	221	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	758.215	758.497	Lu_jian	male	native	Um.	1	42	222	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	758.497	761.934	Li_sheng	male	native	They do not represent, uh, that is, their own nationality or (()) a majority.	1	43	223	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	761.934	762.086	Lu_jian	male	native	Um.	1	44	224	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	762.086	763.586	Li_sheng	male	native	So under these circumstances, uh,	1	45	225	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	763.586	765.336	Li_sheng	male	native	they would take terrorist measures,	1	45	226	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	765.336	767.976	Li_sheng	male	native	one, uh, is to coerce people of their own nationality,	1	45	227	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	767.976	769.851	Li_sheng	male	native	either you are with me to engage in separation,	1	45	228	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	769.851	773.789	Li_sheng	male	native	or, uh, you become a victim of my terrorist activities.	1	45	229	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	773.789	774.976	Li_sheng	male	native	So you can see,	1	45	230	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	774.976	778.523	Li_sheng	male	native	in fact, there is a name for such a terrorist activity,	1	45	231	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	778.523	779.866	Li_sheng	male	native	it is the behavior of "dismantling the bridge."	1	45	232	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	779.866	783.538	Li_sheng	male	native	They believe, uh, that these ordinary civilians and, uh,	1	45	233	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	783.538	788.960	Li_sheng	male	native	religious figures, including some government officials, and, uh, people of Han nationality, uh, are a bridge;	1	45	234	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	788.960	793.843	Li_sheng	male	native	they believe that they should conduct terrorist activities toward those people, the bridge, who do not support their secession.	1	45	235	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	793.843	795.187	Li_sheng	male	native	So this is a kind of coercion.	1	45	236	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	795.187	797.718	Li_sheng	male	native	Besides, for the other innocent people, uh,	1	45	237	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	797.718	802.452	Li_sheng	male	native	last time, they wanted that those people who have been living here for generations,	1	45	238	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	802.452	804.358	Li_sheng	male	native	should be driven out from the land.	1	45	239	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	804.358	804.623	Lu_jian	male	native	Um.	1	46	240	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	804.623	805.530	Li_sheng	male	native	If you don't leave,	1	47	241	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	805.530	807.662	Li_sheng	male	native	they would exercise such terrorist violence on you.	1	47	242	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	807.662	808.021	Lu_jian	male	native	Um.	1	48	243	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	808.021	811.530	Li_sheng	male	native	For anyone who stops them from this kind of splitting,	1	49	244	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	811.530	818.749	Li_sheng	male	native	uh, from the attempt to establish a so-called country with the unity of politics and religion, they would carry out violent terror activities.	1	49	245	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	818.749	822.202	Lu_jian	male	native	So now, where are the main regions for the East Turkistan terrorists to carry out their activities?	1	50	246	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	823.280	826.613	Li_wei	male	native	We should say, uh, after 1990,	1	51	248	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	826.613	830.160	Li_wei	male	native	Xinjiang started to see the means of violent terrorist activities,	1	51	249	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	830.160	831.723	Li_wei	male	native	and this form of separatist activities.	1	51	250	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	831.723	835.473	Li_wei	male	native	And from 1990, uh, to 2000, these ten years,	1	51	251	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	835.473	837.004	Li_wei	male	native	basically is one period,	1	51	252	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	837.004	838.425	Li_wei	male	native	and, within this period,	1	51	253	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	838.425	842.019	Li_wei	male	native	at that time, where the violent terrorist activities took place,	1	51	254	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	842.019	842.988	Li_wei	male	native	no regular pattern could be found.	1	51	255	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	842.988	843.472	Lu_jian	male	native	Um.	1	52	256	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	843.472	845.425	Li_wei	male	native	They happened in either southern or northern parts of Xinjiang,	1	53	257	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	845.425	848.097	Li_wei	male	native	either Ha Shi, or Yili, and also Urumqi.	1	53	258	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	848.097	853.504	Lu_jian	male	native	What we are seeing now, uh, is the general regions of their current operations, uh,	1	54	259	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	853.504	856.958	Lu_jian	male	native	which are mainly concentrated in, uh, some parts of Central Asia,	1	54	260	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	856.958	858.802	Lu_jian	male	native	and the Xinjiang region of China.	1	54	261	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	859.943	861.958	Li_wei	male	native	Right, it is like this right now,	1	55	263	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	861.958	868.802	Li_wei	male	native	that is, in the 1990s, as Director Li Sheng just mentioned, they actually engaged in terrorist activities in southern and northern Xinjiang, including Urumqi;	1	55	264	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	868.802	874.223	Li_wei	male	native	however, uh, after the Chinese government, uh, adopted a high-handed policy to strike hard on one hand,	1	55	265	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	874.223	876.614	Li_wei	male	native	and on the other, uh, with integrated management,	1	55	266	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	876.614	879.755	Li_wei	male	native	the area left for them in the region, uh, has been substantially reduced.	1	55	267	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	879.755	880.054	Lu_jian	male	native	Um.	1	56	268	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	880.054	882.802	Li_wei	male	native	So now, they are basically doing activities outside the border,	1	57	269	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	882.802	886.318	Li_wei	male	native	its principal parts, uh, in fact many principal parts of the East Turkistan organization are outside of the border,	1	57	270	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	886.318	888.584	Li_wei	male	native	including Central Asia, South Asia,	1	57	271	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	888.584	892.100	Li_wei	male	native	also Turkey, and there are, as well, parts in Europe and the United States.	1	57	272	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	892.100	897.330	Li_wei	male	native	Therefore, uh, in this place, uh, they adopt the method of dispatching the backbones to infiltrate the territory.	1	57	273	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	897.330	897.719	Lu_jian	male	native	Um.	1	58	274	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	897.719	902.788	Li_wei	male	native	Then, after they enter, uh, they would foment, uh, some people to follow them to carry out terrorist activities.	1	59	275	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	902.788	904.241	Li_wei	male	native	This has become a trend.	1	59	276	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	904.241	904.757	Lu_jian	male	native	Um.	1	60	277	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	904.757	907.132	Lu_jian	male	native	And when in 2003, at that time, uh,	1	60	278	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	907.132	911.007	Lu_jian	male	native	the Ministry of Public Security of the People's Republic of China announced four major East Turkistan terrorist organizations,	1	60	279	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	911.007	912.757	Lu_jian	male	native	and, uh, announced 11	1	60	280	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	912.757	914.804	Lu_jian	male	native	backbone leaders of the terrorist organizations.	1	60	281	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	914.804	917.429	Lu_jian	male	native	We can take a look, currently, uh,	1	60	282	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	917.429	919.934	Lu_jian	male	native	uh, besides the ETIM, uh,	1	60	283	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	919.934	922.851	Lu_jian	male	native	there are four all together, including ETIM. Let's take a look together.	1	60	284	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	922.851	926.096	Lu_jian	male	native	Uh, first, we mentioned, uh,	1	60	285	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	928.910	931.925	speaker#3	male	native	that their goal is to split China by terrorist means,	1	61	287	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	931.925	935.987	speaker#3	male	native	establish a so-called East Turkistan Islamic State with the unity of politics and religion in Xinjiang.	1	61	288	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	935.987	940.487	speaker#3	male	native	That organization has been designated as a terrorist organization by the United Nations on September 11, 2002.	1	61	289	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	941.362	946.065	speaker#3	male	native	The East Turkistan Liberation Organization is one of the most menacing terrorist organizations among the East Turkistan forces.	1	61	291	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	946.065	950.955	speaker#3	male	native	Its goal is to establish the so-called East Turkistan in Xinjiang through means of violent terror.	1	61	292	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	952.002	957.017	speaker#3	male	native	The World Uyghur Youth Congress is a terrorist organization whose goal is to secede Xinjiang from China;	1	61	294	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	957.017	960.392	speaker#3	male	native	both its leading members and affiliated organizations actively plan	1	61	295	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	960.392	961.626	speaker#3	male	native	to engage in violent terrorist activities.	1	61	296	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	962.329	964.314	speaker#3	male	native	The East Turkistan Information Center	1	61	298	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	964.314	967.096	speaker#3	male	native	is an organization committed to developing networks inside and outside of China,	1	61	299	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	967.096	969.439	speaker#3	male	native	to plan and organize violent terrorist activities,	1	61	300	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	969.439	972.955	speaker#3	male	native	conduct terrorist activities such as carrying out propaganda and instigation of extremist religion and Jihad, and so on.	1	61	301	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	975.645	981.723	Lu_jian	male	native	We have just seen, uh, besides the four major East Turkistan terrorist organizations, also 11 backbone leaders being announced then.	1	62	303	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	981.723	988.379	Lu_jian	male	native	And also, uh, China's State Council News Bureau, uh, published uh, a report in '02, stating that the East Turkistan terrorist forces cannot +escape the responsibility for the +crimes committed by them.	1	62	304	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	988.379	991.738	Lu_jian	male	native	And it also mentioned that since the 90s of 20th century, uh,	1	62	305	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	991.738	996.020	Lu_jian	male	native	there were as many as 50-plus East Turkistan terrorist organizations, uh, which were active both inside and outside of China.	1	62	306	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	996.723	999.958	Lu_jian	male	native	In this case, what kind of a standard is used to identify the terrorist organizations?	1	62	308	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1001.177	1004.864	Li_wei	male	native	Uh, I can express some personal views on the figures.	1	63	310	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1004.864	1005.223	Lu_jian	male	native	Um.	1	64	311	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1005.223	1010.426	Li_wei	male	native	Personally, I think we heard once that there were over 50 various East Turkistan organizations outside the border.	1	65	312	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1010.426	1010.911	Lu_jian	male	native	Um.	1	66	313	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1010.911	1013.207	Li_wei	male	native	In fact, we need to pay attention to two situations.	1	67	314	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1013.207	1013.520	Lu_jian	male	native	Uh-huh.	1	68	315	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1013.520	1016.046	Li_wei	male	native	One is, uh, one organization with multiple names,	1	69	316	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1016.046	1016.376	Lu_jian	male	native	Um.	1	70	317	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1016.376	1019.410	Li_wei	male	native	including this ETIM, in fact, it has other names,	1	71	318	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1019.410	1022.551	Li_wei	male	native	like, uh, the East Turkistan Islamic Party,	1	71	319	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1022.551	1023.739	Li_wei	male	native	Hezbollah,	1	71	320	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1023.739	1025.505	Li_wei	male	native	and other names.	1	71	321	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1025.505	1026.599	Li_wei	male	native	This is one situation,	1	71	322	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1026.599	1029.091	Li_wei	male	native	so, it seems to us, seems to us, uh, many East Turkistan organizations outside the border.	1	71	323	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1029.091	1029.484	Lu_jian	male	native	Um.	1	72	324	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1029.484	1031.084	Li_wei	male	native	Another situation is,	1	73	325	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1031.084	1034.444	Li_wei	male	native	uh, that some members of East Turkistan, uh, several of them drink in a pub,	1	73	326	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1034.444	1038.335	Li_wei	male	native	after several rounds of drinks, say, uh, we need to establish some sort of organization.	1	73	327	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1038.335	1042.506	Li_wei	male	native	Then, in fact, after a few days, eh, this organization has vanished.	1	73	328	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1042.506	1044.772	Li_wei	male	native	So, uh, this creates for us, uh, that is to say,	1	73	329	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1044.772	1046.976	Li_wei	male	native	a situation that we see many East Turkistan organizations there;	1	73	330	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1046.976	1049.296	Li_wei	male	native	actually, there are not so many East Turkistan organizations,	1	73	331	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1049.296	1050.093	Li_wei	male	native	this is my personal belief.	1	73	332	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1050.093	1053.390	Li_wei	male	native	Uh, on the standard of identifying the terrorist organizations, uh,	1	73	333	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1053.390	1055.603	Li_wei	male	native	this is the biggest headache for the international community.	1	73	334	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1055.603	1056.141	Lu_jian	male	native	Um.	1	74	335	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1056.141	1058.718	Li_wei	male	native	Because we know that, uh, for different countries,	1	75	336	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1058.718	1062.421	Li_wei	male	native	uh, they may use different standards to identify terrorist organizations.	1	75	337	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1062.421	1064.640	Li_wei	male	native	Um, I can give a simple illustration;	1	75	338	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1064.640	1068.952	Li_wei	male	native	uh, say for countries like the United States, Britain, India, and Russia,	1	75	339	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1068.952	1072.156	Li_wei	male	native	including a series of countries, organizations they have identified as terrorist ones, we see that	1	75	340	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1072.156	1073.953	Li_wei	male	native	actually, terrorist organizations in their mind are all different.	1	75	341	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1073.953	1074.203	Lu_jian	male	native	Um.	1	76	342	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1074.203	1075.984	Li_wei	male	native	There are a few overlaps,	1	77	343	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1075.984	1080.250	Li_wei	male	native	but most of them, uh, are such organizations that pose a threat to the interests of their own countries, uh,	1	77	344	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1080.250	1081.563	Li_wei	male	native	they would identify them as a terrorist organization.	1	77	345	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1081.563	1083.078	Li_wei	male	native	But I personally believe, uh,	1	77	346	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1083.078	1086.406	Li_wei	male	native	that there are still some standards to identify a terrorist organization.	1	77	347	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1086.406	1088.422	Li_wei	male	native	Say, include, uh,	1	77	348	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1089.156	1093.313	Li_wei	male	native	those who engage in, as we said earlier, a series of kidnappings and assassinations, uh,	1	77	350	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1093.313	1095.662	Li_wei	male	native	these, we say, these violent terrorist activities.	1	77	351	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1095.662	1096.081	Lu_jian	male	native	Um.	1	78	352	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1096.081	1098.141	Li_wei	male	native	There is another important point,	1	79	353	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1098.141	1100.110	Li_wei	male	native	we all see that there is an	1	79	354	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1100.110	1102.032	Li_wei	male	native	East Turkistan Information Center,	1	79	355	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1102.032	1104.532	Li_wei	male	native	then many people say, oh, isn't it,	1	79	356	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1104.532	1106.407	Li_wei	male	native	uh, propagating, propagating and agitating?	1	79	357	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1106.407	1109.391	Li_wei	male	native	On July 7, uh, I am wondering whether you noticed,	1	79	358	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1109.391	1113.172	Li_wei	male	native	that propagandizes and stirs up terrorism, the international community	1	79	359	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1113.172	1116.184	Li_wei	male	native	firmly considers it as a terrorist organization.	1	79	360	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1116.184	1116.753	Lu_jian	male	native	Um.	1	80	361	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1116.753	1119.016	Li_wei	male	native	So, of course there are also other things like	1	81	362	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1119.016	1121.828	Li_wei	male	native	some of their political intentions, including forms of organization,	1	81	363	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1121.828	1124.328	Li_wei	male	native	including, uh, hurting innocent civilians,	1	81	364	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1124.328	1126.875	Li_wei	male	native	these are all standards for identifying terrorist organizations.	1	81	365	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1126.875	1127.359	Lu_jian	male	native	Um.	1	82	366	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1127.359	1130.094	Lu_jian	male	native	So now we have seen,	1	82	367	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1130.094	1132.922	Lu_jian	male	native	uh, this ETIM training camp smashed.	1	82	368	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1132.922	1138.203	Lu_jian	male	native	So, under what kind of conditions were these East Turkistan terrorists being trained?	1	82	369	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1138.203	1142.016	Lu_jian	male	native	And how do the Chinese police combat terrorism? We will talk about that when we come back shortly.	1	82	370	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1164.965	1166.934	speaker#3	male	native	Xinjiang is located in the hinterland of Asia.	3	84	372	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1166.934	1168.548	speaker#3	male	native	It shares its border with eight neighboring countries.	3	84	373	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1168.684	1172.622	speaker#3	male	native	Since the 90s, there have been many people going abroad to study and do business there every year.	3	84	375	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1172.622	1176.077	speaker#3	male	native	These people become the recruiting targets for the East Turkistan terrorist organizations outside the border.	3	84	376	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1176.712	1183.415	speaker#3	male	native	Beginning in 1997, terrorist organizations outside of China such as the East Turkistan Islamic Movement and others have established offices in each country of Central Asia, one after another.	3	84	378	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1183.415	1186.618	speaker#3	male	native	The bait they use is to provide free food and accommodation, and subsidies for continued education,	3	84	379	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1186.618	1189.281	speaker#3	male	native	recruiting these people to receive terrorist training in Afghanistan.	3	84	380	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1189.850	1241.948	speaker#4	male	native		3	85	382	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1241.948	1243.964	speaker#3	male	native	Afghanistan is located in the hinterland of Central Asia.	3	86	383	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1243.964	1246.027	speaker#3	male	native	Since the 80s of the 20th century,	3	86	384	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1246.027	1251.682	speaker#3	male	native	international terrorist organizations have established more than a hundred terrorist training camps in this war-torn country.	3	86	385	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1254.135	1256.791	Lu_jian	male	native	OK. Like the short video we have just watched, uh,	3	87	387	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1256.791	1260.634	Lu_jian	male	native	uh, at that time, this training, uh, of East Turkistan elements was conducted in Afghanistan.	3	87	388	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1260.634	1263.946	Lu_jian	male	native	However, we see that this time, this	3	87	389	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1263.946	1267.493	Lu_jian	male	native	ETIM training camp, that we have just smashed, uh, is in China's Xinjiang.	3	87	390	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1267.493	1270.461	Lu_jian	male	native	We can show the map, and take a look together again.	3	87	391	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1270.461	1273.742	Lu_jian	male	native	Um, the specific location, uh, is east of the Pamirs,	3	87	392	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1273.742	1275.977	Lu_jian	male	native	uh, at the edge of the Tarim Basin,	3	87	393	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1275.977	1278.837	Lu_jian	male	native	in a river valley area which is more than a hundred kilometers from Kashi.	3	87	394	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1278.837	1281.024	Lu_jian	male	native	So, it's a bit different from before.	3	87	395	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1281.024	1287.165	Lu_jian	male	native	Doesn't this also imply that there is a trend for terrorist training camps, uh, to move from outside to inside of the border?	3	87	396	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1287.852	1290.523	Li_wei	male	native	I think it appears to be the case,	3	88	398	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1290.523	1295.180	Li_wei	male	native	since, uh, we have seen, uh, that after the training camps in Afghanistan were destroyed,	3	88	399	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1295.180	1297.805	Li_wei	male	native	in fact, it can train in any way, and, uh,	3	88	400	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1297.805	1299.758	Li_wei	male	native	a very important issue, uh, is that,	3	88	401	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1299.758	1302.383	Li_wei	male	native	for East Turkistan terrorists like ETIM,	3	88	402	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1302.383	1304.883	Li_wei	male	native	their main targets of attack, uh,	3	88	403	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1304.883	1308.587	Li_wei	male	native	are still our regions, including Xinjiang, and other areas.	3	88	404	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1308.587	1311.197	Li_wei	male	native	Therefore, if these people are trained outside the territory,	3	88	405	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1311.776	1313.682	Li_wei	male	native	they, uh, have no way to enter the country,	3	88	407	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1313.682	1319.823	Li_wei	male	native	so they, uh, send over some backbone forces, then develop some members in the territory for training.	3	88	408	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1319.823	1322.729	Li_wei	male	native	Um, training these people, uh, and letting them engage in terrorist activities.	3	88	409	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1322.729	1326.776	Li_wei	male	native	This way, uh, may also be a deepening Xinjiang, uh, which we know has	3	88	410	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1326.776	1330.526	Li_wei	male	native	vast territory and abundant resources, and there are a lot of very complex terrains.	3	88	411	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1330.526	1331.964	Li_wei	male	native	So, it is also possible,	3	88	412	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1331.964	1334.900	Li_wei	male	native	there are also some people who escaped from the territory in the past.	3	88	413	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1334.900	1337.494	Li_wei	male	native	They are relatively familiar with the resources and situation of the region.	3	88	414	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1337.494	1340.948	Lu_jian	male	native	Are they also choosing these places that are rarely visited by people,	3	89	415	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1340.948	1343.198	Lu_jian	male	native	some places that may not be easily discovered?	3	89	416	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1343.198	1347.088	Li_sheng	male	native	Uh, this is the case when we should say that China itself	3	90	417	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1347.088	1349.776	Li_sheng	male	native	does not have the basic conditions for terrorism.	3	90	418	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1349.776	1354.321	Li_sheng	male	native	East Turkistan terrorists, which we see practicing in Xinjiang,	3	90	419	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1354.321	1357.039	Li_sheng	male	native	are mainly from old China.	3	90	420	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1357.039	1358.414	Li_sheng	male	native	That is, before 1949,	3	90	421	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1358.414	1360.664	Li_sheng	male	native	some ethnic groups split from the KMT,	3	90	422	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1360.664	1364.461	Li_sheng	male	native	some misdeeds left over from the aspects of ethnic hatred.	3	90	423	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1364.461	1364.742	Lu_jian	male	native	Um.	3	91	424	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1364.742	1366.352	Li_sheng	male	native	And, uh, another is outside infiltration.	3	92	425	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1366.352	1366.886	Lu_jian	male	native	Um.	3	93	426	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1366.886	1372.527	Li_sheng	male	native	And outside infiltration accounts for a very large portion of our current East Turkistan terrorists in Xinjiang.	3	94	427	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1372.527	1375.637	Lu_jian	male	native	The locations they choose are all places that nobody would go to,	3	95	428	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1375.637	1377.809	Lu_jian	male	native	or, they choose, like, uh,	3	95	429	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1377.809	1380.128	Lu_jian	male	native	places that are easy to blend in with the crowds?	3	95	430	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1380.128	1381.237	Li_sheng	male	native	Should be the least-visited.	3	96	431	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1381.237	1382.112	Lu_jian	male	native	Least-visited places.	3	97	432	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1382.112	1382.628	Lu_jian	male	native	Uh, then,	3	98	433	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1382.112	1382.628	Li_wei	male	native	Uh.	3	98	434	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1382.628	1384.284	Lu_jian	male	native	where do the funds come from?	3	99	435	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1385.050	1387.738	Li_wei	male	native	Their sources of funds actually are what we see.	3	100	437	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1387.738	1390.519	Li_wei	male	native	A relatively big change occurred around 9/11,	3	100	438	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1390.519	1393.082	Li_wei	male	native	uh, but it's not a complete change.	3	100	439	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1393.082	1395.676	Li_wei	male	native	First, uh, let's say the ETIM, we just now mentioned,	3	100	440	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1395.676	1397.754	Li_wei	male	native	it has training camps in Afghanistan,	3	100	441	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1397.754	1400.410	Li_wei	male	native	including, uh, its own training camps established in Afghanistan,	3	100	442	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1400.410	1403.675	Li_wei	male	native	and, uh, it accepted financial assistance from the Taliban and Al-Qaeda.	3	100	443	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1403.675	1407.330	Li_sheng	male	native	This is part of their sources of funds.	3	101	444	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1403.675	1407.330	Lu_jian	male	native	So, it is actually associated with Al-Qaeda	3	101	445	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1407.330	1407.611	Li_wei	male	native	Right.	3	102	446	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1407.611	1409.689	Lu_jian	male	native	and the Taliban.	3	103	447	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1407.611	1409.689	Li_wei	male	native	Ah, right, right.	3	103	448	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1409.689	1412.187	Li_wei	male	native	The reason why the United Nations has identified it as a terrorist organization,	3	104	449	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1412.187	1414.391	Li_wei	male	native	this is also a very crucial factor, that is,	3	104	450	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1414.391	1415.969	Li_wei	male	native	its association with Al-Qaeda and the Taliban.	3	104	451	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1415.969	1417.692	Li_wei	male	native	Also, we have actually noticed, uh,	3	104	452	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1417.692	1421.785	Li_wei	male	native	what we talked about last time, that these East Turkistan, uh, are raising their funds through some criminal activities,	3	104	453	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1421.785	1425.129	Li_wei	male	native	what they actually discovered might, uh, some occasional extortion,	3	104	454	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1425.129	1427.208	Li_wei	male	native	sometimes smuggling and drug trafficking,	3	104	455	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1427.208	1428.599	Li_wei	male	native	and things like these.	3	104	456	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1428.599	1432.599	Li_wei	male	native	This is actually a very important factor regarding current international terrorist activities. There is another thing,	3	104	457	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1432.599	1437.895	Li_wei	male	native	that is, they asked the Uyghur, Uyghur businessmen outside the territory to pay them protection fees.	3	104	458	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1437.895	1443.629	Li_wei	male	native	They would say, If you don't give them a bit of protection fee, ((pw)) they will hurt you.	3	104	459	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1443.629	1445.754	Li_wei	male	native	They say, Right now I am fighting for you.	3	104	460	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1445.754	1447.551	Li_wei	male	native	So this, uh, is their,	3	104	461	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1447.551	1449.410	Li_wei	male	native	of course, there is another, uh, say,	3	104	462	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1449.410	1453.661	Li_wei	male	native	uh, not to exclude the third forces, or what we call	3	104	463	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1453.661	1458.083	Li_wei	male	native	some rich merchants, uh, who sympathize or agree	3	104	464	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1458.083	1461.801	Li_wei	male	native	with their philosophy of terrorist activities, and provide financial subsidies to them.	3	104	465	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1461.801	1463.801	Li_wei	male	native	Generally, these should be their sources of funds.	3	104	466	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1463.801	1464.317	Lu_jian	male	native	Um.	3	105	467	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1464.317	1469.743	Lu_jian	male	native	For instance, uh, some of these kinds of overseas organizations might give them some funds also.	3	105	468	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1469.743	1469.978	Li_wei	male	native	Right.	3	106	469	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1469.978	1470.560	Lu_jian	male	native	Support.	3	107	470	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1470.560	1474.138	Li_wei	male	native	Because it has some relevance, uh, with these organizations.	3	108	471	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1474.138	1478.107	Li_wei	male	native	Also, uh, one more thing, there is an issue that has never been clear,	3	108	472	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1478.107	1482.013	Li_wei	male	native	say, have they established something that we call cover-up companies.	3	108	473	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1482.013	1482.466	Lu_jian	male	native	Um.	3	109	474	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1482.466	1485.498	Li_wei	male	native	That is to say, on the surface, these companies have no relationship with these organizations,	3	110	475	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1485.498	1488.420	Li_wei	male	native	but in fact, there is a link there;	3	110	476	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1488.420	1491.826	Li_wei	male	native	this is a problem that the international community has not been able to solve.	3	110	477	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1491.826	1492.388	Lu_jian	male	native	Um.	3	111	478	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1492.388	1494.377	Lu_jian	male	native	Like what we saw on the news earlier,	3	111	479	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1494.377	1497.283	Lu_jian	male	native	these people from overseas, uh,	3	111	480	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1497.283	1500.052	Lu_jian	male	native	they gather together, and form a World Uyghur	3	111	481	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1500.052	1500.865	Lu_jian	male	native	Congress.	3	112	482	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1500.052	1500.865	Li_wei	male	native	Uh, right.	3	112	483	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1500.865	1506.021	Lu_jian	male	native	Well, does this organization also raise funds for these terrorist organizations?	3	113	484	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1506.021	1507.791	Li_wei	male	native	I would think so,	3	114	485	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1507.791	1510.213	Li_wei	male	native	because when we look from many situations, uh,	3	114	486	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1510.213	1512.399	Li_wei	male	native	they are in fact sharing the same ideas.	3	114	487	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1512.399	1512.774	Lu_jian	male	native	Um.	3	115	488	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1512.774	1514.415	Li_wei	male	native	So, through, uh, that is,	3	116	489	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1514.415	1518.072	Li_wei	male	native	here you engage in such terrorist violent activities to increase the impact, right?	3	116	490	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1518.072	1521.463	Li_wei	male	native	In fact, on the other hand, there is also an impact	3	116	491	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1521.463	1522.775	Li_wei	male	native	to such an organization.	3	116	492	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1522.775	1526.256	Li_wei	male	native	So, these organizations may seem not related at all on the surface,	3	116	493	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1526.256	1528.395	Li_wei	male	native	you see, uh, I am like this, and you are like that.	3	116	494	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1528.395	1531.848	Li_wei	male	native	However, uh, they are secretly linked.	3	117	495	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1528.395	1531.848	Lu_jian	male	native	They are linked.	3	117	496	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1531.848	1535.108	Lu_jian	male	native	Therefore, if we want to increase the fight against terrorist organizations,	3	118	497	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1535.108	1538.546	Lu_jian	male	native	we need cooperation from countries in the entire region.	3	118	498	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1538.546	1543.921	Lu_jian	male	native	Next, we will look at the numerous joint anti-terror exercises held between China and its neighboring countries.	3	118	499	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1549.204	1551.095	speaker#3	male	native	On December 17, 2006,	3	119	501	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1551.095	1553.907	speaker#3	male	native	in the Abadabade region north of Pakistan,	3	119	502	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1553.907	1556.923	speaker#3	male	native	Friendship 2006, a Sino-Pakistani joint anti-terror military exercise,	3	119	503	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1556.923	1558.830	speaker#3	male	native	entered the stage of live combined exercises.	3	119	504	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1558.830	1563.549	speaker#3	male	native	The topic of the exercise is how to conduct joint anti-terrorist operations in the mountainous regions.	3	119	505	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1563.549	1568.752	speaker#3	male	native	And the purpose of the exercise was to deter the three forces, like terrorism, separatism, and extremism,	3	119	506	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1568.752	1570.424	speaker#3	male	native	and safeguard regional security and stability.	3	119	507	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1570.424	1571.643	speaker#3	male	native	In 2006,	3	119	508	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1571.643	1575.346	speaker#3	male	native	China repeatedly held joint anti-terror military exercises with neighboring countries.	3	119	509	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1575.955	1577.112	speaker#3	male	native	In August 2006,	3	119	511	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1577.112	1579.643	speaker#3	male	native	the three-day 2006 Tianshan No. 1	3	119	512	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1579.643	1585.330	speaker#3	male	native	Sino-Kazakh joint anti-terror exercises were held in Almaty of Kazakhstan and Yining City, Xinjiang, respectively.	3	119	513	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1585.877	1593.470	speaker#3	male	native	In August 2006, China and Tajikistan conducted a joint anti-terrorism military exercise for the first time; the exercise was codenamed Masterpiece 2006.	3	119	515	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1594.314	1595.673	speaker#3	male	native	In March 2006,	3	119	517	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1595.673	1601.532	speaker#3	male	native	SCO members held a joint anti-terrorism exercise, codenamed Eastern Anti-Terrorism 2006, in the territory of Uzbekistan.	3	119	518	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1603.250	1606.687	Lu_jian	male	native	We see that, uh, China is also strengthening, like within the SCO, this kind of	3	120	520	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1606.687	1609.718	Lu_jian	male	native	CTC cooperation, and antiterrorism cooperation mechanism with neighboring countries.	3	120	521	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1609.718	1614.108	Lu_jian	male	native	Are we able to eradicate East Turkistan terrorists completely through such joint antiterrorism efforts?	3	120	522	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1614.717	1617.975	Li_sheng	male	native	OK, I think if you say wipe out completely, it may be absolute.	3	121	524	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1617.975	1618.395	Lu_jian	male	native	Um.	3	122	525	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1618.395	1622.232	Li_sheng	male	native	We say, we can totally control the separatist activities or the damage to people's lives and property	3	123	526	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1622.232	1624.763	Li_sheng	male	native	from East Turkistan terrorists.	3	123	527	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1625.513	1628.372	Li_sheng	male	native	Well, from the matter itself, uh,	3	123	529	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1628.372	1629.778	Li_sheng	male	native	East Turkistan seeks a split,	3	123	530	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1629.778	1633.497	Li_sheng	male	native	they want to create an impact by terrorist means,	3	123	531	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1633.497	1636.372	Li_sheng	male	native	so it's an issue of the tree wants to remain quiet, but the wind won't stop.	3	123	532	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1636.372	1636.700	Lu_jian	male	native	Um.	3	124	533	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1636.700	1638.013	Li_sheng	male	native	But from our standpoint,	3	125	534	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1638.013	1641.591	Li_sheng	male	native	from our country, including Xinjiang region,	3	125	535	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1641.591	1648.826	Li_sheng	male	native	including regional SCO, we now have already had a set of effective response measures for terrorism.	3	125	536	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1648.826	1649.341	Lu_jian	male	native	Um.	3	126	537	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1649.341	1650.670	Li_sheng	male	native	From our country's point of view,	3	127	538	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1650.670	1654.060	Li_sheng	male	native	just like what, uh, Director Li Wei has just said.	3	127	539	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1654.060	1656.748	Li_sheng	male	native	Ever since 1990, uh,	3	127	540	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1656.748	1658.779	Li_sheng	male	native	we have conducted numerous fundamental works,	3	127	541	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1658.779	1661.091	Li_sheng	male	native	or we can say, the work that will effect a permanent cure.	3	127	542	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1661.091	1661.575	Lu_jian	male	native	Um.	3	128	543	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1661.575	1664.169	Li_sheng	male	native	For example, we have mentioned this construction of grass-roots power,	3	129	544	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1664.169	1665.575	Li_sheng	male	native	severe combat,	3	129	545	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1665.575	1668.544	Li_sheng	male	native	anti-separatist struggle re-education,	3	129	546	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1668.544	1670.778	Li_sheng	male	native	and we mentioned concentrated improvements, etc.	3	129	547	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1670.778	1676.778	Li_sheng	male	native	So, making the struggle against separatism in Xinjiang if something of a mass character,	3	129	548	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1676.778	1680.762	Li_sheng	male	native	a national consensus among all the people to oppose separatism.	3	129	549	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1680.762	1683.543	Li_sheng	male	native	Then, if the East Turkistan terrorists want to carry out	3	129	550	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1684.121	1685.980	Li_sheng	male	native	separatist activities by terrorist means,	3	129	552	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1685.980	1688.058	Li_sheng	male	native	they would face great pressure,	3	129	553	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1688.058	1689.230	Li_sheng	male	native	a very big pressure.	3	129	554	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1689.230	1692.699	Li_sheng	male	native	On the other hand, after a decade of struggle against terrorism,	3	129	555	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1692.699	1696.402	Li_sheng	male	native	we have total control of the initiative in the struggle against terrorism.	3	129	556	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1696.402	1696.871	Lu_jian	male	native	Um.	3	130	557	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1696.871	1698.778	Li_sheng	male	native	We have reached a point when we know even before the enemy makes a move.	3	131	558	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1698.778	1699.199	Lu_jian	male	native	Um.	3	132	559	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1699.199	1700.231	Li_sheng	male	native	Just like what we have just said.	3	133	560	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1700.231	1702.496	Li_sheng	male	native	It is still in the formative stage of +terror,	3	133	561	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1702.496	1704.714	Li_sheng	male	native	while they are still training and preparing,	3	133	562	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1704.714	1707.636	Li_sheng	male	native	we, uh, have destroyed their camp, uh, already.	3	133	563	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1707.636	1710.621	Lu_jian	male	native	OK. In addition to using the police in anti-terrorism efforts,	3	134	564	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1710.621	1711.916	Lu_jian	male	native	we should also eliminate the	3	134	565	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1711.916	1712.462	Li_wei	male	native	Ah, right.	3	135	566	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1712.462	1713.415	Lu_jian	male	native	breeding grounds.	3	136	567	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1712.462	1713.415	Li_wei	male	native	This	3	136	568	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1713.415	1716.556	Li_wei	male	native	is very critical. Another thing that we want to tell everyone is that,	3	137	569	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1716.556	1719.135	Li_wei	male	native	to a large extent, uh, international cooperation, uh,	3	137	570	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1719.135	1723.428	Li_wei	male	native	can squeeze the space for their survival and development.	3	137	571	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1723.428	1723.787	Lu_jian	male	native	Um.	3	138	572	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1723.787	1726.850	Li_wei	male	native	This will play a great role against this	3	139	573	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1726.850	1728.600	Li_wei	male	native	East Turkistan terrorist, uh, activity.	3	139	574	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1728.600	1732.975	Li_wei	male	native	After all, it, uh, uh, it needs to survive within and outside the territory.	3	139	575	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1732.975	1735.866	Li_wei	male	native	If we take an integrated approach to manage this kind of survival,	3	139	576	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1735.866	1737.428	Li_wei	male	native	strengthen international cooperation,	3	139	577	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1737.428	1740.490	Li_wei	male	native	that is to say, currently, you can crack down on them with severity,	3	139	578	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1740.490	1743.709	Li_wei	male	native	potentially, we can take further measures to control them.	3	139	579	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1743.709	1744.162	Lu_jian	male	native	Um.	3	140	580	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1744.162	1750.958	Lu_jian	male	native	Of course, to address this global cooperation against terrorism, we may also need to pursue coordinated and consistent standards.	3	140	581	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1750.958	1754.489	Lu_jian	male	native	We are very grateful for the two guests who came to the studio for the interview.	3	140	582	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1754.489	1757.348	Lu_jian	male	native	Also, thank you for watching this edition of Today's Focus.	3	140	583	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1757.348	1757.755	Lu_jian	male	native	Goodbye.	3	140	584	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1786.819	1788.694	speaker#5	female	native	Hello, let us check on the weather.	4	141	586	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1788.694	1790.303	speaker#5	female	native	Recently, there has been little rainfall in the south,	4	141	587	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1790.303	1791.740	speaker#5	female	native	the weather is getting drier.	4	141	588	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1791.740	1795.146	speaker#5	female	native	Like Guangzhou, the relative humidity at 2 p.m. today was only 20%,	4	141	589	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1795.146	1798.302	speaker#5	female	native	while in early January, its relative humidity was as high as 73%;	4	141	590	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1798.302	1802.349	speaker#5	female	native	but this pattern of more sunny than rainy days will change soon.	4	141	591	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1802.349	1803.661	speaker#5	female	native	The day after tomorrow is the 11th,	4	141	592	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1803.661	1806.536	speaker#5	female	native	the cloudy and rainy weather in the south will rapidly extend eastward,	4	141	593	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1806.536	1809.989	speaker#5	female	native	then, many places, like Hubei, will have rain or sleet.	4	141	594	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1809.989	1814.380	speaker#5	female	native	By the 12th, most parts of the South, including Jianghuai Plain and south of the Yangtze River, will have rainfall.	4	141	595	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1814.380	1817.599	speaker#5	female	native	At the same time, the highest temperature for the most part south of the Yangtze River will drop to the single digits.	4	141	596	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1817.599	1821.537	speaker#5	female	native	The other thing worth mentioning is, recently, temperatures have been dropping steadily in most parts of the Northeast. Today,	4	141	597	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1821.537	1824.255	speaker#5	female	native	people in Harbin had the coldest day since the start of January.	4	141	598	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1824.255	1825.646	speaker#5	female	native	Fortunately, by tomorrow,	4	141	599	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1825.646	1828.068	speaker#5	female	native	temperatures in the Northeast will finally pick up.	4	141	600	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1828.630	1830.427	speaker#5	female	native	OK, let's look at the weather forecast for the cities.	4	141	602	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1832.177	1834.537	speaker#5	female	native	Beijing, overcast to cloudy, six below zero to one degree.	4	141	604	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1834.537	1836.943	speaker#5	female	native	Harbin, sunny, 22 below zero to 12 below zero.	4	141	605	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1837.662	1839.912	speaker#5	female	native	Xi'an, sunny to cloudy, four below zero to six degrees.	4	141	607	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1839.912	1842.537	speaker#5	female	native	Ji'nan, sunny, three below zero to three degrees.	4	141	608	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1843.209	1844.959	speaker#5	female	native	Zhengzhou, sunny, one below zero to four degrees.	4	141	610	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1845.990	1847.583	speaker#5	female	native	Shanghai, sunny, three to ten degrees.	4	141	612	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1848.973	1850.520	speaker#5	female	native	Changsha, sunny, three to fourteen degrees.	4	141	614	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1851.692	1853.473	speaker#5	female	native	Fuzhou, cloudy, eight to seventeen degrees.	4	141	616	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1854.504	1856.394	speaker#5	female	native	Taipei, cloudy, fourteen to twenty degrees.	4	141	618	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1857.363	1859.441	speaker#5	female	native	Guangzhou, sunny to cloudy, nine to nineteen degrees.	4	141	620	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1860.097	1862.503	speaker#5	female	native	Dalian, cloudy to sunny, seven below zero to two below zero.	4	141	622	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1862.503	1864.862	speaker#5	female	native	Wuxi, sunny, one below zero to ten degrees.	4	141	623	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1865.659	1867.831	speaker#5	female	native	Liaocheng, sunny to cloudy, five below zero to five degrees.	4	141	625	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1868.488	1870.488	speaker#5	female	native	Bangkok, cloudy, twenty-three to thirty-one degrees.	4	141	627	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1871.238	1872.926	speaker#5	female	native	New Delhi, cloudy, four to seventeen degrees.	4	141	629	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1874.051	1875.957	speaker#5	female	native	Seoul, sunny, five below zero to one degree.	4	141	631	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1876.894	1878.910	speaker#5	female	native	Tokyo, snow showers to overcast, four to twelve degrees.	4	141	633	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1879.691	1881.754	speaker#5	female	native	London, drizzle, six to thirteen degrees.	4	141	635	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1882.472	1884.379	speaker#5	female	native	Moscow, overcast to drizzle, one to three degrees.	4	141	637	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1885.176	1886.785	speaker#5	female	native	Paris, cloudy, ten to twelve degrees.	4	141	639	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1888.035	1889.988	speaker#5	female	native	Vienna, drizzle, five to nine degrees.	4	141	641	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1890.800	1892.581	speaker#5	female	native	New York, cloudy, six to twelve degrees.	4	141	643	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1893.549	1896.252	speaker#5	female	native	Seattle, overcast to drizzle, one below zero to four degrees.	4	141	645	report	
+CCTV4_TDYFOCUS_CMN_20070109_082800	0	1896.252	1898.018	speaker#5	female	native	Washington, cloudy, four to eight degrees.	4	141	646	report	

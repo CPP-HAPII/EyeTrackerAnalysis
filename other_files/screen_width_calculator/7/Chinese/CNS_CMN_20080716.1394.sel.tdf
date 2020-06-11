@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.1394	0	600.0	700.0	speaker	unknown	unknown	绵阳市为全国“地方党政领导班子和领导干部综合考核评价试行办法”试点，但昨日绵阳市组织部长董维全在接受本报采访时表示，目前尚未收到中组部关于调查如何进行的具体文件。	0	0	0		
+CNS_CMN_20080716.1394	0	1000.0	1100.0	speaker	unknown	unknown	董维全确认，在本次调查开展前，上级组织部门曾强调要突出“社会人员”的评价，加大其在调查结论中的权重，“以前都是组织部评价别的干部，现在是社会群众评价组工干部”。	0	0	0		

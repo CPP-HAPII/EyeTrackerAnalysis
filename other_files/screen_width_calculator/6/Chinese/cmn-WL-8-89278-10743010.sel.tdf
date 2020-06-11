@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10743010	0	100.0	200.0	speaker	unknown	unknown	并列第八位：佩内洛普·克鲁兹	0	0	0		
+cmn-WL-8-89278-10743010	0	200.0	300.0	speaker	unknown	unknown	代言品牌：欧莱雅	0	0	0		
+cmn-WL-8-89278-10743010	0	400.0	500.0	speaker	unknown	unknown	第八位：斯嘉丽·约翰逊	0	0	0		
+cmn-WL-8-89278-10743010	0	500.0	600.0	speaker	unknown	unknown	代言品牌：欧莱雅	0	0	0		
+cmn-WL-8-89278-10743010	0	700.0	800.0	speaker	unknown	unknown	第七位：茱丽娅·罗伯茨	0	0	0		
+cmn-WL-8-89278-10743010	0	1000.0	1100.0	speaker	unknown	unknown	第六位：查理兹·塞隆	0	0	0		
+cmn-WL-8-89278-10743010	0	1100.0	1200.0	speaker	unknown	unknown	代言品牌：Dior香水	0	0	0		
+cmn-WL-8-89278-10743010	0	1300.0	1400.0	speaker	unknown	unknown	第五位：格温妮丝·帕特洛	0	0	0		
+cmn-WL-8-89278-10743010	0	1600.0	1700.0	speaker	unknown	unknown	第四位：杰西卡·辛普森	0	0	0		
+cmn-WL-8-89278-10743010	0	1700.0	1800.0	speaker	unknown	unknown	代言 品牌 ：Guthy-Renker	0	0	0		
+cmn-WL-8-89278-10743010	0	1900.0	2000.0	speaker	unknown	unknown	第三位：妮可·基德曼	0	0	0		
+cmn-WL-8-89278-10743010	0	2000.0	2100.0	speaker	unknown	unknown	代言 品牌 ：Channel No.5	0	0	0		
+cmn-WL-8-89278-10743010	0	2200.0	2300.0	speaker	unknown	unknown	第二位：安吉丽娜·茱丽	0	0	0		
+cmn-WL-8-89278-10743010	0	2300.0	2400.0	speaker	unknown	unknown	代言品牌：St.John	0	0	0		
+cmn-WL-8-89278-10743010	0	2500.0	2600.0	speaker	unknown	unknown	第一位：泽塔·琼斯	0	0	0		

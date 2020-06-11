@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080724.1322	0	500.0	600.0	speaker	unknown	unknown	因此许多科学家对在肯尼亚和坦桑尼亚境内游牧的马赛人很少得这种疾病感到吃惊。	0	0	0		

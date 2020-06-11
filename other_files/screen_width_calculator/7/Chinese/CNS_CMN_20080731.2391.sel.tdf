@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.2391	0	600.0	700.0	speaker	unknown	unknown	今年6月，教育部公布新修订的《中小学教师职业道德规范(征求意见稿)》，“保护学生安全”这一条被首次加入其中。	0	0	0		

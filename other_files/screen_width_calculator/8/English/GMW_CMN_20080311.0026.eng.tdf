@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0026.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	French Army's Helicopter Crashes in Côte d'Ivoire	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Reporter Huang Wei - 2008-03-11	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Abidjan (Xinhua Net), March 10th - France's "Licorne" mobile unit in Côte d'Ivoire published a communique on the 10th that said, on that day, a French army helicopter crashed near the central city of Bouake but there were no casualties.	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The communique said, this helicopter crashed while carrying out an in-flight mission above a dam to the south of Bourke. The two flight crew members escaped safely.	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	After a preliminary investigation, it is thought that pilot error was probably the main cause of the accident.	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Currently, the "Licorne" mobile unit has already launched a further investigation into the specific cause of the accident.	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	There are currently about 8000 United Nations peacekeeping soldiers and 1800 "Licorne" mobile unit troops stationed in Côte d'Ivoire to maintain the country's peace process.	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	According to the agreement reached between president of Côte, Gbagbo, and the former opposition armed, following development of the peace process in Côte, foreign forces will gradually withdraw from Côte d'Ivoire in stages.	0	0	0		statement

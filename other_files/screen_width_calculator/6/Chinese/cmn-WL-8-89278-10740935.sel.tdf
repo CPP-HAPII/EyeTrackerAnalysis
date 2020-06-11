@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10740935	0	1700.0	1800.0	speaker	unknown	unknown	据了解，地铁10号线有5个大站的停车时间为50秒，包括与13号线的换乘站知春路站，与奥运支线的换乘站北土城站，与地铁5号线的换乘站惠新西街南口站，以及芍药居站、与地铁1号线换乘站国贸站。	0	0	0		
+cmn-WL-8-89278-10740935	0	2000.0	2100.0	speaker	unknown	unknown	巴沟站 苏州街站 海淀黄庄站 知春里站 知春路站 西土城站 牡丹园站 健德门站 北土城站 安贞门站、惠新西街南口站 芍药居站 太阳宫站 三元桥站 亮马桥站 农业展览馆站 团结湖站 呼家楼站、金台夕照站国贸站 双井站 劲松站。	0	0	0		
+cmn-WL-8-89278-10740935	0	2500.0	2600.0	speaker	unknown	unknown	机场线开通后，乘坐机场快轨从市内东直门站去往机场T3航站楼最快16分钟就可以到达。	0	0	0		

@@ -1,0 +1,410 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 119.874, 187.226, 221.65000000000001, 293.19099999999997, 665.48299999999995, 847.79499999999996, 1004.183, 1538.039, 1663.7639999999999, 9999999.0]
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	0.000	2.656	speaker#1	male	native	那些人都必先盯着美国这个情况，	0	0	0	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	2.656	6.219	speaker#1	male	native	啊，所以他的发展我想不会出现其它问题，	0	0	1	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	6.219	8.704	speaker#1	male	native	除非它直接顾不自负那可能就没得发展。	0	0	2	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	8.704	14.797	speaker#1	male	native	但现在它正在一种开放，只在不断地吸收各个地方，各个民族和地域不同音乐进来。	0	0	3	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	14.797	16.593	speaker#1	male	native	所以他的生命力我想还很强劲。	0	0	4	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	16.593	19.718	speaker#1	male	native	毕竟他有最，最雄厚的唱片工业基础，	0	0	5	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	19.718	20.296	speaker#1	male	native	(())	0	1	6	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	19.718	20.296	speaker#2	female	native	那倒是。	0	1	7	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	20.296	20.765	speaker#1	male	native	美国。	0	2	8	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	20.765	21.859	speaker#2	female	native	那中国歌坛呢？	0	3	9	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	21.859	24.343	speaker#1	male	native	呃，中国也是这几年发展的非常快。	0	4	10	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	24.343	29.234	speaker#1	male	native	你看，呃在八十年代中国那个流行乐坛正是刚起步，	0	4	11	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	29.234	29.796	speaker#2	female	native	嗯哼。	0	5	12	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	29.796	31.890	speaker#1	male	native	最早是从七七年算起吧，	0	6	13	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	31.890	34.312	speaker#1	male	native	呃今年中国出现第一个((劲))乐团开始，	0	6	14	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	34.312	35.328	speaker#1	male	native	那是在广东。	0	6	15	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	35.968	40.577	speaker#1	male	native	开始，那么到了八十年代开始，中国自己的原创它就出现了，	0	6	17	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	40.577	44.686	speaker#1	male	native	但那时候还是一种模仿阶段，模仿学的什么？学的是香港和台湾。	0	6	18	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	44.686	45.217	speaker#2	female	native	嗯哼。	0	7	19	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	45.217	47.733	speaker#1	male	native	因为它这两个地方的流行音乐是没有中断过的，	0	8	20	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	47.733	48.890	speaker#1	male	native	我们是中断了的。	0	8	21	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	48.890	51.687	speaker#1	male	native	那么国语的创作基本借鉴台湾，	0	8	22	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	51.687	53.187	speaker#1	male	native	呃粤语的借鉴香港，	0	8	23	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	53.187	56.422	speaker#1	male	native	这两个地方对中国流行音乐的发展起了非常重要的作用，	0	8	24	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	56.422	58.359	speaker#1	male	native	但是到了这几年，	0	8	25	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	58.359	62.031	speaker#1	male	native	现在已经看出国内已经完全具备抗衡的实力了。	0	8	26	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	62.031	62.468	speaker#2	female	native	哎。	0	9	27	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	62.468	64.953	speaker#1	male	native	这几年台，台湾跟香港都开始没落。	0	10	28	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	64.953	66.237	speaker#1	male	native	台湾很多音乐人跑到北京去	0	10	29	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	66.237	66.722	speaker#1	male	native	了，	0	11	30	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	66.237	66.722	speaker#2	female	native	{laugh}	0	11	31	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	66.722	68.188	speaker#1	male	native	呃，不不呆在台湾了。	0	12	32	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	68.188	72.079	speaker#1	male	native	那只是本地的那种环境可能是产生一些变化吧，	0	12	33	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	72.079	79.563	speaker#1	male	native	呃所以已经很多在说这呃二，二十一世纪的华人音乐就是大陆的。	0	12	34	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	79.563	80.282	speaker#2	female	native	唉。	0	13	35	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	79.563	80.282	speaker#1	male	native	音乐了。	0	13	36	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	80.282	80.673	speaker#2	female	native	一定。	0	14	37	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	80.673	83.470	speaker#1	male	native	那么这个，这个你从这个趋势来看我觉得，	0	15	38	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	83.470	86.267	speaker#1	male	native	毕竟中国这么大，十几亿人在那里面。	0	15	39	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	86.267	86.564	speaker#2	female	native	嗯哼。	0	16	40	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	86.564	87.846	speaker#1	male	native	那什么人才没有哇。	0	17	41	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	87.846	88.861	speaker#2	female	native	对，那倒是。	0	18	42	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	88.861	90.953	speaker#1	male	native	那么他的发展应该还是，	0	19	43	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	90.953	92.504	speaker#2	female	native	非常看好。	0	20	44	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	90.953	92.504	speaker#1	male	native	应该表示比较乐观的，	0	20	45	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	92.504	95.926	speaker#1	male	native	而且就是说，如果下来来说整个环境更好一些，	0	21	46	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	95.926	101.692	speaker#1	male	native	有跟国外的这种流行音乐的做接触会有更多沟通和交流吧，	0	21	47	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	101.692	103.582	speaker#1	male	native	那我想它会发展得非常快的。	0	21	48	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	103.582	108.541	speaker#2	female	native	那我们在这里也真的是可以说是，衷心的祝福内地的音乐可以不光是在亚洲，	0	22	49	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	108.541	111.113	speaker#2	female	native	也在西方世，就全世界呢有一席之地。	0	22	50	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	111.113	114.233	speaker#2	female	native	也希望，谢谢陈先生今天来到我们的节，节目当中，	0	22	51	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	114.233	118.546	speaker#2	female	native	也希望我们今天的节目呢，能够带给观众朋友您一个很舒服，愉快的夜晚。	0	22	52	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	118.546	119.874	speaker#2	female	native	明天同一时间再见。	0	22	53	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	187.226	192.601	speaker#3		native	无名流浪汉遭遇车祸，肇事司机愿意赔偿，却无人接收。	2	24	55	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	192.601	197.492	Chen_qiujing	male	native	现在骨灰存放在我们高淳的殡仪馆，到现在为止没有人来认领。	2	25	56	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	197.492	201.101	speaker#3		native	民政局为流浪汉打官司，索要赔偿，	2	26	57	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	201.101	202.789	speaker#3		native	开国内之先河。	2	26	58	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	202.789	205.540	speaker#4	male	native	我们感觉到这个事情是很有意义，啊，	2	27	59	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	205.540	209.759	speaker#4	male	native	也是我们这个呃职责范围之内的事情。	2	27	60	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	209.759	214.446	speaker#3		native	法院驳回起诉，撞死流浪汉是否撞了白撞？	2	28	61	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	214.446	218.071	speaker#4	male	native	那撞死人家是老母鸡，呃老母鸡它还要赔偿的，	2	29	62	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	218.071	221.650	speaker#4	male	native	那撞的是人嘛，我觉得心里还是(())。	2	29	63	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	293.191	296.285	speaker#5	female	native	三年前一个名叫孙志刚的年轻人，	4	31	65	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	296.285	300.332	speaker#5	female	native	在广州的一个收容遣散所里因为遭到毒打而致死，	4	31	66	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	300.332	304.639	speaker#5	female	native	其原因就是他身上没有携带任何能够证明自己身份的证件。	4	31	67	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	305.418	309.035	speaker#5	female	native	时隔一年半，同样是一个没有身份证明的流浪汉，	4	31	69	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	309.035	314.410	speaker#5	female	native	因为一起交通事故在南京市高淳县境内的高速公路上死亡。	4	31	70	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	314.410	318.379	speaker#5	female	native	但是这一次，高淳县民政局却当起了原告，	4	31	71	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	318.379	322.972	speaker#5	female	native	要为这个不知姓名，没有来历的流浪汉讨回公道。	4	31	72	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	324.034	329.581	Chen_qiujing	male	native	这个时间是二零零四年十二月四号，晚上大概六点钟左右，	4	32	74	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	329.581	333.003	Chen_qiujing	male	native	我，我们接到报警以后呢，我们一到这个事故现场。	4	32	75	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	333.003	340.613	Chen_qiujing	male	native	到现场以后，这个那个死者呃大概是三十到四十岁左右的一个男性，	4	32	76	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	340.613	342.894	Chen_qiujing	male	native	人，整个人躺在这个路面。	4	32	77	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	342.894	349.660	Chen_qiujing	male	native	这个是，这条路是东西走向，呃这边是南边，这个死者就躺，躺在这个公路的南边。	4	32	78	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	349.660	356.019	speaker#3		native	正在说话的这位是南京市高淳县交通警察大队的警官陈秋景。	4	33	79	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	356.019	360.426	speaker#3		native	二零零四年十二四日晚，他接到一个事故报警电话，	4	33	80	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	360.426	364.535	speaker#3		native	一名司机在酒后驾车将一名男子碾压身亡。	4	33	81	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	364.535	368.754	speaker#3		native	他们很快进行了调查，并确认了肇事司机的责任。	4	33	82	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	368.754	374.301	speaker#3		native	然而，对于事故并没有如各方所希望的那样尽快得到解决。	4	33	83	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	374.879	378.956	Chen_qiujing	male	native	呃，我们到了那个南京日报登报以后，登那个认尸启示，	4	34	85	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	378.956	381.040	Chen_qiujing	male	native	也没有，没有人来认领。	4	34	86	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	381.643	383.440	speaker#3		native	经过警方多方的调查，	4	35	88	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	383.440	387.596	speaker#3		native	被撞死的这名男子是当地一个有精神障碍的流浪汉，	4	35	89	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	387.596	389.726	speaker#3		native	无法找到他的任何亲属。	4	35	90	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	390.320	393.892	speaker#3		native	根据现行的机动车第三者责任强制保险制度，	4	35	92	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	393.892	400.079	speaker#3		native	肇事司机所投保的保险公司应该对这起交通事故造成受害人的人身伤亡，	4	35	93	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	400.079	402.657	speaker#3		native	财产损失进行全额赔偿。	4	35	94	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	402.657	405.360	speaker#3		native	在这一案件中，有了赔偿方，	4	35	95	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	405.360	408.563	speaker#3		native	警方却不知道应该把钱赔给谁。	4	35	96	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	409.078	412.172	Chen_qiujing	male	native	这个案子就我们一直是摆在这边，	4	36	98	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	412.172	415.437	Chen_qiujing	male	native	因为这个尸体我们经过登报以后呢，	4	36	99	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	415.437	419.015	Chen_qiujing	male	native	经过我们公安局长签字呃已经火化，	4	36	100	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	419.015	421.870	Chen_qiujing	male	native	所以现在骨灰存放在我们高淳县殡仪馆，	4	36	101	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	422.593	424.421	Chen_qiujing	male	native	到现在为止没有人来认领。	4	36	103	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	425.343	429.437	speaker#3		native	二零零五年四月二日，高淳境内再次发生类似事故。	4	37	105	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	429.437	433.515	speaker#3		native	司机王某驾驶车辆，将一流浪汉撞倒在机动车道内，	4	37	106	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	433.515	438.366	speaker#3		native	迎面驶来的机动车从流浪汉身上碾轧而过，致使其当场死亡。	4	37	107	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	439.115	441.796	speaker#3		native	这个流浪汉的身份同样无法确定，	4	37	109	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	441.796	443.606	speaker#3		native	赔偿也无法进行。	4	37	110	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	444.295	449.531	speaker#3		native	无奈之下，高淳交警大队找到高淳县检察院咨询解决办法。	4	37	112	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	451.156	457.782	speaker#4	male	native	当时我们这个案件呢呃接触以后呢，我们公安，呃我们检察，	4	38	114	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	457.782	463.627	speaker#4	male	native	还有法院这个法院的民民事的同志，因为地方比较小，大家经经常在一起，	4	38	115	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	463.627	465.017	speaker#4	male	native	就探讨了这个案。	4	38	116	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	465.017	467.455	speaker#4	male	native	主要考虑，考虑来考虑去就是说，	4	38	117	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	468.596	472.564	speaker#4	male	native	这个案件如果受理，呃一下那肯定对那个社会上有好处的，	4	38	119	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	472.564	474.064	speaker#4	male	native	因为这个是公益性的。	4	38	120	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	474.064	476.313	speaker#4	male	native	那么案件受理以后呢也带来问题，	4	38	121	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	476.938	480.298	speaker#4	male	native	那么这个既然经过法院，那么原告是谁？	4	38	123	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	481.266	486.578	speaker#3		native	这个问题，令高淳县公安局，检察院和法院都感到了头疼。	4	39	125	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	486.578	491.141	speaker#3		native	因为不仅在国内，连国外也没有找到相关案件的先例。	4	39	126	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	492.125	494.782	speaker#4	male	native	原告总不能是检察院，也不能是公安局。	4	40	128	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	495.954	499.344	speaker#4	male	native	这样我们想来想去呢，就感觉到民政局比较合适。	4	40	130	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	499.344	501.344	speaker#4	male	native	民政局呢有这个，这个理由，	4	40	131	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	501.344	506.438	speaker#4	male	native	一个理由呢，国务院有颁了一个什么关于那个流浪乞讨人员一个救助办法，	4	40	132	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	507.125	512.437	speaker#4	male	native	那么社会上这个流浪人员，包括那个有的是那个精神病人啊，	4	40	134	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	512.437	514.823	speaker#4	male	native	收容啊，救助哇，都是民政局在管。	4	40	135	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	515.422	517.452	speaker#4	male	native	这个民政局呢出面呢是一个理由。	4	40	137	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	518.280	519.889	speaker#4	male	native	第二个理由呢就是说，	4	40	139	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	520.827	524.015	speaker#4	male	native	呃我们感觉到如果是说一个无名尸体，	4	40	141	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	524.718	526.192	speaker#4	male	native	第一步应该是公安局介入，	4	40	143	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	527.000	529.749	speaker#4	male	native	那么公安局经过调查以后，排除了刑事案件以外，	4	40	145	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	529.749	531.765	speaker#4	male	native	那肯定是放到殡仪馆火化。	4	40	146	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	532.796	535.374	speaker#4	male	native	那么这个殡仪馆是民政局的下属单位。	4	40	148	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	536.109	539.609	speaker#3		native	二零零六年三月八日，高淳县检察院做出决定。	4	41	150	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	539.609	543.125	speaker#3		native	向高淳县民政局下达了两份检察建议书，	4	41	151	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	543.125	548.906	speaker#3		native	建议由民政局代两名无名流浪人员提起人身损害赔偿诉讼。	4	41	152	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	549.565	551.656	Chen_qiujing	male	native	当时呢我，我也考虑，	4	42	154	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	551.656	555.547	Chen_qiujing	male	native	就是说以民政局的名义来提起诉讼的话，	4	42	155	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	555.547	561.125	Chen_qiujing	male	native	呃在目前我们缺乏相应的这个直接的法律依据。	4	42	156	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	561.125	565.314	Chen_qiujing	male	native	因为不管是从我们这个民事诉讼法，	4	42	157	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	566.032	571.985	Chen_qiujing	male	native	或者说这个最高人民法院关于审理人身损害赔偿案件，	4	42	159	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	571.985	578.829	Chen_qiujing	male	native	呃这个适用法律若干问题的那个解释都很明确。	4	42	160	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	578.829	581.454	Chen_qiujing	male	native	作为这个赔偿请求的权利人，	4	42	161	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	581.454	592.091	Chen_qiujing	male	native	他必须是这个呃与本案有直接利害关系的呃个人或者说这个法人或者其它组织。	4	42	162	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	592.870	597.375	speaker#3		native	虽然有所顾虑，高淳县民政局还是接受了检察院的建议，	4	43	164	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	597.375	599.563	speaker#3		native	向法院提起了诉讼，	4	43	165	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	599.563	604.375	speaker#3		native	要求被告赔偿流浪汉死亡赔偿金，丧葬费三十万元。	4	43	166	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	604.985	609.788	Chen_qiulin	male	native	在本案当中，能够作为这个原告的，	4	44	168	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	610.094	615.625	Chen_qiulin	male	native	也就是说根据这个最高院关于人身损害赔偿的这个司法解释的规定呢，	4	44	170	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	615.625	618.672	Chen_qiulin	male	native	他应该是他的配偶或者近亲属。	4	44	171	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	619.312	625.608	Chen_qiulin	male	native	但是呢他的配偶和近亲属呢我们刚才讲到了，就是说通过查找，	4	44	173	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	625.608	628.311	Chen_qiulin	male	native	比如说通过这个公告的形式，	4	44	174	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	628.311	630.134	Chen_qiulin	male	native	以及登报的形式，	4	44	175	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	631.302	632.452	Chen_qiulin	male	native	都没有查找到，	4	44	177	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	632.452	635.842	Chen_qiulin	male	native	他的亲属或者配偶根本就没有出现过。	4	44	178	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	636.623	639.514	Chen_qiulin	male	native	所以呢在这种情况下呢，问题要解决，	4	44	180	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	639.514	642.623	Chen_qiulin	male	native	那么他的亲属呢也没有出现，	4	44	181	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	642.623	649.865	Chen_qiulin	male	native	那必须有一个呃组织或者说这个权利请求权人出现来为他进行维权。	4	44	182	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	650.554	656.592	speaker#4	male	native	你说那个肇事者你有责任，在不构成刑事犯罪的前提下，是吧。	4	45	184	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	656.592	657.920	speaker#4	male	native	交通还有肇事罪吧，	4	45	185	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	657.920	660.170	speaker#4	male	native	那么你这个民事责任你应该承担。	4	45	186	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	661.264	664.936	speaker#4	male	native	不能因为是他是流浪汉，没有人，家里没有人你不承担民事责任。	4	45	188	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	665.483	670.795	speaker#3		native	二零零六年四月，江苏高淳民政局替流浪汉维权案终获立案，	5	46	190	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	670.795	673.248	speaker#3		native	并在高淳县法院开庭审理。	5	46	191	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	673.248	679.267	speaker#3		native	民政局出面为无名流浪汉索要车祸赔偿，这在全国前所未有。	5	46	192	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	680.084	688.249	speaker#3		native	这个被贴上了全国首例标签的案件，在审理当天吸引了中央和地方的二十多家媒体去赶往旁听。	5	46	194	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	692.655	697.233	speaker#3		native	在庭审期间，原告方和被告方之间出现了诸多争议。	5	46	196	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	697.233	700.467	speaker#3		native	例如，民政局是否有资格作为原告，	5	46	197	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	700.467	703.874	speaker#3		native	民政局与流浪人口之间的关系如何界定，	5	46	198	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	703.874	706.061	speaker#3		native	死者身份如何界定，	5	46	199	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	706.061	708.342	speaker#3		native	赔偿金的接受人应该是谁，	5	46	200	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	708.342	712.124	speaker#3		native	等等问题都在法庭上成为争论的焦点。	5	46	201	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	713.780	716.624	speaker#6	male	native	这个不应该赔给民政局的，	5	47	203	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	716.624	718.656	speaker#6	male	native	这个会造成社会上的混乱。	5	47	204	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	719.285	726.321	speaker#6	male	native	这个民政局它对这个无，流浪乞讨人员这是一个行政上的必定义务，	5	47	206	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	727.159	729.452	speaker#6	male	native	这个不是法律授予它的这个权力。	5	47	208	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	730.327	733.873	speaker#6	male	native	所以说呢，民政它是一个公权的问题。	5	47	210	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	734.570	736.671	speaker#6	male	native	主张权利实际是个私权，	5	47	212	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	736.671	742.374	speaker#6	male	native	所以说民政局以公权对私权，这是一个主体不平等问题。	5	47	213	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	742.374	750.608	speaker#7	male	native	高淳县民政局呢作为这个原告主体，直接提起这个无名死者的个民事诉讼呢，	5	48	214	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	750.608	754.720	speaker#7	male	native	应该讲没有这个具体的法律依据。	5	48	215	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	755.404	759.420	speaker#7	male	native	但是呢，我们根据国务院第三百八十一号令，	5	48	217	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	760.358	766.265	speaker#7	male	native	也就是((生))，城市生活无着这个流浪乞讨人员救助管理办法，	5	48	219	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	766.922	769.579	speaker#7	male	native	那么其中第四条明确规定，	5	48	221	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	771.226	778.735	speaker#7	male	native	这个县级以上人民政府民政部门这个负责流浪乞讨人员的救助工作。	5	48	223	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	781.157	783.130	speaker#7	male	native	那么根据该办法的规定呢，	5	48	225	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	784.118	785.406	speaker#7	male	native	就是民政部门	5	48	227	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	786.446	793.751	speaker#7	male	native	对于这个流浪乞讨人员的这个生活基本权益呢他是要保障的。	5	48	229	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	794.923	796.969	speaker#7	male	native	但是我们理解就是说，	5	48	231	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	796.969	800.453	speaker#7	male	native	对于流浪乞讨人员的这个生活权益的保障呢，	5	48	232	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	800.453	803.234	speaker#7	male	native	不应该仅仅体现在这生活上的照顾，	5	48	233	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	804.281	810.296	speaker#7	male	native	应该体现在他们的这个权益如果受到非法侵犯的情况下提供相应的救助。	5	48	235	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	810.296	818.453	speaker#7	male	native	那么其中就包括这个对于像这个本案当中无名死者遭受车祸死亡之后，	5	48	236	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	818.453	820.878	speaker#7	male	native	提供相应的这个司法援助。	5	48	237	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	821.495	822.812	speaker#3		native	二零零六年十二月，	5	49	239	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	822.812	824.874	speaker#3		native	高淳县人民法院裁定认为，	5	49	240	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	824.874	831.859	speaker#3		native	根据我国现有法律，能替死者出面索赔的赔偿权利人只能是其近亲属或指定受益人。	5	49	241	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	831.859	835.874	speaker#3		native	民政局与无名流浪汉之间存在的是行政法律关系，	5	49	242	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	835.874	840.030	speaker#3		native	而非民事法律关系，不能作为民事诉讼原告。	5	49	243	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	840.030	845.155	speaker#3		native	因而，驳回民政局要求肇事方赔偿两流浪汉的死亡赔偿金，	5	49	244	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	845.155	847.795	speaker#3		native	丧葬费等三十多万元的诉请。	5	49	245	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1004.183	1007.449	speaker#5	female	native	作为是中国第一案的高淳流浪汉维权案，	7	51	247	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1007.449	1009.293	speaker#5	female	native	一审虽然以败诉告终，	7	51	248	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1009.293	1013.559	speaker#5	female	native	但是却引起了许多的媒体以及法学专家的广泛关注，	7	51	249	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1013.559	1018.496	speaker#5	female	native	而与此同时还有相当多的民政部门都在纷纷效仿。	7	51	250	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1046.455	1049.243	speaker#4	male	native	那么民政局作为一个原告它有它的理由，	7	52	252	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1049.871	1050.768	speaker#4	male	native	我刚才讲了。	7	52	254	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1050.768	1054.159	speaker#4	male	native	流浪汉他(())，救助管理是他们的，	7	52	255	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1054.159	1056.456	speaker#4	male	native	国务院也颁发就是就是管理办法。	7	52	256	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1056.456	1062.662	speaker#4	male	native	事实上他们也承担了也是流浪汉被那个意外死亡的这个费用，他们也得承担的。	7	52	257	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1063.530	1065.716	speaker#4	male	native	那么现在如果说发生流浪汉的问题，	7	52	259	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1066.592	1069.986	speaker#4	male	native	他们也救助，不仅仅流浪汉的吃，住，	7	52	261	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1069.986	1071.658	speaker#4	male	native	还遣送回家这路费，	7	52	262	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1071.658	1075.049	speaker#4	male	native	那么法院这样不予起诉呢，它也有它的依据。	7	52	263	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1075.049	1079.908	speaker#4	male	native	你比如这个主体就是近亲属，单位或者是有直接利害关系的人。	7	52	264	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1080.686	1087.017	speaker#4	male	native	那么他把那个民政局呢这个流浪汉官司确定为，确定为行政官司，行政法律官司。	7	52	266	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1088.251	1089.782	speaker#4	male	native	呃，不是民事法律官司，	7	52	268	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1089.782	1092.172	speaker#4	male	native	那么不是民事法律官司他就不好作为原告。	7	52	269	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1092.969	1098.938	speaker#4	male	native	那么当然，但是流浪汉到底是不是，是不是行政法律官司这个也没具体规定。	7	52	271	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1098.938	1104.094	speaker#4	male	native	呃，你说这两个流浪汉他也不是注册在我们高淳民政局的，	7	52	272	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1104.094	1106.312	speaker#4	male	native	平时也不归我们高淳民政局管，	7	52	273	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1106.312	1107.656	speaker#4	male	native	它怎么是行政官司呢？	7	52	274	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1108.562	1112.812	speaker#4	male	native	是不是，所以说这个事情呢自然法律上规定不明，不具体，	7	52	276	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1112.812	1117.141	speaker#4	male	native	所以说不能说法院呃这个弄错，	7	52	277	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1117.141	1118.828	speaker#4	male	native	可能不行，不能这样讲的。	7	52	278	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1118.828	1125.984	speaker#4	male	native	他们是有他们的依据，他们说他们有(())啊有这个，有这个空白，有空白点，有盲点。	7	52	279	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1125.984	1129.828	Chen_qiulin	male	native	这个问题呢实际上讲到底，我们也希望法律是统一的，	7	53	280	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1129.828	1132.633	Chen_qiulin	male	native	最后同样的事情能够得到一样的结果。	7	53	281	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1133.382	1140.547	Chen_qiulin	male	native	但是呢，我们国家呢它除了这个在全国生效的法律法规，	7	53	283	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1140.547	1142.391	Chen_qiulin	male	native	还有地方一些立法。	7	53	284	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1142.391	1150.251	Chen_qiulin	male	native	它实际上就是说赋予一个地方民政部门这个关于在这个像我们本案一样的	7	53	285	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1150.251	1153.345	Chen_qiulin	male	native	这一种呃交通事故出现的情况下。	7	53	286	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1153.345	1156.789	Chen_qiulin	male	native	民政部门它呃能够代表，	7	53	287	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1157.657	1162.209	Chen_qiulin	male	native	或者说能够代替这个受害人提起相应的诉讼。	7	53	289	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1162.897	1167.001	Chen_qiulin	male	native	那么如果有这样的规定，那么它作为一个法律，它就有一个依据了，	7	53	291	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1168.110	1172.047	Chen_qiulin	male	native	呃，作为一个地方性法规它同样能够起到相应的作用。	7	53	293	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1172.047	1176.453	Chen_qiulin	male	native	那么我们实际上从目前的这个规范来讲呢，	7	53	294	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1176.453	1180.609	Chen_qiulin	male	native	呃显然是缺失的在我们江苏这边。	7	53	295	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1181.375	1183.953	speaker#3		native	在民政局的代理律师陈秋林看来，	7	54	297	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1183.953	1189.000	speaker#3		native	民政局和流浪人口之间的关系需要一个更明确法律条文来界定。	7	54	298	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1189.000	1194.718	speaker#3		native	但在长期与流浪人口打交道的高淳县民政局办公室主任陈晓忠看来，	7	54	299	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1194.718	1198.015	speaker#3		native	民政局和流浪人口之间，在实际工作中，	7	54	300	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1198.015	1201.593	speaker#3		native	是一种既有矛盾又紧密联系的关系。	7	54	301	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1202.812	1206.469	Chen_xiaozhong	male	native	以前这救助好象是你不管你愿意不愿意，	7	55	303	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1206.469	1210.359	Chen_xiaozhong	male	native	我公安部门把你收，然后再送到救助站，	7	55	304	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1210.359	1214.078	Chen_xiaozhong	male	native	救助站再把你这个强制的再，再返回到你的这个家乡。	7	55	305	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1214.078	1220.172	Chen_xiaozhong	male	native	现在我们这种救助呢就是说这，这个对工作人员要求肯定相对说要提高一下。	7	55	306	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1220.172	1225.594	Chen_xiaozhong	male	native	那么就是说他有这个求，求助的这个意愿我们才能对他实施救助，	7	55	307	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1225.594	1232.953	Chen_xiaozhong	male	native	如果他本人不想救助，那么民，就是职能部门呃也不能强求是对他呃遣送。	7	55	308	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1232.953	1237.828	speaker#4	male	native	你说这什么叫流浪汉，哪些是属于流浪汉，我们不好鉴定。	7	56	309	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1238.781	1242.906	speaker#4	male	native	那么也有可能是家里还很富有，啊这个以前也有过，	7	56	311	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1242.906	1246.328	speaker#4	male	native	报道报纸上也见过，家里很富有那么还来讨饭。	7	56	312	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1246.328	1250.125	speaker#4	male	native	把讨饭当成一种手段，谋生的手段，是吧。	7	56	313	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1250.125	1251.938	speaker#3		native	二零零三年八月一日，	7	57	314	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1251.938	1256.845	speaker#3		native	我国正式颁布了城市生活无着的流浪乞讨人员救助管理办法，	7	57	315	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1256.845	1262.658	speaker#3		native	结束了之前实施了长达二十一年的城市乞讨人员收容遣送办法，	7	57	316	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1262.658	1266.580	speaker#3		native	各地的收容遣送站纷纷改为了救助管理站。	7	57	317	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1266.580	1269.346	Chen_xiaozhong	male	native	从那个新的条例颁布以后，	7	58	318	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1269.346	1275.455	Chen_xiaozhong	male	native	这个呢随着社会的进步哇，我想这个随着人民生活呃富裕程度的这个提高啊，	7	58	319	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1275.455	1280.036	Chen_xiaozhong	male	native	这个流浪乞讨人员肯定是慢慢地在逐渐的这部分人群肯定逐步在递减。	7	58	320	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1280.908	1282.518	Chen_xiaozhong	male	native	这个也，也有这种情况，	7	58	322	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1282.518	1286.862	Chen_xiaozhong	male	native	就是说这个呃我在你这个地方流浪乞讨，	7	58	323	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1286.862	1290.612	Chen_xiaozhong	male	native	我不愿意你送我回去，我不愿意回去，	7	58	324	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1290.612	1293.722	Chen_xiaozhong	male	native	那你，我也对你这一块只，只能进行，	7	58	325	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1293.722	1297.316	Chen_xiaozhong	male	native	呃，你看到你生活求，呃困难的时候我对你实行施救，	7	58	326	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1297.316	1298.832	Chen_xiaozhong	male	native	你愿意接受我才能救助你，	7	58	327	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1298.832	1303.457	Chen_xiaozhong	male	native	你如果你不愿意接受那么根据现在条例我也不能强制你。	7	58	328	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1303.457	1309.348	speaker#3		native	陈晓忠的这种苦恼其实在大城市里更容易在救助工作者中间找到。	7	59	329	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1309.348	1311.879	speaker#3		native	在收容遣送人次较多的北京，	7	59	330	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1311.879	1316.832	speaker#3		native	二零零三年以前，每年平均收容遣送人次为四万至六万人，	7	59	331	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1316.832	1321.279	speaker#3		native	新的救助管理办法颁布后救助人口锐减至约三万人。	7	59	332	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1321.878	1324.519	speaker#3		native	为了寻找这一数字变化背后的答案，	7	59	334	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1324.519	1326.629	speaker#3		native	我们的记者走上街头。	7	59	335	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1326.629	1328.863	speaker#8	female	native	您的老家是哪里的呀？	7	60	336	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1328.863	1331.347	speaker#9	male	native	老家啊，你是记者吧？	7	61	337	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1331.347	1332.050	speaker#8	female	native	啊，对。	7	62	338	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1332.769	1334.034	speaker#9	male	native	我老家是河南的。	7	63	340	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1334.034	1337.049	speaker#8	female	native	河南的，您为什么不去救助站呢？	7	64	341	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1337.049	1341.862	speaker#9	male	native	呃，找它，我不想找它，我不想让他们帮助我。	7	65	342	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1342.644	1345.926	speaker#3		native	这对拉胡琴的父子在老家靠务农为生，	7	66	344	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1345.926	1347.395	speaker#3		native	有固定的住所。	7	66	345	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1347.395	1349.692	speaker#3		native	但是他们去年来到北京以后，	7	66	346	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1349.692	1351.957	speaker#3		native	就开始了长期的流浪生活。	7	66	347	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1351.957	1356.301	speaker#3		native	靠着拉胡琴的技能，父子俩每天都能有些收入。	7	66	348	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1357.003	1359.550	speaker#8	female	native	您为什么想到来北京呢？	7	67	350	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1359.550	1362.425	speaker#10	male	native	出来看看，没事，在家里没事了。	7	68	351	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1362.425	1362.909	speaker#8	female	native	噢。	7	69	352	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1362.909	1366.643	speaker#8	female	native	您家你自己，还有别的亲人吗？	7	69	353	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1366.643	1367.270	speaker#10	male	native	有，	7	70	354	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1368.065	1368.947	speaker#10	male	native	他妈病了，	7	70	356	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1369.815	1374.689	speaker#10	male	native	嗯，他妈病了，呃，糖尿病。	7	70	358	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1375.626	1377.657	speaker#8	female	native	是因为家里困难才出来？	7	71	360	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1377.657	1379.704	speaker#10	male	native	就是家里困难，嗯。	7	72	361	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1381.579	1384.861	speaker#11	male	native	出来比种地还，还能挣，挣到钱是吗？	7	73	363	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1384.861	1386.314	speaker#10	male	native	还行，还够吃的。	7	74	364	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1386.314	1387.361	speaker#10	male	native	{laugh}	7	74	365	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1387.361	1389.533	speaker#11	male	native	那要不出来就不够吃了是吗？	7	75	366	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1390.439	1392.626	speaker#10	male	native	我们那河南穷地儿。	7	76	368	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1395.110	1399.423	speaker#11	male	native	你们平时就是如果住的话都选什么地方住哇？	7	77	370	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1399.423	1401.173	speaker#10	male	native	不一定在哪里住着。	7	78	371	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1401.173	1403.845	speaker#11	male	native	这一般情况下都住哪儿？	7	79	372	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1403.845	1406.860	speaker#10	male	native	有时候在桥底下住，嗯。	7	80	373	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1406.860	1408.860	speaker#11	male	native	大部分都是桥底下？	7	81	374	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1408.860	1409.454	speaker#10	male	native	对。	7	82	375	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1410.079	1412.954	speaker#3		native	通过和这对父子的交谈，记者得知，	7	83	377	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1412.954	1415.141	speaker#3		native	他们也去过北京的某个救助站，	7	83	378	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1415.141	1417.156	speaker#3		native	不过并不是主动去的。	7	83	379	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1417.156	1421.312	speaker#3		native	另外，他们在救助站的遭遇也令人感到吃惊。	7	83	380	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1422.452	1424.327	speaker#8	female	native	为什么不去找救助站呢？	7	84	382	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1424.327	1427.374	speaker#8	female	native	他们有专门就是可以提供帮助的地方。	7	84	383	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1427.936	1428.405	speaker#10	male	native	不行。	7	85	385	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1429.827	1433.639	speaker#10	male	native	我们上一次来在这儿干了，干了几天儿，	7	85	387	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1433.639	1435.116	speaker#10	male	native	叫他胡琴给我们毁了，	7	85	388	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1436.373	1438.709	speaker#10	male	native	呃，他们还，还打人。	7	85	390	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1439.937	1440.639	speaker#10	male	native	对。	7	85	392	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1442.873	1447.295	speaker#10	male	native	他说，你们老是在这儿他说，我们轰你们都不走，	7	85	394	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1447.295	1451.013	speaker#10	male	native	他就把胡琴抓着给你坏了，给你毁了，他给你。	7	85	395	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1451.982	1458.450	speaker#11	male	native	你们来了之后是就是想挣点钱呢，还是呃知道有救助站然后不想去呢？	7	86	397	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1459.216	1462.466	speaker#10	male	native	不知道，不知道我们在这儿干活，	7	87	399	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1462.466	1465.559	speaker#10	male	native	干这个拉胡琴时候他叫我们去过几回。	7	87	400	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1466.106	1468.966	speaker#10	male	native	去过两回他都把胡琴都毁了。	7	87	402	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1470.387	1472.591	speaker#11	male	native	啊，就是救助站的人让你们去？	7	88	404	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1472.591	1473.341	speaker#10	male	native	嗯。	7	89	405	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1473.341	1476.684	speaker#10	male	native	他们硬抬，他们硬拉，硬拽。	7	89	406	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1477.605	1479.121	speaker#11	male	native	去了待了多长时间？	7	90	408	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1479.902	1481.058	speaker#10	male	native	十来天儿。	7	91	410	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1482.152	1483.683	speaker#11	male	native	那怎么又出来了呢？	7	92	412	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1483.683	1485.871	speaker#10	male	native	他叫，叫接出来的。	7	93	413	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1486.730	1487.824	speaker#11	male	native	让谁接啊？	7	94	415	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1487.824	1489.027	speaker#10	male	native	家里头接。	7	95	416	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1489.589	1491.839	speaker#11	male	native	啊，给你们家里打电话？	7	96	418	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1491.839	1492.294	speaker#10	male	native	对，	7	97	419	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1493.589	1494.808	speaker#10	male	native	都是家里头接。	7	97	421	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1495.496	1497.512	speaker#8	female	native	给钱吗？回去的路费。	7	98	423	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1497.512	1498.039	speaker#10	male	native	不给，	7	99	424	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1499.606	1500.387	speaker#10	male	native	不给钱。	7	99	426	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1501.996	1503.292	speaker#8	female	native	那让你们怎么走啊？	7	100	428	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1505.245	1507.151	speaker#10	male	native	一接出门他就不问你了嘛。	7	101	430	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1509.135	1512.494	speaker#11	male	native	那你们在那里边他们就是管你们吃住是吗？	7	102	432	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1512.494	1514.119	speaker#10	male	native	对，管吃住。	7	103	433	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1516.494	1519.415	speaker#11	male	native	那自己走还不行，必须得家里人来接？	7	104	435	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1519.415	1522.523	speaker#10	male	native	有的，有的自己走，有的是家里来接。	7	105	436	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1522.523	1523.398	speaker#11	male	native	噢。	7	106	437	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1527.023	1530.961	speaker#11	male	native	那有，有没有碰到就是侵害你们权益的事儿？	7	106	439	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1531.633	1532.367	speaker#10	male	native	没有。	7	107	441	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1532.367	1533.148	speaker#11	male	native	没有哈？	7	108	442	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1533.148	1533.617	speaker#10	male	native	嗯。	7	109	443	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1533.617	1538.039	speaker#10	male	native	除了他救助站，你要是不听他的话，他就打，他就踹你。	7	109	444	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1663.764	1666.467	speaker#3		native	从收容遣送到救助管理，	9	111	446	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1666.467	1668.920	speaker#3		native	表面上看是一个名称的变化，	9	111	447	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1668.920	1673.061	speaker#3		native	背后却牵动着社会各个相关部门的神经。	9	111	448	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1673.061	1677.748	speaker#3		native	虽然对于流浪人口新的救助管理办法已经颁布了两年之久，	9	111	449	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1677.748	1680.857	speaker#3		native	担任民政工作十余年之久的陈晓忠表示，	9	111	450	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1680.857	1685.607	speaker#3		native	他们的救助管理站的工作至今其实仍处于探索阶段。	9	111	451	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1687.248	1691.701	Chen_xiaozhong	male	native	这个从整个流浪乞讨人员的救助哇，它其实它	9	112	453	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1691.701	1696.810	Chen_xiaozhong	male	native	涉及到几个部门，涉及到公安，涉及到卫生，涉及到民政，等等，	9	112	454	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1696.810	1697.826	Chen_xiaozhong	male	native	涉及到市容。	9	112	455	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1697.826	1699.029	Chen_xiaozhong	male	native	它涉及到几个部门，	9	112	456	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1699.029	1705.295	Chen_xiaozhong	male	native	其实这个工作呢就是说呃每一个环节它都有每一个部门的这种支持。	9	112	457	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1705.295	1709.186	Chen_xiaozhong	male	native	你比如说这个在，在街头发现流浪乞讨人员的时候，	9	112	458	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1709.186	1712.530	Chen_xiaozhong	male	native	这个他如果要到救助站去求助，	9	112	459	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1712.530	1715.295	Chen_xiaozhong	male	native	那么他首先可能说不定找到是公安部门，	9	112	460	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1715.295	1723.633	Chen_xiaozhong	male	native	公安部门就是说呃要，要必须就是说按照这个职责要送，送那个求助者到救助站接受救助。	9	112	461	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1724.382	1729.701	Chen_xiaozhong	male	native	也有可能就是说，这个你救助站这个在路边呃发生这个流浪乞讨人员以后，	9	112	463	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1729.701	1732.561	Chen_xiaozhong	male	native	这个救助人员是，呃是正在生病，	9	112	464	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1732.561	1737.235	Chen_xiaozhong	male	native	那么它是涉及到这个先，先医治再求助的这个问题，	9	112	465	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1737.235	1740.329	Chen_xiaozhong	male	native	就是说它这个救涉及到几个部门的这个配合。	9	112	466	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1741.454	1743.923	speaker#3		native	据中央电视台今日说法栏目的报道，	9	113	468	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1743.923	1748.329	speaker#3		native	二零零六年五月在湖南长沙市芙蓉区就发生了这样一件事。	9	113	469	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1748.329	1751.751	speaker#3		native	一名流浪汉深夜死在了救助站的门口。	9	113	470	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1751.751	1756.236	speaker#3		native	在这之前他被一辆救护车和派出所的民警送到救助站，	9	113	471	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1756.236	1757.657	speaker#3		native	当时他还活着。	9	113	472	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1757.657	1765.141	speaker#3		native	然而，就是在公安，医疗，民政，三个部门的眼皮底下他终于没能走进救助站一步。	9	113	473	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1765.141	1771.125	speaker#12	male	native	发现他就没动了，手哇脚就白了，发现白他死了啦。	9	114	474	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1772.156	1774.187	speaker#12	male	native	送了以后，他，他这里不接受，	9	114	476	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1774.995	1778.140	speaker#12	male	native	他就不知道他打个电话以后就把他放在这里了。	9	114	478	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1780.780	1787.140	speaker#13	male	native	我们把他送到救助站，救助站当时他，他们有一个人吧他们就看了以后，	9	115	480	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1787.140	1790.187	speaker#13	male	native	看了以后他说这个属于危重病人，我们不接收。	9	115	481	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1790.187	1792.187	speaker#3		native	就这样，在救助站的门口，	9	116	482	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1792.187	1795.593	speaker#3		native	派出所干警和救助站管理人员发生了分歧，	9	116	483	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1795.593	1799.405	speaker#3		native	随后当地幺二零急救车在幺幺零的指挥下赶到。	9	116	484	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1799.405	1802.046	speaker#3		native	不过，情况并没有因此好转。	9	116	485	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1803.405	1811.077	speaker#14	male	native	因为这个人根据我们所掌握的情况是，由这个公安把他送过去，	9	117	487	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1811.077	1815.613	speaker#14	male	native	那么我们觉得这个人的事情呢我们要公安继续地参与。	9	117	488	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1816.207	1819.035	speaker#15	male	native	那，咱们是你跟公安打电话联系了吗？	9	118	490	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1819.035	1823.285	speaker#14	male	native	这个我们就依靠他，因为他是他向公安求救的话，	9	119	491	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1823.285	1825.504	speaker#14	male	native	那么我们就依靠了那个救助站。	9	119	492	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1827.160	1829.425	speaker#15	male	native	那么这个等于咱们就这等着？	9	120	494	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1829.425	1830.159	speaker#14	male	native	嗯。	9	121	495	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1830.159	1832.284	speaker#3		native	时间一分一秒的过去，	9	122	496	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1832.284	1834.612	speaker#3		native	无名流浪汉的生命也在减弱。	9	122	497	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1834.612	1838.471	speaker#3		native	幺二零急救车经过一个小时的等待以后也离去了。	9	122	498	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1839.252	1844.486	speaker#15	male	native	那么走之前咱们有没有给这个人直接进行一些交代或者处理应该交代的事，	9	123	500	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1844.486	1846.971	speaker#15	male	native	应该让谁来接管一下？	9	123	501	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1846.971	1852.206	speaker#15	male	native	谁来，就是起码说，就是谁来对这个人来负一下责，因为毕竟咱们已经到现场了。	9	123	502	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1854.175	1857.144	speaker#15	male	native	呃，因为我们当时是这么想的，	9	124	504	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1857.144	1860.722	speaker#15	male	native	就是说这样的人呃因为现在有其它的任务，	9	124	505	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1860.722	1862.206	speaker#15	male	native	那么我们暂时离开了这里。	9	124	506	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1862.206	1865.591	speaker#15	male	native	那么下一步如果说有什么情况的话，再联系。	9	124	507	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1866.223	1868.738	speaker#3		native	幺二零急救中心耐心等待着，	9	125	509	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1868.738	1872.628	speaker#3		native	但之后再也没有露面的派出所，也有自己的说法。	9	125	510	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1872.628	1877.754	speaker#15	male	native	呃，我，我认为那，那，那，那你送，送你救助站来了，	9	126	511	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1877.754	1884.363	speaker#15	male	native	那就在你，你，你，你救助了，救助嘛一个是救助嘛一个是帮助嘛。	9	126	512	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1884.363	1889.238	speaker#15	male	native	哎，我们所以说这个(())。	9	126	513	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1889.238	1896.144	speaker#3		native	在这一事件中，民政，公安，医疗三个部门都认为自己严格遵照了各自的制度办事，	9	127	514	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1896.144	1899.394	speaker#3		native	然而谁也没有真正救了这个流浪汉。	9	127	515	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1900.019	1902.441	speaker#3		native	关于对流浪汉的救助管理办法，	9	127	517	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1902.441	1905.566	speaker#3		native	虽然我国目前已经形成了较为完善的体制，	9	127	518	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1905.566	1910.629	speaker#3		native	但在实际操作中工作人员仍然会面临很多实际问题。	9	127	519	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1912.801	1915.270	speaker#16	male	native	这就是我们这个救助站的办公室呃，	9	128	521	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1915.270	1918.973	speaker#16	male	native	这边是救助人员呃救助的地方。	9	128	522	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1924.950	1926.341	speaker#16	male	native	你是什么地方的？	9	128	524	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1926.341	1927.138	speaker#17	female	native	呃，	9	129	525	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1928.325	1929.769	speaker#16	male	native	什么时候过来的？	9	130	527	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1930.727	1931.857	speaker#16	male	native	从包头啊？	9	130	529	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1931.857	1935.372	speaker#16	male	native	他是去年零五年，零五年十月份进来的，	9	130	530	report	
+PHOENIX_SOCWATCH_CMN_20070111_225801	0	1935.372	1939.140	speaker#16	male	native	像这种呢，这种我们一般他都，我们都不清楚的。	9	130	531	report	

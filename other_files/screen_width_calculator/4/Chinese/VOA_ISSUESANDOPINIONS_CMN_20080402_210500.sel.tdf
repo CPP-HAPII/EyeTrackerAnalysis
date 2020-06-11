@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 240.809, 421.95999999999998, 558.62300000000005, 569.21600000000001, 641.423, 1065.192, 1106.922, 2955.8679999999999, 2996.5700000000002, 3015.6660000000002, 3197.174, 3208.1860000000001, 3224.8270000000002, 3416.5210000000002, 9999999.0]
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	1268.022	1292.130	speaker#12	male	native	为什么,因为我觉得达赖喇嘛呃他说 (()) 的时候他不反对奥运会,实际上前-前不久的中国也发生嗯那些暴乱事件,还有在呃国外发-发生那些游行示威,游行-游行示威的事件,我觉得从另外一个层面嗯	7	26	88	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	1521.012	1531.695	Cai_Jia	male	native	因为是三月十号使得西藏分成了两个西藏,一个是 (()) 流亡的,但是是自由的西藏,一个是在中国的统治之下的没有自由的西藏	7	28	114	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	1734.963	1743.161	Jiang_Tian	male	native	可是如果呃达赖喇嘛就是百年之后, (()) 之后呢,那个时候就很难说了	7	28	131	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	1791.739	1808.611	speaker#14	male	native	那么另外呢就是达赖以前 (()) ,这个我-我听了多次看了多次这个,多个人来关注这个问题,就是对 (()) 的支持绝对的支持是否就是这个是在西方意义上的普选制,还是简单的农隶制还是农奴制的回归	7	29	142	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	1926.230	1950.898	speaker#16	male	native	您好,呃我请问下那个美国那个呃众议院议长那个佩罗西,他讲和平是为, (()) 占领美国那个什么叫和平,怎么样才-才叫和平示威	7	31	156	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	1977.120	1986.478	speaker#16	male	native	如果说你-你们就算你们独立以后,如果这种事情 (()) 行不行	7	31	160	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	1986.478	2005.264	speaker#16	male	native	还有美国如果,如果是发生这种烧商店了之后,呃在-在 (()) 的时候烧商店,呃用刀砍那个过路的行人,不知道美国是坐山观虎斗还是说,还-还是说那个采取行动啊,给他关起来还是怎么亲	7	31	162	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	2600.275	2619.773	speaker#18	male	native	呃主持人好,我今天我谈这个三幺四我看了画面就是完全都是原本画面,一点技术含量都没有减辑啊,那就说我听公安部就发言人发言说,在西藏一些-一些寺庙里这个查出一些枪枝弹药,呃枪枝都好这个-这个炸药 (())	7	33	216	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	2663.954	2685.162	speaker#19	male	native	那个 (()) 叫藏民停止这个呃暴动,再一个就是中国政府也并不想跟真正跟达赖喇嘛谈判,那他达赖喇嘛谈回来以后,呃必然要出动西藏,西藏地区他们现在呃,呃现在的 (()) 集团的一些呃利益吧	7	34	222	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	2685.162	2697.102	speaker#19	male	native	再一个我想问一下嘉宾就是,达赖喇嘛到底在藏民心目当中现在到底是占-占什么地位,到底嗯没有多大的影响力,好谢谢了	7	34	224	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	2819.708	2836.259	speaker#22	male	native	呃我表明一下我的观点,我虽然是一个反共的人士,但是我是反对西藏独立的,独立的,如果你说 (()) 事件没有境外,呃这藏人在背后策划串联这是不可能的	7	38	236	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	2849.786	2859.241	speaker#22	male	native	呃 (()) 西藏跟中国大陆的关系呢我看过这历史书,都是跟祖国的关系,从来西藏没有真正独立过	7	38	240	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080402_210500	0	3287.512	3301.847	speaker#25	male	native	二零零一年时,布什总统向俄罗斯 (()) 充分合作,联合开发新的导弹防御能力,这是个诚恳的提议,很遗憾俄罗斯方面没有接受	13	57	274	report	statement

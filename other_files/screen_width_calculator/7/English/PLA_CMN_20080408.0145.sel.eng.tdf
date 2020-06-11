@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080408.0145	0	900.0	1000.0	speaker	unknown	unknown	It turns out that each unit has different "pictures" about sports and cultural equipment, resulting in a company that lacks a table tennis table to bring back a bunch of basketballs, and that lacks television to bring back a VCD, and so on.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 207.04900000000001, 253.90199999999999, 284.64299999999997, 385.38, 930.61400000000003, 977.37400000000002, 1452.463, 1499.3040000000001, 1545.087, 1880.0039999999999, 9999999.0]
+CCTVNEWS_PEOPLEINNEWS_CMN_20080422_202701	0	1545.087	1576.993	speaker#4	male	native	This is of course a very important issue. I think the key to solving this issue is held precisely in the hands of our media. They should disseminate more facts to the people, and most importantly, should not draw the people into a media information war.	9	29	104	filler	statement

@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117669-10714525	0	200.0	300.0	speaker	unknown	unknown	[1;32m 背景及房规: [m踢门团。	0	0	0		
+cmn-NG-31-117669-10714525	0	300.0	400.0	speaker	unknown	unknown	4d6骰点或32购点。	0	0	0		
+cmn-NG-31-117669-10714525	0	500.0	600.0	speaker	unknown	unknown	故事背景:两河帝国与落日帝国间的和平终于结束了。	0	0	0		
+cmn-NG-31-117669-10714525	0	700.0	800.0	speaker	unknown	unknown	它也是PC们作为士兵宣誓效忠的祖国。	0	0	0		
+cmn-NG-31-117669-10714525	0	800.0	900.0	speaker	unknown	unknown	被选中的勇者可以扭转家国破亡的命运么 ？	0	0	0		

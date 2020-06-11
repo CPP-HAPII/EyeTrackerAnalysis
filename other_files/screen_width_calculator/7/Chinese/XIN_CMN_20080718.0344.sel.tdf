@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080718.0344	0	200.0	300.0	speaker	unknown	unknown	原海基会副董事长兼秘书长焦仁和先生率领台湾同心京剧研究社同仁一行１６人受到福建有关方面热烈欢迎，闽台百余位京剧票友同台联欢。	0	0	0		
+XIN_CMN_20080718.0344	0	800.0	900.0	speaker	unknown	unknown	在为期３天的时间里，闽台京剧票友将进行清唱、彩唱交流，参观福州长乐市戏剧梅花奖艺术团基地，举行折子戏专场演出等。	0	0	0		

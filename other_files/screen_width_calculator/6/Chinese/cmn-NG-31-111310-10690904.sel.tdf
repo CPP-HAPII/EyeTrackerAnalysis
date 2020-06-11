@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-111310-10690904	0	600.0	700.0	speaker	unknown	unknown	中文介绍：欢迎光临我们公司!	0	0	0		
+cmn-NG-31-111310-10690904	0	1000.0	1100.0	speaker	unknown	unknown	本公司本着互惠互利的原则和宗旨热烈欢迎中国大陆各界各地区商家和个人前来和我们洽谈业务和各种形式的经济合作。	0	0	0		
+cmn-NG-31-111310-10690904	0	1400.0	1500.0	speaker	unknown	unknown	cn/相信自己,给自己一次创业机会!	0	0	0		
+cmn-NG-31-111310-10690904	0	1500.0	1600.0	speaker	unknown	unknown	我不反对上班,但反对一辈子上班!	0	0	0		
+cmn-NG-31-111310-10690904	0	1600.0	1700.0	speaker	unknown	unknown	我不反对奋斗,但反对一辈子奋斗!	0	0	0		
+cmn-NG-31-111310-10690904	0	1700.0	1800.0	speaker	unknown	unknown	我不反对重新来过,但反对一辈子重新来过!	0	0	0		
+cmn-NG-31-111310-10690904	0	1900.0	2000.0	speaker	unknown	unknown	当别人在骂人,我开始怀疑;当别人在怀疑,我开始行动;当别人在行动,我开始赚钱;当别人在赚钱,我的钱开始疯长!	0	0	0		
+cmn-NG-31-111310-10690904	0	2200.0	2300.0	speaker	unknown	unknown	有心创业但是缺少机会的人就加我吧，18周岁一下勿扰，谢谢	0	0	0		

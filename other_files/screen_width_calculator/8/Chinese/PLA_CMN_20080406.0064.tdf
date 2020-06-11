@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080406.0064.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	圣彼得堡站火炬接力传递结束	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-06 06:24:38   来源：解放军报第4版	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	900.000	950.000	TEXT1	unknown	unkown	茹罗娃在冬宫旁的海军部完成与第79棒火炬手、中国驻圣彼得堡总领事田二龙的圣火交接，并快步向广场中心跑来，人群中响起了欢呼和掌声。	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	随后，广场上开始举行盛大的庆祝仪式和演出。	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	圣彼得堡是北京奥运火炬境外传递的第三站，此前火炬在哈萨克斯坦的阿拉木图和土耳其的伊斯坦布尔成功传递，5日下午火炬将启程离开圣彼得堡，前往英国伦敦，6日火炬将在那里开始第四站的传递。	0	0	0		statement

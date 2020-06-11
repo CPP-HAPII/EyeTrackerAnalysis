@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	海地总统下令降低粮价 国会通过谴责总理	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社太子港十二日电	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	海地总统浦雷华今天宣布一项降低粮食价格的计划。	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	1000.000	1100.000	TEXT1	unknown	unkown	另一方面国会也一致通过谴责总理亚历克西。	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	1100.000	1300.000	TEXT1	unknown	unkown	粮食价格高涨引起抗议活动,并且造成多人丧生。	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	今天稍早,浦雷华曾表示,他支持让亚历克西下台。	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	1600.000	1900.000	TEXT1	unknown	unkown	他说:「如果国会开除总理,我将会遵照宪法的规定,与两位国会领袖磋商,以提名一位新总理,因为没有一个政党在国会拥有多数席位。」	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	十六位参议员先前已经要求政府辞职。	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	浦雷华总统并且在记者会上宣布,他已采取行动降低米价。	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	2500.000	2550.000	TEXT1	unknown	unkown	他说,每包米将降价八美元。	0	0	0		statement
+AFP_CMN_20080413.0005.sgm	0	2550.000	2800.000	TEXT1	unknown	unkown	他说:「由于国际社会捐款三百万美元援助,政府已经同意这项行动。 」	0	0	0		statement

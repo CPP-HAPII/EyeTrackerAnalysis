@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	一名埃及少年死于禽流感 累计21人死亡	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社开罗五日电	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	埃及卫生部表示,一名少年今天死于禽流感H5N1病毒,成为埃及二零零六年首度发现这种致命病毒以来,第二十一名不幸死于H5N1病毒的病例。	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	卫生部官员萨耶德告诉官方的「中东新闻社」,来自尼罗河三角洲省份贝海拉的十九岁少年伊布拉欣在医院病世。	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	萨耶德表示:「这名少年出现高烧与呼吸急促的现象,于三日送进地中海城市亚力山卓一所医院」,「他曾经接触遭感染的禽类」。	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	伊布拉欣是埃及第四十八个人类感染禽流感的通报病例。	0	0	0		statement

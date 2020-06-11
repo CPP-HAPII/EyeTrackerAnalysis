@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0006.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	内地开发商资金链趋紧 楼市打折促销现象普遍	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18日 20:48 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新社北京四月十八日电((记者 阮煜琳))全球最大的商业地产服务公司世邦魏理仕最新发布的一份报告说，受国家信贷紧缩政策及去年房地产市场调控政策的影响，目前内地许多开发商资金链紧张。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	由于房价高涨，成交量低迷，一些开发商不得不选择打折降价的策略，以缓解资金紧张的局面。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	今年一季度，北京高档公寓市场报价自二00七年以来第一次环比下降，平均报价较上季度下降百分之三点四，达到每平方米二点九二万元人民币。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	但购房者的观望局面没有很大改观。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	三月份，北京住宅销售市场成交情况有所改善，但同比去年还是处在一个较低水平。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	世邦魏理仕说，由于北京市场购房者的观望气氛持续，再加上很多国内开发商在香港或大陆A股证券市场的IPO或者发债计划搁置，使得很多国内开发商的现金流十分紧张。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	面对从紧的货币政策和复杂的经济形势，发展商必须加快房屋的销售速度，以维持企业必需的现金流。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	因此，市场上打折促销的现象非常普遍。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	世邦魏理仕表示，面对股市及房市的同时降温，很多开发商不得不采用合作或者出让股权的形式去应对难关，部分房地产开发企业面对生存的风险，房地产企业的收购及兼并活动不断加强。	0	0	0		statement
+CNS_CMN_20080418.0006.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	由于开发商资金链紧张，目前许多开发商扩张的速度明显减慢，拿地也更加谨慎。((完))	0	0	0		statement

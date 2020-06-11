@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0037.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Conflict Between Burmese People in Japan and Japanese Police - Several People Sent to Hospital	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008 09:24 Source: Chinanews.com - Comment	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Chinanews.com, April 27th - On the 26th, the Burmese embassy in Japan held an overseas vote for a new constitutional referendum. Burmese people in Japan attended.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	Outside the embassy, a conflict broke out between about 200 special police and Burmese people that were demanding democracy be put into practice. The scene once fell into disorder.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	According to a report from Kyodo News, about 150 Burmese people went to the front of the embassy to vote but were not allowed to enter and were forced to wait on the road outside the gate for several hours.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	According to the police, a few people were sent to the hospital because they were uncomfortable.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	By eight in the morning that day there were already many Burmese people gathered in front of the embassy's front gate.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	The police asked them to leave on the grounds of obstructing traffic and attempted to forcibly disperse the crowd, then an intense conflict broke out between the two sides.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	During the conflict some Burmese people were pushed to the ground by police and others fainted from being frightened.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	After the Burmese people were forced to move to a nearby park, they shouted, "Give peace back to Burma, give us a fair chance," and "Why do the Japanese police support Burma's military government?" The chaos continued for a few hours.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	The leader of the protest said some of the Burmese people received overseas voting passes, but the people affiliated with the democratization movement didn't receive passes.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	He said: "We have passports that can prove we are Burmese citizens.	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	2175.000	2200.000	TEXT1	unknown	unkown	We have the same right to vote."(End)	0	0	0		statement

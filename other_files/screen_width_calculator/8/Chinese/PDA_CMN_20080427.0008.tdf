@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0008.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	调查显示印度人基因高度分化	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	印度科技部日前公布的一项印度人基因组测序报告显示，印度人的基因形形色色，在印度各民族之间，存在高度的基因分化现象。	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	这一研究由印度１５０多位科学家和研究人员进行长期研究后完成，研究对象囊括了印度境内南亚语系、藏缅语系、印欧语系、达罗毗荼语系４个主要语系的印度人。	0	0	0		statement
+PDA_CMN_20080427.0008.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	研究还表明，虽然印度人基因分化程度很高，但印度人普遍缺失一种抵抗人类艾滋病病毒ＨＩＶ－１的基因标记，这可能使印度人感染艾滋病病毒的风险偏高。（李保东）	0	0	0		statement

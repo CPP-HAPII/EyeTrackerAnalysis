@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0017.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	North Korea Refuses Joint Establishment of Offices, Criticizes Lee Myung-bak for "Putting on Act"	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	SEOUL, 26th (AFP)	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	North Korean state media have reported that North Korea rejected today South Korean President Lee Myung-bak's proposal that liaison offices be established in the two countries' capitals, claiming the proposal was a cheap, insincere trick aimed at "preventing reunification".	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	1400.000	1800.000	TEXT1	unknown	unkown	Rodong Sinmun, the official newspaper of North Korea's ruling Workers Party, said, "This is not some brand-new idea. Some presidents before Lee Myung-bak, in order to permanently split the Korean Peninsula, also made similar proposals, but all were 'thrown into the trashcan'."	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	1800.000	2200.000	TEXT1	unknown	unkown	The newspaper described Lee Myung-bak's proposal as "a superficial strategy to evade responsibility for straining relations between the two Koreas."	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	The newspaper said, "Lee Myung-bak must stop such cheap, insincere tricks and return to the spirit of June 15."	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	2500.000	2850.000	TEXT1	unknown	unkown	This refers to the June 15 North-South Declaration on Peace and Reconciliation.	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	2850.000	3025.000	TEXT1	unknown	unkown	In the 1990s, South Korea has also proposed setting up liaison offices in each other's capital in the past, but North Korea rejected the proposals.	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	3025.000	3200.000	TEXT1	unknown	unkown	The two sides have liaison offices in the Panmunjom Truce Village.	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	3400.000	3700.000	TEXT1	unknown	unkown	Following ten years of the "Sunshine Policy" on exchanges pursued by two Liberal Party South Korean presidents, Lee Myung-bak of the Conservative Party has taken a more hard-line stance since he took office on February 25. This has angered North Korea.	0	0	0		statement
+AFP_CMN_20080427.0017.sgm	0	3900.000	4100.000	TEXT1	unknown	unkown	North Korea has suspended all dialogue with South Korea, and has called Lee Myung-bak a "warmonger-like" traitor.	0	0	0		statement

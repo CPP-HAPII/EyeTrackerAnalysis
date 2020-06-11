@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080724.1596	0	200.0	300.0	speaker	unknown	unknown	In order to protect the residence permit system to be implemented next month, the "Management Ordinance for Temporary Staff Registered Residence in Shenzhen Special Economic Zone" will be abolished on August 1. Shenzhen will officially bid farewell to the temporary residence permits which have been used for 24 years (July 23, "The Beijing News").	0	0	0		
+CNS_CMN_20080724.1596	0	1400.0	1500.0	speaker	unknown	unknown	(Zhang Fuying)	0	0	0		

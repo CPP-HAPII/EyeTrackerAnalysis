@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0006.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	遏止禽流感疫情扩散　南韩扑杀近五百万家禽	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社首尔二十日电	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	南韩农业部今天宣布,自本月初爆发禽流感疫情后,为阻止病毒蔓延,当局已经扑杀近五百万只家禽。	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	农业部今天发表声明说,四月一日爆发首宗禽流感疫情后,病毒已蔓延到二十五处农场,总共有四百八十五万只鸡鸭被扑杀。	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	这二十五宗疫情都是H5型禽流感病毒肇祸,但农业部的声明并未说明有几宗是起于高致病性的H5N1病毒。	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	这种病毒株可能危害人类性命。	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	2400.000	2700.000	TEXT1	unknown	unkown	农业部主管禽流感疫情的官员说:「我们还没有确定H5N1病毒引发疫情的完整数目,首先要控制住疫情,然后才会发布相关资料。」	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	2900.000	3000.000	TEXT1	unknown	unkown	这位官员否认有关二十五宗疫情全部是H5N1病毒株肇祸的报导。	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	3000.000	3200.000	TEXT1	unknown	unkown	有官员私下证实,至少有七宗疫情是起于H5N1病毒株。	0	0	0		statement

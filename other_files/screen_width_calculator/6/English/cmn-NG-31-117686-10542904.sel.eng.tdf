@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117686-10542904	0	0.0	100.0	speaker	unknown	unknown	Playing Mahjong	0	0	0		
+cmn-NG-31-117686-10542904	0	100.0	200.0	speaker	unknown	unknown	Sender: wendyyjw (Xiao Qiang), Board: Joke Title: Play Mahjong message board: newsmth.net (Wed Mar 5 15:50:56 2008), local	0	0	0		
+cmn-NG-31-117686-10542904	0	200.0	300.0	speaker	unknown	unknown	One summer night, I was playing mahjong and the power suddenly went off. I had no choice but to buy a candle to continue the battle.	0	0	0		
+cmn-NG-31-117686-10542904	0	600.0	700.0	speaker	unknown	unknown	* Source: newsmth.net http://newsmth.net·[FROM: 194.138.202.	0	0	0		

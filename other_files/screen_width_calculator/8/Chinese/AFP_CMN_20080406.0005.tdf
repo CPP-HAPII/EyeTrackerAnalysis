@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	南韩再爆疑似禽流感疫情　已扑杀28万鸡鸭	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社首尔六日电	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	南韩官员今天说,当局正在调查不到一周内爆发的第三起疑似禽流感疫情。	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	1000.000	1200.000	TEXT1	unknown	unkown	为阻止病毒蔓延,政府已经扑杀了二十八万只鸡鸭。	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	南韩西南部饲养家禽的农场上周两度爆发禽流感疫情后,当局即展开扑杀行动,但今天又宣布对另一处地点实施隔离防疫措施。	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	南韩官员昨天证实,井邑市附近一个养鸭场发生第二起禽流感疫情,当地在首尔西南约两百五十公里。	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	这个养鸭场饲有约一万两千只鸭,其中约半数于过去一周暴毙,促使当局开始执行扑杀工作。	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	全罗北道负责处理禽流感疫情的官员金苍松((音译))接受访问时说:「官员昨晚在井邑市这家养鸭场扑杀并掩埋了其余的六千一百四十只鸭子。」	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	金苍松说:「在爆发今年第一起疫情的金提市,他们也在一处养鸡场完成了扑杀并掩埋二十七万零六百一十四只鸡的工作。」	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	井邑市与金提市相隔二十七公里,两地相继爆发疫情令人担忧禽流感可能蔓延至全罗北道其他地区。	0	0	0		statement
+AFP_CMN_20080406.0005.sgm	0	3600.000	3800.000	TEXT1	unknown	unkown	全罗北道是南韩家禽养殖业的重镇。	0	0	0		statement

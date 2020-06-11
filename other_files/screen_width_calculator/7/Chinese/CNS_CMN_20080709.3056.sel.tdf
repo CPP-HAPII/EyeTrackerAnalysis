@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.3056	0	200.0	300.0	speaker	unknown	unknown	中新网7月9日电 “绵阳灾区重建薯业产业座谈会”日前在北京举行，农业产业化国家重点龙头企业四川“光友薯业”董事长邹光友表示，要把重建灾区薯业产业纳入企业发展的战略规划之中，在灾区大力发展薯业产业，在已带动全国薯区60多万农民脱贫致富的基础上，未来5年再新增10万灾区农户脱贫致富，帮助他们创造大灾之后的新生活。	0	0	0		
+CNS_CMN_20080709.3056	0	800.0	900.0	speaker	unknown	unknown	光友薯业董事长邹光友说，地震重灾区的北川、安县、平武、江油都是适合马铃薯生长的山区，光友薯业正好可以把它作为一个未来的特色资源来开发，作为灾区重建的一个重点支柱项目来发展。	0	0	0		
+CNS_CMN_20080709.3056	0	900.0	1000.0	speaker	unknown	unknown	他提出，光友薯业未来的目标是“三个十”：五年之内实现年产值10亿元，建立优质原料基地10万亩，新增10万农户脱贫致富，未来的10年就变成“三个20”。	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.2736	0	500.0	600.0	speaker	unknown	unknown	而在报名登记表上，“发展意愿”中就有“党政干部”、“经营管理”和“其他”三项可供报名者选择。	0	0	0		
+CNS_CMN_20080725.2736	0	700.0	800.0	speaker	unknown	unknown	评选过程将进行电视转播	0	0	0		
+CNS_CMN_20080725.2736	0	900.0	1000.0	speaker	unknown	unknown	“面试答题”的评委由领导、专家和“两代表一委员”组成，面试情况将组织媒体进行报道，并允许群众旁听观摩；而在能力素质展示环节，评委则增加了社会知名人士和群众代表，并明确规定评委中领导所占比例不高于30%，本轮评选还将组织网络投票，评选过程全程电视转播。	0	0	0		

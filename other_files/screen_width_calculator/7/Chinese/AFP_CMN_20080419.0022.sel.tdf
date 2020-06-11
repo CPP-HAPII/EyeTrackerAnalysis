@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080419.0022	0	0.0	1000.0	speaker	unknown	unknown	哈玛斯攻击边界通行站 三巴人丧生12以军受伤	0	0	0		

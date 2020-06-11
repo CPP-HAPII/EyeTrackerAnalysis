@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080718.0026	0	300.0	400.0	speaker	unknown	unknown	药监局提示，标示为“运动员慎用”的含兴奋剂药品，从未禁止销售；含有兴奋剂物质的止咳糖浆等药品均可销售。	0	0	0		
+PDA_CMN_20080718.0026	0	400.0	500.0	speaker	unknown	unknown	药店在奥运期间不得擅自停售药品，要保证老百姓的用药方便和安全。	0	0	0		
+PDA_CMN_20080718.0026	0	600.0	700.0	speaker	unknown	unknown	cn） 自2008年4月起，食品药品监管部门会同公安、卫生、工商等八部门对兴奋剂生产、经营、使用和进出口环节进行了全面治理。	0	0	0		
+PDA_CMN_20080718.0026	0	800.0	900.0	speaker	unknown	unknown	一是严禁销售蛋白同化制剂、肽类激素，但胰岛素除外；二是药品中含兴奋剂目录所列禁用物质的，应当在包装标识或产品说明书上用中文注明“运动员慎用”；三是一些常见的复方制剂含兴奋剂物质，有的是处方药，有的是非处方药（OTC），需按现行处方药和非处方药分类管理制度执行。	0	0	0		
+PDA_CMN_20080718.0026	0	1100.0	1200.0	speaker	unknown	unknown	据介绍，兴奋剂共有7大类、216种，包括蛋白同化制剂（74种），肽类激素（7种），麻醉药品（11种），刺激剂（59种），药品类易制毒化品（2种），医疗用毒性药品（1种），其他（62种）。	0	0	0		

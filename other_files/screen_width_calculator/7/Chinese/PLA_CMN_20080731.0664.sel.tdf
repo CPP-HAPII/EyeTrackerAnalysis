@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080731.0664	0	300.0	400.0	speaker	unknown	unknown	这双钉鞋名为Ｚｏｏｍ Ａｅｒｏｆｌｙ ＬＸ，是耐克公司为刘翔专门设计研发的跨栏钉鞋。	0	0	0		
+PLA_CMN_20080731.0664	0	400.0	500.0	speaker	unknown	unknown	鞋面为鲜艳的黄色，鞋底是红色，每只鞋重２１４克。	0	0	0		
+PLA_CMN_20080731.0664	0	600.0	700.0	speaker	unknown	unknown	她介绍说，Ｚｏｏｍ Ａｅｒｏｆｌｙ ＬＸ钉鞋鞋面上采用了今年最新发布的Ｆｌｙｗｉｒｅ创新科技，并配以特殊合成皮材质制成，从而更轻质，同时也为刘翔的足部提供更好的支撑。	0	0	0		
+PLA_CMN_20080731.0664	0	800.0	900.0	speaker	unknown	unknown	在Ｆｌｙｗｉｒｅ纤维的基础上，Ｚｏｏｍ Ａｅｒｏｆｌｙ ＬＸ的鞋面继续保留了刘翔钉鞋成熟的搭扣和拉链设计。	0	0	0		
+PLA_CMN_20080731.0664	0	900.0	1000.0	speaker	unknown	unknown	另外应刘翔要求，为更多地保护他的右脚，设计师们在右鞋鞋面的后跟位置增加了发泡棉的厚度，更好地锁住脚踝。	0	0	0		
+PLA_CMN_20080731.0664	0	1000.0	1100.0	speaker	unknown	unknown	“Ｚｏｏｍ Ａｅｒｏｆｌｙ ＬＸ的鞋底完全针对刘翔的技术特点设计而成。	0	0	0		

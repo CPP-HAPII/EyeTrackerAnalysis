@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080719.0769	0	500.0	600.0	speaker	unknown	unknown	2006年2月至5月，董正清利用其主导广发证券借壳延边公路(000776.SZ)上市的机会，将这一内幕信息泄露给董德伟和赵书亚二人，使两人分别购入了1457万股和49万股延边公路流通股，抛出后分别非法获利5000余万元和100余万元。	0	0	0		
+CNS_CMN_20080719.0769	0	700.0	800.0	speaker	unknown	unknown	董正清称，广发证券最早于2006年1月萌发上市的意向，因公司历史和业绩存在“硬伤”不易实现IPO，因此2006年3月31日集体决策选择更为省时和简便易行的“借壳上市”，“找壳”等具体操作由该公司当时的常务副总裁(现代理总裁)李建勇、副总裁秦力和并购部总经理肖雪生负责。	0	0	0		
+CNS_CMN_20080719.0769	0	1400.0	1500.0	speaker	unknown	unknown	当听到借壳传闻后，他曾打电话给董正清想要求证，但电话没有打通，后来延边公路又发布了澄清公告，但他还是在2006年5月15日和18日购入了约43万股(而非指控的49万股)延边公路。	0	0	0		

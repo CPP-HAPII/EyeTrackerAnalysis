@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080706.0017	0	200.0	300.0	speaker	unknown	unknown	伊朗武装部队总参谋长菲鲁兹・阿巴迪5日在德黑兰接受媒体采访时威胁，假如伊朗在地区的利益被忽略，“德黑兰将不会允许别人使用霍尔木兹海峡”。	0	0	0		

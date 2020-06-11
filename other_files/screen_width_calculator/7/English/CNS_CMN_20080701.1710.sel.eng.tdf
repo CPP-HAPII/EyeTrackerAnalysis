@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1710	0	0.0	100.0	speaker	unknown	unknown	SSF Earned 100 Billion Speculating on Shares Last Year, Acclaimed as Most Successful Investor in the Industry	0	0	0		
+CNS_CMN_20080701.1710	0	400.0	500.0	speaker	unknown	unknown	As such the SSF was acclaimed by industry insiders as the "most successful" investor last year.	0	0	0		
+CNS_CMN_20080701.1710	0	1900.0	2000.0	speaker	unknown	unknown	According to the first quarterly report on listed companies, the SSF did not have major changes in terms of its position in the first quarter of this year, showing its investment style of keeping stable long-term capital.	0	0	0		

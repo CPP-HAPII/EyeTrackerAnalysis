@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1560	0	0.0	100.0	speaker	unknown	unknown	上半年沪深两市IPO融资总额同期下降四成	0	0	0		
+CNS_CMN_20080702.1560	0	400.0	500.0	speaker	unknown	unknown	二00八年上半年，沪深两市IPO融资总额比去年同期下降了百分之四十一。	0	0	0		
+CNS_CMN_20080702.1560	0	500.0	600.0	speaker	unknown	unknown	二00八上半年上海证券交易所完成四宗IPO，融资总额为六百六十八亿元人民币，较去年同期的十二宗IPO融资一千四百十一亿元人民币有所下滑。	0	0	0		
+CNS_CMN_20080702.1560	0	700.0	800.0	speaker	unknown	unknown	而深圳证券交易所新发股多为中小型公司，IPO数量由去年同期的三十八宗增长到五十四宗，融资额较去年同期增加百分之八十七，达到二百三十亿人民币。	0	0	0		
+CNS_CMN_20080702.1560	0	800.0	900.0	speaker	unknown	unknown	普华永道北京主管合伙人封和平先生表示：“除了股票市场波动和宏观调控影响以外，今年初的雪灾以及‘五·一二’大地震都对整体经济有一定冲击。	0	0	0		
+CNS_CMN_20080702.1560	0	900.0	1000.0	speaker	unknown	unknown	很多公司因为不缺资金，决定延期融资计划，等待市场回暖。”	0	0	0		
+CNS_CMN_20080702.1560	0	1000.0	1100.0	speaker	unknown	unknown	“对于下半年不明朗的资本市场环境，投资者对于大型IPO活动将会更谨慎。	0	0	0		
+CNS_CMN_20080702.1560	0	1100.0	1200.0	speaker	unknown	unknown	然而，对于中小型企业IPO，由于国内资金充裕，下半年的融资活动将仍然活跃。”普华永道中国区主管合伙人林怡仲说。	0	0	0		

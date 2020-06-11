@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080715.0025	0	0.0	100.0	speaker	unknown	unknown	民进党台北党部要求陈水扁"重出江湖拔剑再战"	0	0	0		

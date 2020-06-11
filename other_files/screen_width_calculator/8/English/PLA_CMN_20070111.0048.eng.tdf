@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070111.0048	0	10010.000	10019.900				Zhou Xiaochuan: China to Ensure Smooth Opening of the ADB Annual Meeting in Shanghai	0	0	0		
+PLA_CMN_20070111.0048	0	20010.000	20019.900				(Source: Xinhua News Agency Report, Time of Release: 2007-01-11 11:19)	0	0	0		
+PLA_CMN_20070111.0048	0	30010.000	30019.900				Xinhua News Agency, Tunis, January 10 (Correspondent Liu Shun) Zhou Xiaochuan, governor of the People's Bank of China, said on the 10th at the temporary headquarters of the African Development Bank (ADB) in Tunis that the 42nd ADB board of governors annual meeting will be held in Shanghai, China, in May, as implementing an important follow-up activity of last November's Beijing Summit of the Forum on China-Africa Cooperation. China will do everything it can to ensure the smooth running of this ADB annual meeting.	0	0	0		
+PLA_CMN_20070111.0048	0	40010.000	40019.900				On this day Zhou Xiaochuan held a meeting with ADB President Donald Kaberuka and made a speech at the ADB board of governors meeting.	0	0	0		
+PLA_CMN_20070111.0048	0	40020.000	40029.900				He outlined China's experience of reform and opening-up and economic development, discussed China and Africa's complementary economies and the importance of making use of each other's experience. He elaborated on the prospects for economic and trade cooperation between China and Africa, and explained our country's positions on economic, trade and financial cooperation between China and Africa.	0	0	0		
+PLA_CMN_20070111.0048	0	40030.000	40039.900				At the same time, he also reported on the preparations for this ADB annual meeting.	0	0	0		
+PLA_CMN_20070111.0048	0	50010.000	50019.900				Kaberuka said that he was looking forward eagerly to the forthcoming ADB annual meeting in Shanghai and that he hoped to further promote China-Africa cooperation on all fronts through this annual meeting.	0	0	0		
+PLA_CMN_20070111.0048	0	60010.000	60019.900				The 42nd ADB board of governors annual meeting is scheduled to be held in Shanghai from May 16-17 this year.	0	0	0		
+PLA_CMN_20070111.0048	0	60020.000	60029.900				At that time the 77 member countries of the ADB and international financial organizations such as the World Bank and the International Monetary Fund will send high-level delegations to attend the meeting.	0	0	0		
+PLA_CMN_20070111.0048	0	60030.000	60039.900				This ADB annual meeting will be the second annual meeting in ADB's history to be held in a country outside Africa.	0	0	0		
+PLA_CMN_20070111.0048	0	60040.000	60049.900				(End)	0	0	0		

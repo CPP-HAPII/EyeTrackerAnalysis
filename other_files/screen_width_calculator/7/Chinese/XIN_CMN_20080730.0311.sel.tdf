@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080730.0311	0	300.0	400.0	speaker	unknown	unknown	国际足联为了梅西等球星是否能参加北京奥运会一事而特别挑选的独立法官斯里姆·阿鲁鲁３０日作出判决，所有俱乐部均有义务放队中的２３岁以下的球员参加２００８年北京奥运会。	0	0	0		
+XIN_CMN_20080730.0311	0	400.0	500.0	speaker	unknown	unknown	这个判决意味着理论上西甲巴塞罗那俱乐部、德甲不来梅俱乐部必须放队中的明星球员梅西和迭戈去北京参加奥运会足球赛。	0	0	0		
+XIN_CMN_20080730.0311	0	1000.0	1100.0	speaker	unknown	unknown	国际足联新闻官佩卡·奥德里奥佐拉当天在接受阿根廷媒体采访时说，在以前几届奥运会上关于２３岁以下球员参赛一直没有问题，在本届奥运会上却成了一件麻烦事。	0	0	0		

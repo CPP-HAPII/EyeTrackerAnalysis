@@ -1,0 +1,21 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080306.0254.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	自主创新是永恒的主题 受访专家于天忱委员（中国钢铁协会副会长、本钢集团董事长）	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	本报记者肖国忠 特约记者刘大宏 2008-03-06	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	记者：作为冶金行业唯一连任第十届、第十一届全国政协委员的您怎么看待委员的使命和责任？	0	0	0		question
+GMW_CMN_20080306.0254.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	于天忱：我深感肩负的参政议政使命很神圣、代表广大职工群众利益责任也很重大。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	我认为，政协委员身份是一种使命、一份责任――对国家、对人民的责任。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	记者：作为全国政协委员，您近年来主要关注哪些关系国 计民生的问题？	0	0	0		question
+GMW_CMN_20080306.0254.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	于天忱：2004年，面对日益凸显的铁矿石资源供需矛盾，我先后深入到铁矿石高产地区、国有大型铁矿山进行实地考察、调研。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	我发现，由于地方保护主义的作祟和法制监管不力，一些地方企业盲目滥开、私营企业无照滥采现象屡禁不止，这严重干扰了国有铁矿山的正常生产，也造成了铁矿石资源的严重流失。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	1875.000	1887.500	TEXT1	unknown	unkown	为彻底解决这个问题，我从强化矿产资源法制管理、制定扶植国有矿山发展政策等6个方面，向中央政府提交了《关于科学开采、合理保护矿产资源的政策建议》的提案。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	1887.500	1900.000	TEXT1	unknown	unkown	提案引起了国务院领导高度重视，国家发改委、国土资源部、财政部等部门结合我提出的16项建议，专门制定出一系列政策法规，为解决国有铁矿石供应短缺的“老大难”问题开辟了新途径。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	2005年下半年，我在走访使用本钢“双高”产品的80多家重点企业时，发现我国一些企业特别是国有特大型企业的自主创新能力严重不足。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	于是，我就以“把企业建成技术创新主体”为重点课题，在深入到重点行业、重点企业进行专题调研、政策研讨后，最终形成了涉及“完善政策环境、加大资金投入、促进成果转化”等3个方面13项建议的《关于把企业建设成技术创新主体的有关政策建议》的提案。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	2175.000	2200.000	TEXT1	unknown	unkown	这份真实反映国民经济发展急需解决的重要问题的提案引起了国务院有关部门的极大关注，也成为当年两会的重点提案。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	2007年3月5日，我在参加分组审议温家宝总理政府工作报告讨论会上，结合我了解的石油化工、交通运输、装备制造等企业退休职工“基本养老金”待遇问题，提出了科学调整退休职工“基本养老金”的方案。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	讨论会结束后，我便以成立专门机构或临时办公机构科学解决退休职工待遇偏低问题为内容，撰写出《关于提高退休职工“基本养老金”待遇》提案并提交全国政协，提案立刻引起来自企业界委员的共鸣。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	记者：在本次两会上，您打算提交什么提案呢？	0	0	0		question
+GMW_CMN_20080306.0254.sgm	0	3000.000	3050.000	TEXT1	unknown	unkown	于天忱：参加了党的十七大后，我认真总结了近年来钢铁业科技创新的情况，深感企业特别是特大型国有企业是经济建设的骨干和支柱，全面推进科技创新是企业的永恒主题，又是事关经济社会又好又快和可持续发展的重大课题；企业实现科技创新需要企业的不懈努力，更需要中央和地方政府从“加速服务职能建设、不断完善政策规定、加快科技成果转化”等方面给予积极支持和扶植。	0	0	0		statement
+GMW_CMN_20080306.0254.sgm	0	3050.000	3100.000	TEXT1	unknown	unkown	因此，我准备提交“不断完善政策、转变政府职能、加快科技成果转化”方面的提案，以期引起大家的重视和关注。	0	0	0		statement

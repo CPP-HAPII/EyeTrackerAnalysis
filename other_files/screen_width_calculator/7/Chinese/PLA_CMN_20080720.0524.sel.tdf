@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080720.0524	0	200.0	300.0	speaker	unknown	unknown	新华社北京７月２０日奥运专电 题：没有金牌的奥运会	0	0	0		
+PLA_CMN_20080720.0524	0	700.0	800.0	speaker	unknown	unknown	宙斯的手上托着一个地球，球上立着希腊胜利女神，图注为希腊语“奥林匹亚”。	0	0	0		
+PLA_CMN_20080720.0524	0	800.0	900.0	speaker	unknown	unknown	奖牌背面为雅典卫城遗址，印有希腊文“１８９６年雅典国际奥林匹克运动会”字样。	0	0	0		
+PLA_CMN_20080720.0524	0	1900.0	2000.0	speaker	unknown	unknown	这届奥运会在美国圣路易斯举行，会上首次为前三名的选手颁发金、银、铜奖牌。	0	0	0		
+PLA_CMN_20080720.0524	0	2000.0	2100.0	speaker	unknown	unknown	金牌榜前三名分别是美国（４０枚）、古巴（５枚）和德国（４枚）。	0	0	0		

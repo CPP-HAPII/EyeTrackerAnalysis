@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070103.0332	0	10010.000	10019.900				Global Aviation Oil Prices Fall; Fuel Surcharge Fees for China-Japan Routes Reduced	0	0	0		
+CNS_CMN_20070103.0332	0	20010.000	20019.900				January 3, 2007, 21:25	0	0	0		
+CNS_CMN_20070103.0332	0	30010.000	30019.900				Chinanews.com, January 3 - According to a Xinhua Net report, Shanghai Airlines recently announced on its official website that due to a decrease in global aviation oil prices, it has decided to reduce the fuel surcharge fees for its Japan-bound routes.	0	0	0		
+CNS_CMN_20070103.0332	0	30020.000	30029.900				According to our information, China Eastern Airlines, Japan Airlines, All Nippon Airways, and so on have, since New Year's Day, also reduced their fuel surcharge fees for their China-Japan routes.	0	0	0		
+CNS_CMN_20070103.0332	0	40010.000	40019.900				The new fuel surcharge fees for the Japan routes of Shanghai Airlines apply to all Japan route tickets sold on January 1 this year and in future. If the place of departure is Japan, the fuel surcharge fees for each leg amount to 25 US dollars, and if the place of departure is China, the fuel surcharge fee for each leg is 36 US dollars.	0	0	0		
+CNS_CMN_20070103.0332	0	50010.000	50019.900				China Eastern Airlines also reduced its fuel surcharge fees starting from the 1st.	0	0	0		
+CNS_CMN_20070103.0332	0	50020.000	50029.900				Earlier in November last year, Japan's Japan Airlines and All Nippon Airways had also announced that they would reduce fuel surcharge fees starting from January 1 this year.	0	0	0		
+CNS_CMN_20070103.0332	0	60010.000	60019.900				According to our information, since the second half of last year, global fuel prices have been gradually declining. Some airlines have fulfilled their earlier promises and reduced their fuel surcharge fees.	0	0	0		

@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Spain Urgently Orders Complete Withdrawal from the Shelf of Contaminated Sunflower Oil from Ukraine	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	AFP on the 26th, Madrid	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Spain's food safety agency said today that after a batch of sunflower oil imported from Ukraine was found to be contaminated with hydrocarbons, the food safety agency has ordered all sunflower oil in Spain	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	to be taken off the shelf and be prohibited from sale.	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	A spokesperson for the food safety agency told AFP that all sunflower oil has been taken off the shelf and will be prohibited from sale "until we know which brands of products have been contaminated." The result will probably be unveiled on the 28th.	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	The food safety agency issued a health warning after a batch of sunflower oil imported from Ukraine was found to contain aliphatic hydrocarbons.	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	However, Spain's Health Minister Soria said today the concentrations of hydrocarbons in the sunflower oil were "extremely low and present no significant toxic risk."	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	The food safety agency said that France notified Spanish authorities upon the arrival of this batch of sunflower oil in France.	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	The spokesperson pointed out that the food safety agency is trying to track the whereabouts of all of 125 tonnes of contaminated sunflower oil.	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	3600.000	3800.000	TEXT1	unknown	unkown	The food safety agency warns consumers "not to use sunflower oil for the sake of precaution" even if the risk is not high.	0	0	0		statement

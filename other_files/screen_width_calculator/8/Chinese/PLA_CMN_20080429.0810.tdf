@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0810.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	首批广州亚运会吉祥物特许商品面市	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 20:55:38   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社广州４月２９日奥运专电（记者贾文军）广州亚运会吉祥物“乐羊羊”２８日晚诞生，首批亚运会吉祥物特许商品也同步面市。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	首批上市的吉祥物特许商品包括５大类：贵金属制品、毛绒玩具、徽章及非贵金属制品、服装和箱包，共１００多款。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	广大市民可在广州的亚运特许专卖点及珠江三角洲地区的临时销售点购买到此类商品。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	同时，广州亚运会首批贵金属纪念品“乐羊羊”纯金、纯银纪念章产品也隆重推出。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	该系列产品由６款产品组成，包括１公斤纯金纪念章、１公斤纯银纪念章、５枚纯金套装、５枚纯银套装、２枚金银套装、１盎司银章。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	其中１公斤纯金纪念章仅发行１００枚，１公斤纯银纪念章仅发行２０１０枚。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	广州亚组委２９日还在官方网站发布了《广州２０１０年亚运会第二批特许生产商征集公告》。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	本次征集类别共１０大类，征集类别为工艺品、玩具（非毛绒）、服装服饰、珠宝玉石、贵金属、文具、日用品、邮品、文体、卡类。	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	预计征选１６至１８家企业成为亚运会特许生产商。（完）	0	0	0		statement
+PLA_CMN_20080429.0810.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	2008/04/29 20:05	0	0	0		statement

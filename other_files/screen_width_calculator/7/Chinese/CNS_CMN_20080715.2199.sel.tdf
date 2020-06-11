@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2199	0	0.0	100.0	speaker	unknown	unknown	伊拉克武装分子作战技巧提高 土造"飞雷"袭美军	0	0	0		
+CNS_CMN_20080715.2199	0	300.0	400.0	speaker	unknown	unknown	仿佛是在对这位新司令表示“热烈欢迎”，伊拉克武装分子的战术也推陈出新，一种绰号“飞雷”的新式土造武器正日益成为驻伊美军的大敌。	0	0	0		
+CNS_CMN_20080715.2199	0	500.0	600.0	speaker	unknown	unknown	由于同白宫意见不合，原美军中央司令部司令法伦上将今年3月突然辞职，五角大楼随即提名现任驻伊美军司令戴维·彼得雷乌斯入主中央司令部。	0	0	0		
+CNS_CMN_20080715.2199	0	800.0	900.0	speaker	unknown	unknown	依照惯例，他也将因此成为美军中的又一位四星上将。	0	0	0		
+CNS_CMN_20080715.2199	0	2000.0	2100.0	speaker	unknown	unknown	驻巴格达指挥官哈蒙德少将在报道中指出，被暂时定名为“简易火箭助推炸药”(IRAMs)的该爆炸装置，实际上是由填充数百磅炸药的民用液化气罐与107毫米火箭弹临时组装而成，并通过远距遥控从车辆上向目标发射。	0	0	0		
+CNS_CMN_20080715.2199	0	2100.0	2200.0	speaker	unknown	unknown	由于这些气罐在半空中的飞行轨迹极为显眼，美军士兵索性给了它一个“飞雷”(flying IEDs，直译为飞行自制爆炸装置)的外号。	0	0	0		
+CNS_CMN_20080715.2199	0	2200.0	2300.0	speaker	unknown	unknown	同武装分子此前常用的路边炸弹相比，“飞雷”的射程更远也更难防范。	0	0	0		

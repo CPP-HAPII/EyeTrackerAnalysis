@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070127.0008	0	10010.000	10019.900				成都军区3900多名老干部喜迁新居	0	0	0		
+PLA_CMN_20070127.0008	0	20010.000	20019.900				(( 来源： 解放军报第1版 发布时间： 2007-01-27 06:45 ))	0	0	0		
+PLA_CMN_20070127.0008	0	30010.000	30019.900				本报讯 特约通讯员刘道国报道：日前，位于成都市清水河畔的“解甲园”退休干部住宅小区张灯结彩，喜气洋洋，一批老干部高高兴兴地乔迁新居。	0	0	0		
+PLA_CMN_20070127.0008	0	30020.000	30029.900				至此，成都军区已有3900多名老干部住上了宽敞、明亮、舒适的新房，在全军率先实现了移交地方退休干部“房等人”的目标。	0	0	0		
+PLA_CMN_20070127.0008	0	30030.000	30039.900				成都军区制定了《军区离退休干部住房建设发展规划》，克服资金紧缺等困难，先后启动成都“解甲园”等5个统建项目、14个售房区改造项目，落实房源3000多套。	0	0	0		

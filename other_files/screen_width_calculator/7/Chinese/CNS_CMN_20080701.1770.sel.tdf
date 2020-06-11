@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1770	0	0.0	100.0	speaker	unknown	unknown	2008欧锦赛综述：技术足球再称王 经济幕后唱戏	0	0	0		
+CNS_CMN_20080701.1770	0	1300.0	1400.0	speaker	unknown	unknown	谁也不会想到，首战1比4大败，貌不惊人的俄罗斯队居然能在后来让全世界的“橙色球迷”一夜之间心碎；而总是扮演“陪太子读书”角色的土耳其队，当他们每次在最后时刻上演逆转好戏，不知让全世界的心脏病发病率上升了百分之几。	0	0	0		
+CNS_CMN_20080701.1770	0	1700.0	1800.0	speaker	unknown	unknown	如今欧足联正面临为电视转播索价8亿欧元付出代价———包括央视在内的全世界多家电视台已对这次“意外”提出索赔。	0	0	0		
+CNS_CMN_20080701.1770	0	2000.0	2100.0	speaker	unknown	unknown	欧足联早在欧锦赛开幕之前就开始鼓吹“欧锦赛是世界第二大赛事”，暂且不论这是不是属于“王婆卖瓜”，但欧锦赛能带来可观经济效益却是事实。	0	0	0		
+CNS_CMN_20080701.1770	0	2300.0	2400.0	speaker	unknown	unknown	尽管两支东道主球队过早被淘汰直接影响了两国球迷的消费欲望，以砸钱和疯狂著称的英格兰球迷缺席也造成一定影响，但本届欧锦赛大盈利是板上钉钉的事实，随之而来的正面影响更不可估计。	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10512500	0	300.0	400.0	speaker	unknown	unknown	在这个世界上，自古以来，就没有那个国家和民族对分裂祖国的分子客气过。	0	0	0		
+cmn-NG-31-117651-10512500	0	500.0	600.0	speaker	unknown	unknown	即是对他们毫不留情地坚决镇压了，难道有错么？	0	0	0		
+cmn-NG-31-117651-10512500	0	600.0	700.0	speaker	unknown	unknown	在这个事件上，有几个纸老虎想找借口咬人，有几只苍蝇欲追臭，大可不理它们。	0	0	0		
+cmn-NG-31-117651-10512500	0	900.0	1000.0	speaker	unknown	unknown	至于说这个事件会牵扯到北京奥运会的如期进行，这实在是庸人自扰罢了，难道会有这样的事情发生么？	0	0	0		

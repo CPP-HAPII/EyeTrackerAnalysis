@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070102.0027	0	10010.000	10019.900				Malaysia Deploys First Batch of Peacekeeping Troops to Lebanon	0	0	0		
+PLA_CMN_20070102.0027	0	20010.000	20019.900				(Source: Dispatch time: January 2, 2007 21:42)	0	0	0		
+PLA_CMN_20070102.0027	0	30010.000	30019.900				Xinhua News Agency, Kuala Lumpur, January 2 (Reporter Chen Lihua) The first batch of peacekeeping advance troops that Malaysia sent to Lebanon left Kuala Lumpur for Lebanon on the 2nd.	0	0	0		
+PLA_CMN_20070102.0027	0	30020.000	30029.900				They will join the United Nations interim troops in Lebanon to perform peacekeeping mission.	0	0	0		
+PLA_CMN_20070102.0027	0	40010.000	40019.900				On that morning, the 100-people advance troops formed by the navy, army, and the air force took a plane from the Kuala Lumpur International Airport to Beirut.	0	0	0		
+PLA_CMN_20070102.0027	0	40020.000	40029.900				The remaining 260 people of the first batch of peacekeeping troops will leave for Lebanon on the 15th.	0	0	0		
+PLA_CMN_20070102.0027	0	50010.000	50019.900				Malaysian Deputy Defense Minister Abidin told the media during the send-off of the advance troops at the Royal Malaysian Air Force Base that the Malaysian peacekeepers will station at the headquarters of the United Nations interim troops in Lebanon.	0	0	0		
+PLA_CMN_20070102.0027	0	50020.000	50029.900				According to the initial plan, they will perform six months of peacekeeping duties. Then, they will be replaced by the second batch of peacekeepers.	0	0	0		
+PLA_CMN_20070102.0027	0	60010.000	60019.900				Last September, the United Nations officially approved Malaysia to send 360 peacekeepers to take part in United Nations' peacekeeping operations in Lebanon.	0	0	0		
+PLA_CMN_20070102.0027	0	60020.000	60029.900				Malaysia planned to dispatch 1,000 peacekeepers to Lebanon before.	0	0	0		
+PLA_CMN_20070102.0027	0	70010.000	70019.900				Based on Resolution 1,701 that the UN Security Council passed last August in regards to the Lebanon-Israel clashes, the United Nations will form a peacekeeping force of fifteen thousand soldiers who will cooperate with equal number of Lebanon government forces to station in Southern Lebanon to monitor and uphold the ceasefire.	0	0	0		
+PLA_CMN_20070102.0027	0	70020.000	70029.900				(The end)	0	0	0		

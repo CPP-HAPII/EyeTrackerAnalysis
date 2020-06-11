@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080724.0124	0	500.0	600.0	speaker	unknown	unknown	据星岛日报报道，卡拉季奇被捕的消息传开后，激进组织“Obraz”约二百名成员在贝尔格莱德市中心街头聚集，向塔迪奇的政府提出抗议。	0	0	0		

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10848631	0	300.0	400.0	speaker	unknown	unknown	销售管理如同射击比赛*	0	0	0		
+cmn-NG-31-117685-10848631	0	500.0	600.0	speaker	unknown	unknown	*找到我的"10**环"*	0	0	0		
+cmn-NG-31-117685-10848631	0	800.0	900.0	speaker	unknown	unknown	这是销售人员比较渴求的，利用CRM（客户关系管理）工具快速的找到这些客户，对销售人员而言无疑是福音。	0	0	0		
+cmn-NG-31-117685-10848631	0	1200.0	1300.0	speaker	unknown	unknown	热点客户管理"成为CRM里面的一个必备功能。	0	0	0		
+cmn-NG-31-117685-10848631	0	1300.0	1400.0	speaker	unknown	unknown	北京讯鸟公司是一家优秀的呼叫中心提供商，公司的总经理吴总对其应用的月租CRM"热点客户功能"十分推崇，它让吴总能够对近期的"热点客户"跟踪情况了如指掌 。	0	0	0		
+cmn-NG-31-117685-10848631	0	1400.0	1500.0	speaker	unknown	unknown	热点客户罗列在CRM工作台的最醒目位置，并且每个热点客户还可以在鼠标移上时显示热点说明，比如："8月10日左右签单"，"可能追加订单"，"8月2日之前支付2期62500元"等。	0	0	0		
+cmn-NG-31-117685-10848631	0	1800.0	1900.0	speaker	unknown	unknown	*优化每一次"射击"*	0	0	0		
+cmn-NG-31-117685-10848631	0	1900.0	2000.0	speaker	unknown	unknown	奥运冠军郭文珺在夺金过程中，第一枪10环进入状态，第二枪10.5环，第八枪10.7环，第九枪更是打出10.8环的好成绩，很明显，郭文珺在不断优化自己的状态，不断提高自己的成绩。	0	0	0		
+cmn-NG-31-117685-10848631	0	2400.0	2500.0	speaker	unknown	unknown	现任中国射击队主教练的王义夫说："射击是一个不确定性很强的项目，偶然性不仅存在，而且还很大，想在奥运会这样的大赛中取得好成绩，除了过硬的技术，临场稳定 发挥和适当运气必不可少。"	0	0	0		

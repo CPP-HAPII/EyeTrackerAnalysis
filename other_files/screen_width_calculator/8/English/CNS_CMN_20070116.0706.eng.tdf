@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070116.0706	0	10010.000	10019.900				Lu Ningjun Misses "Closing" Time of Dakar Rally, But Luckily Was Able to Continue the Competition	0	0	0		
+CNS_CMN_20070116.0706	0	20010.000	20019.900				January 16, 2007, 22:30	0	0	0		
+CNS_CMN_20070116.0706	0	30010.000	30019.900				Chinanews.com, Beijing, January 16 - Nema news: Lu Ningjun, the "Chinese King of Wheels," who is representing the Chinese Triangle Tire team for the fourth time in the Dakar Rally today, failed to make it to Nema, the finishing point for the ninth stage of the Dakar rally, before the "closing" time. But luckily he was able to obtain the right to continue participating in the competition.	0	0	0		
+CNS_CMN_20070116.0706	0	40010.000	40019.900				"The competition during the ninth stage was very tough. Only 61 vehicles completed the race within the specified time.	0	0	0		
+CNS_CMN_20070116.0706	0	40020.000	40029.900				Taking into account the unique situation, the organizing committee has finally allowed vehicles that had returned to the camp before the departure of the next race stage to continue in the competition.	0	0	0		
+CNS_CMN_20070116.0706	0	40030.000	40039.900				According to information from the frontline, Lu Ningjun has returned to the camp," said the Chinese Triangle Tire team news manager, An Ziming.	0	0	0		
+CNS_CMN_20070116.0706	0	50010.000	50019.900				He said that Lu Ningjun's crash during the third stage had affected him tremendously, and this has resulted in the subsequent difficulties of the race.	0	0	0		
+CNS_CMN_20070116.0706	0	50020.000	50029.900				"It is as if a BMW has been smashed and turned into a Santana. The power, performance, and so on of the car had suffered tremendous injury."	0	0	0		
+CNS_CMN_20070116.0706	0	60010.000	60019.900				Chinese racer Liu Bin, representing the Mitsubishi team, came in 38th in this competitive stage with a result of 7 hours, 43 minutes, and 35 seconds. His total ranking rose to 52nd.	0	0	0		
+CNS_CMN_20070116.0706	0	70010.000	70019.900				After the race, Liu Bin said, "The race went smoothly today.	0	0	0		
+CNS_CMN_20070116.0706	0	70020.000	70029.900				The car had relatively good maintenance yesterday, hence it was able to run a little faster today.	0	0	0		
+CNS_CMN_20070116.0706	0	70030.000	70039.900				Basically there were no big problems, except for one tire puncture."	0	0	0		
+CNS_CMN_20070116.0706	0	80010.000	80019.900				"It can be said that the real Dakar is the day after the rest day. The two competitive stages yesterday and today added up to more than 1,000 kilometers, and moreover, there was no maintenance and there were slightly relatively more deserts. This has made it more demanding for both the drivers and their vehicles.	0	0	0		
+CNS_CMN_20070116.0706	0	80020.000	80029.900				Along the way, I saw many cars, including the two Volkswagen cars in the lead, which had broken down on the road," Liu Bin said.	0	0	0		
+CNS_CMN_20070116.0706	0	90010.000	90019.900				Schlesser, the famous French driver from the Ford team, came in first in this stage with a result of 5 hours, 32 minutes, and 03 seconds. Defending champion Alphand emerged second with a difference of 13 seconds, and another famous French driver, Peterhansel, came in third.	0	0	0		
+CNS_CMN_20070116.0706	0	100010.000	100019.900				The racing car of De Villiers, a South African driver from the Volkswagen team, who was originally leading in the overall rankings, suddenly caught fire in the middle of the race, hence affecting his results significantly, and causing him to be replaced by Peterhansel.	0	0	0		

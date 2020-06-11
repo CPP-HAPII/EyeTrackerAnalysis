@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.0303	0	0.0	100.0	speaker	unknown	unknown	武汉首次为农民授高级职称 3农业专家通过初审	0	0	0		
+CNS_CMN_20080730.0303	0	400.0	500.0	speaker	unknown	unknown	由武汉市农科院杨翔院长和14位农业专家组成的评委团,将破格对全市一批有理想、有抱负、懂科技、善管理、带领农民共同致富的领军人才评审高级专业技术职称。	0	0	0		
+CNS_CMN_20080730.0303	0	600.0	700.0	speaker	unknown	unknown	7月18日,经过3位农业专家初审,"芦笋大王"赵发刚、"水产大王"任正直、"养鸡大户"程华英顺利通过初审。	0	0	0		
+CNS_CMN_20080730.0303	0	900.0	1000.0	speaker	unknown	unknown	程华英——从提篮卖到坐拥千万	0	0	0		
+CNS_CMN_20080730.0303	0	1200.0	1300.0	speaker	unknown	unknown	程华英今年45岁,现经营一家年产值1100多万元的生态农业公司,曾获"武汉十杰创业女性"。	0	0	0		
+CNS_CMN_20080730.0303	0	1500.0	1600.0	speaker	unknown	unknown	1997年,她已身拥百万,被邻里戏称为"富婆"。	0	0	0		
+CNS_CMN_20080730.0303	0	1800.0	1900.0	speaker	unknown	unknown	程华英说服家人,到黄陂六指街大咀村承租200余亩地,种西瓜、果树。	0	0	0		
+CNS_CMN_20080730.0303	0	1900.0	2000.0	speaker	unknown	unknown	2004年,程华英注册成立"武汉市英才生态农业发展有限公司",租用荒地发展肉鸡规模化生产。	0	0	0		
+CNS_CMN_20080730.0303	0	2600.0	2700.0	speaker	unknown	unknown	任正直带着准妻子到广州等沿海城市转转,发现"做水产生意的都是当地的大老板",这一趟实地考察让准妻子改变了主意,支持他养鱼。	0	0	0		

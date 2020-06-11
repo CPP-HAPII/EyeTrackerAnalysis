@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080729.0419	0	300.0	400.0	speaker	unknown	unknown	自上周五梅切尔股票暴跌后，周一再次陷入低迷，而且公司可能面临最高达到年产值15%的罚款。	0	0	0		
+CNS_CMN_20080729.0419	0	500.0	600.0	speaker	unknown	unknown	经过我们核实，该公司以1100卢布的价格向自己位于瑞士的离岸公司出售原料，而国内的价格为4100卢布，也就是说较之国内价格便宜了大约3倍。	0	0	0		
+CNS_CMN_20080729.0419	0	900.0	1000.0	speaker	unknown	unknown	俄罗斯股市RTS对纽约股票市场开盘后的下跌反映明显--莫斯科时间18时，梅切尔公司在俄罗斯股市的跌幅已达29.49%。	0	0	0		

@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0976	0	0.0	100.0	speaker	unknown	unknown	浙江发台风警报启动Ⅲ级应急响应命令应对"海鸥"	0	0	0		
+CNS_CMN_20080717.0976	0	200.0	300.0	speaker	unknown	unknown	中新网7月17日电 据浙江气象局网站消息，第7号强热带风暴“海鸥”今天08时已加强为台风。	0	0	0		
+CNS_CMN_20080717.0976	0	300.0	400.0	speaker	unknown	unknown	针对台风“海鸥”对浙江省沿海海面和沿海地区可能会造成影响，浙江气象局17日发布台风警报。	0	0	0		
+CNS_CMN_20080717.0976	0	600.0	700.0	speaker	unknown	unknown	目前台风“海鸥”以每小时20公里左右速度向西北方向移动，逐渐向台湾东部沿海靠近，将对浙江省造成较严重影响。	0	0	0		
+CNS_CMN_20080717.0976	0	700.0	800.0	speaker	unknown	unknown	目前，浙江气象部门正密切监视台风动向，做好防御台风“海鸥”的气象服务保障工作。	0	0	0		

@@ -1,0 +1,25 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080305.0043.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	连云港“雷锋车”事迹感动京城	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	本报记者付小悦 李可 2008-03-05	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	900.000	950.000	TEXT1	unknown	unkown	在一张“雷锋车”车手面带微笑地服务的大幅照片前,特地从北五环赶来的北京市民李素贞伫立良久,忍不住摘下眼镜擦了擦眼角的泪花。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	950.000	975.000	TEXT1	unknown	unkown	“‘雷锋车’事迹的照片勾起了我的许多回忆,连云港为全国树立了一个榜样,经济上去了,精神文明也得跟得上。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	雷锋精神就是这样,在平凡的工作中孕育博大的情怀!”	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	3月4日,在毛泽东 同志“向雷锋同志学习”题词发表45周年之际,江苏省连云港市委市政府在中国人民革命军事博物馆举办的“文明的旗帜――连云港‘雷锋车’事迹图片展”,感动了京城人民。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	“雷锋车”的名字诞生于1963年,故事的主人公是江苏连云港市新浦汽车总站长途服务组的姐妹们。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	她们在尽心尽责做好本职工作之余,不避风雨,不畏寒暑,一年365天,每天两次拉着“雷锋车”,义务为来自天南海北需要帮助的旅客们服务,一拉就是45年。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	车子换了9辆,拉车人换了8茬,车型由人力车、三轮车发展到现在的电动旅游观光车,行程7万多公里,相当于绕地球两周,而“宁让自己千般苦、不让旅客一时难”的“雷锋车”精神始终不变。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	随展览进京的几代“雷锋车”车手成了展厅里的焦点。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	站在自己44年前与姐妹们的合影前,66岁的第一代车手李保英老人被观众簇拥着,讲起了当年的故事:“1963年,毛主席发出‘向雷锋同志学习’的号召,我们发现旅客在汽车站与火车站之间转车很不方便,就拿着小扁担和绳子,去火车站接送旅客并免费运送行李。”	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1875.000	1887.500	TEXT1	unknown	unkown	第二代“雷锋车”车手徐梅曾当选为第七届全国人大代表,指着图片上的铁板车,她陷入了深深的回忆:“那个时候自己一个年轻姑娘拉着铁板车,从来也不觉得苦,觉得能像雷锋一样为人民服务心里暖洋洋的。”	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1887.500	1893.750	TEXT1	unknown	unkown	在一幅老“雷锋车”车手临终把女儿托付给雷锋车组的照片前,肖彦的眼圈红了。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1893.750	1896.875	TEXT1	unknown	unkown	肖彦就是那位被托付的姑娘,后来成了第三代“雷锋车”车手。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	1896.875	1900.000	TEXT1	unknown	unkown	“走好妈妈的路,做雷锋那样的人,把‘雷锋车’精神一代代传递下去!”她说。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	“这次来北京展览,是想集中展示一下‘雷锋车’这一全国精神文明先进典型的产生、成长和升华历程,集中展示一下连云港市通过加强精神文明建设提升市民素质,推进科学发展、率先发展、跨越发展、和谐发展的生动实践。”	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	连云港市委书记王建华介绍。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	的确,精神是相通的。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	2450.000	2475.000	TEXT1	unknown	unkown	“学‘雷锋车’精神,与‘雷锋车’同行”的活动在连云港正进行得如火如荼,“雷锋车”事迹已成为连云港城市文明的亮丽品牌,如今,又感动了京城。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	2475.000	2487.500	TEXT1	unknown	unkown	从密云赶来的杜振中仔细地看着,都误过了午饭:“普通百姓或许不能做什么惊天动地的大事,但学雷锋,就是要从身边小事做起。	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	2487.500	2493.750	TEXT1	unknown	unkown	我过两天要带孩子再来看看!”	0	0	0		statement
+GMW_CMN_20080305.0043.sgm	0	2493.750	2500.000	TEXT1	unknown	unkown	“学习雷锋好榜样,忠于革命忠于党!……”在展厅,两岁的秦嘉泽跟着奶奶哼了起来,引起了很多人的轻轻唱和。((本报北京3月4日电))	0	0	0		statement

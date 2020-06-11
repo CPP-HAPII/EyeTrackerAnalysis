@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-17-125130-10726668	0	300.0	400.0	speaker	unknown	unknown	又到了清明，让我们有了一个思念的理由，今天老爸打电话来说老哥回来了，打算明天去嘉善扫墓。	0	0	0		

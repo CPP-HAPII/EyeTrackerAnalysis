@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	French People's Number of Vacation Days Tops Major European and American Countries Eight Years in a Row	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	The newest research project from market research organization Harris Interactive shows that French people get an average of 37 days of vacation per year, the highest of other major European and American countries for 8 years in a row.	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The agency carried out an online survey of eight European and American countries in March of this year. The eight countries were France, Spain, Germany, Italy, Britain, the Netherlands, Austria and the U.S.	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	The survey's main content was the number of vacation days in a year for each country, not including weekend and holiday vacations.	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	The survey results show French people get an average of 37 vacation days per year, the highest of the other major European and American countries for eight years in a row.	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	Italians and Spaniards took 2nd and 3rd place with 33 days and 31 days, respectively.	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	Americans get an average of 14 vacation days per year, which is the lowest of the surveyed countries.	0	0	0		statement
+PDA_CMN_20080418.0015.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	In addition, most French people take their vacation within France and go abroad relatively less. Only 17% of their total number of vacation days is spent abroad. However, this proportion reached 64% for the Germans.	0	0	0		statement

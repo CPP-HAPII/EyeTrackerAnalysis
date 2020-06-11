@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080728.0020	0	300.0	400.0	speaker	unknown	unknown	来自澳大利亚的唐纳德·詹姆斯今年７３岁，却在击剑馆里健步如飞，每天工作近十个小时。	0	0	0		
+XIN_CMN_20080728.0020	0	1700.0	1800.0	speaker	unknown	unknown	“志愿者们都很热情，但他们要明白最热情的服务不见得是最得体的服务。	0	0	0		
+XIN_CMN_20080728.0020	0	2200.0	2300.0	speaker	unknown	unknown	这都是他的经验之谈，而不是纸上谈兵，”刘知海说。	0	0	0		
+XIN_CMN_20080728.0020	0	2800.0	2900.0	speaker	unknown	unknown	我总是对他们说有时间就眯一会儿眼睛，或者去Ｋ歌吧！”	0	0	0		

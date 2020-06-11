@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10512022	0	700.0	800.0	speaker	unknown	unknown	在那画像上面，闪耀着科学社会主义必定在中国复兴的曙光！	0	0	0		
+cmn-NG-31-117651-10512022	0	800.0	900.0	speaker	unknown	unknown	你们，为了回击反华小丑的表演，为了维护中国人民的尊严，不辞辛苦，风尘仆仆，为了真理，为了正义，发出愤怒的呐喊！	0	0	0		
+cmn-NG-31-117651-10512022	0	1100.0	1200.0	speaker	unknown	unknown	我仿佛听到你们在高呼：打倒帝国主义！	0	0	0		
+cmn-NG-31-117651-10512022	0	1200.0	1300.0	speaker	unknown	unknown	打倒一切反动派！	0	0	0		
+cmn-NG-31-117651-10512022	0	1300.0	1400.0	speaker	unknown	unknown	伟大的中国人民万岁！	0	0	0		
+cmn-NG-31-117651-10512022	0	1400.0	1500.0	speaker	unknown	unknown	伟大的毛泽东思想万岁！	0	0	0		
+cmn-NG-31-117651-10512022	0	1500.0	1600.0	speaker	unknown	unknown	向你们学习！	0	0	0		
+cmn-NG-31-117651-10512022	0	1600.0	1700.0	speaker	unknown	unknown	向你们致敬！	0	0	0		
+cmn-NG-31-117651-10512022	0	1700.0	1800.0	speaker	unknown	unknown	人民为你们自豪！	0	0	0		
+cmn-NG-31-117651-10512022	0	1800.0	1900.0	speaker	unknown	unknown	人民为你们骄傲！	0	0	0		

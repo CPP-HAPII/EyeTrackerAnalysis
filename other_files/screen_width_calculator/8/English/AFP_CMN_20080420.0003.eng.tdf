@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Rise in Rice Prices Favors Farmers - Thai Prime Minister Calls on the People to be Patient	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Bangkok (AFP), 20th.	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Today, Thai Prime Minister Samak said that Thai people should be patient with rising rice prices, because the price of rice repeatedly reaching new highs is beneficial to poor farmers.	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	In his weekly speech to the whole country, Samak said: "If everybody can make some sacrifices, pay a bit more when buying rice - just a little more, not very much - this will be beneficial to farmers."	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	1900.000	2050.000	TEXT1	unknown	unkown	The Thai Rice Exporters Association's investigative report on rice prices pointed out that on April 9th, the export price of Thailand's fragrant rice was 956 US Dollars per metric ton, approximately 50% higher than a month ago.	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	2050.000	2300.000	TEXT1	unknown	unkown	Fragrant rice is Thailand's main rice strain.	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	After Vietnam and India, two important rice exporting countries, limited rice exports in order to ensure domestic supply, the international market's demand for Thai rice greatly increased.	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	3000.000	3200.000	TEXT1	unknown	unkown	Under the powerful pressure of export demands, the domestic price of rice in Thailand rose correspondingly.	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	3400.000	3550.000	TEXT1	unknown	unkown	Samak said that the government understands that the rise in food and fuel prices brings stress to ordinary Thai families. He guaranteed once more that the government will try to find a way to increase people's income.	0	0	0		statement
+AFP_CMN_20080420.0003.sgm	0	3550.000	3700.000	TEXT1	unknown	unkown	However, Samak didn't elaborate further on relevant details.	0	0	0		statement

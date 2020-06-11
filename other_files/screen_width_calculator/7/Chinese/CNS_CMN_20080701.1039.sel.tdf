@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1039	0	700.0	800.0	speaker	unknown	unknown	此次演习科目设置为：2008年6月30日，济南市公安机关接到通报：一伙恐怖分子在省体育馆安放爆炸装置，并劫持十余名人质。	0	0	0		
+CNS_CMN_20080701.1039	0	900.0	1000.0	speaker	unknown	unknown	期间，青岛、淄博、烟台、潍坊、济宁、泰安、威海7个市进行了力量拉动集结展示，共出动各类反恐应急力量8200余人、各种车辆1200余台(次)、装备4700余件。	0	0	0		

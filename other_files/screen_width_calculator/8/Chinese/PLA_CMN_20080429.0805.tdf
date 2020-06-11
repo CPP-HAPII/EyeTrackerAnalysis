@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0805.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	斯图尔特：库比卡令我印象深刻	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 21:00:14   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社华沙４月２９日奥运专电（记者张章）３届Ｆ１世界冠军斯图尔特日前表示，作为一名来自波兰的车手，宝马车队车手库比卡的表现让他感到震惊。	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	据波兰《日报》２９日报道，斯特尔特在接受采访时表示，库比卡让他感到震惊，一方面是他的成绩，另一方面是因为他来自赛车运动并不发达的波兰。	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	斯图尔特说：“据我所知，波兰从来没有出现过Ｆ１车手，而如今库比卡却成为了冠军的争夺者。”	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	斯图尔特说：“我曾经认为库比卡是最为优秀的Ｆ１年轻车手，当然尔后又出现了更为出色的汉密尔顿。”	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	但他表示，本赛季库比卡和宝马车队出色的表现让他无法形容。	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	斯图尔特表示，宝马车队能够成长为最好的车队，他并不感到意外，因为宝马是世界上最大的汽车生产商之一，硬件实力雄厚的他们还有着周密的战术安排。	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	他说，让他始料不及的是宝马车队进步的速度，能够在如此短的时间内跻身三甲车队实在是奇迹。	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	斯图尔特说，宝马车队无疑将成为法拉利车队夺冠路上的“拦路虎”，他们有朝一日会夺得世界冠军。	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	但他表示，本赛季的宝马车队还不够成熟，下赛季他们必将给法拉利车队制造很大麻烦。（完）	0	0	0		statement
+PLA_CMN_20080429.0805.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	2008/04/29 18:48	0	0	0		statement

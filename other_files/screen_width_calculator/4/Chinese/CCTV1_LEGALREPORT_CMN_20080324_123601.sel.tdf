@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 304.99700000000001, 590.70100000000002, 608.68899999999996, 838.22299999999996, 941.49900000000002, 1163.7570000000001, 1226.143, 1248.5899999999999, 1251.7560000000001, 1294.8820000000001, 1330.875, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080324_123601	0	365.563	372.204	Zhang_Li	female	native	说四~S店确保的信誉就应该说的四~S店比较信誉比较好,我就奔着这方面去的	1	5	6	report	statement
+CCTV1_LEGALREPORT_CMN_20080324_123601	0	1054.872	1061.662	speaker#10	male	native	(()) 法院从法律角度从中华人民共和国消费-消费者权益保护法 (())	5	43	53	report	statement
+CCTV1_LEGALREPORT_CMN_20080324_123601	0	1294.882	1323.696	speaker#1	male	native	那么从这个案件的背后您认为无论是给消费者也好还是给经销商也好,提供一些什么样的启示,对,所以呢这个案例确实应该给商家提个醒	10	56	72	filler	statement

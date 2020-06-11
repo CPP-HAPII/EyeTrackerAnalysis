@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0027.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Tsai Ying-wen Confirms her Candidacy for Party Chairman - Puts Forth Three Expectations for Democratic Progressive Party	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008.	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	900.000	1250.000	TEXT1	unknown	unkown	People.com, April 18th - A summary of Taiwanese news - Tsai Ying-wen confirmed she will also join the competition for Democratic Progressive Party chairman.	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	1250.000	1600.000	TEXT1	unknown	unkown	Today at 3 o'clock in the afternoon, Tsai Ying-wen went to the Democratic Progressive Party headquarters to register as a candidate. She put forth three expectations for the Democratic Progressive Party: modesty, efficiency, tolerance.	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	After Tsai Ying-wen finished the registration procedure, she said to the media that the Democratic Progressive Party should first return to modesty - be an opposition party with ruling experience. Secondly, the Democratic Progressive Party should turn theories into policies - it should have efficiency.	0	0	0		statement
+PDA_CMN_20080418.0027.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	Also, the Democratic Progressive Party should be more tolerant. It should be tolerant regardless of ethnicity and ideology.	0	0	0		statement

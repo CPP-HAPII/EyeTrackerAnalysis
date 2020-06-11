@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0002.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Oil-Consuming Countries Call for Increase in Production - OPEC Refuses	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Teheran (AFP), 6th.	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	OPEC Secretary General, Badri rejected the calls for an increase in output by oil-consuming countries. He said that non-fundamental factors are the primary cause of the current increase in oil prices.	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	1400.000	1500.000	TEXT1	unknown	unkown	Yesterday evening, Badri arrived in Iran for a three-day visit.	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	He said: "The current supply of oil in the market is ample. There is no need to change the output of OPEC."	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	1800.000	2000.000	TEXT1	unknown	unkown	According to Iran's state-run television station, he pointed out " the U.S.'s economic recession, lack of refining capacity and depreciation of the U.S. dollar" are the main causes of the record high oil prices.	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	2200.000	2500.000	TEXT1	unknown	unkown	On the weakness of the USD, tight energy supplies and more bad news about the U.S. economy, oil prices surpassed 106 USD per barrel on the New York Stock Exchange on the 4th of this month.	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	At a press conference held together with Iranian oil minister Nozari, Badri said: "The world's current oil reserves are enough for 53 days. This shows the market is not short of oil."	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	Last month, OPEC said OPEC's basket price of oil broke the 100-USD mark for the first time.	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3600.000	3700.000	TEXT1	unknown	unkown	However, Iran strongly supports not changing the current production limit.	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3700.000	3750.000	TEXT1	unknown	unkown	Iran is OPEC's second largest oil country ((pw)).	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3750.000	3975.000	TEXT1	unknown	unkown	Nozari said: "With the price of oil at 100 USD per barrel, OPEC's production won't be increased or decreased."	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3975.000	4300.000	TEXT1	unknown	unkown	Badri said: "Nobody can pressure OPEC because we make decisions based on our own interests."	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	4500.000	4700.000	TEXT1	unknown	unkown	Nozari also said that it would be "impossible" to hold a special meeting before the next OPEC meeting scheduled to be held in September.	0	0	0		statement

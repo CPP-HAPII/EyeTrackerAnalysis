@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.1206	0	0.0	100.0	speaker	unknown	unknown	奥运射击冠军杨凌“舞文弄墨” 看好杜丽夺首金	0	0	0		

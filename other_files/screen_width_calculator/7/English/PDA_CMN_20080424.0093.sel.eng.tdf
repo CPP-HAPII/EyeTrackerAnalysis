@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080424.0093	0	1200.0	1300.0	speaker	unknown	unknown	said in a statement, "The recent move of the Russian Federation is clearly aimed at annexing part of the sovereign territory of Georgia."	0	0	0		

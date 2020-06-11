@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 4.6710000000000003, 284.77499999999998, 292.36900000000003, 438.73700000000002, 448.20100000000002, 485.13600000000002, 490.31, 495.66300000000001, 500.24400000000003, 1368.3889999999999, 1375.3579999999999, 1527.5450000000001, 1599.749, 1616.287, 1621.2529999999999, 1699.808, 1706.5799999999999, 2088.328, 2094.0360000000001, 2360.1489999999999, 2365.2220000000002, 2394.1689999999999, 2398.6599999999999, 2590.8739999999998, 2596.7860000000001, 2602.096, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	104.551	107.067	Cui_Yong_Yuan	male	native	{laugh} 您请坐,哎	1	25	40	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	261.838	264.026	Cui_Yong_Yuan	male	native	就是当面提,直-直来直去哈	1	37	64	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	395.582	401.847	Cui_Yong_Yuan	male	native	呃我给您介绍我们今天请来的这个两位观察员,一位你非常熟悉赵本山大叔啊	3	54	94	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	592.967	596.107	Cong_Xiao_Min	female	native	嗯,就是(())	9	79	135	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	641.144	645.395	Li_Zhan_Shu	male	native	谢谢谢谢你们	9	87	145	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	668.132	676.303	Cui_Yong_Yuan	male	native	另类双胞胎,啊谢谢你们,也谢谢你们的礼物啊	9	92	153	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	877.132	878.975	Cui_Yong_Yuan	male	native	录的录-录入的是什么呢	9	106	177	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	1223.588	1232.050	Wei_Hou_Kai	male	native	所以我觉得我们(())你要搞这个的话,你一-一方面进军海外啊,外包,海外的一个国内再要-要结合起来	9	141	230	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	1347.089	1352.709	Wei_Hou_Kai	male	native	而可能就是说,你要出一两个精品,(())五个精品,可能还得你自己出马	9	156	255	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	1890.190	1906.136	Li_Zhan_Shu	male	native	呃我写了以后这个从来没有,好象就有一首在黑龙江日报发表过,其他我都没有发表过,我-我这自己不太记性也好使,我也不知道你在哪搞来的,(())	17	192	312	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	1890.190	1906.136	Cui_Yong_Yuan	male	native	(()),哎,对	17	192	313	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	2055.559	2060.655	Li_Zhan_Shu	male	native	够不上什么大-大将,但是我想(())男儿应该图强,嗯	17	203	335	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080309_122701	0	2275.375	2279.172	Han_Xue_Jian	male	native	对,去-去的特别多,对	19	220	360	filler	statement

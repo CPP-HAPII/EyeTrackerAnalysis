@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0006.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	揭露中国镇压西藏真相 达赖亲信会见法国总统	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社巴黎十二日电	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	法国总统府艾里赛宫证实,总统沙柯吉今天与接近西藏精神领袖达赖喇嘛的僧侣李卡尔会谈,讨论「广泛选项」。	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	1400.000	1800.000	TEXT1	unknown	unkown	正当愈来愈多的国际领导人表示,他们将不会出席八月在北京举行的奥运开幕仪式,而北京奥运圣火全球传递活动也在如影随形的抗议活动中陷入泥淖之际,沙柯吉与李卡尔讨论重启达赖与中国当局谈判的办法。	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	达赖喇嘛的法语传译李卡尔在与沙柯吉讨论后表示:「总统非常关切展开对话,同时西藏问题应以令人满	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	2200.000	2300.000	TEXT1	unknown	unkown	意的方式解决」。	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	2500.000	2900.000	TEXT1	unknown	unkown	李卡尔强调,他并未获得授权代表达赖喇嘛发言,而是与总统会面,以便「公平而真诚地」传达目前在西藏的紧张对峙中有一百九十二人死亡,两千三百人被捕的证词。	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	李卡尔补充说,沙柯吉「很重视代表西藏人民所传出来消息的可信度」。	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	艾里赛宫证实两人举行过会谈,但没有提供进一步细节。	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	3900.000	4100.000	TEXT1	unknown	unkown	李卡尔说:「讨论了各种选项,但我不认为应由我决定是否公布选项内容」。	0	0	0		statement
+AFP_CMN_20080413.0006.sgm	0	4300.000	4500.000	TEXT1	unknown	unkown	但他提到法国外长库希内提议的想法,让达赖喇嘛与欧洲联盟成员国外长会面。	0	0	0		statement

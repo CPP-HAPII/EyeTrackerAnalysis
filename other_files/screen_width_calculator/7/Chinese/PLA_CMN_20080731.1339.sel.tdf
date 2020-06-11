@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080731.1339	0	200.0	300.0	speaker	unknown	unknown	新华社马德里７月３０日奥运专电（记者方长平）为搞好北京奥运会的转播和报道，西班牙国家电视台下足了功夫，将奉献给观众一套豪华大餐。	0	0	0		
+PLA_CMN_20080731.1339	0	600.0	700.0	speaker	unknown	unknown	西班牙广播电视公司董事长路易斯・费尔南德斯表示，这是国家台规模最大的一次奥运会转播报道行动，国家台这支“梦之队”将把最精彩的奥运会赛况和新闻展示给西班牙观众。	0	0	0		

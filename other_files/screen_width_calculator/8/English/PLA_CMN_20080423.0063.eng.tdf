@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0063.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Regiment's Soldiers Learn from Deeds of Xiang Nanlin During Break form Training	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 08:41:55 Source: chinamil.com	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Recently, the deeds of "Xiang Nanlin-Model Young Soldiers of a New Generation" caused strong repercussions in the soldiers of the training regiment of the Armed Force Engineering Institute.	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	950.000	975.000	TEXT1	unknown	unkown	They have been inspired by Xiang's firm belief in truth and pursuit of truth; influenced by Xiang's noble moral character that is full of love and willingness to contribute; moved by the upbeat and rolled-sleeves mentality bent on indefatigable struggle; roused by Xiang's loyalty to his mission and love for the army.	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	975.000	987.500	TEXT1	unknown	unkown	They quickly started a surge in "learning from heroic models, being a pacesetter and striving to become a vanguard", and they resolved to train themselves into new-style soldiers of "Four New Generations".	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	987.500	1000.000	TEXT1	unknown	unkown	The picture shows Wei Kuinan, a squad leader and grade-IV petty officer selected as "Excellent Petty Officer of the Whole Army". He organized soldiers to learn from the deeds of Comrade Xiang Nanlin during a work break.	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	Photo and report by Yang Guolin and Liu Feng	0	0	0		statement
+PLA_CMN_20080423.0063.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	Editor in Charge: Zhang Feng	0	0	0		statement

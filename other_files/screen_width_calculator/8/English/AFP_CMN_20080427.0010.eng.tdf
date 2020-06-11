@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0010.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	8,300 Police Officers on Alert as Olympic Torch Relay Starts in South Korea	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	AFP on the 27th, Seoul	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	The Beijing Olympics torch relay will start in its South Korean leg today. Human rights, religious, and conservative groups vowed to block the relay route as a protest against China's action in Tibet and its deportation of North Korean refugees. Thousands of riot police officers are mobilized and on alert.	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	Police authorities said that they had deployed some 8,300 police officers along the 24-kilometer relay route from the Olympic Park in downtown Seoul to the city hall.	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	1600.000	1900.000	TEXT1	unknown	unkown	The relay event will start at 2:00 in the afternoon (1:00 p.m. Taiwan time) and end at 7:00 in the evening (6:00 p.m. Taiwan time).	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	2100.000	2400.000	TEXT1	unknown	unkown	The tight security measures include twenty police officers on bike and 120 police officers running around the Olympic torch, backed by police officers on motorcycle, in cars and helicopters.	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	2600.000	2800.000	TEXT1	unknown	unkown	An alliance composed of 63 human rights, religious, and conservative groups said that thousands of demonstrators are expected to take to the streets.	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	A high-ranking official in charge of security measures told AFP today: "Police will maintain watertight security measures to ensure that everything goes smoothly."	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	He said: "Police will immediately arrest anyone who tries to stop or disrupt the Olympic torch relay.	0	0	0		statement
+AFP_CMN_20080427.0010.sgm	0	3600.000	3700.000	TEXT1	unknown	unkown	We will deal with these kinds of incident severely."	0	0	0		statement

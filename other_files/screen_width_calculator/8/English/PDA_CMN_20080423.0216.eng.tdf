@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0216.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Ma Ying-jeou says New Budget to be Submitted by end of May - Items to be Adjusted but Total won't be Changed	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	Ma Ying-jeou was invited to speak to foreign investors in Taiwan. He ensured that a new budget will be proposed at the end of May to replace the old version.	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	1500.000	2200.000	TEXT1	unknown	unkown	According to a report from Taiwan's TVBS, Ma Ying-jeou ensured foreign investors that it will be started within 10 days of taking office. He said that the budget book will be submitted to the "Legislative Yuan" at the end of May, the budget may be passed by the "Legislative Yuan" in June and the budget of the party in power can be implemented at the end of July. Implementing the current version is not required.	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	Ma Ying-jeou said that the new version of the budget will not change the total amount but will adjust the budget items.	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	Not wanting to wait another year, Ma Ying-jeou is anxious to realize his political views.	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	2750.000	2800.000	TEXT1	unknown	unkown	When asked by a reporter whether or not this is to quickly actualize the "i-Taiwan 12 Projects," Ma Ying-jeou answered that they are all spoken for by the "Executive Yuan." We just have this kind of idea.	0	0	0		statement

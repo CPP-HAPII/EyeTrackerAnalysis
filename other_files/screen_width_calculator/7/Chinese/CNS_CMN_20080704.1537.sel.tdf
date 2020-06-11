@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1537	0	700.0	800.0	speaker	unknown	unknown	真功夫公关部负责人表示，目前单品未做变动，只是将套餐的优惠幅度下调了2%至3%。	0	0	0		
+CNS_CMN_20080704.1537	0	900.0	1000.0	speaker	unknown	unknown	这轮快餐涨价潮的始作俑者是麦当劳。	0	0	0		
+CNS_CMN_20080704.1537	0	1300.0	1400.0	speaker	unknown	unknown	成本上涨被认为是此轮涨价潮的直接原因。	0	0	0		
+CNS_CMN_20080704.1537	0	1500.0	1600.0	speaker	unknown	unknown	而相对于这些品牌的价格明涨，肯德基却被指暗中涨价。	0	0	0		

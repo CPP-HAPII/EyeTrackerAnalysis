@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080703.0045	0	200.0	300.0	speaker	unknown	unknown	据台湾媒体报道，台北松山机场将以红地毯和传统的舞龙舞狮迎接首批大陆观光客，同时在大陆旅客入出境必经的走廊及重要通道中，树起一系列展示台湾风情的“欢迎墙”。	0	0	0		

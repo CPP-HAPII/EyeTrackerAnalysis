@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080409.0630	0	300.0	400.0	speaker	unknown	unknown	近日，吉林省人事厅出台了《吉林省省直机关公务员脱产培训学分制管理办法（试行）》，规定省直机关副处长、正处级及其以下非领导职务公务员都要参加学分考核，学分成绩直接与公务员的评优、任职、晋升挂钩。	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117673-10532398	0	500.0	600.0	speaker	unknown	unknown	如果你是男生，你知道每天喝375毫升啤酒，一年能发胖7公斤吗？	0	0	0		
+cmn-NG-31-117673-10532398	0	1300.0	1400.0	speaker	unknown	unknown	肖老师1999年获中国农业大学农产品贮藏与加工专业学士学位，2004年6月获中国农业大学工学博士学位 。	0	0	0		
+cmn-NG-31-117673-10532398	0	1400.0	1500.0	speaker	unknown	unknown	肖老师从事食品专业的学习与教研多年，专业知识丰富，教授课程有《食品工艺学》专业课、《食品安全概论》全校任选课等，教学方法新颖，讲解生动，深受同学欢迎 。	0	0	0		
+cmn-NG-31-117673-10532398	0	1500.0	1600.0	speaker	unknown	unknown	相信在这里你会收获更多的快乐与健康！	0	0	0		

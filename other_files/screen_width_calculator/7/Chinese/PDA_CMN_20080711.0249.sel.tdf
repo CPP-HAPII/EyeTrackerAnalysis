@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080711.0249	0	200.0	300.0	speaker	unknown	unknown	人民网广州7月11日电 （记者 李刚）记者从广州市版权局获悉，据中国音像协会、中国音乐著作权协会广州市联络站向广州市版权局提出的相关投诉，广州市版权局近日已对两家涉嫌使用侵权盗版歌曲内容的KTV进行了行政调查，并对涉嫌非法复制、提供侵权盗版歌库的视翰、雷石两家VOD供应商进行了现场执法，这是广州针对卡拉OK版权收费开出的首张罚单。	0	0	0		
+PDA_CMN_20080711.0249	0	400.0	500.0	speaker	unknown	unknown	而在对视翰、雷石两家VOD供应商现场执法中，执法人员在其服务器演示系统中发现大量中国音像协会及中国音乐著作权协会管理的音乐作品和音乐电视作品，随后执法人员对其涉嫌存有侵权歌曲的大容量硬盘（共约20个）、账簿、公司业务记录等设备和文件进行清点登记暂扣。	0	0	0		
+PDA_CMN_20080711.0249	0	500.0	600.0	speaker	unknown	unknown	据了解，卡拉OK经营行业80%以上的KTV经营者都是使用VOD系统为消费者提供歌曲伴唱服务，而VOD系统供应商在大量复制这些受著作权法保护的音乐作品和音乐电视作品时，几乎从未得到过相关著作权人的授权和许可。	0	0	0		

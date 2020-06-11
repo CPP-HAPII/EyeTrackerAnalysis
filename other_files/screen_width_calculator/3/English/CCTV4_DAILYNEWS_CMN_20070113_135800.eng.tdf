@@ -1,0 +1,425 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 103.628, 131.495, 174.05099999999999, 237.05799999999999, 309.86599999999999, 420.84800000000001, 530.28999999999996, 541.774, 589.96799999999996, 648.51099999999997, 762.81200000000001, 840.49800000000005, 905.68299999999999, 988.76400000000001, 1063.732, 1356.556, 1404.6700000000001, 1702.75, 1732.7809999999999, 1740.231, 9999999.0]
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	0.000	0.437	Shitou 	male	native	(())	0	0	0	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1.546	4.188	Shitou 	male	native	He he, would you like to enjoy my stamps?	0	0	2	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	4.745	7.210	speaker#1	female	native	Okay Shitou, bring them over.	0	1	4	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	7.210	7.982	Shitou 	male	native	Okay.	0	2	5	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	8.971	10.066	Shitou 	male	native	Take a look, are they any good?	0	2	7	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	10.749	13.707	speaker#1	female	native	Wow, this monkey stamp is really beautiful.	0	3	9	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	13.707	15.797	Shitou 	male	native	There's this unperforated stamp too, it's very precious.	0	4	10	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	15.797	16.967	speaker#1	female	native	Oh?	0	5	11	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	17.693	20.737	speaker#1	female	native	Shitou, why don't you enjoy the stamps with us?	0	5	13	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	20.737	21.210	speaker#2	male	native	((pw))?	0	6	14	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	20.737	21.210	speaker#1	female	native	Stamps	0	6	15	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	21.210	26.821	speaker#2	male	native	bring extreme convenience to our lives. I've been thinking about how exactly the first postage stamp was invented.	0	7	16	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	26.821	30.297	Shitou 	male	native	Hearing you say so, it sounds as if you want to take us time traveling again.	0	8	17	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	30.816	37.687	speaker#2	male	native	Yes, it could be said the earliest postage stamp was invented by an Englishman, Roland Hill, in the first half of the nineteenth century.	0	9	19	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	37.687	42.281	speaker#2	male	native	Roland Hill was a British government official, creator of the education and postage stamp system.	0	9	20	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	42.281	46.561	speaker#2	male	native	Once begun, it later extended to become the modern postal service in the world. I think it was he...	0	9	21	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	46.561	48.473	Shitou 	male	native	We can go time traveling again, huh.	0	10	22	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	48.473	49.545	speaker#2	male	native	Let's go now.	0	11	23	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	61.156	64.927	speaker#2	male	native	This is the first half of the nineteenth century, a small English village.	0	11	25	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	65.521	65.849	speaker#2	male	native	Look.	0	11	27	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	66.489	68.785	speaker#2	male	native	That's a mail coach coming, quick, look.	0	11	29	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	71.403	74.066	speaker#3	female	native	Hello, the mail coach is here.	0	12	31	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	74.066	74.815	speaker#4	male	native	Hello.	0	13	32	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	75.494	77.616	speaker#3	female	native	Hello, hello.	0	14	34	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	75.494	77.616	speaker#4	male	native	Hey!	0	14	35	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	77.616	79.913	Shitou 	male	native	Jiandao, why are they so happy when they?	0	15	36	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	80.522	84.996	speaker#1	female	native	Probably because this village is so remote that everybody is excited when the mailman appears.	0	16	38	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	85.663	86.579	Shitou 	male	native	Quickly, go and look.	0	17	40	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	86.579	87.202	speaker#2	male	native	Let's go.	0	18	41	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	87.783	88.645	speaker#5	female	native	Oh.	0	19	43	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	89.388	92.061	speaker#6	male	native	Hey, do you have any letters for me, uh? Have a letter for me?	0	20	45	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	92.061	93.329	speaker#7	male	native	Don't be anxious everybody.	0	21	46	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	95.042	96.016	speaker#7	male	native	Er, Uncle Tom,	0	21	48	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	96.579	97.449	speaker#7	male	native	a letter for you.	0	21	50	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	98.162	99.803	Tom	male	native	Thank you, here is the postal charge.	0	22	52	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	99.803	100.944	speaker#7	male	native	Ah, that's okay.	0	23	53	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	101.629	103.628	Tom	male	native	Excellent, another letter from my daughter.	0	24	55	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	131.495	132.964	speaker#8	male	native	Hello everybody, welcome to China News.	2	26	57	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	133.480	138.197	speaker#8	male	native	The 12th ASEAN summit meeting closed in the central Philippine city of Cebu on the 13th.	2	26	59	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	138.197	143.556	speaker#8	male	native	At the meeting, leaders from ASEAN countries signed a series of pronouncements and anti-terrorism pacts on	2	26	60	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	143.556	147.422	speaker#8	male	native	drafting an ASEAN charter, speeding up construction of the ASEAN community, and protecting the rights and interests of overseas labor.	2	26	61	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	148.365	154.396	speaker#8	male	native	According to another report from the Xinhua news agency, the ten ASEAN leaders have also been committed to increased efforts in controlling AIDS at a national level.	2	26	63	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	154.931	161.056	speaker#8	male	native	According to UN statistics, the estimated number of AIDS carriers in the ASEAN region reached 1.6 million in 2006,	2	26	65	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	161.056	163.825	speaker#8	male	native	including 530,000 females over the age of fifteen.	2	26	66	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	164.344	169.672	speaker#8	male	native	The number of AIDS carriers throughout the entire Asia region was estimated at 8.6 million in 2006,	2	26	68	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	169.672	172.751	speaker#8	male	native	and the deaths of approximately 630,000 people were related to AIDS.	2	26	69	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	174.051	180.081	speaker#8	male	native	Premier of the State Council of China, Wen Jiabao, flew on a charter plane to the central Philippine city of Cebu on the 13th to attend a series of meetings for east Asia leaders,	3	27	71	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	180.081	182.212	speaker#8	male	native	and to make an official visit to the Philippines.	3	27	72	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	184.398	191.784	speaker#9	female	native	In response to an invitation from Arroyo, the president of the Republic of the Philippines, Premier of the State Council Wen Jiabao arrived in the second-largest Philippine city of Cebu on the evening of the 13th	3	28	74	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	191.784	195.831	speaker#9	female	native	to attend the Tenth Meeting of China and ASEAN leaders,	3	28	75	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	195.831	200.622	speaker#9	female	native	the Tenth Leaders Meeting of ASEAN, China, Japan and the ROK, and the Second East Asian summit held here.	3	28	76	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	200.622	204.694	speaker#9	female	native	During this time, premier Wen Jiabao will also preside at the Seventh Trilateral Leaders Meeting of China, Japan, and the ROK.	3	28	77	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	205.353	211.102	speaker#9	female	native	Philippines Minister of Agriculture, Arthur Yap, the governor of Cebu province, and other high-ranking government officials arrived at the airport in welcome.	3	28	79	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	211.701	219.369	speaker#9	female	native	Foreign Minister Li Zhaoxing, who arrived in Cebu earlier, Chinese ambassador to the Philippines Li Jinjun, and a delegation of Chinese and overseas Chinese also arrived at the airport in welcome.	3	28	81	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	221.222	226.869	speaker#9	female	native	That evening, Wen Jiabao met at his hotel with Haruhiko Kuroda, president of the Asian Development Bank.	3	28	83	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	228.906	235.208	speaker#9	female	native	After the meeting concluded, Wen Jiabao also met with staff from the Chinese Consulate-General in Cebu, and Chinese and overseas Chinese delegates.	3	28	85	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	237.058	243.086	speaker#8	male	native	According to a notice issued by China's National Development and Reform Commission, starting at 0 a.m. on January 14, the price of gasoline and aviation fuel will be adjusted downward.	4	29	87	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	245.318	250.969	speaker#10	male	native	Details of the adjustment plan are that gasoline prices will be reduced by 220 Yuan per ton, and aviation fuel will be reduced by 90 Yuan per ton.	4	30	89	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	251.507	257.869	speaker#10	male	native	Gasoline retail prices will be adjusted downward accordingly; taking Beijing as an example, No. 90 gasoline will be reduced from 4.76 Yuan per liter to 4.59 Yuan,	4	30	91	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	258.438	262.156	speaker#10	male	native	No. 93 gasoline will be reduced from 5.09 Yuan per liter to 4.90 Yuan,	4	30	93	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	262.156	266.163	speaker#10	male	native	and No. 97 gasoline will be reduced from 5.42 Yuan per liter to 5.22 Yuan.	4	30	94	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	266.762	272.138	speaker#10	male	native	At the same time, the China National Development and Reform Commission required PetroChina and Sinopec to well organize the production of finished oil products,	4	30	96	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	272.138	276.467	speaker#10	male	native	supervise and urge their affiliate enterprises to strictly implement state pricing policy, and ensure the supply of finished oil products to the market.	4	30	97	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	277.072	280.509	speaker#10	male	native	All levels of the department in charge of pricing must also intensify their monitoring and inspection of finished oil product prices,	4	30	99	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	281.119	286.942	speaker#10	male	native	must strictly investigate and prosecute any prices exceeding that in regulations or any conduct to covertly increase prices, and practically maintain the stability of the oil products market.	4	30	101	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	287.691	294.207	speaker#10	male	native	So far this year, the demand for heating oil has dropped due to the warm winter in Europe and America, the huge increase in U.S. oil product storage, and other factors.	4	30	103	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	294.207	296.553	speaker#10	male	native	Oil prices on the international market have dropped heavily.	4	30	104	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	297.242	303.050	speaker#10	male	native	On January 11, the price of crude oil futures dropped to its lowest point since June 2005, to 51.9 U.S. dollars per barrel.	4	30	106	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	303.050	308.050	speaker#10	male	native	Based on the status of oil price changes on the international market, the China National Development and Reform Commission decided to adjust gasoline prices downward.	4	30	107	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	309.866	312.930	speaker#8	male	native	On the 13th, all the large newspapers and websites in China reported as their headline news that	5	31	109	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	312.930	316.345	speaker#8	male	native	after the Renminbi exchange rate has continued to increase for over a year,	5	31	110	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	316.345	319.158	speaker#8	male	native	it has surpassed the exchange rate for the Hong Kong dollar for the first time in thirteen years.	5	31	111	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	319.158	323.080	speaker#8	male	native	That is to say, compared to the Hong Kong dollar, the Renminbi we have in our hands is worth more than Hong Kong dollars.	5	31	112	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	323.586	328.930	speaker#8	male	native	U.S. and Taiwanese experts suggest that, for the present, converting between Hong Kong dollars and U.S. dollars will continue the principle of a +Linked Exchange Rate.	5	31	114	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	328.930	331.793	speaker#8	male	native	Therefore, Hong Kong dollars may be viewed as equivalent to U.S. dollars;	5	31	115	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	331.793	337.104	speaker#8	male	native	that is, however conversion of U.S. dollars to Renminbi is handled; the same method will be adopted for Hong Kong dollars to Renminbi.	5	31	116	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	337.661	343.020	speaker#8	male	native	Experts also said that if depositors have no other short term use for the U.S. dollars they have on hand, and if they are left unused in the bank,	5	31	118	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	343.020	345.775	speaker#8	male	native	it will be more secure to convert them into Renminbi.	5	31	119	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	345.775	350.326	speaker#8	male	native	Experts also estimate that the Renminbi exchange rate will continue to climb this year, and its degree of fluctuation will also increase.	5	31	120	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	352.375	358.150	speaker#8	male	native	The Spring Festival is drawing near and travel agencies estimate that, during this year's Spring Festival, the number of tourists traveling to Hong Kong will increase 20%.	5	31	122	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	358.150	362.007	speaker#8	male	native	Following appreciation of the Renminbi, it will be more cost effective for travelers to Hong Kong to get their HK dollars in the Mainland.	5	31	123	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	362.007	367.225	speaker#8	male	native	Some Hong Kong businessmen have also said that hopefully the Renminbi can be served as the unit of currency for settling commercial transactions as soon as possible.	5	31	124	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	369.176	374.621	speaker#11	female	native	During the Spring Festival, it is estimated that the number of people going to the already boomingly popular tourist destination of Hong Kong will increase 20% this year.	5	32	126	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	374.621	379.121	speaker#11	female	native	Increased value of the Renminbi will undoubtedly be good news for those planning to travel to Hong Kong for shopping;	5	32	127	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	379.121	381.008	speaker#11	female	native	consumers will be able to get even larger discounts.	5	32	128	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	381.517	385.729	speaker#11	female	native	People in the banking industry have said that it will be more cost effective for tourists visiting Hong Kong to exchange for Hong Kong dollars locally.	5	32	130	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	385.729	390.291	speaker#11	female	native	Moreover, electing to pay using UnionPay cards can reduce exchange losses and currency exchange fees.	5	32	131	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	390.862	394.284	speaker#11	female	native	In line with related plans, the Renminbi will extend further into Hong Kong operations.	5	32	133	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	394.284	399.142	speaker#11	female	native	Hong Kong businessmen hope that the policy for Renminbi to serve as the unit of currency for settling commercial transactions can be promoted as quickly as possible.	5	32	134	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	399.142	404.595	speaker#11	female	native	At present, Hong Kong businessmen must use U.S. dollars to settle payments on materials imported from the Mainland, and the exchange rate losses are quite high.	5	32	135	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	404.595	409.202	speaker#11	female	native	If payment is made using Renminbi, it will not only spare price difference, but can also mitigate the risk of the Renminbi increasing in value.	5	32	136	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	409.702	413.561	speaker#11	female	native	Meanwhile, many banks hope the central government will permit them to utilize Renminbi deposits	5	32	138	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	413.561	416.186	speaker#11	female	native	to offer credit and trade financing to importers,	5	32	139	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	416.186	419.102	speaker#11	female	native	and thereby eliminate the process of exchanging Hong Kong dollars to Renminbi.	5	32	140	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	420.848	423.973	speaker#8	male	native	Although the energy dispute between Russian and Belarus has already come to an end,	6	33	142	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	423.973	428.922	speaker#8	male	native	the energy dispute between Russia and Belarus has caused many people to start worrying over the security of Chinese energy resources.	6	33	143	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	428.922	433.731	speaker#8	male	native	To this end, experts suggest China should implement a diversified energy resource security strategy as quickly as possible.	6	33	144	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	435.136	439.964	speaker#11	female	native	Yan Jianya is the Chief Operation Officer at China5e.com, and has been concerned with China's energy strategy problem for a long time.	6	34	146	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	439.964	446.910	speaker#11	female	native	In relation to the energy dispute between Russia and Belarus, and the potential effect it created on European countries, he believes that China should sum up the experience from it as soon as possible,	6	34	147	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	446.910	453.603	speaker#11	female	native	because, of the more than 100 million tons of crude oil China currently imports each year, over eighty percent is transported through one channel, the Strait of Malacca.	6	34	148	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	453.603	459.801	speaker#11	female	native	Once a local conflict or other natural disaster occurs in this region, it will surely have a huge impact on the security of our nation's oil.	6	34	149	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	459.801	460.917	Yan_jianya	male	native	Er, China's	6	35	150	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	461.464	463.975	Yan_jianya	male	native	reliance on such a single transportation channel,	6	35	152	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	463.975	471.777	Yan_jianya	male	native	er, definitely needs to be resolved in part, during the process of formulating China's overall energy strategy.	6	35	153	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	471.777	480.939	Yan_jianya	male	native	Well, there are, there are many solution schemes, well, for example, to look for other oil supplying countries in, uh, South America.	6	35	154	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	480.939	487.685	Yan_jianya	male	native	Er, in terms of transportation channels, the Chinese are all discussing with both Belarus, and, er, Kazakhstan,	6	35	155	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	487.685	491.713	Yan_jianya	male	native	er, all building, er, oil and gas transportation pipelines.	6	35	156	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	492.289	495.399	speaker#11	female	native	Yan Jianya told reporters that in addition to Russia, Kazakhstan, and other countries,	6	36	158	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	495.399	499.591	speaker#11	female	native	China is currently considering construction of transportation routes through Pakistan and Myanmar.	6	36	159	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	499.591	504.047	speaker#11	female	native	Some experts also suggest diversified energy supply including nuclear, biomass energy, and others,	6	36	160	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	504.047	506.807	speaker#11	female	native	which is also an important measure to ensure the security of our country's energy resources.	6	36	161	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	506.807	510.490	speaker#12	male	native	I think there is no so-called single method for China's energy resource problem,	6	37	162	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	511.052	512.309	speaker#12	male	native	ah, so we	6	37	164	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	512.828	515.220	speaker#12	male	native	can, as it were, make joint efforts in many areas.	6	37	166	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	515.220	521.651	speaker#12	male	native	Ah, for example, including producing more hydroelectricity, more nuclear power, er, and develop domestic oil and natural gas on a large scale,	6	37	167	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	521.651	527.898	speaker#12	male	native	ah, increase, ah, efforts on international cooperation, and develop certain new energy sources, ah,	6	37	168	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	528.461	530.290	speaker#12	male	native	er, we must adopt a multiple strategy policy.	6	37	170	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	541.774	542.602	speaker#8	male	native	Continuing with our news coverage.	8	39	172	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	543.149	546.695	speaker#8	male	native	The Prime Minister of the Palestinian Autonomous Government, Haniyeh, delivered a speech in Gaza on the 13th,	8	39	174	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	546.695	553.151	speaker#8	male	native	calling for all factions in Palestine to end the internal conflict as quickly as possible and to start negotiations afresh as to establishing a national coalition government.	8	39	175	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	553.660	559.863	speaker#8	male	native	At the same time, Haniyeh condemned Israel and the United States for intentionally exacerbating the internal conflict between Fatah and Hamas, and for inciting civil war in Palestine.	8	39	177	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	560.424	563.998	speaker#8	male	native	After Palestine's internal efforts to establish a national coalition government failed,	8	39	179	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	563.998	569.082	speaker#8	male	native	the Palestinian National Authority chairman, Abbas, last month called for elections to be brought forward.	8	39	180	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	569.082	573.423	speaker#8	male	native	Hamas came out against this and instigated bloody conflict with Fatah on a number of occasions.	8	39	181	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	573.423	578.152	speaker#8	male	native	According to reports, internal conflict in Palestine over the last few weeks has already resulted in thirty-five deaths.	8	39	182	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	579.536	581.649	speaker#8	male	native	On the 13th, King Abdullah of Jordan pointed out that	8	39	184	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	581.649	588.722	speaker#8	male	native	Palestinian factions should firstly extend their efforts to protect the rights and interests of the Palestinian people, and strengthen internal solidarity.	8	39	185	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	589.968	596.207	speaker#8	male	native	An earthquake of magnitude 8.3 on the Richter scale occurred on the 13th in the Northwestern Pacific sea area close to the Kuril Islands, causing a tsunami.	9	40	187	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	596.207	600.644	speaker#8	male	native	Owing to the small size of the tsunami, the Japanese Meteorological Agency has already lifted the tsunami alert,	9	40	188	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	600.644	604.853	speaker#8	male	native	and simultaneously withdrew the order requiring citizens of Hokkaido and Pacific coastal areas to evacuate.	9	40	189	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	607.163	613.117	speaker#10	male	native	The earthquake occurred at 13:24 local time on the 13th; its epicenter was situated in the Kuril trench near the Kuril Islands.	9	41	191	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	613.117	619.554	speaker#10	male	native	Because a one-meter-high tsunami was anticipated, the Japanese Meteorological Office issued a tsunami alert to Hokkaido and Pacific coastal regions,	9	41	192	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	619.554	624.101	speaker#10	male	native	simultaneously requiring more than 85,000 citizens in 22 cities along the coast to move to a safe place as quickly as possible.	9	41	193	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	624.617	630.632	speaker#10	male	native	However, based on measurement data, the Japanese Meteorological Office discovered the earthquake had not initiated a large-size tsunami, and the tsunami was only 40 centimeters at most.	9	41	195	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	631.261	634.433	speaker#10	male	native	Nine hours after the earthquake occurred, the Japanese Meteorological Office rescinded the tsunami warning	9	41	197	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	634.433	637.249	speaker#10	male	native	and simultaneously withdrew the order requiring citizens along the coast to evacuate.	9	41	198	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	637.249	640.130	speaker#10	male	native	At present we have not received any reports of casualties or loss of property.	9	41	199	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	640.649	646.830	speaker#10	male	native	In addition, Russia's eastern coastal areas, Alaska, and other regions within the range of the tsunami alert have also withdrawn the tsunami alert.	9	41	201	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	648.511	650.573	speaker#8	male	native	Next, we once again take a look at the weather around the world.	10	42	203	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	651.135	654.330	speaker#8	male	native	Lately the weather in many places in the world has been far from normal;	10	42	205	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	654.330	660.333	speaker#8	male	native	a peculiarly warm winter hit Europe, and extremely cold weather has occurred in the western parts of Canada and the state of California in the United States.	10	42	206	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	660.333	665.101	speaker#8	male	native	Moreover, Argentina, Brazil and Peru in South America are being tested by rainstorms and flooding.	10	42	207	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	666.468	668.702	speaker#10	male	native	According to the California Meteorological Department in the USA,	10	43	209	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	668.702	671.267	speaker#10	male	native	the extremely cold low pressure front in Alaska is currently heading south,	10	43	210	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	671.267	675.363	speaker#10	male	native	and California weather is abnormally cold. In some regions the temperature has dropped to minus twenty Celsius.	10	43	211	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	676.022	679.589	speaker#10	male	native	In the central American city of Oklahoma, freezing rain occurred on the 12th,	10	43	213	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	679.589	683.699	speaker#10	male	native	resulting in at least four deaths, some schools suspending classes, and delays to tens of flights.	10	43	214	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	684.211	689.617	speaker#10	male	native	The meteorological office has issued ice storm warnings to the states of Oklahoma, Missouri and Illinois,	10	43	216	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	689.617	694.076	speaker#10	male	native	predicting that the hailstorms of ice and snow together will continue until at least the beginning of next week before ending.	10	43	217	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	694.735	698.657	speaker#10	male	native	At the same time, South America has been hit by wide-ranging and persistent heavy rainfall.	10	43	219	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	699.286	702.583	speaker#10	male	native	In Argentina's Tucumán province, a rainstorm has continued since the 10th,	10	43	221	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	702.583	705.514	speaker#10	male	native	and on the 12th precipitation already amounted to 120 millimeters in less than four hours.	10	43	222	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	706.143	712.101	speaker#10	male	native	The flood went rampant in Rio, Colorado, and other areas, already resulting in one death, one person missing, and close to four thousand people being stranded.	10	43	224	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	712.976	715.165	speaker#10	male	native	In the northwest and central regions of Peru,	10	43	226	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	715.165	721.711	speaker#10	male	native	persistent rainfall carried in by the El Nino phenomenon has resulted in at least six deaths, over forty thousand people affected by the disaster, and several thousand houses destroyed.	10	43	227	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	721.711	724.410	speaker#10	male	native	Some roads and bridges were also severely damaged.	10	43	228	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	725.023	728.589	speaker#10	male	native	Meteorological experts predict that the rainy weather will possibly continue for a three-month period.	10	43	230	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	729.598	736.520	speaker#10	male	native	In Germany on the evening of the 11th, local time, heavy rainfalls went on all night, causing the northern regions of Hamburg to be immersed in a sea of water.	10	43	232	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	737.027	739.371	speaker#10	male	native	In some regions the water was up to five meters above its normal height.	10	43	234	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	739.890	742.071	speaker#10	male	native	There is water coming into the cellars of many buildings.	10	43	236	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	742.071	747.730	speaker#10	male	native	At present, rescue workers are filling in the entrances of some buildings with sandbags to prevent even greater losses.	10	43	237	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	748.411	753.479	speaker#10	male	native	At the same time, the Russian capital of Moscow, which is currently experiencing a warm winter, was also hit by heavy rainstorms.	10	43	239	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	753.479	759.442	speaker#10	male	native	The water level in Moscow's surrounding reservoirs increased dramatically, and relevant departments have already started opening gates and releasing water in order to moderate reservoir pressure.	10	43	240	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	762.812	768.890	speaker#8	male	native	The Sixth Asian Winter Games will be held from January 28 to February 4 in both Changchun and Jilin of Jilin province.	11	44	242	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	768.890	771.354	speaker#8	male	native	Currently, various kinds of preparation works are all set.	11	44	243	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	773.176	778.754	speaker#11	female	native	On the 13th, local representatives of the Sixth Asian Winter Games Organization Committee held flag-raising ceremonies at each of the competition venues and delegates' bases,	11	45	245	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	778.754	781.079	speaker#11	female	native	and the Sixth Asian Winter Games have officially entered the competition phase.	11	45	246	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	781.579	788.696	speaker#11	female	native	To our understanding, online registration work for this Asian Winter Games is fully concluded; up to now, there have been 1,099 athletes who have registered to join.	11	45	248	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	789.265	795.406	speaker#11	female	native	Prior to that, many test competitions had been carried out in all the venues needed by the Asian Winter Games, and all of which venues have passed acceptance examinations by international organizations for each individual event,	11	45	250	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	795.406	797.499	speaker#11	female	native	and fully comply with international competition standards.	11	45	251	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	797.499	801.032	speaker#11	female	native	The supporting facilities at each venue have been fully constructed and put into use.	11	45	252	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	801.631	807.897	speaker#11	female	native	Being Asia's highest standard and most fully equipped ice event venue, the Jilin Provincial Speed Skating Rink is also outfitted with a variety of training apparatuses.	11	45	254	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	807.897	811.272	speaker#11	female	native	The athletes' rest area was also designed and completed to Olympic standards.	11	45	255	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	811.272	815.763	speaker#11	female	native	At the same time, intense but orderly preparation work for large-scale evening receptions of the opening ceremony are also being carried out.	11	45	256	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	816.362	820.113	speaker#11	female	native	This Asian Winter Games has won the widespread support from people in +all walks of life in Jilin province,	11	45	258	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	820.113	824.446	speaker#11	female	native	and the mass ranks of volunteers who have signed up through a variety of channels have already reached 50,000 people.	11	45	259	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	824.446	828.997	speaker#11	female	native	At present, the more than two thousand games-time volunteers directly servicing these Asian Winter Games have also all taken up their posts.	11	45	260	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	828.997	835.225	speaker#13	female	native	During the Asian Winter Games, I am determined to be an outstanding volunteer; I will exert my best effort.	11	46	261	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	835.225	837.786	speaker#14	female	native	I wish the Sixth Asian Winter Games to be a complete success!	11	47	262	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	840.498	844.986	speaker#8	male	native	The Spring Festival is close at hand, Hong Kong has seen a, uh, more and more requirement, demand for imported food items.	12	48	264	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	844.986	848.602	speaker#8	male	native	On the 12th, individuals associated to the Hong Kong Health, Welfare and Food Bureau said that	12	48	265	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	848.602	852.524	speaker#8	male	native	registration of all food importers must be gradually implemented,	12	48	266	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	852.524	856.094	speaker#8	male	native	and that egg, aquatic products, vegetables, and fruit will be processed first.	12	48	267	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	857.991	861.132	speaker#11	female	native	Secretary of the Hong Kong Health, Welfare and Food Bureau, York Chow, said that	12	49	269	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	861.132	868.324	speaker#11	female	native	ninety-five percent of Hong Kong's food relies upon imports; registration of food importers will help to investigate and strengthen the monitoring of food safety and other problems.	12	49	270	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	868.834	874.100	speaker#11	female	native	Recording of all imported foods must be realized gradually, but egg and aquatic products will be considered first.	12	49	272	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	874.100	875.944	speaker#11	female	native	At present, there is still no accurate timetable.	12	49	273	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	876.711	883.153	speaker#11	female	native	Director General of the Import and Export Food Safety Bureau, Li Yuanping, who is currently attending an international symposium on food safety in Hong Kong, said that	12	49	275	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	883.153	887.145	speaker#11	female	native	he will talk with York Chow to better coordinate Mainland and Hong Kong food issues.	12	49	276	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	887.692	892.894	speaker#11	female	native	At the same time, the Mainland will strengthen the spot inspections of candy, aquatic, and other products transported to Hong Kong during the Spring Festival period, ensuring their safety.	12	49	278	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	893.403	899.091	speaker#11	female	native	In addition, in response to the recent bird flu occurrences in Anhui in the Mainland, and Japan, Indonesia, and other countries close to Hong Kong,	12	49	280	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	899.091	902.711	speaker#11	female	native	York Chow also said that the risk of an outbreak of bird flu in Hong Kong still exists.	12	49	281	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	905.683	911.663	speaker#8	male	native	On the evening of the 12th, police in Taiwan laid an ambush and arrested a number of gangsters; two standard handguns and bullets were found and seized at the scene.	13	50	283	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	911.663	916.932	speaker#8	male	native	Police said that the suspected criminals always carry guns and are suspected of numerous cases concerning threats and violent dun.	13	50	284	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	916.932	921.167	speaker#8	male	native	Currently, currently, uh, once they also committed crimes by using submachine guns, where their actions were quite arrogant.	13	50	285	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	921.167	923.022	speaker#8	male	native	Let's take a look at a report sent by a TVBS reporter.	13	50	286	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	924.507	928.339	speaker#15	male	native	(())	13	51	288	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	928.339	934.088	speaker#16	male	native	The seven or eight suspects were kind of drunk in a restaurant; as soon as they stepped out the door, they were overpowered by the ambushing police, and obediently lay down on the road.	13	52	289	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	934.088	935.090	speaker#15	male	native	Who will get the one here,	13	53	290	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	935.612	935.972	speaker#15	male	native	quickly!	13	53	292	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	936.684	939.316	speaker#16	male	native	The suspects were held down on the ground, their attitude still quite tough.	13	54	294	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	939.316	945.286	speaker#16	male	native	The police subsequently found two standard handguns with more than ten bullets, all of which were already loaded, in the suspect's vehicles.	13	54	295	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	945.286	948.737	speaker#15	male	native	Eight, nine, ten,	13	55	296	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	949.362	949.953	speaker#15	male	native	eleven.	13	55	298	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	950.463	953.900	speaker#16	male	native	The two main suspects always carry their guns, and are always ready to have some factional fight.	13	56	300	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	953.900	959.717	speaker#16	male	native	Just at the end of last year they took submachine guns and strafed a betel nut stall in Hsinchu to retaliate against their adversary over a debt dispute,	13	56	301	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	959.717	961.592	speaker#16	male	native	which aroused the police's high attention.	13	56	302	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	961.592	965.819	speaker#16	male	native	After capturing them in their net, the police followed clues and dug out the submachine guns used in the case in a pigsty.	13	56	303	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	966.319	967.232	speaker#17	male	native	Submachine gun ah, ha.	13	57	305	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	967.232	968.168	speaker#18	male	native	It's a submachine gun, ah.	13	58	306	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	968.696	974.387	speaker#16	male	native	Police investigations discovered that the two main suspects, surnamed Chen and Lian, normally relied upon dun and threats to obtain money and to make colossal profits.	13	59	308	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	974.387	977.521	speaker#16	male	native	They always carry formidable firepower and have run rampant in the regions of Hsinchu and Miaoli for quite some time.	13	59	309	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	977.521	982.387	speaker#16	male	native	The time the police took advantage of their habit of liking to eat in the restaurant, bringing them to justice without wasting a single shot from a single gun.	13	59	310	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	986.232	987.571	speaker#8	male	native	Ok, that's all for China News.	13	60	312	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	987.571	988.764	speaker#8	male	native	Thank you for watching, goodbye!	13	60	313	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1063.732	1066.867	Yang_yang	female	native	Hello to all our overseas and domestic viewers, I am Yang Yang.	15	62	315	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1066.867	1072.222	Lu_jian	male	native	Hello everybody, I am Lu Jian, ah, I'm really happy to be hosting 'Olympics China' with Yang Yang.	15	63	316	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1072.222	1076.897	Lu_jian	male	native	The arrival of 2007 signifies that preparations for the Beijing Olympics have entered into the phase of the final sprint.	15	63	317	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1076.897	1082.522	Lu_jian	male	native	Based around the objective of holding a high-standard Olympics with a unique style and taking Green Olympics, High-Tech Olympics,	15	63	318	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1082.522	1083.244	Lu_jian	male	native	and People's Olympics,	15	64	319	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1082.522	1083.244	Yang_yang	female	native	Humanistic Olympics	15	64	320	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1083.244	1087.915	Lu_jian	male	native	as its three main themes, the Organizing Committee for the Beijing Olympic Games, uh, will continue to push forward preparation work.	15	65	321	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1087.915	1092.056	Yang_yang	female	native	It's really like that. And this year there is an awful lot of preparation work revolving around the Olympics.	15	66	322	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1092.056	1095.011	Yang_yang	female	native	Recruitment work for the torchbearers will also gradually get under way.	15	66	323	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1095.011	1103.484	Yang_yang	female	native	Olympic host city Beijing, along with its co-host cities, Hong Kong, Qingdao, and Quinhuangdao, will embrace a series of top-class international competitions.	15	66	324	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1103.484	1105.909	Yang_yang	female	native	The Olympic atmosphere, uh, will become more and more intense.	15	66	325	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1105.909	1109.284	Lu_jian	male	native	Yes, there will also be more and more opportunities for the masses to take part in the Olympics.	15	67	326	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1109.284	1112.256	Lu_jian	male	native	There are new changes every day in Beijing, as it were.	15	67	327	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1112.256	1116.682	Lu_jian	male	native	More and more facilities related to the Olympics will also constantly enter our sights.	15	67	328	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1116.682	1121.747	Lu_jian	male	native	Well then, next, uh, we will follow our reporter's lens to get a close-up together on today's Olympic action.	15	67	329	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1122.861	1127.096	speaker#19	male	native	In 2007, Beijing will embrace more than twenty Olympic test competitions,	15	68	331	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1127.096	1130.226	speaker#19	male	native	and Olympic security will enter into its actual combat training phase;	15	68	332	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1130.734	1132.640	speaker#19	male	native	antiterrorism will become its most important focus.	15	68	334	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1133.149	1133.609	speaker#19	male	native	At the beginning of August,	15	68	336	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1134.138	1139.139	speaker#19	male	native	Beijing police will enter into fully simulated combat training status, one year in advance,	15	68	338	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1139.139	1143.520	speaker#19	male	native	and civil police will, one after another, take up their posts at the more than one hundred Olympic bases and competition venues.	15	68	339	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1144.058	1149.050	speaker#19	male	native	Currently, the Beijing police are formulating various kinds of work plans involving the Olympics.	15	68	341	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1150.427	1154.978	speaker#19	male	native	Security is an indispensably important job at any Olympic Games,	15	68	343	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1155.607	1161.727	speaker#19	male	native	and viewers who watched the Athens Olympics should still remember the incident that occurred on the final day of the 2004 Olympics.	15	68	345	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1162.321	1164.586	speaker#19	male	native	In the final stages of the men's marathon competition,	15	68	347	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1164.586	1169.493	speaker#19	male	native	at a distance of six kilometers from the finish line, Brazilian veteran Lima was far ahead;	15	68	348	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1169.493	1171.984	speaker#19	male	native	if no accidents occurred, he would pick up the gold medal.	15	68	349	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1172.523	1177.828	speaker#19	male	native	However, just at this moment, an Irish drunkard dashed out from the crowd and across the road,	15	68	351	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1177.828	1180.681	speaker#19	male	native	pushing pacemaker Lima into the crowd at the side of the road.	15	68	352	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1181.247	1185.747	speaker#19	male	native	Although the drunkard was immediately taken away by police and Lima got back into the race,	15	68	354	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1186.325	1190.907	speaker#19	male	native	it clearly affected his mood to a large extent, and in the end he only got a bronze medal.	15	68	356	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1191.669	1194.638	speaker#19	male	native	After this event, people criticized Athens' security work,	15	68	358	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1194.638	1197.693	speaker#19	male	native	but the Athenians also felt deeply aggrieved.	15	68	359	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1198.283	1204.283	speaker#19	male	native	After all, at the Athens Olympics, 1.3 billion Euros were invested into security.	15	68	361	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1204.892	1207.884	speaker#19	male	native	This figure was four to five times that of the Sydney Olympics.	15	68	363	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1207.884	1214.060	speaker#19	male	native	Even as it was, that such a situation still occurred during competitions, which could be called 'the best laid plans of mice and men...'	15	68	364	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1214.597	1218.784	speaker#19	male	native	Obviously, safety and security work at the Olympics cannot be skimped on in the slightest.	15	68	366	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1219.404	1223.920	speaker#19	male	native	In 2006, the Beijing Olympics security work officially got fully under way,	15	68	368	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1223.920	1231.690	speaker#19	male	native	and the Beijing police also experimentally adopted an Olympics security model at the Chinese Super League Soccer Tournament, the Chinese Open Tennis Tournament, and other important competitions.	15	68	369	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1232.469	1235.797	speaker#19	male	native	Because Beijing introduced modern security ideas as reference,	15	68	371	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1235.797	1240.437	speaker#19	male	native	the silhouettes of security staff within view of spectators will, as far as possible, be kept to a minimum	15	68	372	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1240.437	1244.625	speaker#19	male	native	to allow them to fully enjoy the joy and harmony of the Olympic Games.	15	68	373	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1246.751	1251.360	speaker#19	male	native	Other than the civil police and volunteers taking part in security work, there are also special police.	15	68	375	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1251.954	1256.329	speaker#19	male	native	In many people's eyes, special police are like Batman, mysterious and legendary.	15	68	377	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1256.845	1262.336	speaker#19	male	native	The Beijing Special Police Force is a crack squad prepared for action 24 hours a day, and have an average age of 26 years old.	15	68	379	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1262.874	1269.452	speaker#19	male	native	The 810-person team is not only responsible for handling terrorist violence and major incidents in Beijing city,	15	68	381	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1269.452	1273.461	speaker#19	male	native	they are more importantly the mainstay of security operations at the 2008 Olympic Games.	15	68	382	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1274.659	1277.815	speaker#19	male	native	Among the special police training courses is sign language.	15	68	384	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1278.362	1284.210	speaker#19	male	native	This seemingly unimportant skill has a highly important function in the antiterrorist battle.	15	68	386	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1284.749	1291.686	speaker#19	male	native	If they must rescue a hostage from within the sights of a mobster, the use of sign language among the special police is both secret and effective,	15	68	388	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1291.686	1294.959	speaker#19	male	native	and so, can often have the effect of taking action outside the mobster's expectations.	15	68	389	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1295.767	1300.298	speaker#19	male	native	Special police team members must spend one-third of each year in closed training.	15	68	391	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1300.892	1303.881	speaker#19	male	native	Capture and wrestle, and individual combat are their essential courses,	15	68	393	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1304.400	1311.385	speaker#19	male	native	and although it cannot be said one can take on ten opponents, at critical moments each of them has the unique skill to take out opponents.	15	68	395	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1311.911	1317.218	speaker#19	male	native	The force of one-soldier combat is this powerful, the one with collective attack should be even more formidable.	15	68	397	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1317.833	1322.490	speaker#19	male	native	When the team members form a phalanx carrying their shields, they can tackle any kind of chaotic scene,	15	68	399	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1322.991	1327.354	speaker#19	male	native	which is highly necessary to cope with certain out-of-control sports fans in large-scale competitions.	15	68	401	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1328.043	1336.157	speaker#19	male	native	2008 is getting closer, and the special police who shoulder the important task of safeguarding the security of the Olympic Games have intensified their training.	15	68	403	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1337.355	1344.774	speaker#20	male	native	Just using police service command management, facilities and equipment, and the human qualities of the police,	15	69	405	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1344.774	1351.786	speaker#20	male	native	unique, high-standard security work mainly symbolized by above-said modernizations,	15	69	406	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1352.415	1356.556	speaker#20	male	native	to ensure the 2008 Olympics are staged in safety.	15	69	408	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1404.670	1410.448	Lu_jian	male	native	Welcome back to Olympics China. In today's national team records, we continue looking at Chinese women's volleyball.	17	71	410	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1410.448	1416.162	Lu_jian	male	native	In the last program we looked in turn at the Chinese Women's Volleyball Team at the training ground and the amusement park.	17	71	411	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1416.162	1420.201	Lu_jian	male	native	Today, we take another look at what the Chinese Women's Volleyball Team looks like in army uniform.	17	71	412	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1420.201	1423.674	Lu_jian	male	native	Er, Yang Yang, do professional athletes have to take part in military training?	17	71	413	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1423.674	1425.656	Yang_yang	female	native	Well, there's no such rigid rule,	17	72	414	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1425.656	1426.313	Yang_yang	female	native	but, er,	17	73	415	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1425.656	1426.313	Lu_jian	male	native	Yes.	17	73	416	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1426.313	1431.369	Yang_yang	female	native	er, but a lot of sports teams use this method to teach, to educate athletes.	17	74	417	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1431.369	1431.668	Lu_jian	male	native	Oh.	17	75	418	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1431.668	1433.494	Yang_yang	female	native	Er, it's a pity I never had this kind of opportunity.	17	76	419	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1433.494	1440.290	Lu_jian	male	native	Er, well then, it seems military training is really quite necessary. Let's take a look at what the Chinese women's volleyball team army training is like.	17	77	420	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1442.772	1448.263	speaker#19	male	native	To the Chinese Women's Volleyball Team, who aim to defend their title, the difficulty of the 2008 Beijing Olympics can be well imagined.	17	78	422	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1448.772	1452.771	speaker#19	male	native	To cultivate the team members to have an even more iron will in the competition arena,	17	78	424	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1452.771	1457.450	speaker#19	male	native	the annual concentrated military training has become a compulsory course for the Chinese Women's Volleyball Team.	17	78	425	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1458.438	1460.319	speaker#21	male	native	Your feet must be as wide as your shoulders,	17	79	427	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1461.460	1463.498	speaker#21	male	native	and the gun stock should be snug in your shoulder socket.	17	79	429	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1464.187	1467.061	speaker#21	male	native	Shoulder socket, ah, it's just your shoulder socket, the shoulder socket, here.	17	79	431	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1467.061	1474.995	speaker#19	male	native	However, shooting a gun is not shooting a volleyball after all, and from the rolled-up paper and earplugs stuffed in their ears, you can see how amateur the girls are.	17	80	432	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1476.574	1481.342	speaker#19	male	native	Instructor Chen was quick-tempered, others haven't even taken two shots and he has already fired off all his.	17	80	434	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1482.238	1487.001	speaker#19	male	native	Although Zhou Ruirui is from the PLA team, her firing arm posture was really not commendable.	17	80	436	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1487.959	1493.984	speaker#19	male	native	Let's take a look at Feng Kun, her actions seem quite professional, but take a look at her the instant she fires.	17	80	438	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1493.984	1497.121	speaker#19	male	native	I don't know how many points she will hit with her eyes closed like that.	17	80	439	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1498.103	1504.476	speaker#19	male	native	The scores came out, and once chief coach Chen Zhonghe saw his results he still didn't forget to link it to volleyball.	17	80	441	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1509.588	1512.497	speaker#19	male	native	Feng Kun, who shoots with her eyes closed, even doesn't have a bad score.	17	80	443	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1513.054	1516.582	Feng_kun	female	native	Two ring tens, two ring nines, and four ring eights.	17	81	445	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1518.977	1522.693	speaker#19	male	native	Chu Jinling, the team's main striker on the field, missed the target with each single bullet.	17	82	447	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1529.755	1532.989	speaker#19	male	native	Although military training is unlike normal competitions and training,	17	82	449	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1532.989	1539.735	speaker#19	male	native	this kind of special training gives the women's volleyball team more confidence to face the challenges in 2008.	17	82	450	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1541.659	1545.894	speaker#19	male	native	With army training over, the Chinese Women's Volleyball Team is going to once again plunge into strenuous training.	17	82	452	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1546.425	1551.911	speaker#19	male	native	How much hardship must an Olympic champion go through: you can find the answer by looking at the Chinese Women's Volleyball Team.	17	82	454	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1552.570	1559.576	speaker#19	male	native	In a period of a year, the Chinese Women's Volleyball Team must assemble for training in Chenzhou, Zhangzhou, and other places for 100 days, and seven or eight hours each day.	17	82	456	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1560.495	1567.105	speaker#19	male	native	A single session of targeted training may even have over three hundred times of continuous defensive ball saves, serves, smashes and blocks.	17	82	458	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1572.223	1578.705	speaker#19	male	native	For the Chinese Women's Volleyball Team, it is essential to intensify the amount and technical difficulty of training in order to make up for their lack of strength and physical quality.	17	82	460	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1580.073	1585.619	speaker#19	male	native	As the Women's Volleyball Team with the highest times of touching ball, facing the disturbance of injury is unavoidable.	17	82	462	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1586.148	1591.242	speaker#19	male	native	After the Athens Olympics, the injuries of Feng Kun, Yang Hao, and other older team members became increasingly apparent.	17	82	464	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1591.242	1596.668	speaker#19	male	native	This also made the Chinese Women's Volleyball Team in 2006 fall to their lowest ebb since Chen Zhonghe led the team.	17	82	465	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1596.668	1601.728	speaker#19	male	native	This not only added slightly to the misgivings about the road the Chinese Women's Volleyball Team would take on the way to the 2008 Olympics,	17	82	466	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1602.716	1609.812	speaker#19	male	native	in addition, the most worrying thing was Zhou Ruirui, who left the competition scene for two years due to a stress fracture in her right leg.	17	82	468	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1610.590	1615.723	speaker#19	male	native	Since being injured in the 2004 Athens Olympics, Zhou Ruirui has not taken part in any match.	17	82	470	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1616.581	1621.565	speaker#19	male	native	Over the last two years, Ruirui has been undergoing rehabilitation treatment and physical-recovering training.	17	82	472	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1622.132	1627.326	speaker#19	male	native	The purpose of this kind of saving-up is simply to realize her Olympic dream in 2008.	17	82	474	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1629.042	1635.494	speaker#19	male	native	However, at the same time as recovering her health and skills, Ruirui now has a more composed and unhurried attitude.	17	82	476	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1636.638	1640.484	Zhao_ruirui	female	native	Before the operation I told everybody, I said, I want, want them to keep the pins and give them to me.	17	83	478	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1640.484	1645.830	Zhao_ruirui	female	native	And then after waking up from the operation, the first thing I said was, ask if my pins were there, and they said, we kept them for you.	17	83	479	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1645.830	1649.673	Zhao_ruirui	female	native	The second thing I asked was, did you fill up the pin holes, and they said, we filled them for you.	17	83	480	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1649.673	1653.674	Zhao_ruirui	female	native	Then the doctor said, this kid has a very clear head, just asking those two questions.	17	83	481	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1653.674	1655.617	Zhao_ruirui	female	native	It was like, because I had pins inside me,	17	83	482	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1656.193	1663.973	Zhao_ruirui	female	native	because the pins were in my legs before, he could feel these pin holes. If, uh, when the swelling subsided, he could feel the pins inside, one by one like this you could feel them.	17	83	484	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1663.973	1666.603	Zhao_ruirui	female	native	Er, but they've been taken out now, so there isn't any more.	17	83	485	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1666.603	1667.806	Zhao_ruirui	female	native	Then I said, uh,	17	83	486	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1668.431	1670.471	Zhao_ruirui	female	native	I said to my father, it was quite interesting, leaving them with me.	17	83	488	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1672.207	1676.254	speaker#19	male	native	Faced with ice-cold steel plates and pins, Zhou Ruirui nonetheless can still smile brightly.	17	84	490	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1676.254	1679.785	speaker#19	male	native	This kind of attitude is a genuine portrayal of the Chinese Women's Volleyball Team,	17	84	491	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1680.332	1685.285	speaker#19	male	native	because no matter what difficulties they face, the girls in the Chinese Women's Volleyball Team will stand up to them bravely.	17	84	493	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1688.611	1693.742	speaker#19	male	native	The smiles not only have recorded the maturity of these volleyball girls; even more, it even more foretells their hopes for the future.	17	84	495	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1694.252	1700.355	speaker#19	male	native	At the 2008 Olympics, we are confident the girls of the Chinese Women's Volleyball Team will smile even more brightly.	17	84	497	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1702.750	1705.089	Lin_dan	male	native	Since I am able to stand on this, on this stage,	18	85	499	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1705.617	1707.246	Lin_dan	male	native	I hope, while I am still able to play,	18	85	501	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1707.808	1709.957	Lin_dan	male	native	to demonstrate my abilities to the entire world.	18	85	503	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1714.770	1720.676	Bao_chunlai	male	native	In the last few years, er, we have always been placed second, just lagging behind such a little bit,	18	86	505	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1721.254	1722.255	Bao_chunlai	male	native	always keeping back a little effort.	18	86	507	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1722.764	1724.547	Bao_chunlai	male	native	I have always tried hard and never given up.	18	86	509	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1727.630	1730.537	Bao_chunlai	male	native	Hand in hand with the Olympics of China, realize the dreams of yours and mine.	18	86	511	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1730.537	1731.140	Lin_dan	male	native	I am Lin Dan.	18	87	512	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1731.687	1732.781	Bao_chunlai	male	native	I am Bao Chunlai.	18	88	514	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1740.231	1742.947	Lu_jian	male	native	Welcome, everybody, to keep on watching Olympics China Participants' Talk.	20	90	516	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1742.947	1746.612	Lu_jian	male	native	Today's guest on our program is in fact the musician Liu Huan.	20	90	517	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1746.612	1753.259	Yang_yang	female	native	In addition to taking part in and creating the Olympics song, Liu Huan, as a participant, witnessed two Olympic bids.	20	91	518	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1754.950	1760.265	speaker#19	male	native	Liu Huan was an eyewitness to the unforgettable experience of two Beijing Olympic bids.	20	92	520	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1760.265	1764.812	speaker#19	male	native	Two times he participated in the Olympic Bid Delegation, both as a musician.	20	92	521	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1764.812	1769.283	speaker#19	male	native	The purpose was to sing Chinese hopes, in a foreign country, on the night of Olympic bid success,	20	92	522	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1769.812	1775.504	speaker#19	male	native	and the two songs prepared for the two Olympic bids have become an inerasable memory of the Olympics he has in his mind.	20	92	524	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1778.139	1779.761	Lu_jian	male	native	Today, uh, we want to invite	20	93	526	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1780.301	1780.839	Lu_jian	male	native	Liu Huan	20	93	528	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1781.348	1787.612	Lu_jian	male	native	to talk with us about his experiences taking part in the Olympics, because Liu Huan has taken part in both Olympic bids,	20	93	530	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1787.612	1788.109	Liu_huan	male	native	Correct.	20	94	531	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1788.109	1789.307	Lu_jian	male	native	both in sadness and in happiness.	20	95	532	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1789.307	1789.696	Liu_huan	male	native	Yes.	20	96	533	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1789.696	1793.918	Lu_jian	male	native	that's right, because this taking part, taking part in both Olympic bids can be described with this	20	97	534	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1793.918	1795.146	Lu_jian	male	native	kind of mood.	20	98	535	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1793.918	1795.146	Liu_huan	male	native	Yes, yes.	20	98	536	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1795.146	1796.733	Lu_jian	male	native	The first time was in Monte Carlo.	20	99	537	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1796.733	1797.122	Liu_huan	male	native	Uh-huh.	20	100	538	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1797.122	1800.086	Lu_jian	male	native	Er, 1993, as what capacity were you, being there at the time?	20	101	539	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1800.086	1804.337	Liu_huan	male	native	At the time I was really a member of our country's, uh, Olympic Bid Delegation.	20	102	540	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1804.337	1804.787	Lu_jian	male	native	Uh-huh.	20	103	541	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1804.787	1807.901	Liu_huan	male	native	I went over on the charter place, to, to, to Monaco.	20	104	542	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1807.901	1808.410	Lu_jian	male	native	Uh-huh.	20	105	543	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1808.410	1816.075	Liu_huan	male	native	Er, that time, uh, an American composer called Giorgio Moroder, the writer of 'Hand in Hand,'	20	106	544	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1816.075	1816.704	Yang_yang	female	native	Ah.	20	107	545	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1816.704	1822.123	Liu_huan	male	native	he, that year he expected Beijing to win, so he wrote a song for Beijing, called 'Good Luck Beijing.'	20	108	546	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1822.123	1824.327	Lu_jian	male	native	Ah, best wishes Beijing, or good luck Beijing.	20	109	547	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1822.123	1824.327	Liu_huan	male	native	Yes, right.	20	109	548	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1824.327	1826.554	Liu_huan	male	native	Yes, yes, good luck to, best wishes to Beijing, we translated it later.	20	110	549	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1826.554	1826.939	Lu_jian	male	native	Yes.	20	111	550	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1827.627	1833.830	Liu_huan	male	native	Er, the song I recorded with Wei Wei, but the two of us, uh, were members of the Bid Delegation,	20	112	552	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1833.830	1836.824	Liu_huan	male	native	arrived in Monaco. Our duty was very simple; we had not tried before,	20	112	553	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1836.824	1837.778	Liu_huan	male	native	it was,	20	113	554	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1836.824	1837.778	Yang_yang	female	native	Ah.	20	113	555	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1838.353	1841.560	Liu_huan	male	native	er, if the bid was successful, because +it, according to their rules, uh,	20	114	557	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1841.560	1850.896	Liu_huan	male	native	er, the successful bid city would be qualified to hold, in the evening, in a sports club the King of Monaco has by the seashore, where the city could hold that...	20	114	558	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1850.896	1851.417	Yang_yang	female	native	Evening party...	20	115	559	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1851.417	1853.950	Liu_huan	male	native	((pw)), yes that's right, evening reception, a celebration party.	20	116	560	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1851.417	1853.950	Lu_jian	male	native	A ((pw)) ((pw)) celebration party.	20	116	561	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1853.950	1856.340	Liu_huan	male	native	We were prepared to sing this victory song.	20	117	562	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1856.962	1858.052	Lu_jian	male	native	At the time we were possibly.	20	118	564	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1856.962	1858.052	Liu_huan	male	native	Prepared to sing this song.	20	118	565	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1858.052	1861.046	Lu_jian	male	native	When you take that song, deep +in your heart you may be expecting, this one,	20	119	566	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1861.046	1862.693	Liu_huan	male	native	to be able to sing this song.	20	120	567	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1861.046	1862.693	Lu_jian	male	native	That's right, because at that time we really	20	120	568	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1862.693	1868.161	Liu_huan	male	native	had high expectations, ah, because everybody was full of high spirits, at that time, ah.	20	121	569	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1868.792	1872.902	Liu_huan	male	native	As a result, finally, turned out to be that kind of an ending,	20	121	571	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1873.848	1875.027	Liu_huan	male	native	extremely sad, ah.	20	121	573	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1875.027	1876.631	Yang_yang	female	native	And were you ready for it then?	20	122	574	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1875.027	1876.631	Liu_huan	male	native	But at heart,	20	122	575	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1876.631	1877.876	Yang_yang	female	native	Say, before we went.	20	123	576	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1878.501	1879.549	Liu_huan	male	native	to be honest,	20	124	578	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1879.549	1879.848	Yang_yang	female	native	Yes.	20	125	579	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1879.848	1880.926	Liu_huan	male	native	of course we were prepared.	20	126	580	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1880.926	1881.725	Yang_yang	female	native	Prepared because...	20	127	581	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1881.725	1884.406	Liu_huan	male	native	Because you, you go to a competition, you must definitely be prepared	20	128	582	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1884.925	1885.985	Liu_huan	male	native	that you may not win, isn't that right?	20	129	584	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1884.925	1885.985	Yang_yang	female	native	Prepare for two outcomes.	20	129	585	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1885.985	1891.330	Liu_huan	male	native	That's for sure, but no matter how prepared you are, you would never think it, it will be that, that way.	20	130	586	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1891.330	1891.824	Yang_yang	female	native	That way.	20	131	587	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1891.824	1893.554	Liu_huan	male	native	Yes, it was, was, was	20	132	588	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1894.226	1897.985	Liu_huan	male	native	too sad ah, that is, one thing is, I feel this competition, uh, is too cruel, ah,	20	132	590	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1897.985	1901.435	Liu_huan	male	native	not like our sports competitions, like your previous competitions, you, for example, two people compete,	20	132	591	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1902.124	1905.597	Liu_huan	male	native	and if you win through to the end you finally win the gold medal; even if I cannot win, I am still a runner-up, uh.	20	132	593	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1905.597	1907.124	Liu_huan	male	native	Ha ha.	20	133	594	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1905.597	1907.124	Lu_jian	male	native	That is, then.	20	133	595	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1907.124	1909.729	Liu_huan	male	native	When it's finished it is nothing to do with you, it is somebody else's.	20	134	596	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1909.729	1910.118	Lu_jian	male	native	Yes.	20	135	597	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1910.118	1912.708	Liu_huan	male	native	Ah, so that, uh, that shortfall...	20	136	598	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1910.118	1912.708	Yang_yang	female	native	Right. Although we lacked one vote. But.	20	136	599	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1912.708	1913.741	Liu_huan	male	native	It was too much, it is.	20	137	600	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1913.741	1914.160	Lu_jian	male	native	Right.	20	138	601	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1914.160	1916.118	Liu_huan	male	native	Ah, so that, then, it was really,	20	139	602	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1916.636	1919.340	Liu_huan	male	native	I remember that evening inside that sports center,	20	139	604	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1919.908	1923.582	Liu_huan	male	native	the arrangements of the promoter were very interesting, the five bid cities, uh,	20	139	606	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1924.129	1925.142	Liu_huan	male	native	facing the chairman's podium,	20	139	608	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1925.645	1927.573	Liu_huan	male	native	they erected five strips.	20	139	610	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1927.573	1928.142	Yang_yang	female	native	Uh-huh.	20	140	611	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1928.142	1933.080	Liu_huan	male	native	Each of the teams, then, were all different colors; at a glance there were five different colors,	20	141	612	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1933.661	1939.035	Liu_huan	male	native	then finally as soon as Sydney was announced, the strip over there, that yellow clothing, whoosh, and it flew upwards,	20	141	614	report	
+CCTV4_DAILYNEWS_CMN_20070113_135800	0	1939.554	1940.148	Liu_huan	male	native	then it	20	141	616	report	

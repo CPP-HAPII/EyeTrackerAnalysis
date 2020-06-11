@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2975	0	300.0	400.0	speaker	unknown	unknown	据台湾《联合晚报》报道，台北医学大学附设医院和保鲜盒业者进行岛内民众“食物保鲜认知与行为”调查发现，冰箱管理观念差，九成的岛内民众买回食物后，没有先清洗、分类，便用塑料袋、保鲜膜就往冰箱塞，导致食物变质；九成二曾有丢食物的经验，其中七成因为放得太久，无法判断食物是否新鲜而丢弃。	0	0	0		

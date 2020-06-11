@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'nontrans', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 169.518, 503.36000000000001, 537.15499999999997, 799.23699999999997, 814.59400000000005, 885.11500000000001, 1204.7429999999999, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080407_123801	0	503.360	537.155	speaker#7	male	nonnative	我看见这药,我当然也是那样吃啊,丢到嘴里,喝口水就完了,一般来说好多误吃就是这样造成的,填到嘴里,喝口水咽下去就解决了,也没有药味,它这个药应该把它弄成小的可不可行,你为啥整那么大,你把它一颗分成四五颗那有啥不可以的,应该是这样吃嘛,你为啥把它造这么大	2	24	26	filler	statement
+CCTV1_LEGALREPORT_CMN_20080407_123801	0	626.944	641.090	speaker#2	female	native	杨文水制药厂说桂枝茯苓丸完全是按照中华人民共和国药典进行生产的,就连药品说明也是照搬中华人民共和国药典上的文字并没有任何违规行为	3	29	31	report	statement

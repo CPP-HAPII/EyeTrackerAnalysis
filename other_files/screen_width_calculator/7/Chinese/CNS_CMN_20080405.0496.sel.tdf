@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080405.0496	0	400.0	500.0	speaker	unknown	unknown	访问期间，郭声琨一行将拜会洪森首相，会见外交部、商业部、波罗勉省等高官，举办中国广西—柬埔寨经贸合作推介会。	0	0	0		
+CNS_CMN_20080405.0496	0	700.0	800.0	speaker	unknown	unknown	为庆祝中柬建交50周年、喜迎柬埔寨新年、答谢柬埔寨各界对广西的大力支持，广西代表团将在金边文化中心举行2008“魅力广西”专场文艺演出。	0	0	0		
+CNS_CMN_20080405.0496	0	800.0	900.0	speaker	unknown	unknown	据了解，广西与柬埔寨经贸等各方面合作近年来不断加强。	0	0	0		
+CNS_CMN_20080405.0496	0	1300.0	1400.0	speaker	unknown	unknown	去年柬埔寨驻南宁总领事馆已经复馆。	0	0	0		
+CNS_CMN_20080405.0496	0	1700.0	1800.0	speaker	unknown	unknown	前四届博览会有近600家柬埔寨企业参展参会，累计贸易成交额超过2000万美元，投资合作签约9亿美元。	0	0	0		

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0216.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	马英九称5月底将提新预算 调整项目而不改总数	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	马英九今天应邀向在台外资演讲，保证将在5月底提出新预算，取代旧的版本。	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	1500.000	2200.000	TEXT1	unknown	unkown	据台湾TVBS报道，马英九向外资保证，上任10天就会启动。他表示，5月底将向台“立法院”提出预算书，让“立院”6月通过预算，7月初就可以落实新执政团队的预算，不需要再执行现在的版本。	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	马英九表示，新编的预算将不会改变总数，但会调整预算项目。	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	不想多等1年，马英九急着兑现政见。	0	0	0		statement
+PDA_CMN_20080423.0216.sgm	0	2750.000	2800.000	TEXT1	unknown	unkown	8在被记者问到这是否是为了赶快实现“爱台12建设”时，马英九回答，都由“行政院”予以说明，只是有这样的想法。	0	0	0		statement

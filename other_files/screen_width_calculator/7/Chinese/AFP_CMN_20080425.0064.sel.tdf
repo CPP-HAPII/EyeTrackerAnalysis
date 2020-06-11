@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0064	0	0.0	1000.0	speaker	unknown	unknown	中国国营「新华社」今天报导,中国有关部门准备在近日与达赖喇嘛的私人代表进行接触磋商。	0	0	0		

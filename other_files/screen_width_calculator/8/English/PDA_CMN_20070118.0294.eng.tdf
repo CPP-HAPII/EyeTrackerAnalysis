@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070118.0294	0	10010.000	10019.900				U.S. Claims Somali Militant Leader May be Shot to Death	0	0	0		
+PDA_CMN_20070118.0294	0	20010.000	20019.900				January 18, 2007 13:45	0	0	0		
+PDA_CMN_20070118.0294	0	30010.000	30019.900				Teresa Whelan, a senior official responsible for African Affairs at the Pentagon, stated on January 17 that Somali Islamic militia leader Aden Hashi Farah Ayro might be injured or shot to death in the air strike that the U.S. army launched on Somali last week.	0	0	0		
+PDA_CMN_20070118.0294	0	30020.000	30029.900				The leader was believed to have been sheltering three al-Qaeda's members who were on the United States' wanted list.	0	0	0		
+PDA_CMN_20070118.0294	0	40010.000	40019.900				According to report of the British media, Whelan said that she believed that eight of Ayro's men were killed in the air strike while Ayro himself might have been seriously injured or even killed. "Ayro had been instrumental in sheltering the three al Qaeda-affiliated terrorists that we are interesting in bringing to justice for the bombings in Kenya and Tanzania.	0	0	0		
+PDA_CMN_20070118.0294	0	40020.000	40029.900				Ayro was important to us as without his help, the top three, could not have stayed in Somalia."	0	0	0		
+PDA_CMN_20070118.0294	0	50010.000	50019.900				She added that the United States was still searching for the three terrorists and trying to confirm whether Ayro was dead.	0	0	0		
+PDA_CMN_20070118.0294	0	60010.000	60019.900				The three suspects mentioned by Whelan were suspected of orchestrating and carrying out the bombings of the U.S. embassies in Kenya and Tanzania in 1998 and the bombing of the hotel on Kenyan beach in 2002.	0	0	0		
+PDA_CMN_20070118.0294	0	60020.000	60029.900				On the 8th, the U.S. air force military helicopters launched air strikes on a village in southern Somali controlled by religious militants on grounds of attacking the two al-Qaeda members in hiding.	0	0	0		
+PDA_CMN_20070118.0294	0	60030.000	60039.900				This was the first time the U.S. army openly involved in Somali's civil war since the U.S. Special Forces withdrew from Somali in the 90's of the last century.	0	0	0		
+PDA_CMN_20070118.0294	0	60040.000	60049.900				(Yuan Xue)	0	0	0		

@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 62.988, 66.941000000000003, 71.905000000000001, 112.93899999999999, 214.72399999999999, 278.50400000000002, 346.64499999999998, 417.55599999999998, 466.69299999999998, 528.62699999999995, 585.25400000000002, 636.32600000000002, 640.67899999999997, 791.87699999999995, 1622.377, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080402_073002	0	195.748	214.724	Wang_Jin_Ping	male	native	都能够期待在绝对多数的这个国民党的 (()) ,啊这一个 (()) ,那么呢国民党应该展现出啊那 (())	4	9	18	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080402_073002	0	1316.568	1322.112	Jiang_Min_Qin	male	native	那么这是莎士比亚在查理二世第二幕第二景里面所写的,我觉得写得非常的传神	14	50	139	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080402_073002	0	1434.190	1437.221	Jiang_Min_Qin	male	native	哦第二个开源,至少有一条路可以做	14	50	150	filler	statement

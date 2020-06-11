@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080719.0046	0	0.0	100.0	speaker	unknown	unknown	Beaten for 30 Minutes by Three Men and Three Women who Are Drunk, Two Police Officers in Zhengzhou Refrain from Hitting Back	0	0	0		
+CNS_CMN_20080719.0046	0	300.0	400.0	speaker	unknown	unknown	At about 17:30 on the afternoon of the 18th, a major incident of attacking police occurred on East Jinshui Road in Zhengzhou City.	0	0	0		
+CNS_CMN_20080719.0046	0	500.0	600.0	speaker	unknown	unknown	The beating lasted about 30 minutes. The two police officers just dodged but did not hit back. One of the police officers was seriously injured and was taken away by 120.	0	0	0		
+CNS_CMN_20080719.0046	0	1200.0	1300.0	speaker	unknown	unknown	Many onlookers surrounded the scene, but nobody dared to go forward and intervene.	0	0	0		

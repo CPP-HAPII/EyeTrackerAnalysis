@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080724.0002	0	0.0	100.0	speaker	unknown	unknown	（对外）（文化视点）从《木兰》到《功夫熊猫》：好莱坞在深化对中国文化认知	0	0	0		
+XIN_CMN_20080724.0002	0	100.0	200.0	speaker	unknown	unknown	新华社贵阳７月２４日电（记者田苗 杨眉）２００８亚洲青年动漫大赛高峰论坛上，《花木兰》和《功夫熊猫》成为出现频率最高的两个词。	0	0	0		
+XIN_CMN_20080724.0002	0	200.0	300.0	speaker	unknown	unknown	二者都取自中国形象，但《功夫熊猫》似乎更加成功。	0	0	0		
+XIN_CMN_20080724.0002	0	300.0	400.0	speaker	unknown	unknown	美国平和润文化交流有限公司总裁森德·约翰逊说：“从《花木兰》到《功夫熊猫》，在这个过程中可以看到好莱坞正在深化对中国文化的认知。”	0	0	0		
+XIN_CMN_20080724.0002	0	500.0	600.0	speaker	unknown	unknown	一个女孩儿坐在溪边，看着自己的水中倒影。	0	0	0		
+XIN_CMN_20080724.0002	0	1500.0	1600.0	speaker	unknown	unknown	（小标题）梦工厂“功夫熊猫”：绿眼睛的中国“禅”师	0	0	0		
+XIN_CMN_20080724.0002	0	1600.0	1700.0	speaker	unknown	unknown	今年６月上映的梦工厂动画大片《功夫熊猫》在全球掀起一阵中国热。	0	0	0		
+XIN_CMN_20080724.0002	0	2000.0	2100.0	speaker	unknown	unknown	“熊猫本就是中国的代表，功夫也是美国人非常感兴趣的中国元素，中国古代传统建筑，面条和包子等中国食品，”邓桥说，“各种小细节都充满着中国色彩。”	0	0	0		

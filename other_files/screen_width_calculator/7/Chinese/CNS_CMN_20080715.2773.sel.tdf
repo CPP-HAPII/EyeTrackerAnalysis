@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2773	0	800.0	900.0	speaker	unknown	unknown	灾害损失评估和资源环境承载能力评价是规划编制的重要参考依据，这两个报告进一步修改和征求意见后，上报国务院抗震救灾总指挥部。	0	0	0		

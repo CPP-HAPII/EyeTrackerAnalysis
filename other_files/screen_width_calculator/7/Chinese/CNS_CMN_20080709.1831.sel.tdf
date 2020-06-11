@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.1831	0	6000.0	6100.0	speaker	unknown	unknown	羌族更是生存于龙门山地质断裂带上，千百年来与地震相生相伴。	0	0	0		
+CNS_CMN_20080709.1831	0	6200.0	6300.0	speaker	unknown	unknown	在某些羌族地区，人们相信地震时只要大声叫狗就能制住地震。	0	0	0		
+CNS_CMN_20080709.1831	0	6300.0	6400.0	speaker	unknown	unknown	在羌族文化中，狗被视为生活于地震带上的这个民族的守护神。	0	0	0		
+CNS_CMN_20080709.1831	0	6400.0	6500.0	speaker	unknown	unknown	著名的三眼带犬的二郎神，实际上是羌族所崇奉的猎神兼山神形象。	0	0	0		
+CNS_CMN_20080709.1831	0	6600.0	6700.0	speaker	unknown	unknown	而震后重建，羌族人可能会离开家乡，那些尚存的应对灾难的经验和心态，将如何保存？	0	0	0		
+CNS_CMN_20080709.1831	0	10100.0	10200.0	speaker	unknown	unknown	对于外界试图给予的帮助，他似乎同样无所谓，“我们就这样了，你们有多大能力帮助我们？	0	0	0		
+CNS_CMN_20080709.1831	0	11500.0	11600.0	speaker	unknown	unknown	明明知道是危楼，自己不进去，却非要让战士进去抬亲人的遗体。	0	0	0		
+CNS_CMN_20080709.1831	0	12100.0	12200.0	speaker	unknown	unknown	电视上，名主持人阮次山讲四川人，讲得都哭出来了，震后第九天的节目，阮说8天以来，四川灾区这么大面积，这么多人，这么大灾难，犯罪率是zero(零)，全世界都没有的。	0	0	0		

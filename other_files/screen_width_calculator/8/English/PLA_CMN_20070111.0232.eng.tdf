@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070111.0232	0	10010.000	10019.900				University in England Develops New Airplane Module Test Method	0	0	0		
+PLA_CMN_20070111.0232	0	20010.000	20019.900				(Source: Xinhua News Agency Issue time: 2007-01-11 17:34)	0	0	0		
+PLA_CMN_20070111.0232	0	30010.000	30019.900				Xinhua News Agency, London, January 10 - (Reporter Ge Qiufang) Researchers from the University of Portsmouth in England are developing a new essential airplane components test method to guarantee safer travel by air.	0	0	0		
+PLA_CMN_20070111.0232	0	40010.000	40019.900				On the 10th, according to the introductions of Professor Tong Jie who was responsible for this research in the university, the research team was developing this method through using a computer modeling method, studying the changes under flight pressure of the engine, and other essential components.	0	0	0		
+PLA_CMN_20070111.0232	0	50010.000	50019.900				Tong Jie said that the metal components inside the engine need to withstand high pressure and large vibrations while the airplane is flying; therefore, the small cracking of these components due to metal fatigue must be clearly understood.	0	0	0		
+PLA_CMN_20070111.0232	0	50020.000	50029.900				In the usual circumstances, the technicians keep abreast of these cracks through regular inspections and machinery tests, and the prompt replacements of possible problem components.	0	0	0		
+PLA_CMN_20070111.0232	0	50030.000	50039.900				The cost of this kind of inspection is high. This is also one of the main causes of the current expensive airplane ticket price.	0	0	0		
+PLA_CMN_20070111.0232	0	60010.000	60019.900				Tong Jie said that they plan to cooperate with material scientists from the University of Siegen in Germany using a high-performance transmission electron microscope to inspect the fault structure, other slight changes in these components, and obtain data. Afterward, they will make precise models and accurately forecast the metal component's fatigue degree.	0	0	0		
+PLA_CMN_20070111.0232	0	60020.000	60029.900				This can not only enhance flight security, but it can also reduce the service cost and make air travel safer and cheaper.	0	0	0		
+PLA_CMN_20070111.0232	0	70010.000	70019.900				This project has obtained funding from the Royal Society.	0	0	0		
+PLA_CMN_20070111.0232	0	70020.000	70029.900				(end)	0	0	0		

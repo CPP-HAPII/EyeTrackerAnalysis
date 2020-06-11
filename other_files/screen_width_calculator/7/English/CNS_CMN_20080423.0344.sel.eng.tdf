@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080423.0344	0	600.0	700.0	speaker	unknown	unknown	County animal resource department director Ashish Roy Barman said, "This is the second time H5N1 Bird Flu Virus has been found in Tripura County."	0	0	0		

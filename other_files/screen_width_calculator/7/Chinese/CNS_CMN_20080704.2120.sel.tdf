@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.2120	0	400.0	500.0	speaker	unknown	unknown	它们逃过劫难了吗？”6月底，青川县林业局等单位发起的“情系青川，心系熊猫”科考活动，对保护区内的熊猫生存状况进行科学考察。	0	0	0		

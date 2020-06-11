@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.2814	0	0.0	100.0	speaker	unknown	unknown	Manager of Amateur Boxing Association: British boxer Price will win in the Beijing Olympic Games	0	0	0		

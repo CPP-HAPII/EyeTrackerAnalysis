@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-113207-10736029	0	300.0	400.0	speaker	unknown	unknown	比如说，USAA Financial Planning Services注册金融规划师约瑟夫(Joseph Montanaro)表示，他改掉了每天都要喝Dr Pepper的习惯，结果每个月可以省下130美元，一年下来，可就是1,560美元呢。	0	0	0		
+cmn-WL-8-113207-10736029	0	1500.0	1600.0	speaker	unknown	unknown	根据Seattle City Light资源节约部门的数字，这意味着，每天的水电成本为57美分，一年就是208美元。	0	0	0		
+cmn-WL-8-113207-10736029	0	3500.0	3600.0	speaker	unknown	unknown	如果你不去购买瓶装水（每瓶大约1-1.50美元），按照每周工作5天计算，一周至少可以省下5-7.50美元。	0	0	0		
+cmn-WL-8-113207-10736029	0	4100.0	4200.0	speaker	unknown	unknown	我们还假设每天往返30英里，一辆标准尺寸的汽车或者SUV每15英里耗油1加仑。	0	0	0		
+cmn-WL-8-113207-10736029	0	4700.0	4800.0	speaker	unknown	unknown	一般来说，除草服务公司每周修剪一次面积一般的草坪，收费在20-40美元，收拾树叶要90美元。	0	0	0		
+cmn-WL-8-113207-10736029	0	5600.0	5700.0	speaker	unknown	unknown	租DVD看，不再光顾电影院	0	0	0		
+cmn-WL-8-113207-10736029	0	5900.0	6000.0	speaker	unknown	unknown	我们还假设你每个月只看一次电影，Netflix.com、Blockbuster.com和Intelliflix.com等提供的DVD服务的月租金最低为3.99美元。	0	0	0		
+cmn-WL-8-113207-10736029	0	6000.0	6100.0	speaker	unknown	unknown	租电影看还有更多的好处：DVD服务的月租金常常包括每个月可多次租赁；你自己在家制作的爆米花可能比当地电影院提供的更便宜、更健康。	0	0	0		

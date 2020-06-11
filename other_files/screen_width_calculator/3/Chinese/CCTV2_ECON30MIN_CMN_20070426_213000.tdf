@@ -1,0 +1,197 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 193.68100000000001, 815.14499999999998, 992.91600000000005, 1148.2570000000001, 1315.598, 1691.903, 9999999.0]
+CCTV2_ECON30MIN_CMN_20070426_213000	0	193.681	196.641	Ma_hongtao	male	native	观众朋友，你好，欢迎收看经济半小时，我是马洪涛。	1	1	1	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	196.641	205.797	Ma_hongtao	male	native	眼瞅着股市火了，很多人都坐不住了，纷纷的跑到证券营业部去开户，打钱，撸起袖子亲自去上阵炒一把。	1	1	2	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	205.797	214.652	Ma_hongtao	male	native	不过也有些人呢就谨慎一点，他们想到了去找金融理财师，他们希望专业人士能够点石成金，帮他们拿到更高的回报。	1	1	3	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	215.191	222.013	Ma_hongtao	male	native	而这段时间呢，投资理财就成了最热门的一个话题，而理财师也成了相当热门的一个职业。	1	1	5	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	223.635	236.568	speaker#1	male	native	近年来，金融理财师正在成为人们火热追捧的职业，它与律师，会计师并驾齐驱，成为我国高收入服务业中的第三大行业，而且服务面比律师，会计师更广阔。	1	2	7	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	237.703	241.861	speaker#2	male	native	啊，咱们这行吧就是在中国刚刚兴起，我觉得发展特别大。	1	3	10	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	241.861	245.672	speaker#3	male	native	呃，对我们将来的个人生涯也有好处，对社会也有好处。	1	4	11	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	245.672	253.375	speaker#4	male	native	啊，据说在美国如果是考过 <foreign lang="English">CFP</foreign> 好像年薪是在二十几万美元这样吧。	1	5	12	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	254.356	259.497	speaker#1	male	native	在许多人强烈的希望成为金融理财师的背后，是中国庞大的理财市场。	1	6	14	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	259.497	267.927	speaker#1	male	native	据中国人民银行发布的统计数据表明，在过去的六年中，中国理财业务每年的市场增长率达到百分之十八，	1	6	15	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	267.927	271.882	speaker#1	male	native	中国理财市场规模远远超过一千亿人民币。	1	6	16	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	271.882	278.265	speaker#1	male	native	麦肯锡公司的一项调查也显示，中国的理财规划业务的利润高达三百二十亿美元，	1	6	17	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	278.265	282.116	speaker#1	male	native	然而与之相对应的却是理财师市场人才的奇缺。	1	6	18	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	283.051	293.235	Liu_feng	male	native	在中国市场上就目前来讲，嗯，要要要有二，三十万人的这个这样一支理财的一个基本的队伍应该，应该不算多。	1	7	20	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	293.235	293.757	speaker#5	female	native	嗯。	1	8	21	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	293.757	296.960	Liu_feng	male	native	不算多，所以说我们这个，呃，缺口还是很大的。	1	9	22	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	297.821	305.546	speaker#1	male	native	国家经济景气计算中心的一项调查显示，全国范围内约有百分之七十的居民希望得到理财顾问的指导，	1	10	24	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	305.546	314.830	speaker#1	male	native	国际的一项调查也表明，人们在没有得到专业理财人员的指导和咨询时， 一生中损失的个人财产从百分之二十到百分之百不等。	1	10	25	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	315.410	322.669	Ma_hongtao	male	native	到了银行你会发现大家都叫理财师，各种理财专家满天飞，这对于投资者来说是一件非常头疼的事儿，	1	11	28	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	322.669	331.735	Ma_hongtao	male	native	其实这里面呢是大有学问，什么样的理财师是获得国际社会和公众广泛认可的专业化资格认证的理财专家呢？	1	11	29	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	331.735	342.316	Ma_hongtao	male	native	所谓的国际金融理财师简称 <foreign lang="English">CFP</foreign> 是这个领域中最权威，最流行的职业资格认证，目前呢这个认证也已经被引入到中国。	1	11	30	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	342.316	352.027	Ma_hongtao	male	native	但是呢由于这个认证刚刚引进来时间不久，在很多的地方一哄而上， 上了很多的培训机构，过程是非常的不完善，我们一起来看一下。	1	11	32	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	353.008	358.044	speaker#1	male	native	记者根据网上的这则招生广告，来到了内蒙古呼和浩特市某学校，	1	12	35	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	358.044	366.294	speaker#1	male	native	这里正在举行所谓国际金融理财师的培训班，离上课还有半个小时，教室里已经坐满了前来听课的人。	1	12	36	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	366.294	370.611	speaker#1	male	native	一位培训师正在舞台上夸耀理财师资格证书的神奇。	1	12	37	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	371.390	381.215	speaker#6	male	native	当你培训完了以后，拿到这样的证书，也是你职业生涯中有所改变的时候，你会庆幸当初的选择。	1	13	39	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	382.447	395.337	speaker#1	male	native	为了让学员们相信这样的培训会改变他们的人生，让他们从此成为年薪百万的成功人士， 这位培训师开始拿出一个个充满诱惑的例子，描绘着这一职业的美好前景。	1	14	41	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	398.265	407.622	speaker#7	female	native	上海平安保险总部第一个拿个人理财师的这个执照的叫李野，他现在的年，年收入一百四十万，就固定收入。	1	15	44	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	407.622	416.859	speaker#7	female	native	那第二个呢就是在北京的中国人寿保险公司，他的那个年，年薪是两百七十万，	1	15	45	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	416.859	421.246	speaker#7	female	native	啊，这些人呢都是最早的一批，是两千零二年开始拿到的资格证，	1	15	46	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	421.246	432.275	speaker#7	female	native	那今年是公元两千零七年，我相信你们将快马加鞭，以争取呢在两三年之内，看能不能突破这个数目。	1	15	47	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	432.275	437.829	speaker#1	male	native	记者看到，在这位培训师的鼓动下，听课的人一个个神情专注，	1	16	48	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	437.829	443.847	speaker#1	male	native	为了成为年薪百万的国际金融理财师，他们不远千里从各地赶来参加这样的培训。	1	16	49	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	444.536	446.272	speaker#8	female	native	你是那个海南岛的吧？	1	17	51	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	446.272	446.887	speaker#9	female	native	嗯，对。	1	18	52	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	446.887	449.455	speaker#10	female	native	很远的地方来啊。	1	19	54	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	446.887	449.455	speaker#8	female	native	那很远的地方。	1	19	53	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	449.455	449.964	speaker#9	female	native	嗯。	1	20	55	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	449.964	451.504	speaker#8	female	native	那这期有多少人呀？	1	21	56	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	451.504	452.859	speaker#10	female	native	我们是一百多名呀。	1	22	57	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	452.859	453.641	speaker#8	female	native	这期一百多人。	1	23	58	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	453.641	460.389	speaker#1	male	native	据这位组织者介绍，近两年他们已经成功举办了六期这样的所谓国际金融理财师培训班，	1	24	59	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	460.389	465.300	speaker#1	male	native	尽管学费是一年比一年高，但是报名的人却是一年比一年多。	1	24	60	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	465.300	467.342	speaker#8	female	native	现在这个学费是多少？	1	25	61	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	467.342	468.284	speaker#11	male	native	八千七。	1	26	62	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	468.284	468.868	speaker#8	female	native	八千七？	1	27	63	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	468.868	471.682	speaker#12		native	咱们这个是全国来说报名费最便宜的。	1	28	64	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	471.682	472.052	speaker#8	female	native	嗯。	1	29	65	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	472.052	473.589	speaker#12		native	新疆那边还是九千七。	1	30	66	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	473.589	474.400	speaker#8	female	native	嗯。	1	31	67	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	475.462	488.157	speaker#1	male	native	接着这位工作人员催促记者赶紧报名，她告诉记者趁现在学费低， 而且行业监管还不太严的时候趁早获得理财师资格证书，好早日成为金领人士，挣得大钱。	1	32	69	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	488.157	491.623	speaker#12		native	这次机会非常好，你要往年现在报名截至了。	1	33	71	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	491.623	492.074	speaker#8	female	native	啊。	1	34	72	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	492.074	500.188	speaker#12		native	现在由于大家报名的人非常多，所以我们只好拖延这个报名时间，你要想报的话明天就过来报。而且学费要涨。	1	35	73	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	500.188	501.589	speaker#8	female	native	下学期会涨多少？	1	36	74	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	501.589	504.120	speaker#12		native	这是咱们给你说，学费还要涨，而且难度会大。”	1	37	75	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	504.120	506.904	speaker#8	female	native	是吧，大概涨多少钱？	1	38	76	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	506.904	509.378	speaker#12		native	那不好说了，那肯定得上万了。	1	39	77	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	509.378	510.249	speaker#8	female	native	都上万了。	1	40	78	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	510.249	510.863	speaker#12		native	嗯，还得涨。	1	41	79	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	510.863	517.131	speaker#1	male	native	在这几张报名表上记者发现，在国际理财，年薪百万，金领人士的诱惑下，	1	42	80	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	517.131	526.963	speaker#1	male	native	前来报名的人不仅有银行，保险，证券等金融部门的工作人员， 还有不少是来自与金融工作毫不相关的一些单位，甚至是一些待业人员。	1	42	81	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	526.963	528.675	speaker#13	male	native	邮电局来了二十个人。	1	43	83	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	528.675	532.947	speaker#12		native	也有没有工作的，社会上可多了。	1	44	84	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	532.947	543.356	speaker#1	male	native	在报名处记者看到，来报名的人交了八千七百元学费后， 工作人员就发给学员一个印有 <foreign lang="English">CFP</foreign> 标志的资料袋，里面放有五本培训教材。	1	45	85	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	543.356	551.829	speaker#1	male	native	工作人员告诉记者，学员总共培训十三天，然后通过一个考试就可以轻松获得国际理财师资格证书。	1	45	87	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	552.883	554.383	speaker#8	female	native	这个考试好不好考？	1	46	89	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	554.383	555.169	speaker#12		native	好考。	1	47	90	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	555.169	557.362	speaker#8	female	native	交了这个钱，请问有考不过怎么办呀？	1	48	91	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	557.362	558.683	speaker#12		native	考不过我们有补考。	1	49	92	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	558.683	560.196	speaker#10	female	native	补考一定考过，你放心吧。	1	50	93	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	560.196	563.642	speaker#8	female	native	补考全部都能拿到，是吧？文凭全部都能拿到。	1	51	94	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	563.642	564.657	speaker#12		native	嗯，基本上。	1	52	95	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	564.657	566.764	speaker#8	female	native	也是咱们这儿给发证书，是吧？	1	53	96	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	566.764	570.859	speaker#12		native	是北京发，然后是北京传真发过来，然后我们来给大家发。	1	54	97	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	571.600	577.819	Ma_hongtao	male	native	刚才这家培训班承诺说只用十三天，就能够包你拿到 <foreign lang="English">CFP</foreign> 资格证书，	1	55	99	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	577.819	585.411	Ma_hongtao	male	native	考个金融理财师居然比考张驾照还要容易，但是我们了解的实际情况却和培训班说法呢是截然相反。	1	55	100	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	586.052	591.574	Ma_hongtao	male	native	<foreign lang="English">CFP</foreign> 在国际上应该是由 <foreign lang="English">CFP</foreign> 国际标准委员会考试认证，	1	55	102	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	591.574	594.888	Ma_hongtao	male	native	真正要获得一个 <foreign lang="English">CFP</foreign> 资格难度非常大。	1	55	103	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	594.888	602.235	Ma_hongtao	male	native	不仅要掌握证券，保险，基金，税务以及会计等方面的知识，还必须要有丰富的工作经验。	1	55	104	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	602.235	610.649	Ma_hongtao	male	native	即使是在有着二十多年金融理财师培训历史的美国，现在拿到 <foreign lang="English">CFP</foreign> 资格认证的也不过只有四万人。	1	55	105	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	610.649	616.970	Ma_hongtao	male	native	那么前面我们看到的那种十几天的速成班，培养出来的理财师真的能管用吗？	1	55	107	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	616.970	619.644	Ma_hongtao	male	native	我们来看一下北京的一位夫妇的遭遇。	1	55	108	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	620.355	628.402	speaker#1	male	native	原来在一家国有企业工作的罗先生夫妇三年前因为企业效益不好双双下了岗，目前靠低保过日子。	1	56	110	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	628.402	634.119	speaker#1	male	native	夫妻俩工作了二十多年，省吃俭用，攒下了十来万块钱，准备给儿子上大学用。	1	56	111	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	634.749	643.692	speaker#14	female	native	去年三月份，我们在报纸上看到一条广告，广告上说有专家可以帮你理财，一年之内至少可以让你的钱翻一番。	1	57	113	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	644.433	648.435	speaker#1	male	native	看到这条广告，夫妻俩动了心，就打电话过去咨询。	1	58	115	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	649.066	657.441	speaker#15	male	native	对方说你不是有十万块钱嘛，你把这十万交给我，我帮你买期货，买基金，买股票，	1	59	117	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	657.441	662.428	speaker#15	male	native	我可以保证你十万在一年之内最低变成三十万元。	1	59	118	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	663.209	670.415	speaker#1	male	native	十万元在一年内就可以变成三十万元，对于夫妻双双下岗的罗先生来说太具有诱惑力了。	1	60	120	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	670.415	675.091	speaker#1	male	native	于是夫妻俩找到理财师，决定把十万元交给理财师打理。	1	60	121	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	675.091	680.297	speaker#15	male	native	在写字楼里我们看到找理财师人很多啊，我们就比较放心了，	1	61	122	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	680.898	686.845	speaker#15	male	native	再一个他还给我们看了他的专业理财资格证书，他说是经过专业理财培训的。	1	61	124	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	687.886	694.243	speaker#1	male	native	罗先生夫妻俩就这样将十万元交给了理财师，理财师给了罗先生一张收据。	1	62	126	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	694.243	699.027	speaker#1	male	native	在收据上注明，一年内连本带利最低返还三十万元，	1	62	127	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	699.027	702.692	speaker#1	male	native	一个月过去了，罗先生真的尝到了甜头。	1	62	128	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	702.692	711.723	speaker#15	male	native	一个月后，他给了我们两千块钱，说是理财赚了一部分，然后每个月都会给两千块钱，其余的年底再给。	1	63	129	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	712.413	721.104	speaker#1	male	native	此后两个月，罗先生每月都按时收到理财师给的两千元钱，然而，到了第四个月罗先生就没有收到钱了。	1	64	131	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	721.104	730.000	speaker#15	male	native	后来理财师又跟我们说，每，每个月给你那两千块钱你不如把这两千块钱放进去，这样到年底你会赚的更多。	1	65	132	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	731.412	735.860	speaker#1	male	native	罗先生夫妻俩相信了理财师的话，耐心的等到了年底。	1	66	134	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	735.860	743.279	speaker#1	male	native	然儿他们没有想到理财师竟告诉他们，他们的钱炒期货全赔进去了，连十万元的本金都没了。	1	66	135	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	744.420	752.180	speaker#15	male	native	这可是我们的血汗钱，是我们全部家底，儿子上大学的钱也没了，当时那个气哦。	1	67	137	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	753.011	758.545	speaker#15	male	native	我们马上到他公司去找他，结果公司已经不再了，打手机也停机了。	1	67	139	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	760.248	764.953	speaker#1	male	native	再过两个月，罗先生的儿子就要参加高考了，夫妻俩十分发愁，	1	68	141	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	764.953	770.464	speaker#1	male	native	儿子的成绩很好，一定能够考上大学，但是儿子上大学的费用怎么办呢？	1	68	142	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	770.464	775.013	speaker#15	male	native	这段时间我们每天都去理财师上班的地方找他，但是找不到，	1	69	143	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	775.612	780.521	speaker#15	male	native	我们俩每月加起来的收入只能勉强过日子，真不知道怎么办。	1	69	145	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	781.616	790.413	speaker#1	male	native	一个月前，罗先生夫妻俩将城里的住房按每月一千两百元出租了，然后花一百元到农村去租了一间简易的民房。	1	70	147	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	790.413	799.373	speaker#15	male	native	现在我们租房子的费用只能够儿子上大学一年的学费，至于生活费嘛还得另外想办法。	1	71	148	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	800.306	806.874	speaker#1	male	native	腿脚残疾的罗先生找工作十分困难，他现在只能靠蹬三轮车为别人送货挣点钱。	1	72	150	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	808.131	815.145	speaker#15	male	native	现在打着代客理财幌子的人太多了，实在太坑人了，我们也搞不清楚是真还是假。	1	73	152	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	992.916	994.374	Ma_hongtao	male	native	好，欢迎回到我们的节目。	3	75	154	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	994.374	998.799	Ma_hongtao	male	native	看了前面那位罗先生一家的遭遇，相信大家都会疑惑，	3	75	155	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	998.799	1004.986	Ma_hongtao	male	native	一方面呢理财师是吹得天花乱坠，而另一方面罗先生一家却又落得是血本无归。	3	75	156	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1004.986	1011.839	Ma_hongtao	male	native	这些理财师不是都到所谓的培训班里面去学过么？怎么最后却把客户的钱都给埋没了呢？	3	75	157	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1011.839	1019.137	Ma_hongtao	male	native	我们的记者几经周折终于找到了一位速成班里面培养出来的理财师，我们来听一下他的经历，我们就明白了。	3	75	158	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1019.988	1027.795	speaker#1	male	native	在一家证券公司工作的徐先生，通过一个培训班获得了金融理财师证书后，便自己成立了一个理财工作室。	3	76	160	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1028.304	1032.232	speaker#1	male	native	靠着这个资格证书，很快就有十来个客户找他理财。	3	76	162	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1032.800	1035.616	speaker#16	male	native	这个一个客户是有五十万的一个客户，	3	77	164	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1036.117	1046.562	speaker#16	male	native	这个我首先把他的我跟他沟通时候，我会跟他先承诺，说这个我能够把你的这个资金一年之内从五十万变成一百五十万。	3	77	166	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1046.562	1054.353	speaker#1	male	native	在这种高额回报的诱惑下，不少客户不惜将多年积累的几十万元资金放心的交给了徐先生去理财。	3	78	167	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1054.353	1066.909	speaker#16	male	native	一方面我会给他这个拿出一些这个相当于是 以前客户的一些证明，就是说我做好过这些，当然这个证明是可以想办法做出来的。	3	79	168	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1067.540	1074.275	speaker#16	male	native	另外一方面如果他还不信任的话，我就把我的证书拿给他看，说我是这个具有国际资质的这个金融理财师。	3	79	174	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1075.016	1082.059	speaker#1	male	native	徐先生告诉记者，他的客户最多的时候有五十来个，每一个客户都给他五十万元的资金让他理财，	3	80	176	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1082.059	1087.086	speaker#1	male	native	徐先生采用的方法是购买股票，期货，黄金等来为顾客理财。	3	80	177	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1087.086	1093.127	speaker#1	male	native	他的收入就是从买卖股票，期货，黄金的交易中抽取一定比例的佣金。	3	80	178	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1093.838	1098.984	speaker#16	male	native	一般我们提取的比例啊多的时候甚至可以达到千分之一，	3	81	180	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1098.984	1108.654	speaker#16	male	native	这样的话我的客户如果每做出一个亿的交易额，我可以我本人可以拿到十万块钱的这个 这个收益。	3	81	181	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1108.654	1112.181	speaker#1	male	native	每个月十万元的收入，徐先生是怎样获得的呢？	3	82	184	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1112.872	1121.465	speaker#1	male	native	他告诉记者，秘诀就在于频繁的买进卖出股票，期货，黄金等产品，交易量做得越大，他的收入就越高。	3	82	186	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1121.465	1128.722	speaker#1	male	native	然而这样频繁的炒作的结果必然导致一些客户的资金不仅没有回报，而且还出现了亏损。	3	82	187	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1128.722	1132.097	speaker#1	male	native	这么做呢始终是因为是让客户赔钱自己赚钱，	3	83	188	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1132.097	1140.517	speaker#1	male	native	直到后来有一次一个一对这个老夫妻把这个自己的这个大半辈子积蓄一共是十多万块钱，拿来给我投资，	3	83	189	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1140.517	1148.257	speaker#1	male	native	最后也赔了将近三分之一，那看到老夫妻就很痛苦，也觉得内心受到很大触动吧，就不再接着做下去了。	3	83	190	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1315.598	1317.090	Ma_hongtao	male	native	好，欢迎回到我们的节目。	5	85	192	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1317.090	1323.825	Ma_hongtao	male	native	前面我们看到像徐先生这样的理财师，赔得多，赚得少，稳赚不赔的只有他自己一个人，	5	85	193	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1323.825	1329.866	Ma_hongtao	male	native	遇到这样的滥竽充数的南郭先生，你真的敢把自己的钱都交到他的手上吗？	5	85	194	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1329.866	1335.461	Ma_hongtao	male	native	这种离谱的大行其道不仅是欺骗了客户，还毁了金融理财师这个职业的名声。	5	85	195	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1335.461	1342.029	Ma_hongtao	male	native	我们不妨来了解一下，真正的国际金融理财师究竟是怎么回事，大家别上当受骗。	5	85	196	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1342.029	1352.597	Wu_xiaoling	female	native	这是一个非常值得纪念的日子，它标志着我国的代客理财业务进入了由专业人员提供服务的时代。	5	86	197	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1355.719	1360.543	speaker#1	male	native	这是二零零六年十一月在深圳举行的 <foreign lang="English">CFP</foreign> 会员组织成立大会，	5	87	199	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1360.543	1367.678	speaker#1	male	native	来自美国，加拿大，法国，日本等近二十个国家或地区的 <foreign lang="English">CFP</foreign> 组织的代表参加了这次大会。	5	87	200	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1367.678	1374.388	speaker#1	male	native	被称为全球个人金融理财领域黄金标准的 <foreign lang="English">CFP</foreign> 资格认证制度从此登陆我国。	5	87	201	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1375.929	1387.967	Wu_xiaoling	female	native	我们现在理财市场是很混乱的，我个，我本人处理过很多的就是这个，呃，这个金融风险， 都是和理财业务的不规范是有关系的。	5	88	203	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1387.967	1396.872	Wu_xiaoling	female	native	因而呢这个标准的那个推出，我想呢对于那个整顿金融秩序，规范金融秩序是非常有好处的。	5	88	205	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1397.914	1409.458	speaker#1	male	native	经中国人民银行银监会，保监会和证监会认可， 中国正式引进 <foreign lang="English">CFP</foreign> 国际金融理财师资格认证标准，成为国际金融理财标准委员会成员国，	5	89	207	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1409.458	1418.377	speaker#1	male	native	中国人民银行指定由中国金融理财标准委员会负责在国内进行 <foreign lang="English">CFP</foreign> 国际金融理财师资格的培训和证书的发放。	5	89	209	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1419.593	1426.728	speaker#1	male	native	那么目前在全国各地火爆开展的理财师资格培训，是不是中国金融理财标准委员会授权的呢？	5	89	211	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1428.512	1429.780	Liu_hongru	male	native	不是我们指定的。	5	90	213	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1429.780	1430.171	speaker#5	female	native	嗯。	5	91	214	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1430.171	1436.834	Liu_hongru	male	native	因为我们要， 要严格有法律程序的指定的培训单位。	5	92	215	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1436.834	1437.305	speaker#5	female	native	嗯。	5	93	218	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1437.305	1448.897	Liu_hongru	male	native	目前我们指定的培训单位 第一个就是上海 金融学院，还有一个北京金融培训中心，没有经过审定，没有授权的，都不是 合法。	5	94	219	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1439.467	1439.968	speaker#5	female	native	嗯。	5	95	220	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1441.595	1441.985	speaker#5	female	native	嗯。	5	97	222	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1448.005	1448.426	speaker#5	female	native	嗯。	5	99	224	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1450.012	1456.541	speaker#1	male	native	据刘鸿儒介绍，上海金融学院和北京金融培训中心，只能进行金融理财师的培训，	5	101	227	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1456.541	1460.860	speaker#1	male	native	发放证书由中国金融理财标准委员会统一审核发放。	5	101	228	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1460.860	1465.205	speaker#1	male	native	那些打着 <foreign lang="English">CFP</foreign> 招牌进行培训和发证都是违法的。	5	101	229	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1465.205	1471.327	speaker#1	male	native	而在这样的培训班获得证书后进行代客理财，有关部门更是严厉禁止。	5	101	230	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1471.327	1475.032	speaker#1	male	native	中国人民银行副行长吴晓灵告诉记者。	5	101	231	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1475.032	1480.779	Wu_xiaoling	female	native	对，因为你是在给别人出主意，教别人怎么花钱，这里头就涉及到了公众利益，	5	102	232	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1480.779	1486.467	Wu_xiaoling	female	native	作为金融监管来说，凡是涉及到公共利益的事情应该有严格的监管。	5	102	233	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1486.467	1494.210	Ma_hongtao	male	native	没有规矩不成方圆，相信随着 <foreign lang="English">CFP</foreign> 认证的引进，那些冒牌的金融理财师就很难再浑水摸鱼了。	5	103	234	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1494.210	1499.895	Ma_hongtao	male	native	不过目前呢国内真正获得 <foreign lang="English">CFP</foreign> 资格认证的理财师还不到一千人，	5	103	235	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1499.895	1506.705	Ma_hongtao	male	native	如果按照国内理财市场的规模来计算的话，那么这个职位现在至少还缺少二十多万人。	5	103	236	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1506.705	1513.349	Ma_hongtao	male	native	那么在这种情况之下一些金融机构为了抢夺理财市场的这个大蛋糕现在已经等不及了，	5	103	237	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1513.349	1517.292	Ma_hongtao	male	native	他们开始自己掏钱，培养自己的金融理财师。	5	103	238	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1517.831	1524.868	speaker#1	male	native	这些不久前中国金融理财标准委员会在北京，上海，成都等地举行的一次金融理财师资格考试，	5	104	240	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1524.868	1530.868	speaker#1	male	native	来自全国各地的金融，保险，证券的工作人员共计三千五百人参加了这次考试。	5	104	241	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1531.809	1537.433	Liu_feng	male	native	这是我们，呃，这个金融理财师考试，呃呃，有史以来最大的一次。	5	105	243	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1537.433	1543.514	speaker#1	male	native	据刘锋介绍，国内共有八千多人参加了国际 <foreign lang="English">CFP</foreign> 的金融理财课程学习，	5	106	244	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1543.514	1550.203	speaker#1	male	native	但是仅有四百八十八人通过了 <foreign lang="English">CFP</foreign> 资格认证，成为中国大陆首批 <foreign lang="English">CFP</foreign> 的执证人。	5	106	245	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1550.974	1560.733	speaker#1	male	native	为了让自己的银行拥有更多的金融理财师， 据了解在考试之前各大金融机构就已经开始不惜代价培养自己的金融理财师，	5	106	247	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1560.733	1563.895	speaker#1	male	native	分别斥资几千万元培养自己的理财师。	5	106	249	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1563.895	1574.395	Zhou_hongliang	male	native	我们感觉到的压力还是非常大的，就是需要 加紧的培训人才，因为现在客户是有的，但就是缺乏人才，缺乏这种机制。	5	107	250	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1575.236	1585.179	speaker#1	male	native	与工行和农行不同的是，为了留住高端客户，建设银行不惜重金将自己的工作人员送到国外培训， 以满足理财市场中高端客户的需求。	5	108	254	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1586.517	1591.301	Chen_qiao	female	native	整个总行系统大概四十个人左右，一个分行差不多一到两个人。	5	109	257	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1591.301	1597.782	Ma_hongtao	male	native	中国经济近三十年的持续快速发展让中国人拥有的财富是呈现出爆炸式的增长，	5	110	258	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1597.782	1604.268	Ma_hongtao	male	native	在这样的背景之下呢，理财这个过去属于富人的游戏现在已经变成了大众化的需求。	5	110	259	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1604.268	1612.823	Ma_hongtao	male	native	理财师应当是全才加上专才，既能够把握经济发展的大势，又能够洞悉财富增长和流动的秘密。	5	110	260	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1612.823	1620.404	Ma_hongtao	male	native	一个好的理财师除了必须要有丰富的金融投资，经济和法律知识之外，还必须得有自己的专长。	5	110	261	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1620.404	1628.099	Ma_hongtao	male	native	一般的人呢不但是自己达不到这样高的一个水平，就是要看准谁有水平都不是一件容易的事情。	5	110	262	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1628.099	1633.243	Ma_hongtao	male	native	我记得前年的时候曾经有不少的银行开办了外汇理财产品，	5	110	263	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1633.243	1639.202	Ma_hongtao	male	native	到去年底呢这些绝大多数的理财产品都没有能够兑现当初盈利的承诺。	5	110	264	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1639.893	1645.651	Ma_hongtao	male	native	这些银行栽跟头的一个重要的原因就是没有能够准确的预料到人民币升值的走势。	5	110	266	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1645.651	1650.800	Ma_hongtao	male	native	而这两年赚钱的热点是在楼市和股市之间，快速的切换，	5	110	267	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1650.800	1656.516	Ma_hongtao	male	native	很多人呢也是因为没有把握住热点而失去了很多让财富增值的机会。	5	110	268	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1656.516	1663.368	Ma_hongtao	male	native	理财有点像是下围棋，入门不算太难，但是要下的比别人高明就不是一件容易的事儿了。	5	110	269	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1663.368	1669.287	Ma_hongtao	male	native	要想请人理财我们得心明眼亮，先把本保住，然后再考虑增加财富，	5	110	270	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1669.287	1671.370	Ma_hongtao	male	native	怎么才能做到不被别人忽悠呢？	5	110	271	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1671.370	1679.525	Ma_hongtao	male	native	最可靠的办法就是我们自己尽量多熟悉一些经济知识， 有了这些知识才能够看得懂理财师的成色，	5	110	272	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1679.525	1686.498	Ma_hongtao	male	native	否则的话我们整天为不知道把钱放在什么地方才安全发愁，那比没有钱还难受。	5	110	273	report	
+CCTV2_ECON30MIN_CMN_20070426_213000	0	1686.498	1691.903	Ma_hongtao	male	native	好，今天节目就是这样，感谢您的收看，接下来请你继续关注中央电视台经济频道的其他节目，再见。	5	110	274	report	

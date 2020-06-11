@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Former Senior Weapons Tester: US Missile Defense System Largely Useless	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008.	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	900.000	1550.000	TEXT1	unknown	unkown	A former senior weapons tester has told Congress that the Defense Department has wasted what could add up to hundreds of billions of dollars in costs to build what he described as an anti-missile defense system that is largely useless.	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	1550.000	2200.000	TEXT1	unknown	unkown	According to a report in Singapore's Lianhe Zaobao (United Morning Paper), Coyle, former assistant secretary for defense and director of the weapons testing department of the Department of Defence, said that the US's construction of an anti-missile defense system was a waste of a tremendous amount of money because the relevant threat had been exaggerated. On the other hand, if the threat in question turns out to be true, the defence system that is being proposed will still be unable to deal with it.	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	He cited the example that Boeing has spent hundreds of millions of US dollars installing a chemical laser firing system on a 747 Jumbo jet in order to destroy missiles near the missile launch site.	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	But, Coyle pointed out, the enemy only needs to paint the missile with a coat of common white paint to be able to reflect 90% of the laser.	0	0	0		statement

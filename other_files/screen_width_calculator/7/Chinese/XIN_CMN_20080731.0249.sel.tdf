@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080731.0249	0	1100.0	1200.0	speaker	unknown	unknown	不过，德斯帕蒂这两天在水立方轻松训练时表示，“我的脚伤没问题了，感觉状态好极了！”在训练中，他一次次练习倒立起跳、抱腿向后翻腾等动作，他的双人三米板搭档米兰达则在苦练入水动作。	0	0	0		
+XIN_CMN_20080731.0249	0	1600.0	1700.0	speaker	unknown	unknown	这位欧锦赛冠军一直受到重点保护，不接受任何采访。	0	0	0		
+XIN_CMN_20080731.0249	0	4000.0	4100.0	speaker	unknown	unknown	在北京奥运会上，我相信我能再创雅典奥运会那样的奇迹。”	0	0	0		
+XIN_CMN_20080731.0249	0	4100.0	4200.0	speaker	unknown	unknown	意大利队的女子全能世界冠军费拉里虽然跟腱受伤，但训练毫不松懈，一直认真听教练指导，并反复练习成套动作，跳马动作看起来干净漂亮。	0	0	0		
+XIN_CMN_20080731.0249	0	4800.0	4900.0	speaker	unknown	unknown	塔伊兰随队飞抵北京时说：“我非常有信心，我进行了充分的准备，并有希望打破世界纪录。”	0	0	0		

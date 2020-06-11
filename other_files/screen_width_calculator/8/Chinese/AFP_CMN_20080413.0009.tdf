@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	遏止暴乱　海地总统下令调降粮价一成五	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社太子港十二日电	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	海地总统浦雷华今天宣布调降食品价格一成五的计划,以遏止已让总理亚历克西丢官的致命粮食暴动。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	海地因食物与燃油价格暴涨引发暴乱一个多星期之后,浦雷华今天在食物进口商的陪同下宣布上述措施。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	1600.000	1800.000	TEXT1	unknown	unkown	根据非官方统计,暴乱已造成至少五人丧生,两百人受伤。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	浦雷华发言之际,国会投票通过开除总理亚历克西,以回应这场危机。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	上议院十六名参议员一致通过谴责亚历克西,指责他无法回应海地八百五十万人民的需求。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	海地约八成人民每天靠着不到两美元过活。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2900.000	3000.000	TEXT1	unknown	unkown	浦雷华同党的十名参议员并未出席投票,但浦雷华稍早表示,他不会阻挡开除亚历克西的企图。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	3000.000	3200.000	TEXT1	unknown	unkown	他同意与两院国会领袖合作,寻找替代人选。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	3400.000	3700.000	TEXT1	unknown	unkown	浦雷华说:「如果国会开除总理,我会依宪法要求,与两院领袖磋商,来任命新总理,因为无一党在国会占多数。」	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	3900.000	4200.000	TEXT1	unknown	unkown	他也替亚历克西辩护说,面对全球食物价格上涨,亚历克西已竭尽全力应付,把所有过错都归咎于他「并不公平」。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	4400.000	4500.000	TEXT1	unknown	unkown	浦雷华也在太子港举行的记者会上宣布,五十公斤装白米将降价八美元((约两百四十元新台币))。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	4500.000	4700.000	TEXT1	unknown	unkown	五十公斤包装米一周内翻涨两倍来到七十美元。	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	4900.000	5000.000	TEXT1	unknown	unkown	浦雷华说:「由于国际社会捐助三百万美元,政府已同意这项行动。」	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	5000.000	5200.000	TEXT1	unknown	unkown	他还说,政府也将加紧鼓励生产更多食粮。	0	0	0		statement

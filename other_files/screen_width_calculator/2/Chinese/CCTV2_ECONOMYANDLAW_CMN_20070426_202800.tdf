@@ -1,0 +1,212 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 107.057, 668.721, 781.17399999999998, 1205.0650000000001, 1329.1880000000001, 1605.0550000000001, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	107.057	113.079	speaker#1	male	native	各位好，这里是中央电视台第二套节目经济频道，这里是经济与法四二六保护知识产权特别节目。	1	1	1	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	113.985	116.886	speaker#1	male	native	我身后的屏幕上啊大家能看到是两支香烟，	1	1	3	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	117.425	120.359	speaker#1	male	native	这两支烟表面上看啊是一模一样，	1	1	5	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	120.868	125.808	speaker#1	male	native	可是在燃烧了几分钟之后，大家看，两支烟的烟灰的形状有了区别。	1	1	7	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	126.355	137.004	speaker#1	male	native	一个比较平整，基本上保持香烟的原状，而另外一个呀，烟灰的形状明显有弯曲了，烟灰和烟的接口处断开有爆口。	1	1	9	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	138.113	142.573	speaker#1	male	native	那么，这两支烟的烟灰的形状不同到底意味着什么呢？	1	1	11	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	143.354	145.854	speaker#1	male	native	又跟知识产权有什么关联呢？	1	1	13	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	146.432	150.542	speaker#1	male	native	您先别着急，看了今天的节目谜底就会揭开。	1	1	15	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	151.260	160.705	speaker#2	male	native	二零零六年三月，青海省西宁市烟草专卖局突然接到不少消费者投诉，说从市面上买到的香烟发现有假货。	1	2	17	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	161.248	168.280	Sun_yongxue	male	native	投诉啊 同比明显地增多了，啊，客户投诉的隔三岔五的都有。	1	3	19	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	168.983	183.577	speaker#2	male	native	虽然在此之前，西宁市烟草专卖局也会接到消费者的一些零星投诉， 反映他们在路边的烟摊上买到过假烟，但是，像这次这样大规模集中的投诉，他们还是第一次遇到。	1	4	23	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	183.577	187.952	Sun_yongxue	male	native	我们先后呢受理这样的投诉有二十多起。	1	5	25	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	187.952	194.944	speaker#3	male	native	嗯，你买上假烟，你说这啊，作为我们消费者比较生气呀，这一条烟好几百块钱呢，啊，也比较贵的呀。	1	6	26	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	195.663	198.695	speaker#2	male	native	烟草专卖局立即组织人员进行调查。	1	7	28	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	199.234	207.423	speaker#2	male	native	在调查中工作人员发现， 那些消费者买到假烟的店铺从里到外装修都比较豪华，租金比较高，	1	7	30	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	207.423	211.644	speaker#2	male	native	每月租金少则五千元，多的能达到一万元。	1	7	32	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	212.425	220.940	Sun_yongxue	male	native	从投诉的这个店铺的分布来看，啊，这些也是比较集中的，就是在一些繁华街段的名烟名酒店。	1	8	34	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	221.479	230.641	speaker#2	male	native	从进进出出的购买人群看，店铺的生意十分红火，这些情况，让西宁市烟草专卖局调查人员感到奇怪。	1	9	36	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	231.180	237.834	speaker#2	male	native	因为烟草是国家控制的专卖产品，每个地方，每个月都有销售的配额标准，	1	9	38	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	237.834	243.765	speaker#2	male	native	可是从了解的情况来看，这些店铺的销售量却远远大于正常的销售配额，	1	9	39	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	244.337	248.495	speaker#2	male	native	调查人员敏感地意识到，这里面一定有猫腻。	1	9	41	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	249.120	255.604	Sun_yongxue	male	native	发现他们这个进货渠道不是很正常，我们感觉后面隐藏着一个比较大的假烟网络。	1	10	43	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	255.604	260.156	speaker#2	male	native	这个情况立即引起了西宁市烟草专卖局领导的高度重视。	1	11	44	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	260.813	269.703	Dai_yuepeng	male	native	由于烟草是国家专卖品， 所以烟草行业肩负着为国家财政积累资金的这样的一个重任。	1	12	46	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	270.922	279.526	Dai_yuepeng	male	native	因此呢 我们在 打假 同时也是在保证国家税收不流失。	1	12	50	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	280.057	286.639	speaker#1	male	native	虽然初步确定这些店铺是在销售假烟，但是这些假烟的来源究竟在哪里？	1	13	58	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	287.420	293.470	speaker#1	male	native	为了彻底查清真相，西宁市烟草专卖局及时把这个线索移交给了西宁警方。	1	13	60	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	293.979	301.076	Dai_yuepeng	male	native	国家局和这个公安部啊，呃，专门成立了联合打假的这个办公室，	1	14	62	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	301.076	307.795	Dai_yuepeng	male	native	啊，成立这样的组织机构， 啊，就是主要是，呃，从源头上去进行治理。	1	14	63	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	307.795	313.920	Han_yuqing	male	native	应该说侵害了香烟品牌的这个知识产权，你像芙蓉王，	1	15	66	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	314.592	316.342	Han_yuqing	male	native	它应该是注册过的，	1	15	68	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	316.920	325.803	Han_yuqing	male	native	云烟，它是注册过的，我们中华的第一这个这个中国的第一烟中华牌香烟，那应该说这些品牌都受到了严重的侵害。	1	15	70	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	326.569	329.007	Han_yuqing	male	native	那么对于它们来说，它们也是受害者。	1	15	72	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	335.448	340.558	speaker#2	male	native	警方立即对投诉比较多的几个销售假烟的店铺实施严密监控，	1	16	74	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	340.558	348.861	speaker#2	male	native	在监控中发现，一个三十来岁的女人频频出现在各个卖假烟的店铺里，形迹非常可疑。	1	16	75	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	351.376	355.495	Ding_wenjun	male	native	三十来岁，这个发型就是这种发型，	1	17	77	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	355.495	363.047	Ding_wenjun	male	native	啊，穿戴的衣服啊就这，每天下午四五点钟来，到这边来以后这个提款，收，收营业款。	1	17	78	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	363.047	363.766	speaker#4	male	native	收钱了。	1	18	79	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	363.766	364.245	Ding_wenjun	male	native	收钱。	1	19	80	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	364.933	370.769	speaker#5	male	native	你看，她不是说是每个铺子都进，进去几个铺子以后她拿上钱以后就走了，	1	20	82	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	370.769	371.013	speaker#4	male	native	嗯。	1	21	83	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	371.013	373.534	speaker#5	male	native	也不买东西，也不问其他的。	1	22	84	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	373.534	376.857	speaker#6	male	native	到底干啥的，她是？再看一看。	1	23	85	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	380.031	387.328	speaker#1	male	native	从这个监控录像上看啊，警方发现很显然这个女人不是去店铺买东西的，她是去收钱的！	1	24	87	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	388.250	390.861	speaker#1	male	native	那么她从这些店铺里收的是什么钱？	1	24	89	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	391.424	396.640	speaker#1	male	native	这个三十来岁的神秘女人来自哪里？她究竟是干什么的呢？	1	24	91	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	397.778	404.479	speaker#1	male	native	警方在查询她所住的招待所的住宿登记的时候发现，上面只写了个名字，张燕。	1	24	93	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	405.026	406.791	speaker#1	male	native	其他的什么都没留下。	1	24	95	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	407.557	411.323	speaker#1	male	native	那么张燕这个名字是不是她的真名字？	1	24	97	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	411.323	416.182	speaker#1	male	native	西宁香烟市场上出现的假货跟她到底有没有关系？	1	24	98	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	416.963	421.383	speaker#1	male	native	警方决定，先要搞清楚张燕的真实身份。	1	24	100	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	421.383	426.448	speaker#2	male	native	警方跟踪时发现，这个三十来岁的女人活动范围很大，	1	25	101	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	426.448	431.362	speaker#2	male	native	一会儿去城东，一会儿到城西，路上不和其他人接触，	1	25	102	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	431.362	435.560	speaker#2	male	native	除了打打电话，其他的也没看见她做什么。	1	25	103	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	438.907	448.732	Ding_wenjun	male	native	刚进去，哎，你看后面又进去一个男的，这个男的我们以前跟以前跟踪了一段时间，他是批发市场一个姓林的，老林，他是搞批发的。	1	26	105	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	448.732	461.900	Ding_wenjun	male	native	但是她跟他这么密切的接触，而且就他们两个人，是不是他俩人在这个他俩是上下，上下级关系？还是她是这个老板？	1	26	106	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	462.572	468.643	speaker#2	male	native	几天后，警方获得了一个线索，张燕正在西宁火车站附近的货站活动。	1	27	108	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	471.289	481.180	speaker#2	male	native	警方决定，给张燕拍摄几张照片，为今后的侦破工作留下必要的证据，可是就在这个当口，意外发生了。	1	27	110	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	483.180	490.038	Sun_yuqing	male	native	正在，正在照相的当中，照完以后回到车上，呆待会儿张燕张燕突然接了一个电话，	1	28	112	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	493.194	499.080	Sun_yuqing	male	native	接到电话以后呢，也就是走的很匆匆忙，急急忙忙就走了。	1	28	114	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	501.158	506.314	speaker#1	male	native	这个突然出现的情况，让民警们也很紧张，难道张燕有同伙在附近？	1	29	116	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	506.314	510.361	speaker#1	male	native	她的同伙发现了侦察员在拍照之后，马上给她通风报信？	1	29	117	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	511.064	515.143	speaker#1	male	native	张燕对警方啊的行动是不是真的有所察觉呢？	1	29	119	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	516.158	519.814	speaker#1	male	native	警方决定，用一个办法来验证一下。	1	29	121	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	523.533	530.877	Ding_wenjun	male	native	我们侦察员呢装扮成这个贩毒的， 啊，在这个在这个场合进行贩毒。	1	30	123	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	530.877	540.007	Ding_wenjun	male	native	啊，而其他的侦察员去抓，同样采取就是上次跟踪的办法拍照，这样呢看她有啥反，反应。	1	30	126	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	544.678	550.887	Ding_wenjun	male	native	结果这个戏演完以后， 第二天，啊，当天晚上呢，下午她就来提货。	1	30	128	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	551.730	556.902	speaker#2	male	native	一路摸下去，警方很快查实，张燕提的这批货全是假烟，	1	31	132	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	556.902	564.355	speaker#2	male	native	和西宁香烟市场被投诉的假冒香烟是一批货，而张燕就是西宁假烟市场的发货人。	1	31	133	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	564.355	568.918	speaker#2	male	native	她和批发商林某等人负责把假烟批发给烟酒店老板，	1	31	134	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	569.636	578.058	speaker#2	male	native	存放这些假冒香烟的仓库一共有十八个，全都在一些不引人注意的小街小巷或者郊区出租屋里。	1	31	136	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	579.168	582.426	speaker#1	male	native	我们来看一下这个画面，这个人就是张燕。	1	32	138	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	582.426	586.019	speaker#1	male	native	不过呀这是她的化名，她的真名叫刘素文，安徽人，	1	32	139	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	586.019	590.211	speaker#1	male	native	二零零五年四，五月份的时候来到了西宁，干起了这个不法勾当。	1	32	140	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	591.169	597.184	speaker#1	male	native	那么在充分掌握了整个案子的情况之后，警方立即抓获了刘素文等八名犯罪嫌疑人，	1	32	142	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	597.184	602.332	speaker#1	male	native	缴获九千一百多条香烟，涉案总价值二百多万元。	1	32	143	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	603.895	610.926	speaker#1	male	native	打掉了张燕这个销售假烟的团伙之后，按理说，西宁的香烟销售市场应该是风平浪静了，	1	32	145	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	610.926	622.535	speaker#1	male	native	可是警方很快就发现，事情并没有结束，假烟仍然在西宁市场上大量的出现，而且这个档次还越来越高。	1	32	146	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	622.535	627.304	Han_yuqing	male	native	这个一些烟酒店里面发现烟酒，发现了这个假，大量的假烟，	1	33	147	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	628.289	633.164	Han_yuqing	male	native	这个假烟的发现呢 并不是出自于张燕的这个犯罪团伙，	1	33	149	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	634.007	636.773	Han_yuqing	male	native	那么这个假烟的来路是什么地方来的？	1	33	153	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	637.398	640.898	Han_yuqing	male	native	为什么这么大量？而且假烟的质量非常高。	1	33	155	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	641.461	645.618	speaker#2	male	native	这批假烟和张燕团伙贩卖的假烟有明显不同，	1	34	157	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	645.618	651.367	speaker#2	male	native	种类主要集中在中华，芙蓉王，云烟，玉溪等几个著名的高档品牌，	1	34	158	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	651.367	655.439	speaker#2	male	native	其数量之大，仿真程度之高更是前所未有。	1	34	159	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	656.080	663.611	speaker#2	male	native	民警们和烟草专卖局的办案人员分析认为，这背后一定还隐藏着一个更大更狡猾的狐狸。	1	34	161	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	665.049	668.721	Han_yuqing	male	native	这个后面绝对是有一条大鱼。	1	35	163	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	781.174	781.986	speaker#1	male	native	欢迎回来。	3	37	165	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	781.986	788.844	speaker#1	male	native	刚才咱们说到，打掉了张燕团伙并没有使西宁香烟市场上假货泛滥的状况得到根本改变，	3	37	166	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	788.844	795.251	speaker#1	male	native	办案人员分析，西宁市场上应该还有另一个销售假烟的团伙存在，	3	37	167	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	795.251	799.490	speaker#1	male	native	这个团伙的规模要远远超过张燕团伙，	3	37	168	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	800.239	804.880	speaker#1	male	native	而且假烟的仿真程度极高，仿冒的都是一些名牌香烟。	3	37	170	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	805.718	812.036	speaker#1	male	native	如果不把它打掉的话，它对西宁正牌香烟市场的影响是不可想像的。	3	37	172	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	812.801	814.286	Han_yuqing	male	native	我们也做过一个比较，	3	38	174	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	815.176	818.743	Han_yuqing	male	native	这个西宁市的市区人口也就是一百多万，	3	38	176	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	819.791	823.947	Han_yuqing	male	native	那么零售点呢大概也就是四千多家。	3	38	178	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	823.947	833.072	Han_yuqing	male	native	有烟草专卖局的同志给我们介绍，这个曾经查获一千多家有过销售伪劣香烟的记录的店面，那这个量就非常大，	3	38	179	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	834.260	841.069	Han_yuqing	male	native	这个量就是严重的侵害了这个 经济，咱们的正常的这个社会经济秩序。	3	38	181	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	841.616	853.242	Dai_yuepeng	male	native	仅就西宁市场的假烟而言，这几起案件所涉及的卷烟的数量，大体上是这个市场三分之一，	3	39	185	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	853.242	861.664	Dai_yuepeng	male	native	这是保守的估计，啊，从我们掌握的情况来看的话，应该可能还要还要大一些，能接近到二分之一这个程度。	3	39	186	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	862.292	870.686	speaker#2	male	native	意识到问题的严重性，警方和烟草专卖局的办案人员连夜召开紧急会议，分析案情，部署侦破方案。	3	40	188	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	871.420	882.342	speaker#2	male	native	在对销售假烟商贩的监控中，警方发现一个叫张庆云的人暗中和出售假烟的商贩频频联系，狐狸的尾巴开始露出来了。	3	40	190	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	882.920	886.998	Han_yuqing	male	native	这个人是浙江人， 长期居住宾馆。	3	41	192	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	888.467	895.337	speaker#2	male	native	警方侦查发现，张庆云经常叫一伙人到西宁火车站附近的货场去提广州发来的货，	3	42	196	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	895.876	904.792	speaker#2	male	native	但是，让警方奇怪的是，这些货物中都没有发现香烟的踪迹，从外包装看主要是一些电器，童装之类，	3	42	198	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	904.792	908.526	speaker#2	male	native	可是有一个细节引起了警方的注意。	3	42	199	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	908.526	912.420	speaker#2	male	native	就在这些货物的外包装上，有几种奇怪的符号，	3	42	200	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	912.420	915.257	speaker#2	male	native	像 <foreign lang="English">C</foreign> 四 <foreign lang="English">CB</foreign> 之类。	3	42	201	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	915.257	920.317	speaker#2	male	native	那么这些符号代表什么？它跟假烟有没有关系呢？	3	42	202	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	920.317	928.940	speaker#2	male	native	警方决定兵分两路，一路在西宁继续跟踪摸牌，另一路飞往发货地广州，从源头上摸清情况。	3	42	203	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	933.641	937.533	Ding_wenjun	male	native	货是从白云区的一个库房提货。	3	43	205	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	937.533	946.178	speaker#2	male	native	但是，正当民警准备进一步掌握情况的时候，嫌疑人却再也没有动静了，侦查工作暂时陷入僵局。	3	44	206	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	946.716	954.694	speaker#2	male	native	而此时，西宁这边的一伙人也非常狡猾，他们在运送这些货物时和民警玩起了捉迷藏的游戏。	3	44	208	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	955.712	957.150	speaker#7	male	native	那个人是非常狡猾的，	3	45	210	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	957.900	959.154	speaker#8	male	native	他就咵一下子跑一下子	3	46	212	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	959.154	960.232	speaker#7	male	native	一个刹车停止。	3	47	213	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	959.154	960.232	speaker#8	male	native	等会儿再跑车。	3	47	214	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	960.232	962.651	speaker#7	male	native	一脚刹车就摆在那儿，他就开始不动了，	3	48	215	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	962.651	963.150	speaker#8	male	native	啊。	3	49	216	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	963.150	964.364	speaker#7	male	native	他就不动了，	3	50	217	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	964.364	965.502	speaker#7	male	native	你，你在	3	51	219	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	964.364	965.502	speaker#8	male	native	跟都没法跟。	3	51	218	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	965.502	971.005	speaker#7	male	native	后面你跟他的人，你，你还以为好像好像他发现我，其实他没有发现我们在跟踪他。	3	52	220	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	972.068	975.990	speaker#7	male	native	他就是那样，他跑跑一段就一脚刹车，停半个小时。	3	52	222	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	975.990	981.897	speaker#7	male	native	停半个小时以后他，他又继续加着油猛跑，跑到前面他妈的又，又开始停下来了。	3	52	223	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	985.129	986.717	speaker#8	male	native	不要让他发现了，别让他发现。	3	53	225	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	986.717	992.135	speaker#8	male	native	他们这个车停在这儿了，然后你们马上跟上，我们车超过去了。	3	53	226	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	992.135	993.651	speaker#10	male	native	我现在只能超过去了。	3	54	227	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	993.651	995.069	Ding_wenjun	male	native	好的好的好的，我跟上我跟上。	3	55	228	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	995.069	995.818	speaker#10	male	native	哎。	3	56	230	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	995.069	995.818	speaker#8	male	native	只能开走。	3	56	229	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	995.818	997.911	speaker#7	male	native	那个，哎，跟上了就是那一辆。	3	57	231	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	998.505	1000.224	speaker#8	male	native	跑快点跑快点，快点快点快点。	3	58	233	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1000.849	1004.781	speaker#8	male	native	万一前面这个拐弯，红灯一会儿就溜掉了，跟紧一点，跟紧一点。	3	58	235	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1007.281	1009.257	speaker#8	male	native	哎，就是前面那个，前面前面前面。	3	58	237	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1010.395	1011.285	speaker#7	male	native	外地牌照。	3	59	239	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1012.160	1014.207	speaker#8	male	native	哎，是个外地牌照，外地牌照。	3	60	241	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1015.848	1017.270	Ding_wenjun	male	native	怎么突然停了？	3	61	243	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1018.566	1024.350	speaker#2	male	native	这个情况，让民警们的神经再一次绷紧，难道被他们发现了？	3	62	245	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1024.866	1029.704	speaker#2	male	native	就在民警们疑惑不解的时候，突然有一个人上了面包车。	3	62	247	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1030.283	1031.673	Ding_wenjun	male	native	哎，怎么又上来一个？	3	63	249	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1032.329	1034.064	Ding_wenjun	male	native	哎，不是那一个，刚才开车的。	3	63	251	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1037.434	1038.309	Ding_wenjun	male	native	这咋回事儿？	3	63	253	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1038.950	1046.762	Ding_wenjun	male	native	是不是就人，货 分离，不让这个送货的人 知道这个仓库。	3	63	255	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1046.762	1048.762	Ding_wenjun	male	native	嗯，走走，跟上跟上，咱们跟上。	3	63	260	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1050.356	1057.356	speaker#2	male	native	在侦查与反侦查的较量中，民警们最终在一些偏僻的地方，发现了存放货物的六个仓库，	3	64	262	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1057.982	1064.262	speaker#2	male	native	而这些货物正是从广州发送过来的假烟，收货的人正是张庆云。	3	64	264	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1064.981	1070.511	Han_yuqing	male	native	他就是进行这个，呃，贩卖假烟的一个主要人员，	3	65	266	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1070.511	1071.858	speaker#9	male	native	怎么确定的？	3	66	267	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1071.858	1076.896	Han_yuqing	male	native	确定他这个主要的原因就是所有的货物 都是以他的名义到的。	3	67	268	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1077.537	1084.785	speaker#2	male	native	警方调查发现，张庆云非常狡猾，他从不露面，只是在暗中遥控指挥，	3	68	272	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1084.785	1091.832	speaker#2	male	native	随着张庆云等主要犯罪嫌疑人的锁定，西宁这边的情况已经完全处在民警们的掌控中。	3	68	273	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1092.426	1096.895	speaker#2	male	native	广州的民警在耐心等候了二十多天后，总算有了进展。	3	68	275	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1097.457	1103.022	speaker#2	male	native	根据可靠情报，有一批假烟要在近期从广州的仓库发往西宁，	3	68	277	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1103.022	1107.519	speaker#2	male	native	警方决定，在广州，西宁两地同时实施抓捕。	3	68	278	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1108.507	1113.329	Ding_wenjun	male	native	我们这边情况已经摸清了，我们也就是准备实施抓捕，	3	69	280	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1113.329	1114.434	Han_yuqing	male	native	非常的兴奋。	3	70	281	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1115.403	1118.106	Han_yuqing	male	native	就是我也马上就是回答了一句，	3	70	283	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1118.106	1122.080	Han_yuqing	male	native	我说好，我说那么我就动手啦，他说动手。	3	70	284	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1122.080	1123.439	Ding_wenjun	male	native	同时行动。	3	71	285	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1144.299	1150.534	Han_yuqing	male	native	国家的正常的税收得到了保证，这个市场的经济秩序得到了维护，	3	72	287	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1151.175	1153.469	Han_yuqing	male	native	这个消费者的利益得到了保障。	3	72	289	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1154.141	1170.714	Han_yuqing	male	native	这从这个三个方面来讲，第四个应该说是这个 生产厂家的这个，呃， 也得到了维护，因为毕竟他们是最后，实际上也是，也是最大的这个受害人。	3	72	291	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1170.714	1180.542	speaker#1	male	native	在这次的行动当中，警方共抓获七名犯罪嫌疑人，查获假冒香烟两万五千多条，涉案价值高达四百多万元。	3	73	296	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1181.120	1186.827	speaker#1	male	native	这是青海省建省以来破获的最大一起制造，贩卖假烟案。	3	73	298	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1187.843	1194.941	speaker#1	male	native	随着这些犯罪嫌疑人的落网，这个跨省制假，贩假团伙的秘密逐渐地暴露出来，	3	73	300	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1195.646	1205.065	speaker#1	male	native	那么，他们内部是怎样运作的？假烟又是怎样交接？外包装上那些特殊的符号又代表着什么呢？	3	73	302	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1329.188	1333.266	Sun_yuqing	male	native	这就是我们缴获假烟存放的仓库。	5	75	304	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1341.071	1349.296	Sun_yuqing	male	native	这些就是在这个仓库里的大概有 四百多件，共有八百多件。	5	75	306	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1353.705	1355.280	Sun_yuqing	male	native	这是各种品牌，	5	75	310	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1358.795	1367.737	Sun_yuqing	male	native	这是玉溪，中华高档烟，外包装这都是 童鞋 或者是模具， 电器， 还有什么配件 之类的。	5	75	312	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1362.712	1366.033	speaker#11	male	native	童鞋。 模具， 电器，	5	76	314	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1366.033	1367.320	speaker#11	male	native	嗯，嗯。	5	80	320	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1368.315	1372.168	Sun_yuqing	male	native	哦，它后边的这个西肆啊这些编号就是便于他就是	5	81	323	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1372.797	1378.859	Sun_yuqing	male	native	到货以后他发货的时候，因为他每箱他不会打开，他这个编号就是代表着一种烟的品牌。	5	81	325	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1379.429	1380.237	speaker#11	male	native	提供伪装的。	5	82	327	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1380.237	1381.315	Sun_yuqing	male	native	哎，起伪装的。	5	83	328	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1380.237	1381.315	speaker#12	male	native	啊，伪装的效果	5	83	329	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1381.315	1382.284	speaker#12	male	native	他不敢直接写	5	84	330	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1382.284	1383.405	Sun_yuqing	male	native	第二个怕错。	5	85	331	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1382.284	1383.405	speaker#12	male	native	它这是香烟嘛。	5	85	332	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1384.718	1388.218	Zhang_qingyun	male	native	云烟，他就写了个是 <foreign lang="English">B</foreign> 肆，	5	86	334	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1388.874	1390.921	Zhang_qingyun	male	native	里面就放了是硬云。	5	86	336	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1392.030	1395.655	Zhang_qingyun	male	native	如果就是西 <foreign lang="English">B</foreign> 的话，他放的就是芙蓉王。	5	86	338	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1395.655	1399.759	speaker#2	male	native	实际上这些特殊的符号就是假烟的代码，	5	87	339	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1399.759	1407.587	speaker#2	male	native	除此之外，这伙人还有一套严格的保密措施，叫人货分离，就是为了防止走漏消息。	5	87	340	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1408.150	1413.993	Han_yuqing	male	native	首先你接货的人不知道货从什么地方来，送货的人不知道把货送到何处去。	5	88	342	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1413.993	1424.828	Han_yuqing	male	native	他作为这个 在西宁的一个东家， 他存放货物的地点，他本人都不知道。	5	88	343	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1426.445	1433.062	Han_yuqing	male	native	他让一些这个司机， 让其他的聘用人员去办理这些事情。	5	88	349	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1433.960	1442.224	Han_yuqing	male	native	哎，然后呢他在这个雇佣的工，这个这个工人当中呢，就马仔当中啊 这个背靠背，	5	88	353	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1443.032	1444.140	Han_yuqing	male	native	谁也不知道谁。	5	88	357	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1444.919	1453.212	speaker#1	male	native	警方告诉我们，不要看这伙人联系地非常密切，但是他们上下线之间，各个环节的人互相都不认识，	5	89	359	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1454.056	1460.462	speaker#1	male	native	所以说这伙人也没想到，他们平生的第一次见面，居然是在看守所里，	5	89	361	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1461.196	1464.055	speaker#1	male	native	这就叫法网恢恢，疏而不漏啊。	5	89	363	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1465.043	1471.899	speaker#1	male	native	那么在节目开头我给大家看的这两支香烟的烟灰形状的不同，到底意味着什么？	5	89	365	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1472.758	1476.899	speaker#1	male	native	烟草专卖局的工作人员给我们揭开了谜底。	5	89	367	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1476.899	1485.795	Sun_yongxue	male	native	像我右边这支烟呢是假烟，它在燃烧之后它的这个烟灰呢，呃，有明显的爆口啊。	5	90	368	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1486.880	1500.467	Sun_yongxue	male	native	我左边这支烟呢是真烟，啊，它燃烧之后呢，它的烟灰，呃，不会在没有断裂，而且呢也没有像假烟这样的明显的爆口。	5	90	370	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1500.467	1508.077	Dai_yuepeng	male	native	我们最终的目的， 就是为了这个市场经济秩序进一步的好转。	5	91	371	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1509.452	1518.218	Dai_yuepeng	male	native	呃，落实在 我们国家就提出的 两个至上 这个行业价值观上去。	5	91	375	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1519.124	1523.952	Dai_yuepeng	male	native	那么所谓两个至上呢就是说国家利益至上，消费者利益至上。	5	91	383	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1529.332	1541.013	speaker#2	male	native	目前，这起假烟销售案已进入司法程序，我国刑法有明确规定，非法经营香烟等国家特许经营的产品，情节严重的，要追究刑事责任。	5	92	385	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1541.013	1550.950	speaker#2	male	native	司法部门会根据刑法中销售假冒伪劣产品罪对烟贩进行定罪，量刑，最高可处五年以上的有期徒刑。	5	92	386	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1551.622	1560.350	speaker#1	male	native	应该说呀，随着我国保护知识产权力度的不断加大，给造假分子的生存空间越来越小了，因此其造假活动越来越隐秘。	5	93	388	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1560.889	1573.566	speaker#1	male	native	据国家烟草专卖局调查，现在烟草制假呈现了三大特点，那就是由南方向北方转移， 由平原向山区转移，由地上向地下转移。	5	93	390	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1574.285	1581.160	speaker#1	male	native	就拿福建，浙江的个别地区来说，一个村都在造假，这造假工厂呢就设在地道里。	5	93	393	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1582.328	1594.234	speaker#1	male	native	那么用国家烟草专卖局有关负责同志的话说，现在打假实际上就是跟造假分子在三拼，就是拼实力，拼耐力，拼智力。	5	93	395	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1595.187	1600.750	speaker#1	male	native	所以，打击假冒伪劣，保护知识产权，任重而道远。	5	93	397	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1601.399	1605.055	speaker#1	male	native	好，这里是经济与法，感谢收看，我们再见。	5	93	399	report	

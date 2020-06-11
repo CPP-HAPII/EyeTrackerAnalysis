@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.2874	0	400.0	500.0	speaker	unknown	unknown	因此，我国《建筑抗震鉴定标准》也需做相应修订。”记者昨日从四川建筑科学研究院获悉，修订《建筑抗震鉴定标准》的第一次工作会议，今日将在北京召开。	0	0	0		
+CNS_CMN_20080709.2874	0	1300.0	1400.0	speaker	unknown	unknown	此次地震后，根据距震中远近不同，震源的深浅不同，地震地质情况的影响，将一些地区提升到0.15g，也就意味着在原有7度设防基础上再提高了半度。	0	0	0		
+CNS_CMN_20080709.2874	0	1500.0	1600.0	speaker	unknown	unknown	但是，“在1995年编制的《建筑抗震鉴定标准》中并没有涉及如何对7度半(0.15g)、8度半(0.30g)地区的房屋进行抗震鉴定的相应方法。	0	0	0		
+CNS_CMN_20080709.2874	0	1800.0	1900.0	speaker	unknown	unknown	在目前的抗震鉴定工作中，有部分鉴定人员对1992年之后修建的房屋，也多用该标准进行抗震鉴定，这就造成了依据的鉴定标准较为混乱的局面，因此对建筑抗震鉴定标准进行修订、明确各年代建造的房屋应该依据什么标准进行鉴定也迫在眉睫。	0	0	0		

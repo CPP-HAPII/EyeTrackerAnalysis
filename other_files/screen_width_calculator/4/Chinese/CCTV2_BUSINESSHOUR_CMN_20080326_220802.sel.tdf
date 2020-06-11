@@ -1,0 +1,20 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'report', u'filler', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'filler', u'report', u'filler', u'nontrans', u'report', u'filler', u'report', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', u'filler', u'report', u'filler', u'nontrans', u'report', u'filler', u'report', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 93.242000000000004, 126.895, 163.44399999999999, 290.70999999999998, 297.64800000000002, 306.74099999999999, 309.791, 349.75200000000001, 354.70499999999998, 361.35500000000002, 369.262, 381.15100000000001, 405.05500000000001, 412.78899999999999, 424.50700000000001, 477.08499999999998, 482.36599999999999, 489.678, 557.73800000000006, 569.08199999999999, 597.303, 602.22500000000002, 645.62199999999996, 952.524, 969.00900000000001, 973.89400000000001, 981.79200000000003, 1046.385, 1242.732, 1402.7139999999999, 1759.866, 1772.662, 1781.3030000000001, 1828.403, 1952.28, 2029.6220000000001, 2328.0239999999999, 2340.165, 2343.8829999999998, 2348.9450000000002, 2382.4690000000001, 2463.797, 2467.7339999999999, 2583.6909999999998, 3112.4279999999999, 9999999.0]
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	175.122	186.816	Ma_Bin	male	native	比如说这个,就在冯军办公室(())一大一大那个摞那个那个书柜,然后好多好多都是贴的那个,其实没有真书	3	11	19	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	268.681	274.885	An_Na	female	native	我是说企业家,不是什么学者,(())	3	25	48	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	268.681	274.885	Ma_Bin	male	native	我觉得她成功了,已经把(())把成功的给它搅和了	3	25	49	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	316.040	323.775	Zhu_Xin_Li	male	native	什么中欧啊长江啊这个斯坦福啊,包括这个人大呀,我们(())	7	36	62	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	333.528	336.982	Jiang_Lu_Yang	male	native	你教教,(()),啊,是吗	7	40	71	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	340.838	346.705	Zhu_Xin_Li	male	native	一般那个时候(())这个什么线性代数啊那我就微积分啊我马上就逃课了	7	42	74	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	387.065	393.495	Jiang_Lu_Yang	male	native	又糊涂了吧,跟朱总刚才那回答有点类似,我想学什么(())	12	52	87	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	424.507	427.475	Ma_Bin	male	native	(())捡牙膏皮是怎么怎么回事	15	57	97	filler	question
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	509.798	522.713	Liang_Dong	male	native	跟现在新的卫生部和这个中医药管理局的条例,可以透过对名师的这个这个师徒相受,然后透过一定的(())	18	87	140	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	834.360	842.314	Lan_Shi_Li	male	native	你就不断的去学,不断的学呢,可能现在已经在某种上,(())惯性了,如果几年再不去挑战一些新行业,觉得自己没激情了	23	120	210	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	2419.176	2425.717	Jiang_Lu_Yang	male	native	呃那个时候你在百度你充当什么样的角色,这个事件你当时(()),就你参与了有多少	41	251	470	filler	question
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	2790.157	2802.478	Ma_Bin	male	native	嗯,(())	44	270	513	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	2887.429	2895.022	Liang_Dong	male	native	相形相面相声音,为什么,为什么,@OK,@OK,@OK	44	291	540	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	2895.022	2896.194	Ma_Bin	male	native	你为什么笑	44	292	542	filler	question
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	2923.216	2926.875	Zhu_Xin_Li	male	native	但是第一感觉(())	44	297	550	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	3017.943	3020.333	Ma_Bin	male	native	啊,请诸位来给咱们我们来谈谈好吧	44	308	570	filler	statement
+CCTV2_BUSINESSHOUR_CMN_20080326_220802	0	3095.726	3098.319	Ma_Bin	male	native	谢谢你(())	44	316	593	filler	statement

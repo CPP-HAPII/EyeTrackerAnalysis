@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1433	0	1300.0	1400.0	speaker	unknown	unknown	截至昨日收盘，东航A股股价为6.55元，H股股价为2.2港元。	0	0	0		

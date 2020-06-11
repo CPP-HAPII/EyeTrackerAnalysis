@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0002.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Wage and Work Hour Talks Break Down - German Labor Union Starts Postal and Transportation Industry Strikes	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Berlin (AFP), 19th.	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	After the break down of the fourth round of negotiations between Germany's service industry union and Deutsche Post Group's management last night, today the union called on the group's workers to go on strike starting on May 2nd for an unlimited time.	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	The service industry union said the strike's details will be finalized by next weekend.	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	Earlier on, Deutsche Post's personnel department manager Scheuerle issued a statement saying if the union doesn't oppose a work hour increase, this group is already prepared to continue negotiations.	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	Scheuerle said the union must give concessions to maintain the group's competitiveness, but the union spokesperson Ishmael said management's attitude is to "deliberately incite conflict."	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	The union also demands a salary increase of seven percent, and a guarantee of employment for Deutsche Post's 133-thousand employees until 2011.	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	Deutsche Post proposed a salary increase of 5.5 percent for the coming two years and an employment guarantee but employee weekly work time must be raised by half an hour.	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	3600.000	3900.000	TEXT1	unknown	unkown	The service industry union also called for bus, subway and trolley maintenance yards within Berlin's transport system, as well as vehicle gas station and cleaning employees to go on strike on the weekend.	0	0	0		statement

@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070126.0230	0	10010.000	10019.900				Lien Sheng-wen, Wife Visit Parents, Lien Says Smilingly: We Still Need to Adjust to Each Other	0	0	0		
+PDA_CMN_20070126.0230	0	20010.000	20019.900				January 26, 2007 13:13	0	0	0		
+PDA_CMN_20070126.0230	0	30010.000	30019.900				Lien Sheng-wen and Tsai Yi-shan appeared for the first time after the wedding.	0	0	0		
+PDA_CMN_20070126.0230	0	30020.000	30029.900				(Photo of chinareview.com)	0	0	0		
+PDA_CMN_20070126.0230	0	40010.000	40019.900				People's Daily Online, January 26. Kuomintang Central Standing Committee Lien Sheng-wen and wife Tsai Yi-shan who wed a few days ago held a bridal-homecoming banquet last night at the bride's family operated Shanghai Shanghai restaurant.	0	0	0		
+PDA_CMN_20070126.0230	0	40020.000	40029.900				Two days into the wedding, the young couple are busy adapting to the new life. As for the location of the honeymoon, Lien Sheng-wen said that they had not had the time to decide yet.	0	0	0		
+PDA_CMN_20070126.0230	0	50010.000	50019.900				According to a report of TVBS in Taiwan, the young couple Lien Sheng-wen and Tsai Yi-shan reappeared two days after the wedding. The groom wore a black tailcoat to match the bride's dark-colored suit.	0	0	0		
+PDA_CMN_20070126.0230	0	50020.000	50029.900				Tsai Yi-shan wore a simple and unconventional outfit that had a slit at the back and showed a little of her shoulders. With the coyness of a new bride on her face, she always captures the media's attention.	0	0	0		
+PDA_CMN_20070126.0230	0	50030.000	50039.900				Tsai Yi-shan held her husband Lien Sheng-wen's hand to chat about the new life.	0	0	0		
+PDA_CMN_20070126.0230	0	60010.000	60019.900				Reporter: "How is the newly-wed life?	0	0	0		
+PDA_CMN_20070126.0230	0	60020.000	60029.900				Are you used to it?" Tsai Yi-shan: "Everything is fine." Lien Sheng-wen: "All is well...Hahaha. We just started to live together. We just got married, thus, we need to adjust to each other in many things." Reporter: "Was there any problem?" Lien Sheng-wen: "For example, if she does not eat, I will force her to."	0	0	0		
+PDA_CMN_20070126.0230	0	70010.000	70019.900				Tsai Yi-shan stood by her husband timidly and lovably and had little words. In face of the media, all questions were answered by Lien Sheng-wen on her behalf. The groom dared not neglect the Tsai family's precious daughter after marrying her.	0	0	0		
+PDA_CMN_20070126.0230	0	70020.000	70029.900				Lien Sheng-wen: "Since she has a special relationship with her parents, she is especially close to her father, so we take her home all the time."	0	0	0		
+PDA_CMN_20070126.0230	0	80010.000	80019.900				The bridal-homecoming banquet was held at their own restaurant with 18 tables served with authentic Shanghai food to entertain the guests. The air seemed to be filled with a jubilant mood with red lanterns hanging up high. The Tsai family hosted guests for a banquet for the bridal-homecoming of Tsai Yi-shan. Prominent political and business figures, as well as popular anchorpersons of the media all gathered. The long gallery in front of the restaurant became a star walk and attention was drawn for every step that people made.	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080711.0863	0	0.0	100.0	speaker	unknown	unknown	国务院法制办强调约束红头文件违法行政	0	0	0		
+PLA_CMN_20080711.0863	0	200.0	300.0	speaker	unknown	unknown	新华社北京７月１０日电（记者陈菲）针对有些地方动辄发布“红头文件”，上有政策，下有对策，通过“红头文件”违法行政的问题，１０日做客中国政府网的国务院法制办政府法制研究中心副主任赵振华表示，国务院日前发布的关于加强市县政府依法行政的决定，从三方面对这一问题予以制度上的约束。	0	0	0		
+PLA_CMN_20080711.0863	0	1600.0	1700.0	speaker	unknown	unknown	因为规范性文件违法造成的一些不良后果，制定机关有关领导、有关责任人员还要承担相应的法律责任。	0	0	0		

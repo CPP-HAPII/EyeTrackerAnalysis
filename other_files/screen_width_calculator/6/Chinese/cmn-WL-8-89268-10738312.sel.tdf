@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89268-10738312	0	1300.0	1400.0	speaker	unknown	unknown	王女士说，那天晚上并没有打通谢先生的电话，“我们两人住在一个房间，谁没事在国外打手机玩啊”。	0	0	0		

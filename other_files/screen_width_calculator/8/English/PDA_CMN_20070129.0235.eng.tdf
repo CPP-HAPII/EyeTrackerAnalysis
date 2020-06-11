@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070129.0235	0	10010.000	10019.900				American Tycoon to Construct World's Most Expensive Mansion, Plan to Sell for $155 Million US Dollars	0	0	0		
+PDA_CMN_20070129.0235	0	20010.000	20019.900				January 29, 2007 9:00	0	0	0		
+PDA_CMN_20070129.0235	0	30010.000	30019.900				Chinanews.com, January 29 - American timber and real estate tycoon Blixseth announced that he would construct the world's most expensive mansion.	0	0	0		
+PDA_CMN_20070129.0235	0	30020.000	30029.900				Even though not one brick has been laid on the house, he has decided to sell it for a high price tag of $155 million US dollars.	0	0	0		
+PDA_CMN_20070129.0235	0	40010.000	40019.900				According to the report by Singapore's "Lianhe Zaobao," Blixseth wants to build the house at the Yellowstone Club in Montana state. This club was built on the 54 square kilometers of land he bought several years ago.	0	0	0		
+PDA_CMN_20070129.0235	0	50010.000	50019.900				Blixseth was originally a singer. He was one of the 400 richest people in the US announced by "Forbes" in 2006, with an estimated net worth of over 1.2 billion US dollars.	0	0	0		
+PDA_CMN_20070129.0235	0	60010.000	60019.900				According to the plan, the main materials of this mansion occupying a land area of nearly 5,000 square meters will be stone and lumber. There will be 10 bedrooms in the house, a family movie theater, and a swimming pool.	0	0	0		
+PDA_CMN_20070129.0235	0	70010.000	70019.900				This house will begin construction this June. It is estimated to be finished around next August.	0	0	0		
+PDA_CMN_20070129.0235	0	70020.000	70029.900				Besides the land value, this house's construction cost is approximately $40 million US dollars.	0	0	0		
+PDA_CMN_20070129.0235	0	80010.000	80019.900				The house's price is $16 million US Dollars higher than the English mansion which last year "Forbes" ranked first as the most expensive home in the world.	0	0	0		
+PDA_CMN_20070129.0235	0	90010.000	90019.900				Blixseth has already drawn protests from environmentalist organizations for building the Yellowstone Club at the Bozeman entrance to Yellowstone National Park. His plan to construct the mansion again caused another round of condemning voices.	0	0	0		
+PDA_CMN_20070129.0235	0	90020.000	90029.900				Environmentalists believe that constructing this kind of luxurious house wastes resources and destroys the environment. It also boosts the housing price imperceptibly and harms the interest of local residents.	0	0	0		

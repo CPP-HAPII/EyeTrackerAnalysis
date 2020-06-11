@@ -1,0 +1,261 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 194.661, 222.00899999999999, 537.29399999999998, 608.80999999999995, 699.99699999999996, 720.63699999999994, 771.26099999999997, 837.96299999999997, 947.05899999999997, 1029.261, 1101.7660000000001, 1135.329, 1193.691, 1259.3920000000001, 1403.2670000000001, 1466.298, 1534.6379999999999, 1596.6700000000001, 1668.673, 1740.0229999999999, 1779.8630000000001, 1957.0360000000001, 1966.2080000000001, 9999999.0]
+CCTV1_30MINNEWS_CMN_20070419_115701	0	194.661	204.115	speaker#1	female	native	胡锦涛亲切会见国家有突出贡献话剧艺术家荣誉称号获得者， 勉励广大话剧艺术工作者积极反映人民心声，热情讴歌时代精神。	1	1	1	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	204.943	210.241	speaker#2	male	native	交通银行率先停收境内跨行查询费，其余各家银行迟迟没有动作。	1	2	4	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	210.851	214.335	speaker#1	female	native	河北邯郸农行金库特大盗窃案今天告破。	1	3	6	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	214.335	218.712	speaker#2	male	native	美国枪击案凶手作案间隙曾向媒体寄过包裹。	1	4	7	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	222.009	222.931	speaker#2	male	native	观众朋友，中午好。	2	5	9	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	222.931	225.439	speaker#1	female	native	中午好，这里是中央电视台新闻三十分。	2	6	10	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	225.439	226.501	speaker#2	male	native	欢迎各位收看。	2	7	11	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	226.501	228.642	speaker#1	female	native	好，现在来看详细报道。	2	8	12	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	228.642	242.064	speaker#1	female	native	在纪念中国话剧诞生一百周年之际， 中共中央总书记国家主席，中央军委主席胡锦涛， 十八号晚亲切会见了国家有突出贡献话剧艺术家荣誉称号获得者， 并观看了话剧立秋。	2	8	13	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	242.064	246.439	speaker#1	female	native	中共中央政治局常委李长春参加会见，并观看演出。	2	8	17	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	250.646	254.021	speaker#3	male	native	会见厅里欢声笑语气氛热烈，	2	9	19	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	254.021	259.146	speaker#3	male	native	胡锦涛等领导同志与话剧艺术家们一一握手亲切交谈。	2	9	20	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	262.985	264.032	Hu_jintao	male	native	(())老，	2	10	22	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	264.032	265.079	speaker#4	male	native	您好。	2	11	23	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	265.079	269.704	Hu_jintao	male	native	((新年好))，这个话剧一百年了，你也要跨过一百年。	2	12	24	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	277.119	280.307	speaker#3	male	native	之后胡锦涛与大家合影留念。	2	13	26	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	282.274	285.524	speaker#3	male	native	会见时胡锦涛发表了热情洋溢的讲话，	2	13	28	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	285.524	287.196	speaker#3	male	native	胡锦涛说，	2	13	29	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	288.368	303.337	Hu_jintao	male	native	在纪念中国话剧诞生一百周年的时候， 我代表党中央，国务院， 向全国广大话剧艺术工作者致以诚挚的问候！	2	14	31	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	309.102	320.664	Hu_jintao	male	native	向为我国的话剧事业做出了突出贡献的艺术家们表示崇高的敬意。	2	14	36	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	328.113	353.655	Hu_jintao	male	native	一百年来呀，我国广大的话剧艺术 工作者与祖国同命运， 与人民同呼吸，与时代同步伐， 创作了一大批震撼人心的优秀作品，	2	14	38	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	353.655	373.206	Hu_jintao	male	native	塑造了许多鲜活生动的舞台形象， 为振奋民族精神，推动我国革命建设改革事业的发展发挥了积极作用。	2	14	38	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	376.019	403.129	Hu_jintao	male	native	我们这一代人啊都曾经从雷雨，放下你的鞭子， 胆剑篇，茶馆，霓红灯下的哨兵等优秀的话剧作品中啊受到深刻的教育和启迪。	2	14	48	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	404.426	412.660	Hu_jintao	male	native	新世纪，新阶段， 我们国家的发展面临着重要的战略机遇期，	2	14	52	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	413.722	419.899	Hu_jintao	male	native	我国广大的文艺工作者也是可以大有作为的时期，	2	14	55	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	419.899	461.129	Hu_jintao	male	native	希望全国话剧艺术工作者 牢记历史使命和社会责任， 积极反映人民心声，热情讴歌时代精神， 创作出啊更多的精品力作， 为我国话剧事业的发展， 为发展社会主义先进文化，构建社会主义和谐社会做出新的更大的贡献。	2	14	55	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	470.686	480.061	speaker#3	male	native	会见结束后，胡锦涛等兴致勃勃地观看了由山西省话剧院演出的，纪念中国话剧诞生一百周年展演剧目立秋，	2	15	67	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	480.061	496.077	speaker#3	male	native	这部话剧以民国初年为背景，客观反映了晋商兴衰历史， 深刻揭示了社会转型时期改革创新与因循守旧之间的矛盾冲突， 着重诠释了中华民族自强不息，诚信为本的精神操守。	2	15	68	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	496.749	499.342	speaker#3	male	native	全剧高潮迭起，引人入胜，	2	15	72	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	499.342	504.780	speaker#3	male	native	舞台上演员们的精彩表演赢得了全场观众阵阵热烈的掌声。	2	15	73	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	510.890	518.264	speaker#3	male	native	演出结束后胡锦涛等领导同志走上舞台同演职人员亲切握手， 祝贺他们演出成功。	2	15	75	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	520.092	529.030	speaker#3	male	native	参加会见并观看演出的领导同志还有刘云山，王刚，徐才厚，陈至立，陈奎元等。	2	15	78	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	537.294	538.966	speaker#1	female	native	我们再来关注其他消息。	3	16	80	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	538.966	547.276	speaker#1	female	native	本月初中国银行业协会表示， 各大会员银行将在本月二十号， 也就是明天之前停收银行卡境内跨行查询费。	3	16	81	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	547.276	552.698	speaker#1	female	native	消息宣布之后呢，各大银行一直没有动作， 不过这种僵局昨天终于被打破了，	3	16	84	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	552.698	557.667	speaker#1	female	native	交通银行宣布从即日起停收太平洋卡境内跨行查询费。	3	16	86	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	558.354	577.965	speaker#5	male	native	嗯，两千零七年的这个四月十八号呢 呃所有太平洋的久卡人， 呃包括太平洋借记卡，准贷记卡，贷记卡， 还有这个卡折合一的这个太平洋卡， 在跨行，境内跨行查询的时候发生的三毛钱的这个手续费呢全部都不收了。	3	17	88	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	577.965	584.294	speaker#6	female	native	据介绍，目前交行的这项停止收费政策只适用于交行太平洋卡用户。	3	18	93	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	584.294	596.951	speaker#6	female	native	太平洋卡用户在其他银行设备上查询余额时发生的跨行查询费用将全部由交通银行支付， 包括中国银联收取的零点一元和收单行收取的零点一元。	3	18	94	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	596.951	607.076	speaker#6	female	native	但是，其他银行卡的用户，比如工商牡丹卡用户如果在交通银行的设备上查询余额， 还是要收取每次零点三元的跨行查询费。	3	18	96	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	608.810	617.550	speaker#1	female	native	虽然明天就是中国银行业协会要求的最后期限了， 但是记者咨询了中国银行，工商银行，建设银行，农业银行和邮政储蓄银行，	4	19	99	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	617.550	624.316	speaker#1	female	native	这些银行都表示现在还在进行系统调试， 什么时候停收跨行查询费仍然不能确定。	4	19	101	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	625.425	630.566	speaker#1	female	native	另外呢，最近银行服务中普遍存在的排长队办业务难等问题很受关注，	4	19	104	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	630.566	637.238	speaker#1	female	native	央行副行长苏宁昨天表示，将协调各大银行从根本上解决银行排长队的问题。	4	19	105	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	638.318	644.427	Su_ning	male	native	商业银行的营业网点呃排队时间太长的问题呢， 现在受到了社会各个方面的关注，	4	20	107	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	644.427	652.714	Su_ning	male	native	呃人民银行呃提供的小额支付系统实际上是为商业银行提供了一个良好的基础设施，	4	20	109	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	652.714	661.042	Su_ning	male	native	那么利用这个设施呃很多交费，收费呃业务都可以通过这个网络进行。	4	20	110	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	661.042	670.167	Su_ning	male	native	我们会采取窗口指导的办法， 也会和当地政府一起共同采取一些呃促进的办法。	4	20	111	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	670.167	674.011	speaker#6	female	native	据介绍，小额支付系统去年六月就已经开通了，	4	21	113	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	674.011	685.199	speaker#6	female	native	应用这个系统社会公众只需要在任何一家银行办理一个帐户， 就可以在所有银行进行水电，煤气，以及养老保险，医疗统筹等的缴纳业务。	4	21	114	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	685.199	689.965	speaker#6	female	native	单位发工资，津贴，社保资金等也可以在这个平台进行。	4	21	116	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	689.965	698.356	speaker#6	female	native	但是由于各家银行过多考虑自身的利益， 害怕分流客户和资金， 这个平台迟迟没有发挥它应有的作用。	4	21	117	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	699.997	705.920	speaker#1	female	native	今天新华社的报道称， 为了缓解银行网点排队问题， 北京银监局已经发出指导意见，	5	22	121	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	705.920	719.668	speaker#1	female	native	要求银行网点在排队人员多，柜台服务压力大的时候， 包括正常工作日的休息时段和节假日， 银行应争取在高峰时期达到网点柜台窗口的全部开放， 提高网点的接待能力。	5	22	124	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	720.637	725.262	speaker#1	female	native	教育部今天发出通知，禁止高校举办外国大学预科班。	6	23	129	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	727.715	738.621	speaker#7	male	native	针对当前一些高校，特别是重点高校自行举办的所谓外国大学预科班， 教育部指出有的纯属外语培训，外国大学不参与中国境内的教学活动。	6	24	131	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	738.621	747.449	speaker#7	male	native	教育部表示，此类办学活动不属于中外合作办学的范畴， 今后高校不得以中外合作办学名义举办此类活动。	6	24	133	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	748.043	762.323	speaker#7	male	native	教育部表示， 今后本科以上的中外合作办学机构和项目， 将以外国教育机构是否为外国知名的高等教育机构或知名学科专业， 及著名教授等作为审批的主要依据。	6	24	136	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	763.198	769.948	speaker#7	male	native	二零零八年年底之前， 教育部原则上暂缓受理高等职业教育阶段的中外合作办学项目。	6	24	141	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	771.261	775.151	speaker#1	female	native	河北邯郸农业银行金库特大盗窃案今天告破。	7	25	144	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	778.136	789.386	speaker#7	male	native	记者今天从公安部获悉， 四月十四号盗窃河北邯郸农业银行五千一百万元的两名犯罪嫌疑人，任晓峰，马向景， 分别于今天和昨天在江苏和北京落网。	7	26	146	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	790.464	795.342	speaker#7	male	native	四月十四号下午十四点邯郸市农业银行金库发生了一起特大盗窃案，	7	26	150	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	795.342	798.214	speaker#7	male	native	被盗现金人民币近五千一百万元，	7	26	150	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	798.214	802.855	speaker#7	male	native	案发后经侦查马向景和任晓峰有重大犯罪嫌疑，	7	26	152	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	802.855	805.886	speaker#7	male	native	案发后两名犯罪嫌疑人驾车潜逃。	7	26	153	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	806.652	811.402	speaker#7	male	native	四月十七号公安部发出 <foreign lang="English">A</foreign> 级通缉令， 通缉两名在逃犯罪嫌疑人。	7	26	155	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	812.120	816.010	speaker#7	male	native	四月十八号下午十五点马向景在北京大兴落网，	7	26	158	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	816.010	822.541	speaker#7	male	native	四月十九号早上八点二十分另一名犯罪嫌疑人任晓峰在江苏连云港落网。	7	26	159	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	823.463	826.556	speaker#8	male	native	因为目前呢这起案件还在进一步的审理中，	7	27	161	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	826.556	835.572	speaker#8	male	native	公安机关正在按照公安部的部署来扩大侦破战果， 包括追缴剩余的赃款赃物。	7	27	162	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	837.963	847.370	speaker#1	female	native	四月十六号发生在贵州省息烽县的二氧化硫污染中毒事故共造成四百五十人住院治疗， 其中大部分是当地的中小学师生，	8	28	165	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	847.370	850.245	speaker#1	female	native	目前中毒者的病情都已经趋于稳定，	8	28	167	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	850.245	853.354	speaker#1	female	native	一度停课的当地学校也已经恢复上课。	8	28	168	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	854.979	861.526	speaker#7	male	native	记者在贵阳市第一医院见到了被转到这里进行救治的十四名重症患者，他们全都是中小学生。	8	29	170	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	861.526	868.807	speaker#7	male	native	经过两天的救护治疗，他们中仍有少数人有咽喉肿痛，晕眩，甚至轻度昏迷等症状。	8	29	171	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	868.807	870.604	speaker#9	female	native	当时我们还在上课，	8	30	172	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	870.604	875.073	speaker#9	female	native	上课时候老师就在那用用本书， 当时我们还没发觉，	8	30	173	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	875.073	878.043	speaker#9	female	native	老师就用一本书把，把那个鼻子捂着，	8	30	175	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	878.043	883.012	speaker#9	female	native	然后就进来他就说，哎呀外面好臭， 然后就叫我们注意一下是不是什么东西。	8	30	176	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	883.012	887.184	speaker#9	female	native	然后我们又好奇嘛，然后就，就闻了一下，	8	30	178	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	887.184	892.747	speaker#9	female	native	啊，大部分煤烟的味道，二氧化硫，后来才反应过来。	8	30	179	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	892.747	900.060	speaker#9	female	native	然后学校里面通知嗯叫每个班的同学就会一张湿毛巾，打湿了来把嘴巴捂着，	8	30	180	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	900.060	903.467	speaker#9	female	native	其实后来的那种，其实也，也晚了。	8	30	181	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	903.467	909.404	speaker#7	male	native	这十四名病情较重的学生是十七号和十八号凌晨转到贵阳市第一医院的，	8	31	182	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	909.404	912.873	speaker#7	male	native	医院抽调了权威专家进行了有针对性的治疗。	8	31	183	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	914.013	921.356	speaker#7	male	native	其他中毒较轻的中小学师生和当地居民是在息烽县医院进行治疗， 部分中毒者已经陆续出院。	8	31	185	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	922.356	928.622	speaker#7	male	native	据初步调查， 这起污染中毒事故是由于位于息烽县的贵阳中化开磷化肥有限公司，	8	31	188	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	928.622	945.528	speaker#7	male	native	在恢复投料生产过程中制酸设备突然跳闸断电造成二氧化硫和硫酸物意外排放， 导致处于该企业下风向三百米处的息烽县黑神庙小学，中学的学生和部分居民吸入过量的二氧化硫而中毒。	8	31	190	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	947.059	950.317	speaker#1	female	native	全国铁路昨天开始实施第六次大面积提速，	9	32	193	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	950.317	956.041	speaker#1	female	native	新开行的高速动车组也就是 <foreign lang="English">D</foreign> 字头列车， 可以说是这次提速最大的亮点，	9	32	194	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	956.041	961.885	speaker#1	female	native	不过我们的记者了解到昨天动车组的上座率并不是很好，原因主要是票价太贵。	9	32	196	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	961.885	966.525	speaker#1	female	native	提速第一天部分长途的 <foreign lang="English">D</foreign> 字头列车车票已经开始打折。	9	32	197	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	967.978	974.150	speaker#10	female	native	记者在北京站和北京西站采访时发现， 多数购买 <foreign lang="English">D</foreign> 字头列车车票的旅客反应票价有点高，	9	33	199	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	974.150	979.259	speaker#10	female	native	昨天早晨北京到天津的 <foreign lang="English">D</foreign> 五三幺次首发列车的上座率也不足百分之五十，	9	33	201	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	979.259	983.431	speaker#10	female	native	铁道部的统计也显示，长途 <foreign lang="English">D</foreign> 字头列车车票普遍销售不佳。	9	33	202	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	983.431	986.962	speaker#11	female	native	票价嗯比以前反正是贵多了。	9	34	203	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	986.962	988.946	speaker#12	male	native	这相当于软卧了。	9	35	204	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	988.946	994.556	speaker#13	male	native	公布的价比软卧稍微高一点，但是这不是我们实行价，	9	36	205	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	994.556	1003.556	speaker#13	male	native	因为我们前面都讲了， 我们这个公布价是按照文件把最高的这个限度跟它((逐步))，然后再进行打折。	9	36	206	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1003.556	1008.541	speaker#10	female	native	记者注意到， 提速第一天部分长途的 <foreign lang="English">D</foreign> 字头列车车票已经开始打折，	9	37	208	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1008.541	1017.463	speaker#10	female	native	比如从哈尔滨到北京的列车， 二等车厢的公布价是三百八十七元， 实际销售是二百八十一元，便宜了一百零六元相当于打了七点三折。	9	37	210	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1017.463	1019.869	speaker#10	female	native	北京到上海的车票也打了七点三折。	9	37	213	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1019.869	1027.854	speaker#10	female	native	铁道部运输局有关负责人表示， 今后六小时以上的 <foreign lang="English">D</foreign> 字头列车都会实行折扣票价， 折扣幅度由各地铁路局自行决定。	9	37	214	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1029.261	1039.808	speaker#1	female	native	我们也报道过由于时速二百公里的动车组在铁路边掀起的风速值将大于每秒十四米， 相当于八级大风，超过了人站立所能承受的风速值。	10	38	218	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1039.808	1048.761	speaker#1	female	native	所以这次铁路提速之后呢，为了确保铁路道口的通行安全， 一些城市在列车运行密集时段对相关道口实行了交通管制。	10	38	220	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1048.761	1054.856	speaker#1	female	native	在北京呢记者看到，由于铁路道口封闭，机动车禁止通行，道口显得十分拥堵。	10	38	222	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1056.294	1058.075	speaker#10	female	native	早上七点正是上班的高峰，	10	39	224	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1058.075	1068.076	speaker#10	female	native	记者在北京市丰台区与宣武区交界的柳村道口发现， 虽然封闭道路的栏杆上表明了禁行时间， 但还是有不少司机不了解禁行的情况被堵在了道口。	10	39	225	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1068.076	1069.373	speaker#14	male	native	不知道，不知道。	10	40	228	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1069.373	1070.217	speaker#10	female	native	怎么办啊，你现在掉头？	10	41	229	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1070.217	1071.892	speaker#15	female	native	掉头呗，掉头呗，	10	42	230	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1071.892	1072.192	speaker#10	female	native	啊。	10	43	231	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1072.192	1073.123	speaker#15	female	native	那没办法。	10	44	232	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1073.123	1078.983	speaker#10	female	native	记者了解到， 由于列车提速后时速可达两百公里， 道口在列车通过前十分钟就要封闭。	10	45	233	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1078.983	1083.093	speaker#16	male	native	这个点儿我们封闭呀，这点儿合着四五分钟一趟车，	10	46	236	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1083.093	1084.750	speaker#16	male	native	你抬杆儿抬不起来。	10	46	237	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1084.750	1088.250	speaker#10	female	native	记者看到，这个道口动用了四个工作人员进行交通疏导，	10	47	238	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1088.250	1091.438	speaker#10	female	native	交警也加班加点保证了通行基本顺畅。	10	47	239	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1091.438	1094.657	speaker#10	female	native	然而记者发现还是不时有个别车辆钻空子，	10	47	240	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1094.657	1100.235	speaker#10	female	native	在宣武区手帕口铁路道口一辆汽车就在企图穿过道口时被工作人员拦住了。	10	47	241	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1101.766	1106.704	speaker#1	female	native	今天上午丁亥年黄帝故里拜祖大典在河南新郑黄帝故里举行。	11	48	243	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1107.579	1111.079	speaker#17	male	native	这里是丁亥年黄帝故里拜祖大典现场，	11	49	245	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1111.079	1115.782	speaker#17	male	native	来自海内外的两万多炎黄子孙参加了这次拜祖大典。	11	49	246	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1115.782	1118.532	speaker#7	male	native	九点五十分拜祖大典开始，	11	50	247	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1119.078	1123.000	speaker#7	male	native	参加大典的领导和嘉宾向黄帝像敬献花篮，	11	50	249	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1125.531	1133.845	speaker#7	male	native	随后国民党荣誉主席连战及夫人等分别代表港澳台来宾，海外人士和工商界人士向黄帝像敬香。	11	50	251	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1135.329	1142.439	speaker#1	female	native	微软公司董事长比尔盖茨今天来到清华大学， 和师生们共同展望了全球信息产业的发展前景。	12	51	253	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1145.908	1155.580	speaker#7	male	native	比尔盖茨在题为未来之路在中国共同创新的演讲中说， 信息技术的不断创新给世界经济和社会生活带来了巨大的变化，	12	52	256	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1155.580	1160.626	speaker#7	male	native	经过大批杰出科学家的努力，信息技术还会有更大的发展。	12	52	258	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1160.626	1166.017	speaker#7	male	native	比尔盖茨认为， 和美国相比，他更看好中国信息产业的发展前景。	12	52	259	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1166.017	1173.236	speaker#7	male	native	在美国更多的年轻人选择金融和咨询业， 而在中国越来越多的年轻人选择 <foreign lang="English">IT</foreign> 专业，	12	52	261	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1173.236	1175.986	speaker#7	male	native	他高度评价了中国大学生的素质。	12	52	263	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1175.986	1181.705	speaker#18	male	native	中国的学生很勤奋，很聪明，富有创新能力，	12	53	264	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1181.705	1184.752	speaker#18	male	native	这也是我为什么到中国来办研究院的原因。	12	53	265	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1186.471	1192.050	speaker#7	male	native	比尔盖茨的传奇经历和充满睿智的演讲也感染了现场的清华学子。	12	54	267	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1193.691	1199.300	speaker#1	female	native	今天的劳动者之歌为您介绍人保财险福建上杭支公司员工林禄元。	13	55	269	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1200.284	1206.815	speaker#7	male	native	福建上杭是个山区县，属亚热带的气侯， 雷击，暴雨，泥石流灾害频发，	13	56	271	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1206.815	1209.846	speaker#7	male	native	去年夏季上杭遭遇持续暴雨，	13	56	273	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1209.846	1213.127	speaker#7	male	native	全县近两千户农民房屋严重损毁。	13	56	274	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1213.689	1218.377	speaker#7	male	native	灾情发生以后， 林禄元主动要求到受灾最严重的地方察看。	13	56	276	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1218.377	1228.628	speaker#7	male	native	他冒着随时都可能再次发生山体滑坡的危险， 每次跋涉在崎岖的山路上， 为遭受灾害的山村农户家核灾定损。	13	56	278	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1229.612	1241.455	speaker#7	male	native	在很短的时间内完成了四百六十多户受灾农房的勘察任务， 并及时把保险赔款送到了灾民手中， 使灾后重建工作得以顺利地进行。	13	56	282	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1241.455	1251.189	speaker#7	male	native	从事保险察看定损工作十八年来， 林禄元始终坚持险情就是命令，保护就是上帝的服务理念。	13	56	285	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1251.189	1256.845	Lin_luyuan	male	native	我们是把送，把党和政府的温暖送给了人民群众，	13	57	287	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1256.845	1259.392	Lin_luyuan	male	native	我觉得很自豪，很光荣。	13	57	288	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1403.267	1404.345	speaker#2	male	native	国际方面。	15	59	290	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1404.345	1410.953	speaker#2	male	native	巴格达绿区爆炸事件刚刚过去近一周， 十八号巴格达什叶派聚集区又发生四起炸弹袭击事件。	15	59	291	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1410.953	1415.766	speaker#2	male	native	据美联社报道，爆炸已经造成约一百八十人死亡，二百多人受伤。	15	59	293	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1416.563	1421.579	speaker#6	female	native	当天最大的一起爆炸发生在位于巴格达市中心的萨德里利亚市场，	15	60	295	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1421.579	1426.548	speaker#6	female	native	下午四点十五分左右一辆装有炸弹的卡车在市场内发生爆炸，	15	60	296	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1426.548	1432.720	speaker#6	female	native	由于当时市场内人流密集， 爆炸造成一百二十多人死亡，近一百五十人受伤，	15	60	297	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1432.720	1436.127	speaker#6	female	native	爆炸产生的浓烟约二十分钟后才散去。	15	60	299	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1436.127	1449.080	speaker#6	female	native	此外，巴格达市中心凯拉代区一家私人医院， 苏尔贾市场和东部萨德尔城的一个警方检查站当天也发生炸弹袭击事件。 共造成五十多人死亡，数十人受伤。	15	60	300	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1449.080	1455.783	speaker#6	female	native	目前，驻伊美军和伊拉克安全部队在巴格达实施新安全计划已经有两个多月的时间，	15	60	303	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1455.783	1465.080	speaker#6	female	native	尽管美伊联军多次强调新安全计划已经取得显著成效， 但巴格达安全局势依然紧张，暴力袭击事件不断发生。	15	60	304	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1466.298	1468.220	speaker#2	male	native	十八号是伊朗的建军节，	16	61	307	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1468.220	1470.283	speaker#2	male	native	伊朗当天举行了盛大的阅兵式，	16	61	308	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1470.283	1476.643	speaker#2	male	native	伊朗总统艾哈迈迪内贾德在阅兵式上发表讲话说， 伊朗军队已经做好了面对任何侵略者的准备。	16	61	309	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1477.487	1487.356	speaker#19	male	nonnative	<foreign lang="unknown">(())</foreign>	16	62	312	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1487.356	1492.090	speaker#6	female	native	内贾德表示， 伊朗军队的力量不会因为武器禁运而被削弱，	16	63	313	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1492.090	1500.497	speaker#6	female	native	但他同时强调伊朗的军队是防御性的， 伊朗致力于同世界上除以色列以外的任何国家发展友好关系。	16	63	315	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1500.497	1508.684	speaker#6	female	native	在当天的阅兵式上， 伊朗展示了国产的无人驾驶飞机， 防空导弹系统和短程导弹等多种武器装备。	16	63	317	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1509.371	1519.169	speaker#6	female	native	同一天，伊朗石油部长在接受采访时表示， 如果受到外来威胁或者攻击伊朗将使用各种手段自卫，包括停止石油出口。	16	63	321	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1519.169	1527.700	speaker#6	female	native	近一段时间来美国在海湾地区持续增加兵力部署， 使得西方媒体传言美军可能将在近期攻打伊朗，	16	63	323	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1527.700	1533.075	speaker#6	female	native	伊朗军方曾多次表示伊朗已经做好抵抗外来攻击者的准备。	16	63	325	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1534.638	1537.669	speaker#2	male	native	十八号美联社公布了新近获得的一段录像，	17	64	327	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1537.669	1546.231	speaker#2	male	native	在录像中阿富汗塔利班武装的高级领导人达杜拉对数百名自杀式袭击者发表讲话， 鼓动他们在阿富汗境内发动更多的自杀式袭击。	17	64	328	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1547.928	1561.467	speaker#20	male	nonnative	<foreign lang="unknown">(())</foreign>	17	65	331	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1561.467	1564.279	speaker#6	female	native	美联社是在上周末获得这段录像的，	17	66	332	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1564.279	1567.123	speaker#6	female	native	录像上没有标注拍摄的时间和地点，	17	66	333	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1567.123	1570.013	speaker#6	female	native	录像的真实性还有待进一步证实。	17	66	334	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1570.013	1573.450	speaker#6	female	native	达杜拉是塔利班武装最高层的领导人之一，	17	66	335	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1573.450	1584.356	speaker#6	female	native	他曾多次代表塔利班发表讲话， 称已经有数千名自杀式袭击者部署完毕， 准备在春季攻势中对阿富汗政府目标和外国驻军发动袭击。	17	66	336	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1584.356	1595.482	speaker#6	female	native	据统计，阿富汗境内今年以来已经发生了三十九起自杀式袭击事件， 是去年同期的三倍， 给阿富汗政府军警及平民都造成了严重伤亡。	17	66	339	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1596.670	1607.436	speaker#2	male	native	美国弗吉尼亚州警方十八号说， 弗吉尼亚理工大学枪击案凶手韩国籍学生赵承熙， 十六号在作案间隙曾经向美国全国广播公司寄过一个包裹，	18	67	343	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1607.436	1612.421	speaker#2	male	native	里面包括录像带和照片，录像中有不少攻击和谩骂富人的内容。	18	67	346	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1614.764	1621.076	speaker#7	male	native	据介绍，包裹里有四十三张赵承熙的照片， 其中包括十一张他在镜头前挥舞枪支的照片，	18	68	348	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1621.076	1628.076	speaker#7	male	native	另外还有一盘录像带， 录像中赵承熙用不连贯的话语宣泄着对富人的仇视，并扬言报复。	18	68	350	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1628.076	1631.622	speaker#7	male	native	包裹邮戳上的时间为十六号上午九点零一分，	18	68	352	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1631.622	1638.294	speaker#7	male	native	显然包裹是赵承熙当天在弗吉尼亚理工大学一所宿舍楼内杀死两人后寄出的。	18	68	353	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1638.294	1642.966	speaker#7	male	native	而美国全国广播公司收到包裹的时间则是在十八号上午，	18	68	354	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1642.966	1649.389	speaker#7	male	native	他们认为，之所以两天后才收到这个包裹很明显是因为赵承熙写错了邮政编码。	18	68	355	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1650.154	1656.127	speaker#7	male	native	美国全国广播公司新闻节目的负责人卡皮说， 他们在收到包裹后立即通知了联邦调查局，	18	68	357	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1656.127	1662.798	speaker#7	male	native	联邦调查局要求他们暂时不要报道这个事情， 以便联邦调查局人员可以首先检查包裹。	18	68	359	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1662.798	1667.173	speaker#7	male	native	警方表示，这将成为调查此案的重要线索和证据。	18	68	361	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1668.673	1670.189	speaker#2	male	native	下面我们要去墨西哥，	19	69	363	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1670.189	1674.236	speaker#2	male	native	这个充满拉美风情的国家最近又多了一道极具特色的风景。	19	69	364	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1674.236	1682.486	speaker#2	male	native	在墨西哥首都墨西哥城的街头， 新换装的骑警们穿上了传统的墨西哥牛仔服装成为墨西哥传统特色最好的宣传员。	19	69	365	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1684.801	1688.894	speaker#6	female	native	现在来到墨西哥城就可以见到面貌一新的骑警了，	19	70	368	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1688.894	1695.848	speaker#6	female	native	卷边的大檐帽让人看到了墨西哥早期的牛仔形象，是不是比制服更有亲和力呢。	19	70	369	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1695.848	1700.488	speaker#6	female	native	墨西哥城的骑警由四十五名经过特别培训的警官组成，	19	70	370	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1700.488	1705.039	speaker#6	female	native	他们从二零零二年开始在墨西哥城著名的阿拉梅达区巡逻。	19	70	371	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1705.039	1707.471	speaker#6	female	native	这个地区游人如织，	19	70	372	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1707.471	1713.440	speaker#6	female	native	所以骑警们不仅担负着普通警察的职责， 还负责向外来游客提供咨询。	19	70	373	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1713.440	1717.175	speaker#6	female	native	由于到墨西哥城观光的游客很多是外国人，	19	70	375	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1717.175	1720.081	speaker#6	female	native	骑警队的警官大多会说一门外语。	19	70	376	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1720.081	1729.476	speaker#21	female	nonnative	<foreign lang="English">(())</foreign>	19	71	377	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1729.476	1734.413	speaker#6	female	native	游客不仅对骑警的周到服务很满意， 对他们的新形象也很喜爱，	19	72	378	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1734.413	1740.023	speaker#6	female	native	许多人和马背上的警察合影留念， 留住在墨西哥的美好回忆。	19	72	380	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1779.863	1791.706	speaker#22	female	native	中央气象台今天上午十点钟发布沙尘天气预报说， 今天中午到明天中午， 内蒙古中西部，甘肃的河西走廊，宁夏中北部，陕西北部，华北北部， 还有新疆的南江盆地都会有浮尘或扬沙，	21	74	383	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1791.706	1796.160	speaker#22	female	native	其中内蒙古中西部的部分地区还会有沙尘暴，局地有强沙尘暴。	21	74	387	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1796.160	1800.942	speaker#22	female	native	另外，渤海和黄海中北部海面有六到八级大风，阵风九级。	21	74	388	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1802.208	1805.192	speaker#22	female	native	北京，多云转阵雨，二十三到十四摄氏度。	21	74	390	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1805.192	1807.333	speaker#22	female	native	漯河，晴，二十七到十五度。	21	74	391	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1807.333	1809.325	speaker#22	female	native	焦作，晴，三十到十五度。	21	74	392	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1809.864	1811.691	speaker#22	female	native	晋城，晴，二十三到六度。	21	74	394	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1812.259	1814.026	speaker#22	female	native	晋中，晴，二十三到六度。	21	74	396	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1814.685	1816.511	speaker#22	female	native	大理，晴，二十六到十度。	21	74	398	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1817.140	1819.786	speaker#22	female	native	襄樊，晴转多云，二十八到十六度。	21	74	400	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1819.786	1822.255	speaker#22	female	native	平顶山，晴，二十九到十四度。	21	74	401	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1822.255	1824.817	speaker#22	female	native	泉州，晴转多云，二十八到十三度。	21	74	402	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1824.817	1827.161	speaker#22	female	native	北海，多云，二十八到十六度。	21	74	403	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1827.161	1828.936	speaker#22	female	native	长治，晴，二十二到五度。	21	74	404	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1829.445	1832.083	speaker#22	female	native	扬州，晴转多云，二十四到十三度。	21	74	406	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1832.083	1834.615	speaker#22	female	native	安庆，晴转多云，二十五到十三度。	21	74	407	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1834.615	1837.240	speaker#22	female	native	泰州，晴转多云，二十四到十二度。	21	74	408	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1837.240	1839.602	speaker#22	female	native	洛阳，晴转多云，三十到十八度。	21	74	409	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1839.602	1841.696	speaker#22	female	native	徐州，晴，二十七到十四度。	21	74	410	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1841.696	1844.243	speaker#22	female	native	铜陵，晴转多云，二十四到十三度。	21	74	411	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1844.243	1846.696	speaker#22	female	native	邯郸，晴转多云，二十七到十二度。	21	74	412	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1846.696	1849.243	speaker#22	female	native	淮北，晴转多云，二十五到十六度。	21	74	413	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1849.243	1851.758	speaker#22	female	native	武隆，晴转多云，三十到十六度。	21	74	414	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1851.758	1854.289	speaker#22	female	native	宜昌，晴转多云，二十九到十三度。	21	74	415	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1854.289	1856.336	speaker#22	female	native	临汾，晴，二十五到九度。	21	74	416	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1856.336	1858.601	speaker#22	female	native	乌海，多云，二十一到十二度。	21	74	417	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1858.601	1861.117	speaker#22	female	native	保定，多云，二十七到十二度。	21	74	418	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1861.117	1863.867	speaker#22	female	native	安阳，晴转多云，二十九到十五度。	21	74	419	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1863.867	1866.258	speaker#22	female	native	菏泽，晴转多云，二十五到十六度。	21	74	420	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1866.258	1868.477	speaker#22	female	native	玉溪，阵雨，二十五到十度。	21	74	421	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1868.477	1871.196	speaker#22	female	native	涪陵，晴转多云，二十九到十八度。	21	74	422	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1871.196	1873.899	speaker#22	female	native	十堰，晴转多云，二十七到十三度。	21	74	423	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1873.899	1876.302	speaker#22	female	native	衡阳，晴转多云，二十九到十六度。	21	74	424	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1876.302	1878.677	speaker#22	female	native	绵阳，晴转雷阵雨，二十七到十六度。	21	74	425	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1878.677	1880.927	speaker#22	female	native	三门峡，晴，三十一到十三度。	21	74	426	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1880.927	1882.927	speaker#22	female	native	朔州，晴，二十一到四度。	21	74	427	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1882.927	1885.224	speaker#22	female	native	滨州，多云，二十七到十六度。	21	74	428	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1886.286	1889.630	speaker#22	female	native	渤海，黄海大部海面风力七到八级，	21	74	430	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1889.630	1892.146	speaker#22	female	native	东海北部风力六到七级，	21	74	431	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1892.146	1893.709	speaker#22	female	native	北部湾有雾。	21	74	432	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1896.427	1900.256	speaker#23	female	native	今天夜间到明天白天，渤海浪高一点八到二点五米，	21	75	434	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1900.256	1902.146	speaker#23	female	native	黄海浪高二到三点五米，	21	75	435	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1902.146	1904.771	speaker#23	female	native	东海，台湾海峡浪高一点五到一点八米。	21	75	436	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1904.771	1908.396	speaker#23	female	native	东沙，西沙，南沙群岛附近海面和北部湾浪高一点五米，	21	75	437	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1908.396	1912.459	speaker#23	female	native	日本海浪高二到三米，日本以东洋面浪高五到八米，	21	75	438	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1912.459	1914.459	speaker#23	female	native	关岛西北洋面浪高两米。	21	75	439	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1916.084	1917.818	speaker#23	female	native	渤海，黄海海浪较大，	21	75	441	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1917.818	1919.927	speaker#23	female	native	海上生产活动注意安全。	21	75	442	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1921.317	1924.630	speaker#23	female	native	上海海域浪高一点八米，水温十四点五度。	21	75	444	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1926.818	1930.084	speaker#23	female	native	厦门海域浪高一点二米，水温十九点一度。	21	75	446	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1931.569	1934.709	speaker#23	female	native	天津海域浪高两米，水温十点二度。	21	75	448	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1936.490	1940.099	speaker#23	female	native	深圳海域浪高一点二米，水温二十三点七度。	21	75	450	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1941.599	1945.083	speaker#23	female	native	大连海域浪高二点二米，水温七点三度。	21	75	452	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1946.630	1949.974	speaker#23	female	native	连云港海域浪高两米，水温十四点三度。	21	75	454	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1951.677	1954.661	speaker#23	female	native	青岛海域浪高二点五米，水温十一度。	21	75	456	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1957.036	1959.786	speaker#2	male	native	好，观众朋友感谢您收看今天的新闻三十分节目。	22	76	458	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1959.786	1964.005	speaker#1	female	native	稍后请您继续收看本台综合频道的今日说法和新闻频道的共同关注。	22	77	459	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1964.005	1965.630	speaker#2	male	native	明天中午十二点我们再见。	22	78	460	report	
+CCTV1_30MINNEWS_CMN_20070419_115701	0	1965.630	1966.208	speaker#1	female	native	再见。	22	79	461	report	

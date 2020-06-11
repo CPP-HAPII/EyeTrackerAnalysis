@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.1409	0	700.0	800.0	speaker	unknown	unknown	变身为商业机构后，国开行的评级变化要根据其业务开展的状况、市场准入的难易等来决定。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1808	0	0.0	100.0	speaker	unknown	unknown	浙江"出"梅"入"台汛期 近期晴热高温天气为主	0	0	0		
+CNS_CMN_20080704.1808	0	700.0	800.0	speaker	unknown	unknown	“今年浙江六月八日入梅，七月四日出梅，入梅、出梅均比常年偏早，梅期二十六天，比常年偏多三天。	0	0	0		

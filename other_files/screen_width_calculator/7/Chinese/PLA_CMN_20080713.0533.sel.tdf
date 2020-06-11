@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080713.0533	0	200.0	300.0	speaker	unknown	unknown	新华社布达佩斯７月１２日奥运专电 特写：奥运冠军科瓦奇在北京奥运会前告别泳池	0	0	0		
+PLA_CMN_20080713.0533	0	600.0	700.0	speaker	unknown	unknown	“啪”！	0	0	0		
+PLA_CMN_20080713.0533	0	700.0	800.0	speaker	unknown	unknown	随着发令枪声响起，科瓦奇奋力跳进水中。	0	0	0		

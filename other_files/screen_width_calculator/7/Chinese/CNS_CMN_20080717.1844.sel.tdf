@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.1844	0	400.0	500.0	speaker	unknown	unknown	报道称，今年3月，1美元还只能兑换15,930越盾。	0	0	0		
+CNS_CMN_20080717.1844	0	500.0	600.0	speaker	unknown	unknown	到了6月29日，1美元在黑市上可以兑换到18,200越盾，最高峰时达到20,060越盾。	0	0	0		
+CNS_CMN_20080717.1844	0	1000.0	1100.0	speaker	unknown	unknown	报道显示，从去年底到今年，越南的米价已经上涨20%，在越南新区一个50平方米左右的普通白领公寓，每月租金由去年400美元上涨到700多美元；一份套餐也从3万越盾涨到5万越盾。	0	0	0		

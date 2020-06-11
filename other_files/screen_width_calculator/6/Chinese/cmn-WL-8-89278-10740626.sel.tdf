@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10740626	0	100.0	200.0	speaker	unknown	unknown	很明目张胆的压缩物价涨幅数字，抬高工资涨幅，别有用心，企图用数字安定团结，统计局太可爱了吧，你们不是公然违反统计法嘛？	0	0	0		
+cmn-WL-8-89278-10740626	0	1000.0	1100.0	speaker	unknown	unknown	无论新浪还是网易，么有一个网民相信统计局的鬼话，都纷纷要求统计局补发工资，填平这个自己离平均数的差距。	0	0	0		
+cmn-WL-8-89278-10740626	0	1400.0	1500.0	speaker	unknown	unknown	根据国家统计局 公布 的数据显示，上半年我国国内生产总值130619亿元，同比增长10.4%；居民消费价格（CPI）总 水平 同比上涨7.9％；城镇新增就业稳定增加，城乡居民收入继续提高，上半年城镇居民人均可支配收入8065元，同比增长14.4%；农村居民人均现金收入2528元，增长19.8%。	0	0	0		
+cmn-WL-8-89278-10740626	0	1500.0	1600.0	speaker	unknown	unknown	为了更加详细体现全国各地的经济发展情况，人民网汇总2008年上半年全国各地已公布的主要经济数据和 企业 工资指导线，供网友参考（见下二表）。	0	0	0		

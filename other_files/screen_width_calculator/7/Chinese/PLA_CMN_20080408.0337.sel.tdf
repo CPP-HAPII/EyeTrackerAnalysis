@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080408.0337	0	700.0	800.0	speaker	unknown	unknown	目前，６个试点省份农作物承保面积已近１．５亿亩，占到其播种面积的４０％－５０％，全国能繁母猪已承保３７００多万头，覆盖面超过８０％。	0	0	0		

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-122296-9961361	0	0.0	100.0	speaker	unknown	unknown	领导和乞丐	0	0	0		
+cmn-NG-31-122296-9961361	0	100.0	200.0	speaker	unknown	unknown	几个领导者用公款点了一桌丰盛的酒席，飞禽走兽山珍海味应有尽有.	0	0	0		
+cmn-NG-31-122296-9961361	0	200.0	300.0	speaker	unknown	unknown	这时旁边有几个乞丐在一旁眼巴巴地看着，嘴里不断地流着哈喇子。	0	0	0		
+cmn-NG-31-122296-9961361	0	300.0	400.0	speaker	unknown	unknown	但是这些领导却不把吃剩下的东西给这几个乞丐，因为领导的脚下还养了几只狗，残羹剩饭 是要喂这几只狗的。	0	0	0		
+cmn-NG-31-122296-9961361	0	400.0	500.0	speaker	unknown	unknown	当然了，这些乞丐连剩汤都喝不着，而领导看着这几个乞丐也很不爽，以至影响了他们喝酒的兴致。	0	0	0		
+cmn-NG-31-122296-9961361	0	600.0	700.0	speaker	unknown	unknown	这一下领导想起了那几个乞丐，对乞丐说："帝国主义要来灭亡我们的民族了， 必须和他们拼了，这样才能挽救我们的民族。"	0	0	0		
+cmn-NG-31-122296-9961361	0	700.0	800.0	speaker	unknown	unknown	几个乞丐一听，立即高喊："领导吃什么是我们自己的事儿，列强掀桌子是我们民族的耻辱。"	0	0	0		

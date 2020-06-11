@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121113-10583226	0	0.0	100.0	speaker	unknown	unknown	Liu Hezhen has already rejected it, "The charcoal-seller" is also an anti poem Re: China's contemporary dilemma	0	0	0		
+cmn-NG-31-121113-10583226	0	300.0	400.0	speaker	unknown	unknown	"The charcoal-seller" is also an anti poem: a crafty dealer without a business license wants to rake in big profits by going into the city and buying charcoal in heavy snow.	0	0	0		
+cmn-NG-31-121113-10583226	0	1000.0	1100.0	speaker	unknown	unknown	cn the pledge here is irrevocable.	0	0	0		

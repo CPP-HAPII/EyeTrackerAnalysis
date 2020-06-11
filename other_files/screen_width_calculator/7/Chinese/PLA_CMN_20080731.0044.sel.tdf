@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080731.0044	0	200.0	300.0	speaker	unknown	unknown	新华社北京７月３１日奥运专电（记者顾瑞珍）环境保护部３１日公布的《北京奥运会残奥会期间极端不利气象条件下空气污染控制应急措施》指出，将在三个方面进一步采取控制污染措施。	0	0	0		
+PLA_CMN_20080731.0044	0	400.0	500.0	speaker	unknown	unknown	应急措施的主要内容是在实施空气质量保障措施的基础上，在三个方面进一步采取控制污染措施。	0	0	0		
+PLA_CMN_20080731.0044	0	700.0	800.0	speaker	unknown	unknown	张家口、承德、石家庄、唐山等小钢铁企业大幅度减产。	0	0	0		
+PLA_CMN_20080731.0044	0	900.0	1000.0	speaker	unknown	unknown	“应急措施的组织实施程序已经有了明确的规定。”环境保护部有关负责人介绍说，奥运期间，如遇极端不利气象条件影响，预报未来４８小时内空气质量超标时，由运行指挥部提出启动应急措施的建议，上报总指挥部，经批准后由北京市、天津市和河北省政府负责组织实施，环境保护部负责协调监督。	0	0	0		
+PLA_CMN_20080731.0044	0	1000.0	1100.0	speaker	unknown	unknown	应急措施的终止，由运行指挥部根据未来４８小时内空气质量不超标的预报，提出应急措施终止建议上报总指挥部，经批准后由北京市、天津市和河北省政府负责组织实施，环境保护部负责协调监督。	0	0	0		

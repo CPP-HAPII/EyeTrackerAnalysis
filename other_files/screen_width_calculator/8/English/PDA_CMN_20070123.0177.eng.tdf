@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070123.0177	0	10010.000	10019.900				Another of Brazil's Biggest Bank Robbery Suspects Killed	0	0	0		
+PDA_CMN_20070123.0177	0	20010.000	20019.900				January 23, 2007 14:28	0	0	0		
+PDA_CMN_20070123.0177	0	30010.000	30019.900				Xinhua News Agency, Brasilia, January 22 - (Reporter Zhao Yan, Chen Weihua) According to the media reports here on the 22nd, another man who was suspected to have participated in the biggest bank robbery in Brazilian history was found dead a few days ago.	0	0	0		
+PDA_CMN_20070123.0177	0	40010.000	40019.900				According to the report, this man was called Oliveira Magalhaes, aged 32. The police found his body and the bodies of two other men in a deep well on a ranch located 58 kilometers from the city of Sao Paulo on the 20th.	0	0	0		
+PDA_CMN_20070123.0177	0	40020.000	40029.900				The police stated that the three men were all strangled to death and they all were cruelly tortured before death.	0	0	0		
+PDA_CMN_20070123.0177	0	40030.000	40039.900				The police deduced that their deaths were related to the uneven distribution of the illicit money among the criminal gang members.	0	0	0		
+PDA_CMN_20070123.0177	0	50010.000	50019.900				In August 2005, Fortaleza Central Bank located in a northern Brazilian coastal city was robbed. The thieves first established a fake gardening company near the bank, then spent approximately three months digging a 90-meter-long underground tunnel from the company leading to the central bank's treasury vault, robbing 164.80 million Reais (equal to $77 million US dollars, according to current exchange ratios).	0	0	0		
+PDA_CMN_20070123.0177	0	50020.000	50029.900				From then on, there have been continual reports of gang members either being kidnapped or killed. According to reports by the local media, Magalhaes was the third to have been killed.	0	0	0		
+PDA_CMN_20070123.0177	0	60010.000	60019.900				Until now, Brazilian Police have already arrested more than 20 suspects involved in the century's biggest robbery case, but no one has ever been found guilty yet, and the recovered funds are less than 10% of the total amount stolen.	0	0	0		

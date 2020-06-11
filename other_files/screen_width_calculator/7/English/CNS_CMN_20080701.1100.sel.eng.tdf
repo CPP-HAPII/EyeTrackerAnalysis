@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1100	0	600.0	700.0	speaker	unknown	unknown	Today, Bush made a speech in the White House, saying that US should thank the American troops stationed abroad and provide them with firm support.	0	0	0		

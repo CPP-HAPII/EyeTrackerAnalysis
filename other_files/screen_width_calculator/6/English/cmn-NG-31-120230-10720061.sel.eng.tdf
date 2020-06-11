@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120230-10720061	0	0.0	100.0	speaker	unknown	unknown	A Question about Squid	0	0	0		
+cmn-NG-31-120230-10720061	0	100.0	200.0	speaker	unknown	unknown	Hello to all my fellow students. Recently I upgraded squid and encountered a problem. I'd like to ask those fellow students who know to give an answer.	0	0	0		
+cmn-NG-31-120230-10720061	0	200.0	300.0	speaker	unknown	unknown	In the old version of squid, there is a "reference_age" to control the maximum time cached objects can be stored in cache. After upgrading to 2.6, I found this value became invalid.	0	0	0		

@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0013.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	防示威 澳洲变更传递路线 圣火抵达前才宣布	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社雪梨十三日电	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	澳洲官员今天表示,奥运圣火传递在欧洲招来空前激烈的亲西藏示威后,澳洲站的传递路线已经变更。	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	筹办圣火在澳洲首都坎培拉停留两天的主办者已表示,路线不会缩短,但会加强安全戒备。	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	坎培拉圣火传递筹办者昆兰说,由于不满奥运主办国中国镇压西藏所形成的安全威胁,排定的圣火路线仍在修改。	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	2300.000	2350.000	TEXT1	unknown	unkown	他告诉法新社:「我们正在修订路线。	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	2350.000	2600.000	TEXT1	unknown	unkown	我们重新安排原先的路线,完全是因为我们需要考量到一路上的安全。」	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	2800.000	3100.000	TEXT1	unknown	unkown	昆兰说,可惜的是,新路线必须在圣火四月二十三日抵达澳洲前约四十八小时才会宣布,民众与圣火之间的距离会比原先规划的远一点。	0	0	0		statement
+AFP_CMN_20080413.0013.sgm	0	3300.000	3600.000	TEXT1	unknown	unkown	他说:「传递路线可能选择较宽阔的道路,民众可能会离得比较远,民众与圣火之间,也可能会有更多安全人员,真的很可惜。」	0	0	0		statement

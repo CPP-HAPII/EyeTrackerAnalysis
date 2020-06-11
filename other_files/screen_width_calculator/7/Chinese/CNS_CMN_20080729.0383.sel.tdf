@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080729.0383	0	300.0	400.0	speaker	unknown	unknown	根据要求，在安置和恢复重建中，无房散居五保户和“三孤”人员一律不再单独建房，而是统一纳入敬老院或者社会福利院集中供养。	0	0	0		

@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080702.0047	0	0.0	100.0	speaker	unknown	unknown	现存最早披头四访问录影 44年后重现江湖	0	0	0		
+AFP_CMN_20080702.0047	0	200.0	300.0	speaker	unknown	unknown	一段披头四合唱团约翰蓝侬和保罗麦卡尼之间的谈话录影,在四十四年后才被在一个满是影片胶卷的铁盒中发现,今天首次公开播放。	0	0	0		
+AFP_CMN_20080702.0047	0	300.0	400.0	speaker	unknown	unknown	这卷「遗失的披头四访问」录影共九分钟,一般相信它是从一个剪辑机上拍摄。	0	0	0		
+AFP_CMN_20080702.0047	0	600.0	700.0	speaker	unknown	unknown	它被认为是现存年代最久远的披头四成员访问录影。	0	0	0		
+AFP_CMN_20080702.0047	0	700.0	800.0	speaker	unknown	unknown	在这项录影中,蓝侬和麦卡尼坐在一边,史塔和哈里逊坐在另外一边,节目主持人正在问有关他们在乐坛迅速成功的问题。	0	0	0		
+AFP_CMN_20080702.0047	0	1400.0	1500.0	speaker	unknown	unknown	他(蓝侬)可以从头到尾写一首歌,但我们仍然会说,这是共同创作。」	0	0	0		

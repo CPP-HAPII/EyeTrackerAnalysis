@@ -1,0 +1,22 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070126.0321	0	10010.000	10019.900				Beijing to See Sandstorms This Spring	0	0	0		
+PDA_CMN_20070126.0321	0	20010.000	20019.900				January 26, 2007 08:27	0	0	0		
+PDA_CMN_20070126.0321	0	30010.000	30019.900				An article in the British newspaper The Guardian dated January 23, originally headlined "Beijing forecasts heavy spring sandstorms" Beijing will probably suffer from more serious sandstorms than in normal years this spring due to this unusually warm winter.	0	0	0		
+PDA_CMN_20070126.0321	0	40010.000	40019.900				Higher-than-average temperatures and critically low snowfall have exacerbated this problem.	0	0	0		
+PDA_CMN_20070126.0321	0	40020.000	40029.900				An official from Beijing Municipality's Environmental Protection Bureau has pointed out, "Warm, dry weather loosens the soil, and when the wind lifts in spring, it can easily give rise to sandstorm weather.	0	0	0		
+PDA_CMN_20070126.0321	0	40030.000	40039.900				Consequently, Beijing could possibly face severe pollution from sandstorms this spring."	0	0	0		
+PDA_CMN_20070126.0321	0	50010.000	50019.900				Soil desertification and persistent drought has exacerbated the problem of sandstorms in recent years.	0	0	0		
+PDA_CMN_20070126.0321	0	50020.000	50029.900				Beijing, which suffered 17 sandstorm attacks in 2006, pledged to hold a sandstorm-free Olympics in 2008 and has launched campaigns to restore vegetation on exposed earth and rein in over-grazing and over-logging.	0	0	0		
+PDA_CMN_20070126.0321	0	50030.000	50039.900				But environmental protection officials admit that China, one-third of whose national land area is taken up by deserts, will find it hard to completely tame sandstorms, because China's desertified area is too large.	0	0	0		
+PDA_CMN_20070126.0321	0	60010.000	60019.900				In order to improve air quality in the capital, Beijing will adopt a series of measures in 2007, including upgrading 1,100 boilers, canceling 2,580 high-polluting public transport buses, and enforcing "Euro 4" emission standards for all new vehicles in 2008.	0	0	0		
+PDA_CMN_20070126.0321	0	70010.000	70019.900				An article in South Korea's JoongAng Ilbo dated January 23, originally headlined "Yellow sanddust will attack in spring, and China expects a bad year" China's environmental protection authorities have informed South Koreans that the spring will see an attack of "yellow sanddust," and sandstorms in China in 2007 will probably be more serious than in normal years.	0	0	0		
+PDA_CMN_20070126.0321	0	80010.000	80019.900				The western China and Inner Mongolian regions are the origins of the yellow sandstorms, and there was almost no snow in these regions this winter.	0	0	0		
+PDA_CMN_20070126.0321	0	80020.000	80029.900				According to experts, in years when these regions experience snowfall exceeding 10 days, sandstorms in the following spring are less severe, whereas dry earth can aggravate sandstorms.	0	0	0		
+PDA_CMN_20070126.0321	0	90010.000	90019.900				Last year, Beijing experienced 17 days of suffocating sandstorm weather.	0	0	0		
+PDA_CMN_20070126.0321	0	90020.000	90029.900				Beijing Municipality's environmental protection experts have said that overall air pollution, including sandstorms, will continue to get worse over the next 5 years.	0	0	0		
+PDA_CMN_20070126.0321	0	90030.000	90039.900				The former South Korean ambassador to China, Kwon Byong-hyon, is leading an organization called the Korea-China Future Forest Association, which is attempting to plant enough trees in Inner Mongolia to ease desertification.	0	0	0		
+PDA_CMN_20070126.0321	0	90040.000	90049.900				▲	0	0	0		
+PDA_CMN_20070126.0321	0	100010.000	100019.900				(Translated by Chen Yi)	0	0	0		
+PDA_CMN_20070126.0321	0	110010.000	110019.900				Global Times (Page 06, 2007-01-24)	0	0	0		

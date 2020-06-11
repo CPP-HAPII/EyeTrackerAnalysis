@@ -1,0 +1,23 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080406.0008.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	温家宝到河北考察农业和春耕生产 强调有粮则安	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月06日 16:31 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新社石家庄四月六日电	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	四月五日至六日，中国国务院总理温家宝来到河北省考察农业和春耕生产情况，表示要把粮食稳住，有粮则安。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	在河北任县大屯村的田间地头，温家宝和农民们谈起追肥上水的农家活。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	当有农民反映化肥等农资价格上涨太快时，温家宝说：“我说主要是油价上涨太快，只有给农民补贴。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	为什么最近农用生产资料补贴由十七块涨到四十块，就用这补贴农民，减轻你们的负担。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	从现在看，大家种粮的情绪还是基本稳定的。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1293.750	1300.000	TEXT1	unknown	unkown	如果看国际形势，大家还得理解。”	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	温家宝同时说：“现在国际粮价上涨也很快，供求紧张。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	我们国家人口多，十三亿人，吃饭只能靠自己。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	靠任何国家都不行。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1587.500	1600.000	TEXT1	unknown	unkown	所以还得回过头来说，得把粮食这头稳住。”	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	当有农民担心惠农政策会不会变时，温家宝说：“不会变！	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	这些政策不仅不变，我们在想，还增加什么政策。”	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	在沙河市十里铺村，温家宝在同村民们聊天时说，国家手头现在还有粮食，相当于全年用粮的百分之四十。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	“我方才问了一下，农民自己家里都存有粮食。”	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	2450.000	2475.000	TEXT1	unknown	unkown	温家宝说，“这我就更放心了。	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	2475.000	2500.000	TEXT1	unknown	unkown	不光国家有存粮，((农民))家里都用存粮，国家就安，有粮则安！”	0	0	0		statement
+CNS_CMN_20080406.0008.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	温家宝一行还考察了河北省邢台和邯郸两地的饲料生产企业、家禽育种公司、方便面生产企业以及农资化肥综合服务站等。(完）	0	0	0		statement

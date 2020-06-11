@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080418.0051.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	海军某团积极支援驻地生态文明建设	0	0	0		statement
+PLA_CMN_20080418.0051.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-18 06:18:31   来源：解放军报第2版	0	0	0		statement
+PLA_CMN_20080418.0051.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报太原4月17日电　钱长飞报道：连日来，由于海军某团驻地雨水较多，湿地水库水位猛涨，堤埂面临被淹没的危险。	0	0	0		statement
+PLA_CMN_20080418.0051.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	今天，该团官兵闻讯后，迅速赶到湿地生态园区救灾，及时缓解了险情。	0	0	0		statement
+PLA_CMN_20080418.0051.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	今年以来，这个团开展“军民共建生态文明，携手同创和谐家园”教育活动，积极支援驻地生态文明建设。	0	0	0		statement
+PLA_CMN_20080418.0051.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	他们把营区绿化工程纳入生态文明建设之中，开展“节约一滴水，省下一度电”等活动，先后组织300多人次参加驻地植树造林活动，并针对春季火情高发期，组织巡逻队上山巡查，被驻地群众誉为生态文明建设排头兵。	0	0	0		statement
+PLA_CMN_20080418.0051.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	去年，该团被山西省评为精神文明建设先进单位。	0	0	0		statement

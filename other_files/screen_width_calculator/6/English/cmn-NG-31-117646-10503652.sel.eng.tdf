@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117646-10503652	0	100.0	200.0	speaker	unknown	unknown	It seems that you can only buy standing-room tickets at the Xinan VillageThank you--	0	0	0		
+cmn-NG-31-117646-10503652	0	200.0	300.0	speaker	unknown	unknown	[1;32m* Source: nkbbs.org nkbbs.org ·Web[FROM: 10.22.52.3][m	0	0	0		

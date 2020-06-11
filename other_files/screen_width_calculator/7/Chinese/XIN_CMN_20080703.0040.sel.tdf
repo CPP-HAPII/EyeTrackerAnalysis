@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080703.0040	0	600.0	700.0	speaker	unknown	unknown	２２家企业在灾区销售的主要产品，从食品到日用品一应俱全。	0	0	0		
+XIN_CMN_20080703.0040	0	800.0	900.0	speaker	unknown	unknown	在地震重灾区什邡、蓥华等乡镇，板房超市还销售砖瓦、水泥、钢筋、钉子等建材，考虑到存放和运输等原因，目前超市里只有样品，订货后将送货上门。	0	0	0		
+XIN_CMN_20080703.0040	0	900.0	1000.0	speaker	unknown	unknown	除了政府组织的商贸流通企业在灾区开办便民店，个体工商户也逐步恢复多种经营。	0	0	0		
+XIN_CMN_20080703.0040	0	1000.0	1100.0	speaker	unknown	unknown	在汶川县城，大小店铺由震后全部关门歇业到零星开业，至今已有２００多户个体工商户开始恢复营业，县城市场开始展露生机。	0	0	0		
+XIN_CMN_20080703.0040	0	1100.0	1200.0	speaker	unknown	unknown	记者在汶川县较场街生活必需品应急市场看到，摊点上有蔬菜、猪肉、水果、杂货、调味品等，品种相对丰富，摊点两侧的商铺也部分开业。	0	0	0		
+XIN_CMN_20080703.0040	0	1200.0	1300.0	speaker	unknown	unknown	在雁门乡、威州镇、绵虒镇等受灾群众安置点，记者看到各地均有群众在帐篷里开设商业点，涉及手机、服装鞋帽、烟酒茶叶、书籍文具、餐饮。	0	0	0		

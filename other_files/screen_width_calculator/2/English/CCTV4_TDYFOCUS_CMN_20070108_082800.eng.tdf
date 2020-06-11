@@ -1,0 +1,578 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 187.221, 1208.932, 1810.3430000000001, 1921.702, 9999999.0]
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	187.221	190.003	Gang_qiang	male	native	Hello, everyone. Welcome to today's edition of Focus Today.	1	1	1	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	190.003	191.815	Gang_qiang	male	native	Speaking about the Iran nuclear issue, ah,	1	1	2	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	191.815	193.487	Gang_qiang	male	native	it has been attracting everyone's attention all the time.	1	1	3	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	193.487	198.330	Gang_qiang	male	native	So, will Iran be really under military attack because of the nuclear issue?	1	1	4	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	198.330	200.127	Gang_qiang	male	native	This is also a topic that everyone is focusing on.	1	1	5	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	200.799	203.219	Gang_qiang	male	native	Just a few days after the 2007 New Year's Day,	1	1	7	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	203.219	206.972	Gang_qiang	male	native	on January 7, a British newspaper called the Sunday Times,	1	1	8	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	206.972	209.707	Gang_qiang	male	native	which is well-known for exposure, um, exposure,	1	1	9	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	209.707	211.691	Gang_qiang	male	native	frequent and sensational exposure,	1	1	10	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	211.691	215.301	Gang_qiang	male	native	this media says, quoting Israeli military sources, that	1	1	11	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	215.301	219.129	Gang_qiang	male	native	two Israeli air force squadrons are under intensive training.	1	1	12	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	219.129	221.864	Gang_qiang	male	native	They are preparing to use a kind of low-yield,	1	1	13	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	221.864	226.583	Gang_qiang	male	native	deep penetration nuclear bomb called +bunker-busters to attack Iran's nuclear facilities.	1	1	14	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	226.583	229.661	Gang_qiang	male	native	So, as soon as this information was out, it triggered an enormous reaction.	1	1	15	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	229.661	232.030	Gang_qiang	male	native	Israeli authorities immediately denied the information.	1	1	16	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	232.030	234.934	Gang_qiang	male	native	And Iran still maintains its hard-line stance.	1	1	17	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	235.473	238.817	Gang_qiang	male	native	So, is this piece of news actually a fabrication by the media for publicity?	1	1	19	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	238.817	242.395	Gang_qiang	male	native	Is it a kind of lie or an opinion war prior to a military action?	1	1	20	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	242.395	246.099	Gang_qiang	male	native	Could Israel really use nuclear weapons to contain Iran's nuclear weapons,	1	1	21	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	246.099	249.568	Gang_qiang	male	native	attacking Iran's nuclear facilities with nuclear weapons?	1	1	22	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	249.568	251.053	Gang_qiang	male	native	This is the topic we will be focusing on today.	1	1	23	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	251.053	253.662	Gang_qiang	male	native	We've invited two honorable guests to our studio. First let me introduce them to everyone.	1	1	24	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	253.662	258.567	Gang_qiang	male	native	This is Mr. Li Shaoxian, vice president of the China Institute of Contemporary International Relations. Welcome, President Li.	1	1	25	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	258.567	263.270	Gang_qiang	male	native	The other is Professor Meng Xiangqing from the Institute of Strategic Studies of China's National Defense University.	1	1	26	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	263.270	264.333	Gang_qiang	male	native	Welcome, Professor Meng.	1	1	27	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	264.333	268.865	Gang_qiang	male	native	Uh, at the start of the program, I think -- let's watch a video clip to understand	1	1	28	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	268.865	271.224	Gang_qiang	male	native	the context of this piece of news being reported.	1	1	29	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	277.422	281.422	speaker#1	female	native	On January 7 the British Sunday Times reported a piece of shocking news.	1	2	31	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	281.422	284.516	speaker#1	female	native	It claims that two Israeli air force squadrons were under intensive training.	1	2	32	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	284.516	289.016	speaker#1	female	native	The subject of training was to use a low-yield bunker buster to destroy Iran's nuclear facilities.	1	2	33	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	289.016	292.531	speaker#1	female	native	The Israeli military had set Iran's three nuclear facilities as key targets of attacks,	1	2	34	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	292.531	295.312	speaker#1	female	native	including the uranium enrichment plant in Natanz,	1	2	35	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	295.312	299.937	speaker#1	female	native	a uranium conversion facility in Isfahan, and a heavy water reactor at Arak.	1	2	36	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	299.937	301.875	speaker#1	female	native	The report also said that for this plan,	1	2	37	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	301.875	305.360	speaker#1	female	native	the three routes for the Israeli military have been mapped out in detail,	1	2	38	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	305.360	309.282	speaker#1	female	native	and two air force squadrons will be deployed to Gibraltar in the coming weeks	1	2	39	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	309.282	312.361	speaker#1	female	native	to train for the 3,200 kilometers round trip raids.	1	2	40	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	312.361	315.473	speaker#1	female	native	As soon as the news came out, Iran made a strong reaction.	1	2	41	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	316.598	331.854	speaker#2	male	native	(())	1	3	43	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	331.854	333.697	speaker#1	female	native	Following that, the Israeli government openly said that	1	4	44	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	333.697	335.650	speaker#1	female	native	the media report was purely a rumor.	1	4	45	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	335.650	345.463	speaker#3	male	native	(())	1	5	46	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	345.463	347.697	speaker#1	female	native	Despite the Israeli government's denial,	1	6	47	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	347.697	350.119	speaker#1	female	native	the Times, quoting military experts, said that	1	6	48	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	350.119	353.181	speaker#1	female	native	the possibility of Israel launching a nuclear strike against Iran was not ruled out.	1	6	49	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	353.181	356.728	speaker#1	female	native	In addition it said that the reason the Israeli military was accelerating its nuclear strike plan	1	6	50	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	356.728	361.150	speaker#1	female	native	was that the Israeli intelligence service, Mossad, recently released an assessment report, believing that	1	6	51	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	361.150	364.931	speaker#1	female	native	Iran could hopefully produce enriched uranium to make nuclear weapons within two years.	1	6	52	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	366.509	369.728	Gang_qiang	male	native	We can see, ah, that a piece of news again triggered a huge reaction from various parties.	1	7	54	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	369.728	372.837	Gang_qiang	male	native	Well, whether this news is real or fake, I don't know whether you two --	1	7	55	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	372.837	375.165	Gang_qiang	male	native	upon learning this news for the first time,	1	7	56	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	375.165	376.181	Gang_qiang	male	native	what were your first reactions?	1	7	57	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	376.915	377.400	Gang_qiang	male	native	President Li.	1	7	59	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	377.400	380.509	Li_shaoxian	male	native	Uh, I think it is like this. That is to say, I think this news, ah,	1	8	60	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	380.509	382.618	Li_shaoxian	male	native	uh, is definitely not groundless.	1	8	61	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	382.618	383.009	Li_shaoxian	male	native	Ah.	1	9	62	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	382.618	383.009	Gang_qiang	male	native	Uh-huh.	1	9	63	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	383.009	386.182	Li_shaoxian	male	native	In fact for some time or for a long time,	1	10	64	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	386.182	392.370	Li_shaoxian	male	native	uh, people have been speculating that Israel has such a plan to launch a military strike against Iran's nuclear facilities.	1	10	65	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	392.370	394.057	Li_shaoxian	male	native	Uh, I also think so.	1	10	66	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	394.057	395.104	Li_shaoxian	male	native	Uh, why?	1	10	67	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	395.104	400.026	Li_shaoxian	male	native	Everyone knows that Israel is a country with an extremely strong sense of crisis.	1	10	68	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	400.026	400.307	Gang_qiang	male	native	Uh-huh.	1	11	69	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	400.307	403.057	Li_shaoxian	male	native	So, it has always been able to quickly, ah,	1	12	70	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	403.057	405.841	Li_shaoxian	male	native	set the target on its most dangerous enemy.	1	12	71	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	406.494	410.901	Li_shaoxian	male	native	Uh, for example, uh, before the Iraq war,	1	12	73	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	410.901	414.683	Li_shaoxian	male	native	um, the US had regarded Iraq, Saddam's Iraq, as its most,	1	12	74	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	414.683	416.324	Li_shaoxian	male	native	the greatest danger.	1	12	75	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	416.324	418.668	Li_shaoxian	male	native	Well, as soon as the Iraq war was over	1	12	76	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	418.668	421.902	Li_shaoxian	male	native	then, Israel immediately set its target on Iran.	1	12	77	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	421.902	423.949	Li_shaoxian	male	native	Ah, and everyone can recall,	1	12	78	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	423.949	428.168	Li_shaoxian	male	native	that is to say, eh, exactly around the Iraq war,	1	12	79	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	428.168	434.606	Li_shaoxian	male	native	such, such, some news broke out from Iran that it had been conducting the so-called uranium enrichment, uh, uranium enrichment.	1	12	80	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	434.606	438.074	Li_shaoxian	male	native	So, uh, personally I think that	1	12	81	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	438.074	441.309	Li_shaoxian	male	native	at least, ah, after the Iraq war,	1	12	82	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	441.309	446.606	Li_shaoxian	male	native	um, Israel has already been -- its military has already been planning this,	1	12	83	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	446.606	449.403	Li_shaoxian	male	native	uh, such a plan of military strike against Iran's nuclear facilities.	1	12	84	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	449.403	450.482	Li_shaoxian	male	native	Furthermore, this plan, uh,	1	13	85	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	449.403	450.482	Gang_qiang	male	native	How about it?	1	13	86	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	450.482	451.856	Li_shaoxian	male	native	has been continually improved,	1	14	87	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	451.856	456.825	Li_shaoxian	male	native	or it has been continually (()) ah, even conducting field drills.	1	14	88	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	456.825	458.553	Gang_qiang	male	native	Uh-huh. You think there is such a possibility.	1	15	89	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	458.553	459.975	Li_shaoxian	male	native	Uh, this possibility is extremely big.	1	16	90	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	459.975	461.232	Gang_qiang	male	native	Professor Meng, do you think the possibility	1	17	91	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	461.232	461.828	Gang_qiang	male	native	is big?	1	18	92	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	461.232	461.828	Meng_xiangqing	male	native	Ah, I	1	18	93	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	461.828	465.342	Meng_xiangqing	male	native	think it is like this. Just as what President Li just said,	1	19	94	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	465.342	467.076	Meng_xiangqing	male	native	that is, after the Iraq war, ah,	1	19	95	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	467.076	473.030	Meng_xiangqing	male	native	in fact, there has long been some rumor about Iran -- Israel's plan of military strike, ah, against Iran.	1	19	96	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	473.030	474.967	Meng_xiangqing	male	native	Well, according to some materials I have read,	1	19	97	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	474.967	478.843	Meng_xiangqing	male	native	its military strike, that is, uh, this plan of military attack against Iran,	1	19	98	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	478.843	480.562	Meng_xiangqing	male	native	may not be just one or two in number.	1	19	99	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	480.562	482.250	Meng_xiangqing	male	native	There may be more than ten.	1	19	100	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	482.250	484.703	Meng_xiangqing	male	native	In addition, the plans are all very detailed.	1	19	101	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	484.703	486.984	Meng_xiangqing	male	native	And if we look, um, at the history,	1	19	102	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	486.984	492.094	Meng_xiangqing	male	native	there are also precedents that Israel, uh, had launched this kind of preemptive strike,	1	19	103	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	492.094	492.422	Gang_qiang	male	native	Uh-huh.	1	20	104	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	492.422	496.298	Meng_xiangqing	male	native	uh, even without the permission of the, um, US,	1	21	105	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	496.298	498.407	Meng_xiangqing	male	native	by acting first and reporting afterwards.	1	21	106	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	498.407	500.032	Meng_xiangqing	male	native	For instance, in 1981,	1	21	107	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	500.032	504.688	Meng_xiangqing	male	native	uh, Israel destroyed Iraq's nuclear reactor by surprise attacks.	1	21	108	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	504.688	507.485	Meng_xiangqing	male	native	And that operation was very successful.	1	21	109	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	507.485	510.860	Meng_xiangqing	male	native	Well, it reported it to the US, uh, after the event,	1	21	110	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	510.860	513.048	Meng_xiangqing	male	native	and probably also got the consent from the US.	1	21	111	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	513.048	513.438	Gang_qiang	male	native	Uh-huh.	1	22	112	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	513.438	515.418	Meng_xiangqing	male	native	So there are still precedents for such things.	1	23	113	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	515.418	517.344	Meng_xiangqing	male	native	Well, over the past six months,	1	23	114	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	517.344	520.953	Meng_xiangqing	male	native	it has been constantly rumored that Israel would unilaterally or, say,	1	23	115	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	520.953	524.828	Meng_xiangqing	male	native	uh, in cooperation with the US, attack Iran.	1	23	116	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	524.828	527.976	Meng_xiangqing	male	native	Uh, I also strongly agree to this opinion that it is not a groundless rumor.	1	23	117	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	527.976	532.320	Gang_qiang	male	native	Uh-huh, we say that in the old times food and fodder should go ahead of troops and horses,	1	24	118	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	532.320	535.054	Gang_qiang	male	native	so, from the perspective of modern warfare, it may be that publicity should start first.	1	24	119	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	535.054	540.570	Gang_qiang	male	native	So some people are saying whether this was a public opinion war launched by Israel before its so-called strike.	1	24	120	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	540.570	542.273	Li_shaoxian	male	native	Uh, I don't think so.	1	25	121	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	542.273	543.570	Li_shaoxian	male	native	Ah, why should I say that?	1	25	122	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	543.570	544.805	Li_shaoxian	male	native	I am looking at the issue this way.	1	25	123	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	544.805	547.337	Li_shaoxian	male	native	That is to say, uh, this news, uh,	1	25	124	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	547.337	551.368	Li_shaoxian	male	native	uh, first of all I don't think this news was purposely divulged by the Israeli side.	1	25	125	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	551.368	556.759	Gang_qiang	male	native	Ah, you don't think it purposely divulged the news.	1	26	126	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	551.368	556.759	Li_shaoxian	male	native	Uh, I don't -- I don't think it purposely divulged it.	1	26	127	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	556.759	558.556	Li_shaoxian	male	native	Well, everyone knows,	1	27	128	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	558.556	560.587	Li_shaoxian	male	native	uh, everyone has been unanimously speculating that Israel has such a plan.	1	27	129	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	560.587	562.989	Li_shaoxian	male	native	Well, various major media agencies in the world have in fact been	1	27	130	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	563.707	564.774	Li_shaoxian	male	native	focusing their attention on Israel,	1	27	132	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	564.774	566.696	Li_shaoxian	male	native	watching closely each and every move by the Israeli military.	1	27	133	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	566.696	569.759	Li_shaoxian	male	native	Well, it was exactly against this background, well, now,	1	27	134	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	569.759	573.571	Li_shaoxian	male	native	ah, the Times, the Sunday Times newspaper, exposed such,	1	27	135	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	573.571	576.790	Li_shaoxian	male	native	uh, this, this piece of news today.	1	27	136	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	576.790	578.540	Li_shaoxian	male	native	I think that against this background,	1	27	137	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	578.540	581.914	Li_shaoxian	male	native	it did not suggest that Israel wanted the publicity on purpose,	1	27	138	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	581.914	583.664	Li_shaoxian	male	native	or it purposely wanted to reveal this plan.	1	27	139	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	583.664	585.539	Li_shaoxian	male	native	This wouldn't be the consistent style of Israel, either.	1	27	140	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	585.539	586.336	Li_shaoxian	male	native	This is point one.	1	27	141	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	586.336	587.852	Li_shaoxian	male	native	Then point two, uh, is, that is to say,	1	27	142	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	587.852	592.867	Li_shaoxian	male	native	uh, here is how I view it, that is, uh, military strike against Iran's nuclear facilities, uh,	1	27	143	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	592.867	595.804	Li_shaoxian	male	native	is not yet of immediate urgency, ah.	1	27	144	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	595.804	598.163	Li_shaoxian	male	native	Then why did it want to release this thing?	1	27	145	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	598.163	600.491	Li_shaoxian	male	native	Uh, why did it want to release this thing on purpose?	1	27	146	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	600.491	603.444	Li_shaoxian	male	native	Uh, did it mean, that is to say, if it was a kind of	1	27	147	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	603.444	605.585	Li_shaoxian	male	native	public opinion war, propaganda war, then, that means that	1	27	148	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	605.585	608.288	Li_shaoxian	male	native	right after this, the military action may soon start.	1	27	149	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	608.288	608.522	Gang_qiang	male	native	Uh-huh.	1	28	150	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	608.522	609.773	Li_shaoxian	male	native	Something like the turbulent wind preceding the mountain storm.	1	29	151	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	609.773	611.413	Li_shaoxian	male	native	I don't think it is up to this time yet.	1	29	152	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	611.413	613.553	Gang_qiang	male	native	Right, Israel authorities immediately denied the news.	1	30	153	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	613.553	613.758	Li_shaoxian	male	native	Uh-huh.	1	31	154	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	613.758	618.430	Meng_xiangqing	male	native	Ah, I think that based on such firm denial from Israeli authorities,	1	32	155	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	618.430	622.898	Meng_xiangqing	male	native	Israel indeed did not seem to have this need to purposely test it out.	1	32	156	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	622.898	627.820	Meng_xiangqing	male	native	But I think its effect was probably achieved indeed.	1	32	157	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	627.820	629.680	Meng_xiangqing	male	native	Perhaps even Israel did not expect it.	1	32	158	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	629.680	632.398	Meng_xiangqing	male	native	I think it has such an effect of killing three birds with one stone.	1	32	159	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	632.398	636.882	Meng_xiangqing	male	native	For example, it can indeed play, to a certain extent,	1	32	160	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	636.882	639.117	Meng_xiangqing	male	native	a role in deterring Iran.	1	32	161	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	639.117	639.336	Gang_qiang	male	native	uh-huh.	1	33	162	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	639.336	643.946	Meng_xiangqing	male	native	Again, for example, it may also be able to serve as a tentative appeal.	1	34	163	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	643.946	647.087	Meng_xiangqing	male	native	This tentative appeal is not only to test its opponent,	1	34	164	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	647.087	649.915	Meng_xiangqing	male	native	to test the response from Iran, but also to test the international community,	1	34	165	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	649.915	653.821	Meng_xiangqing	male	native	including testing some factions within Israel,	1	34	166	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	653.821	656.909	Meng_xiangqing	male	native	including the response of the international community and the entire Arab world.	1	34	167	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	656.909	657.187	Gang_qiang	male	native	Uh-huh.	1	35	168	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	657.187	660.140	Meng_xiangqing	male	native	At the same time, uh, this tentative appeal can also serve another function.	1	36	169	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	660.140	664.515	Meng_xiangqing	male	native	That is, uh, it can, provide, for Israel to perfect its upcoming	1	36	170	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	664.515	666.984	Meng_xiangqing	male	native	series of military plans against Iran,	1	36	171	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	666.984	669.362	Meng_xiangqing	male	native	some kind of basis.	1	36	172	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	669.362	672.975	Gang_qiang	male	native	Uh-huh. We have just seen in this report that Israel's, um, newspapers,	1	37	173	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	672.975	676.569	Gang_qiang	male	native	uh, media reports said that Israel has set three targets of attacks.	1	37	174	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	676.569	680.413	Gang_qiang	male	native	Ah, one is Natanz, which is 200 kilometers from the Iranian capital of Tehran.	1	37	175	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	680.413	682.866	Gang_qiang	male	native	It was said that there are as many as one thousand centrifuges in this plant.	1	37	176	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	682.866	685.663	Gang_qiang	male	native	Well, another is Isfahan in central Iran.	1	37	177	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	685.663	688.739	Gang_qiang	male	native	Still another is the heavy water reactor at Arak.	1	37	178	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	688.739	692.317	Gang_qiang	male	native	Well, do you two think that if these three targets were attacked and destroyed,	1	37	179	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	692.317	695.082	Gang_qiang	male	native	would it be able to stop Iran's nuclear program?	1	37	180	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	695.082	696.519	Li_shaoxian	male	native	Uh, in fact it is not like this.	1	38	181	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	696.519	699.941	Li_shaoxian	male	native	That is, uh, it has been a long time since	1	38	182	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	699.941	702.191	Li_shaoxian	male	native	everyone is speculating, that is to say,	1	38	183	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	702.191	704.332	Li_shaoxian	male	native	uh, the first guess is that the US wanted to attack Iran,	1	38	184	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	704.332	704.675	Li_shaoxian	male	native	ah,	1	39	185	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	704.332	704.675	Gang_qiang	male	native	Uh-huh.	1	39	186	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	704.675	706.379	Li_shaoxian	male	native	that the US wanted to attack, um, Iran's nuclear facilities,	1	40	187	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	706.379	708.441	Li_shaoxian	male	native	um, that the US wanted to attack Iran's nuclear facilities.	1	40	188	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	708.441	710.581	Li_shaoxian	male	native	Uh, I remember many experts were also analyzing,	1	40	189	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	710.581	717.909	Li_shaoxian	male	native	that is to say, why the US was hesitating, or in other words, one of the very important reasons	1	40	190	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	717.909	721.941	Li_shaoxian	male	native	was that it did not have -- did not have a very clear idea about the distribution of Iran's nuclear facilities.	1	40	191	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	721.941	722.363	Gang_qiang	male	native	Uh-huh.	1	41	192	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	722.363	726.956	Li_shaoxian	male	native	Well, the above-mentioned three targets, uh, are well-known to everyone.	1	42	193	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	726.956	730.378	Li_shaoxian	male	native	Ah, that is, they are well-known to the IAEA and everyone.	1	42	194	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	730.378	731.785	Li_shaoxian	male	native	These are three major targets.	1	42	195	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	731.785	734.769	Li_shaoxian	male	native	Well, in fact according to the estimates by the US and,	1	42	196	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	734.769	738.894	Li_shaoxian	male	native	uh, British and Israeli intelligence agencies,	1	42	197	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	738.894	742.519	Li_shaoxian	male	native	uh, there are a great many nuclear facilities in Iran.	1	42	198	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	742.519	744.597	Li_shaoxian	male	native	Ah, there are not merely these three.	1	42	199	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	744.597	750.644	Li_shaoxian	male	native	So this is also one of the very important reasons that, uh, most -- many analysts believe that the US cannot make up its mind.	1	42	200	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	750.644	751.847	Li_shaoxian	male	native		1	42	201	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	751.847	753.550	Li_shaoxian	male	native	That is to say, if the US is determined to	1	42	202	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	753.550	755.675	Li_shaoxian	male	native	take such a huge cost and risk,	1	42	203	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	755.675	760.660	Li_shaoxian	male	native	yet in the end still fails to completely destroy Iran's nuclear facilities,	1	42	204	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	760.660	763.128	Li_shaoxian	male	native	then, in this case, that is to say, its	1	42	205	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	763.128	765.409	Li_shaoxian	male	native	investment is disproportionate to its output.	1	42	206	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	765.409	766.769	Li_shaoxian	male	native	This risk would be too great to take.	1	42	207	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	766.769	772.504	Li_shaoxian	male	native	Well, at the most, um, it would stop Iran, that is to say, delay Iran's development of nuclear weapons for a few years, or ten years.	1	42	208	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	772.504	775.082	Li_shaoxian	male	native	So it won't fundamentally solve the problem this way.	1	42	209	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	775.082	777.644	Li_shaoxian	male	native	Moreover, the consequence it would cause would be extremely unthinkable.	1	42	210	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	777.644	780.144	Li_shaoxian	male	native	So I think, ah, these three targets, uh,	1	42	211	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	780.144	782.331	Li_shaoxian	male	native	are only the well-known targets.	1	42	212	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	782.331	787.144	Gang_qiang	male	native	Uh-huh. And we have seen that in the past few years Iran has been taking, ah, an extremely hard-line stance.	1	43	213	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	787.144	787.394	Li_shaoxian	male	native	Uh-huh	1	44	214	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	787.394	788.972	Gang_qiang	male	native	Uh, some people commented that	1	45	215	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	788.972	792.315	Gang_qiang	male	native	in the Middle East one person has been making virulent remarks	1	45	216	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	792.315	793.769	Gang_qiang	male	native	to exasperate the entire world.	1	45	217	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	793.769	795.816	Gang_qiang	male	native	Well, this person is Iranian President Nejad.	1	45	218	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	795.816	801.176	Gang_qiang	male	native	Well, next we might as well review some of the extremely virulent remarks made by Nejad against Israel through a video clip.	1	45	219	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	807.513	809.701	speaker#1	female	native	Removing the seals on Iran's nuclear devices.	1	46	221	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	810.498	813.107	speaker#1	female	native	Making a drastic reshuffle of the senior leaders of the government armed forces.	1	46	223	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	813.951	816.879	speaker#1	female	native	Paving the way for hard-line conservatives to take complete control of Iran.	1	46	225	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	817.388	823.232	speaker#1	female	native	Since he took office, Iranian President Ahmadinejad has always drawn the attention of the world by making unexpected moves.	1	46	227	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	823.232	827.529	speaker#1	female	native	As well as this, there has been frequent exposure of his virulent remarks about Israel.	1	46	228	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	828.841	830.810	speaker#1	female	native	On October 26, 2005,	1	46	230	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	830.810	834.410	speaker#1	female	native	at the World without Zionism conference held in Tehran,	1	46	231	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	834.410	837.910	speaker#1	female	native	he openly said that Israel should be wiped off the map.	1	46	232	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	837.910	841.770	speaker#1	female	native	Although such slogans are often heard at various rallies in Iran,	1	46	233	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	841.770	844.785	speaker#1	female	native	for Iran's top level leader to make such a public remark,	1	46	234	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	844.785	846.473	speaker#1	female	native	this is the first time in recent years.	1	46	235	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	846.473	849.567	speaker#1	female	native	It has also triggered media denunciation from countries such as Israel and the US.	1	46	236	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	851.224	852.911	speaker#1	female	native	On December 8, 2005,	1	46	238	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	852.911	857.567	speaker#1	female	native	the most dangerous man as he was called by the Western media again made a shocking remark.	1	46	239	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	857.567	861.926	speaker#1	female	native	While attending a special summit of Islamic nations in Mecca, the sacred place in Saudi Arabia,	1	46	240	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	861.926	865.910	speaker#1	female	native	he not only challenged the truthfulness of Nazi Germany's holocaust	1	46	241	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	865.910	869.004	speaker#1	female	native	but also said that if Europeans really believed there had been a massacre,	1	46	242	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	869.004	870.816	speaker#1	female	native	then Europeans should be the ones to pay the price,	1	46	243	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	870.816	872.754	speaker#1	female	native	and that Israel should be moved to Europe.	1	46	244	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	874.254	875.972	speaker#1	female	native	On April 15, 2006,	1	46	246	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	875.972	878.347	speaker#1	female	native	Nejad again said openly in Tehran that	1	46	247	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	878.347	881.144	speaker#1	female	native	Israel is the permanent threat to the Middle East region	1	46	248	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	881.144	882.612	speaker#1	female	native	and is heading toward annihilation.	1	46	249	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	882.612	894.221	Ahmadinejad	male	native	(())	1	47	250	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	894.221	898.534	speaker#1	female	native	On December 12, he even invited more than 70 representatives from over 30 countries	1	48	251	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	898.534	902.128	speaker#1	female	native	to hold an international conference on Nazi's holocaust in Tehran.	1	48	252	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	902.128	904.815	speaker#1	female	native	At this conference he again said openly that	1	48	253	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	904.815	907.315	speaker#1	female	native	Israel's days were numbered.	1	48	254	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	908.362	936.673	Ahmadinejad	male	native	(())	1	49	256	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	936.673	937.970	Gang_qiang	male	native	To use an old Chinese expression,	1	50	257	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	937.970	940.611	Gang_qiang	male	native	we can say that this Nejad would rather die than not make shocking remarks.	1	50	258	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	940.611	944.454	Gang_qiang	male	native	Every remark he makes may trigger a huge disturbance.	1	50	259	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	944.454	948.236	Gang_qiang	male	native	Well, what effects do you two think Iran's extremely hard-line stance on the nuclear issue	1	50	260	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	948.236	950.315	Gang_qiang	male	native	will have on the resolution of the Iran nuclear issue?	1	50	261	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	950.315	952.362	Gang_qiang	male	native		1	50	262	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	952.362	958.706	Gang_qiang	male	native	In addition, with Iran holding such an extremely hard-line position,	1	50	263	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	958.706	960.175	Gang_qiang	male	native	which direction do you think the Iran nuclear issue is heading?	1	50	264	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	960.175	960.878	Gang_qiang	male	native	Professor Meng.	1	50	265	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	960.878	964.487	Meng_xiangqing	male	native	Um, I think that throughout the year 2006 Iran --	1	51	266	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	964.487	966.331	Meng_xiangqing	male	native	its uranium enrichment program --	1	51	267	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	966.331	970.863	Meng_xiangqing	male	native	we can see that frankly speaking, its uranium enrichment has indeed made breakthrough progress.	1	51	268	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	970.863	974.941	Meng_xiangqing	male	native	And regarding the development of nuclear technology, uranium enrichment can be said --	1	51	269	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	974.941	978.754	Meng_xiangqing	male	native	uh, some experts summarize the development of nuclear technology into five critical steps.	1	51	270	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	978.754	981.254	Meng_xiangqing	male	native	Well, uranium enrichment can be said to be the most critical.	1	51	271	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	981.254	984.644	Meng_xiangqing	male	native	Once a breakthrough is made in uranium enrichment, then the development of nuclear technology, including --	1	51	272	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	984.644	986.784	Meng_xiangqing	male	native	uh, whether it is for the peaceful use of nuclear energy,	1	51	273	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	986.784	991.941	Meng_xiangqing	male	native	or the manufacture of weapon-grade, uh, nuclear weapons, it can be said that a major breakthrough has been achieved.	1	51	274	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	991.941	994.894	Meng_xiangqing	male	native	So, based on various current data,	1	51	275	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	994.894	997.535	Meng_xiangqing	male	native	that is, Iran has already made such a breakthrough.	1	51	276	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	997.535	1001.137	Meng_xiangqing	male	native	Well, with such a breakthrough in 2006, uh, either technically --	1	51	277	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1001.137	1007.372	Meng_xiangqing	male	native	if again from the historic perspective of Iran's national strategy that it wants to be a powerful nation in the Middle East,	1	51	278	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1007.372	1011.528	Meng_xiangqing	male	native	well, it will not easily back out from such a direction.	1	51	279	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1011.528	1013.919	Meng_xiangqing	male	native	From this video clip just now, we can see that	1	51	280	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1013.919	1016.169	Meng_xiangqing	male	native	these declarations by Nejad, I think,	1	51	281	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1016.169	1018.653	Meng_xiangqing	male	native	are not simply emotional remarks.	1	51	282	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1018.653	1018.919	Gang_qiang	male	native	Uh-huh.	1	52	283	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1018.919	1024.279	Meng_xiangqing	male	native	Well, in a certain sense, it is also an expression of its long-term dream of becoming a powerful nation.	1	53	284	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1024.279	1027.654	Meng_xiangqing	male	native	Given the fact that it has made such a breakthrough,	1	53	285	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1027.654	1029.092	Meng_xiangqing	male	native	it would be very difficult for him to make concessions	1	53	286	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1029.092	1031.046	Meng_xiangqing	male	native	and make compromises.	1	53	287	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1031.046	1032.937	Gang_qiang	male	native	But where does the danger lie for doing so, President Li?	1	54	288	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1032.937	1039.875	Li_shaoxian	male	native	Uh, I think it is like this. That is to say, uh, in fact Iran's stance on the nuclear issue,	1	55	289	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1039.875	1043.087	Li_shaoxian	male	native	in particular its attitude toward the West and toward Europe, uh,	1	55	290	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1043.087	1044.697	Li_shaoxian	male	native	has gone through such a process.	1	55	291	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1045.256	1048.994	Li_shaoxian	male	native	Uh, everyone can see that right after the Iraq war ended,	1	55	293	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1048.994	1052.995	Li_shaoxian	male	native	Iran, on this issue, uh, adopted a kind of,	1	55	294	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1052.995	1054.698	Li_shaoxian	male	native	uh, approach of compromise.	1	55	295	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1054.698	1057.183	Li_shaoxian	male	native	Ah, that was why in 2003,	1	55	296	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1057.183	1061.151	Li_shaoxian	male	native	uh, half a year after the Iraq war ended, ah,	1	55	297	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1061.151	1062.792	Li_shaoxian	male	native	in just half a year,	1	55	298	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1062.792	1064.324	Li_shaoxian	male	native	well, under such circumstances,	1	55	299	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1064.324	1068.105	Li_shaoxian	male	native	in November Iran agreed, ah, to make a compromise	1	55	300	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1068.105	1071.245	Li_shaoxian	male	native	and agreed to sign the additional protocol to the nuclear nonproliferation treaty,	1	55	301	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1071.245	1074.870	Li_shaoxian	male	native	and agreed to suspend, uh, uranium enrichment activities, etc,	1	55	302	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1074.870	1076.542	Li_shaoxian	male	native	to conduct negotiations with Europe.	1	55	303	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1076.542	1078.308	Li_shaoxian	male	native	So it has taken such a road.	1	55	304	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1078.308	1081.089	Li_shaoxian	male	native	But last year, ah,	1	55	305	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1081.089	1084.292	Li_shaoxian	male	native	uh, actually it had started to change at the end of the year before last year.	1	55	306	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1084.292	1086.151	Li_shaoxian	male	native	So, after Nejad took office last year,	1	55	307	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1086.151	1089.682	Li_shaoxian	male	native	uh, the stance had changed quite drastically.	1	55	308	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1089.682	1090.010	Gang_qiang	male	native	Uh-huh.	1	56	309	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1090.010	1096.229	Li_shaoxian	male	native	It started to move toward hard-line and opposition, a kind of direction of making no compromise.	1	57	310	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1096.229	1099.354	Li_shaoxian	male	native	Ah, that was what we just saw, the removal of nuclear seals,	1	57	311	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1099.354	1099.635	Gang_qiang	male	native	Uh-huh.	1	58	312	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1099.635	1101.773	Li_shaoxian	male	native	the announcement about the resumption of uranium enrichment,	1	59	313	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1101.773	1103.883	Li_shaoxian	male	native	the announcement of its breakthrough in uranium enrichment technology, and so on.	1	59	314	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1103.883	1106.618	Li_shaoxian	male	native	So it is moving forward solidly step by step.	1	59	315	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1106.618	1108.555	Li_shaoxian	male	native	Why does Iran have such a stance?	1	59	316	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1108.555	1112.618	Li_shaoxian	male	native	I think it is backed up by its increasing confidence.	1	59	317	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1112.618	1114.493	Li_shaoxian	male	native	Ah, where does this confidence come from?	1	59	318	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1114.493	1116.243	Li_shaoxian	male	native	It came from Iran's strengthened position in the Middle East	1	59	319	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1116.243	1119.900	Li_shaoxian	male	native	after the Iraq war ended;	1	59	320	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1119.900	1122.682	Li_shaoxian	male	native	ah, it came from Iran's recognition of this position,	1	59	321	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1122.682	1125.294	Li_shaoxian	male	native	and it came from the US predicament in Iraq.	1	59	322	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1125.294	1127.029	Li_shaoxian	male	native	So it is exactly under such circumstances that	1	59	323	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1127.029	1129.826	Li_shaoxian	male	native	Iran has been taking a more and more hard-line stance.	1	59	324	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1129.826	1132.155	Li_shaoxian	male	native	This way, it led to one result,	1	59	325	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1132.155	1133.842	Li_shaoxian	male	native	that is, with regard to the Iran nuclear issue,	1	59	326	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1133.842	1136.295	Li_shaoxian	male	native	originally everyone had this mindset,	1	59	327	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1136.295	1138.123	Li_shaoxian	male	native	that is, if the Iran nuclear issue is to be resolved,	1	59	328	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1138.123	1141.717	Li_shaoxian	male	native	then, Iran must be the one to make a compromise.	1	59	329	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1141.717	1142.639	Li_shaoxian	male	native	Iran should make concession.	1	59	330	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1142.639	1146.389	Li_shaoxian	male	native	Well, this has further decreased the possibility of this resolution.	1	59	331	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1146.389	1149.404	Li_shaoxian	male	native	Ah, at present everyone has actually reached a basic consensus,	1	59	332	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1149.404	1152.232	Li_shaoxian	male	native	that is, to make Iran retreat on this issue	1	59	333	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1152.232	1154.107	Li_shaoxian	male	native	has now become even harder.	1	59	334	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1154.107	1156.279	Li_shaoxian	male	native	This possibility has almost been ruled out.	1	60	335	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1154.107	1156.279	Gang_qiang	male	native	It's almost impossible.	1	60	336	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1156.279	1156.560	Gang_qiang	male	native	Uh-huh.	1	61	337	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1156.560	1159.436	Li_shaoxian	male	native	As a result, the Iran nuclear issue may	1	62	338	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1160.264	1162.451	Li_shaoxian	male	native	go through a spiral	1	62	340	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1162.451	1164.998	Li_shaoxian	male	native	process of an increasingly escalating crisis.	1	63	341	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1162.451	1164.998	Gang_qiang	male	native	Increasingly escalating.	1	63	342	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1164.998	1167.951	Gang_qiang	male	native	That's why we see that Iran has taken a more and more hard-line position on the nuclear issue.	1	64	343	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1167.951	1169.763	Gang_qiang	male	native	Uh, we're now -- we're talking about the Iranian side,	1	64	344	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1169.763	1172.481	Gang_qiang	male	native	so Israel's change of policy on the nuclear issue	1	64	345	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1172.481	1174.356	Gang_qiang	male	native	will be the focus of our discussion in the next segment.	1	64	346	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1208.932	1211.010	speaker#1	female	native	On December 11, 2006,	2	65	348	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1211.010	1215.073	speaker#1	female	native	Israeli Prime Minister Ehud Olmert in an interview with a German TV station	2	65	349	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1215.073	1218.104	speaker#1	female	native	mentioned Israel together with world's nuclear powers,	2	65	350	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1218.104	1219.916	speaker#1	female	native	setting off a huge disturbance both at home and abroad.	2	65	351	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1220.806	1238.493	Ehud Olmert	male	native	(())	2	66	353	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1238.493	1240.009	speaker#1	female	native	As soon as Olmert made this remark,	2	67	354	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1240.009	1243.087	speaker#1	female	native	Israeli opposition lawmakers criticized Olmert's remark	2	67	355	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1243.087	1246.072	speaker#1	female	native	for destroying Israel's efforts to contain Iran's nuclear capability.	2	67	356	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1246.072	1248.368	speaker#1	female	native	Olmert's advisor immediately argued that	2	67	357	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1248.368	1252.212	speaker#1	female	native	Olmert's remark did not acknowledge that Israel had possessed nuclear weapons.	2	67	358	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1252.212	1255.227	speaker#1	female	native	A week before Olmert made such a remark,	2	67	359	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1255.227	1257.774	speaker#1	female	native	Robert Gates, the recently appointed US defense secretary,	2	67	360	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1257.774	1259.336	speaker#1	female	native	said at the US Congress that	2	67	361	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1259.336	1260.927	speaker#1	female	native	Israel had nuclear weapons.	2	67	362	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1261.989	1265.427	speaker#1	female	native	For a long time Israel has always adhered to a so-called policy of ambiguity,	2	67	364	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1265.427	1268.021	speaker#1	female	native	neither acknowledging nor denying it has nuclear weapons.	2	67	365	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1268.021	1269.756	speaker#1	female	native	However, independent analysts believe that	2	67	366	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1269.756	1271.787	speaker#1	female	native	since the 1960s,	2	67	367	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1271.787	1274.427	speaker#1	female	native	Israel has made two hundred nuclear weapons.	2	67	368	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1275.255	1278.412	speaker#1	female	native	Perhaps Olmert's remark was meant to give Iran a scare,	2	67	370	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1278.412	1281.240	speaker#1	female	native	but who knows whether what he said is true or false?	2	67	371	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1282.646	1285.552	Gang_qiang	male	native	We know that for a long time Israel has always adhered to a so-called policy of ambiguity,	2	68	373	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1285.552	1288.505	Gang_qiang	male	native	neither acknowledging nor denying it has nuclear weapons.	2	68	374	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1288.505	1292.115	Gang_qiang	male	native	But we have seen that at the end of last year Israeli Prime Minister Olmert,	2	68	375	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1292.115	1294.053	Gang_qiang	male	native	he made a remark. He	2	68	376	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1294.053	1296.709	Gang_qiang	male	native	mentioned Israel together with some nuclear powers.	2	68	377	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1296.709	1298.787	Gang_qiang	male	native	This could also be said to have stirred up a huge disturbance.	2	68	378	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1298.787	1300.396	Gang_qiang	male	native	Merely after a month,	2	68	379	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1300.396	1304.975	Gang_qiang	male	native	then there was this news that Israel is going to attack Iran by nuclear weapons.	2	68	380	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1304.975	1308.413	Gang_qiang	male	native	Do you two think there is some necessary connection between these two?	2	68	381	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1309.273	1313.273	Meng_xiangqing	male	native	Uh, I think, uh, if we say, uh -- up till now	2	69	383	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1313.273	1317.929	Meng_xiangqing	male	native	we have indeed not yet seen any proof that there are necessary connections between the two,	2	69	384	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1317.929	1323.211	Meng_xiangqing	male	native	but if we draw an inference using general logic or make an analysis based the development of the situation last year,	2	69	385	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1323.211	1324.727	Meng_xiangqing	male	native	uh,	2	69	386	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1324.727	1327.414	Meng_xiangqing	male	native	uh, we cannot say either that there is no connection in between at all.	2	69	387	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1327.414	1327.648	Gang_qiang	male	native	Uh-huh.	2	70	388	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1327.648	1330.211	Meng_xiangqing	male	native	For instance, for a long time Israel has adhered to a,	2	71	389	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1330.211	1332.149	Meng_xiangqing	male	native	uh, a kind of policy of ambiguity.	2	71	390	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1332.149	1334.539	Meng_xiangqing	male	native	Well, this policy has indeed been in place for a long time.	2	71	391	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1334.539	1337.648	Meng_xiangqing	male	native	So the remark made on December 11 last year	2	71	392	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1337.648	1341.164	Meng_xiangqing	male	native	can be said to have strongly implied that Israel is a nuclear country.	2	71	393	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1341.164	1341.477	Gang_qiang	male	native	Uh-huh.	2	72	394	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1341.477	1343.412	Meng_xiangqing	male	native	Though it adheres to a policy of nuclear ambiguity,	2	73	395	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1343.412	1347.273	Meng_xiangqing	male	native	yet the entire world knows that Israel is country in possession of nuclear weapons.	2	73	396	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1347.273	1349.523	Meng_xiangqing	male	native	Only it hasn't made any open declaration by itself.	2	73	397	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1349.523	1353.023	Meng_xiangqing	male	native	But this strong hint and the timing it chose,	2	73	398	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1353.023	1355.741	Meng_xiangqing	male	native	I don't think they are a simple coincidence, either.	2	73	399	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1355.741	1360.116	Meng_xiangqing	male	native	For example, December 11 happened to be the second day after the Gulf Cooperation Council, on December 10,	2	73	400	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1360.116	1365.116	Meng_xiangqing	male	native	convened a six-party -- six-nation conference declaring the peaceful use of nuclear energy.	2	73	401	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1365.116	1365.522	Gang_qiang	male	native	Uh-huh.	2	74	402	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1365.522	1368.350	Meng_xiangqing	male	native	So it caused this so-called slip of the tongue.	2	75	403	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1368.350	1371.897	Meng_xiangqing	male	native	Moreover today half a month after this incident occurred,	2	75	404	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1371.897	1375.069	Meng_xiangqing	male	native	well, the British media again revealed	2	75	405	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1375.069	1381.226	Meng_xiangqing	male	native	this plan of Israel's to strike, uh, Iran's nuclear facilities by nuclear weapons.	2	75	406	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1381.226	1386.211	Meng_xiangqing	male	native	I think that it shows some sign that Israel is getting somewhat impatient.	2	75	407	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1386.211	1388.242	Meng_xiangqing	male	native	In this sense, there is some connection between them.	2	75	408	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1388.242	1391.055	Meng_xiangqing	male	native	For example, I saw some data that show,	2	75	409	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1391.055	1393.930	Meng_xiangqing	male	native	that is, Israel's view on, um, Iran's	2	75	410	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1393.930	1397.055	Meng_xiangqing	male	native	mastery of this nuclear, uh, nuclear technology,	2	75	411	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1397.055	1398.493	Meng_xiangqing	male	native	the degree of its development, and	2	75	412	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1398.493	1400.789	Meng_xiangqing	male	native	exactly when it can master nuclear weapons,	2	75	413	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1400.789	1404.445	Meng_xiangqing	male	native	is somewhat different from those of some American experts.	2	75	414	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1404.445	1405.804	Meng_xiangqing	male	native	Where is the difference?	2	75	415	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1405.804	1407.304	Meng_xiangqing	male	native	For example, the earliest estimate by the US was that	2	75	416	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1407.304	1411.819	Meng_xiangqing	male	native	it will take ((pw)), um, Iran at least five to eight years to truly master nuclear weapons.	2	75	417	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1411.819	1414.553	Meng_xiangqing	male	native	But the Israeli intelligence service Mossad,	2	75	418	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1414.553	1416.194	Meng_xiangqing	male	native	uh, since last year,	2	75	419	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1416.194	1419.491	Meng_xiangqing	male	native	has two pieces of intelligence revealed by the media.	2	75	420	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1419.491	1420.554	Meng_xiangqing	male	native	I don't think it was accidental.	2	75	421	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1420.554	1425.164	Meng_xiangqing	male	native	The first intelligence was that it was believed to be able to produce nuclear weapons within two years	2	75	422	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1425.164	1427.445	Meng_xiangqing	male	native	instead of the five to eight years originally estimated by experts.	2	75	423	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1427.445	1430.055	Meng_xiangqing	male	native	If that was true, of course time would be really pressing.	2	75	424	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1430.055	1431.457	Meng_xiangqing	male	native	There was another intelligence report.	2	75	425	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1431.457	1434.211	Meng_xiangqing	male	native	That is, some secret agents that Mossad sent to Iran	2	75	426	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1434.211	1436.945	Meng_xiangqing	male	native	have sent back one piece of information.	2	75	427	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1436.945	1442.242	Meng_xiangqing	male	native	That is, last year Iran conducted the experiment on the explosion engine device for the nuclear device	2	75	428	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1442.242	1443.523	Meng_xiangqing	male	native	successfully.	2	75	429	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1443.523	1446.773	Meng_xiangqing	male	native	So it can be said to have taken another step toward the mastery of nuclear weapons.	2	75	430	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1446.773	1447.101	Gang_qiang	male	native	Uh-huh.	2	76	431	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1447.101	1451.117	Meng_xiangqing	male	native	Of course, we should say whether this intelligence from Israel is true or false is currently unable to be verified.	2	77	432	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1451.117	1453.632	Meng_xiangqing	male	native	In addition, since it was revealed by the media,	2	77	433	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1453.632	1455.929	Meng_xiangqing	male	native	it is impossible to verify what exactly it was intended for.	2	77	434	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1455.929	1458.882	Meng_xiangqing	male	native	However, one point is that it was different from the US estimate.	2	77	435	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1458.882	1461.601	Meng_xiangqing	male	native	At least it showed that on the Iran nuclear issue, Israel --	2	77	436	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1461.601	1463.820	Meng_xiangqing	male	native	because Israel is threatened with the greatest threat --	2	77	437	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1463.820	1465.538	Meng_xiangqing	male	native	it definitely has a greater threat than the US --	2	77	438	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1465.538	1467.616	Meng_xiangqing	male	native	so on this issue, it indeed	2	77	439	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1467.616	1470.163	Meng_xiangqing	male	native	has exercised patience to almost the limit, I think.	2	77	440	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1470.163	1476.304	Gang_qiang	male	native	So could we say that Israel's change in its nuclear policy will re-stimulate in another way Iran to continue developing nuclear weapons?	2	78	441	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1476.304	1480.086	Li_shaoxian	male	native	Uh, I think it is like this. Whether Israel's nuclear policy is changing,	2	79	442	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1480.086	1481.117	Li_shaoxian	male	native	um, still needs to be,	2	79	443	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1481.117	1482.211	Li_shaoxian	male	native	to be observed.	2	80	444	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1481.117	1482.211	Gang_qiang	male	native	To be further observed.	2	80	445	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1482.211	1482.993	Li_shaoxian	male	native	To be further observed.	2	81	446	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1482.993	1483.321	Gang_qiang	male	native	Uh-huh.	2	82	447	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1483.321	1486.305	Li_shaoxian	male	native	Uh, there is one point, that is to say, uh, it has a background.	2	83	448	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1486.305	1488.742	Li_shaoxian	male	native	That is, Israel followed a policy of nuclear ambiguity in the past	2	83	449	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1488.742	1491.274	Li_shaoxian	male	native	because of those objective conditions at that time.	2	83	450	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1491.274	1493.415	Li_shaoxian	male	native	It was +engulfed in the Arab world,	2	83	451	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1493.415	1496.275	Li_shaoxian	male	native	so it had to purposely maintain a policy of ambiguity.	2	83	452	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1496.275	1497.412	Li_shaoxian	male	native	The greatest threat.	2	83	453	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1497.412	1497.696	Gang_qiang	male	native	Uh-huh.	2	84	454	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1497.696	1499.336	Li_shaoxian	male	native	At the same time it also avoided provoking	2	85	455	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1499.336	1500.571	Li_shaoxian	male	native	this international community.	2	85	456	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1500.571	1500.930	Gang_qiang	male	native	Uh-huh.	2	86	457	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1500.930	1504.383	Li_shaoxian	male	native	So why am I now saying that the country, uh, the background has somewhat changed?	2	87	458	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1504.383	1508.867	Li_shaoxian	male	native	This means that with Iran's persistent development of, uh, nuclear, nuclear technology,	2	87	459	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1508.867	1511.585	Li_shaoxian	male	native	at the same time because after the Iraq war,	2	87	460	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1511.585	1514.694	Li_shaoxian	male	native	the Shiite forces are growing rapidly in the Middle East,	2	87	461	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1514.694	1516.256	Li_shaoxian	male	native	ah, Iran's influence is rising significantly,	2	87	462	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1516.256	1521.788	Li_shaoxian	male	native	this consequently caused those Arab nations around Iran to feel panicked to a certain degree.	2	87	463	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1521.788	1523.850	Li_shaoxian	male	native	So this is also what Professor Meng just talked about,	2	87	464	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1523.850	1526.028	Li_shaoxian	male	native	the Arab countries in the Gulf, ah,	2	87	465	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1526.028	1527.614	Li_shaoxian	male	native	or other countries,	2	87	466	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1527.614	1528.647	Li_shaoxian	male	native	including Egypt,	2	88	467	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1527.614	1528.647	Meng_xiangqing	male	native	Egypt.	2	88	468	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1528.647	1530.069	Li_shaoxian	male	native	including the Arab League, ah,	2	88	469	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1528.647	1530.069	Meng_xiangqing	male	native	Algeria.	2	88	470	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1530.069	1531.991	Li_shaoxian	male	native	um, announced, ah, that they will carry out --	2	89	471	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1531.991	1534.616	Li_shaoxian	male	native	will also use nuclear energy peacefully, and will also develop nuclear technology,	2	89	472	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1534.616	1537.257	Li_shaoxian	male	native	and such. So against such a broader background, uh,	2	89	473	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1537.257	1542.335	Li_shaoxian	male	native	in fact Israel and some moderate countries, including these Arab nations in the Gulf,	2	89	474	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1542.335	1545.585	Li_shaoxian	male	native	on this issue, have arrived at a common, uh,	2	89	475	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1545.585	1547.756	Li_shaoxian	male	native	common position to a certain degree.	2	89	476	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1547.756	1550.241	Li_shaoxian	male	native	So under such rather relaxed circumstances,	2	89	477	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1550.241	1553.803	Li_shaoxian	male	native	it cannot be ruled out that Israel -- Israel's nuclear policy will gradually become clarified.	2	89	478	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1553.803	1556.912	Gang_qiang	male	native	Eh, some public opinion believes, ah, that whether attacks should be made against Iran,	2	90	479	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1556.912	1559.334	Gang_qiang	male	native	against its nuclear facilities cannot be determined by Israel.	2	90	480	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1559.334	1559.553	Li_shaoxian	male	native	Uh-huh.	2	91	481	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1559.553	1561.866	Gang_qiang	male	native	The shadow behind this is, uh, the US.	2	92	482	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1561.866	1565.710	Gang_qiang	male	native	What kind of role or what kind of function do you two think the US will play in this?	2	92	483	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1565.710	1568.023	Li_shaoxian	male	native	I think it is like this. We can say for sure,	2	93	484	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1568.023	1569.663	Li_shaoxian	male	native	that is, whether Israel will take action or not,	2	93	485	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1569.663	1571.053	Li_shaoxian	male	native	or whether Israel will go,	2	93	486	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1571.053	1572.756	Li_shaoxian	male	native	uh, attacking Iran's nuclear facilities,	2	93	487	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1572.756	1574.147	Li_shaoxian	male	native	the power to make the decision does not rest with Israel.	2	93	488	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1574.147	1576.069	Li_shaoxian	male	native	Well, it is definitely in the hands of the US.	2	93	489	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1576.069	1577.928	Li_shaoxian	male	native	Because why? Such an action, ah,	2	93	490	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1577.928	1580.147	Li_shaoxian	male	native	uh, is really colossal, ah,	2	93	491	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1580.147	1582.367	Li_shaoxian	male	native	Israel, as one country, cannot take it.	2	93	492	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1582.367	1587.149	Li_shaoxian	male	native	Because if Israel wants to initiate an air strike, ah, against Iran's nuclear facilities,	2	93	493	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1587.149	1590.508	Li_shaoxian	male	native	especially to attack Iran's nuclear facilities using nuclear weapons,	2	93	494	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1590.508	1596.054	Li_shaoxian	male	native	then it would cause a huge uproar in the Middle East region, in the world.	2	93	495	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1596.054	1596.429	Li_shaoxian	male	native	Ah.	2	94	496	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1596.054	1596.429	Gang_qiang	male	native	Uh-huh.	2	94	497	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1596.429	1599.944	Li_shaoxian	male	native	Uh, this kind of thing may be too much for Israel to take alone.	2	95	498	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1599.944	1601.366	Li_shaoxian	male	native	So under such circumstances,	2	95	499	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1601.366	1605.004	Li_shaoxian	male	native	uh, of course, that is, if ((pw)) Israel makes such a move,	2	95	500	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1605.004	1609.147	Li_shaoxian	male	native	it will fundamentally interfere with the US strategic deployment in the Middle East.	2	95	501	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1609.147	1610.928	Li_shaoxian	male	native	So without the permission of the US,	2	95	502	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1610.928	1614.881	Li_shaoxian	male	native	I don't think it is possible for Israel to launch such an attack.	2	95	503	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1614.881	1616.834	Li_shaoxian	male	native	Well, speaking of this,	2	95	504	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1616.834	1618.740	Li_shaoxian	male	native	that is to say, why during this period,	2	95	505	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1618.740	1621.615	Li_shaoxian	male	native	ah, this time period, did, um, Israel,	2	95	506	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1621.615	1624.849	Li_shaoxian	male	native	uh, uh, or let's say, reveal such a message?	2	95	507	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1624.849	1631.005	Li_shaoxian	male	native	Or we should say at least it shows that Israel is accelerating intensively the refinement of this plan, ah,	2	95	508	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1631.005	1634.270	Li_shaoxian	male	native	or is preparing to carry out such a plan.	2	95	509	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1634.270	1638.598	Li_shaoxian	male	native	I think there is indeed a very deep background behind this.	2	95	510	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1638.598	1640.583	Li_shaoxian	male	native	And a very profound reason.	2	95	511	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1640.583	1644.302	Li_shaoxian	male	native	Uh, in fact in the US everyone can feel there is such a reasoning that	2	95	512	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1644.302	1646.849	Li_shaoxian	male	native	uh, before, um, Bush steps down,	2	95	513	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1646.849	1649.021	Li_shaoxian	male	native	he wants to accomplish one mission during his term.	2	95	514	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1649.021	1650.396	Li_shaoxian	male	native	Ah, it is to replace the political regime in Iran.	2	95	515	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1650.396	1653.849	Li_shaoxian	male	native	Recently everyone has disclosed quite a lot of information,	2	95	516	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1653.849	1655.708	Li_shaoxian	male	native	including the Boston Globe's, ah,	2	95	517	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1655.708	1660.457	Li_shaoxian	male	native	revelation that the US government has been carrying out a secret plan for eight months,	2	95	518	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1660.457	1664.598	Li_shaoxian	male	native	ah, making preparations to overthrow Iran in the military sense and financial sense, and in all aspects.	2	95	519	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1664.598	1667.051	Gang_qiang	male	native	So does this mean the Iran nuclear issue will definitely lead to war?	2	96	520	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1667.051	1670.894	Li_shaoxian	male	native	Uh, at present, looking at it now, this, this kind of possibility is increasing.	2	97	521	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1670.894	1675.691	Li_shaoxian	male	native	In particular, ah, due to the series of the US strategic deployments, ah, and	2	97	522	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1675.691	1677.628	Li_shaoxian	male	native	the Iraq quagmire it is bogged down in,	2	97	523	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1677.628	1681.534	Li_shaoxian	male	native	well, the possibility that the US could use Israel	2	97	524	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1681.534	1682.209	Li_shaoxian	male	native	to...	2	98	525	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1681.534	1682.209	Gang_qiang	male	native	Uh-huh.	2	98	526	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1682.209	1685.065	Li_shaoxian	male	native	...carry out such an operation is increasing.	2	99	527	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1685.065	1686.784	Li_shaoxian	male	native	So this is why we should today	2	99	528	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1686.784	1692.486	Li_shaoxian	male	native	take seriously this information about Israel's, ah, possible air strike against Iran.	2	99	529	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1692.486	1694.783	Gang_qiang	male	native	Professor Meng, in your opinion, once the war is started,	2	100	530	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1694.783	1696.940	Gang_qiang	male	native	which -- what chain reactions will it bring about?	2	100	531	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1696.940	1698.362	Meng_xiangqing	male	native	Uh, I want to add something first.	2	101	532	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1698.362	1701.253	Meng_xiangqing	male	native	I think that whether it is Israel's entire policy on Iran	2	101	533	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1701.253	1703.581	Meng_xiangqing	male	native	or its entire policy on the Arab world,	2	101	534	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1703.581	1706.316	Meng_xiangqing	male	native	it must follow the US global strategy,	2	101	535	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1706.316	1707.504	Meng_xiangqing	male	native	especially its strategy in the Middle East,	2	101	536	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1707.504	1711.098	Meng_xiangqing	male	native	because Israel's security is fundamentally dependent on the US.	2	101	537	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1711.098	1713.269	Meng_xiangqing	male	native	It is also exactly against such a background that	2	101	538	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1713.269	1716.879	Meng_xiangqing	male	native	historically during the time after the WW II and in the several Middle East wars,	2	101	539	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1716.879	1719.551	Meng_xiangqing	male	native	um, Israel's major strategic decisions	2	101	540	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1719.551	1721.067	Meng_xiangqing	male	native	were all approved by the US.	2	101	541	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1721.067	1724.802	Meng_xiangqing	male	native	The sudden attack on Iraq in 1981 that we just talked about is, uh, an exception.	2	101	542	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1724.802	1727.380	Meng_xiangqing	male	native	But do not forget that Iraq has only one nuclear reactor,	2	101	543	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1727.380	1732.645	Meng_xiangqing	male	native	and the consequence it would cause will never be as profound,	2	101	544	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1732.645	1733.864	Meng_xiangqing	male	native	wide-ranging, and serious as the possible consequence that Iran may cause.	2	101	545	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1733.864	1735.317	Meng_xiangqing	male	native	So this is also an exception.	2	101	546	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1735.317	1737.301	Meng_xiangqing	male	native	But for such a big issue, uh,	2	101	547	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1737.301	1739.301	Meng_xiangqing	male	native	indeed, without the permission of the US,	2	101	548	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1739.301	1742.191	Meng_xiangqing	male	native	Israel will not be able to -- dare not make a reckless move.	2	101	549	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1742.191	1745.957	Meng_xiangqing	male	native	Furthermore, according to what we know, in recent years the US	2	101	550	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1745.957	1751.426	Meng_xiangqing	male	native	has also formulated several military plans about military strikes against Iran.	2	101	551	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1751.426	1753.520	Meng_xiangqing	male	native	For example, one or two years ago,	2	101	552	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1753.520	1756.910	Meng_xiangqing	male	native	there had been rumored in the US about a plan 8022.	2	101	553	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1756.910	1759.925	Meng_xiangqing	male	native	This plan or whatever, uh, is a plan allowing the use of	2	101	554	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1759.925	1765.363	Meng_xiangqing	male	native	nuclear weapons and conventional weapons in carrying out military strikes against rogue states.	2	101	555	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1765.363	1768.363	Meng_xiangqing	male	native	And of the two top ones on the list, the first one was precisely Iran.	2	101	556	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1768.363	1769.754	Meng_xiangqing	male	native	The second was North Korea.	2	101	557	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1769.754	1772.613	Meng_xiangqing	male	native	And it had carried out several of these military exercises.	2	101	558	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1773.566	1777.566	Gang_qiang	male	native	We can say that this Iran nuclear issue is very complicated, and there are a lot of power struggles behind the scenes.	2	102	560	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1777.566	1781.926	Gang_qiang	male	native	Well, exactly in which direction the Iran nuclear issue will be heading is an issue we will be examining for a long time to come.	2	102	561	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1781.926	1785.785	Gang_qiang	male	native	Today we thank you two very much for giving us relevant commentaries on this latest news today. Thank you.	2	102	562	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1786.691	1789.441	Gang_qiang	male	native	We also thank all the viewers for watching today's edition of Focus Today. Good-bye.	2	102	564	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1810.343	1812.311	speaker#4	female	native	Hello, let's check out the weather together.	3	103	566	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1812.311	1815.779	speaker#4	female	native	Tomorrow we will be entering the third nine-day period of the coldest time of the year. We often say that	3	103	567	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1815.779	1817.561	speaker#4	female	native	the third nine-day period is the coldest. So tomorrow morning, ah,	3	103	568	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1817.561	1819.842	speaker#4	female	native	the temperatures in most parts of the country will remain very low.	3	103	569	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1819.842	1823.155	speaker#4	female	native	In many places such as South China, it is actually just a single digit thing.	3	103	570	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1823.155	1827.514	speaker#4	female	native	Yet, in the eastern part of Inner Mongolia and the most part of Heilongjiang, due to the effects of cold air, temperatures can be even lower.	3	103	571	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1827.514	1833.686	speaker#4	female	native	By tomorrow daytime, this blast of cold air, uh, will also lower the temperatures in northern part of North China and the most part of the Northeast region by three to six degrees.	3	103	572	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1833.686	1836.561	speaker#4	female	native	In the meantime, winds in this region will significantly increase in strength.	3	103	573	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1836.561	1840.436	speaker#4	female	native	By the 12th, this blast of cold air will also affect the region south of the Yangtze River and South China.	3	103	574	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1840.436	1842.014	speaker#4	female	native	At the same time, uh, starting from the 11th,	3	103	575	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1842.014	1846.920	speaker#4	female	native	the rainy and snowy weather in the southwest region will gradually extend to Hubei and the northern part of Guangxi.	3	103	576	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1846.920	1851.405	speaker#4	female	native	So, in the days that follow, the overcast and rainy weather in the most part of the southern region will again come back.	3	103	577	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1852.076	1853.810	speaker#4	female	native	Okay, let's take a look at the city weather forecasts.	3	103	579	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1855.732	1858.076	speaker#4	female	native	Beijing, sunny changing to mostly cloudy, 8 degrees below zero to 2 degrees.	3	103	581	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1858.623	1860.754	speaker#4	female	native	Harbin, sunny, 21 degrees below zero to 13 degrees below zero.	3	103	583	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1861.382	1863.420	speaker#4	female	native	Xi'an, mostly cloudy changing to sunny, 3 degrees below zero to 7 degrees.	3	103	585	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1864.123	1866.233	speaker#4	female	native	Jinan, mostly cloudy changing to sunny, 5 degrees below zero to 4 degrees.	3	103	587	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1866.891	1868.514	speaker#4	female	native	Zhengzhou, mostly cloudy, 0 to 10 degrees.	3	103	589	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1869.577	1871.546	speaker#4	female	native	Shanghai, sunny changing to mostly cloudy, 0 to 8 degrees.	3	103	591	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1872.453	1874.359	speaker#4	female	native	Changsha, sunny, 0 to 11 degrees.	3	103	593	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1875.140	1877.390	speaker#4	female	native	Suzhou, sunny changing to mostly cloudy, 6 to 16 degrees.	3	103	595	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1877.937	1879.687	speaker#4	female	native	Taipei, mostly cloudy, 12 to 18 degrees.	3	103	597	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1880.718	1882.546	speaker#4	female	native	Guangzhou, sunny, 6 to 17 degrees.	3	103	599	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1883.656	1886.062	speaker#4	female	native	Dalian, sunny changing to mostly cloudy, 4 degrees below zero to 2 degrees.	3	103	601	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1886.062	1888.719	speaker#4	female	native	Wuxi, sunny changing to mostly cloudy, 3 degrees below zero to 8 degrees.	3	103	602	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1889.348	1891.593	speaker#4	female	native	Liaocheng, sunny changing to mostly cloudy, 8 degrees below zero to 4 degrees.	3	103	604	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1892.132	1894.318	speaker#4	female	native	Bangkok, mostly cloudy changing to overcast, 24 to 30 degrees.	3	103	606	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1894.374	1896.717	speaker#4	female	native	New Delhi, sunny, 5 to 18 degrees.	3	103	608	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1897.561	1899.561	speaker#4	female	native	Seoul, sunny, 5 degrees below zero to 1 degree below zero.	3	103	610	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1900.327	1902.562	speaker#4	female	native	Tokyo, mostly cloudy changing to showers, 6 to 11 degrees.	3	103	612	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1903.250	1905.486	speaker#4	female	native	London, showers changing to light rain, 6 to 11 degrees.	3	103	614	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1906.025	1907.875	speaker#4	female	native	Moscow, sleet, 0 to 2 degrees.	3	103	616	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1908.656	1910.390	speaker#4	female	native	Paris, overcast, 7 to 10 degrees.	3	103	618	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1911.687	1913.469	speaker#4	female	native	Vienna, mostly cloudy, 6 to 11 degrees.	3	103	620	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1914.391	1915.954	speaker#4	female	native	New York, showers, 5 to 8 degrees.	3	103	622	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1917.126	1919.235	speaker#4	female	native	Seattle, light rain, 6 to 9 degrees.	3	103	624	report	
+CCTV4_TDYFOCUS_CMN_20070108_082800	0	1919.970	1921.702	speaker#4	female	native	Washington, light rain, 7 to	3	103	626	report	

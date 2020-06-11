@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0033.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	美国驻危大使承认每年有450吨哥伦比亚可卡因运到美国	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	人民网4月18日讯　据南方电视台报道，美国驻危地马拉大使德尔曼昨天承认每年有450吨哥伦比亚的可卡因运到美国，多数毒品是通过中美洲运到那里去的。	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	德尔曼说，为了阻止在本地区的贩毒罪行，美国今年已投入5000万美元，明年的投入将增加一倍。	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	他承认打击贩毒是一项严肃和复杂的任务，因为这是一种非法的交易。	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	上周危地马拉的安全机构3天之内在与墨西哥和伯利兹交界的北方佩腾省两次查获近1.5吨可卡因，给予贩毒团伙沉重打击。（管彦忠）	0	0	0		statement

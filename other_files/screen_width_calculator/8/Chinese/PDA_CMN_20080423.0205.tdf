@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0205.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	港300所学校熄灯5分钟 响应"世界地球日"号召	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	据新华社香港４月２２日电　（记者张雅诗）全香港近３００所学校２２日一同熄灯５分钟，以响应“世界地球日”关于保护地球的号召。	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	活动主办方香港环保触觉２２日上午在香港圣公会奉基千禧小学礼堂，举行朗读环保宣言及熄灯仪式。	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	另外有２９０所香港小学和幼儿园、近１５万名师生在校内同步进行仪式。	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	环保触觉于３月１３日已进行了一次熄灯活动。	0	0	0		statement
+PDA_CMN_20080423.0205.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	当时共有１１１所香港中学，以及１２所澳门的学校和两所深圳的学校参与。	0	0	0		statement

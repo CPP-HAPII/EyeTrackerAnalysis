@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20070129.0288	0	10010.000	10019.900				Iran Seeks Comprehensive Solution to Nuclear Crisis	0	0	0		
+GMW_CMN_20070129.0288	0	20010.000	20019.900				Reporter Li Yudong, January 29, 2007	0	0	0		
+GMW_CMN_20070129.0288	0	30010.000	30019.900				Staff reporter, Ankara, January 28. Iran Foreign Minister Mottaki stated on the 27th that Iran is holding talks with some nations on the issue of developing nuclear energy for peaceful purpose program to provide comprehensive solution to the nuclear crisis.	0	0	0		
+GMW_CMN_20070129.0288	0	40010.000	40019.900				According to local media, Mottaki said that in order to provide comprehensive solution to the nuclear crisis, he will hold talks with Secretary of Russian National Security Council Ivanov to discuss suggestions put forward in this matter.	0	0	0		
+GMW_CMN_20070129.0288	0	40020.000	40029.900				He said that Iran is optimistic in finding a comprehensive solution that can uphold Iran's rights and eliminate existing doubts.	0	0	0		
+GMW_CMN_20070129.0288	0	40030.000	40039.900				Simorgh, official of Iran's Atomic Energy Organization, issued a statement on the same day denying reports that Iran is installing centrifuges at a nuclear facility in Natanz.	0	0	0		
+GMW_CMN_20070129.0288	0	50010.000	50019.900				Moussa, Secretary-General of the League of Arab States, warned at Davos that military operations against Iran will turn the entire Middle East into hell.	0	0	0		
+GMW_CMN_20070129.0288	0	50020.000	50029.900				Earlier reports claimed that both U.S. and Israel officials hinted that they may attack Iran's nuclear facilities if Iran refuses to give up its nuclear program.	0	0	0		

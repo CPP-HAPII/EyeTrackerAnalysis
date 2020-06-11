@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080416.1581	0	0.0	100.0	speaker	unknown	unknown	日本计划为数千医护人员注射禽流感防疫针	0	0	0		
+CNS_CMN_20080416.1581	0	300.0	400.0	speaker	unknown	unknown	据联合早报网报道，日本厚生省称，将会在明年3月前，为6400名医护人员打防疫针。	0	0	0		

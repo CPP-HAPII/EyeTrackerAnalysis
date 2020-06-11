@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080408.0337	0	700.0	800.0	speaker	unknown	unknown	At present the area of crops insured in six pilot provinces has approached 150 million mu, accounting for 40% to 50% of the area sown. Nationwide, more than 37 million sows of cub bearing age have been insured, with the ratio of coverage exceeding 80%.	0	0	0		

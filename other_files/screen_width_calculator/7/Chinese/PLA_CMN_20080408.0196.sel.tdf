@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080408.0196	0	200.0	300.0	speaker	unknown	unknown	新华社南昌４月８日电 为确保主要农产品市场供应，稳定物价，江西已开始完善粮油肉储备制度，全省粮食储备规模原则上不低于１２．５亿公斤。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080715.0059	0	0.0	100.0	speaker	unknown	unknown	K21 (Paris) Experts Claim Mediterranean Ecological Environment Faces Multiple Threats	0	0	0		
+XIN_CMN_20080715.0059	0	700.0	800.0	speaker	unknown	unknown	Buchai believes that overfishing has caused tuna to be on the verge of extinction in this region, and sea turtles face the same problem as they cannot find suitable beaches for laying eggs; on the other hand, jellyfish -- the staple food of these two creatures - is breeding at a rapidly increasing rate.	0	0	0		

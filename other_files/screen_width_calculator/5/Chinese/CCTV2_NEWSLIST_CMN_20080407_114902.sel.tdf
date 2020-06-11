@@ -1,0 +1,76 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 135.25700000000001, 176.59899999999999, 377.06700000000001, 603.572, 704.09100000000001, 1065.704, 1094.97, 1101.2670000000001, 1169.665, 1263.0250000000001, 1315.415, 1371.982, 1415.326, 1483.27, 1672.96, 1729.1220000000001, 1817.194, 1864.3689999999999, 1933.9059999999999, 1942.912, 1965.3610000000001, 1991.7, 2008.52, 2041.5350000000001, 2057.2510000000002, 2168.4780000000001, 2322.337, 2379.223, 9999999.0]
+CCTV2_NEWSLIST_CMN_20080407_114902	0	190.964	206.081	Xie_Ying_Ying	female	native	好我们来看第一条,结束了在伦敦的传递之后,北京时间今天凌晨五点五十分左右,北京奥运圣火达专机顺利抵达境外传递的第五站现代奥林匹克之父顾拜丹的故乡法国巴黎	2	2	4	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	206.081	231.442	Xie_Ying_Ying	female	native	好再来关注下全国的大雾天气,今天早晨华北地区东部黄淮江淮以及江南东部等地的大部分地区出现了大雾天气,其中天津,河北东部,山东,江苏,安徽东部以及浙江北部等地的部分地区能见度不足两百米,由于能见度较低,驾驶人应控制速度保持车距,机场高速公路轮渡码头应该采取必要的措施保障交通安全	2	2	5	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	293.868	302.892	Xie_Ying_Ying	female	native	格林斯番承认说目前美联储的决策难度比他在任期间还要大,相比之下格林斯番对于欧洲的经济还是比较乐观的	2	2	9	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	377.067	402.33	Xie_Ying_Ying	female	native	好来看今天的新闻人物,上周二，瑞银爆出了发布了第一季度一百二十亿瑞士法郎的预亏报告之后，董事长马塞尔奥斯佩尔也黯然宣布辞职，时间才过了几天，这家银行又爆出了前总裁鲁克曼阿诺德发起股东维权行动，要求分拆瑞银	3	3	14	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	402.33	428.12	speaker#2	female	native	鲁克曼阿诺德的上榜理由是瑞银前总裁，要求分拆瑞银，赶走现任总裁,上周四，阿诺德专门给瑞士银行副总裁赛吉奥马奇奥尼写了一封信，内容大致是关于对瑞银进行改革的建议，比如瑞士银行应该从法律上将投资银行与私人客户银行分离，并考虑出售其投资银行,出售其资产管理业务以筹集资金,以及解除刚刚任命的新董事长职务等等	3	4	15	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	444.461	465.699	speaker#2	female	native	五十八岁的英国人鲁克曼阿诺德对于大多数瑞银的员工来说并不陌生，伦敦大学毕业后，他辗转巴黎,达拉斯,香港,新加坡等地，一九九六年才加入瑞银，二零零一年四月被任命为集团执行委员会总裁，成为瑞银职位仅次于当时董事长奥斯佩尔的二号人物，但在同一年，就因为和奥斯佩尔不合而被迫辞职	3	4	17	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	501.102	518.374	Xie_Ying_Ying	female	native	好接下来上榜的是美国传奇电影演员查尔顿赫斯顿,他在一九五九年因为影片宾虚获得了奥斯卡最佳男演员奖，此外呢他还扮演过摩西,米开朗基罗等一批英雄人物，被誉为拥有好莱坞最伟大的脸,前天晚上，赫斯顿在美国加州的家中去世，享年八十四岁	3	5	19	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	518.374	533.099	speaker#2	female	native	查尔顿赫斯顿的上榜理由是,老影帝宾虚辞世，赫斯顿去世的消息是他的家人对外发表声明宣布的，自二零零二年起赫斯顿就开始和阿兹海莫症抗争，去世前他的妻子一直陪伴在他身边	3	6	20	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	603.572	619.857	Xie_Ying_Ying	female	native	好进入今天的故事榜,继续来关注哈尔滨动物园考虑吃人事件的最新进展,对黑龙江哈尔滨张万荣一家来说这个清明节呢是让他们伤心欲绝的日子,前几天警方通知张爸爸他的儿子命丧虎口,凶手就是哈尔滨北方森林动物园的老虎	4	7	23	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	626.844	634.449	speaker#4	male	native	发现了就是几块骨头,还有就是说那个呃纤维的那种碎片的一些衣服,类似于衣服的那种布	4	9	25	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	634.449	639.293	speaker#3	male	native	哈尔滨市二城区公安局在现场还找到了人的头盖骨等其他遗骨	4	10	26	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	639.293	652.67	speaker#3	male	native	由于尸骨损毁严重,根本无法辩认出死者的身份,这时二城区平山镇的张万柔为了寻找儿子张亚春找到了动物园,治安派出所的仁新所长立即把张万柔带到了派出所,给他抽血作~DNA鉴定	4	10	27	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	666.215	684.965	speaker#3	male	native	二城警方经过堪察认定这不是一起刑事案件,遇害人张亚春有可能是自己进入散养区的,而动物园说二十四号那天由于是阴雨天气,只有一个旅游团共六个游人进入了园内,所以他们认定张亚春并不是买票进入的,可是张亚春是如何进到散养区的却成了一个迷	4	12	29	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	684.965	704.091	speaker#6	male	native	这个散放区呀这个外栏护栏啊这个高度是三米-三米八,上面还有一个呃半米的电网,二十 (()) 电,呃下面呢有一米多高的 (()) 的电网, (())	4	13	30	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	704.091	718.755	Xie_Ying_Ying	female	native	好来关注东航航班集体返航的事件,目前呢中国民用航空局派出的工作组已经抵达昆明,开始调查返航事件	5	14	31	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	718.755	734.741	Xie_Ying_Ying	female	native	调查组将仔细的查询三月三十一号返航的十八个航班和次日返航的三个航班资料,目的地机场天气实况以及相关的飞行数据,并向当天执行任务的飞行员空返人员和乘客等了解相关的情况,最终调查清楚当天返航的真相	5	14	32	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	734.741	744.705	Xie_Ying_Ying	female	native	另外呢因为航班延误遭受损失的乘客呢可以将登机牌,姓名等相关的信息提供给东航云南分公司,经核实之后可以依据票价获得相应的赔偿	5	14	33	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	744.705	769.831	Xie_Ying_Ying	female	native	可能有些观众还不太了解事情的整个过程,我们一起来回顾一下,在三月三十一号中国东方航空云南分公司十八个从昆明起飞的航班在同一天出现了临时返航情况,这些航班原定飞往大理,丽江,西双版纳, (()) 等地,但是在到达目的地上空之后,乘客被告之无法降落并折回昆明,造成千余名旅客滞留,并导致昆明机场更多的航班延误	5	14	34	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	769.831	783.963	Xie_Ying_Ying	female	native	事件发生之后东航发表声明称,由于云南三月和四月份天气不稳定航路遭遇冷流因此被迫返航,而一位接触这次返航飞行员的律师向媒体表示,这是由于飞行员对公司的管理不满意	5	14	35	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	808.238	814.887	speaker#3	male	native	同地航班不同结果,昨天上午记者来到西单民航售票大厅进行了采访	5	15	37	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	824.133	835.744	speaker#3	male	native	航程及航班数量看返航,据了解,当天飞往丽江,大理,西双版纳, (()) 六地的航班同时返航,这一情况也颇受质疑	5	17	39	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	835.744	840.588	speaker#8	male	native	十八架飞机同时遇到恶劣的天气,不可能这么巧吧	5	18	40	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	849.63	867.651	speaker#9	male	native	那么云南省在三十一号这一天从这个风的资料和云的资料来分析,在整个那天呢基本上都没有我们认为是威胁这种航空飞行的那种云系或者是大风天气	5	20	42	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	867.651	877.591	Xie_Ying_Ying	female	native	这次返航事件再次引起了人们对飞行员与航空公司矛盾的关注,我们的编辑呢搜索了一下,发现这几年的飞行员 (()) 事件还真的不少	5	21	43	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	914.744	929.296	speaker#3	male	native	二零零八年二月二十八号,海南航空股份有限公司最年轻的机长罗祖林成为海航第十六名因辞职走进海口重裁委的飞行员,之后海口重裁委还将分别审理另外四名飞行员,与海航解除和同的申请	5	22	46	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	929.296	940.488	speaker#3	male	native	二零零八年三月二十七号,武汉东兴航空辞职飞行员终审被判赔一百七十九万元,宣布次日十一名机长集体告假,东兴航空部分航班被迫停飞	5	22	47	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	955.102	961.114	speaker#10	male	native	最近飞行员跳槽这一系列问题,根本还是飞行员十分短缺	5	23	49	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	961.114	977.306	speaker#3	male	native	飞行员跳槽问题始于两千零四年,那时候民营航空公司开始介入中国民航业,但当时国内的飞行员数量刚好能满足飞机的配备需要,先成立的民营航空公司不得不出高薪从国有航空公司挖飞行员	5	24	50	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	977.306	993.617	speaker#3	male	native	截止到目前,国内多家航空公司仍有两百多名飞行员正在向原公司提出跳槽,但从航空公司的角度,飞行员的培养费用高培养周期长,所以对飞行员的跳槽各航空公司都设置了很高的放行条件	5	24	51	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	993.617	1005.231	speaker#10	male	native	从进入航空学校到成为一个机长,中小机型要六到九年时间,重型机要八到十二年的时间	5	25	52	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1005.231	1025.242	speaker#3	male	native	多年来我国的飞行员都采取定单式的培养方式,飞行员的一切费用由航空公司承担,飞行员从入校到成为一名机长需要两百万左右的培训费,再加上飞行员每年参加的一些特殊训练,以及气象地理等知识的培训,培养一个机长至少需要花费六百万左右的费用	5	26	53	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1025.242	1042.108	speaker#3	male	native	所以民航管理部门规定,飞行员想跳槽必须在原航空公司同意的基础上再缴纳七十到两百一十万的培训费才可以离开,而各航空公司开出的条件普遍高于这个规定,有的航空公司甚至开出了超过一千万的高价	5	26	54	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1042.108	1050.797	speaker#3	male	native	这样一来一些飞行员希望通过跳槽来改善待遇的做法被原单位的高额赔偿所阻断,双方的矛盾就进一步突出	5	26	55	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1050.797	1065.704	speaker#10	male	native	他也知道飞行员根本就没有这么多钱,其实公司要这么高额的一个赔偿,他并不是就想要这个钱,他只是为了设置一个障碍,为了防止自己手里的飞行员流动出去	5	27	56	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1065.704	1080.824	Xie_Ying_Ying	female	native	好再来看一起毒品案,近日首都机场警方从一名外籍旅客的身上查获毒品一千余克,这是~T三航站楼启用之后查获的第一起毒品案件,也是近年来北京警检联手查获的第一起人体藏毒案件	6	28	57	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1080.824	1094.97	speaker#2	female	native	当天下午四点四十分左右,一名外籍旅客的随身行李箱通过首都机场~T三航站楼的安检时,安检设备发出了警报声,在开箱手检后,工作人员从一条牛仔裤的裤桶里翻出了五十三枚简装物体	6	29	58	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1101.267	1106.354	speaker#2	female	native	随后外籍女子被送到了派出所,面对民警的询问她却来了个一问三不知	8	31	60	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1138.68	1147.303	speaker#11	male	native	不是她要吃的不是吃一个,她应该有, (()) 有好几个,主要看她的 (())	8	32	63	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1169.665	1172.749	Xie_Ying_Ying	female	native	好来看一组资讯快报	9	34	65	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1199.363	1220.498	speaker#2	female	native	国家计算机病毒应急处理中心通过对互联网的监测发现,近期通过~U盘等移动存储设备进行传播的木马机器狗,~U盘杀手等呈上升趋势,专家提醒,恶意木马程序可以很容易的植入到下载数据文件内,而迅速在整个互联网络中传播,因此要养成使用移动存储设备随时杀毒的习惯	9	35	67	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1220.498	1233.037	speaker#2	female	native	福建省日前出台政策,今后人才中介机构提供虚假信息,扩大收费范围,提高收费标准等九类行为,将被记录归档,为警示信息并通过网站向社会公示	9	35	68	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1233.037	1245.396	speaker#2	female	native	修善后的北京前门大街将于今年五一正式亮相,介时,人们不仅可以免费乘坐清末民初流行的有轨电车,还能在六千平方米的老字号聚集区大饱口福	9	35	69	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1259.169	1263.025	Xie_Ying_Ying	female	native	好休息一下,稍后为您带来最新的科技健康新闻	9	36	71	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1315.415	1324.866	Xie_Ying_Ying	female	native	太阳能是一种取之不尽的 (()) 能源,最近呢以色列的研究人员研发出了一种新型的太阳能汽球,为在沙漠地区收集太阳能提供了便利	11	38	73	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1324.866	1343.299	speaker#2	female	native	这就是以色列工学院正在研发的汽球发电机的模型,按照设计实际应用的汽球直径达到三米,将被放飞到离地面几百米的空中,汽球表面整齐的贴满两毫米厚的特质太阳能电池板,所发电力通过与汽球相连接的电缆线传回地面	11	39	74	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1356.988	1371.982	speaker#2	female	native	此外这种新型的发电器组装和拆解起来都很方便,不过它的不足之处也显而易见,容易随风飘动而影响发电,目前研究人员正在努力解决这一问题,预计一年后这种太阳能发电器将完成设计并投入使用	11	39	76	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1402.039	1415.326	Xie_Ying_Ying	female	native	此外博物馆里还展出了四百多种仙人掌以及海龟,鳄鱼等多种的动物,人们不仅可以在这里领略到沧海桑田的神奇变迁,还可以观看到沙漠王国中各种动植物的千姿百态	12	40	78	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1415.326	1418.171	Xie_Ying_Ying	female	native	好再来看看今天的科技图片新闻	13	41	79	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1418.171	1442.83	speaker#2	female	native	将书架和其它家具融合在一起的设计我们之前也介绍过很多款了,例如书洞和内置书桌的书架,今天的这款设计与书洞类似,也是将躺椅跟书架结合在一起,但是由于这款设计的躺椅被放置在书架上面,顶部空间更加开阔,因此也更加舒适,用这样的书架来放书不仅能够更加舒适的享受读书的快乐,还可能有效的节约空间	13	42	80	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1483.27	1496.025	Xie_Ying_Ying	female	native	好来看今天的财经消费新闻,国家统计局今天发布全国企业景气调查结果,受低温雨雪冰冻灾害及世界经济增速减缓等因素的影响,一季度我国企业景气指数明显回落	14	43	83	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1504.702	1522.347	speaker#12	male	native	今天上证综指开盘下跌了百分之零点八,深圳成指开盘下跌了百分之一点二六,两市一共只有一百多支股票开盘上涨,但开盘后不久随着中国石油的上扬,两市股指也迅速翻红,十点半中国石化出盘后上涨了百分之一	14	44	85	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1522.347	1538.256	speaker#12	male	native	上证综指也再次冲上三千五百点,深圳成指不久也重新站上了一万三千点,两市各股涨多跌少,第一大成证股中国石油涨幅超过了百分之三,中国旅业,中国联通,中国平安等成证股也都表现不错	14	44	86	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1570.672	1585.552	Xie_Ying_Ying	female	native	今天上午亚洲主要股市小幅上扬日经二五指数五盘报收一万三千三百五十点三九点,上涨了百分之零点四三,截至记者发稿时香港恒生指数报收于两万四千四百五十七点二八点,上涨了百分之零点七九	14	45	88	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1629.706	1653.096	speaker#3	male	native	被判侵权的分别是微软 (()) ~PC操作系统,使用的手写识别技术,以及微软 (()) 软件和视窗移动操作系统等使用的日期选择菜单,陪审团同时裁定,微软视窗操作系统中与~DVD播放软件等有关的视频截码和彩色视频显示两项技术并未侵权,此外还驳回了阿尔卡特朗讯高达十七点五亿美元的索赔要求	14	46	91	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1653.096	1672.96	speaker#3	male	native	微软公司表示,会因陪审团有关视频截码技术不侵权的认定,但将就被认定侵权的裁决提出抗议,而阿尔卡特朗讯的发言人则对陪审团有关视频截码技术不侵权的认定表示失望,阿尔卡特朗讯与微软的专利纠纷始于二零零三年,此次判决涉及十五项侵权指控中的最后四项	14	46	92	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1672.96	1685.742	Xie_Ying_Ying	female	native	~MP三的热销和网上音乐的流行给传统~CD销售带来巨大压力,而提供在线音乐下载的苹果 (()) 网站也超过沃尔玛等传统零售店,成为美国最大的音乐零售店	15	47	93	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1711.517	1729.122	speaker#3	male	native	由于网上下载音乐快捷方便,而且可以随意选择自己喜欢的歌曲,价格也十分划算,因此竟争也越来越激烈,世界最大网络商店亚马逊已于去年推出音乐服务,新闻集团旗下的网络 (()) 空间 (()) 则于本月三号宣布将开始销售音乐	15	48	95	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1729.122	1750.05	Xie_Ying_Ying	female	native	德国大众汽车公司最近宣布将在美国召回四十一万辆帕萨特轿车,原因是这些车的隔热板和燃油管等零部件存有安全隐患,召回车辆为美国市场上一九九九年到二零零五年间售出的汽油动力型帕萨特,这些车中一些装备自动档的帕萨特车底有一块隔热板,可能会碰到排气系统酿成危险	16	49	96	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1790.849	1817.194	speaker#2	female	native	这家拥有五十年历史,位于京都白景的店铺以售卖优质手工刀闻名侠耳,打典师傅会先将金属放在炉中,待温度升高到两千摄氏度时师傅就会将铁和钢交叠,敲成一块,当中最难掌握的就是温度,太热的话刀口容易碎裂,不够热的话钢铁则无法融成一体,对于厨师来说,用心打造的手工刀就像用心的厨师一样能将食物变的更美味	16	50	99	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1850.35	1864.369	Xie_Ying_Ying	female	native	批评者认为,大量豆类产品用来制造燃料已经推动了国际市场,农产品价格大幅飙升,而为了获取更多的利益,当地一些居民还不惜以破坏环境为代价大肆的砍阀热带雨林来扩大农田面积	17	51	101	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1902.717	1923.13	speaker#3	male	native	行情建议纸币投资要选择一些发行量少的品种,像第四套人民币的连体钞这些已经停止发行又不在板的纸币,还有一些纪念版的人民币都具备一定的增值空间,同时收藏时要注意保存好纸币,一条折合一个黄点都会影响到纸币的价值,尤其是空气潮湿的南方收藏时要特别注意	18	55	105	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	1979.999	1991.7	speaker#3	male	native	蔡依林以高空体操瑜伽揭开序幕,悬在二层楼高的空中,随后蔡依林以一百八十度反转头向下倒挂金勾,大胆上阵完全没有吊钢丝防护,惊险万分	21	59	110	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2008.52	2021.212	Cai_Yi_Lin	female	native	最大的改变可能在体育馆里面是四面台,所以呃我期望我尽量不要晕台,然后体力各方面都可以维持到一个蛮好的水平	23	61	112	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2057.251	2062.904	Xie_Ying_Ying	female	native	这几天天气不错,出来游玩的呢还有北京世界公园里的一只泰国小象	25	64	115	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2090.204	2105.557	speaker#3	male	native	据了解目前北京市只有五头这样的表演象,这头小象的爸爸妈妈就是其中的两只,它们全都是从泰国引进的,训练这样一头表演象大约需要一年的时间,现在训象师正在加紧训练小象,不久小象就能表演了	25	67	118	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2105.557	2114.862	Xie_Ying_Ying	female	native	四月八号也就是明天了,受人关注的小北极熊雪花将和公众见面,近日呢纽伦保动物园举行了新闻发布会,为雪花的露面造势	25	68	119	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2114.862	2131.807	speaker#3	male	native	在发布会上动物园负责人宣布,考虑到过多的镜头与闪光灯会吓到首次亮相的小雪花,明天他们只允许一部分摄像机对雪花进行拍摄,并在全国进行直播,同时他们还宣布与当地一家大型商场达成了雪花的周边产品开发协议	25	69	120	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2131.807	2143.035	speaker#3	male	native	印有雪花图案的~T恤,水杯,毛巾和玩具等等,你能想到的生活用品都已经打上了雪花的烙印,而动物园方面则希望这些商品能够让雪花重现去年的克鲁特风潮	25	69	121	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2168.478	2178.148	Xie_Ying_Ying	female	native	日本广岛一家动物园的一只亚洲黑熊可以说是功夫了得,它的绝活就是耍棍子,最近呢吸引了很多游客前去观看	26	70	123	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2267.472	2279.981	Xie_Ying_Ying	female	native	猎豹是陆地上跑的最快的动物,时速可以达到一百二十公里,不过有关人士预测呢十到十五年之后它们有可能从地球上消失,目前科学家正在寻求各种保护猎豹的方法	26	70	128	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2310.269	2322.337	Xie_Ying_Ying	female	native	鉴于这一情况,当地动物保护组织为农民们训练了一批牧羊犬,它们希望这些牧羊犬可以保护家畜,减少当地农民和猎豹间的冲突,并也能加入到保护猎豹的行列中来	26	70	130	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2337.035	2354.949	speaker#2	female	native	比赛场地设在了坑洼不平的泥地中,这给参赛选手设置了不小的难度,不仅如此,由于泥地湿滑柔软,摩托车开过之后会留下深深的车辙,后面的摩托车因此想要走出自己的路线就很困难了,到了拐弯的地方就更容易滑倒,所以参赛者都会加倍小心	27	72	132	report	statement
+CCTV2_NEWSLIST_CMN_20080407_114902	0	2354.949	2366.517	speaker#2	female	native	尽管这样的比赛有一定的难度和危险,报名的选手还是越来越多,而对于很多人来说比赛不仅能够激发出他们挑战自我的雄心,还能让他们体验到独特的乐趣	27	72	133	report	statement

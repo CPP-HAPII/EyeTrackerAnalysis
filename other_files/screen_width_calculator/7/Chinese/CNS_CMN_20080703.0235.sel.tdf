@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.0235	0	300.0	400.0	speaker	unknown	unknown	从7月4日开始，它们将出现在包括奥运场馆、定点医院、签约酒店等地，执行防爆安检任务。	0	0	0		
+CNS_CMN_20080703.0235	0	500.0	600.0	speaker	unknown	unknown	昨天上午，204名民警带着警犬在警院操场集体亮相，犬种包括拉不拉多犬、德国牧羊犬等8个品种，大部分为小型犬。	0	0	0		
+CNS_CMN_20080703.0235	0	1300.0	1400.0	speaker	unknown	unknown	而在车辆搜爆中，民警在远离警犬视线的位置布置了两辆车，在一辆车的底盘内放置一小块炸药，随后从警犬中随机抽取两条进行搜爆。	0	0	0		
+CNS_CMN_20080703.0235	0	1400.0	1500.0	speaker	unknown	unknown	不到1分钟，负责搜索没有爆炸物的那辆车的警犬回到民警身边，民警举起右手示意此车无异常，同时，另一条警犬趴在了车底放置爆炸物的位置，眼睛看着主人。	0	0	0		
+CNS_CMN_20080703.0235	0	1900.0	2000.0	speaker	unknown	unknown	奥运会、残奥会期间，市公安局将使用警犬对比赛场馆、训练场馆、定点医院、签约酒店等涉奥场所，以及国际奥委会和各国政要参加活动的场所实施防爆安检。	0	0	0		

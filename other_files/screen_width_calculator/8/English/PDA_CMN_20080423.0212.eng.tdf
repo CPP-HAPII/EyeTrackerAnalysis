@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0212.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Australia Drought Contributes to Global Grain Shortage	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	(People.com.cn, Apr. 23) The Deniliquin Rice Mill, the largest rice mill in the southern hemisphere, once processed enough grain to meet the daily demand of twenty million people. A six-year drought however has greatly reduced Australia's grain production.	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The sharp reduction in Australia's rice output is an important factor in the doubling of the price of rice over the past three months.	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	The increase in the price of rice has severely limited exports from the world's largest exporters.	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Another reason for the souring grain prices to date is that the influence of the drought on rice has severely impacted global production.	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	Many scientists feel that this is the earliest indication that global warming is starting to affect grain production. (Hu Qin)	0	0	0		statement

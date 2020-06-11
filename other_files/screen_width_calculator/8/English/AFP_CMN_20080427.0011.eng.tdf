@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0011.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Spanish Government: Fishing Boat Seized by Somalia sea Pirates Released	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Madrid (AFP), 26th.	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Today, Spanish deputy prime minister Ms. Fernandez said seamen from a Spanish fishing boat that was captured by pirates off the coast of Somalia have already been released and the 26 seamen are all in full health.	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	She said that the fishing trawler "Playa de Bakio" was brought back to safe territorial waters under the protection of a Spanish vessel. The government is currently drafting a plan to bring these 13 Spanish and 13 African seamen back to the country.	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	At a press conference she did not say under what conditions the seamen were released or if a ransom was paid.	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	She only said that the release of the seamen was a result of the hard work of the government and ship-owner as well as the government's diplomatic work.	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	, Spanish news media said earlier that the kidnappers demanded a ransom of one million Euros (47,320,000 Taiwan Dollars) and the negotiations were held in a hotel in London.	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	3200.000	3500.000	TEXT1	unknown	unkown	On April 20th, as this 76-meter-long fishing trawler and seamen were fishing for tuna off the coast of Somalia, they were captured by pirates with grenade launchers.	0	0	0		statement

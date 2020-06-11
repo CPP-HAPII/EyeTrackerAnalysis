@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0008.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	德国调查显示：三分之一德国青少年仇视外国人	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	900.000	950.000	TEXT1	unknown	unkown	据《南德意志报》17日报道，德国内政部长会议的一项研究表明，德国三分之一年龄在9岁的孩子认为，在德国的外国人太多了。	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	而有1/13的德国青少年曾干过带有右翼思想的犯罪行为。	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	对外国人持负面评价和仇视外国人的心理在德国青少年人群中有扩大的趋势。	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	根据一份最新的调查显示，大约有1/3的德国中学生"非常同意"在德国的外国人太多了，另有三分之一的学生"比较认同"这种说法。	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	中学当中，有1/5的9岁孩子对"伊斯兰"有仇视心理。	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	另外，约有1/13的德国青少年曾干过具有右翼主义色彩的犯罪行为，比如在墙上涂鸦画纳粹党所用的十字记号或者毁坏外国人的财产等。	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	报道认为，之所以在德国青少年当中会出现这样的状况，是因为这一年龄段的孩子，很容易受外界思想的影响，他们会不假思索地模仿别人的言论和立场。	0	0	0		statement

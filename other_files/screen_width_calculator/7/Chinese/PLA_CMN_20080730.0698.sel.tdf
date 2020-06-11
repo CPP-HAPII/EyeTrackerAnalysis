@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0698	0	400.0	500.0	speaker	unknown	unknown	当日发了短信约周指导，他总算挤出点时间接受采访，并风趣地对记者说：“抽烟时可以休息一下，点着烟后又想起了一些电话要打。”	0	0	0		
+PLA_CMN_20080730.0698	0	700.0	800.0	speaker	unknown	unknown	同组的委内瑞拉、日本队可能是中国男排冲前八的主要对手。	0	0	0		
+PLA_CMN_20080730.0698	0	800.0	900.0	speaker	unknown	unknown	对此，周建安有自己的看法：“外界说这两场比赛很关键，其实，我们看重奥运会的每一场比赛，每一个对手，现在全队统一了思想，小组赛上从第一场到最后一场，每一场都是生死战，没有后路可退。	0	0	0		
+PLA_CMN_20080730.0698	0	900.0	1000.0	speaker	unknown	unknown	赛场上什么事情都可能发生，高度集中注意力，强的对手要硬拼，打出自己的状态来，如果靠选择队伍才出状态，那就大错特错了。”	0	0	0		
+PLA_CMN_20080730.0698	0	1300.0	1400.0	speaker	unknown	unknown	他说：“奥运会上，我们要与这么强的对手一争高低，我们还是要打出自己战术特点，在快变灵上下功夫，否则场上会很被动。”	0	0	0		

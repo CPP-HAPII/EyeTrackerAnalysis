@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.0614	0	2400.0	2500.0	speaker	unknown	unknown	该官员介绍说，一些地方政府对媒体的反应还停留在10年前，有的官员说，没有网络多好，“这些官员没有适应舆论新的发展”。	0	0	0		
+CNS_CMN_20080702.0614	0	3100.0	3200.0	speaker	unknown	unknown	该官员表示，政府官员不能随便接受别人的电话采访，接受采访要有一定的程序，“之前出问题就是新闻应对不当，在这个事情上不职业。” (来源：新闻晨报 姜鹏）	0	0	0		

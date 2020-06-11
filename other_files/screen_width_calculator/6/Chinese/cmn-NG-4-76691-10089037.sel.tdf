@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76691-10089037	0	100.0	200.0	speaker	unknown	unknown	（1）4月，春天催生花朵有一些蚊蝇虫蚋嗡嗡地飞了起来	0	0	0		
+cmn-NG-4-76691-10089037	0	400.0	500.0	speaker	unknown	unknown	（2）冒险者曾去雪山寻找那个黑盒却在狮群中沦为奴隶是一面红旗，在他们眼里点亮希冀他们向往自由，他们翻过身来，把黑盒子远远抛开	0	0	0		
+cmn-NG-4-76691-10089037	0	900.0	1000.0	speaker	unknown	unknown	他们叫嚣着要自由地回家可不知他要去那里于是这个春天他们嗡嗡地飞到半岛仿佛一只只妖娥，涌向火光	0	0	0		
+cmn-NG-4-76691-10089037	0	1400.0	1500.0	speaker	unknown	unknown	奔跑的火焰下，红旗盛开有人听见，半岛之上，龙啸千里	0	0	0		

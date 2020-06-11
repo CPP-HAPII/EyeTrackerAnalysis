@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117643-10496587	0	100.0	200.0	speaker	unknown	unknown	中国在藏区加大爱国主义教育力度英 | 大 | 中 | 小2008年04月07日12:43中国政府似乎将对藏族人加强思想教育工作，而在中国西部局势业已紧张的情况下，此举可能成了一起新发暴力冲突的导火索。	0	0	0		
+cmn-NG-31-117643-10496587	0	1700.0	1800.0	speaker	unknown	unknown	华盛顿布鲁金斯学会(Brookings Institution)的中国政治问题专家李成表示，（在西藏）很快就会展开很多政治学习、宣传和讨论活动。	0	0	0		
+cmn-NG-31-117643-10496587	0	2000.0	2100.0	speaker	unknown	unknown	伦敦大学亚非学院(School of Oriental and African Studies)的西藏问题专家布兰登*道森(BrandonDotson)表示，这些转变恰好发生在北京方面表示有可能与达赖喇嘛重开对话之际；而事实上，一旦和达赖喇嘛的谈判启动，中国政府的强硬言论会起到加强自己谈判地位的作用。	0	0	0		
+cmn-NG-31-117643-10496587	0	2100.0	2200.0	speaker	unknown	unknown	据伦敦的国际声援西藏运动(International Campaign for Tibet)及其他亲西藏组织表示，中国政府在甘孜东谷寺开展了持续数日的政治攻势，包括收缴人们手中的达赖喇嘛照片，这可能是引发上周骚乱的原因之一。	0	0	0		
+cmn-NG-31-117643-10496587	0	2300.0	2400.0	speaker	unknown	unknown	伦敦自由西藏运动(Free Tibet Campaign)的代理负责人安*霍尔姆斯(Anne Holmes)表示，一位正在东谷寺修行的僧人向该组织表示，4月3日，大约有3,000名武装警察包围了这座有着350年历史的寺庙，并进行了搜查。	0	0	0		

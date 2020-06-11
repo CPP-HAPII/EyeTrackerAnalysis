@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0027.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	伊朗南部清真寺惊传爆炸 丧生人数增至九人	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社德黑兰十二日电	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	伊朗官员表示,南部城市希拉兹一座清真寺今天遭到炸弹攻击,造成九人丧生,百余人受伤,这是伊朗非边界城市市中心首见的炸弹	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	攻击事件。	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	法斯通讯社引述地方官员的话说,这起威力强大的炸弹攻击,晚间九时许发生在清真寺的男众区,当时知名的地方伊斯兰教神职人员正在主持晚祷。	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	报导引述医院消息人士的话说:「希拉兹这起炸弹攻击造成一百零五人受伤,九人丧生」;市内所有医疗院所资源都已调往抢救伤患。	0	0	0		statement
+AFP_CMN_20080413.0027.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	报导说,因为许多被害人伤势严重,丧生人数势将增加。	0	0	0		statement

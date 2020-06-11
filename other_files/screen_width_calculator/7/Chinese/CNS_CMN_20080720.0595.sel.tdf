@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0595	0	200.0	300.0	speaker	unknown	unknown	中新网7月20日电 希腊东正教正打算将一座17世纪的修道院改建成监狱，专门关押那些被定罪的神职人员。	0	0	0		
+CNS_CMN_20080720.0595	0	900.0	1000.0	speaker	unknown	unknown	潘特雷蒙主教是到目前为止，被判刑入狱层级最高的希腊神职人员。	0	0	0		

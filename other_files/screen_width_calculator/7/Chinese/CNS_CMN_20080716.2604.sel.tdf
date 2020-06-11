@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.2604	0	300.0	400.0	speaker	unknown	unknown	已南迁市级机关妥善安置，未迁单位暂停南迁，同时继续保持南部新区新行政中心的地位不变，逐步创造条件择时安排机关整体南迁。	0	0	0		

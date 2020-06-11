@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2615	0	200.0	300.0	speaker	unknown	unknown	China News Network wired on July 17, according to a report by Hong Kong's "Wen Wei Po," a young man in Australia was killed in an argument while drinking with friends. His head was sawed off and played like a puppet, and even "rolled down a hill like a bowling ball."	0	0	0		

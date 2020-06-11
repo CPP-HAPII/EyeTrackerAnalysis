@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070123.0098	0	10010.000	10019.900				Dunga Highly Praises Scolari's Portugal	0	0	0		
+PLA_CMN_20070123.0098	0	20010.000	20019.900				(Source: Xinhua News Agency Report, Time of Release: 2007-01-23 11:13)	0	0	0		
+PLA_CMN_20070123.0098	0	30010.000	30019.900				Xinhua News Agency, Brasilia, January 22, Special Sports Wire (Correspondents Chen Weihua and Zhao Yan) Dunga, the head coach of the Brazilian national team, said on the 22nd that the Portuguese team led by former Brazilian national team head coach Scolari was a well-disciplined team, and that the Brazil-Portugal friendly on February 6 would be a difficult match.	0	0	0		
+PLA_CMN_20070123.0098	0	40010.000	40019.900				Dunga said: "Portugal have improved very quickly under Scolari's training. They are now a well-disciplined team, and they had an amazing record in the German World Cup.	0	0	0		
+PLA_CMN_20070123.0098	0	40020.000	40029.900				They will be extremely strong opponents, very difficult to beat."	0	0	0		
+PLA_CMN_20070123.0098	0	50010.000	50019.900				Since Dunga has taken over, they have played six friendlies with foreign teams, and the results have been five wins and one draw.	0	0	0		
+PLA_CMN_20070123.0098	0	50020.000	50029.900				When he was pressed on whether Brazil could continue its record of no losses, Dunga answered half-jokingly: "I've completely forgotten when Brazil last beat Portugal."	0	0	0		
+PLA_CMN_20070123.0098	0	60010.000	60019.900				The last time Brazil beat Portugal was in 1989. At that time the two teams played a friendly in preparation for the 1990 World Cup in Brazil's Rio de Janeiro. The result was a big 4-0 victory for Brazil.	0	0	0		
+PLA_CMN_20070123.0098	0	60020.000	60029.900				In 2002 and 2003 the two teams played two more friendlies in Portugal. The result in the first game was the two sides drew 1-1.	0	0	0		
+PLA_CMN_20070123.0098	0	60030.000	60039.900				By the second game Scolari had started coaching Portugal, and the home team won 2-1.	0	0	0		
+PLA_CMN_20070123.0098	0	70010.000	70019.900				Dunga announced this day the 22 players who will play in the Brazil-Portugal friendly. All of them are from European clubs, including Inter Milan forward Adriano, who has never been selected before.	0	0	0		
+PLA_CMN_20070123.0098	0	70020.000	70029.900				(End)	0	0	0		

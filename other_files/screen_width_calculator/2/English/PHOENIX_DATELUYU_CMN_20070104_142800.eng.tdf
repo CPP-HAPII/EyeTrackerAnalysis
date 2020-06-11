@@ -1,0 +1,932 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 231.666, 471.36599999999999, 562.04600000000005, 1303.0709999999999, 1362.1369999999999, 2199.377, 2359.1590000000001, 3014.8939999999998, 3186.0880000000002, 3649.7020000000002, 9999999.0]
+PHOENIX_DATELUYU_CMN_20070104_142800	0	231.666	234.853	speaker#1	female	native	I believe American ginseng is not strange to anyone,	1	1	1	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	234.853	238.582	speaker#1	female	native	let alone the name of Wisconsin American ginseng.	1	1	2	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	238.582	243.941	speaker#1	female	native	However, where are the places of origin of various American ginsengs available in the market?	1	1	3	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	243.941	246.965	speaker#1	female	native	Are they really from Wisconsin?	1	1	4	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	246.965	249.887	speaker#1	female	native	Consumers can't tell at all.	1	1	5	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	249.887	254.450	speaker#1	female	native	The only feasible way is to rely on the reputation of merchants as a guarantee.	1	1	6	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	255.348	264.510	speaker#1	female	native	Actually, American ginseng grows originally in North America. In the recent years, Asian countries, such as China and Japan, also joined to grow it.	1	1	8	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	264.510	270.348	speaker#1	female	native	However, in terms of medical effectiveness, of course, American Wisconsin ginseng is the genuine and original one.	1	1	9	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	271.217	278.733	speaker#1	female	native	In North America, ginseng is naturally distributed between 30 and 48 degrees north latitude, and between 67 and 95 degrees east longitude,	1	1	11	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	278.733	283.343	speaker#1	female	native	in broadleaf forest zones at altitudes of 300 to 500 meters.	1	1	12	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	283.343	292.115	speaker#1	female	native	Take Wisconsin as an example, the temperatures around the year are between 16 degrees and 71 degrees Fahrenheit, and the annual rainfall is 30.88 inches.	1	1	13	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	292.115	302.504	speaker#1	female	native	The annual snowfall is around 42.6 inches, the snowfall period is about 162 days, and the annual relative humidity is 61 per cent.	1	1	14	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	302.504	307.902	speaker#1	female	native	Of course, among all producing regions, Wisconsin ginseng is most well-known.	1	1	15	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	307.902	315.543	speaker#1	female	native	Geographically, although American ginseng is relatively in the same location of northern hemisphere as Asian ginseng,	1	1	16	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	315.543	318.740	speaker#1	female	native	their medical values are different.	1	1	17	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	318.740	323.021	speaker#1	female	native	Because what is emphasized on regarding medical herbs is originality.	1	1	18	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	324.039	331.644	speaker#1	female	native	Wisconsin is located at 45 degrees north latitude, a zone most suitable for growing American ginseng, and has the geographical advantage.	1	1	20	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	331.644	340.416	speaker#1	female	native	Thus, American Wisconsin ginseng is better than ginsengs from other states and Canada in terms of taste and medical effectiveness.	1	1	21	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	340.416	348.650	speaker#1	female	native	We'd better invite professor Tu and professor Huang to elaborate on the medical values and food therapies of American ginseng for us.	1	1	22	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	350.357	358.435	speaker#2	male	native	With American ginseng, we can have ah that energy, ah, physical and mental health uh, ah a young face and strong heart uh,	1	2	24	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	358.435	365.517	speaker#2	male	native	and ah, it has that ah multiple tuning effects on human bodies as nerve cells do.	1	2	25	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	365.517	371.505	speaker#2	male	native	Then clinically, we often use it for ah cardiovascular diseases.	1	2	26	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	371.505	383.146	speaker#2	male	native	For example, ah carditis's sequelae, arrhythmia ah, failure of cardiac function ah, and uh weak cardiac function,	1	2	27	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	383.146	386.215	speaker#2	male	native	people in general sub health state.	1	2	28	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	386.215	393.012	speaker#3	male	native	Its medical values and healthcare values are both the best.	1	3	29	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	393.012	402.623	speaker#3	male	native	In general, this Wisconsin ginseng, which is American ginseng, is the best among American ginsengs. Its quality is the best.	1	3	30	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	402.623	408.046	speaker#3	male	native	It has ((pw)), that is to say it ah is used widely.	1	3	31	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	408.046	414.629	speaker#3	male	native	It contributes significantly to the improvement of resistance and immunity of our bodies. Very good.	1	3	32	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	414.629	420.176	speaker#1	female	native	After we learnt the originality and medical values of American Wisconsin ginseng,	1	4	33	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	420.176	424.958	speaker#1	female	native	we certainly want to know how to tell authentic Wisconsin American ginseng.	1	4	34	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	426.036	430.833	speaker#1	female	native	In fact, it is not very hard to tell authentic Wisconsin American ginseng.	1	4	36	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	430.833	434.120	speaker#1	female	native	The simplest method is it has three characteristics.	1	4	37	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	434.120	444.330	speaker#1	female	native	First, small size, russet appearance and whitish yellow meat, intensive circular wrinkles on the surface, dark and slim.	1	4	38	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	444.330	448.976	speaker#1	female	native	Second, solid texture with soft parts, light weight.	1	4	39	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	449.809	455.827	speaker#1	female	native	Third, it smells fresh and strong, and tastes a bit bitter but turns sweet after a while in mouth.	1	4	41	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	455.827	462.593	speaker#1	female	native	If consumers don't know how to identify, the only credible method is to rely on the reputation of merchants as a guarantee.	1	4	42	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	463.282	471.366	speaker#1	female	native	Yonghefeng Co. Ltd., which has run its business in Los Angeles for 21 years, has excellent reputation and is a brand you can trust.	1	4	44	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	562.046	569.262	speaker#4	male	native	From a racing senior to a civilian star, old brother Ma never changes his nature of loveliness.	3	6	46	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	569.262	576.328	Ma_wenhui	male	native	This is not the case now. I am different now. I am a celebrity now and need to show the air of a celebrity. Otherwise, why do I need to be a celebrity?	3	7	47	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	576.328	581.208	Ma_wenhui	male	native	If I can't manage to do anything for average people, it is meaningless for me to keep boasting of myself as a celebrity all the time.	3	7	48	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	581.208	588.903	speaker#4	male	native	From a rural grandma to a cyberspace somebody, she remains pure and honest as before even under her famous title Grandma Van Gogh.	3	8	49	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	588.903	591.747	Chen_luyu	female	native	Now you know blog, and also know fans.	3	9	50	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	591.747	601.238	Chang_xiufeng	female	native	Ah, I know blog, and there are uh my fans in my blog. Ha-ha	3	10	51	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	601.238	602.046	Chen_luyu	female	native	Great.	3	11	52	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	602.046	608.663	speaker#4	male	native	Luyu and her friends Ma Wenhui and Chang Xiufeng visit Date with Luyu again.	3	12	53	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	619.172	622.922	Chen_luyu	female	native	Today uh, I have invited two old friends to the program.	3	13	55	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	622.922	628.274	Chen_luyu	female	native	Uh, why invite them again? Because both of them showed up in my program at the beginning of this year.	3	13	56	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	628.274	634.292	Chen_luyu	female	native	There are two reasons to invite them again. First, since one year nearly passed and a new year is approaching fast, we want to look back.	3	13	57	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	634.292	640.070	Chen_luyu	female	native	Second, since the fifth anniversary of my program is around the corner, I want to invite some old friends to share with us,	3	13	58	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	640.070	644.442	Chen_luyu	female	native	what kind of new stories, and what kind of new experiences they have since last meeting.	3	13	59	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	644.442	649.352	Chen_luyu	female	native	Uh, the first one is a very lovely uncle, Ma Wenhui, uncle Ma.	3	13	60	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	651.149	653.399	speaker#4	male	native	Although an aged steed lies in the stable, she still aspires to race a thousand miles.	3	14	62	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	653.399	657.055	speaker#4	male	native	In his 70s, Old Ma has a hobby, self-drive travel.	3	14	63	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	657.055	662.646	speaker#4	male	native	Self-drive travel, wait, Old Ma, you are a 70-years-old elderly uncle. Can you do it?	3	14	64	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	662.646	664.622	Ma_wenhui	male	native	No problem.	3	15	65	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	664.622	668.106	speaker#4	male	native	No problem, restless Old Ma is not so simple.	3	16	66	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	668.106	673.963	speaker#4	male	native	He not only wants to drive, but also wants to drive fast, and to race. Old Ma, can you really do it?	3	16	67	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	673.963	675.250	Ma_wenhui	male	native	Really no problem.	3	17	68	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	675.849	679.411	speaker#4	male	native	You cannot talk yourself into success. Uncle Ma didn't talk himself into success.	3	18	70	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	679.411	685.430	speaker#4	male	native	It is not thrilling to compete on the road. Thrill is the only thing he is interested in, so he visited Taklimakan Desert.	3	18	71	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	686.119	691.393	speaker#4	male	native	Old Ma, please wait. It is a deserted sea of death there.	3	18	73	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	692.047	693.185	Ma_wenhui	male	native	Absolutely no problem.	3	19	75	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	697.796	700.968	speaker#4	male	native	In April 2006, in the program studio,	3	20	77	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	700.968	705.251	speaker#4	male	native	uncle Ma came with his old treasured car and sang a song.	3	20	78	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	705.251	712.437	Ma_wenhui	male	native	I am an old man in my 70s, coming from the great desert in Xinjiang,	3	21	79	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	713.964	721.419	Ma_wenhui	male	native	I am an old man in my 70s, coming from the great desert in Xinjiang.	3	21	81	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	721.419	727.377	speaker#4	male	native	Today, uncle Ma comes with his new vehicle to the program studio again.	3	22	82	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	727.377	729.533	Chen_luyu	female	native	Uh, this is the new vehicle of uncle Ma,	3	23	83	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	729.533	731.565	Chen_luyu	female	native	with which he may have a lot of new stories.	3	23	84	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	731.565	734.802	Chen_luyu	female	native	Let's invite the very lovely uncle Ma again. Ma Wenhui, uncle Ma.	3	23	85	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	748.031	755.247	Ma_wenhui	male	native	An inch of time is an inch of gold, but you can't buy that inch of time with an inch of gold.	3	24	87	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	756.504	763.270	Ma_wenhui	male	native	An inch of time is an inch of gold, but you can't buy that inch of time with an inch of gold.	3	24	89	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	763.270	783.266	Ma_wenhui	male	native	Gold has a price and can be found, but where can the time be found. (())	3	24	90	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	783.266	788.476	Chen_luyu	female	native	Hello uncle Ma. Hello uncle Ma. Be seated, uncle Ma.	3	25	91	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	790.003	792.308	Chen_luyu	female	native	Last time we met was in summer,	3	25	93	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	792.308	793.895	Chen_luyu	female	native	Uncle Ma.	3	26	94	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	792.308	793.895	Ma_wenhui	male	native	Yes, April.	3	26	95	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	793.895	795.482	Chen_luyu	female	native	I feel you have some changes.	3	26	96	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	793.895	795.482	Ma_wenhui	male	native		3	26	97	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	795.482	796.350	Ma_wenhui	male	native	What kind of changes?	3	27	98	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	796.350	799.314	Chen_luyu	female	native	Uh, First of all, you dress much more fashionably than before.	3	28	99	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	799.314	801.799	Ma_wenhui	male	native		3	29	100	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	801.799	805.900	Chen_luyu	female	native	It's true. Was this clothes bought for the program, or for your return to home?	3	30	101	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	805.900	810.421	Ma_wenhui	male	native	I reckon eh, this clothes I dress is for this time eh. I need to meet you.	3	31	102	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	810.990	814.341	Ma_wenhui	male	native	I am afraid that you will mock at me. The old man looks older, but once you see me, you will find I am still young.	3	31	104	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	814.341	815.810	speaker#1	female	native		3	32	105	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	814.341	815.810	Chen_luyu	female	native		3	32	106	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	815.810	818.295	Chen_luyu	female	native	Then I see you have a pen clipped to your chest.	3	33	107	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	818.295	818.505	Ma_wenhui	male	native	Ah.	3	34	108	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	818.505	820.271	Chen_luyu	female	native	Are you ready to sign for others anytime?	3	35	109	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	820.271	821.678	Ma_wenhui	male	native	Ah, Sign ah, write some words ah.	3	36	110	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	821.678	822.397	Chen_luyu	female	native	Really?	3	37	111	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	822.397	823.565	Ma_wenhui	male	native	Right, right.	3	38	112	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	823.565	826.170	Chen_luyu	female	native	Ready to sign for others anytime?	3	39	113	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	823.565	826.170	Ma_wenhui	male	native	(())	3	39	114	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	826.170	830.032	Ma_wenhui	male	native	Many people I meet want my signature. If you don't sign, you feel embarrassed.	3	40	115	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	830.032	833.565	Chen_luyu	female	native	Usually the people who want your signature will bring their own pens and it is not necessary for you to prepare a pen.	3	41	116	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	833.565	836.050	Ma_wenhui	male	native	However, it is convenient for me. Ha-ha	3	42	117	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	836.050	836.831	Chen_luyu	female	native	Oh, really?	3	43	118	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	836.831	837.206	Chen_luyu	female	native	You	3	44	119	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	836.831	837.206	Ma_wenhui	male	native	Ah.	3	44	120	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	837.206	839.523	Chen_luyu	female	native	You have practiced your signature, haven't you?	3	45	121	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	839.523	842.936	Ma_wenhui	male	native	No, I haven't. It is OK to sign my name casually. Just a signature.	3	46	122	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	842.936	845.331	Chen_luyu	female	native	You take special care of this new car. It looks	3	47	123	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	845.331	846.618	Chen_luyu	female	native	shining.	3	48	124	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	845.331	846.618	Ma_wenhui	male	native	My uh car,	3	48	125	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	846.618	850.810	Ma_wenhui	male	native	My car, uh after I brought it home, my wife could not be happier.	3	49	126	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	850.810	851.169	Chen_luyu	female	native	Uh-huh.	3	50	127	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	851.169	854.387	Ma_wenhui	male	native	No way out. My wife has a bit temper from time to time.	3	51	128	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	854.387	856.708	Ma_wenhui	male	native	She is reluctant to let me find it.	3	51	129	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	856.708	861.504	Ma_wenhui	male	native	Eh, Once she saw I drove the car home, I told her this car was a reward to us, she said, really?	3	51	130	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	861.504	863.834	Ma_wenhui	male	native	Then, she got in and never got out.	3	51	131	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	863.834	867.876	Ma_wenhui	male	native	Keep wiping it day and night. Keep wiping it day and night. She even cooks better and gets everything handled.	3	51	132	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	867.876	870.032	Chen_luyu	female	native	Oh, she even cooks better. All for this car.	3	52	133	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	867.876	870.032	Ma_wenhui	male	native	eh.	3	52	134	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	870.032	878.266	Ma_wenhui	male	native	Alas, old man, you have to treasure this car. I, I tell you, you know, I have given birth to four boys and two girls. My six kids, my six kids.	3	53	135	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	878.925	880.566	Ma_wenhui	male	native	None of them bought me a car,	3	53	137	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	881.347	883.176	Ma_wenhui	male	native	even a wheel.	3	53	139	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	883.805	887.039	Chen_luyu	female	native	Despite the fact that they never bought you a wheel, they always live on your food, maybe.	3	54	141	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	883.805	887.039	Ma_wenhui	male	native	So, ah, right.	3	54	142	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	887.039	893.776	Ma_wenhui	male	native	Now eh, you know, after I was advertised via the media, via your place,	3	55	143	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	893.776	894.105	Chen_luyu	female	native	Uh-huh.	3	56	144	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	894.105	897.230	Ma_wenhui	male	native	via your media, I got such a car.	3	57	145	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	897.230	900.123	Ma_wenhui	male	native	You tell me, if I don't wear this clothes today, what else should I wear.	3	57	146	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	900.123	903.237	Chen_luyu	female	native	Ha-ha	3	58	147	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	900.123	903.237	Ma_wenhui	male	native	Ha-ha	3	58	148	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	903.237	906.740	Chen_luyu	female	native	Happy, ha, the key is your wife treats you better than before. This is a good thing.	3	59	149	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	906.740	907.638	Ma_wenhui	male	native	So so, right.	3	60	150	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	907.638	911.747	Chen_luyu	female	native	After interviewing uncle Ma, when many other reporters interviewed me and asked me, among so many people you have interviewed,	3	61	151	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	911.747	915.243	Chen_luyu	female	native	who touched you most, I usually took you as the example.	3	61	152	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	915.243	920.872	Chen_luyu	female	native	I remembered during my interview with him, one point touched me a lot, uh that is when we talked of uncle Ma's first love.	3	61	153	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	921.770	923.424	Chen_luyu	female	native	It's true. It's true.	3	61	155	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	923.993	929.831	Chen_luyu	female	native	When talking of uncle Ma's first love, he might have wept at that moment, and I felt my eyes were also wet at that moment.	3	61	157	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	930.400	932.998	Chen_luyu	female	native	Nearly all on-site audience were touched by uncle Ma.	3	61	159	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	934.914	942.489	speaker#4	male	native	Over fifty years ago when uncle Ma was still a freight driver, he fell in love with a Xinjiang girl living in the desert during his travel.	3	62	161	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	944.435	949.764	speaker#4	male	native	In one year or so, they met and parted again and again, but failed to get together finally.	3	62	163	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	950.962	958.178	speaker#4	male	native	Nowadays, every time uncle Ma mentioned this experience of love that has been sealed for many years, he cannot let it go yet.	3	62	165	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	959.465	961.800	Ma_wenhui	male	native	This thing has passed eh for fifty years.	3	63	167	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	962.579	965.969	Ma_wenhui	male	native	I raced by that place and didn't get a chance to drop in. That time	3	63	169	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	965.969	970.693	Ma_wenhui	male	native	I found the whole road was changed. After being changed, the whole road was changed to a highway.	3	63	170	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	970.693	978.238	Ma_wenhui	male	native	Alas, at sight of that tree I thought of the girl. I believe uh, I am already in my 70s, and my affection over fifty years ago still exists.	3	63	171	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	978.238	984.106	Ma_wenhui	male	native	I ((pw)), my eyes were wet, eyes were wet, but I didn't cry, eyes were wet.	3	63	172	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	985.873	987.250	Chen_luyu	female	native	Uncle Ma's first love.	3	64	174	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	993.328	999.256	Chen_luyu	female	native	uh, I learned after that episode of program was broadcast, someone wants to publish a book about this first love story for you. Is it true?	3	64	176	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	999.256	1007.340	Ma_wenhui	male	native	Ah, publish a book, they said they wanted to write a book for me, write a book eh, and asked me eh to record my story using a recorder, because he was old, too.	3	65	177	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1007.340	1013.230	Ma_wenhui	male	native	He said, after recording eh, you can eh, tell everything you want to say, what, what happened.	3	65	178	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1013.230	1018.388	Ma_wenhui	male	native	With the tape oh, we will take our time to write the book. He said this was a good textbook.	3	65	179	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1018.388	1027.178	Ma_wenhui	male	native	This is you Old Ma (()), in our China eh, there still exists the feeling of over fifty years with an old man in his 70s. What does it mean, it is very rare.	3	65	180	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1027.755	1031.916	Ma_wenhui	male	native	I do want to go to that place only, and I told him. Alas, now I meet you eh, I also want to say a few words.	3	65	182	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1032.575	1039.072	Ma_wenhui	male	native	One thing that tortured me most is the moment when I bid farewell to her for the last time.	3	65	184	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1039.072	1048.234	Ma_wenhui	male	native	Now I would like to ask, ha, Luyu, someone ever said, the woman, how could she figure out what would happen eh. There must have been something mysterious.	3	65	185	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1048.234	1048.623	Chen_luyu	female	native	Right.	3	66	186	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1048.623	1050.045	Ma_wenhui	male	native	Until now, I still feel very weird.	3	67	187	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1050.045	1054.436	Ma_wenhui	male	native	Every time I left, went home, or I started the vehicle to resume my trip,	3	67	188	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1054.436	1058.294	Ma_wenhui	male	native	I was a young man eh. She saw me off when I started the vehicle to resume my trip.	3	67	189	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1058.294	1067.306	Ma_wenhui	male	native	That, that road eh, was unsealed. Once the vehicle was started eh, dirt clouded up. There was so much dirt that I could not see her. I could not see her after dirt clouded up. In this way I drove away.	3	67	190	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1067.306	1075.031	Ma_wenhui	male	native	She never cried before, but this time, I would never go back again, I didn't know I would never go back, she said so, she said you would not come back.	3	67	191	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1075.690	1083.924	Ma_wenhui	male	native	She caught hold of my truck, insisted on not getting off and kept crying, ((pw)) eh.	3	67	193	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1088.954	1096.858	Ma_wenhui	male	native	Alas, about this, I would like to ask ah, Luyu, sometimes I want to ask, how did she know I would never come back?	3	67	195	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1097.457	1099.373	Chen_luyu	female	native	This is women, uncle Ma.	3	68	197	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1099.373	1099.762	Ma_wenhui	male	native	Alas.	3	69	198	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1099.762	1101.618	Chen_luyu	female	native	We women have such tuition.	3	70	199	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1101.618	1105.211	Chen_luyu	female	native	It is true. Very strange.	3	71	200	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1101.618	1105.211	Ma_wenhui	male	native		3	71	201	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1105.211	1109.103	Ma_wenhui	male	native	What make me sad now is why she knew I would never go back.	3	72	202	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1110.031	1114.791	Ma_wenhui	male	native	I didn't go back to her place until I was in my 70s. I feel very sad.	3	72	204	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1115.480	1119.220	Ma_wenhui	male	native	This is one. The other is eh, if she could wear such a suite of clothes,	3	72	206	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1119.856	1122.309	Ma_wenhui	male	native	I eh, I Old Ma would feel content.	3	72	208	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1122.309	1125.606	Ma_wenhui	male	native	It appeared that she left without wearing it.	3	72	209	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1125.606	1126.857	Ma_wenhui	male	native	Tell me how I can not feel sad.	3	72	210	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1127.995	1130.714	Ma_wenhui	male	native	As long as I look at this video,	3	72	212	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1130.714	1133.564	Ma_wenhui	male	native	as long as I mention this story, I cannot contain my feeling.	3	72	213	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1134.283	1135.840	Chen_luyu	female	native	Where is she, uncle Ma?	3	73	215	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1135.840	1142.038	Ma_wenhui	male	native	She is on the verge of the desert, on the verge of the desert. (()) Now there are great changes, great changes.	3	74	216	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1142.038	1148.685	Ma_wenhui	male	native	It has been more than 50 years since then. Now she may have, also in her sixties if she is still alive now, passed away eh. Don't know.	3	74	217	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1148.685	1153.685	Ma_wenhui	male	native	In this aspect, my desert is also very large. Its perimeter is more than 4000 kilometers.	3	74	218	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1153.685	1156.260	Ma_wenhui	male	native	Not sure about this, I believe.	3	75	219	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1153.685	1156.260	Chen_luyu	female	native	Sure, she is still alive; sure, she is still alive.	3	75	220	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1156.260	1161.604	Ma_wenhui	male	native	Try to find her, through ((pw)), uh, uh, various media, radio station. Can I find her?	3	76	221	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1161.604	1166.410	Ma_wenhui	male	native	Let's meet even if I (()) give the car to her.	3	76	222	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1166.410	1167.757	Chen_luyu	female	native	Give the car to her?	3	77	223	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1166.410	1167.757	Ma_wenhui	male	native	I ((pw))	3	77	224	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1167.757	1168.655	Ma_wenhui	male	native	give it to her.	3	78	225	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1168.655	1170.362	Chen_luyu	female	native	So, in case she finds	3	79	226	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1168.655	1170.362	Ma_wenhui	male	native	I am content eh, ah.	3	79	227	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1170.362	1172.009	Chen_luyu	female	native	you, we give the car to	3	80	228	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1172.009	1173.985	Chen_luyu	female	native	her, and ask that factory to give you another car.	3	81	229	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1172.009	1173.985	Ma_wenhui	male	native	We can give it to her, eh, right.	3	81	230	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1173.985	1176.290	Ma_wenhui	male	native	It doesn't matter whether he gives me another or not. Anyway, I, Old Ma, want to give it to her.	3	82	231	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1176.290	1178.476	Chen_luyu	female	native	Be assured. They will feel embarrassed if they don't offer what we asked for here.	3	83	232	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1178.476	1180.272	Ma_wenhui	male	native		3	84	233	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1180.272	1184.404	Chen_luyu	female	native	However, last time your wife ((pw)), your family were not there, I also said at that time,	3	85	234	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1184.404	1184.673	Ma_wenhui	male	native	Uh-huh.	3	86	235	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1184.673	1188.296	Chen_luyu	female	native	although this story was very moving, I was afraid that you wife would feel jealous after hearing of it.	3	87	236	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1188.296	1189.164	Chen_luyu	female	native	After back home,	3	88	237	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1188.296	1189.164	Ma_wenhui	male	native	my wife.	3	88	238	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1189.164	1190.182	Chen_luyu	female	native	Did your wife feel jealous?	3	89	239	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1190.182	1195.960	Ma_wenhui	male	native	my wife eh, regarding this affair eh, I ever confessed in face of her before, and I also sobbed sometime.	3	90	240	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1195.960	1200.927	Ma_wenhui	male	native	I told her eh, look, why I treat that girl in this way, this is also the way I treat you.	3	90	241	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1201.429	1203.176	Ma_wenhui	male	native	The heart of I Old Ma is like that.	3	90	243	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1203.176	1204.426	Ma_wenhui	male	native	I am loyal.	3	90	244	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1204.426	1209.613	Ma_wenhui	male	native	I always keep the most intense affection.	3	90	245	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1209.613	1218.125	Ma_wenhui	male	native	Even for a piece of ice, a piece of stone, it is always transparent and beautiful. There is absolutely nothing like pollution in it.	3	90	246	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1218.125	1218.993	Chen_luyu	female	native	Does she understand you?	3	91	247	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1218.993	1223.977	Ma_wenhui	male	native	She understands me well. She also feels sad. She also feels sad. She got divorced too.	3	92	248	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1223.977	1228.634	Ma_wenhui	male	native	She feels sad. She said, alas! Why not look for me when you were young.	3	92	249	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1228.634	1232.462	Ma_wenhui	male	native	I said, alas! I don't know. The god didn't arrange me to visit that place eh.	3	92	250	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1232.462	1235.790	Ma_wenhui	male	native	We get together when we are old. Ha-ha.	3	92	251	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1235.790	1236.598	Chen_luyu	female	native	Uh, in case	3	93	252	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1236.598	1236.898	Ma_wenhui	male	native	Uh-huh.	3	94	253	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1236.898	1239.682	Chen_luyu	female	native	What if your previous first lover comes back and finds you?	3	95	254	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1239.682	1242.317	Ma_wenhui	male	native	She finds me. I will take good care of her.	3	96	255	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1242.317	1243.335	Ma_wenhui	male	native	Take good care.	3	97	256	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1242.317	1243.335	Chen_luyu	female	native	How about	3	97	257	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1243.335	1243.904	Chen_luyu	female	native	your old wife?	3	98	258	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1243.904	1247.092	Ma_wenhui	male	native	My old wife, I am also with her. We cannot be like that.	3	99	259	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1247.092	1248.094	Ma_wenhui	male	native	How can we be like that?	3	100	260	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1247.092	1248.094	Chen_luyu	female	native	Can't	3	100	261	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1248.094	1249.324	Chen_luyu	female	native	Can't be like that?	3	101	262	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1249.324	1253.635	Ma_wenhui	male	native	can't or, uh, can't feel jealous ah.	3	102	263	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1253.635	1254.473	Chen_luyu	female	native	Can't feel jealous.	3	103	264	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1254.473	1257.617	Ma_wenhui	male	native	Can't feel jealous, this, this is something in the past.	3	104	265	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1254.473	1257.617	Chen_luyu	female	native	Why can't she feel jealous. People all feel jealous.	3	104	266	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1257.617	1260.632	Ma_wenhui	male	native	Even if you kill me now, my affection will not change (()).	3	105	267	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1260.632	1264.367	Ma_wenhui	male	native	Your efforts are useless ah, ((pw)). Your jealousy is certainly futile.	3	105	268	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1264.367	1265.551	Ma_wenhui	male	native	what kind of benefits will your jealousy bring you?	3	105	269	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1265.551	1274.090	Ma_wenhui	male	native	I am, like that welding machine, welded. I was welded but loosened, so I got welded again and will not become loosened any more. Just like that.	3	105	270	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1274.090	1275.258	Chen_luyu	female	native	So your old wife has to understand.	3	106	271	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1275.258	1276.156	Ma_wenhui	male	native	Eh, has to understand.	3	107	272	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1276.156	1277.054	Chen_luyu	female	native	However, she does understand.	3	108	273	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1277.054	1277.773	Ma_wenhui	male	native	Understands.	3	109	274	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1279.599	1282.653	Ma_wenhui	male	native	I want to meet, ha, Chairman Hu and Wen Jiabao.	3	109	276	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1282.653	1283.791	Chen_luyu	female	native	You add a premier ah.	3	110	277	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1283.791	1285.108	Ma_wenhui	male	native	Ah, premier. I don't care.	3	111	278	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1285.108	1287.503	Chen_luyu	female	native	You wanted to meet the Chairman only last year, but add the premier this year.	3	112	279	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1285.108	1287.503	Ma_wenhui	male	native	Ah, uh-huh.	3	112	280	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1287.503	1291.784	Ma_wenhui	male	native	I said, what happens to your patients in your hospital? Talk like a bureaucrat.	3	113	281	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1291.784	1293.910	Chen_luyu	female	native	Oops, you know how to talk like a bureaucrat.	3	114	282	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1291.784	1293.910	Ma_wenhui	male	native	(()) ah.	3	114	283	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1293.910	1295.736	Ma_wenhui	male	native	It didn't work without talking in this way. I needed to bluff them.	3	115	284	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1301.185	1303.071	Ma_wenhui	male	native	You must appear to be who you pretend to be.	3	115	286	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1362.137	1366.538	Chen_luyu	female	native	In the last program, uncle Ma told us his biggest wish. Let's see what it is.	5	117	288	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1367.496	1370.340	Ma_wenhui	male	native	We in the past eh, there was an old man in our Xinjiang.	5	118	290	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1370.340	1370.700	Chen_luyu	female	native	Uh-huh.	5	119	291	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1370.700	1376.718	Ma_wenhui	male	native	He was called Uncle Kuerban. Uncle Kuerban eh, ever rode a donkey to Beijing to meet Chairman Mao.	5	120	292	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1377.407	1379.353	Ma_wenhui	male	native	In his meeting with Chairman Mao, Chairman Mao shook hands with him.	5	120	294	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1379.353	1379.892	Chen_luyu	female	native	Uh-huh.	5	121	295	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1379.892	1382.317	Ma_wenhui	male	native	There is a monument for this. There is a monument in Xinjiang.	5	122	296	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1382.946	1389.653	Ma_wenhui	male	native	This is what I read from that monument. What I wonder is when I Old Ma can shake hands with Chairman Hu.	5	122	298	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1393.875	1399.953	speaker#4	male	native	He hasn't realized his dream so far, but Old Ma has made a significant step.	5	123	300	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1401.360	1405.971	Chen_luyu	female	native	In this April when we met, the biggest wish of uncle Ma was to shake hands with Chairman Hu.	5	124	302	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1405.971	1406.480	Ma_wenhui	male	native	Yes, it was.	5	125	303	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1406.480	1407.648	Chen_luyu	female	native	So far, have you shaken hands with	5	126	304	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1407.648	1408.696	Chen_luyu	female	native	Chairman Hu?	5	127	305	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1407.648	1408.696	Ma_wenhui	male	native	He um	5	127	306	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1408.696	1415.822	Ma_wenhui	male	native	uh, chairman eh, the chairman told me, he said eh, you can visit me anytime. If you turn to me for any help, you can visit me without notice.	5	128	307	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1415.822	1416.556	Chen_luyu	female	native	Let me explain a bit.	5	129	308	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1416.556	1418.307	Chen_luyu	female	native	This is the chairman of Xinjiang Autonomous Region.	5	130	309	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1416.556	1418.307	Ma_wenhui	male	native	Ah, ah, ah.	5	130	310	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1418.307	1419.115	Ma_wenhui	male	native	The Chairman of the autonomous region.	5	131	311	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1419.115	1420.762	Chen_luyu	female	native	Uh, how did you make it happen?	5	132	312	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1420.762	1423.246	Ma_wenhui	male	native	He heard about me eh, and asked me to his place.	5	133	313	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1423.246	1429.624	Ma_wenhui	male	native	He said, you come to my office. He told me that we had already met once.	5	133	314	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1429.624	1433.791	Ma_wenhui	male	native	He said, you come to my office. I will talk with you. I said OK. When I was there, they didn't let me in.	5	133	315	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1434.442	1444.534	Ma_wenhui	male	native	He said eh-eh, chairman is out, chairman is out for a long time. I told him, I am invited by Chairman. I said, I want to meet him. Can you pass the message to Chairman? No message. No. Go away.	5	133	317	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1444.534	1448.643	Ma_wenhui	male	native	Once I heard the underling said so, I doubted whether the Chairman's words counted or not?	5	133	318	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1448.643	1451.477	Ma_wenhui	male	native	If his words didn't count, it was fine with me. I said, what kind of Chairman he is.	5	133	319	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1451.477	1457.734	Ma_wenhui	male	native	I will teach him, eh. How can you talk this way? I am the ((hero)) in the future. It was not I, but he asked me to be here.	5	133	320	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1458.363	1462.046	Ma_wenhui	male	native	Why can't I meet him. Tell me, is it difficult to meet a senior official.	5	133	322	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1462.046	1463.393	Chen_luyu	female	native	It is very difficult to meet a senior official.	5	134	323	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1462.046	1463.393	Ma_wenhui	male	native	I ((pw)), ah.	5	134	324	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1463.393	1467.721	Ma_wenhui	male	native	After I left eh, around 10:30 on the morning of the next day, eh, at 9:30 he rang me.	5	135	325	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1467.721	1474.561	Ma_wenhui	male	native	The chairman made the call himself, come, uh uncle Ma, please come. I didn't know. I have told them to let you, you, you in.	5	135	326	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1474.561	1474.950	Chen_luyu	female	native	Uh-huh.	5	136	327	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1474.561	1474.950	Ma_wenhui	male	native	I	5	136	328	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1474.950	1478.243	Ma_wenhui	male	native	went to talk with the chairman, and he asked me, do you, you have any request?	5	137	329	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1478.842	1483.389	Ma_wenhui	male	native	Alas, I said, I don't have any other request except my biggest wish. In one sentence,	5	137	331	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1483.389	1486.387	Ma_wenhui	male	native	I want to meet, ha, Chairman Hu, as well as Wen Jiabao.	5	137	332	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1486.387	1487.356	Chen_luyu	female	native	You add a premier	5	138	333	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1487.356	1487.794	Chen_luyu	female	native	?	5	139	334	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1487.356	1487.794	Ma_wenhui	male	native	ah.	5	139	335	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1487.794	1488.932	Ma_wenhui	male	native	Premier, I don't care.	5	140	336	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1488.932	1489.857	Chen_luyu	female	native	Last year you wanted to	5	141	337	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1488.932	1489.857	Ma_wenhui	male	native	ah,	5	141	338	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1489.857	1491.207	Chen_luyu	female	native	meet the President only, but add the premier this year.	5	142	339	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1491.207	1493.035	Ma_wenhui	male	native	Meeting them once is enough for me to feel honored.	5	143	340	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1493.035	1498.932	Ma_wenhui	male	native	I want to come back in this way, uh so I went back. He said, do you have any other request. I said no, and we took a photo together.	5	143	341	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1498.932	1503.932	Ma_wenhui	male	native	Uh, he invited me to his dinner on the afternoon. I was too shy to be there. I have not gone to his dinner by now.	5	143	342	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1503.932	1506.776	Ma_wenhui	male	native	Because he is the chairman, although he invited me, I should	5	143	343	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1506.776	1507.573	Ma_wenhui	male	native	know who I am.	5	144	344	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1506.776	1507.573	Chen_luyu	female	native	Uh-huh.	5	144	345	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1507.573	1510.998	Ma_wenhui	male	native	I can't go to the Chairman's office everyday, so I decided not to go.	5	145	346	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1510.998	1517.641	Ma_wenhui	male	native	After the visit, my wife said, why not (()). Is there anything wrong with your mind? I asked, Why? You should have asked for a house from the chairman.	5	145	347	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1517.641	1519.800	Chen_luyu	female	native	Ask for a house from the chairman?	5	146	348	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1517.641	1519.800	Ma_wenhui	male	native	My wife.	5	146	349	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1519.800	1523.034	Ma_wenhui	male	native	Alas, I said, it would be embarrassing.	5	147	350	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1523.034	1525.788	Chen_luyu	female	native	All become commodity housing, uncle Ma. The chairman doesn't have houses either.	5	148	351	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1523.034	1525.788	Ma_wenhui	male	native	(()) ah, ah.	5	148	352	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1525.788	1527.600	Ma_wenhui	male	native	Maybe, the chairman's words still count.	5	149	353	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1527.600	1530.679	Ma_wenhui	male	native	Chairman eh, he looks after the whole Xinjiang. Do you know how large Xinjiang is?	5	149	354	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1530.679	1532.794	Ma_wenhui	male	native	Over there, his words is far more worth than a house.	5	149	355	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1532.794	1537.165	Chen_luyu	female	native		5	150	356	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1537.165	1543.812	Ma_wenhui	male	native	Didn't he ((pw)). In the past, didn't he give it to the guy, give it to um Adili, who is the tight, tightrope	5	151	357	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1543.812	1544.740	Chen_luyu	female	native	Adili, ah.	5	152	358	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1543.812	1544.740	Ma_wenhui	male	native	walker, eh.	5	152	359	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1544.740	1546.057	Ma_wenhui	male	native	Gave him a house.	5	153	360	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1546.057	1547.182	Chen_luyu	female	native	That was not given by the Chairman,	5	154	361	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1546.057	1547.182	Ma_wenhui	male	native	ah.	5	154	362	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1547.182	1548.662	Chen_luyu	female	native	but an award from the government	5	155	363	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1548.662	1549.530	Chen_luyu	female	native	to him.	5	156	364	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1548.662	1549.530	Ma_wenhui	male	native	He also,	5	156	365	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1549.530	1550.518	Ma_wenhui	male	native	I am the same eh.	5	157	366	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1550.518	1552.434	Chen_luyu	female	native	Yes, in the further the government may reward you too.	5	158	367	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1550.518	1552.434	Ma_wenhui	male	native	Ah, eh.	5	158	368	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1552.434	1559.500	Ma_wenhui	male	native	I told my wife, Be easy. Now it is time for us to take action. We'd rather do our own business better.	5	159	369	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1559.500	1563.572	Ma_wenhui	male	native	Particularly, I become a celebrity now, and need to do what the celebrities do.	5	159	370	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1563.572	1566.207	Chen_luyu	female	native	Right. What kind of good things have you done after being a celebrity? Please share with us.	5	160	371	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1563.572	1566.207	Ma_wenhui	male	native	Ah, you know, we	5	160	372	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1566.207	1572.944	Ma_wenhui	male	native	Xinjiang. All vehicles stopped up there. Where the traffic was blocked, um (()) there were two people, a young woman and an elderly woman,	5	161	373	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1572.944	1573.812	Ma_wenhui	male	native	crying.	5	162	374	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1572.944	1573.812	Chen_luyu	female	native	Uh-huh.	5	162	375	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1573.812	1579.261	Ma_wenhui	male	native	At a glance, the others didn't pay much attention to them, and might believe, but I didn't think they were beggars.	5	163	376	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1579.261	1581.605	Ma_wenhui	male	native	They might be farmers because they were wearing farmers' clothes.	5	163	377	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1581.605	1589.890	Ma_wenhui	male	native	I kept watching ah, ((pw)), I kept watching without saying anything. Later, since it had been a long time, say about two hours, that the traffic didn't move, I ((pw)) (()), got off the car due to my curiosity.	5	163	378	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1589.890	1593.108	Ma_wenhui	male	native	I said, eh, what's wrong, young woman. Why are you crying?	5	163	379	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1593.108	1596.477	Ma_wenhui	male	native	She said and coughed. She said, I have lung problems.	5	163	380	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1596.477	1598.696	Ma_wenhui	male	native	Ah, I said, tell me, what are you crying for?	5	163	381	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1598.696	1605.280	Ma_wenhui	male	native	She said, I said, are you all right? She said no. I came to this hospital to see doctors eh. A few women came up and talked to me.	5	163	382	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1605.280	1605.609	Chen_luyu	female	native	Uh-huh.	5	164	383	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1605.609	1607.937	Ma_wenhui	male	native	She said the hospital she recommended was better.	5	165	384	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1607.937	1617.855	Ma_wenhui	male	native	How good they are to treat the disease, how good they are, how good they are. After her introduction, I followed her to the hospital. She asked for 6000 uh, 5600 yuan as the deposit to her hospital, ((pw)) ah,	5	165	385	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1618.424	1620.071	Ma_wenhui	male	native	and wrote a receipt slip and passed it to me.	5	165	387	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1620.071	1620.462	Ma_wenhui	male	native	She asked	5	166	388	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1620.071	1620.462	Chen_luyu	female	native	Uh-huh.	5	166	389	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1620.462	1622.587	Ma_wenhui	male	native	me to see doctors tomorrow. I feel worried.	5	167	390	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1622.587	1628.875	Ma_wenhui	male	native	As soon as I saw the hospital eh, that kind of hospital, I regretted I gave her the money. I went to ask for my money back, but she refused to refund. Now, tell me what to do?	5	167	391	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1628.875	1632.378	Ma_wenhui	male	native	We, look, have no people to turn to, and we are cornered.	5	167	392	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1632.378	1639.713	Ma_wenhui	male	native	Eh, I felt it was the time for me, the celebrity, to show up. (()) So, I pulled over, and asked which hospital? Let's go.	5	167	393	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1639.713	1642.869	Ma_wenhui	male	native	Since the car could not move, I locked it up and went there.	5	167	394	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1642.869	1646.689	Ma_wenhui	male	native	(()) It was really far away. The distance was around two kilometers.	5	167	395	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1646.689	1654.503	Ma_wenhui	male	native	After we got there, that hospital, and entered that hospital, I said, what happens to your patients in this hospital? (()) Talk like a bureaucrat.	5	167	396	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1654.503	1656.629	Chen_luyu	female	native	Oops, you know how to talk like a bureaucrat.	5	168	397	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1654.503	1656.629	Ma_wenhui	male	native	(()) Ah.	5	168	398	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1656.629	1660.851	Ma_wenhui	male	native	It didn't work without talking in this way. I needed to bluff them.	5	169	399	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1664.055	1665.792	Ma_wenhui	male	native	You must appear to be who you pretend to be.	5	169	401	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1665.792	1666.331	Chen_luyu	female	native		5	170	402	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1666.331	1668.996	Ma_wenhui	male	native	Am I right? You must look like a fat guy if you pretend to be a fat guy. You must look like a slim guy if you pretend to be a slim guy.	5	171	403	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1668.996	1669.416	Chen_luyu	female	native		5	172	404	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1669.416	1675.464	Ma_wenhui	male	native	You, it didn't allow you to be a bad actor. I pretended to be a bureaucrat and said, how can your hospital, (()).	5	173	405	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1676.063	1681.485	Ma_wenhui	male	native	Um, the doctor came up to us and said, alas, what's wrong. I treated her.	5	173	407	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1681.485	1684.656	Ma_wenhui	male	native	I asked, are you ((pw)), a doctor. He said, I am a retired doctor.	5	173	408	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1684.656	1691.542	Ma_wenhui	male	native	Eh, you didn't treat her and give her any medicine, but took her 6000, 5600 yuan, did you?	5	173	409	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1692.141	1696.812	Ma_wenhui	male	native	Do you think no one will look after her? What's going on? Ah, you know socialism, don't you?	5	173	411	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1697.561	1700.250	Ma_wenhui	male	native	Come on, return the money to her, right now.	5	173	413	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1701.029	1702.830	Ma_wenhui	male	native	He ((pw)) (()) Look, who am I?	5	173	415	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1703.592	1705.765	Ma_wenhui	male	native	Look, this is the photo I took with the chairman. Have a close look, please.	5	173	417	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1705.765	1706.963	Ma_wenhui	male	native		5	173	418	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1706.963	1708.520	Chen_luyu	female	native	Do you change your business card again?	5	174	419	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1708.520	1712.801	Ma_wenhui	male	native	I didn't bring the chairman's photo with me. As for that business card, it was presented to me by the Chairman during the photo time.	5	175	420	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1712.801	1713.849	Chen_luyu	female	native	Oh.	5	176	421	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1713.849	1719.178	Ma_wenhui	male	native	He knew the Chairman's business card only. Eh, (()) as if the Chairman was with me, he was scared.	5	177	422	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1719.178	1729.717	Ma_wenhui	male	native	You know, once I showed the card, he went inside and reported to the dean. The dean said, no problem. Ah, eh, please be seated, Mr. Ma. We saw you before. Do you think we can...	5	177	423	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1729.717	1735.974	Ma_wenhui	male	native	I said, now, I tell you if you return the money to us, nothing will happen. Otherwise, I let excavators to dig down your hospital.	5	177	424	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1737.561	1741.061	Ma_wenhui	male	native	I am telling you the truth. I am not bluffing.	5	177	426	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1741.061	1744.807	Ma_wenhui	male	native	Do you think average people can make easy money? Ah.	5	177	427	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1744.807	1750.994	Ma_wenhui	male	native	They dig potatoes and sell them (()). Sell them after washing them clean.	5	177	428	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1750.994	1757.242	Ma_wenhui	male	native	One year toil earns such small amount of money only. (())	5	177	429	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1757.242	1761.853	Ma_wenhui	male	native	Ah! You guys know it is good to eat meat only, but don't know the hard work of others (()). Will you return the money?	5	177	430	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1761.853	1768.380	Ma_wenhui	male	native	Ah! Sure, sure, uh, we wait, uh, the person in charge of the money is out. The person in charge of the money is out? You take the money out of your own pocket. I don't have time to	5	177	431	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1769.458	1772.428	Ma_wenhui	male	native	audit you. Give me the receipt slip. You didn't even stamp a seal on the slip.	5	177	433	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1772.967	1774.889	Ma_wenhui	male	native	How can you receive others' deposit in this way?	5	177	435	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1774.889	1777.392	Ma_wenhui	male	native	(()) Then, they were frightened, and returned the money.	5	177	436	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1777.392	1781.189	Ma_wenhui	male	native	After getting out, the woman stood on her knees, grandpa, I will never forget you.	5	177	437	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1781.189	1788.224	Ma_wenhui	male	native	Stand up. (()). You cannot make money. It is because you don't have the skills. You cannot retain your own money. What are you going to be.	5	177	438	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1788.224	1792.459	Ma_wenhui	male	native	You don't have (()) the skill eh, and cannot retain your own money. What are you going to be.	5	177	439	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1792.459	1796.379	Ma_wenhui	male	native	What do you live for in the world? You kept coughing.	5	177	440	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1796.379	1797.577	Ma_wenhui	male	native	(())	5	178	441	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1796.379	1797.577	Chen_luyu	female	native	Ha-ha	5	178	442	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1797.577	1801.201	Ma_wenhui	male	native	Go to the big hospital. Go to the People's Hospital. Get your illness treated in a regulated hospital.	5	179	443	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1801.201	1804.972	Ma_wenhui	male	native	Never deal with this kind of small hospital (()).	5	179	444	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1805.511	1810.499	Ma_wenhui	male	native	That hospital, that dean said to me, Alas, Mr. Ma, look!	5	179	446	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1810.499	1813.890	Ma_wenhui	male	native	We are not (()) on this issue ah, but this issue eh, this problem,	5	179	447	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1813.890	1818.745	Ma_wenhui	male	native	you'd better not report it to the leadership. We invite you to a dinner.	5	179	448	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1818.745	1823.296	Chen_luyu	female	native		5	180	449	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1818.745	1823.296	Ma_wenhui	male	native	(())	5	180	450	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1823.296	1825.631	Chen_luyu	female	native	You, you are way too awesome.	5	181	451	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1825.631	1827.302	Ma_wenhui	male	native	Did a good thing for the people.	5	182	452	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1827.302	1831.099	Ma_wenhui	male	native	You, when you do a good thing, you also need to show some charisma ah.	5	182	453	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1831.099	1835.661	Ma_wenhui	male	native	Without some charisma, without the ability, you can't make it.	5	182	454	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1835.661	1839.224	Chen_luyu	female	native	Did you talk like that before? Talk like a bureaucrat and bluff others.	5	183	455	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1839.224	1841.537	Ma_wenhui	male	native	I was not like that before, but I am different now.	5	184	456	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1841.537	1846.260	Ma_wenhui	male	native	Now I am a celebrity, and need to show the air of a celebrity. Otherwise, why do I need to be a celebrity?	5	184	457	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1846.260	1850.871	Ma_wenhui	male	native	I can't manage to do anything for average people. It is meaningless for me to keep boasting of myself as a celebrity all the time.	5	184	458	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1850.871	1857.997	Ma_wenhui	male	native	Am I right? Like you, Luyu. Right? What do you Luyu do? You promote good things in the society. Everyone respects you.	5	184	459	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1857.997	1858.985	Chen_luyu	female	native	Un, I haven't learnt to	5	185	460	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1857.997	1858.985	Ma_wenhui	male	native	Anyone see you.	5	185	461	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1858.985	1859.883	Chen_luyu	female	native	talk like a bureaucrat.	5	186	462	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1859.883	1863.367	Ma_wenhui	male	native	You didn't learn to talk like a bureaucrat. You are not to talk like a bureaucrat. It is your job.	5	187	463	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1863.367	1866.620	Ma_wenhui	male	native	If talking like a bureaucrat is your job, you will also talk in that way. Ha-ha	5	187	464	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1866.620	1872.069	Chen_luyu	female	native	Anyway, I will never learn your tone, are your hospital going to return the medicine fee? If not, I will pull down your hospital.	5	188	465	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1872.069	1875.602	Ma_wenhui	male	native	Dig ah, excavators, excavators to dig down.	5	189	466	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1872.069	1875.602	Chen_luyu	female	native	You, dig, dig, dig, look, I	5	189	467	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1875.602	1876.830	Chen_luyu	female	native	didn't master it through learning.	5	190	468	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1878.746	1887.968	speaker#4	male	native	In May 2005 when he was already 70-year old, uncle Ma drove across Taklimakan Desert, which has a notorious name "sea of death" for a long time, successfully by himself.	5	191	470	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1889.106	1895.393	speaker#4	male	native	Afterwards, uncle Ma filled with confidence has another new objective. Cross Sahara Desert.	5	191	472	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1896.501	1904.764	Ma_wenhui	male	native	We Chinese, eh, particularly old men eh, once becoming old eh, they stay in the house, upstairs eh, don't come downstairs any more. Many of those staying at home develop stroke or take medicine.	5	192	474	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1904.764	1908.483	Ma_wenhui	male	native	I ((pw)) (()), after coming back from my travel,	5	192	475	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1908.483	1915.011	Ma_wenhui	male	native	I also enlighten old people in China and old people around the globe to eh, engage in more activities like me.	5	192	476	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1915.011	1919.011	Ma_wenhui	male	native	If someone sponsors me, and conditions, all conditions are mature,	5	192	477	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1919.011	1926.388	Ma_wenhui	male	native	I will go to Africa, eh, eh, traveling across the Eurasian continent to Africa, to several largest deserts in the world.	5	192	478	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1926.388	1927.466	Chen_luyu	female	native	Cross Sahara.	5	193	479	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1926.388	1927.466	Ma_wenhui	male	native	Yes, eh	5	193	480	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1927.466	1928.873	Ma_wenhui	male	native	Eh, cross Sahara.	5	194	481	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1928.873	1930.879	Chen_luyu	female	native	How about your plan to cross the desert?	5	195	482	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1930.879	1933.020	Ma_wenhui	male	native	Cross Sahara Desert is like this.	5	196	483	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1933.020	1938.538	Ma_wenhui	male	native	Our Xinjiang people told me, he said, Alas, the place you are going to visit ((pw)), you Old Ma never have been there before.	5	196	484	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1938.538	1945.185	Ma_wenhui	male	native	We all trust your uh desert experience, but there is one problem you must think about, that is the African people eh are very barbaric.	5	196	485	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1946.203	1950.275	Ma_wenhui	male	native	He is not like us. We are all educated. The people in that place eh are all like barbarians.	5	196	487	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1950.275	1952.071	Ma_wenhui	male	native	He is not civilized.	5	197	488	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1950.275	1952.071	Chen_luyu	female	native	Both of you are so,	5	197	489	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1952.071	1952.730	Chen_luyu	female	native		5	197	491	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1952.730	1956.383	Ma_wenhui	male	native	If he finds you are rich, he will rob you. If you don't give him, he will kill you.	5	198	492	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1957.161	1958.297	Ma_wenhui	male	native	Everyone has a gun.	5	198	494	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1958.898	1960.664	Chen_luyu	female	native	This is not the case.	5	199	496	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1958.898	1960.664	Ma_wenhui	male	native	They are.	5	199	497	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1960.664	1963.133	Ma_wenhui	male	native	He said, Grandpa Ma, you need to be careful about this during your travel eh.	5	200	498	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1963.133	1969.017	Ma_wenhui	male	native	As long as you smile, don't show them any ((grimace)). Even if he beats you, you still show your smile, to him.	5	200	499	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1969.017	1970.574	Ma_wenhui	male	native	(())eh.	5	201	500	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1969.017	1970.574	Chen_luyu	female	native		5	201	501	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1970.574	1972.281	Ma_wenhui	male	native	What can I do? Life is more important.	5	202	502	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1972.281	1973.359	Chen_luyu	female	native	Africa is not so	5	203	503	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1973.359	1974.796	Chen_luyu	female	native	terrible, uncle Ma.	5	204	504	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1973.359	1974.796	Ma_wenhui	male	native	He told me so.	5	204	505	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1974.796	1976.143	Chen_luyu	female	native	Africa is not so terrible.	5	205	506	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1976.143	1976.753	Chen_luyu	female	native	I ((pw)).	5	206	507	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1976.143	1976.753	Ma_wenhui	male	native	Look at this.	5	206	508	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1976.753	1981.064	Chen_luyu	female	native	I guess after you cross Sahara desert, your meeting with Chairman Hu may be possible.	5	207	509	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1981.064	1984.777	Ma_wenhui	male	native	Ah, it is. So I try to guarantee my life and don't let African eat me.	5	208	510	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1984.777	1990.436	Chen_luyu	female	native	Ha-ha	5	209	511	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1984.777	1990.436	Ma_wenhui	male	native	I come back. Ha-ha	5	209	512	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1990.436	1993.780	Ma_wenhui	male	native	I am also scared. The African people are so barbaric. I am also scared.	5	210	513	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1993.780	1997.442	Ma_wenhui	male	native	Language is a problem, (())	5	210	514	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1997.442	1998.550	Chen_luyu	female	native	Uncle Ma, now you	5	211	515	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1997.442	1998.550	Ma_wenhui	male	native	(())	5	211	516	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	1998.550	2001.963	Chen_luyu	female	native	you are a celebrity, and need to care about the feelings between nations when you are talking.	5	212	517	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2001.963	2002.370	Chen_luyu	female	native	We	5	213	518	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2001.963	2002.370	Ma_wenhui	male	native	ah,	5	213	519	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2002.370	2004.345	Chen_luyu	female	native	Chinese are very rational.	5	214	520	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2004.345	2004.947	Ma_wenhui	male	native	The African people	5	215	521	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2004.345	2004.947	Chen_luyu	female	native	Uh-huh.	5	215	522	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2004.947	2005.932	Chen_luyu	female	native	are also rational,	5	216	523	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2005.932	2007.502	Chen_luyu	female	native	and will not treat you like that. Just be easy.	5	216	524	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2007.502	2011.891	Ma_wenhui	male	native	They told me so. This is what I am afraid of. I don't fear anything else.	5	217	525	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2011.891	2015.993	Chen_luyu	female	native	In case someone wants to join your trip to Sahara after watching this program, will you bring them with you?	5	218	526	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2015.993	2018.568	Ma_wenhui	male	native	I, sure, I am glad. I am very glad.	5	219	527	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2018.568	2020.305	Chen_luyu	female	native	What kind of requirements do you have?	5	220	528	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2020.305	2022.521	Ma_wenhui	male	native	I don't have any requirements. All he needs to do is to follow me.	5	221	529	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2023.479	2024.587	Ma_wenhui	male	native	He follows me.	5	221	531	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2024.587	2025.246	Chen_luyu	female	native	However, you	5	222	532	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2024.587	2025.246	Ma_wenhui	male	native	I.	5	222	533	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2025.246	2028.659	Chen_luyu	female	native	You must have some requirements, for example ((pw)), physically, at least physically fit,	5	223	534	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2028.659	2030.186	Chen_luyu	female	native	physically strong.	5	224	535	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2028.659	2030.186	Ma_wenhui	male	native	Ah, Ah. It's true.	5	224	536	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2030.186	2031.670	Chen_luyu	female	native	It is better to be a man, I believe.	5	225	537	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2030.186	2031.670	Ma_wenhui	male	native	Ah, a woman is OK, too.	5	225	538	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2031.670	2032.671	Chen_luyu	female	native	relatively stronger,	5	226	539	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2032.671	2033.420	Chen_luyu	female	native	can help you pack ((pw)).	5	227	540	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2032.671	2033.420	Ma_wenhui	male	native	A woman is also fine.	5	227	541	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2033.420	2037.911	Ma_wenhui	male	native	There are also healthy girls. There are also capable girls. Both man and woman are OK.	5	228	542	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2037.911	2038.121	Chen_luyu	female	native	Ah.	5	229	543	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2038.121	2045.367	Ma_wenhui	male	native	Really? Whoever wants to go there can go eh, ((pw)), but my ((pw)), problem is the car eh. He has to prepare a car. Uh-huh.	5	230	544	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2045.367	2047.913	Ma_wenhui	male	native	However, he is alone without a car. He can get in my car.	5	230	545	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2047.913	2052.613	Ma_wenhui	male	native	However, my car eh is not. It is very difficult for cars like mine to eh travel there eh.	5	230	546	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2052.613	2055.427	Chen_luyu	female	native	Right, you'd better change a car if you want to go to the desert.	5	231	547	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2052.613	2055.427	Ma_wenhui	male	native	This car. (())	5	231	548	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2055.427	2059.559	Ma_wenhui	male	native	It's better to be a four-wheel drive, as high as that. eh.	5	232	549	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2059.559	2060.427	Chen_luyu	female	native	Four-wheel drive.	5	233	550	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2060.427	2063.750	Ma_wenhui	male	native	Ah, four-wheel drive, like that. Ah.	5	234	551	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2063.750	2066.954	Chen_luyu	female	native	Again, uncle Ma, we need to find a four-wheel drive manufacturer to give you a four-wheel drive.	5	235	552	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2066.954	2074.888	Ma_wenhui	male	native	Alas, as long as I have a four-wheel drive, you know, no matter which manufacturer is willing to give, it is always fine with me, fine with me.	5	236	553	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2074.888	2082.523	Chen_luyu	female	native	It's done. Again, I will promote you. Any manufacturer, uh, uncle Ma needs a four-wheel drive to cross Sahara Desert. This is a very good advertising	5	237	554	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2082.523	2083.182	Chen_luyu	female	native	opportunity.	5	238	555	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2082.523	2083.182	Ma_wenhui	male	native	Ah, right.	5	238	556	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2083.182	2085.128	Chen_luyu	female	native	I feel you should give uncle Ma a car.	5	239	557	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2086.266	2087.172	Chen_luyu	female	native	Will it work?	5	239	559	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2087.172	2088.422	Chen_luyu	female	native	Uncle Ma, after we say something like this.	5	240	560	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2087.172	2088.422	Ma_wenhui	male	native	Eh, good, thanks.	5	240	561	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2088.422	2093.272	Ma_wenhui	male	native	Ok, Ok, my, my, my requirements are not high.	5	241	562	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2095.518	2096.716	Chen_luyu	female	native	Uncle Ma, you can rest assured.	5	242	564	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2096.716	2096.926	Ma_wenhui	male	native	Uh-huh.	5	243	565	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2096.926	2100.130	Chen_luyu	female	native	If you do go to cross Sahara, certainly there will be someone who give you a four-wheel drive.	5	244	566	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2100.130	2106.956	Ma_wenhui	male	native	Ah, with you acting as my referral, I guess, uh, I can can enjoy such treatment.	5	245	567	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2106.956	2108.483	Chen_luyu	female	native	Then, you must guarantee your security.	5	246	568	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2106.956	2108.483	Ma_wenhui	male	native	After my return, I will meet.	5	246	569	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2108.483	2111.447	Ma_wenhui	male	native	When I come back and meet Chairman Hu, I will also mention your name.	5	247	570	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2111.447	2114.471	Chen_luyu	female	native	Ah.	5	248	571	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2111.447	2114.471	Ma_wenhui	male	native		5	248	572	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2114.471	2117.615	Chen_luyu	female	native	Thank you, thank you. I also want to meet Chairman Hu.	5	249	573	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2117.615	2119.741	Chen_luyu	female	native	I also want to meet Chairman Hu.	5	250	574	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2117.615	2119.741	Ma_wenhui	male	native	We, we both go there.	5	250	575	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2119.741	2121.448	Chen_luyu	female	native	We go there together. You take me with you.	5	251	576	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2121.448	2122.077	Ma_wenhui	male	native	Ah OK, OK.	5	252	577	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2122.077	2123.754	Chen_luyu	female	native	I also want to shake hands with Chairman Hu.	5	253	578	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2123.754	2124.532	Ma_wenhui	male	native	OK, OK, OK.	5	254	579	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2124.532	2125.640	Chen_luyu	female	native	Please keep your words.	5	255	580	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2125.640	2132.017	Ma_wenhui	male	native	Keep my words, keep my words, keep my words, so we will go there together. It's better for me ah. When Chairman Hu meets me, I will say, look,	5	256	581	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2132.017	2136.478	Chen_luyu	female	native		5	257	582	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2132.017	2136.478	Ma_wenhui	male	native		5	257	583	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2136.478	2139.921	Chen_luyu	female	native	I am extraordinarily happy every time I meet uncle Ma. So we have appointments.	5	258	584	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2139.921	2140.191	Ma_wenhui	male	native	Uh-huh.	5	259	585	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2140.191	2143.754	Chen_luyu	female	native	If you do go to cross Saha, Sahara, we make another episode of program before and after it.	5	260	586	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2143.754	2144.263	Chen_luyu	female	native	OK?	5	261	587	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2143.754	2144.263	Ma_wenhui	male	native	OK, OK.	5	261	588	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2144.263	2145.910	Chen_luyu	female	native	Till then, you'll drive that four-wheel drive into the studio.	5	262	589	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2145.910	2151.389	Ma_wenhui	male	native	Ah, uh, I am going to drive the four-wheel drive. When I leave eh, before my departure, we will make another episode of	5	263	590	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2151.389	2153.694	Chen_luyu	female	native	Great, then after your return, we will make another episode.	5	264	591	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2151.389	2153.694	Ma_wenhui	male	native	program. OK, OK, OK.	5	264	592	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2153.694	2154.647	Chen_luyu	female	native	Please keep your words.	5	265	593	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2154.647	2155.126	Ma_wenhui	male	native	Keep my words.	5	266	594	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2155.126	2156.563	Chen_luyu	female	native	Then, after meeting Chairman Hu, we'll	5	267	595	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2156.563	2159.737	Chen_luyu	female	native	make one more episode. Ha-ha.	5	268	596	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2156.563	2159.737	Ma_wenhui	male	native	Ah OK, OK, OK.	5	268	597	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2159.737	2161.127	Chen_luyu	female	native	I hope uncle Ma can succeed.	5	269	598	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2161.127	2165.246	Chen_luyu	female	native	This is uncle Ma. In the past half year, there were some changes in his life.	5	269	599	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2165.246	2168.730	Chen_luyu	female	native	Uh, our next guest is a very lovely elderly aunt.	5	269	600	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2168.730	2173.210	Chen_luyu	female	native	What makes she particularly lovely is, in the last program, the moment when she challenged Van Gogh.	5	269	601	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2174.318	2176.084	Chen_luyu	female	native	They all guess it right, don't they. Winter Palace.	5	269	603	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2176.084	2177.311	Chang_xiufeng	female	native		5	270	604	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2177.311	2180.305	Chen_luyu	female	native	It is the last time when aunt came here to make the program. This year.	5	271	605	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2177.311	2180.305	Chang_xiufeng	female	native	Ha-ha (())	5	271	606	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2180.305	2182.790	Chang_xiufeng	female	native	Yes, awesome, Ha-ha.	5	272	607	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2182.790	2185.994	Chen_luyu	female	native	We are not awesome. It is because you drew vividly.	5	273	608	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2182.790	2185.994	Chang_xiufeng	female	native		5	273	609	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2185.994	2187.731	Chen_luyu	female	native	Don't you know the story about Van Gogh?	5	274	610	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2187.731	2189.378	Chang_xiufeng	female	native	Don't know.	5	275	611	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2189.378	2191.128	Chen_luyu	female	native	Aunt herself is a good drawer.	5	276	612	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2191.128	2192.378	Chen_luyu	female	native	With a picture, she can	5	277	613	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2191.128	2192.378	Chang_xiufeng	female	native	(())	5	277	614	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2192.378	2194.946	Chen_luyu	female	native	see many feelings inside the heart of the drawer.	5	278	615	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2194.946	2195.695	Chang_xiufeng	female	native	Yes.	5	279	616	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2198.120	2199.377	Chen_luyu	female	native	You are very awesome.	5	280	618	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2359.159	2364.758	Chang_xiufeng	female	native	I live in uh, the poor mountainous area. I am a laborer.	7	282	620	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2365.507	2371.136	Chang_xiufeng	female	native	My son and daughter in law are relatively filial, treat me well, and took me to Guangzhou.	7	282	622	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2372.004	2374.441	Chang_xiufeng	female	native	In Guangzhou ah, I baby-sit my little granddaughter.	7	282	624	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2375.301	2379.220	Chang_xiufeng	female	native	Once ah, uh, my little granddaughter asked me a question.	7	282	626	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2379.220	2381.461	speaker#5	female	native	Red fruit, is it red?	7	283	627	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2381.461	2382.628	Chang_xiufeng	female	native	Ah, red.	7	284	628	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2382.628	2383.527	speaker#5	female	native	Then.	7	285	629	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2383.527	2385.832	Chang_xiufeng	female	native	Red, red fruit, red leaf.	7	286	630	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2385.832	2388.706	speaker#5	female	native	Uh, is there any other color?	7	287	631	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2388.706	2393.287	Chang_xiufeng	female	native	I uh, can't explain it clearly to you. Later, grandma draws it for you.	7	288	632	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2393.287	2397.628	Chang_xiufeng	female	native	It was these words of my granddaughter that made me pick up crayons for the first time.	7	288	633	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2402.808	2407.898	Chang_xiufeng	female	native	I never drew a picture, but made it without knowing how-to.	7	288	635	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2409.275	2413.227	Chen_luyu	female	native	Just tell what you are really thinking. Ha. Do you think he drew better, or you draw better?	7	289	637	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2413.826	2415.892	Chang_xiufeng	female	native	Uh, the picture he drew,	7	290	639	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2415.892	2416.371	Chen_luyu	female	native	Ah.	7	291	640	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2416.371	2420.862	Chang_xiufeng	female	native	I can't understand this picture, this picture ah, is a sunflower.	7	292	641	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2420.862	2421.431	Chen_luyu	female	native	Uh-huh.	7	293	642	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2421.431	2424.395	Chang_xiufeng	female	native	His uh sunflower is contained in a bottle.	7	294	643	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2424.395	2425.054	Chen_luyu	female	native	Right.	7	295	644	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2425.054	2434.126	Chang_xiufeng	female	native	Uh, from my perspective, His uh sunflower, it can't stay in the bottle.	7	296	645	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2434.126	2435.503	Chen_luyu	female	native	Right.	7	297	646	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2438.766	2439.904	Chen_luyu	female	native	Look, Van Gogh.	7	297	648	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2442.299	2445.353	Chen_luyu	female	native	So at this point, it is against our common sense. Ha.	7	297	650	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2445.353	2445.742	Chang_xiufeng	female	native	Yes.	7	298	651	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2445.742	2447.209	Chen_luyu	female	native	Sunflower grows on the ground, doesn't it.	7	299	652	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2447.209	2450.712	Chang_xiufeng	female	native	Ah, it is placed on the ground, planted in the soil.	7	300	653	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2450.712	2451.041	Chen_luyu	female	native	Uh-huh.	7	301	654	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2451.041	2453.975	Chang_xiufeng	female	native	Uh, the soil nourishes it. It will root and sprout.	7	302	655	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2453.975	2460.322	Chen_luyu	female	native	Ah, aunt, is there any possibility, when sunflower hasn't grown up yet, tender sunflower, I cut it off and place it in a bottle. Does it work?	7	303	656	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2460.322	2461.490	Chang_xiufeng	female	native	It will die.	7	304	657	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2467.867	2475.921	speaker#4	male	native	To 73 years old aunt Chang, after a short period of several months, she has new ideas about Van Gogh's famous work Sunflower.	7	305	659	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2479.544	2481.790	Chen_luyu	female	native	Aunt Chang.	7	306	661	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2483.886	2484.694	Chen_luyu	female	native	Aunt.	7	306	663	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2484.694	2485.173	Chang_xiufeng	female	native	Eh.	7	307	664	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2485.173	2489.963	Chen_luyu	female	native	After back home, you must have studied the sunflower drawn by Van Gogh again. Right?	7	308	665	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2489.963	2490.562	Chang_xiufeng	female	native	Yes.	7	309	666	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2490.562	2494.484	Chen_luyu	female	native	After your careful study, how do you think about his picture of sunflower now?	7	310	667	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2495.382	2501.550	Chang_xiufeng	female	native	His uh sunflower. What he drew is, even without that ((pw)) top shell.	7	311	669	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2501.550	2502.598	Chen_luyu	female	native	Without the shell?	7	312	670	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2502.598	2506.341	Chang_xiufeng	female	native	Uh-huh. Without the shell. Uh-huh, its flowers are wilting.	7	313	671	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2507.060	2511.791	Chang_xiufeng	female	native	Its leaves are falling, uh, with few left.	7	313	673	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2511.791	2512.291	Chen_luyu	female	native	Uh-huh.	7	314	674	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2512.291	2515.016	Chang_xiufeng	female	native	The picture he drew eh, is very dim.	7	315	675	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2515.675	2517.412	Chang_xiufeng	female	native	My analysis about him.	7	315	677	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2518.071	2523.820	Chang_xiufeng	female	native	In this picture he drew ah, the meaning, there were great pains in his heart.	7	315	679	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2525.048	2528.072	Chen_luyu	female	native	Van Gogh did have great pains in his heart.	7	316	681	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2528.072	2533.821	Chang_xiufeng	female	native	This sunflower eh, which is drawn like that ah, at sight of it, everyone	7	317	682	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2534.510	2537.145	Chang_xiufeng	female	native	feels sad in the heart.	7	317	684	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2537.834	2538.792	Chang_xiufeng	female	native	suffers in the heart.	7	317	686	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2539.451	2541.038	Chang_xiufeng	female	native	It contains a lot of meanings.	7	317	688	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2541.038	2544.272	Chen_luyu	female	native	Then, he placed the sunflower into the bottle. Does it have any meaning?	7	318	689	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2544.272	2544.725	Chang_xiufeng	female	native	Right.	7	319	690	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2545.409	2546.697	Chen_luyu	female	native	What does it mean?	7	320	692	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2546.697	2550.525	Chang_xiufeng	female	native	Why was the sunflower he drew contained in the bottle.	7	321	693	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2550.525	2553.254	Chang_xiufeng	female	native	It may mean that he was caged.	7	321	694	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2554.003	2556.728	Chang_xiufeng	female	native	He released, couldn't release his talents.	7	321	696	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2556.728	2558.435	Chen_luyu	female	native	Your analysis is wonderful.	7	322	697	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2560.591	2565.700	Chen_luyu	female	native	Placing the sunflower in the bottle means the sunflower lost that soil, and lost the ground.	7	322	699	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2565.700	2567.777	Chen_luyu	female	native	There was no such a big stage for him to demonstrate his	7	322	700	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2567.777	2568.735	Chen_luyu	female	native	talents, so in his heart	7	323	701	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2567.777	2568.735	Chang_xiufeng	female	native	Right, right.	7	323	702	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2568.735	2571.639	Chen_luyu	female	native	he felt very depressed. Leaves are wilting and the shell is gone.	7	324	703	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2571.639	2571.939	Chang_xiufeng	female	native	Right.	7	325	704	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2571.939	2573.643	Chen_luyu	female	native	The picture is very, very miserable.	7	326	705	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2573.643	2576.707	Chen_luyu	female	native	Unlike the sunflowers you drew, they are always flourishing,	7	326	706	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2576.707	2578.556	Chen_luyu	female	native	face the sun and appear cheerful.	7	327	707	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2576.707	2578.556	Chang_xiufeng	female	native	Right, right, right.	7	327	708	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2578.556	2579.155	Chang_xiufeng	female	native	Right.	7	328	709	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2579.155	2580.833	Chen_luyu	female	native	Don't you know the story about Van Gogh?	7	329	710	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2580.833	2581.401	Chang_xiufeng	female	native	Don't know.	7	330	711	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2582.150	2584.036	Chen_luyu	female	native	Aunt herself is a good drawer.	7	331	713	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2584.036	2585.683	Chen_luyu	female	native	With a picture, she can see	7	332	714	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2584.036	2585.683	Chang_xiufeng	female	native	It is not the case.	7	332	715	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2585.683	2587.958	Chen_luyu	female	native	many feelings inside the heart of the drawer.	7	333	716	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2587.958	2588.536	Chang_xiufeng	female	native	Right.	7	334	717	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2591.051	2592.338	Chen_luyu	female	native	You are so awesome.	7	335	719	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2592.877	2593.266	Chang_xiufeng	female	native	Uh-huh.	7	336	721	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2593.266	2595.954	Chen_luyu	female	native	I know that aunt started to draw pictures in 2004.	7	337	722	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2595.954	2601.739	Chen_luyu	female	native	Until your last visit, you should have drawn more 1700 pictures. Aunt is very productive.	7	337	723	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2601.739	2605.505	Chen_luyu	female	native	Now this number may have increased again, and perhaps she have drawn another two, 200 pictures or more.	7	337	724	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2606.067	2610.961	Chen_luyu	female	native	Recently, aunt has a few new works. Let's enjoy a few. They are very real. Let's look at the first picture.	7	337	726	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2612.458	2613.566	Chen_luyu	female	native	Where is this picture about?	7	337	728	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2614.883	2616.709	Chen_luyu	female	native	They all guess it right, don't they. Winter Palace.	7	337	730	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2616.709	2617.757	Chang_xiufeng	female	native	Winter Palace.	7	338	731	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2617.757	2621.350	Chen_luyu	female	native	It is the last time when aunt came here to make the program, this year.	7	339	732	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2617.757	2621.350	Chang_xiufeng	female	native	You are really	7	339	733	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2621.350	2623.146	Chang_xiufeng	female	native	awesome.	7	340	734	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2623.146	2625.708	Chen_luyu	female	native	We are not awesome. It is because you drew vividly.	7	341	735	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2625.708	2631.529	Chen_luyu	female	native	It was this April, or March when aunt came to our program. It was her first time in Beijing.	7	341	736	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2631.529	2632.295	Chen_luyu	female	native	Am I right? Afterwards	7	342	737	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2631.529	2632.295	Chang_xiufeng	female	native	Ah, last year.	7	342	738	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2632.295	2635.499	Chen_luyu	female	native	After the program was done, she stayed in Beijing for eh one or two days.	7	343	739	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2635.499	2643.433	Chang_xiufeng	female	native	My son took me, uh, to Tiananmen Square in Beijing first, to Chairman Mao Memorial Hall, and to Forbidden Palace.	7	344	740	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2643.433	2643.761	Chen_luyu	female	native	Uh-huh.	7	345	741	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2643.761	2645.827	Chang_xiufeng	female	native	Then to this Winter Palace.	7	346	742	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2645.827	2646.635	Chen_luyu	female	native	Winter Palace.	7	347	743	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2646.635	2650.305	Chang_xiufeng	female	native	My son said, this was burnt by foreigners.	7	348	744	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2650.904	2656.455	Chang_xiufeng	female	native	I eh, in my heart eh, pondered. Even I was very, very angry. I was angry.	7	348	746	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2656.455	2660.532	Chang_xiufeng	female	native	Uh, I said how beautiful it was. Why they burnt it? What a pity.	7	348	747	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2661.236	2662.772	Chang_xiufeng	female	native	I said it was really a pity.	7	348	749	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2662.772	2667.922	Chang_xiufeng	female	native	I just felt very upset in my heart. I felt really pity. I asked myself to draw it.	7	348	750	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2667.922	2676.066	Chen_luyu	female	native	What she drew, is so gorgeous. The Winter Palace drawn by aunt contains not only angers, but also many hopes. Look, there are also many flowers dotted throughout the ruins.	7	349	751	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2676.725	2679.359	Chen_luyu	female	native	These flowers are hopes. Right? Aunt.	7	350	753	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2676.725	2679.359	Chang_xiufeng	female	native	Right, right, right.	7	350	754	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2679.359	2682.952	Chen_luyu	female	native	I. Is my view correct. Am I right to view and analyze it in this way?	7	351	755	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2679.359	2682.952	Chang_xiufeng	female	native	Right. Ah.	7	351	756	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2682.952	2683.551	Chang_xiufeng	female	native	Right, right.	7	352	757	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2683.551	2686.096	Chen_luyu	female	native	It shows that you are not as depressed as Van Gogh in your heart, but full of hopes.	7	353	758	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2686.096	2686.695	Chang_xiufeng	female	native	Ah. Yes.	7	354	759	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2686.695	2687.923	Chen_luyu	female	native	I understand the drawer's	7	355	760	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2687.923	2689.180	Chen_luyu	female	native	meaning, Ah.	7	356	761	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2687.923	2689.180	Chang_xiufeng	female	native		7	356	762	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2689.180	2692.952	Chen_luyu	female	native	This is the first picture. Aunt's recent work. Let's look at another picture drawn by aunt.	7	357	763	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2694.929	2697.025	Chen_luyu	female	native	Liu Sanjie, is it? Aunt.	7	357	765	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2697.025	2697.444	Chang_xiufeng	female	native	Yes.	7	358	766	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2697.444	2704.803	Chen_luyu	female	native	Tell you a secret. Now, aunt is a promising senior drawer admired by many people.	7	359	767	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2704.803	2707.743	Chen_luyu	female	native	This is the idol aunt herself loves, Liu Sanjie.	7	359	768	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2707.743	2710.048	Chen_luyu	female	native	Am I right? You are her fan.	7	360	769	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2707.743	2710.048	Chang_xiufeng	female	native	Right, right.	7	360	770	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2710.048	2717.533	Chang_xiufeng	female	native	I am her fan,	7	361	771	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2717.533	2720.078	Chen_luyu	female	native	The word fan. How did you learn it?	7	362	772	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2720.078	2724.749	Chang_xiufeng	female	native	Uh, last time I came here. I didn't, didn't	7	363	773	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2724.749	2726.755	Chang_xiufeng	female	native	know what it is.	7	364	774	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2724.749	2726.755	Chen_luyu	female	native	Ah. Last time, last time.	7	364	775	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2726.755	2728.018	Chen_luyu	female	native	Aunt didn't know what blog is.	7	365	776	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2728.018	2728.611	Chen_luyu	female	native	I asked her	7	366	777	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2728.018	2728.611	Chang_xiufeng	female	native	ah.	7	366	778	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2728.611	2731.755	Chen_luyu	female	native	Her son had a blog, and posted Aunt's pictures on his blog.	7	366	779	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2728.611	2731.755	Chang_xiufeng	female	native	(()).	7	366	780	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2731.755	2734.223	Chen_luyu	female	native	I said aunt, your pictures were posted on the blog. She said ah.	7	367	781	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2734.223	2739.539	Chen_luyu	female	native	I said after you are on the blog, have you estimated how many people have seen your pictures? She said at least thirty to forty people.	7	367	782	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2739.539	2741.066	Chang_xiufeng	female	native		7	368	783	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2741.066	2742.347	Chen_luyu	female	native	Now you know blog,	7	369	784	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2742.347	2744.030	Chen_luyu	female	native	then also know fans.	7	370	785	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2742.347	2744.030	Chang_xiufeng	female	native	Ah, Ah.	7	370	786	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2744.030	2745.467	Chang_xiufeng	female	native	Ah, I know blogs.	7	371	787	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2745.467	2755.737	Chang_xiufeng	female	native	Uh, look, in the blog, my fans ah, it is my son's diary.	7	371	788	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2755.737	2756.080	Chang_xiufeng	female	native	Ah.	7	372	789	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2755.737	2756.080	Chen_luyu	female	native	Uh-huh.	7	372	790	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2756.080	2758.565	Chang_xiufeng	female	native	I turned on that computer.	7	373	791	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2758.565	2759.044	Chang_xiufeng	female	native	Showed	7	374	792	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2758.565	2759.044	Chen_luyu	female	native	Uh-huh.	7	374	793	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2759.044	2763.026	Chang_xiufeng	female	native	me, explain to me, the messages they left to me.	7	375	794	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2763.026	2763.475	Chen_luyu	female	native	Uh-huh.	7	376	795	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2763.475	2769.613	Chang_xiufeng	female	native	Uh, greet me eh, uh, wish me a good eh, health ah.	7	377	796	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2769.613	2769.972	Chen_luyu	female	native	Uh-huh.	7	378	797	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2769.972	2773.295	Chang_xiufeng	female	native	Uh, all kinds of wishes to me, read them aloud for me.	7	379	798	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2773.295	2773.774	Chen_luyu	female	native	Right.	7	380	799	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2773.774	2775.421	Chang_xiufeng	female	native	A lot of people.	7	381	800	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2775.421	2779.918	Chen_luyu	female	native	The person aunt likes is Liu Sanjie, but aunt feels that blog,	7	382	801	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2779.918	2786.469	Chen_luyu	female	native	uh fans, and popularity, are actually far away from her life. Anyway, aunt now has her own blog and checks it when free.	7	382	802	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2786.469	2793.437	Chen_luyu	female	native	The name of her blog is the blog of Grandma Van Gogh Chang Xiufeng. Aunt 's surname is Chang, Xiu as in Xiumei, and Feng as in Shanfeng.	7	382	803	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2793.984	2799.762	Chen_luyu	female	native	uh, the blog of Grandma Van Gogh Chang Xiufeng, in three months, of which the hit rate exceeded more than one hundred thousand.	7	382	805	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2799.762	2801.618	Chen_luyu	female	native	Very awesome ah. It's very close to that of Xu Jinglei.	7	383	806	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2799.762	2801.618	Chang_xiufeng	female	native		7	383	807	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2801.618	2805.821	Chang_xiufeng	female	native	This is not a blog. This is a computer.	7	384	808	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2805.821	2809.462	Chang_xiufeng	female	native	The blog is stored in the computer.	7	384	809	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2809.462	2816.801	Chang_xiufeng	female	native	(()) The others put the articles uh in computers, which are called blogs.	7	384	810	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2820.211	2830.271	speaker#4	male	native	In August 2006, a portal website opened a blog named Grandma Van Gogh Chang Xiufeng. In less than a month since the blog was opened, the hit rate exceeded 80,000.	7	385	812	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2830.271	2835.810	speaker#4	male	native	Through the virtual space, the title Grandma Van Gogh quickly became popular.	7	385	813	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2837.666	2841.244	speaker#4	male	native	To Chang Xiufeng, a 73-year-old grandma from the countryside,	7	385	815	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2841.244	2845.900	speaker#4	male	native	she has truly experienced the taste of being a celebrity.	7	385	816	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2847.038	2849.752	Chen_luyu	female	native	Aunt, how does it feel to be a celebrity in daily life?	7	386	818	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2850.466	2854.343	Chang_xiufeng	female	native	I, guess I'm glad,	7	387	820	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2854.343	2855.002	Chang_xiufeng	female	native	very happy,	7	388	821	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2854.343	2855.002	Chen_luyu	female	native	Uh-huh.	7	388	822	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2855.002	2856.050	Chang_xiufeng	female	native	and much honored.	7	389	823	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2856.050	2857.910	Chen_luyu	female	native	Much honored, why would you say,	7	390	824	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2856.050	2857.910	Chang_xiufeng	female	native		7	390	825	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2857.910	2860.601	Chen_luyu	female	native	would you say you are a celebrity? Say, you were spotted by others?	7	391	826	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2860.601	2861.529	Chang_xiufeng	female	native	Spotted.	7	392	827	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2861.529	2862.786	Chen_luyu	female	native	Where were you spotted?	7	393	828	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2862.786	2868.714	Chang_xiufeng	female	native	Uh, in a, in a certain week, my daughter-in-law took me out to a garden,	7	394	829	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2868.714	2869.223	Chang_xiufeng	female	native		7	395	830	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2868.714	2869.223	Chen_luyu	female	native	Uh-huh.	7	395	831	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2869.223	2875.271	Chang_xiufeng	female	native	On our way back ah, many on Zhengzhou Lu shouted my name, grandma Chang, grandma Chang.	7	396	832	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2875.271	2875.540	Chen_luyu	female	native	Uh-huh.	7	397	833	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2875.540	2879.571	Chang_xiufeng	female	native	I turned my head to see, a very pretty young girl.	7	398	834	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2879.571	2882.396	Chang_xiufeng	female	native	I walked up immediately and held her hand.	7	398	835	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2882.396	2887.943	Chang_xiufeng	female	native	I said, you, why are you so respectful to be ah, how do you know my last name is Chang and call me grandma Chang?	7	398	836	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2887.943	2890.061	Chang_xiufeng	female	native	She said, I saw you on TV	7	398	837	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2890.061	2890.936	Chang_xiufeng	female	native	and on pictorials,	7	399	838	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2890.061	2890.936	Chen_luyu	female	native	Uh-huh.	7	399	839	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2890.936	2895.906	Chang_xiufeng	female	native	uh, I want to be your student. Let me learn to draw from you.	7	400	840	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2895.906	2903.062	Chang_xiufeng	female	native	I said, I don't know, I tell you, I don't know how to teach, I don't know how to teach you drawing.	7	400	841	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2903.062	2903.361	Chen_luyu	female	native	Uh-huh.	7	401	842	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2903.361	2906.535	Chang_xiufeng	female	native	I must not derail your future.	7	402	843	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2906.535	2907.763	Chen_luyu	female	native	Did you take the pupil?	7	403	844	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2907.763	2909.230	Chang_xiufeng	female	native	Ah, I told her,	7	404	845	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2909.230	2911.056	Chen_luyu	female	native	told her, but I didn't accept the pupil, ha.	7	405	846	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2911.056	2915.846	Chang_xiufeng	female	native	I didn't accept, I dared not accept, because I'm old,	7	406	847	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2915.846	2916.146	Chen_luyu	female	native	Uh-huh.	7	407	848	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2916.146	2921.026	Chang_xiufeng	female	native	I can draw today, but tomorrow I may not be able to draw. This will delay young people's work.	7	408	849	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2921.026	2922.224	Chen_luyu	female	native	But still very glad?	7	409	850	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2922.224	2923.990	Chen_luyu	female	native	Some people can spot you.	7	410	851	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2922.224	2923.990	Chang_xiufeng	female	native	Very glad. Ah.	7	410	852	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2923.990	2927.373	Chen_luyu	female	native	Have you taken photos with others? Like others ask you to take photos with them.	7	411	853	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2927.373	2931.774	Chang_xiufeng	female	native	Uh, I've taken some, taken some when I'm out, and I don't know who they are.	7	412	854	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2932.373	2934.080	Chang_xiufeng	female	native	I also sign.	7	413	856	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2932.373	2934.080	Chen_luyu	female	native	Normally I don't know.	7	413	857	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2934.080	2935.224	Chen_luyu	female	native	You have also signed	7	414	858	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2935.224	2935.913	Chen_luyu	female	native	a lot?	7	415	859	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2935.224	2935.913	Chang_xiufeng	female	native	Uh-huh, right.	7	415	860	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2935.913	2942.620	Chen_luyu	female	native	Aunt doesn't know how to write or read. In the past, her own name she signed after drawing a picture was drawn by mimicking Chang Xiufeng her son wrote down.	7	416	861	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2943.279	2945.135	Chen_luyu	female	native	She drew her name like drawing a picture.	7	416	863	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2945.135	2946.901	Chen_luyu	female	native	Now you know how to write yourself?	7	417	864	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2945.135	2946.901	Chang_xiufeng	female	native	Now I no longer draw it, as I know how to	7	417	865	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2946.901	2949.206	Chang_xiufeng	female	native	sign. I've signed quite a few times for others.	7	418	866	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2949.206	2950.643	Chen_luyu	female	native	By now, you've already signed quite a few?	7	419	867	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2950.643	2956.182	Chang_xiufeng	female	native		7	420	868	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2956.182	2959.475	Chen_luyu	female	native	Last time she was here, aunt copied by drawing, and now she is already good at signing. Ha.	7	421	869	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2959.475	2962.798	Chen_luyu	female	native	Do you often sign for others when you go out, when you go out? Now.	7	422	870	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2959.475	2962.798	Chang_xiufeng	female	native	Now I know, know how to sign, ah, I	7	422	871	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2962.798	2965.582	Chang_xiufeng	female	native	would sign when requested.	7	423	872	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2965.582	2969.322	Chen_luyu	female	native	Aunt thinks herself as a very simple	7	424	873	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2969.322	2970.473	Chen_luyu	female	native	old country lady,	7	425	874	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2969.322	2970.473	Chang_xiufeng	female	native		7	425	875	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2970.473	2972.676	Chen_luyu	female	native	such that things such as becoming popular has nothing to do with her.	7	426	876	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2972.676	2974.983	Chen_luyu	female	native	But she is still very glad to be known to many people.	7	426	877	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2974.983	2979.389	Chen_luyu	female	native	Uh, having lived in the countryside for several decades, aunt is most familiar with the countryside.	7	426	878	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2979.389	2984.055	Chen_luyu	female	native	I said just now that she didn't know how to write in the past. She still doesn't know how to write, except her name, or read.	7	426	879	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2984.055	2987.477	Chen_luyu	female	native	However, drawing may be a capability in her innate talents.	7	426	880	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2987.477	2990.462	Chen_luyu	female	native	Having drawn a lot of pictures, you're known to many people and liked by many people.	7	426	881	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2992.288	2996.929	Chen_luyu	female	native	Have you ever thought of enroll in a course at school to learn drawing formally with a teacher?	7	426	883	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	2996.929	3002.198	Chang_xiufeng	female	native	No, I have never thought of this. I only want to draw whatever in my mind.	7	427	884	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3002.198	3004.893	Chen_luyu	female	native	You can even instruct a teacher. It's not necessary to have a teacher.	7	428	885	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3004.893	3007.558	Chang_xiufeng	female	native	My name was written by	7	429	886	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3007.558	3008.696	Chen_luyu	female	native	Written by yourself?	7	430	887	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3007.558	3008.696	Chang_xiufeng	female	native	myself. Ah.	7	430	888	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3008.696	3012.884	Chen_luyu	female	native	I drew these characters by copying a model, which reads, Luyu, my most honorable experience.	7	431	889	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3012.884	3014.894	Chen_luyu	female	native	What's your most honorable experience?	7	431	890	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3186.088	3191.651	speaker#4	male	native	Getting up quietly at around 5:30am, she begins to clean the house using scrap towels,	9	433	892	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3191.651	3196.298	speaker#4	male	native	meanwhile she starts to cook breakfast, cooking plain porridge or black-rice porridge.	9	433	893	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3197.825	3202.747	speaker#4	male	native	At around 9:00am, she comes to the drawing table at balcony to work on the drawing that she began a few days ago or new works.	9	433	895	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3202.747	3207.706	speaker#4	male	native	Due to eye disease, she must make use of the time when the sunlight is good.	9	433	896	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3208.814	3211.439	speaker#4	male	native	She draws or watches television in the afternoon.	9	433	898	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3211.439	3216.119	speaker#4	male	native	She feels especially warm if she hears someone speak Henan dialect on TV.	9	433	899	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3217.916	3223.874	speaker#4	male	native	She answers no more than five telephone calls everyday and on average may receive two calls from her hometown every week.	9	433	901	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3225.281	3232.826	speaker#4	male	native	By accumulating wastes at home every month, she can sell them for around RMB seven yuan, which has amounted to over 100 yuan so far.	9	433	903	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3234.533	3238.545	speaker#4	male	native	She receives a group of or several Chang's fans about every ten days.	9	433	905	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3240.311	3244.473	Chen_luyu	female	native	Let me introduce, aunt's beautiful daughter-in-law, Guan Hua.	9	434	907	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3247.497	3250.889	Chen_luyu	female	native	I forgot to tell everyone just now that aunt 's fans are called Chang's fans.	9	434	909	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3250.889	3254.533	Chen_luyu	female	native		9	435	910	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3250.889	3254.533	Chang_xiufeng	female	native		9	435	911	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3254.533	3260.132	Chen_luyu	female	native	Aunt's pictures are pretty famous now, in your daily life, do your friends and colleagues ah like the drawings of your mother-in-law?	9	436	912	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3260.132	3260.709	Guan_hua	female	native	Yeah.	9	437	913	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3260.709	3261.008	Chen_luyu	female	native	Uh-huh.	9	438	914	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3261.008	3266.158	Guan_hua	female	native	They would all ask me to print out and frame them,	9	439	915	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3266.158	3266.689	Guan_hua	female	native	to hang them	9	440	916	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3266.158	3266.689	Chen_luyu	female	native	Uh-huh.	9	440	917	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3266.689	3269.414	Guan_hua	female	native	at home. That is we will give away my mother's drawing when someone renovates the house.	9	441	918	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3269.414	3270.402	Guan_hua	female	native	Otherwise we would have it	9	442	919	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3269.414	3270.402	Chen_luyu	female	native	Really?	9	442	920	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3270.402	3272.120	Guan_hua	female	native	sprayed to create the effect of an oil painting.	9	443	921	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3272.120	3274.667	Guan_hua	female	native	Originally, I wanted to try to let her do oil painting,	9	443	922	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3274.667	3281.779	Guan_hua	female	native	but she hasn't begun yet after I have bought all the tools, because she said she could only bent over and cannot stand when she draws.	9	443	923	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3281.779	3286.689	Chen_luyu	female	native	By the way, aunt uses crayons to draw, the same crayons for children.	9	444	924	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3286.689	3287.887	Chang_xiufeng	female	native	Yeah, all of them are crayons.	9	445	925	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3286.689	3287.887	Guan_hua	female	native	on a table.	9	445	926	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3287.887	3291.929	Chen_luyu	female	native	Ah, it would be fine if you paint on canvas, which will give better effect.	9	446	927	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3291.929	3293.581	Chang_xiufeng	female	native	I've never painted that way.	9	447	928	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3294.329	3295.642	Chang_xiufeng	female	native	I also want to learn.	9	447	930	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3295.642	3296.031	Chen_luyu	female	native	Uh-huh.	9	448	931	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3296.031	3296.570	Chang_xiufeng	female	native	Uh-huh.	9	449	932	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3296.570	3298.307	Chen_luyu	female	native	It won't be hard for you.	9	450	933	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3298.307	3299.026	Chang_xiufeng	female	native	Uh-huh.	9	451	934	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3299.026	3303.637	Chen_luyu	female	native	Have you ever thought of enrolling in a course at school to learn drawing formally with a teacher?	9	452	935	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3303.637	3308.461	Chang_xiufeng	female	native	No, I have never thought of this. I only want to draw whatever in my mind.	9	453	936	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3309.030	3311.780	Chen_luyu	female	native	You can even instruct a teacher maybe. It's not necessary to have a teacher.	9	454	938	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3311.780	3316.122	Chang_xiufeng	female	native	I still need a teacher to instruct me.	9	455	939	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3316.122	3318.697	Chen_luyu	female	native	Ha-ha	9	456	940	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3318.697	3320.733	Guan_hua	female	native	My mom's comprehension ability is pretty good.	9	457	941	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3320.733	3321.182	Chen_luyu	female	native	Right.	9	458	942	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3321.182	3325.763	Guan_hua	female	native	I often take her to art exhibitions and she always makes great progress after an art exhibition.	9	459	943	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3325.763	3326.362	Chen_luyu	female	native	Really?	9	460	944	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3326.362	3331.213	Guan_hua	female	native	Yeah. That is we visited an art exhibition there, which are pictures that reflected the countryside life	9	461	945	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3331.213	3332.081	Guan_hua	female	native	she felt	9	462	946	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3331.213	3332.081	Chen_luyu	female	native	Uh-huh.	9	462	947	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3332.081	3334.027	Guan_hua	female	native	eh, I can also draw this.	9	463	948	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3334.027	3336.273	Guan_hua	female	native	For example the whole mountain of Golden Ears of Wheat,	9	463	949	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3336.273	3338.129	Chen_luyu	female	native	a famous painting, just this painting.	9	464	950	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3338.129	3339.476	Chang_xiufeng	female	native	Oh, right, right, right.	9	465	951	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3340.075	3346.303	Chen_luyu	female	native	As I remember, the picture seems to be in our history book, past history book um textbook. You have also copied this picture.	9	466	953	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3346.303	3350.465	Chang_xiufeng	female	native	Uh, this one, after I saw it, I looked at it very closely.	9	467	954	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3350.465	3350.824	Chen_luyu	female	native	Ah.	9	468	955	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3350.824	3353.902	Chang_xiufeng	female	native	I thought I had done a lot of work in the countryside,	9	469	956	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3353.902	3357.081	Chang_xiufeng	female	native	(()) I would also draw it back home.	9	469	957	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3357.081	3358.907	Chen_luyu	female	native	How long did it take you to draw the picture?	9	470	958	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3358.907	3359.596	Chang_xiufeng	female	native	Um.	9	471	959	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3359.596	3360.075	Chen_luyu	female	native	Ah.	9	472	960	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3360.075	3361.183	Chang_xiufeng	female	native	The drawing took three days.	9	473	961	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3361.183	3362.081	Chen_luyu	female	native	The drawing took three days.	9	474	962	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3362.081	3362.650	Chang_xiufeng	female	native	Yes.	9	475	963	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3363.339	3367.111	Chen_luyu	female	native	In your impression, when you collect ears of wheat in the countryside, it is	9	476	965	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3367.111	3367.919	Chen_luyu	female	native	like this?	9	477	966	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3367.111	3367.919	Chang_xiufeng	female	native	Yeah.	9	477	967	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3367.919	3369.506	Chang_xiufeng	female	native	We do the job every year.	9	478	968	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3369.506	3369.925	Chen_luyu	female	native	Ah.	9	479	969	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3369.925	3376.093	Chang_xiufeng	female	native	Uh-huh, I, I have drawn it. I said if others can draw it, I can also draw it.	9	480	970	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3376.093	3380.704	Chen_luyu	female	native	What aunt draws are things she has seen in her life, a life that she is especially familiar with.	9	481	971	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3380.704	3383.454	Chen_luyu	female	native	She lived in the countryside for several decades altogether.	9	481	972	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3383.454	3385.621	Chen_luyu	female	native	All of the farm work is what she is especially familiar with.	9	481	973	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3385.621	3394.077	Chen_luyu	female	native	The reason she draws pictures so confidently is probably the daily life that she is very, very close to. These were what she did day in and day out.	9	481	974	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3394.077	3400.125	Chen_luyu	female	native	Uh, this time uh for the sake of inviting aunt to our show, our scenarist went on a special trip to the countryside hometown where aunt lived.	9	481	975	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3400.125	3406.143	Chen_luyu	female	native	But unfortunately, it's winter now eh and it is barren and bald everywhere, with hardly any colors. So things	9	481	976	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3406.143	3411.712	Chen_luyu	female	native	in our video may not seem as colorful as they are in aunt's pictures. But let's look at the countryside where aunt ever lived.	9	481	977	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3425.563	3429.785	speaker#6	female	native	(()) She draws very well.	9	482	979	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3429.785	3434.695	speaker#7	female	native	These are all on the hill ah,	9	483	980	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3429.785	3434.695	speaker#6	female	native	these are sunflowers. On the hill ah then.	9	483	981	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3434.695	3437.689	speaker#6	female	native	This picture is about the current season, this picture is about the current season.	9	484	982	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3437.689	3438.946	speaker#7	female	native	Uh-huh.	9	485	983	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3438.946	3448.018	speaker#6	female	native	She was not given newspapers or (()). She draws very well (()) and was even interviewed.	9	486	984	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3448.018	3454.635	speaker#6	female	native	Uh, I said, what, my goodness, I didn't hear she knows how to draw at home.	9	486	985	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3454.635	3458.737	speaker#6	female	native	These are all vanilla on the hill.	9	487	986	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3454.635	3458.737	speaker#8	male	native	There are a lot on the hill.	9	487	987	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3458.737	3468.198	Chang_xiufeng	female	native	As I miss home eh, I remember things at home and things that I experienced and draw them.	9	488	988	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3468.198	3473.463	Chang_xiufeng	female	native	When I draw these pictures, eh I think of things in my hometown.	9	488	989	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3473.463	3480.713	Chang_xiufeng	female	native	I draw them, so that my offspring ah know what their hometown is like.	9	488	990	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3481.671	3483.527	Chang_xiufeng	female	native	This is my hometown.	9	488	992	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3483.527	3485.563	Chen_luyu	female	native	This is aunt's hometown.	9	489	993	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3487.329	3488.946	Chen_luyu	female	native	Aunt hasn't been back for a long time,	9	489	995	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3488.946	3489.485	Chen_luyu	female	native	right?	9	490	996	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3488.946	3489.485	Chang_xiufeng	female	native	Yeah.	9	490	997	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3489.485	3490.293	Chang_xiufeng	female	native	More than a year.	9	491	998	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3490.293	3491.101	Chen_luyu	female	native	More than a year.	9	492	999	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3491.101	3495.562	Chang_xiufeng	female	native	Uh-huh, the garden is not like, (())	9	493	1000	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3495.562	3496.161	Chen_luyu	female	native	Uh-huh.	9	494	1001	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3496.161	3498.676	Chang_xiufeng	female	native	((pw)), it was a hut last time I went there.	9	495	1002	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3499.395	3501.880	Chen_luyu	female	native	More than a year away from home, you may miss it?	9	496	1004	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3501.880	3503.377	Chang_xiufeng	female	native	Miss it very, very much.	9	497	1005	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3503.377	3507.239	Chen_luyu	female	native	Alas, is life better in the city or in the countryside?	9	498	1006	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3507.239	3510.862	Chang_xiufeng	female	native	uh, compared to the countryside, life in the city ah is	9	499	1007	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3510.862	3512.030	Chang_xiufeng	female	native	much better, ((pw)).	9	500	1008	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3510.862	3512.030	Chen_luyu	female	native	Uh-huh.	9	500	1009	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3512.030	3514.874	Chang_xiufeng	female	native	I still ah, miss my hometown	9	501	1010	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3515.623	3517.928	Chen_luyu	female	native	and feel more accustomed in the countryside, ha.	9	502	1012	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3517.928	3519.100	Chang_xiufeng	female	native	Ah, accustomed.	9	503	1013	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3519.100	3524.665	Chang_xiufeng	female	native	No matter how harsh and how poor it is, I still miss the hometown.	9	503	1014	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3524.665	3529.695	Chen_luyu	female	native	You are now a painter and you should collect folk materials back home. Do you know what collecting folk materials is? Aunt.	9	504	1015	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3529.695	3531.252	Chang_xiufeng	female	native	Uh-huh.	9	505	1016	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3531.252	3537.719	Chen_luyu	female	native	That is to go into the real world, to look at the past life again, such that there will be many things you can draw, draw, draw.	9	506	1017	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3537.719	3538.917	Chang_xiufeng	female	native	Uh, I have an idea.	9	507	1018	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3537.719	3538.917	Chen_luyu	female	native	Am I right?	9	507	1019	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3538.917	3539.726	Guan_hua	female	native	Uh-huh.	9	508	1020	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3538.917	3539.726	Chen_luyu	female	native	Ah.	9	508	1021	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3539.726	3542.451	Chang_xiufeng	female	native	I'm thinking about going back in February next year,	9	509	1022	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3542.451	3542.840	Chen_luyu	female	native	Uh-huh.	9	510	1023	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3542.840	3549.876	Chang_xiufeng	female	native	to see what changes have taken place in the village, that is in the fields and on the hills. Again I'm going to draw everything.	9	511	1024	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3549.876	3554.906	Chen_luyu	female	native	Uh-huh, at the end of last program, aunt gave me a picture, which was me.	9	512	1025	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3554.906	3555.535	Chang_xiufeng	female	native	Yes.	9	513	1026	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3555.535	3558.679	Chen_luyu	female	native	And then I was kidding, aunt.	9	514	1027	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3555.535	3558.679	Chang_xiufeng	female	native	What I depicted	9	514	1028	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3558.679	3560.206	Chen_luyu	female	native	At that time I was ah,	9	514	1029	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3558.679	3560.206	Chang_xiufeng	female	native	depicted	9	514	1030	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3560.206	3561.673	Chang_xiufeng	female	native	was too fatty.	9	515	1031	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3561.673	3568.380	Chen_luyu	female	native	at that time, at that time I was kidding. I joked, see, alas, aunt drew very well.	9	516	1032	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3561.673	3568.380	Chang_xiufeng	female	native		9	516	1033	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3568.380	3572.362	Chen_luyu	female	native	The only thing is that you've made me look very plump. You see the flesh is in.	9	516	1034	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3568.380	3572.362	Chang_xiufeng	female	native	Fatty. Too fatty.	9	516	1035	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3572.362	3574.368	Chang_xiufeng	female	native	The face was too fatty as well.	9	517	1036	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3574.368	3580.745	Chen_luyu	female	native	But actually I was kidding, but then aunt took it very seriously. When she went back she felt, alas, she really didn't draw well. Very serious.	9	518	1037	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3580.745	3583.110	Chen_luyu	female	native	Then you have drawn another this time, right?	9	518	1038	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3583.110	3583.529	Chen_luyu	female	native	Ah.	9	519	1039	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3583.110	3583.529	Chang_xiufeng	female	native	Ah.	9	519	1040	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3583.529	3585.715	Chen_luyu	female	native	Instead of drawing figures, I've drawn another picture.	9	520	1041	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3585.715	3588.050	Chang_xiufeng	female	native	Ah, I.	9	521	1042	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3590.176	3592.242	Chen_luyu	female	native	Below.	9	522	1044	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3594.068	3599.547	Chen_luyu	female	native	Your handwriting now is really good. It reads, Luyu, my most honorable experience.	9	522	1046	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3599.547	3601.643	Chen_luyu	female	native	What's your most honorable experience?	9	522	1047	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3601.643	3602.572	Chang_xiufeng	female	native	I would say	9	523	1048	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3602.572	3602.871	Chen_luyu	female	native	Uh-huh.	9	524	1049	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3602.871	3606.284	Chang_xiufeng	female	native	uh, I come here for the second time to meet you guys.	9	525	1050	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3606.284	3606.524	Chen_luyu	female	native	Uh-huh.	9	526	1051	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3606.524	3612.063	Chang_xiufeng	female	native	I'm very glad and pleased. I feel very happy and honored.	9	527	1052	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3612.063	3613.919	Chen_luyu	female	native	We are very glad too.	9	528	1053	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3616.973	3619.004	Chen_luyu	female	native	Thanks again to aunt for the drawing.	9	528	1055	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3619.004	3622.512	Chen_luyu	female	native	If you paint on canvas, paint me a picture, paint me another	9	528	1056	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3622.512	3624.099	Chen_luyu	female	native	picture, ok?	9	529	1057	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3622.512	3624.099	Chang_xiufeng	female	native	OK, OK, OK, OK.	9	529	1058	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3624.818	3628.114	Chen_luyu	female	native	Just paint this way, it's fine, I still keep the picture, thank you.	9	530	1061	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3628.114	3631.552	Chen_luyu	female	native	The lovely aunt and uncle are both in their 70s today,	9	530	1062	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3631.552	3633.501	Chen_luyu	female	native	but I think they have a young heart.	9	530	1063	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3633.501	3637.564	Chen_luyu	female	native	En, hope uncle Ma and aunt Change keep a young heart forever.	9	530	1064	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3637.564	3642.872	Chen_luyu	female	native	Uncle Ma intends to cross Sahara desert, and your task is keep drawing and hold an art exhibition.	9	530	1065	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3642.872	3643.684	Chang_xiufeng	female	native		9	531	1066	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3643.684	3646.199	Chen_luyu	female	native	If we are in Beijing at that time, we will all visit your art exhibition, OK?	9	532	1067	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3646.199	3646.498	Chang_xiufeng	female	native	Ok.	9	533	1068	report	
+PHOENIX_DATELUYU_CMN_20070104_142800	0	3646.498	3649.702	Chen_luyu	female	native	Thank you aunt, thank you. Thank you everyone!	9	534	1069	report	

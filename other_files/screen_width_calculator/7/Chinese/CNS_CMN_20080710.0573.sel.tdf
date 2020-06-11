@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.0573	0	1600.0	1700.0	speaker	unknown	unknown	原为中国领土，自1929年中东路事件(中方为收回东北的东清铁路路权，与苏联发生武装冲突)后，黑瞎子岛一直由苏联以及后来的俄罗斯所控制。	0	0	0		
+CNS_CMN_20080710.0573	0	2900.0	3000.0	speaker	unknown	unknown	为什么没有进行全民公决？”还有俄罗斯网民这样说。	0	0	0		
+CNS_CMN_20080710.0573	0	4200.0	4300.0	speaker	unknown	unknown	(莫风)	0	0	0		

@@ -1,0 +1,22 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0041.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	纽约州长召妓丑闻震惊政坛 反对党要求下台	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-11	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	900.000	950.000	TEXT1	unknown	unkown	3月10日，美国纽约州州长、民主党人艾略特・斯皮策（右）和夫人在纽约出席新闻发布会。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	950.000	975.000	TEXT1	unknown	unkown	当日，斯皮策举行紧急新闻发布会，就他卷入一起性交易案向家人和公众表示道歉。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	斯皮策随即面临辞职压力 。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	1000.000	1175.000	TEXT1	unknown	unkown	新华社/路透	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	1175.000	1350.000	TEXT1	unknown	unkown	美国民主党籍纽约州长斯皮策涉及嫖妓案，震惊纽约政坛，尽管斯皮策公开道歉但未请辞。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	1350.000	1400.000	TEXT1	unknown	unkown	相对于同党同志稍为和缓的态度，在野党似乎不放过他，认为一向自视甚高且以高道德要求的斯皮策必须下台，以示负责。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	1600.000	1700.000	TEXT1	unknown	unkown	这是斯皮策第一任任期，之前他曾任纽约州检察长，全力打击企业贪腐，建立其公职生涯，传出嫖妓案后，尽管已公开道歉，但形象已受重创。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	选区在长岛的共和党纽约州联邦众议员金恩说，“我不愿落井下石，但斯皮策自以为很有道德以及不原谅人，他必须下台，没有人会跟他站在一起。”	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	2200.000	2250.000	TEXT1	unknown	unkown	纽约州共和党众议员泰迪斯科也要求斯皮策立即下台。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	2250.000	2300.000	TEXT1	unknown	unkown	他说，“斯皮策已经无法再任公职，也无法继续领导纽约州。”	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	2500.000	2550.000	TEXT1	unknown	unkown	相对于在野党立刻要求下台声浪，同党同志语气稍为和缓些。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	2550.000	2600.000	TEXT1	unknown	unkown	纽约州民主党联邦参议员舒默虽然认此事对斯皮策个人及家庭都不好，但在斯皮策详细说明原委前，不愿多表意见。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	2800.000	2900.000	TEXT1	unknown	unkown	民主党总统参选人希拉里-克林顿也不愿多表看法，除祝福斯皮策个人及家庭外，还说要观察未来几天发展后再说。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	3100.000	3200.000	TEXT1	unknown	unkown	同党的前纽约州州长古莫则表示，“此事对州长个人、家庭及其余社会所有人士而言，都是极为残酷的悲剧。”	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	3400.000	3500.000	TEXT1	unknown	unkown	纽约州参议院共和党领袖布鲁诺也说，“对纽约州民而言，在位者应该做对事情，让州务正常执行，预算用到最适当之处。”	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	3700.000	3750.000	TEXT1	unknown	unkown	民主党新泽西州州长寇辛说，这是很严肃且十分扰人的指控。	0	0	0		statement
+GMW_CMN_20080311.0041.sgm	0	3750.000	3800.000	TEXT1	unknown	unkown	斯皮策必须重建家人及社会大众对他的信任。	0	0	0		statement

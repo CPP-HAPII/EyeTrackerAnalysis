@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89668-10736929	0	100.0	200.0	speaker	unknown	unknown	关键词 ： 自行车	0	0	0		
+cmn-WL-8-89668-10736929	0	200.0	300.0	speaker	unknown	unknown	Electric Motion System 的 E 并不是我们 见过 最贵 的 自行车 ，只是高达美金 3,495 元( 人民币 24,465 元 )的定价，仍然超出大部份人对两个轮子还要自己出力的车子愿意支付的上限。	0	0	0		
+cmn-WL-8-89668-10736929	0	900.0	1000.0	speaker	unknown	unknown	24,465 元这个价钱，是不是变得合理又顺眼许多了呢！	0	0	0		

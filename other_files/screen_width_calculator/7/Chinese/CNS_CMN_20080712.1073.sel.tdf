@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080712.1073	0	900.0	1000.0	speaker	unknown	unknown	如果要考虑外迁，以下三方面是必要的前提条件：第一，经全面的考察，确认原地的生态环境已难以承受当地民众长久的发展需求，且随时可能对他们的生命安全构成威胁，即便采取工程措施也难以防治；第二，经可行性分析，原地重建比异地搬迁需要投入更多的资金和人力，而根据实际情况，这种投入难以获得充分、持久的保障；第三，绝大多数当地住户对外迁意向表示认同。	0	0	0		
+CNS_CMN_20080712.1073	0	2200.0	2300.0	speaker	unknown	unknown	包括移民原有的生产技术、劳作习惯、生活习俗、社区环境、人际交往，都应该在外迁规划阶段就予以充分考虑，尽可能按照不同家庭、不同人群的具体情况作出与他们自身条件相吻合的政策安排。	0	0	0		

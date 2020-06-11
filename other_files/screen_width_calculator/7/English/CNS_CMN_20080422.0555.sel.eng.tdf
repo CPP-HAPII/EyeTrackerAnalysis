@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080422.0555	0	0.0	100.0	speaker	unknown	unknown	Survey Shows: Over 70% Fund Owners Not Interested in New Funds	0	0	0		
+CNS_CMN_20080422.0555	0	400.0	500.0	speaker	unknown	unknown	It is nothing new that stocks get "halved in value," and funds, which are claimed to be less risky than stocks, are also facing the danger of getting "halved in value."	0	0	0		
+CNS_CMN_20080422.0555	0	600.0	700.0	speaker	unknown	unknown	And following a decline of as long as half a year, "50 cents" funds have shockingly appeared on the funds market.	0	0	0		
+CNS_CMN_20080422.0555	0	800.0	900.0	speaker	unknown	unknown	Two Funds with Net Value of 50-plus Cents	0	0	0		
+CNS_CMN_20080422.0555	0	1100.0	1200.0	speaker	unknown	unknown	As of April 21, the net values of two funds have already "dropped below sixty cents."	0	0	0		
+CNS_CMN_20080422.0555	0	1300.0	1400.0	speaker	unknown	unknown	And there are also 15 funds valued between 60 cents and 70 cents.	0	0	0		
+CNS_CMN_20080422.0555	0	1900.0	2000.0	speaker	unknown	unknown	At the end of the first quarter, the market value of investment funds accounted for 23.2% of the A-share circulation market value, a drop of 3.3 percentage points compared with that at the end of last year.	0	0	0		
+CNS_CMN_20080422.0555	0	2200.0	2300.0	speaker	unknown	unknown	Over 70% Fund Owners Not Interested in New Funds	0	0	0		

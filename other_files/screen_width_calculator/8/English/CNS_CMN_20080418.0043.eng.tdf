@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0043.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Strongly Persuaded by Many People in the Party, Tsai Ing-wen Decides to Run for DPP Chairmanship	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008, 12:45, Source: Chinanews.com - Comment	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Chinanews.com, April 18	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	950.000	975.000	TEXT1	unknown	unkown	Today is the last day to register for the DPP chairmanship election.	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	According to a report by "Central News Agency," strongly persuaded by many people in the party, former "vice premier of the Executive Yuan" Tsai Ing-wen, after thinking for a long time, has decided to go to the DPP party headquarters in the afternoon to register as a candidate in the election.	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	1200.000	1225.000	TEXT1	unknown	unkown	The deadline of registration for the DPP chairmanship election is 5 o'clock this afternoon.	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	1225.000	1250.000	TEXT1	unknown	unkown	At present, DPP "legislator" Tsai Tung-jung and former "senior presidential adviser" Koo Kwang-ming have completed their registration as candidates in the election.	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	DPP caucus convener Ke Chien-min and DPP "legislator" Gao Jyh-peng had obtained the form for Tsai Ing-wen this morning. Tsai Ing-wen is expected to register as a candidate in the election in the afternoon.	0	0	0		statement

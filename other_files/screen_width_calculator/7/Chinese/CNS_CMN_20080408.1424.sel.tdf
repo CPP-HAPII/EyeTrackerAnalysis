@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080408.1424	0	300.0	400.0	speaker	unknown	unknown	6小时前，他们乘坐的南方航空CZ321次航班从新白云机场起飞前往澳大利亚墨尔本，不料6小时后，他们在天上转了一圈又回到了新白云机场。	0	0	0		
+CNS_CMN_20080408.1424	0	400.0	500.0	speaker	unknown	unknown	事发后，南航方面为了弥补乘客的损失，现场为每位乘客派发了200元现金作为补偿。	0	0	0		
+CNS_CMN_20080408.1424	0	600.0	700.0	speaker	unknown	unknown	对于伍先生所反映的班机返航事件，昨日上午，南方航空航班不正常处理室值班主任黄先生向记者表示，CZ321次航班本应于当晚21时5分起飞，因例行检修等原因而延误至21时25分起飞。	0	0	0		
+CNS_CMN_20080408.1424	0	700.0	800.0	speaker	unknown	unknown	当日凌晨时分，飞行中CZ321次航班发生机械故障，为保证乘客安全，调度室于12时34分将该航班召回，并准备好了接替的班机。	0	0	0		
+CNS_CMN_20080408.1424	0	1100.0	1200.0	speaker	unknown	unknown	直至昨日上午7时53分，这批乘客改乘另一架班机飞往墨尔本，目前，有关方面已对此事协调处理。	0	0	0		

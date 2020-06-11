@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.1387	0	500.0	600.0	speaker	unknown	unknown	检方指控称，这是一个呈“金字塔”结构的黑社会组织，核心人物是聂太宝、聂太召兄弟，该团伙中有人负责斗殴等暴力犯罪以壮大声势，有人负责组织赌博经营管理，有人负责工程建设方面的经营管理。	0	0	0		
+CNS_CMN_20080731.1387	0	1300.0	1400.0	speaker	unknown	unknown	2007年夏，襄樊市公安机关受到省相关部门指定后重新侦查此案，省检察院、襄樊市检察院也提前介入。	0	0	0		
+CNS_CMN_20080731.1387	0	1700.0	1800.0	speaker	unknown	unknown	“这么多年，还没见法庭外防卫这么严密的。”一名商店老板说。	0	0	0		
+CNS_CMN_20080731.1387	0	2900.0	3000.0	speaker	unknown	unknown	面对询问，他多以“不知道”、“没有”等语言回答。	0	0	0		
+CNS_CMN_20080731.1387	0	3800.0	3900.0	speaker	unknown	unknown	如此巨大的犯罪集团为何在其经营10年后才被摧毁？	0	0	0		
+CNS_CMN_20080731.1387	0	5000.0	5100.0	speaker	unknown	unknown	聂太宝向手下灌输江湖义气思想，并制造、参与了一系列滋事、斗殴案件，打杀出罪恶的名声。	0	0	0		

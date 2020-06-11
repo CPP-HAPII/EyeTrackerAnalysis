@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080729.0217	0	500.0	600.0	speaker	unknown	unknown	The "V"-shape creativity is not a whim; it is obtained through analysis and experimentation.	0	0	0		

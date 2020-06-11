@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0025.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	圣火将抵非洲传递 可望平安但规模仍缩水	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社坦尚尼亚三兰港十二日电	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	在欧洲和美洲传递期间,饱受抗议纠缠的北京奥运圣火,今天将抵达非洲展开低风险传递行程,但非洲站传递规模仍大幅缩水。	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	1500.000	1900.000	TEXT1	unknown	unkown	奥运圣火预定晚间十时((台湾时间十三日凌晨三时))左右抵达坦尚尼亚,先前发表的官方声明称,三兰港「决成为首个无任何麻烦的圣火传递站,可望步上布宜诺斯艾利斯的后尘。」	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	2100.000	2500.000	TEXT1	unknown	unkown	在支持西藏抗议人士尾随阻扰下,过去几天的圣火传递过程一路颠簸,在即将传抵中国的非洲友邦坦尚尼亚前,又爆发新争议,最受瞩目圣火接力传递者宣布退出。	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	2700.000	3100.000	TEXT1	unknown	unkown	二零零四年肯亚诺贝尔和平奖得主马阿萨伊,决定退出参与奥运圣火在非洲唯独一站传递活动,理由是忧心中国在西藏、缅甸和苏丹达佛地区的冲突和侵害人权上所扮演角色。	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	3300.000	3600.000	TEXT1	unknown	unkown	虽然十三日当天三兰港无任何已知声援西藏集会游行,但原定二十五公里长的圣火传递行程仍缩减成历时两小时的三公里街道传递。	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	3600.000	4000.000	TEXT1	unknown	unkown	三兰港市长金比萨坚称,这项盛会的规模缩水,是因为「会下很多雨」。	0	0	0		statement
+AFP_CMN_20080413.0025.sgm	0	4200.000	4400.000	TEXT1	unknown	unkown	三兰港警察首长表示,已沿圣火传递路线做好安全部署。	0	0	0		statement

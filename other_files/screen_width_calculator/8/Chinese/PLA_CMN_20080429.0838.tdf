@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0838.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	火炬珠峰展示中香港记者因高原反应下撤	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 15:17:21   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社珠穆朗玛峰４月２９日奥运专电	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1000.000	1100.000	TEXT1	unknown	unkown	北京奥运会火炬珠峰展示活动的组织者在２９日召开的新闻发布会上说，一位参与报道这一盛事的香港记者由于严重的高原反应于２８日当夜下撤至距珠峰大本营１０２公里、海拔４千多米的日喀则地区定日县。	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1300.000	1400.000	TEXT1	unknown	unkown	随队医生李奎说，这位名叫邝毅怡的香港记者在路上经过定日县时就反应明显，２８日跟随全体记者来到海拔５０４０米的绒布珠峰大本营后继续恶化，出现剧烈头疼、恶寒等症状，此外这名记者的血氧饱和度偏低。	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1600.000	1650.000	TEXT1	unknown	unkown	还有一位北京奥运会新闻宣传协调小组的工作人员出现类似状况。	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1650.000	1675.000	TEXT1	unknown	unkown	当天晚上，新闻中心指派１２０救护车将两人同时撤下大本营。	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1675.000	1700.000	TEXT1	unknown	unkown	新闻中心副主任刘萱说，两人目前情况良好，２９日将到达日喀则。	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	刘萱同时表示，西藏地区条件艰苦，希望其余记者和工作人员注意身体，劳逸结合。	0	0	0		statement

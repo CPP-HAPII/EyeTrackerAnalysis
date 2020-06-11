@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0223.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	欧洲议会通过伽利略计划最终部署方案	0	0	0		statement
+PDA_CMN_20080423.0223.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0223.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	欧洲议会全体会议经过两天的讨论于２３日在此间通过了欧洲伽利略全球卫星导航系统（简称伽利略计划）的最终部署方案，这标志着为期６年的伽利略计划基础设施建设阶段正式启动。	0	0	0		statement
+PDA_CMN_20080423.0223.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	根据最终部署方案，伽利略计划将分两个阶段实施，即２００８年至２０１３年的建设阶段和２０１３年以后的运行阶段。	0	0	0		statement
+PDA_CMN_20080423.0223.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	欧盟将在建设阶段出资３４亿欧元，用于完成伽利略计划的空中和地面基础设施建设，其中包括３０颗卫星的发射。	0	0	0		statement
+PDA_CMN_20080423.0223.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	该计划的所有项目合同被分为地面基础设施、控制中心、卫星制造、发射装置、系统软件和其他任务６大类，供欧盟国家的公司竞标，任何一家公司不能成为超过两类合同的主承包商。	0	0	0		statement
+PDA_CMN_20080423.0223.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	伽利略计划是欧盟２００２年正式批准的一项战略科研项目，目标是建成一个覆盖全球的卫星导航系统，其地面定位服务的误差不超过１米。	0	0	0		statement
+PDA_CMN_20080423.0223.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	但由于资金等原因，伽利略计划的进展并不顺利，迄今仅有一颗试验卫星在２００５年年底发射升空。（记者刘秀荣 张碧弘）	0	0	0		statement

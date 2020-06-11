@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1537	0	700.0	800.0	speaker	unknown	unknown	The public relations manager of ZKungfu said there hasn't yet been any change to the à-la-carte items at the moment; only the discount of set meals has been adjusted downward by 2% to 3%.	0	0	0		
+CNS_CMN_20080704.1537	0	900.0	1000.0	speaker	unknown	unknown	It was McDonald's that started this round of fast food price increase.	0	0	0		
+CNS_CMN_20080704.1537	0	1300.0	1400.0	speaker	unknown	unknown	Cost increase is seen as the direct cause of this round of price increase.	0	0	0		
+CNS_CMN_20080704.1537	0	1500.0	1600.0	speaker	unknown	unknown	And in contrast with the open price hikes of these brands, KFC is, however, accused of secretly increasing its prices.	0	0	0		

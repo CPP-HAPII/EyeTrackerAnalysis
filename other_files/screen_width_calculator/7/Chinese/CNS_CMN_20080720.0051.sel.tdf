@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0051	0	300.0	400.0	speaker	unknown	unknown	不仅如此，更有人登门力拱陈水扁“再战二○一二年”，欲抬他出马角逐下届“总统”；谓台人对陈水扁“深深怀念”，他下了台，才知他在台上时的好。	0	0	0		
+CNS_CMN_20080720.0051	0	800.0	900.0	speaker	unknown	unknown	这一波鼓吹“六大天王竞选县市长”的行动，俨然完全未将蔡英文所称的“质感”放在眼里；至于竟然说“国人对阿扁深深怀念”，希望他“再战二○一二年”，更是直指寄望蔡英文不如重新抬出陈水扁。	0	0	0		

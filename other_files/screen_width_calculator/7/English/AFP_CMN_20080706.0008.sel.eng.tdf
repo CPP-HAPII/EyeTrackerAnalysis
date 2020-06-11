@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080706.0008	0	600.0	700.0	speaker	unknown	unknown	The report said that an exceptionally hot year only occurred once in every twenty to twenty-five years in the past. In the future it is more likely to occur every one or two years, and a hotter weather may start as early as 2010.	0	0	0		
+AFP_CMN_20080706.0008	0	700.0	800.0	speaker	unknown	unknown	Agriculture Minister Burke said that this assessment shows the danger of drought may double and that the area of drought declared by Australia will also multiply.	0	0	0		

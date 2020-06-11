@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080426.0865	0	200.0	300.0	speaker	unknown	unknown	北京时间今天凌晨5点，2008斯诺克世界锦标赛第二轮，丁俊晖暂以5∶11落后于“台球皇帝”亨德利。	0	0	0		
+CNS_CMN_20080426.0865	0	300.0	400.0	speaker	unknown	unknown	在今晚9点开始的第三阶段比赛，小丁必须打出8∶1的比分，才能完成大翻盘。	0	0	0		
+CNS_CMN_20080426.0865	0	700.0	800.0	speaker	unknown	unknown	所以，即便2005年中国公开赛，丁俊晖决赛赢了亨德利，即便2007温布利大师赛半决赛丁俊晖也赢了亨德利，即便亨德利已经39岁高龄已经是球馆里为数不多的“60年代”，但到了坩埚，他还是会拿出少年的激情与进取心，他还是将丁俊晖逼到绝境。	0	0	0		
+CNS_CMN_20080426.0865	0	800.0	900.0	speaker	unknown	unknown	5∶1，10∶2，亨德利赢得顺风顺水，而前7局丁俊晖单杆最高只得了26分，状态实属不佳。	0	0	0		
+CNS_CMN_20080426.0865	0	900.0	1000.0	speaker	unknown	unknown	第13局开始，虽然丁俊晖接连打出单杆93、94、99分，将比赛悬念延至第三阶段，但“台球皇帝”11∶5的优势仍然非常可观。	0	0	0		

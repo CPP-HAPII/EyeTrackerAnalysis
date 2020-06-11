@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.0839	0	900.0	1000.0	speaker	unknown	unknown	他预计下半年市场流动性会继续偏紧，同时由于市场情绪依然较低和上述诸多不确定因素，下半年A股走势仍不确定。	0	0	0		

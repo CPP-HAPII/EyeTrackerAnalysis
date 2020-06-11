@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'report', u'filler', u'nontrans', u'filler', None]
+;;MM sectionBoundaries	[0.0, 265.98700000000002, 403.91500000000002, 513.423, 1368.8409999999999, 1521.973, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080318_212701	0	391.159	403.915	Wan_Gang	male	native	工资大概早就没了 {laugh}	1	1	14	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080318_212701	0	777.048	797.124	Cui_Yong_Yuan	male	native	但是-但是用这个版本来介绍中科院,工程院,科协甚至一些大专-大专院校的这个相关院系,好像也可以呀	3	3	39	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080318_212701	0	833.582	855.372	Wan_Gang	male	native	呃现在提这个问题当然比较敏感了,因为这个大 (()) 的这个呃刚刚国务院机构改革这个,可能下面就是各个部门都要确定自己的三定方案,定职能,定人员,定编制等等这些	3	3	44	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080318_212701	0	1624.624	1649.703	Cui_Yong_Yuan	male	native	我知道,我知道, {laugh}	5	5	90	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080318_212701	0	1649.703	1668.778	Wan_Gang	male	native	没有,没有 {laugh}	5	5	93	filler	statement

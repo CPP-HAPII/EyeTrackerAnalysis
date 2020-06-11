@@ -4,7 +4,7 @@ import os
 import time
 from core import utils
 
-def calculate_switch(df):
+def calculate_switch(df, type):
     count = [0 for i in range(4)] 
     total = [0 for i in range(4)]
     switch0 = []
@@ -47,46 +47,46 @@ def calculate_switch(df):
                 count[3] += 1
                 total[3] += row["Duration"]
                 switch3.append(row["Duration"])
-    for x in range(0,4):
-        print (total[x]/count[x])
+    
+    df1 = pd.DataFrame()
+    df2 = pd.DataFrame()
+    df3 = pd.DataFrame()
+    df4 = pd.DataFrame()
 
-    print ("FOR CH/SP -> CH/SP: ")
-    for elem in switch0:
-        print (elem)
-    print ("FOR CH/SP -> Eng: ")
-    for elem in switch1:
-        print (elem)
-    print ("FOR Eng -> Eng: ")
-    for elem in switch2:
-        print (elem)
-    print ("FOR Eng -> CH/SP: ")
-    for elem in switch3:
-        print (elem)
+    df1["CH/SP -> CH/SP:"] = switch0
+    df2["CH/SP -> Eng:"] = switch1
+    df3["Eng -> Eng:"] = switch2
+    df4["Eng -> CH/SP:"] = switch3
+    
+    combined_df = pd.concat([df1,df2,df3,df4], axis=1)
+    combined_df.to_csv("analysis_results/comparison_results/by_switch/" + type + ".csv", index=False)
 
 def calculate_switch_prep(file):
     aoi_df = pd.read_csv(file, sep=",", index_col=False)
-    
+    proficiency_df = pd.read_csv("user_study_data/users_proficiency.csv", sep=",", index_col=False)
+
+    c2e1 = proficiency_df["c2e1"].tolist()
+    c1e2 = proficiency_df["c1e2"].tolist()
+    s2e1 = proficiency_df["s2e1"].tolist()
+    s1e2 = proficiency_df["s1e2"].tolist()
+    s1e1 = proficiency_df["s1e1"].tolist()
+
     # FOR CHINESE USERS, L1 ENGLISH
-    aoi_df_ce = aoi_df.loc[(aoi_df['userID'] == 5385) | (aoi_df['userID'] == 1338) | (aoi_df['userID'] == 671)]
-    print("English L1, Chinese l2")
-    calculate_switch(aoi_df_ce)
+    aoi_df_ce = aoi_df.loc[aoi_df['userID'].isin(c2e1)]  
+    calculate_switch(aoi_df_ce, "Chinese L2, English L1")
 
     # FOR CHINESE USERS, L1 CHINESE
-    aoi_df_cc = aoi_df.loc[(aoi_df['userID'] == 3545) | (aoi_df['userID'] == 132) | (aoi_df['userID'] == 1586) | (aoi_df['userID'] == 2068) | (aoi_df['userID'] == 2591)]
-    print("English L2, Chinese l1")
-    calculate_switch(aoi_df_cc)    
+    aoi_df_cc = aoi_df.loc[aoi_df['userID'].isin(c1e2)]
+    calculate_switch(aoi_df_cc, "Chinese L1, English L2")    
 
     # FOR SPANISH USERS, L1 ENGLISH
-    aoi_df_se = aoi_df.loc[(aoi_df['userID'] == 5890) | (aoi_df['userID'] == 2899) | (aoi_df['userID'] == 7734) | (aoi_df['userID'] == 1855) | (aoi_df['userID'] == 1572)]
-    print("English L1, Spanish l2")
-    calculate_switch(aoi_df_se)        
+    aoi_df_se = aoi_df.loc[aoi_df['userID'].isin(s2e1)]
+    calculate_switch(aoi_df_se, "Spanish L2, English L1")        
 
     # FOR SPANISH USERS, L1 SPANISH
-    aoi_df_ss = aoi_df.loc[(aoi_df['userID'] == 2128) | (aoi_df['userID'] == 2156) | (aoi_df['userID'] == 5492) | (aoi_df['userID'] == 5689) | (aoi_df['userID'] == 4799) | (aoi_df['userID'] == 2934) | (aoi_df['userID'] == 6853)]
-    print("English L2, Spanish l1")
-    calculate_switch(aoi_df_ss)            
+    aoi_df_ss = aoi_df.loc[aoi_df['userID'].isin(s1e2)]
+    calculate_switch(aoi_df_ss, "Spanish L1, English L2")            
 
     # FOR SPANISH USERS, L1 BOTH
-    aoi_df_b = aoi_df.loc[(aoi_df['userID'] == 6673) | (aoi_df['userID'] == 6515) | (aoi_df['userID'] == 6965) | (aoi_df['userID'] == 3816) | (aoi_df['userID'] == 1699) | (aoi_df['userID'] == 452) | (aoi_df['userID'] == 2929)]    
-    print("Both English Spanish L1")
-    calculate_switch(aoi_df_b)  
+    aoi_df_b = aoi_df.loc[aoi_df['userID'].isin(s1e1)]
+    calculate_switch(aoi_df_b, "Spanish L1, English L1")  

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080421.1588	0	600.0	700.0	speaker	unknown	unknown	这正好是他施展看家本领的机会，令自己进入催眠状态，不用任何麻醉而度过手术台上的八十三分钟。	0	0	0		

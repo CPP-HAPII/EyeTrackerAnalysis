@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'nontrans', u'report', u'filler', u'report', u'report', u'report', u'report', u'filler', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 68.861999999999995, 284.404, 443.149, 578.22000000000003, 670.84400000000005, 681.06600000000003, 759.41700000000003, 858.46000000000004, 946.173, 1070.1199999999999, 1084.402, 1225.701, 1260.55, 1355.683, 1445.2360000000001, 1526.8140000000001, 1564.115, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20080328_202802	0	230.150	244.815	Xu_Yun	male	native	我们到现场以后呢就发现,这个现场的出入绝对是从大门口进去的 (()) ,都没有翻墙入院啊,或者从其他地方侵入的,是从大门进来的	1	13	18	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080328_202802	0	968.564	976.612	Xiao_Yu	female	native	这确实是有法律依据的,我国的继承法第七条规定,继承人杀害被继承人的,丧失继承权	9	62	88	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080328_202802	0	1027.831	1040.143	speaker#3	female	native	但对于这一点,张家洪同样不赞同,理由依然是继承法第七条,这一条中还规定,继承人为了争夺遗产而杀害其他继承人的,丧失继承权	9	66	95	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080328_202802	0	1373.596	1385.986	speaker#12	female	native	徐庆对他父亲徐明官有没有继承权呢,继承法也规定了,为争夺遗产而杀害其他被继承人的,就没有算就没有继承权	14	85	124	report	statement

@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0835.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	不妨多点“直升机思维”	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 06:25:31   来源：解放军报第10版	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	900.000	950.000	TEXT1	unknown	unkown	众所周知，直升机的起速快，飞行可高可低、可远可近，在直升机上对大地望去，各种事物一览无余，尽收眼底。	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	如果让自己的思维如同直升机一样，能从不同高度、不同角度去观察事物和认识问题，其结果必然会更加客观和准确，益处不言而喻。	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	平时，我们不少人喜欢按照习惯性思维或自己所熟悉的方式，去判断事物，然后作出决定，对错且不论，单是这样做的过程，就会发现他们的思维不开阔、眼光不长远，手脚自然就被束缚了。	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	长此以往，工作只能循规蹈矩、按部就班，在新事物新问题不断涌现的今天，这成为开拓进取、创新发展的一大障碍。	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1500.000	1525.000	TEXT1	unknown	unkown	“直升机思维”其实是创新思维的一种表现形式。	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1525.000	1537.500	TEXT1	unknown	unkown	当今时代是创新变革的时代，一个人的思维方式往往对事业成败起到决定作用。	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1537.500	1550.000	TEXT1	unknown	unkown	正如一句广告语所说：心有多大，舞台就有多大；	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	心有多远，路就能走多远。	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	在工作中我们不妨多一点“直升机思维”，让自己站得更高，看得更远。	0	0	0		statement

@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	台“立院”排定30日初审人民币在台汇兑“修法”	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	900.000	1550.000	TEXT1	unknown	unkown	据台湾“中央社”报道，台湾“立法院内政委员会”30日排定初审攸关人民币汇兑的“台湾地区与大陆地区人民关系条例”部分条文修正草案，目前有中国国民党籍“立法委员”卢秀燕与李纪珠两版本。	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	1550.000	2200.000	TEXT1	unknown	unkown	中国国民党中央政策会执行长林益世今天表示，可借初审机会让大家讨论看看，未来希望国民党“立法院”党团版本也能并案协商。	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	卢秀燕版草案规定，“双边货币清算协议签订前，大陆地区发行之币券，不得在台湾地区买卖、兑换或进行其它交易。	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	但台湾地区金融机构经‘中央银行’会商‘金管会’许可者，得于指定之地点，试办大陆地区发行货币买卖之业务”。	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	李纪珠版草案则规定，台当局“行政院金融监督管理委员会”得会同台湾“中央银行”订定办法，许可大陆地区发行之币券，进入台湾地区。	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	2750.000	2800.000	TEXT1	unknown	unkown	除条例另有规定，大陆地区发行之币券，在台湾地区之管理，准用“管理外汇条例”有关规定。	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	3000.000	3100.000	TEXT1	unknown	unkown	不过，林益世日前表示，国民党“立法院”党团与智库已拟妥“修法”草案，明订在两岸未签清算协议或建立清算机制前，可由“中央银行”会同“金管会”试点试办，在短期无法建立清算机制时，解套人民币在台汇兑所受“法令”限制。	0	0	0		statement
+PDA_CMN_20080427.0015.sgm	0	3300.000	3400.000	TEXT1	unknown	unkown	他上午接受记者访问时表示，党团版草案将于29日在程序委员会排入“立法院院会”议程，已来不及赶在30日并案审查，但仍希望未来有三项版本并案审查机会，大家也可借条文初审机会讨论看看。（高大林）	0	0	0		statement

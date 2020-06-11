@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'filler', u'nontrans', u'filler', None]
+;;MM sectionBoundaries	[0.0, 289.19499999999999, 313.16899999999998, 332.82400000000001, 484.31200000000001, 486.99099999999999, 580.03300000000002, 1187.153, 1204.5139999999999, 9999999.0]
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	871.846	881.393	Zhang_Jing	female	native	这个抑郁症发病率在增高,但是也没有这么这么明显,像这个自闭症最近就是整倍成倍成倍的增高这样的	6	59	115	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1152.716	1162.886	Zhang_Jing	female	native	当然有一些很重要的,你比如说说什么参军那保密工这些,这那就是要强迫他透露这些(()),对	6	66	157	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1211.639	1212.483	speaker#6	male	nonnative	喂	8	71	169	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1295.780	1309.767	speaker#7	male	native	确实我想我问一下就是像我吧,就是(())	8	81	187	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1319.256	1326.348	speaker#7	male	native	这请问那个嘉宾,就是说呢,是不是是不是是个心理作用,还是抑抑抑郁症啊	8	82	190	filler	question
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1326.348	1328.036	speaker#7	male	native	怎么样解决(())	8	82	191	filler	question
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1381.529	1396.124	Zhang_Jing	female	native	改变不了他,你比如说就是有些人他就觉得,啊有些人在探听他们的呃说话呀,有些人在背后策划要暗杀他呀,他这个你不管怎么说,家人跟他解释(()),他就改变不了他这种看法	8	87	201	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1430.419	1444.154	Zhang_Jing	female	native	想不开,谋害他,对	8	92	211	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1461.602	1474.280	Zhang_Jing	female	native	(()),对,我想这两个(()),对对,我想这两个都可以谈一谈	8	94	217	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1504.783	1516.135	Zhang_Jing	female	native	但是它不是像很多就像我们显性遗传隐形遗传就这么影影这么这么明显的遗传,就是说你父母有你就肯定有,它没有这么强	8	99	224	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1581.733	1593.486	speaker#8	male	native	呃像我们附近这样的,比如说师大啊(())大啊(())医医大啊,每年都有看见数十人呃数十人啊跳楼自杀	8	112	244	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1597.385	1601.932	speaker#8	male	native	不是啊,我说啊,(()),(())都有数十人啊	8	115	248	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1607.870	1611.136	speaker#8	male	native	我觉得他死得很可惜,有的是女性,有的是男性	8	115	251	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1659.150	1668.416	speaker#8	male	native	呃老师也拿刀杀了学生,这这是不是跟他们的下岗等等失业有的问题,(())	8	116	257	filler	statement
+VOA_FOCUSDIALOGUE_CMN_20080405_210500	0	1731.216	1743.893	Zhang_Jing	female	native	对,(()),对	8	121	269	filler	statement

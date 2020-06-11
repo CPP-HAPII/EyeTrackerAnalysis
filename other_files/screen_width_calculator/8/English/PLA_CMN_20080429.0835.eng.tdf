@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0835.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Might as Well do a Little More "Helicopter Thinking"	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 06:25:31 Source: PLA Daily page 10	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	900.000	950.000	TEXT1	unknown	unkown	It is well known that helicopters have a fast starting speed and they can fly high or low, far or close. When you look to the land on a helicopter, all types of things can be seen from a panoramic view. Everything can be seen.	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	If one's thoughts were just like a helicopter, one could observe things and identify problems from different elevations and different viewpoints, its results would inevitably be more objective and accurate. The benefits are self-evident.	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Usually, quite a few of us like to judge things according to habitual thinking or our familiar ways, then make a decision. If we don't consider right or wrong, merely in the process alone we can find their thoughts are not open and insights are not far and long, so hands and feet are naturally bound.	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	If things continue this way, while working, we can only observe rules and regulations and keep to convention. In a today in which new things and new issues endlessly spring up, this becomes a big obstacle for innovation and advancement.	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1500.000	1525.000	TEXT1	unknown	unkown	"Helicopter thinking" is actually a way of expressing innovative thought.	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1525.000	1537.500	TEXT1	unknown	unkown	The modern era is an era of innovation and change. One's way of thinking often determines the success or failure of undertakings.	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1537.500	1550.000	TEXT1	unknown	unkown	Just like an advertisement said: The stage is as big as the heart is;	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	the road goes as far as the heart goes.	0	0	0		statement
+PLA_CMN_20080429.0835.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	At work we might as well have a bit more "helicopter thinking" to make ourselves stand higher and see further.	0	0	0		statement

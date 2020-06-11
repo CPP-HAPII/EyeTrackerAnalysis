@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080423.0344	0	600.0	700.0	speaker	unknown	unknown	州动物资源部负责人Ashish Roy Barman说：“这是第二次在特里普拉州发现H5N1型禽流感病毒。”	0	0	0		

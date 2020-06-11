@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080723.0145	0	1400.0	1500.0	speaker	unknown	unknown	A consignee of luggage and parcel should receive it by right of his/her own valid identity certificate. Otherwise, the railway department has the right to refuse delivery.	0	0	0		
+GMW_CMN_20080723.0145	0	2000.0	2100.0	speaker	unknown	unknown	One is guns and tools (including major components), such as police guns, civil guns and other guns: imitation guns, prop guns, starting pistols, steel ball guns, tear gas guns, electric stun guns and fire extinguishing guns.	0	0	0		

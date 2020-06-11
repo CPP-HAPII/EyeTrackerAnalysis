@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0043.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	蔡英文在党内多人力拱下决定参选民进党主席	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18日 12:45 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月18日电	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	950.000	975.000	TEXT1	unknown	unkown	民进党主席改选登记今天是最后一天。	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	据“中央社”报道，台湾前“行政院副院长”蔡英文在党内多人力拱下，经过长时间思考后，已决定下午前往民进党中央党部登记参选。	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	1200.000	1225.000	TEXT1	unknown	unkown	民进党主席改选登记作业今天下午五时截止。	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	1225.000	1250.000	TEXT1	unknown	unkown	目前民进党籍“立委”蔡同荣、前“总统府资政”辜宽敏已完成登记参选。	0	0	0		statement
+CNS_CMN_20080418.0043.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	民进党团总召集人柯建铭、民进党“立委”高志鹏今天上午已帮蔡英文领表，蔡英文预计在下午进行参选登记。	0	0	0		statement

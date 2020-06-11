@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117645-10709431	0	400.0	500.0	speaker	unknown	unknown	edu.cn (牧修·只恨缘分太浅，梦不能圆) 的大作中提到: 】: 紫藤小妹	0	0	0		
+cmn-NG-31-117645-10709431	0	500.0	600.0	speaker	unknown	unknown	--[1;32m “我三十一岁的时候像马雅可夫斯基一样剃成了光头。	0	0	0		
+cmn-NG-31-117645-10709431	0	600.0	700.0	speaker	unknown	unknown	我知道我可能永远都成不了他那样 [m[1;32m的诗人，但我像他一样剃成了光头。	0	0	0		
+cmn-NG-31-117645-10709431	0	700.0	800.0	speaker	unknown	unknown	他曾经说过：人，必须选择一种生活并且有勇气坚持下 [m[1;32m去。	0	0	0		
+cmn-NG-31-117645-10709431	0	800.0	900.0	speaker	unknown	unknown	我希望至少能有他那样的勇气。” [m	0	0	0		
+cmn-NG-31-117645-10709431	0	900.0	1000.0	speaker	unknown	unknown	[m [1;32m※ 来源:·四川大学蓝色星空站 lsxk.org·[FROM: 蓝色☆空] [m	0	0	0		

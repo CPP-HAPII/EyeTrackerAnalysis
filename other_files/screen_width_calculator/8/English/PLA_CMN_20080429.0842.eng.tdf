@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0842.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Chinese Students in Ho Chi Minh City Impatient for Arrival of Olympic Torch	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 06:41:24 Source: Xinhua News Agency	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Ho Chi Minh City, April 28 (Reporters: Fei Honghai, Huang Haimin) "Just like their fellow countrymen at home, overseas students also eagerly look forward to the arrival of the Olympic torch."	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	This is how four representatives of Chinese students in Ho Chi Minh City expressed their mind in an interview with the reporters of Xinhua News Agency.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	They are all studying in the University of Social and Human Sciences in Ho Chi Minh City.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	They said that, after learning that the Olympic torch would pass through Ho Chi Minh City, the Chinese students began making preparations in early April. They first asked about whether their university had arranged any relevant activity and then contacted the Chinese consulate-general in Ho Chi Minh City expressing the hope of taking part in the relay.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	There are more than 100 Chinese students in Ho Chi Minh City.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	They designed various plans for welcoming the Olympic torch. For instance, they would wear the same cloths during the relay and hold high a banner that said "Chinese Students Embracing Olympic Torch" or run alongside the torch bearers.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	Tang Minmin, one of the representatives, said: "We are very excited to welcome the arrival of the Olympic torch in a foreign country.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	A classmate of mine was sleepless for two nights after learning that the Olympic torch would pass through Ho Chi Minh City."	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	"Many of our Vietnamese classmates are just as excited and hope that we can take them along to witness the relay," said Qin Xinzi.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	Tang Li and Cun Xiao showed several small five-star flags they had made to the reporters, saying: "Though we may be able to attend only one of the three events, we hope to express our patriotic zeal in our own way.	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	That zeal must be expressed."	0	0	0		statement
+PLA_CMN_20080429.0842.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	Ho Chi Minh City will see the arrival of the Olympic torch on 28th. On the afternoon of 29th, 60 torch bearers will cover the 1013km journey while holding the torch.	0	0	0		statement

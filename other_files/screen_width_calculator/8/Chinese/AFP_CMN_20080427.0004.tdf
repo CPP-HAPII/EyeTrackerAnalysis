@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	乌克兰葵花油污染 西班牙紧急下令全面撤架	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社马德里二十六日电	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	西班牙食品安全局今天表示,一批自乌克兰进口的葵花油被发现遭到碳氢化合物污染后,食品安全局已下令西班牙所有葵花子油	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	下架不得贩售。	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	食品安全局一名发言人告诉「法新社」,所有葵花油下架禁止出售,「直到我们得知哪几个品牌的产品被污染」,可能二十八日就会揭晓。	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	一批自乌克兰进口的葵花油检验出脂肪族碳氢化合物后,食品安全局发布了健康警示。	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	然而西班牙卫生部长苏利亚今天表示,这些葵花油中的碳氢化合物浓度「极低,不具重大毒性风险」。	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	食品安全局表示,这批葵花油运抵法国后,法国通知了西班牙当局。	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	发言人指出,食品安全局正试图追踪所有遭到污染的一百二十五吨葵花油的去向。	0	0	0		statement
+AFP_CMN_20080427.0004.sgm	0	3600.000	3800.000	TEXT1	unknown	unkown	食品安全局警告消费者,即使风险不高,「为求谨慎,不要使用葵花油」。	0	0	0		statement

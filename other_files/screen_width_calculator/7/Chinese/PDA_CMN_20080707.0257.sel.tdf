@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080707.0257	0	200.0	300.0	speaker	unknown	unknown	澳大利亚电视9台7月6日报道说，上世纪60年代，美军曾想在澳大利亚昆士兰州一偏远地区利用澳大利亚士兵测试沙林毒剂。	0	0	0		
+PDA_CMN_20080707.0257	0	800.0	900.0	speaker	unknown	unknown	曾在霍尔特手下任职的彼得・贝利在接受电视9台采访时说，当时澳大利亚政府的一些官员考虑过这一计划，一些内阁部长还坚持认为如果拒绝这一计划会损害美澳两国关系。	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.2506	0	0.0	100.0	speaker	unknown	unknown	中国首家方解石造纸厂落户世界自然遗产地武隆	0	0	0		
+CNS_CMN_20080718.2506	0	400.0	500.0	speaker	unknown	unknown	郭忠亮称，河北某纸业集团已与武隆县达成合作意向，将投资十六亿元人民币在武隆县建国内首家方解石造纸厂。	0	0	0		
+CNS_CMN_20080718.2506	0	500.0	600.0	speaker	unknown	unknown	该项目将于今年七月底正式签约，二00九年底一期项目可正式投产，形成年产十万吨的造纸规模，最终在二0一0年形成年产二十万吨的造纸规模。	0	0	0		
+CNS_CMN_20080718.2506	0	700.0	800.0	speaker	unknown	unknown	与传统的纤维造纸相比，方解石造纸不用一滴水，树枝使用量节约百分之八十，耗电量节约百分之六十五，是一种完全环保的造纸工艺。	0	0	0		

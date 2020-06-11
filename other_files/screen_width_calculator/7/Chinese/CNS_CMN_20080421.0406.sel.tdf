@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080421.0406	0	500.0	600.0	speaker	unknown	unknown	根据二十日公布的数据显示，《功夫之王》在北美上映的第一个周末取得二千零九十万美元的票房，这一成绩在今年以来的周末票房成绩中处于中游水平，略高于上周末的票房冠军《灯红酒绿杀人夜》(Prom Night)，但不及《决胜二十一点》首映时的票房收入。	0	0	0		
+CNS_CMN_20080421.0406	0	800.0	900.0	speaker	unknown	unknown	同时上映的好莱坞爱情喜剧片《忘掉负心女》( Forgetting Sarah Marshall)夺得一千七百多万美元的票房，位居票房榜次席。	0	0	0		
+CNS_CMN_20080421.0406	0	1100.0	1200.0	speaker	unknown	unknown	《功夫之王》由好莱坞狮门影业公司出品，剧情与中国古典名著《西游记》不无关系，但经过好莱坞编剧约翰·福斯克改编后已经“面目全非”。	0	0	0		

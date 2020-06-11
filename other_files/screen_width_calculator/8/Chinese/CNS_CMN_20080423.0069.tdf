@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080423.0069.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	中国外交部吁俄方妥善处理远东俄中学生群殴事件	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23日 09:28 来源：中国新闻网 <span class="style3"><a href='http://comment.chinanews.com.cn/comments/comments.php?newsid((1228744))' target="_blank"><img src="/fileftp/2007/12/2007-12-13/U31P4T47D7993F967DT20071213101145.gif" width="14" height="14" border((0)) /> <span class="style3">发表评论 </span></a></span>	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月23日电	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	中国外交部发言人姜瑜4月22日就符拉迪沃斯托克市发生的中国学生和俄罗斯学生群殴事件发表评论，提请俄方公正客观调查，妥善处理，切实保障中国留学生安全和合法权益，避免此类事件再次发生。	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	姜瑜说，在4月15日的群殴事件中，中国留学生2人、俄罗斯学生3人受伤，受伤学生已经被送到医院治疗，没有生命危险。	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	中国外交部和教育部对此高度重视，中国驻哈巴罗夫斯克总领事馆立即派员赴医院探望受伤学生。	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	姜瑜表示，中国外交部和驻俄使馆也会做好相关善后工作。	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	4月15日，俄罗斯学生和中国留学生在符拉迪沃斯托克国立经济服务大学剧院附近发生群殴，事件发生时多人被刀具刺伤。	0	0	0		statement
+CNS_CMN_20080423.0069.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	当地警方表示，群殴原因是一名俄罗斯学生和一名中国学生因日常原因发生口角导致冲突，二者找到了各自的支持者打群架，群殴事件并非由种族原因引起。	0	0	0		statement

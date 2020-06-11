@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	对抗全球暖化 日本首相呼吁全民一起来	0	0	0		statement
+AFP_CMN_20080406.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社东京六日电	0	0	0		statement
+AFP_CMN_20080406.0004.sgm	0	900.000	1100.000	TEXT1	unknown	unkown	日本首相福田康夫昨天呼吁日本民众一同参与政府所倡导的对抗气候变迁行动。	0	0	0		statement
+AFP_CMN_20080406.0004.sgm	0	1300.000	1500.000	TEXT1	unknown	unkown	福田与企业领袖及政府官员举行会议,讨论阻止全球暖化的措施时,提出这项呼吁。	0	0	0		statement
+AFP_CMN_20080406.0004.sgm	0	1700.000	2100.000	TEXT1	unknown	unkown	这项会议在北海道山区度假中心洞爷湖举行,福田在会后表示:「光是政府和企业界的努力,不足以应付全球暖化所需要的措施」;下一届八大工业国高峰会定于七月在洞爷湖举行。	0	0	0		statement
+AFP_CMN_20080406.0004.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	他补充指出:「我们要求所有民众参与,我们要求民众试着改变生活方式」。	0	0	0		statement
+AFP_CMN_20080406.0004.sgm	0	2700.000	3100.000	TEXT1	unknown	unkown	八大工业国高峰会于七月七日到九日举行时,预料气候变迁将是重要的议程;这项高峰会将有英国、加拿大、法国、德国、义大利、日本、俄罗斯、以及美国领导人出席。	0	0	0		statement
+AFP_CMN_20080406.0004.sgm	0	3300.000	3700.000	TEXT1	unknown	unkown	日本支持大幅限制温室效应气体排放量的京都议定书,但是日本从一九九零年代的经济衰退复苏之际,远远落后其应该达成的减排目标。温室效应气体被认为是造成全球暖化的主因。	0	0	0		statement

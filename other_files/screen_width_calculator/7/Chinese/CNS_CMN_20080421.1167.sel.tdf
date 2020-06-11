@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080421.1167	0	3300.0	3400.0	speaker	unknown	unknown	心理所刘正奎博士说：“这是因为中国文化或家长更希望孩子应该文静、内敛一些，而美国更强调个性的张扬和发展。”这样的例子有很多。	0	0	0		
+CNS_CMN_20080421.1167	0	4100.0	4200.0	speaker	unknown	unknown	调查结果显示，在所有接受测试的城市居民中，15%-18%的人心理健康状况为“好”；65%-70%为“良好”；11%-15%为“较差”；2%-3%的人为“差”。	0	0	0		
+CNS_CMN_20080421.1167	0	5500.0	5600.0	speaker	unknown	unknown	中国心理咨询业亟待规范化	0	0	0		
+CNS_CMN_20080421.1167	0	6000.0	6100.0	speaker	unknown	unknown	他说，判断一个人是否有心理问题,必须由专业从业人员经过严格的程序才能得出结论。	0	0	0		

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0014.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	马英九:推动未来两岸定期航班可延远飞达第三地	0	0	0		statement
+PDA_CMN_20080418.0014.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0014.sgm	0	900.000	1900.000	TEXT1	unknown	unkown	马英九今天上午拜会台湾长荣集团总裁张荣发时表示，未来除渐进实施两岸周末包机、平日包机外，还要推动两岸定期航班可以相互延远，也就是台湾的飞机可从大陆再飞往其它地方，大陆的飞机也可从台湾飞往第三地。	0	0	0		statement
+PDA_CMN_20080418.0014.sgm	0	2100.000	2450.000	TEXT1	unknown	unkown	据“中央社”报道，张荣发在与马英九会面时对于两岸包机问题建议，除了客运包机外，也应同时推动货运包机，才能真正解决台商货物在航空运输的需求；	0	0	0		statement
+PDA_CMN_20080418.0014.sgm	0	2450.000	2800.000	TEXT1	unknown	unkown	同时，尽速达成两岸定期航班的目标，才能让两岸民航正常发展。	0	0	0		statement
+PDA_CMN_20080418.0014.sgm	0	3000.000	3050.000	TEXT1	unknown	unkown	马英九则向张荣发承诺，两岸客运包机将渐进实施，七月先开放周末包机，年底前可以做到平日包机，但视两岸协商情形及市场反应，或许可提前实施；	0	0	0		statement
+PDA_CMN_20080418.0014.sgm	0	3050.000	3100.000	TEXT1	unknown	unkown	未来一定要推动的两岸定期班机，还要可以延远，也就是台湾的飞机飞到大陆后，可以再飞到其它地方，大陆的飞机飞来台湾后也能再飞往它地，这对空运业者来说会有很大的发展空间。	0	0	0		statement

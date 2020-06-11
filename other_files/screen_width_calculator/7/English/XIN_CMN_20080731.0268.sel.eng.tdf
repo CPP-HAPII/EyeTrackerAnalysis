@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080731.0268	0	200.0	300.0	speaker	unknown	unknown	Oberto, center for the NBA-league team the Spurs, said, "Regarding the Beijing Olympic Games, I feel first of all that we should forget the championship we seized four years ago. That's the only way for us to play even better."	0	0	0		
+XIN_CMN_20080731.0268	0	600.0	700.0	speaker	unknown	unknown	However, the Argentina team won only two of its recent five warm-up games and, in the run up to the Olympic Games, this is worrying people about the team's prospects for defending its title.	0	0	0		

@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0038.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	港保安局长不欢迎藏独分子赴港 下令"不容有失"	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 09:21 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	中新网4月27日电 奥运火炬5月2日展开香港区传送，香港保安局局长李少光26日重申不欢迎藏独分子来港，但暂时无证据显示圣火传递当日香港会受到恐怖袭击，他强调警方届时会派出至少2000人执行保安工作，同时会加强边境戒备，及成立紧急监察应变中心。	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	据香港文汇报报道，奥运圣火香港区传递的大日子临近，李少光26日称，当局暂时未确定火炬传递的最终路线，但预计作大修改的机会不大，届时警方会派出至少2,000人执行保安工作。	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	他续说，暂时无证据显示有恐怖分子将会或已偷渡来港进行恐怖袭击。	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	李少光重申，局方不会掉以轻心，更不会让打正旗号的藏独分子入境，破坏社会秩序。	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	他形容，早年在港举行的世贸部长级会议，举办的日子较短，但今次奥运圣火传递连马术比赛，时间横跨数月，他承认对有关的保安工作感到压力，已向各执法部门下了指令，表达今次奥运保安工作“不容有失”的决心。	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	他续称，奥运是全球盛事，香港又是一个自由开放的社会，因此港府预计会有数以10万计市民上街，为传递圣火打气。	0	0	0		statement
+CNS_CMN_20080427.0038.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	他认为只要市民依法、合理地、克制地表达意见，政府绝不阻止。	0	0	0		statement

@@ -1,0 +1,134 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 67.358999999999995, 98.822999999999993, 103.583, 261.84399999999999, 274.92599999999999, 1400.9359999999999, 9999999.0]
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	67.359	70.217	speaker#1	male	native	观众朋友你好,欢迎收看中央电视台军事报道	1	1	1	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	70.217	72.249	speaker#2	female	native	下面请看详细内容	1	2	2	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	72.249	77.811	speaker#1	male	native	今天下午北京奥运会圣火采集仪式在希腊古奥林匹克遗址举行	1	3	3	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	77.811	85.933	speaker#1	male	native	军队担负奥运圣火传递的火炬手和体育健儿更加欢欣鼓舞,纷纷表示要用最佳成绩为国争光	1	3	4	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	85.933	94.636	speaker#3	female	native	北京军区跆拳道队是一支有着辉煌成绩的军力代表队,屡次在国内国际大赛上摘金夺银	1	4	5	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	94.636	98.823	speaker#3	female	native	运动员们全程收看了圣火点燃激动人心的时刻	1	4	6	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	103.583	105.981	speaker#4	male	native	他点燃的是激情,传递的是梦想	3	6	8	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	124.906	134.814	speaker#3	female	native	曾被广州军区党委授予奋力拼搏,争上游,游泳队称号的广州军区体育项目队游泳队今天又开始了新一轮的超强训练	3	7	11	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	134.814	141.503	speaker#3	female	native	每天他们要进行一次一万米的游泳训练,每周游泳训练量都在十万公里以上	3	7	12	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	141.503	156.314	speaker#5	male	native	呃我感觉非常的激动,非常的兴奋,但是他圣火的点燃也代表着奥运会的临近,在这有限的时间内,我要更加紧迫的提高自己的能力,让自己达到一个巅峰的状态,这样才可以在奥运会上展示国威,展示军威	3	8	13	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	156.314	165.092	speaker#3	female	native	今天下午八一济南柔道队就要赴江苏乌江参加本月二十七号举行的全国锦标赛,暨奥运会选拔赛	3	9	14	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	165.092	170.883	speaker#6	female	native	目前我们正在高强度的训练,每天的训练时间达到了六个小时以上	3	10	15	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	173.616	176.6	speaker#6	female	native	力量训练可以说拿吨来计算	3	10	17	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	176.6	181.951	speaker#6	female	native	争取在选拔赛上 (()) ,才能在奥运会上拿金牌	3	10	18	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	181.951	190.809	speaker#3	female	native	在福建厦门,奥运火炬手厦门警备区鼓浪屿好把连连长付奇玉叶观看了圣火点燃的全过程	3	11	19	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	190.809	199.713	Fu_Qi_Yu	male	native	能够成为一名奥运火炬手非常荣幸,我将履好职,尽好责,做文明的使者	3	12	20	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	199.713	205.354	speaker#3	female	native	今天上午,全军环保绿化委员会第十一次全体会议在北京召开	3	13	21	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	205.354	212.139	speaker#3	female	native	中央军委委员,全军环保绿化委员会主任,总后勤部部长廖锡龙在会上强调	3	13	22	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	212.139	219.841	speaker#3	female	native	各级要深入贯彻落实党的十七大精神,在新的起点上推进军队生态环境建设创新发展	3	13	23	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	219.841	227.718	speaker#3	female	native	要着力抓好绿色奥运行动计划,节能减排军营行动等重点工作和大项工程落实	3	13	24	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	227.718	234.781	speaker#3	female	native	要搞好军地资源中和利用,走出一条军民融合式,环境保护和生态建设路子	3	13	25	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	238.517	252.115	speaker#3	female	native	全军环保绿化委员会副主任,总参谋长助理杨志奇,总政治部副主任贾挺安,总后勤部副部长李脉副,总装备部副部长朱发忠等领导出席了会议	3	13	27	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	252.115	261.844	speaker#2	female	native	西安陆军学院为适应信息化条件下联合作战发展的要求,积极探索融合式教学模式,加快初级指挥军官能力素质的提高	3	14	28	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	274.926	287.084	speaker#3	female	native	三月中旬,西安陆军学院组织数百名学员和战术兵种政工等五个专业的教员,开赴 (()) 山路边缘演练场,拉开了新年度融合式教学的序幕	5	16	30	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	287.084	310.01	speaker#8	male	native	融合式教学他是以战术课题为载体,采取一个课题,多种相并,一个相并,多种作业,以此作业,多项内容,一是演练,多种锻炼,这么种方法,编过去的独角戏为现在的大演练	5	17	31	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	310.01	326.862	speaker#3	female	native	记者在教学现地看到,在同一战术背景条件下,按照实战化程序,学员们分段学习应用战术谋略,参谋技能,兵种专业,政工业务和战场管理,突出实际应用,全面强化和锻炼学员的综合指挥能力	5	18	32	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	326.862	335.741	speaker#9	male	native	我们既要充当指导员的身份,还要充当连长和参谋的身份来实施作业,对于我们提高认知能力都有很大的帮助	5	19	33	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	335.741	343.8	speaker#3	female	native	在融合各专业教学的基础上,他们还将教学向部队训练融合,与战区部队建立了联讯联演机制	5	20	34	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	343.8	348.613	speaker#3	female	native	每年都组织毕业学员到部队进行作战指挥教学训练	5	20	35	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	348.613	362.942	speaker#10	male	native	与部队训练相融合,不仅可以检验我们的教学水平和效果,那么更重要的是呢能够使教学始终与部队战斗力增长同步,与部队现代化建设相适应	5	21	36	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	362.942	368.48	speaker#3	female	native	去年以来,学院又开始把教学活动向预定战场环境融合的实践	5	22	37	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	368.48	379.481	speaker#3	female	native	以作战任务为牵引,让学员全程体验作战环境,现场研讨训法战法,全面提升学员的指挥能力,战术思想和谋略水平	5	22	38	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	379.481	388.292	speaker#1	male	native	各部队进入专业阶段训练以来,结合使命任务,开展训练创新活动,使部队的训练水平和整体战斗力不断攀升	5	23	39	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	388.292	393.665	speaker#11	male	native	这是济南军区某装甲团组织的一场带有实战背景的综合演练	5	24	40	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	393.665	400.261	speaker#11	male	native	充当指挥员角色的士官运用多种战法带领官兵在攻防对抗中提高作战能力	5	24	41	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	400.261	407.416	speaker#11	male	native	这个团把培养一支善谋略,能指挥,会管理的士官队伍,作为推动军事训练转型的实施举措	5	24	42	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	416.077	421.255	speaker#3	female	native	今天南京军区某州桥团金进行了一场综合架桥演练	5	25	44	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	421.255	431.592	speaker#3	female	native	数百名州桥官兵迅速将一节节谋定门桥锁定在江心的桥轴线上,不到四十分钟,一条钢铁巨龙就横卧在江面上	5	25	45	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	431.592	437.936	speaker#11	male	native	今日,驻守在长白山脚下的沈阳军区某旅举行了一场全要素,全系统比武竞赛	5	26	46	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	437.936	449.077	speaker#11	male	native	这一次比武从实战需要出发,设置比武项目,通过实战化考核,强化官兵 (()) 呃思想,检验部队全员全装全要素整体反应能力	5	26	47	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	449.077	457.855	speaker#2	female	native	三月二十一号,云南省德宏州引江县境内发生了里氏五级地震,驻地某边防团官兵紧急出动投入抗震救灾	5	27	48	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	457.855	470.923	speaker#3	female	native	震中位于盈江县城西南四十一公里的铜壁关乡浪速村一带,地震造成部分房屋开裂和倒塌,部分公路桥梁等基础设施受损,十五个乡镇一万五千多人受灾	5	28	49	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	479.159	484.972	speaker#3	female	native	目前灾区群众人心安定,治安秩序良好,救灾工作正在进一步开展	5	28	51	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	484.972	490.426	speaker#12	male	native	各位观众,这里是受地震灾害最为严重的新疆 (())	5	29	52	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	498.469	510.872	speaker#3	female	native	灾情发生后,和田军分区迅速组织官兵对受灾群众危房进行清理,帮助受灾群众转移到安全地域,搭设救灾帐篷,为灾民检查身体,送医送药	5	30	54	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	510.872	519.337	speaker#13	female	native	感谢党,感谢人民解放军为我们搭帐篷,送温暖	5	31	55	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	528.538	540.782	speaker#1	male	native	解放军第幺零五医院干部病房原副主任孙晓春在平凡的岗位传递友情,播散真爱,用自己年轻的生命写就了一个普通军医的阳光人生	5	33	57	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	540.782	549.1	speaker#3	female	native	像孙晓春那样做人是解放军幺零五医院聘用制医生黄金华为自己定下的做人准则	5	34	58	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	549.1	558.216	speaker#3	female	native	虽然作为在读研究生,只是短时间在这里工作,但采访中小黄却说是孙晓春影响了他的整个人生	5	34	59	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	558.216	570.439	Huang_Jin_Hua	female	native	孙主任经常跟我们讲,作为一个医务工作者,必须从自身做起,对病人要有爱心,努力去改善医患关系,他的这种精神一直在鞭笞着我	5	35	60	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	570.439	574.47	speaker#3	female	native	熟悉孙晓春的人都说,他是一个特别有爱心的人	5	36	61	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	574.47	578.861	speaker#3	female	native	在女儿朱毅圆的记忆中,孙晓春更是充满着爱心	5	36	62	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	578.861	582.711	Zhu_Yi_Yuan	female	native	呃我想全天下的母亲对孩子的心可能都是这样的	5	37	63	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	582.711	593.428	Zhu_Yi_Yuan	female	native	只是我的母亲可能没有其他的母亲那样会经常抽时间啊呃去陪我上公园,但是他对我的爱应该说也是无私的	5	37	64	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	602.694	612.956	speaker#16	female	native	我们护士特别喜欢和他打班,只要让跟孙医生在一起打班,都非常的大开心,哦今天 (()) 孙医生啊都高兴的跳起来	5	39	66	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	612.956	617.537	speaker#3	female	native	心中始终装着别人,别人也真心牵挂着他	5	40	67	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	617.537	625.309	speaker#3	female	native	在孙晓春患病住院期间,许多人都赶来探望,病逝以后,许多老干部为他送行	5	40	68	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	625.309	630.855	speaker#17	female	native	呃我就觉得她没有走,好像就在我们这个身边,随时随地好像都在	5	41	69	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	630.855	641.811	speaker#17	female	native	我到至今我的手机里面还有他的电话,这个我就觉得只要打开手机看到他的名字,我就觉得他在	5	41	70	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	660.532	667.639	speaker#11	male	native	第二炮兵某部组织理论功底好,教学经验丰富的授课能手,深入施工一线,备课施教	5	43	73	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	667.639	679.81	speaker#11	male	native	同样,济南军区某通信总站发挥理论骨干辐射带动作用,运用如情如理的生动事例,开展教育,使教育内容进入关闭思想,融入他们的具体工作	5	43	74	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	679.81	685.016	speaker#11	male	native	运用网络和信息技术开展主题教育,是许多部队采取的新做法	5	43	75	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	685.016	687.61	speaker#11	male	native	互动论坛上大家各抒己见	5	43	76	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	687.61	693.415	speaker#11	male	native	海军某部在局域网上开展辅导课题大家设,配合活动大家定活动	5	43	77	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	702.979	710.241	speaker#11	male	native	他们还研制出教育辅导测评系统,改过去的灌输式教育为现在的交互式教育	5	43	79	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	723.754	729.739	speaker#11	male	native	一些部队利用改革开放的大课堂,将教育课程向社会延伸	5	45	81	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	729.739	733.523	speaker#11	male	native	北京军区某部到驻地高新企业感受新成就	5	45	82	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	733.523	737.475	speaker#11	male	native	海南省军区到改革开放前沿亲历科学发展	5	45	83	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	737.475	743.742	speaker#11	male	native	沈阳军区某部组织官兵来到驻地北大荒博物馆,聆听前辈创业的艰苦历程	5	45	84	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	751.406	763.986	speaker#1	male	native	基层建设抓得好不好,关键看各级主官的能力素质强不强,日期北京军区装备部对所属基层部队的三级政工主官和党支部书记进行集训,给他们 (())	5	46	86	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	763.986	775.358	speaker#11	male	native	和以往不同的是,这次集训没有安排领导做动员讲话,而是一上来就进行了理论摸底考核,之后,他们以传帮带的形式帮助理思路,谋发展	5	47	87	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	775.358	784.393	speaker#11	male	native	并组织大家围绕自主抓建能力上的短板,发展中的平津等问题进行座谈讨论,制定出改进方法和措施	5	47	88	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	784.393	798.534	speaker#19	male	native	尤其是我们直属队,都是一些小 (()) 单位,他们自主抓建能力的强弱,直接影响到部队全面建设又好又快的发展	5	48	89	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	798.534	809.328	speaker#19	male	native	因此,给他们 (()) ,增强他们自身的造血功能,才是提高自主抓建能力的有效途径	5	48	90	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	809.328	820.462	speaker#2	female	native	广西军区桃源路干休所九十二岁老红军郝易几十年如一日深入部队机关一线联队,宣讲革命传统,引导官兵坚定理想信念	5	49	91	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	820.462	829.017	speaker#3	female	native	今天上午,老红军郝易来到广西军区某通信站,饮水资源 (()) 读书演讲会上讲革命传统	5	50	92	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	842.141	850.582	speaker#3	female	native	郝易是安徽金寨人,一九三二年二月参加红军,长征时三过雪山草地,一生中经历了无数战火的考验	5	52	94	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	861.677	867.582	speaker#3	female	native	他还编写了五万多字的宣讲材料和革命传统故事供官兵学习和讨论	5	52	96	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	867.582	888.83	Hao _Yi 	male	native	我要更加珍惜时间,深入部队,向青年官兵们宣讲革命的传统,宣讲党的创新理论,让坚定的理论信念在青年官兵心里头扎根	5	53	97	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	888.83	896.232	speaker#3	female	native	据了解,郝易先后为部队官兵做报告一千二百多场,观众达二十多万人次	5	54	98	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	900.075	909.62	speaker#1	male	native	连日来驻西藏部队官兵组成一支支文化医疗科技服务队,走村串户,开展便民服务,深入农牧区,支援群众春耕生产	5	55	100	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	909.62	920.433	speaker#3	female	native	眼下正是藏区播种青稞的季节,在拉萨河畔,在鸭绿 (()) 两岸的田间地头处处都能看到部队官兵繁忙忙碌的身影	5	56	101	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	920.433	934.204	speaker#3	female	native	今年,拉萨市 (()) 又有十几户村民购置了拖拉机和播种机,农忙季节,部队的农机服务人员主动上门,现场培训技术人员,免费提供维修服务	5	56	102	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	934.204	950.207	speaker#11	male	native	有了这种播种机后,耕作方式和播种条件得到很大的改善,这样即省时有省力,感谢党的富民政策,给我们带来实惠,感谢解放军给我们送来科技和技术力量	5	57	103	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	950.207	961.708	speaker#3	female	native	春季流行疾病多发,部队的医务人员带着医疗器材和常用药品深入藏族群众聚集地,免费为他们查体看病,宣传防病保健常识	5	58	104	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	961.708	970.456	speaker#3	female	native	在西藏的山南,临淄和日喀则等地区,部队官兵在帮助群众犁地播种的同时,积极参加驻地农田水利建设	5	58	105	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	970.456	977.025	speaker#3	female	native	官兵还与地方农业科技部门一道把致富书籍和种养殖技术送到驻地村镇	5	58	106	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	977.025	986.414	speaker#3	female	native	据统计,近三年来驻西藏部队共开办八十多期农业科技培训班,帮助农民解决种植养殖和加工技术难题五百多个	5	58	107	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	986.414	993.227	speaker#3	female	native	提供设法维权服务一千多次,促进了当地生产发展和牧民群众生活水平的提高	5	58	108	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	993.227	998.462	speaker#3	female	native	今天是世界防治结核病日,今年的主题是控制结核人人有责	5	58	109	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	998.462	1016.931	speaker#3	female	native	担负全局结核病防治预防诊断治疗和研究任务的解放军总医院第二附属医院全军结核病研究生,抽调六名医学博士等十三名专家组成的专家医疗队,连日来分赴京津等地为群众提供咨询服务,宣传结核病防治知识	5	58	110	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1016.931	1019.422	speaker#3	female	native	接下来是一组简讯	5	58	111	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1019.422	1026.0	speaker#11	male	native	日前全军血液储备试点工作现场会,暨质量管理培训班在南京召开	5	59	112	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1026.0	1034.86	speaker#11	male	native	与会代表对我军战备血液储备库 (()) 定位,人员编程,装备配备,库室建设等问题进行交流讨论	5	59	113	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1034.86	1041.111	speaker#3	female	native	第三十三期国际脊椎推拿培训班日前在广州军区广州总院举行	5	60	114	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1041.111	1047.782	speaker#3	female	native	医务工作者围绕三步定位诊断法, (()) 推拿疗法等内容进行专业培训	5	60	115	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1047.782	1058.523	speaker#11	male	native	空军航空兵某部日前派出医疗小分队来到囫囵贝尔市 (()) 草原,为牧民进行体检,并赠送药品,生活用品	5	61	116	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1058.523	1064.417	speaker#11	male	native	二十三年来,这个部队坚持为驻地偏远贫困牧区人民送医送药,送温暖	5	61	117	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1064.417	1073.178	speaker#3	female	native	南京大学二零零八香港学生国情研修班为期一周的大陆行活动日前在南京军区 (()) 拉开序幕	5	62	118	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1073.178	1082.94	speaker#3	female	native	来自香港于震强今年第二中学的师生参观了部队荣誉室和武器装备展,观看了军事科目表演,体验了军营生活	5	62	119	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1082.94	1089.033	speaker#11	male	native	为积极响应和支持深圳市开展的绿色大运生态深圳主题植树活动	5	63	120	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1089.033	1097.488	speaker#11	male	native	驻深圳部队民兵和地方干部群众,来到位于深圳市龙岗区大运会主会馆铜鼓岭参加义务植树活动	5	63	121	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1097.488	1100.904	speaker#1	male	native	接下来请看今天的媒体集萃	5	64	122	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1113.768	1119.747	speaker#3	female	native	截至三月十八号,共接待观众二十四万多人次,平均日接待观众一万三千多人	5	65	124	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1119.747	1122.895	speaker#3	female	native	观众留言达三千三百多条	5	65	125	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1122.895	1131.545	speaker#3	female	native	中央人民广播电台消息,我国首个铁道兵博物馆将正式落户四川乐山金口河区,三年后将正式建成	5	65	126	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1131.545	1136.447	speaker#3	female	native	这也是我国唯一反映铁道兵力式和战斗历程的主题博物馆	5	65	127	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1142.001	1155.917	speaker#3	female	native	三月二十三号长春市一个工地的挖沟机在挖掘地基时从深约二米的地下挖出七百多枚炮弹,目前警方已对炮弹进行监督和处理,经初步鉴定炮弹都是无毒炮弹	5	65	129	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1155.917	1174.762	speaker#3	female	native	三月二十一号士兵突袭中扮演许三多的新星王宝强应邀来到武警河北总队邢台市支队新训大队,与新战士共话军旅人生,鼓励新战士像许三多那样不抛弃,不放弃,苦炼精兵,建功 (()) ,做党和人民的忠诚卫士	5	65	130	report	
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1174.762	1187.288	speaker#3	female	native	国际方面,三月二十三号是巴基斯坦国庆日,今年巴基斯坦军队在首都伊斯兰堡珍娜体育中心举行了盛大的阅兵式,巴总统穆沙拉夫观看国庆日阅兵式	5	65	131	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1187.288	1197.992	speaker#3	female	native	印度国防部二十三号宣布,印度军方当天在印度东部奥里萨邦附近 (()) 试验场,成功试射了一枚自行研发的烈火一行地对地导弹	5	65	132	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1206.264	1208.347	speaker#1	male	native	继续关注国际方面消息	5	66	134	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1208.347	1212.54	speaker#1	male	native	巴基斯坦国民议会将于今天对新总理人选进行表决	5	66	135	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1212.54	1218.175	speaker#1	male	native	巴基斯坦总统穆沙拉夫二十三号表示,将对新一届政府予以全力支持	5	66	136	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1218.175	1231.904	speaker#11	male	native	二十三号,巴基斯坦人民党副主席,新总理候选人杰拉尼正式向国民议会提交了提名书,并表示,巴基斯坦所有的政治力量应该齐心协力,消除巴基斯坦的政治危机	5	67	137	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1251.072	1258.989	speaker#11	male	native	分析人士认为,新一届政府不仅面临日益严重的极端主义,高通货膨胀率和电力短缺等社会问题	5	67	140	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1258.989	1264.612	speaker#11	male	native	联合政府中,各党派的矛盾和利益分歧更加考验新政府的执政能力	5	67	141	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1264.612	1271.258	speaker#11	male	native	二十三号是巴基斯坦国庆日,巴基斯坦总统穆沙拉夫首次以文职身份出席阅兵式	5	67	142	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1277.118	1290.228	speaker#2	female	native	二十三号,数千名日本冲绳县居民在 (()) 召开县民大会,抗议驻日美军引发一系列案件和事故,要求从根本上修改日美地位协定,并缩小驻日美军基地的规模	5	68	144	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1298.668	1304.963	speaker#3	female	native	当天一共有大约六千名冲绳县民众以及该县十个室町村的行政长官参加了大会	5	69	146	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1304.963	1319.471	speaker#3	female	native	冲绳市市长东门美京子在大会上说,驻日美军引发的案件和事故频繁发生,冲绳民众怀着强烈的愤慨向日美两国政府提出抗议,但每次抗议的声音都被忽视,美军引发的恶性案件仍不断发生	5	69	147	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1319.471	1336.043	speaker#3	female	native	大会通过的决议要求从根本上修改规定驻日美军优先地位的日美地位协定,进一步整编缩小美军基地的规模,并削减驻日美军人数,为杜绝美军侵害人权事件日本政府应明确自身责任,并采取有效行动	5	69	148	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1336.043	1343.185	speaker#11	male	native	伊拉克二十三号发生系列爆炸和枪击袭击事件,共造成至少二十五人死亡,六十多人受伤	5	70	149	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1343.185	1351.127	speaker#11	male	native	在首都巴格达,先是绿区遭到迫击炮袭击,随后有发生针对什叶派聚集区的爆炸枪击事件	5	70	150	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1351.127	1357.886	speaker#11	male	native	北部城市摩苏尔西部的伊军营地当天也发生自杀式袭击,造成数十名军人伤亡	5	70	151	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1357.886	1367.701	speaker#11	male	native	伊拉克今年年初以来,袭击事件有所增加,近两周来,什叶派民兵武装也和美军以及伊安全部队发生了激烈冲突	5	70	152	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1375.738	1383.423	speaker#3	female	native	自去年六月哈马斯用武力控制了加沙地带后,加沙一直处于以色列的封锁之下,拉法口岸也处于关闭状态	5	71	154	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1383.423	1395.263	speaker#3	female	native	今年一月加沙的哈马斯武装人员炸毁了链接加沙和埃及的拉法口岸附件的边界墙,数百名加沙巴勒斯坦人涌入埃及,采购生活用品,随后有多人被捕	5	71	155	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1395.263	1397.972	speaker#2	female	native	好,感谢你收看今天的军事报道	5	72	156	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1397.972	1399.414	speaker#1	male	native	明天同一时间再见	5	73	157	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080325_100502	0	1399.414	1400.936	speaker#2	female	native	再见	5	74	158	report	statement

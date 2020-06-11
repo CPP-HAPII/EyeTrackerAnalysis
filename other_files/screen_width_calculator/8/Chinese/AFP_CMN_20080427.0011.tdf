@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0011.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	西班牙政府:遭索马利亚海盗挟持渔船获释	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社马德里二十六日电	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	西班牙副总理费南德兹女士今天说,一艘在索马利亚外海被海盗挟持的西班牙渔船船员已经获释,二十六名船员「十分健康」。	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	她说,这艘「Playa de Bakio」号拖网渔船,在西班牙船舰护送下被带到「安全海域」,政府正在拟定计画,将这十三名西班牙与十三名非洲船员送回国内。	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	她在记者会上并未说明船员是在何种状况下获释,或是否有交付赎款。	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	她仅表示,船员获释是政府与船东共同努力,以及政府「外交工作」的结果。	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	西班牙新闻媒体稍早说,绑匪要求一百万欧元((四千七百三十二万台币))赎款,谈判在伦敦一家饭店进行。	0	0	0		statement
+AFP_CMN_20080427.0011.sgm	0	3200.000	3500.000	TEXT1	unknown	unkown	这艘七十六公尺长的拖网渔船与船员,四月二十日在索马利亚外海捕鲔鱼时,被持有榴弹发射器的海盗挟持。	0	0	0		statement

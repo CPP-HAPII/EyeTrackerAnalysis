@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.1477	0	1700.0	1800.0	speaker	unknown	unknown	混双她和搭档一起闯入四强，她与搭档分享17500欧元的奖金。	0	0	0		

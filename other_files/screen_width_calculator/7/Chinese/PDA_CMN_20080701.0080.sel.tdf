@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080701.0080	0	200.0	300.0	speaker	unknown	unknown	北京市公安交通管理局新组建了一支“第二十九届奥运会警车带路队”，承担着奥运赛事带道及交通巡逻等任务。	0	0	0		
+PDA_CMN_20080701.0080	0	700.0	800.0	speaker	unknown	unknown	队员们训练用的摩托车都是大排量摩托车，重量分别达到了250公斤和350公斤。	0	0	0		
+PDA_CMN_20080701.0080	0	1200.0	1300.0	speaker	unknown	unknown	如今，她们和男队员一样能够熟练地驾驶摩托车，编队行进，自如穿桩，应对路面各种复杂状况。	0	0	0		
+PDA_CMN_20080701.0080	0	1900.0	2000.0	speaker	unknown	unknown	第二天早上，胳膊和腿的酸痛让她们懒得起床去吃早饭，只在房里拿出自己的零食吃上几口。	0	0	0		

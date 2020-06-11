@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117646-10710182	0	0.0	100.0	speaker	unknown	unknown	Taking public transport is the best when going to the "Water Drop" to watch the game	0	0	0		

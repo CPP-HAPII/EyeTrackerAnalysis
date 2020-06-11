@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Putin Breaks Silence and Denies the Rumor of "Planning to Get Married to Kabaeva"	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008, 20:57, Source: Chinanews.com - Comment	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Chinanews.com, April 18 - According to reports from the Russian media, Russian President Putin today broke his silence of several days and denied the widely rumored plan that he would marry former Olympic gold medalist and famous rhythmic gymnast Kabaeva.	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	"The relevant reports have not a single word of truth," Putin said while answering reporters' questions on Sardinia island of Italy in the Mediterranean Sea.	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	This is the first time Putin has directly stated his position to the media and categorically denied this issue.	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	Putin was carrying out a two-day visit there at the invitation of his "good friend" Berlusconi, who is about to take office as prime minister of Italy.	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	Putin said that he likes all Russian women.	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	"I don't think speaking like this will offend anyone -- if I announce that Russian women are the most beautiful in the world," he said.	0	0	0		statement
+CNS_CMN_20080418.0005.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	Putin told reporters that society of course had the right to get information about politicians, and reporters also had the right to seek out novel news, "but it is essential to pay attention to maintaining courtesy." (Huang Pin)	0	0	0		statement

@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 441.81400000000002, 472.94200000000001, 475.86399999999998, 888.08799999999997, 903.53399999999999, 2133.5790000000002, 9999999.0]
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	510.751	520.993	Ou_Yang_Ze_Hua	male	native	第二的话,我们现在我们的企业的层次和美国的市场也不同,要根据我们现有的企业的具体的特点,来解决我们的 (()) 上市的安排及其监管制度的设计	3	4	15	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	610.606	618.001	Li_Xiao_Meng	female	native	他们还在摇头,所以可能还需要我们用更通俗的语言告诉大家创业板究竟是怎么回事 {laugh}	3	9	36	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	656.414	658.449	Li_Xiao_Meng	female	native	还有谁别人有听说过的没	3	13	43	report	question
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	963.038	966.990	Ou_Yang_Ze_Hua	male	native	是吧,所以我们也有准备哈 {laugh}	5	28	81	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	971.865	980.608	Li_Xiao_Meng	female	native	其中一位是即将准备在创业板上市的企业代表王冠一董事长,欢迎您	5	29	83	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	1123.676	1142.150	Ou_Yang_Ze_Hua	male	native	所以这点来讲应该说年内推出创业板应该说是一个这个是已经是公开的一个共识,但是具体的时间的把握,应该说取决于企业创业企业的准备情况，保荐机构的这个尽--尽职的这调查的情况, (()) 当时国家金融市场情况的--	5	32	105	report	
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	1298.431	1313.459	Song_Li_Ping	female	native	呃那么第二点呢就是说他这个就是目前咱们市场这个欧阳主任说了,资金到底是缺资金还是缺-缺-缺信心,这个当然这是仁者见仁,智者见智哈	5	33	134	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	1471.075	1483.669	Chen_Hao	male	native	第二个因素就刚才提到的这个成本问题,啊这个想象的到就是我们还得飞到美国去,要做 (()) ,要去见投资人,这花的代价是很大的	5	39	152	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	1588.058	1612.689	Chen_Hao	male	native	另一方面呢就是这个呃收入的这个规模,上市公司呃这个主板上呢毋庸置疑,他是要一个很大的规模,但创新型企业呢一般在头两年,啊它的产品出来,进入市场头两年,它的营-营业收入的这个规模通常不会非常之大,啊但它的成长性会很高	5	39	174	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	1681.798	1689.103	Song_Li_Ping	female	native	因此呢这个百分之三十的这个--这个增长幅度呢 (()) 这个考虑的背景呢有这样一个因素	5	40	186	report	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080325_202401	0	1948.055	1957.682	Song_Li_Ping	female	native	(()) 要强制阅读,我想这个技术条件是非常简单的啊,你比如阅读之后才能翻下一页,才能呃这个技术条件非常简单	5	49	216	report	statement

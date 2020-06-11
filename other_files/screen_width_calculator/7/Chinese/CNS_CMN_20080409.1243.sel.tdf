@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080409.1243	0	200.0	300.0	speaker	unknown	unknown	西非国家尼日尔一名自称沦为10年性奴的妇女7日把政府告上法庭，指控政府不作为，没有落实自己制定的反奴役法，因此要求政府赔偿10万美元。	0	0	0		

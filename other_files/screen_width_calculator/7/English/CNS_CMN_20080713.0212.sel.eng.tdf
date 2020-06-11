@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080713.0212	0	2800.0	2900.0	speaker	unknown	unknown	Jiang Zhipei: Yes, this country is now in the stage of economic transformation. The order of market economy is being perfected and regulated. Efforts should be intensified to change the mode of economic growth and to build up the country into an innovative type one.	0	0	0		
+CNS_CMN_20080713.0212	0	3500.0	3600.0	speaker	unknown	unknown	As a matter of fact, some of the local courts have adopted the pattern of comprehensive trial and adjudication in handling the cases involving intellectual property rights.	0	0	0		

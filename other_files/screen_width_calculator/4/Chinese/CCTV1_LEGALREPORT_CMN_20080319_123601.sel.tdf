@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 305.02600000000001, 591.87400000000002, 633.81399999999996, 969.88300000000004, 1069.5989999999999, 1129.55, 1161.9870000000001, 1197.2239999999999, 1331.5229999999999, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080319_123601	0	633.814	646.627	speaker#3	male	native	这个叫白香峰的人是这个团伙中的一个骨干分子,自二零零七年八月份以来,他就冒充着上海国海证券,华夏证券等虚假的证券公司业务员对股民进行诈骗	3	22	30	report	statement
+CCTV1_LEGALREPORT_CMN_20080319_123601	0	723.763	731.218	speaker#3	male	native	经过培训以后业务员都可以上岗了,按照台词向股民推荐着所谓能够赚钱的股票	3	28	36	report	statement
+CCTV1_LEGALREPORT_CMN_20080319_123601	0	833.512	843.482	speaker#11	male	native	(()) 一次性交付三千八百块钱会费,呃你就可以成为我们的高级会员了,可以终身享受我们像你推荐的那种呃包赚不赔的股票	3	36	47	report	statement
+CCTV1_LEGALREPORT_CMN_20080319_123601	0	921.703	954.679	Yao_Jun_Ming	male	native	有-有几篇日记当中呢,这个是这个业务是个女的,她心情很低落,连续十天没侃到会员,她在第反正是每-每天日记的第一句话,我要努力,努力侃会员,呃包括她在后面的日记当中提到我要到十二月底该侃是侃满十个会员赚取三万块钱回-回家后开个网吧什么的,呃她也经常地激励自己要努力地呃这侃会员	3	44	55	report	statement
+CCTV1_LEGALREPORT_CMN_20080319_123601	0	1020.289	1035.552	Qu_Xin_Jiu	male	native	那么他们的社会经验识别真假信息的这种能力相对是要弱一些的,呃特别零-零七年年初入市的, (()) 零-零六年下半年到零七年大家习惯叫单边上扬,就几乎在这个阶段大部分人还是赚钱	4	51	65	filler	statement

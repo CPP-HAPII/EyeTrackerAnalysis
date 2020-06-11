@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080304.0171.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	首都百万奥运社会志愿者开展“两会”期间服务活动	0	0	0		statement
+GMW_CMN_20080304.0171.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	记者王豫斯 2008-03-04	0	0	0		statement
+GMW_CMN_20080304.0171.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	本报北京3月3日电((记者王豫斯)) 为了在“两会”期间营造良好的社会氛围,北京奥运会志愿者工作协调小组办公室、北京团市委、市交通安全办、市交通委、首都综治办、市交管局、市内保局、市红十字会等单位,在2008年3月2日至18日期间联合开展以“微笑北京奥运先锋”为主题的“北京奥运会社会志愿者‘两会’期间服务活动”,在全市广泛开展城市交通运行、交通秩序维护、社区治安巡逻、公共场所内保、社区扶残助困、生态环保实践、医疗卫生宣传等志愿服务活动。	0	0	0		statement
+GMW_CMN_20080304.0171.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	昨天,经过民警的现场指导,奥运会社会志愿者开始在城区100个重要灯控路口设立的交通秩序维护志愿服务岗进行服务活动,郊区城市中心的灯控路口和公共交通站台附近也将陆续组织社会志愿者开展服务活动,协助维护路口及人行横道的交通秩序和公共区域的安全;	0	0	0		statement
+GMW_CMN_20080304.0171.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	同时,在全市45个大型商市场、31个大型餐饮企业设立的内部安全保卫志愿服务岗,社会志愿者将开展公共领域的治安保卫巡逻,将有8万名社会志愿者参与全市交通秩序维护和内部保卫工作。	0	0	0		statement
+GMW_CMN_20080304.0171.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	治安巡逻社会志愿者活跃在社区、街道,开展社区的治安巡逻,协助维护生活区域及公共领域的安全秩序。	0	0	0		statement
+GMW_CMN_20080304.0171.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	据组织者介绍,北京奥运会社会志愿者“两会”期间服务活动是奥运前的一次集中检验,不仅为“两会”胜利召开营造和谐的社会氛围,还将为下一步全面开展奥运期间的志愿服务提供实践经验,进一步完善社会志愿者的组织工作机制。	0	0	0		statement
+GMW_CMN_20080304.0171.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	预计奥运期间,将有百万计的交通秩序维护志愿者、治安巡逻志愿者、内部安全保卫志愿者、城市交通运行志愿者、红十字医疗志愿者、文明监督引导员志愿者、助残助困志愿者、环境建设志愿者以及石化、邮政、公园等行业的社会志愿者队伍,共同参与志愿奥运服务工作。	0	0	0		statement

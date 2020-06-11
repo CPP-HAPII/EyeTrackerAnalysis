@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'filler', u'report', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 71.908000000000001, 227.22900000000001, 264.14800000000002, 270.71899999999999, 306.137, 355.41399999999999, 360.02499999999998, 540.26499999999999, 583.04700000000003, 794.68899999999996, 869.29700000000003, 1169.2660000000001, 1256.617, 1609.019, 1629.316, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080323_073002	0	339.387	352.600	speaker#7	male	native	目前所有的 (()) 都在我们的掌握之中,那我们也都做有效的 (()) ,那么所以我们还去启用最后关头能够确保平安	5	13	21	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080323_073002	0	675.952	683.920	Yin_Nai_Jing	female	native	那呃另外的他的会计师,他的会计师也出任了台湾很重要的第一金控的董事长哦	9	24	60	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080323_073002	0	1354.442	1365.441	Yin_Nai_Jing	female	native	因为整体的施政,让大家在生活在一个压力锅下,没有办法找到出口,很多大学毕业生呢找不到工作,对于未来呢赶到非常的茫然哦	13	33	115	filler	statement

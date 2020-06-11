@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.1558	0	600.0	700.0	speaker	unknown	unknown	浙江体育职业技术学院水上运动系负责人表示，此次中国赛艇队史无前例拿到了9个项目的入场券，目前浙江选手的训练情况相当正常，上届男子划艇500米双人项目冠军孟关良冲金实力依然强劲。	0	0	0		

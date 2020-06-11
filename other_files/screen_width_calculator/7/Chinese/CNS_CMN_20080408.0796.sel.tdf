@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080408.0796	0	200.0	300.0	speaker	unknown	unknown	现场：今天上午，中国建银投资证券复兴路营业厅内，股民李女士盯着大盘脸上浮现了笑容。	0	0	0		
+CNS_CMN_20080408.0796	0	600.0	700.0	speaker	unknown	unknown	我们认为，年首季的经济数据出现下滑，但中国经济增长的驱动力并没有根本变化，此前，A股对经济下滑和宏观调控的过度反应会得到纠正；A股的估值压力明显减弱，4至7月份限售股解禁压力明显减少，供求压力会有所缓解。	0	0	0		
+CNS_CMN_20080408.0796	0	800.0	900.0	speaker	unknown	unknown	统计显示，普遍的分析预测二季度上证综指最高点的平均值为4307点，极值为5500点。	0	0	0		

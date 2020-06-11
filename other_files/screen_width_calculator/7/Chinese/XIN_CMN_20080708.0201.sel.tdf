@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0201	0	100.0	200.0	speaker	unknown	unknown	新华社北京７月８日电（记者刘卫宏、李江涛）北京奥运会残奥会主新闻中心、国际广播中心和２００８北京国际新闻中心８日正式启用，开始为世界各国和地区的媒体提供全方位服务。	0	0	0		
+XIN_CMN_20080708.0201	0	600.0	700.0	speaker	unknown	unknown	这里的工作环境非常好，非常宽敞，北京奥组委为媒体提供了一流的服务，让这里在几周时间内成为记者的家。”	0	0	0		
+XIN_CMN_20080708.0201	0	800.0	900.0	speaker	unknown	unknown	北京奥运会残奥会媒体服务工作将提供及时、大量的信息服务，提供多样化的采访服务，提供丰富多彩的文化服务。”	0	0	0		
+XIN_CMN_20080708.0201	0	1200.0	1300.0	speaker	unknown	unknown	主新闻中心（ＭＰＣ）是奥运会、残奥会注册文字和摄影媒体的工作总部，也是北京奥组委赛时新闻运行的工作总部。	0	0	0		
+XIN_CMN_20080708.0201	0	1400.0	1500.0	speaker	unknown	unknown	国际广播中心（ＩＢＣ）是赛时广播电视的运行中心，也是世界各地转播商的总部所在地。	0	0	0		

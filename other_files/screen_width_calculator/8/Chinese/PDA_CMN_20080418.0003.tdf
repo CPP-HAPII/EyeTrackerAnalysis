@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	前高级武器测试员：美国导弹防御系统大都没用	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	900.000	1550.000	TEXT1	unknown	unkown	美国前高级武器测试员16日告诉国会，国防部浪费了加起来可达数千亿美元的费用，来建造被他形容为大部分都无用的反导弹防御系统。	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	1550.000	2200.000	TEXT1	unknown	unkown	据新加坡《联合早报》报道，曾担任助理国防部长和国防部武器测试部门主管的科伊尔说，美国建造反导弹防御系统是在浪费巨款，因为有关威胁被夸大了；反过来说，有关威胁如果属实，拟议建造的防御系统也无法应付。	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	他举例说，波音公司耗资数十亿美元，在一架747珍宝机上装置化学激光发射系统，以便在导弹发射基地附近就把导弹摧毁。	0	0	0		statement
+PDA_CMN_20080418.0003.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	但科伊尔指出，敌人只要在导弹上涂一层普通的白漆，就能把90%的激光折射掉。	0	0	0		statement

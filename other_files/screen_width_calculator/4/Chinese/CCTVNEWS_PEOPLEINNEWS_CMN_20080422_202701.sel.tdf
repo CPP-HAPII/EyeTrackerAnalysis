@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 207.04900000000001, 253.90199999999999, 284.64299999999997, 385.38, 930.61400000000003, 977.37400000000002, 1452.463, 1499.3040000000001, 1545.087, 1880.0039999999999, 9999999.0]
+CCTVNEWS_PEOPLEINNEWS_CMN_20080422_202701	0	1545.087	1576.993	speaker#4	male	native	当然这是一个非常重要的问题,我认为解决这个问题的钥匙恰恰掌握在我们媒体手中,应该更多的给人们传播的是事实,最重要的是不要把人们引入到媒体的信息战中来	9	29	104	filler	statement

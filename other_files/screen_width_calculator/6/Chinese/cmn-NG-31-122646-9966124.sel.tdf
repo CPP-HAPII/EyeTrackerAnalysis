@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-122646-9966124	0	400.0	500.0	speaker	unknown	unknown	出差前，在我所在城市的工行ATM机上取了800元现金，像往常一样，习惯性的检查了一下吐钞口吐出的钞票，其中一张感觉有异，抽出来一看，纸质厚钝，老人家面目模糊，头轰的一下大了，"假钱"！！	0	0	0		
+cmn-NG-31-122646-9966124	0	500.0	600.0	speaker	unknown	unknown	我当即拿着那张假币在ATM机上的摄像头前晃了一下，以图证明案发时间，然后迅速飞奔到后面的工行营业厅窗口。	0	0	0		
+cmn-NG-31-122646-9966124	0	600.0	700.0	speaker	unknown	unknown	结果可想而知，柜台MM接过钱冷冰冰的说：对不起，不能证明你是在取款机上取的。	0	0	0		
+cmn-NG-31-122646-9966124	0	800.0	900.0	speaker	unknown	unknown	说完后连假币都不还给我，"啪"的盖章没收。	0	0	0		
+cmn-NG-31-122646-9966124	0	1200.0	1300.0	speaker	unknown	unknown	于是，出差也不出了，一定要讨个说法去，闷闷的回家想了半天，终于被我睿智的大脑找到了ATM机的BUG！	0	0	0		
+cmn-NG-31-122646-9966124	0	1300.0	1400.0	speaker	unknown	unknown	公道！！	0	0	0		
+cmn-NG-31-122646-9966124	0	1400.0	1500.0	speaker	unknown	unknown	还我公道！！！	0	0	0		
+cmn-NG-31-122646-9966124	0	1500.0	1600.0	speaker	unknown	unknown	我咆哮着，用颤抖的双手取出了我珍藏八年的第一张假币，我要还给你，丑陋的银行！	0	0	0		
+cmn-NG-31-122646-9966124	0	1700.0	1800.0	speaker	unknown	unknown	我回到了银行的ATM机前，（注：这个ATM机因为是在银行门外，因此我的还钱成功很大程度也与此有关）。	0	0	0		
+cmn-NG-31-122646-9966124	0	2000.0	2100.0	speaker	unknown	unknown	人脑终于战胜了电脑，我终于讨回了公道！	0	0	0		
+cmn-NG-31-122646-9966124	0	2100.0	2200.0	speaker	unknown	unknown	高人们也许会问，那假钞退回去难道ATM机不能识别么？	0	0	0		
+cmn-NG-31-122646-9966124	0	2900.0	3000.0	speaker	unknown	unknown	1、吐出来一堆都是50元面值的。	0	0	0		
+cmn-NG-31-122646-9966124	0	3600.0	3700.0	speaker	unknown	unknown	工行、中行、建行、农行、招行、交行的大叔大妈姐姐妹妹们，看到此文时你可以升级你的ATM机，但是同时也请升级你们的道德观，要知道，我们的血汗钱不投股市不投基金不投房产只投利率最低的银行，不是让你们来糟践的！！！	0	0	0		

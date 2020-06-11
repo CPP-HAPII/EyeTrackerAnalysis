@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0014.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	澳洲提名第一位女总督布莱斯	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社雪梨十三日电	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	900.000	1050.000	TEXT1	unknown	unkown	澳洲总理陆克文今天提名昆士兰省长布莱斯女士为澳洲下一任总督。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	1050.000	1200.000	TEXT1	unknown	unkown	她将是第一位担任英国女王驻澳洲代表的女总督。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	陆克文在声明中说:「我很高兴宣布,女王在我以澳洲总理身份的推荐下,同意布莱斯阁下为澳洲的下一任总督。」	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	布莱斯女士于二零零三年七月被任命为昆士兰省省长。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	她将取代今年九月退休的杰佛瑞总督,担任澳洲新总督。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	陆克文说,布莱斯女士为国服务,成绩卓越。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2450.000	2700.000	TEXT1	unknown	unkown	布莱斯女士,律师出身,也是学者,之前担任联邦政府性别歧视部门专员。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2900.000	2950.000	TEXT1	unknown	unkown	杰佛斯为越战退伍军人,担任澳洲总督五年。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2950.000	3200.000	TEXT1	unknown	unkown	他欢迎布莱斯女士的任命。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	3200.000	3600.000	TEXT1	unknown	unkown	虽然总督职位大体而言是象徵性的,不过澳洲总督在选举后国会没有出现多数党时,有权任命总理,或国会议员对总理失去信心或其行为违法时,总督有权予以撤职。	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	虽然总督名义上是澳洲三军总司令,但实际上只对政府提供建言。	0	0	0		statement

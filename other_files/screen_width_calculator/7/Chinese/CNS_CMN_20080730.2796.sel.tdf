@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.2796	0	200.0	300.0	speaker	unknown	unknown	中新网7月30日电 综合报道，据韩国国防部此前称，韩国军方将于30日在郁陵岛及独岛(日本称竹岛)周边海域实施“独岛防卫演习”，届时海军舰船、P3C反潜机、空军战斗机及海上警察警备舰也将参加。	0	0	0		

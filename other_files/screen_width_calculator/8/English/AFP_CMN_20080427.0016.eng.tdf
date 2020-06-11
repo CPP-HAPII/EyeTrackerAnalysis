@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0016.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Pirates Release Spanish Fishing Boat - Ransom Reported up to 1.2 Million US Dollars	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Nairobi (AFP), 27th.	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	A sea shipping official said today that a Spanish fishing boat that was kidnapped for six days off the coast of Somalia was already released after pirates were paid a ransom of 1.2 million US Dollars.	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	1300.000	1600.000	TEXT1	unknown	unkown	"Sailor's Assistance Project" Kenya department staff member Mwangura issued a statement saying: "After paying a ransom of 1.2 million US Dollars, the Spanish fishing boat 'Playa de Badio' was already released."	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	This fishing boat was released yesterday. It is currently being escorted to Seychelles by a Spanish frigate. It is predicted to moor at Port Victoria on the 29th.	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	Yesterday Spanish media reported that the pirates demanded a ransom of one million Euros (1.55 million US Dollars) and that the negotiations were being held at a hotel in London.	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	2800.000	3100.000	TEXT1	unknown	unkown	The Spanish government said that the government and kidnappers "didn't formally make contact," but this doesn't exclude direct contact between the pirates and the owner of the fishing boat. This fishing boat's owner is from Spain's northern Basque region.	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	3300.000	3500.000	TEXT1	unknown	unkown	When this 76 meter long Spanish fishing trawler was off the coast of Somalia fishing for tuna, it was captured by armed pirates.	0	0	0		statement

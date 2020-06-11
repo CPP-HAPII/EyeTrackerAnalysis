@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.1920	0	500.0	600.0	speaker	unknown	unknown	Wang's saying, "I am not so silly that I still don't know basic operating rules in politics," makes us see that "political talks" have already become "basic operating rules in politics." No wonder so many press spokespeople use "political talks" to be "bureaucratic."	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080711.0870	0	200.0	300.0	speaker	unknown	unknown	新华社杭州7月11日电（记者方列）浙江省绍兴县人民法院11日对被告人郑小伟等22人组织、领导黑社会性质组织、赌博、故意伤害、寻衅滋事、故意毁坏财物一案进行了公开宣判。	0	0	0		

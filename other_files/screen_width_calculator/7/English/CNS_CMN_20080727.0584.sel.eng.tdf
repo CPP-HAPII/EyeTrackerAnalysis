@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080727.0584	0	900.0	1000.0	speaker	unknown	unknown	(Reporter: Wen Jing)	0	0	0		
+CNS_CMN_20080727.0584	0	1500.0	1600.0	speaker	unknown	unknown	"On this US basketball team, there are many big name NBA stars. They are accustomed to staying in a hotel they have found themselves."	0	0	0		
+CNS_CMN_20080727.0584	0	2400.0	2500.0	speaker	unknown	unknown	This reporter observer that outside the Intercontinental Hotel on Jinrong Street, the passages to the hotel from the 2nd Ring Road and which lead to the northwest, east and west have been cut off completely. Furthermove, the hotel is surrounded by a white iron fence.	0	0	0		
+CNS_CMN_20080727.0584	0	2700.0	2800.0	speaker	unknown	unknown	(Reporter Wen Jing)	0	0	0		

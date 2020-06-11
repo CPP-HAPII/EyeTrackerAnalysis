@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080731.0173	0	700.0	800.0	speaker	unknown	unknown	他们之所以被称为“小黑人”，最明显的特征就是身材矮小――男人的平均身高在1.45米左右，最高不超过1.50米，女人则更矮一些。	0	0	0		
+PDA_CMN_20080731.0173	0	1200.0	1300.0	speaker	unknown	unknown	然而当我从努兹来到特瓦人居住的茹胡鲁鲁村庄时，简直惊呆了。	0	0	0		
+PDA_CMN_20080731.0173	0	2400.0	2500.0	speaker	unknown	unknown	“四五百布朗（相当于人民币三四元钱）。”酋长说。	0	0	0		

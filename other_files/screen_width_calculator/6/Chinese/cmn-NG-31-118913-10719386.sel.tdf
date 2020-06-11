@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-118913-10719386	0	200.0	300.0	speaker	unknown	unknown	你好~!	0	0	0		
+cmn-NG-31-118913-10719386	0	1200.0	1300.0	speaker	unknown	unknown	王老师请不要担心，我牢记着你的话语，一步一个脚印，一刀一道伤疤.	0	0	0		
+cmn-NG-31-118913-10719386	0	1600.0	1700.0	speaker	unknown	unknown	我一定要帮爸爸出这口气的，我相信你也会为我爸爸声张正义的，我一家6口全*爸爸收保护费过日子，如今有人闹事，我也该露露脸了，再说了，这样一来就会断了我家的经济来源。	0	0	0		

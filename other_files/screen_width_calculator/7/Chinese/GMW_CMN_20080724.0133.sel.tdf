@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080724.0133	0	0.0	100.0	speaker	unknown	unknown	澳媒体对华不实报道系恶意造谣	0	0	0		

@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0020.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Report Indicates German Chancellor Merkel Will Meet Dalai Again	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Berlin (AFP), 12th.	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Germany's "Frankfurt General Newspaper."	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	1000.000	1300.000	TEXT1	unknown	unkown	Today it was reported that the country's Chancellor Merkel wishes to meet with Tibet's spiritual leader, the Dalai Lama, again, ignoring the dispute caused by their previous meeting that damaged the relations between the country and China.	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	Merkel met with the Dalai in September of last year. When the Dalai visits Germany again during May 16th to 20th, she will be in Latin America, but at that time the Dalai will meet with the president of the German Bundestag, Lammert.	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	She will be in tomorrow's edition of the Frankfurt General Newspaper but the interview published today already said: "But I shall definitely meet with the Dalai Lama a little later."	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	The report quoted her saying: "My receiving the Dalai Lama and how China treats the Dalai Lama are two entirely separate things."	0	0	0		statement
+AFP_CMN_20080413.0020.sgm	0	2900.000	3200.000	TEXT1	unknown	unkown	She then said: "But the two both guide the way we deal with the respect or lack of respect of human rights, and Germany's attitude on this is clear, including receiving the Dalai Lama."	0	0	0		statement

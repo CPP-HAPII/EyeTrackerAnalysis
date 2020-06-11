@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 58.283000000000001, 329.53100000000001, 374.55700000000002, 497.89100000000002, 505.04899999999998, 618.26400000000001, 718.90800000000002, 1295.3219999999999, 1307.3820000000001, 1381.9110000000001, 1463.0450000000001, 1599.26, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	161.218	177.642	Zhang_Gui	male	native	他说呢你必须到我们学校来,那我说老师我现在出差在外-外面,我现在一时到不了学校,有什么事,他说 (()) 呃张裕文在学校里面两个同学都说他偷了人家的手机	1	7	12	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	217.235	228.614	speaker#6	female	native	去到那个医院呢他那个也不讲,什么也没-没讲,就是拿那个片,那个通知书叫我签字吧就这样	1	11	17	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	234.552	243.484	speaker#6	female	native	我就说我 (()) 那个小孩子挺乖挺听话的哦,他能做出什么事,为-为什么会到那个急救室呢	1	13	19	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	281.512	297.070	Zhang_Gui	male	native	眼泪都掉了,真的是掉了,那个--那个--那个--那个忍-忍不住了,但是那时候他 (()) 出我,他 (()) 的时候都的时候他没有什么讲,就是讲他老爸,我没有偷人家的手机	1	17	24	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	445.770	455.248	Zhang_Yu_Wen	male	native	我走开 (()) ,有一个同学说我裤裆里面很涨,说要扒我裤子	3	26	36	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	463.595	495.687	Zhang_Yu_Wen	male	native	被人脱裤子是一个很羞的事情,然后当时到保安亭附近的时候, (()) ,强行要扒下我裤子, (()) 都没有找到手机,然后周围有很多同学在笑我	3	28	38	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	524.817	531.863	Zhang_Yu_Wen	male	native	(()) ,我也不知道怎么回事	5	34	44	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	806.934	819.015	Qi_Jia_Hui	male	native	刚才说的前面两个学生是在我那里挂后了,啊是比较调皮的,所以我就比较相信,我也很气愤,所以我一过去,啊 (()) ,没事儿,我保证给你伸冤	7	52	70	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	945.741	959.398	speaker#12	male	native	嗯,都在围-围着他,然后我们--我们站在看着,唉人呢叫他去了去办公室的时候,他一起来手机就在他的衣服里面掉下来,结果我们两个就看到了	7	60	84	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	1094.420	1102.763	Qi_Jia_Hui	male	native	在得知他家长要来了,这个小孩会从楼上跳下去,就这个我们 {sneeze} 一直都比较困惑这个事情	7	72	102	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	1182.793	1201.808	Zhang_Yu_Wen	male	native	我说过不是我做的我不会承认, (()) 如果写的话他就会伤我自尊,破坏我的原则,那就选择跳下来了	7	80	113	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080423_202802	0	1344.563	1358.234	Zhang_Gui	male	native	整个学校里面都在同学当中里面都认为他是个贼的话,老师要他写那种材料的话,他那种心理压力,他当时那种处境,那种场景是怎么样的 (()) 一样一个场景,可想而知	9	96	132	report	statement

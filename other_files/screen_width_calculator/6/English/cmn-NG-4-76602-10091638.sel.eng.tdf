@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76602-10091638	0	100.0	200.0	speaker	unknown	unknown	I am now organizing our company's Asia commercial meeting. The location is in Singapore. It's a two-day meeting, and approximately 30-50 people will attend.	0	0	0		
+cmn-NG-4-76602-10091638	0	200.0	300.0	speaker	unknown	unknown	I want to think about the dinners for two days and the format of meeting, etc.	0	0	0		
+cmn-NG-4-76602-10091638	0	300.0	400.0	speaker	unknown	unknown	I hope to organize it into something quite fun and not too formal.	0	0	0		
+cmn-NG-4-76602-10091638	0	400.0	500.0	speaker	unknown	unknown	There's no need to worry about the budget. My boss said I could do whatever I want.	0	0	0		
+cmn-NG-4-76602-10091638	0	700.0	800.0	speaker	unknown	unknown	For the dinner of the second day, I want to arrange for everyone to go to a cooking school and learn cooking dishes of various countries from teachers. Then we eat what we have cooked by ourselves!	0	0	0		
+cmn-NG-4-76602-10091638	0	800.0	900.0	speaker	unknown	unknown	In the end we can also take a certificate home.	0	0	0		
+cmn-NG-4-76602-10091638	0	900.0	1000.0	speaker	unknown	unknown	The commercial meeting has already been decided to be held in a ball room of a hotel. I want to ask the hotel to remove the tables and chairs inside. We'll order bubble chairs by ourselves and then we can also arrange for aromatherapy, lighting up candles and burning something like incense. In this way, the two-day meeting shouldn't be too boring to attend.	0	0	0		
+cmn-NG-4-76602-10091638	0	1100.0	1200.0	speaker	unknown	unknown	My previous company was small and had never done team building. What we had was just co-workers going to pub after work, so I have very few +ideas about this kind of group activities by co-workers and need help from everyone!	0	0	0		

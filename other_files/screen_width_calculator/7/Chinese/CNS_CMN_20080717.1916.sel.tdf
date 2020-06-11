@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.1916	0	700.0	800.0	speaker	unknown	unknown	其中，在物价监控措施里明确，由市发改委牵头，会同有关部门做好奥运期间部分商品和服务价格调控工作。	0	0	0		
+CNS_CMN_20080717.1916	0	1100.0	1200.0	speaker	unknown	unknown	重点加强对本市8家批发市场、38家农贸市场、19家超市以及与奥运举办相关的部分商品和服务价格的每日监测工作。	0	0	0		

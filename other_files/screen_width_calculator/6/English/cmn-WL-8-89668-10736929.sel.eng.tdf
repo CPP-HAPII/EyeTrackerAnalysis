@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89668-10736929	0	100.0	200.0	speaker	unknown	unknown	Key Words: Bikes	0	0	0		
+cmn-WL-8-89668-10736929	0	200.0	300.0	speaker	unknown	unknown	Electric Motion System's E is actually not the most expensive bike we've seen, but pricing it as high as 3,495 US dollars (RMB 24,465 yuan) still exceeds the upper limit most people would be willing to pay for a two-wheel vehicle that still needs to be powered by themselves.	0	0	0		
+cmn-WL-8-89668-10736929	0	900.0	1000.0	speaker	unknown	unknown	Hasn't this price of 24,465 yuan become both reasonable and much more agreeable?	0	0	0		

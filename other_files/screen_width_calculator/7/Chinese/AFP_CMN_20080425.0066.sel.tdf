@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0066	0	0.0	1000.0	speaker	unknown	unknown	国际原子能总署发表声明说:「总署重视此一情报,并且将对此一情报的真实性进行调查。」	0	0	0		
+AFP_CMN_20080425.0066	0	0.0	1000.0	speaker	unknown	unknown	这个核子监督机构说:「根据此一情报,这具核子反应炉尚未运转,核子燃料尚未置入反应炉内。」	0	0	0		

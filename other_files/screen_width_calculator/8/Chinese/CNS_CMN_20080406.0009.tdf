@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080406.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	铁路清明客流胜春运 首个小长假客流增幅惊人	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月06日 16:27 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	900.000	925.000	TEXT1	unknown	unkown	中新社北京四月六日电 ((记者 周音))今年中国实施新的休假制度，首次迎来清明节小长假。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	925.000	950.000	TEXT1	unknown	unkown	记者今日从铁道部获悉，近两日来，全国铁路旅客发送量胜似春运客流，同比增加一百九十万人。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	预测今日铁路客流仍将保持较高水平。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	四月四日清明节，全国铁路发送旅客五百二十五点六万人，同比增长五成七。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	增幅尤为突出的是短途客流，同比增长八成。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	特别是郑州、武汉、西安、济南、上海、昆明铁路局，管内短途客流增幅均超过百分之百。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	沪宁、京津等区域动车组列车趟趟爆满。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	沈阳站、沈阳北站清明节当日发送客流达九点五万人次，比今年春运最高峰九万人次还多五千人次。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	上海铁路局发送旅客达一百零五点九万人，同比增加四十七点七万人，创下历史新高。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	清明节是中华民族祭祀祖先、缅怀英烈、寄托哀思的传统节日。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	这一天，最重要的风俗就是到祖先亲人的墓地坟前，供上祭品，焚化纸钱，培土修墓，祭奠扫拜。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	清明在中国岁时节令中有着独特的地位, 是二十四节气之一。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	为了运营小长假出行暴涨的扫墓、踏青的客流，北京火车站在清明节期间首次加开了四趟扫墓列车，分别开往杭州、上海、天津，以缓解扫墓、旅游客流上涨的压力。	0	0	0		statement
+CNS_CMN_20080406.0009.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	铁道部表示，为应对清明节小假日高涨的客流，各铁路局采取增开临时旅客列车和加挂客车等措施，确保运能基本能够适应市场需求，主要景区和大站客流平稳，无旅客积压现象。完	0	0	0		statement

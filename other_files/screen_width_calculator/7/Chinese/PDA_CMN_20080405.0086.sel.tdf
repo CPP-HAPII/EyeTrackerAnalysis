@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080405.0086	0	1400.0	1500.0	speaker	unknown	unknown	一位署名顾墨溪的搜狐网友发表了诗作《清明拉萨祭》（并序），序中写道：“拉萨骚乱，火烧连街。	0	0	0		

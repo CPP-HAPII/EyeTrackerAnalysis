@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0292	0	0.0	100.0	speaker	unknown	unknown	浙江发布台风紧急警报 "海鸥"或影响赴台旅游团	0	0	0		
+CNS_CMN_20080717.0292	0	200.0	300.0	speaker	unknown	unknown	中新网杭州7月17日电(见习记者 汪恩民)今天下午，记者从浙江省气象台获悉，为应对今年首个影响浙江的台风“海鸥”，浙江已发布台风紧急警报。	0	0	0		
+CNS_CMN_20080717.0292	0	300.0	400.0	speaker	unknown	unknown	据悉，“海鸥”将对十八日浙江首发赴台旅游团的航班产生一定影响。	0	0	0		
+CNS_CMN_20080717.0292	0	800.0	900.0	speaker	unknown	unknown	王镇铭预计，台风“海鸥”将于明天傍晚到夜里在浙江象山至福建福清一带沿海登陆或者紧擦浙江沿海北上。	0	0	0		
+CNS_CMN_20080717.0292	0	1200.0	1300.0	speaker	unknown	unknown	王镇铭告诉记者，“海鸥”将对十八日浙江首发赴台旅游团产生一定影响。	0	0	0		
+CNS_CMN_20080717.0292	0	1400.0	1500.0	speaker	unknown	unknown	今天夜里到明天，台风海鸥可能会在台湾登陆。	0	0	0		
+CNS_CMN_20080717.0292	0	2000.0	2100.0	speaker	unknown	unknown	在七月份登陆浙江的台风，海鸥是第十二个。	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080424.1173	0	200.0	300.0	speaker	unknown	unknown	“机关成员每人每年阅读6—12本书，每周阅读时间为7—10.5小时”——去年10月，上海推出《市级机关创建学习型机关评价指标体系(试行)》时，其中的“读书指标”立刻引来广泛关注。	0	0	0		
+CNS_CMN_20080424.1173	0	1200.0	1300.0	speaker	unknown	unknown	上海市委组织部和人事局也同时要求，47岁以下的全市公务员，在2008年上半年之前，都必须完成MPA(公共管理硕士)核心课程的培训。	0	0	0		
+CNS_CMN_20080424.1173	0	1400.0	1500.0	speaker	unknown	unknown	每年6—12本书，每周不少于7小时，这个基本接近发达国家主要城市的人均读书指标，是否能达到？	0	0	0		
+CNS_CMN_20080424.1173	0	2000.0	2100.0	speaker	unknown	unknown	每年不少于96学时的政治学习，是一个硬要求。	0	0	0		

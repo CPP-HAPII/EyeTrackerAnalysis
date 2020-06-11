@@ -1,0 +1,350 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', None]
+;;MM sectionBoundaries	[0.0, 160.77199999999999, 255.13900000000001, 323.416, 492.13799999999998, 849.62400000000002, 883.32000000000005, 982.80499999999995, 1094.8030000000001, 1168.7539999999999, 1362.336, 1539.413, 1616.3299999999999, 1651.944, 9999999.0]
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	160.772	163.688	Chen_xiaonan	female	native	Hi, this is Chen Xiaonan taking you through the Phoenix Morning News. Today is [January] 2007	1	1	1	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	164.485	166.658	Chen_xiaonan	female	native	Wednesday. Let's see what we have today.	1	1	3	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	172.164	178.937	Chen_xiaonan	female	native	After a fierce competition between five cities, China's Shenzhen City finally won the bid to host the 26th World Universiade.	1	1	5	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	178.937	186.384	Chen_xiaonan	female	native	Shenzhen Mayor Xu Zongheng and Guangdong Provincial Governor Huang Huahua signed the authorization papers with the President of the International University Sports Federation in Turin, Italy.	1	1	6	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	188.692	195.264	Chen_xiaonan	female	native	Canada's federal court started a hearing on the extradition case of Lai Changxing. The hearing will concentrate on the report appraising the risks of the extradition.	1	1	8	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	195.264	200.845	Chen_xiaonan	female	native	Lai Changxing's defense lawyer will make his statement first. Lai Changxing himself did not appear in court.	1	1	9	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	202.675	206.278	Chen_xiaonan	female	native	Another news item is about the visit of new U.S. Secretary of Defense Gates to Afghanistan,	1	1	11	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	206.278	210.240	Chen_xiaonan	female	native	during which he had a talk with the Afghan President Karzai. Gates expressed concern on the security situation in the country,	1	1	12	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	210.240	216.660	Chen_xiaonan	female	native	and urged Pakistan, a U.S. ally against terrorism, to intensify her anti-terrorist campaign on the Pakistani-Afghan border.	1	1	13	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	223.138	228.699	Chen_xiaonan	female	native	After Wang You-theng, founder of the Rebar Group who is involved in a financial scandal, fled to the U.S., Taiwan's Prosecutors' Office	1	1	15	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	228.699	231.401	Chen_xiaonan	female	native	suspects that there had been murky financial transactions between the Eastern Multimedia Group (EMG) and the Rebar Group.	1	1	16	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	231.401	236.389	Chen_xiaonan	female	native	For this reason, they assigned to investigators the top priority of going through EMG president Gary Wang's personal finances in the next round of searches.	1	1	17	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	239.754	248.856	Chen_xiaonan	female	native	Meanwhile, America's top model Naomi Campbell is accused of throwing a cell phone at her maid last year when the latter couldn't find her jeans in the apartment.	1	1	19	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	248.856	255.139	Chen_xiaonan	female	native	And that hurt the maid at the back of her head. Campbell, 35, pleaded guilty at the Manhattan Court Tuesday.	1	1	20	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	323.416	325.374	Chen_xiaonan	female	native	Welcome back to Phoenix Morning News.	3	3	22	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	325.374	327.921	Chen_xiaonan	female	native	We are bringing up fresh-baked good news.	3	3	23	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	327.921	332.155	Chen_xiaonan	female	native	Who will host the 26th World Universiade? Cities which applied for this privilege now got an answer.	3	3	24	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	332.155	334.768	Chen_xiaonan	female	native	Eh, altogether five cities submitted their bids.	3	3	25	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	334.768	342.347	Chen_xiaonan	female	native	China's Shenzhen finally won the bid to host the 26th World Universiade scheduled for 2001.	3	3	26	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	342.347	346.543	Chen_xiaonan	female	native	Eh, the result was announced at 6 p.m. on the 16th in Turin, Italy,.	3	3	27	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	346.543	352.172	Chen_xiaonan	female	native	After the announcement came the %PW signing by Shenzhen Mayor Xu Zongheng and Guangdong Governor Huang Huahua together with the President of the FISU.	3	3	28	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	353.700	360.735	Chen_xiaonan	female	native	This means Shenzhen is officially the host city of the World Universiade of 2001, of 2011,	3	3	30	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	360.735	361.808	Chen_xiaonan	female	native	That's really something to look forward to.	3	3	31	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	361.808	366.036	Chen_xiaonan	female	native	OK, for the latest update, we'll pass the line over to our special correspondent Xu Wenshan reporting from Turin, Italy.	3	3	32	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	366.036	366.898	Chen_xiaonan	female	native	Hello, Mr. Xu.	3	3	33	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	367.631	368.455	Xu_wenshan	male	native	Hello, Xiaonan.	3	4	35	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	368.455	371.988	Chen_xiaonan	female	native	Eh, why don't you tell us how the applicants competed? Was it a fierce fight?	3	5	36	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	372.587	379.905	Xu_wenshan	male	native	Oh, yes, at 6 p.m. local time all delegations started to enter the conference hall where the results of the bidding will be announced.	3	6	38	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	380.481	383.322	Xu_wenshan	male	native	As the Italians didn't do enough preparation work for the occasion,	3	6	40	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	383.841	386.623	Xu_wenshan	male	native	chaotic conditions were once reported when people began to stream into the conference hall.	3	6	42	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	387.295	391.030	Xu_wenshan	male	native	The Chinese delegation was the last to enter the hall where the choice will be announced.	3	6	44	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	392.023	396.654	Xu_wenshan	male	native	Eh, every Chinese delegate wore a scarf of red color, the color of good luck.	3	6	46	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	397.192	399.588	Xu_wenshan	male	native	They sat down at the farthest right side of the conference hall.	3	6	48	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	400.821	406.648	Xu_wenshan	male	native	Eh, at 7:30, FISU President Killian started to introduce,	3	6	50	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	407.429	409.081	Xu_wenshan	male	native	one by one, in the prescribed order,	3	6	52	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	409.647	411.788	Xu_wenshan	male	native	the five cities bidding for the privilege to host the games.	3	6	54	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	412.364	418.366	Xu_wenshan	male	native	Here we have a small humorous mix-up. It happened because the ceremony started with an introduction of all the cities that applied for the right to host the games. And the name of the Russian city of Kazan was the first on the list.	3	6	56	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	418.366	425.111	Xu_wenshan	male	native	Consequently, when Mr. Killian announced, that is, introduced, the five bidding cities, he started with Kazan.	3	6	57	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	425.111	426.381	Xu_wenshan	male	native	That immediately touched off loud cheers from the Russian delegates	3	6	58	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	426.959	432.144	Xu_wenshan	male	native	But the joy was premature.	3	6	60	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	432.144	432.543	Chen_xiaonan	female	native		3	7	61	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	433.146	433.616	Xu_wenshan	male	native	Eh,	3	8	63	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	436.123	438.935	Xu_wenshan	male	native	Then, as he announced, eh, the 26th	3	8	65	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	439.700	444.292	Xu_wenshan	male	native	World Universiade will be hosted by Shenzhen, China,	3	8	67	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	444.830	447.433	Xu_wenshan	male	native	emotions rose to a climax in the conference hall.	3	8	69	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	448.162	448.924	Xu_wenshan	male	native	Eh,	3	9	71	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	448.162	448.924	Chen_xiaonan	female	native	Uh huh.	3	9	72	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	449.471	450.962	Xu_wenshan	male	native	Shenzhen Mayor, Mr. Xu Zongheng,	3	10	74	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	451.462	455.659	Xu_wenshan	male	native	remained seated, with tears streaming down his face. It was really a moving scene.	3	10	76	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	456.178	456.486	Chen_xiaonan	female	native	Uh huh.	3	11	78	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	456.486	460.111	Xu_wenshan	male	native	Eh, Mr. Dong Jinyi, China's Ambassador to Italy, at the same time,	3	12	79	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	469.865	470.544	Xu_wenshan	male	native	scene.	3	12	81	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	470.544	471.053	Chen_xiaonan	female	native	Okay.	3	13	82	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	471.053	471.690	Chen_xiaonan	female	native	Thank you.	3	14	83	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	471.053	471.690	Xu_wenshan	male	native	Uh huh.	3	14	84	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	473.986	478.539	Chen_xiaonan	female	native	What a vivid and realistic description of a very inspiring scene!	3	15	86	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	478.539	485.102	Chen_xiaonan	female	native	In fact, we can imagine how agitated Shenzhen Mayor felt as tears streamed down his face.	3	15	87	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	485.102	491.638	Chen_xiaonan	female	native	We also wish Shenzhen all the best in hosting this wonderful large sports event. Congratulations again to Shenzhen.	3	15	88	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	492.138	496.374	Chen_xiaonan	female	native	Alright, we'll bring you to the twists and turns of Lai Changxing's trial.	4	16	90	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	496.374	497.581	Chen_xiaonan	female	native	Now, there is new movement forward.	4	16	91	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	506.138	509.606	Chen_xiaonan	female	native	Now, having taken refuge in Canada for seven years, Lai Changxing,	4	16	93	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	510.371	512.545	Chen_xiaonan	female	native	in the morning of the 16th, is taking part in a hearing	4	16	95	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	514.014	515.296	Chen_xiaonan	female	native	in a Vancouver court.	4	16	97	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	515.296	521.254	Chen_xiaonan	female	native	His case is undergoing a new judicial review. That takes place after a risk assessment report had been drawn up by Canada's immigration authorities and before Lai Changxing is actually extradited.	4	16	98	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	521.254	525.894	Chen_xiaonan	female	native	At this juncture, Lai Changxing's lawyer Matas brought forth a new premise.	4	16	99	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	525.894	532.644	Chen_xiaonan	female	native	He asked that the task of making a risk assessment be transferred from the immigration authorities	4	16	100	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	532.644	533.948	Chen_xiaonan	female	native	to a court or a public hearing.	4	16	101	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	535.257	538.599	Guo_jingjing	female	native	During the hearing on the 16th, Lai Changxing's lawyer Matas again said that	4	17	103	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	538.599	541.912	Guo_jingjing	female	native	Lai Changxing's personal safety will be threatened if and when he is extradited.	4	17	104	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	541.912	548.412	Guo_jingjing	female	native	He also said that in connection with Lai's case, a spokesperson for the Canadian immigration authorities had earlier turned down Lai Changxing's application for refugee status.	4	17	105	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	548.412	550.415	Guo_jingjing	female	native	That refusal compromised the neutrality and impartiality of the immigration officials.	4	17	106	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	550.415	552.415	Guo_jingjing	female	native	That is not fair to Lai Changxing.	4	17	107	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	552.415	555.649	Guo_jingjing	female	native	Therefore, he asks for a judicial review of the risk assessment which was carried out by the immigration authorities.	4	17	108	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	555.649	557.840	Guo_jingjing	female	native	That is, switching the power of giving the final word to a judgment in court or assessment at a public hearing.	4	17	109	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	557.840	559.951	Guo_jingjing	female	native	Analysts say this new request could	4	17	110	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	560.984	563.217	Guo_jingjing	female	native	be a turning point in Lai Changxing's efforts to establish residency in Canada.	4	17	112	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	563.217	568.522	speaker#1	male	native	The most important point is if he succeeds, and	4	18	113	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	568.522	570.987	speaker#1	male	native	the court believes his case has been handled in a biased way, then the court can take the case off the hands	4	18	114	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	571.569	573.006	speaker#1	male	native	of the immigration authorities	4	18	116	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	573.586	575.127	speaker#1	male	native	and hand it over	4	18	118	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	575.652	576.589	speaker#1	male	native	to,	4	18	120	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	577.095	579.226	speaker#1	male	native	an independent and impartial authority. The judgment means,	4	18	122	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	579.226	580.387	speaker#1	male	native	if this is the case,	4	18	123	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	580.934	584.555	speaker#1	male	native	this new risk assessment will be more significant than the earlier one. The reason is,,	4	18	125	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	584.555	589.162	Guo_jingjing	female	native	In addition, lawyers say, the new judge, De Montigny, who is presiding over the hearing of the Lai Changxing case,	4	19	126	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	589.162	591.980	Guo_jingjing	female	native	is known for the neutral position he took in past decisions and for his respect for human rights.	4	19	127	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	591.980	594.854	Guo_jingjing	female	native	Consequently, all this could be relatively favorable to Lai Changxing.	4	19	128	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	594.854	597.365	Guo_jingjing	female	native	This hearing will be crucial to Lai Changxing's extradition case.	4	19	129	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	597.365	602.475	Guo_jingjing	female	native	According to the established procedure, the whole day of the 16th will be devoted to the presentation by the defense, that is, by Lai Changxing's lawyer.	4	19	130	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	602.475	604.764	Guo_jingjing	female	native	And on the 17th the plaintiff will take its turn.	4	19	131	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	605.453	608.545	Guo_jingjing	female	native	Analysts believe that Lai Changxing stands a chance of winning the case.	4	19	133	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	608.545	612.908	Guo_jingjing	female	native	However, as the hearing is just starting, it is too early to make any optimistic predictions.	4	19	134	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	612.908	616.047	Guo_jingjing	female	native	Phoenix Satellite Television special correspondent Guo Jingjing reporting from Vancouver, Canada.	4	19	135	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	617.161	622.358	Chen_xiaonan	female	native	All the ups and downs of a prolonged review! How does Lai Changxing feel?	4	20	137	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	622.358	623.914	Chen_xiaonan	female	native	How did he prepare himself psychologically?	4	20	138	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	623.914	627.609	Chen_xiaonan	female	native	Before the hearing, Lai Changxing himself accepted an exclusive interview by Phoenix Satellite Television.	4	20	139	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	627.609	631.985	Chen_xiaonan	female	native	In discussing possible results of this hearing, Lai Changxing said he is ready to accept whatever is to come.	4	20	140	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	631.985	635.004	Chen_xiaonan	female	native	He has already prepared himself for the worst, that is, extradition.	4	20	141	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	635.004	638.935	Chen_xiaonan	female	native	But he also stresses his innocence and believes in Canada's legal system.	4	20	142	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	638.935	639.793	Chen_xiaonan	female	native	Let's hear what he has to say.	4	20	143	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	645.208	651.621	Guo_jingjing	female	native	The time of the extradition is very important. If Lai Changxing wins the case, he will get a chance for a new risk assessment.	4	21	145	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	651.621	656.043	Guo_jingjing	female	native	If he loses, Lai Changxing's lawyer will follow legal procedures and	4	21	146	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	656.043	658.358	Guo_jingjing	female	native	appeal to the Canadian Federal Court.	4	21	147	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	658.358	665.281	Guo_jingjing	female	native	Outside analysts agree that this hearing will still focus on whether Lai Changxing's personal safety will be threatened upon extradition.	4	21	148	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	665.800	670.863	Guo_jingjing	female	native	In connection with this hearing, Lai Changxing says he will not appear in court, but will leave everything to his attorney Matas.	4	21	150	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	671.409	674.887	Lai_changxing	male	native	Everyone speaks English at the hearing, I can't understand them anyway.	4	22	152	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	675.411	675.763	Lai_changxing	male	native	This,,	4	22	154	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	676.273	682.161	Lai_changxing	male	native	To, to appear in court, I would also need to engage an interpreter. I think it won't make any difference whether I attend or not.	4	22	156	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	682.161	687.192	Guo_jingjing	female	native	Lai Changxing says no matter what the outcome will be, he is prepared to return to China to face a trial.	4	23	157	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	687.703	691.969	Lai_changxing	male	native	Of course I will accept the court's decision. I can only go as far as things will take me.	4	24	159	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	691.969	694.197	Lai_changxing	male	native	I will face everything. This I will actually do.	4	24	160	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	694.197	699.018	Guo_jingjing	female	native	Asked about his financial situation, Lai Changxing, who recently moved and changed his telephone number, said	4	25	161	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	699.018	701.533	Guo_jingjing	female	native	it is very tight financially at the present. And he also misses his good old days.	4	25	162	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	702.046	702.509	Lai_changxing	male	native	I.	4	26	164	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	707.963	712.713	Lai_changxing	male	native	I also remember they would like to see me. But, they couldn't find me. Neither could I find them.	4	26	166	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	712.713	714.307	Lai_changxing	male	native	There was no way of getting in touch.	4	26	167	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	714.917	718.066	Guo_jingjing	female	native	This is special correspondent Guo Jingjing of Phoenix Satellite Television reporting from Vancouver, Canada.	4	27	169	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	719.170	724.139	Chen_xiaonan	female	native	Um, we have more news on this coming in. Right away, we'll switch again to our special correspondent who just interviewed Lai Changxing.	4	28	171	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	724.139	726.228	Chen_xiaonan	female	native	Guo Jingjing reporting from Vancouver, Canada.	4	28	172	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	726.228	726.858	Chen_xiaonan	female	native	Hello, Jingjing.	4	28	173	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	727.551	728.300	Guo_jingjing	female	native	Hello, Xiaonan.	4	29	175	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	728.300	731.036	Chen_xiaonan	female	native	Um, we just talked about the court hearing.	4	30	176	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	731.036	735.693	Chen_xiaonan	female	native	Do you have any fresh inside news? Latest developments from the court? What comes out of it?	4	30	177	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	736.226	736.622	Guo_jingjing	female	native	Um.	4	31	179	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	736.622	740.815	Guo_jingjing	female	native	Uh, the hearing is still proceeding with the defendant's presentation.	4	31	180	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	740.815	744.362	Guo_jingjing	female	native	As to the hearing today, the 16th, things started at 10 a.m.	4	31	181	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	744.362	750.016	Guo_jingjing	female	native	In fact, Lai Changxing's attorney Matas will be making his presentation throughout the day.	4	31	182	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	752.668	757.701	Guo_jingjing	female	native	He is still going to criticize the report by Canada's immigration authorities as biased.	4	31	184	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	757.701	763.659	Guo_jingjing	female	native	At the same time, he again emphasizes that Lai Changxing will face threats to his personal safety upon extradition.	4	31	185	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	763.659	771.487	Guo_jingjing	female	native	Another very important point is Matas' request that the immigration authorities hand over the risk assessment report of Lai Changxing's extradition case to the court for review,	4	31	186	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	771.487	773.478	Guo_jingjing	female	native	eh, or put it through a public hearing.	4	31	187	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	773.478	778.089	Guo_jingjing	female	native	One can say that this is an extremely innovative request affecting traditional legal procedures of Canada.	4	31	188	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	778.089	780.198	Guo_jingjing	female	native	For there is no precedents before this.	4	31	189	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	780.198	785.156	Guo_jingjing	female	native	According to tradition, risk assessments for all extradition cases are drawn up by Canadian immigration authorities.	4	31	190	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	785.156	789.468	Guo_jingjing	female	native	Eh, Lai Changxing's case, as analyzed earlier by those in the legal profession,	4	31	191	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	789.468	791.463	Guo_jingjing	female	native	in fact, is most severely hampered by	4	31	192	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	791.463	796.712	Guo_jingjing	female	native	the fact that Lai Changxing cannot avoid this legal procedure: having the Canadian immigration authorities make the risk assessment for his extradition case.	4	31	193	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	796.712	802.550	Guo_jingjing	female	native	So, even if he wins this time, the next risk assessment will still be drawn up by the immigration authorities.	4	31	194	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	802.550	806.721	Guo_jingjing	female	native	The position the immigration authorities have taken and their attitude toward Lai Changxing's case have been very clear early on.	4	31	195	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	806.721	809.436	Guo_jingjing	female	native	So even if another immigration official takes over the case, the result could very well be the same.	4	31	196	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	809.436	813.987	Guo_jingjing	female	native	Therefore, as long as the immigration authorities prepare the risk assessment, Lai Changxing cannot continue fending off extradition.	4	31	197	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	813.987	814.579	Guo_jingjing	female	native	So, his	4	32	198	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	813.987	814.579	Chen_xiaonan	female	native	Uh huh.	4	32	199	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	814.579	818.110	Guo_jingjing	female	native	The attorney's proposal of changing the legal procedure is quite crucial.	4	33	200	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	818.110	821.832	Guo_jingjing	female	native	It can free Lai Changxing from the legal procedure set down by the immigration authorities.	4	33	201	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	821.832	825.270	Guo_jingjing	female	native	But the judge might be more concerned with setting a precedent which,	4	33	202	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	825.270	827.670	Guo_jingjing	female	native	will have a powerful impact	4	33	203	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	827.670	828.119	Guo_jingjing	female	native	on the operations of the Canadian government.	4	34	204	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	827.670	828.119	Chen_xiaonan	female	native	Uh-huh.	4	34	205	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	828.119	828.698	Guo_jingjing	female	native	yes, great and powerful impact.	4	35	206	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	828.698	833.575	Guo_jingjing	female	native	However, Lai Changxing's attorney says that this is only a special treatment of Lai Changxing's	4	35	207	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	833.575	834.137	Guo_jingjing	female	native	individual case.	4	36	208	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	833.575	834.137	Chen_xiaonan	female	native	Uh-huh.	4	36	209	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	834.137	836.712	Guo_jingjing	female	native	Eh, it sets no precedent in general for risk assessments in other cases.	4	37	210	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	836.712	837.354	Chen_xiaonan	female	native	Okay,	4	38	211	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	836.712	837.354	Guo_jingjing	female	native	Xiaonan.	4	38	212	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	837.354	840.741	Chen_xiaonan	female	native	Eh, thank you, Jingjing, for the update from Canada.	4	39	213	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	840.741	844.796	Chen_xiaonan	female	native	Such a seesaw battle that locks in this judicial review! Seven years are really long enough.	4	39	214	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	844.796	849.108	Chen_xiaonan	female	native	I think to Lai Changxing himself, this is also a great test to his psychological stamina.	4	39	215	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	849.624	850.983	Chen_xiaonan	female	native	Okay, let's take a look at some other news items.	5	40	217	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	850.983	854.391	Chen_xiaonan	female	native	Talks on border problems between China and India have been going on all these years.	5	40	218	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	854.391	860.515	Chen_xiaonan	female	native	Of course, this is an extremely complicated problem with a long historical background. Also, it is very difficult.	5	40	219	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	860.515	864.077	Chen_xiaonan	female	native	However, the attitude of both China and India is now more positive than ever.	5	40	220	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	864.077	872.910	Chen_xiaonan	female	native	The ninth meeting to negotiate their border problems by delegates of China and India will be held in New Delhi from the 17th to the 18th.	5	40	221	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	872.910	882.735	Chen_xiaonan	female	native	Both sides will talk on the Sino-Indian border issue in a friendly atmosphere of exchange and mutual respect.	5	40	222	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	883.320	888.112	Chen_xiaonan	female	native	Meanwhile, UN Secretary General Ban Ki-moon visited the White House Tuesday, meeting with American President Bush.	6	41	224	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	888.112	893.613	Chen_xiaonan	female	native	Both expressed the hope that America and the U.N. will work more closely in the future on problems of such international hot spots as the nuclear development in Iraq and in North Korea.	6	41	225	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	893.613	900.260	Chen_xiaonan	female	native	Ban Ki-moon pledged to carry out thorough-going reforms in the U.N. to increase its efficiency in dealing with international problems and to restore its credibility and prestige.	6	41	226	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	901.608	906.817	Mo_naiqian	female	native	Tuesday Ban Ki-moon made his first official visit outside the U.N. headquarters since becoming U.N. Secretary-General.	6	42	228	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	906.817	913.968	Mo_naiqian	female	native	Ban Ki-moon first said he shares with Bush the ideas of promoting the faith and practice of freedom and democracy in the world. Ban also added that the United Nations needs the support of the United States.	6	42	229	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	913.968	933.481	Pan_jiwen	male	native	(())	6	43	230	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	933.481	937.762	Mo_naiqian	female	native	Bush also expressed his hope of strengthening cooperation with the U.N. headed by Ban Ki-moon.	6	44	231	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	937.762	945.127	Bush	male	native	(())	6	45	232	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	945.127	947.252	Mo_naiqian	female	native	Both Bush and Ban Ki-moon pointed out that current	6	46	233	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	947.978	949.947	Mo_naiqian	female	native	international problems in %PW Lebanon, in other Middle East countries and	6	46	235	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	950.576	956.444	Mo_naiqian	female	native	in Somalia all call for joint international efforts and wisdom to work out a solution.	6	46	237	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	956.444	959.585	Mo_naiqian	female	native	In the past, the Iraq war threw a wrench into U.S.-U.N. relations,	6	46	238	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	959.585	963.540	Mo_naiqian	female	native	and former Secretary General Annan criticized many aspects of Bush's foreign policy.	6	46	239	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	963.540	969.438	Mo_naiqian	female	native	The Bush administration, for its part, was mercilessly on the trail of the bribery cases Annan's staff and other U.N. officials were embroiled in.	6	46	240	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	969.438	975.127	Mo_naiqian	female	native	On Tuesday, Bush and Ban Ki-moon both expressed the wish for a new and more cooperative beginning of the bilateral relations between the two sides.	6	46	241	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	975.127	979.439	Mo_naiqian	female	native	Ban Ki-moon also pledged to push through reforms in the U.N. to enhance its work efficiency.	6	46	242	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	979.439	981.504	Mo_naiqian	female	native	Mo Naiqian of Phoenix Satellite Television reporting from Washington D.C.	6	46	243	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	982.805	987.295	Chen_xiaonan	female	native	U.S. Assistant Secretary of State Hill met with North Korean representatives in Germany Tuesday,	7	47	245	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	987.295	990.546	Chen_xiaonan	female	native	to hold preliminary talks before the expected reopening of the six-party meeting.	7	47	246	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	990.546	997.283	Chen_xiaonan	female	native	Hill will also visit South Korea, China and Japan from Friday to Sunday to further exchange views with these countries on the North Korean nuclear problem.	7	47	247	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	997.283	1000.705	Chen_xiaonan	female	native	U.S. officials said Tuesday that in the light of the political negotiations,	7	47	248	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1000.705	1003.421	Chen_xiaonan	female	native	North Korea should see no reason for a second round of nuclear tests.	7	47	249	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1004.912	1006.505	Mo_naiqian	female	native	U.S. State Department confirmed Tuesday that	7	48	251	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1006.505	1013.421	Mo_naiqian	female	native	taking advantage of his visit in Germany to make a speech, Hill held a full-day meeting with Kim Gye-gwan, North Korean negotiator to the nuclear talks, at the U.S. Embassy in Germany.	7	48	252	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1013.421	1029.196	Cathy	male	native	(())	7	49	253	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1029.196	1035.214	Mo_naiqian	female	native	However, Cathy pointed out that Hill and Kim Gye-gwan only exchanged views. They did not fix a date for the next six-sided meeting.	7	50	254	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1035.214	1042.460	Mo_naiqian	female	native	Immediately after that, Hill will visit South Korea on Friday, China on Saturday, and Japan on Sunday to further consult with these countries.	7	50	255	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1042.460	1049.382	Mo_naiqian	female	native	According to foreign news agency reports, the U.S.-North Korean working group on financial sanctions was originally scheduled to meet in New York on January 22,	7	50	256	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1049.382	1053.448	Mo_naiqian	female	native	But North Korea insists on changing the venue to Beijing. The U.S. State Department denied such reports.	7	50	257	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1053.448	1062.699	Cathy	male	native	(())	7	51	258	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1062.699	1067.308	Mo_naiqian	female	native	Even though there seem to be no breakthrough in the North Korean nuclear talks ever since the six-member conference broke up last December,	7	52	259	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1067.308	1071.801	Mo_naiqian	female	native	Hill said Tuesday though a solution is slow in coming, progress is being made.	7	52	260	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1071.801	1077.609	Mo_naiqian	female	native	U.S. Secretary of State Rice also said that to achieve possible results in the future, important work of laying down foundations is now going forward.	7	52	261	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1077.609	1082.492	Mo_naiqian	female	native	As to rumors that North Korea may conduct a second nuclear test on the birthday of Kim Jong-Il or Kim Yong-Sam,	7	52	262	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1082.492	1087.807	Mo_naiqian	female	native	U.S. officials said that politically speaking, all North Korean demands are now under negotiation,	7	52	263	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1087.807	1091.369	Mo_naiqian	female	native	and there is no apparent reason why North Korea needs a second nuclear test program.	7	52	264	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1091.369	1093.454	Mo_naiqian	female	native	Phoenix Satellite Television, Mo Naiqian reporting from Washington D.C.	7	52	265	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1094.803	1099.386	Chen_xiaonan	female	native	Meanwhile, a South Korean who was abducted and brought to North Korea 31 years ago succeeded in making an escape recently.	8	53	267	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1099.386	1102.705	Chen_xiaonan	female	native	On Tuesday, he finally came back home for a family reunion.	8	53	268	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1104.390	1108.650	speaker#2	female	native	As the 67-year old Mr. Choi walked out of the restricted area of Incheon Airport, he was waving a South Korean flag.	8	54	270	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1108.650	1112.820	speaker#2	female	native	The first one rushing up to welcome him was his wife, who waited 31 years for this very moment.	8	54	271	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1116.418	1118.206	speaker#2	female	native	It was a very emotional moment.	8	54	273	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1121.479	1125.158	speaker#2	female	native	His children kneeled down to show their reverence to the father they missed for so long.	8	54	275	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1131.649	1137.155	speaker#2	female	native	Choi, a fisherman, was kidnapped, brought to North Korea and detained there all these years	8	54	277	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1137.155	1140.280	speaker#2	female	native	until December of last year, when he escaped to China.	8	54	278	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1140.280	1143.155	speaker#2	female	native	Reports said he was then taken in by the South Korean Consulate General in Shenyang.	8	54	279	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1143.740	1147.443	speaker#2	female	native	It is estimated that 485 South Korean civilians were carried off to North Korea.	8	54	281	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1147.443	1150.723	speaker#2	female	native	Choi is one of them. The remaining detainees are believed to be still there.	8	54	282	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1151.232	1157.045	speaker#2	female	native	In addition, an estimated 500 South Korean soldiers captured during the Korean War are still being detained in the North.	8	54	284	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1157.699	1161.308	speaker#2	female	native	Cho Jung-pyo, Deputy Minister of the South Korean Ministry of Foreign Affairs and Trade, said at a press conference	8	54	286	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1161.308	1165.658	speaker#2	female	native	that the return of Choi to his home country is the result of close cooperation between the governments of China and South Korea.	8	54	287	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1165.658	1167.037	speaker#2	female	native	This is a comprehensive report from Phoenix Satellite Television.	8	54	288	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1168.754	1171.464	Chen_xiaonan	female	native	Okay, after viewing these news events, let us go to	9	55	290	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1171.464	1174.867	Chen_xiaonan	female	native	the top news reports on major world TV networks.	9	55	291	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1174.867	1178.084	Chen_xiaonan	female	native	First, let's see what latest news the (()) TV network has brought us.	9	55	292	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1178.084	1185.629	Chen_xiaonan	female	native	It focuses on the health conditions of Cuban leader Castro. People are guessing all the time whether he is really terminally ill.	9	55	293	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1185.629	1190.676	Chen_xiaonan	female	native	Reports continue to say that this is a closely guarded national secret, kept under lock and key.	9	55	294	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1191.213	1194.175	Chen_xiaonan	female	native	Meanwhile, what does Sky News have as its top item?	9	55	296	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1194.175	1199.306	Chen_xiaonan	female	native	It is the second day of the hearing on the bombing incident in London on July 21.	9	55	297	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1199.306	1206.074	Chen_xiaonan	female	native	The prosecutors demonstrated to the jury how the suspects tried to ignite bombs in an underground train and on a bus.	9	55	298	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1206.574	1209.689	Chen_xiaonan	female	native	Next, CCTV China Central TV.	9	55	300	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1209.689	1214.403	Chen_xiaonan	female	native	Their top news item is an announcement by the People's Bank of statistics showing that towards the end of 2006,	9	55	301	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1214.403	1219.366	Chen_xiaonan	female	native	macro-economic controls have effectively dampened down accelerating lending activities.	9	55	302	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1219.876	1220.967	Chen_xiaonan	female	native	Asia Television News.	9	55	304	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1220.967	1226.363	Chen_xiaonan	female	native	Eh, government of the Hong Kong Special Administrative Region announced a new measure which restricts pregnant women from the interior of the country to enter Hong Kong for the purpose of giving birth to the baby there.	9	55	305	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1226.363	1228.926	Chen_xiaonan	female	native	The new measure will go into effect on February 1,	9	55	306	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1228.926	1232.692	Chen_xiaonan	female	native	to screen out and refuse entry to those excluded by these regulations.	9	55	307	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1233.217	1238.185	Chen_xiaonan	female	native	Eh, Hong Kong has been severely plagued by this problem. This is a new measure they are taking.	9	55	309	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1238.185	1242.327	Chen_xiaonan	female	native	Okay, we'll take you through the major world newspapers to see what they are interested in.	9	55	310	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1242.327	1245.751	Chen_xiaonan	female	native	First, let's see what does the Los Angeles Times have to say.	9	55	311	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1246.270	1251.868	Chen_xiaonan	female	native	The Los Angeles Times reports on the relations between Iraq and Iran.	9	55	313	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1251.868	1258.545	Chen_xiaonan	female	native	The report says that although America is taking a hard stance towards the Iranians and warned them not to cause any mischief in Iraq,	9	55	314	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1258.545	1262.420	Chen_xiaonan	female	native	there seems to be an increasing rapprochement between Iraq and Iran.	9	55	315	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1262.420	1266.270	Chen_xiaonan	female	native	Although America has bombed an Iranian representatives' office in Iraq,	9	55	316	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1266.270	1270.377	Chen_xiaonan	female	native	still, Iraqi officials say that more such rep offices will open for business.	9	55	317	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1270.377	1275.893	Chen_xiaonan	female	native	In addition, they will also open up more gateways along the border to Iran to facilitate exchanges	9	55	318	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1276.405	1279.664	Chen_xiaonan	female	native	Meanwhile, let's turn to the British newspaper, The Guardian. What are they interested in?	9	55	320	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1279.664	1282.109	Chen_xiaonan	female	native	The Guardian is much concerned with the inflation rates in Britain.	9	55	321	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1282.109	1285.940	Chen_xiaonan	female	native	Inflation rates in Britain have reached a fifteen-year high,	9	55	322	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1285.940	1288.759	Chen_xiaonan	female	native	a fifteen-year high, the highest rate since 1991.	9	55	323	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1288.759	1293.074	Chen_xiaonan	female	native	Now, experts are trying to find out the reason behind this problem and what can be done about it.	9	55	324	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1293.640	1299.450	Chen_xiaonan	female	native	Eh, the International Herald Tribune, International Herald Tribune reported on what we just said is the top news of the (()) television network.	9	55	326	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1299.450	1302.109	Chen_xiaonan	female	native	That is, how is Castro?	9	55	327	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1302.109	1306.229	Chen_xiaonan	female	native	A Spanish medium said that insiders revealed that	9	55	328	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1306.229	1308.108	Chen_xiaonan	female	native	he is in very bad condition.	9	55	329	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1308.108	1311.498	Chen_xiaonan	female	native	They even used such words as "critically or terminally ill."	9	55	330	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1311.498	1314.725	Chen_xiaonan	female	native	However, he does not suffer from cancer as the outside world speculates.	9	55	331	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1314.725	1319.930	Chen_xiaonan	female	native	He is ill with diverticulosis, a disorder more widespread among older people.	9	55	332	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1319.930	1322.929	Chen_xiaonan	female	native	Three surgeries were attempted and have all failed,	9	55	333	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1322.929	1327.626	Chen_xiaonan	female	native	resulting in serious infections which are said to have deteriorated and turned into peritonitis.	9	55	334	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1327.626	1330.744	Chen_xiaonan	female	native	All in all, he is gravely ill, his condition is very serious.	9	55	335	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1330.744	1335.482	Chen_xiaonan	female	native	Anyway, Spain, eh, that is, the Castro government is still denying that this report is true.	9	55	336	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1335.482	1338.013	Chen_xiaonan	female	native	Okay, let's take a look finally at the Moscow Times.	9	55	337	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1338.013	1343.981	Chen_xiaonan	female	native	It reports that despite strong opposition voiced by America, Russia is still selling, eh, arms to Iran.	9	55	338	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1343.981	1347.960	Chen_xiaonan	female	native	The major item sold to Iran is a guided missile system for air defense.	9	55	339	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1347.960	1354.046	Chen_xiaonan	female	native	It was Defense Minister Ivanov. For the first time this report was confirmed by an official of such lofty rank.	9	55	340	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1354.046	1356.876	Chen_xiaonan	female	native	And he said that if the Iranians wish, Russia will sell them more.	9	55	341	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1357.546	1361.655	Chen_xiaonan	female	native	Alright! Stay tuned for more news on our upcoming Global Focus program.	9	55	343	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1361.655	1362.336	Chen_xiaonan	female	native	See you in a little while!	9	55	344	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1539.413	1543.103	Chen_xiaonan	female	native	Welcome to Phoenix Morning News. We are continuing with world news.	11	57	346	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1543.103	1546.712	Chen_xiaonan	female	native	U.N. Secretary-General Ban Ki-moon on the 16th commented on an announcement by U.S. Secretary of State Rice	11	57	347	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1546.712	1551.875	Chen_xiaonan	female	native	that she will soon join Israel and Palestine in a three-sided meeting. Ban welcomes this statement by Rice.	11	57	348	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1551.875	1556.828	Chen_xiaonan	female	native	A spokesperson of Secretary-General Ban Ki-moon said Ban is actively contacting and discussing with the four parties involved in the Middle-East problem,	11	57	349	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1556.828	1559.040	Chen_xiaonan	female	native	in the hope of convening a meeting in February.	11	57	350	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1560.685	1563.402	Zhang_shixin	female	native	One of the main achievements Rice brought back from her Middle East trip was	11	58	352	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1563.402	1568.058	Zhang_shixin	female	native	winning the consent of both Israeli Prime Minister Olmert and Palestinian National Authority President Abbas	11	58	353	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1568.058	1570.498	Zhang_shixin	female	native	to a direct three-sided meeting in February.	11	58	354	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1570.498	1574.869	Zhang_shixin	female	native	On the 16th, U.N. Secretary-General Ban Ki-moon welcomed the good news through a spokesperson.	11	58	355	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1574.869	1580.398	Zhang_shixin	female	native	The spokesperson said that Rice, before her visit to the Middle East, talked with Ban Ki-moon on the phone.	11	58	356	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1580.398	1584.839	Zhang_shixin	female	native	Hence, Ban Ki-moon gained a good understanding of the objectives Rice wanted to achieve on this trip.	11	58	357	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1584.839	1591.665	Zhang_shixin	female	native	However, Ban-Ki-moon still hopes that a meeting between the four parties -- the U.N., the EU, Russia and America -- will take place as soon as possible.	11	58	358	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1591.665	1596.228	Zhang_shixin	female	native	It is learned that a four-sided Middle East meeting was originally scheduled for early February in Paris.	11	58	359	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1596.228	1598.740	Zhang_shixin	female	native	But the date has to be changed due to security reasons.	11	58	360	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1598.740	1604.099	Zhang_shixin	female	native	At present, the parties concerned are still trying to find an appropriate time. The venue should be in Paris or New York.	11	58	361	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1604.099	1608.271	Zhang_shixin	female	native	Ever since he was elected Secretary-General, Ban Ki-moon has repeatedly stressed the importance of securing and promoting peace in the Middle East.	11	58	362	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1608.271	1612.363	Zhang_shixin	female	native	He also considers the convening of four-party talks on the Middle East one of the most important tasks of his term.	11	58	363	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1612.363	1615.028	Zhang_shixin	female	native	This is Zhang Shixin of Phoenix Satellite Television reporting from U.N. headquarters in New York.	11	58	364	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1616.330	1620.094	Chen_xiaonan	female	native	Commander of the U.S. submarine forces recently issued an order to	12	59	366	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1620.094	1625.388	Chen_xiaonan	female	native	stop all submarines temporarily, to suspend temporarily duties and missions assigned to all U.S. submarines from now until January 19.	12	59	367	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1625.388	1631.765	Chen_xiaonan	female	native	What is the main reason behind this order? American submarines were repeatedly involved in collision incidents.	12	59	368	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1631.765	1640.627	Chen_xiaonan	female	native	In less than one month between last December and today, two major collisions occurred, and people were killed.	12	59	369	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1640.627	1644.018	Chen_xiaonan	female	native	So the American submarine forces are extremely worried.	12	59	370	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1644.018	1648.831	Chen_xiaonan	female	native	They suspended all missions under emergency conditions to find out where the problem lies,	12	59	371	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1648.831	1650.896	Chen_xiaonan	female	native	and to evaluate future risks.	12	59	372	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1651.944	1655.906	Chen_xiaonan	female	native	Now, we will focus on America to find out what top news events are there today.	13	60	374	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1655.906	1660.008	Chen_xiaonan	female	native	We are switching over to Mo Naiqian in Washington. Let's see what new jobs she	13	60	375	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1660.008	1660.583	Chen_xiaonan	female	native	Hi, Naiqian!	13	60	376	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1661.593	1662.444	Mo_naiqian	female	native	Hello, Xiaonan.	13	61	378	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1662.444	1665.987	Mo_naiqian	female	native	The U.S. Navy held a christening ceremony Tuesday.	13	61	379	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1665.987	1671.017	Mo_naiqian	female	native	This is a ceremony to christen the new aircraft carrier, U.S.S. Ford.	13	61	380	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1671.017	1675.517	Mo_naiqian	female	native	Ford, the name to be honored, is, of course, that of the late U.S. President Ford who recently passed away.	13	61	381	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1675.517	1677.923	Mo_naiqian	female	native	We'll turn to Bai Yunli reporting from Washington D.C.	13	61	382	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1679.574	1682.998	Bai_yunli	male	native	U.S. Vice President Cheney, who served in the Ford Administration, gave a speech at the ceremony,	13	62	384	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1682.998	1689.157	Bai_yunli	male	native	in which he repeatedly praised Ford for his contributions to the U.S Navy and emphasized how appropriate it is to christen the aircraft carrier U.S.S.Ford.	13	62	385	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1689.702	1697.484	Cheney	male	native	(())	13	63	387	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1698.044	1703.687	Bai_yunli	male	native	The Ford aircraft carrier is 1,092 feet long and can carry a crew of 4,660.	13	64	389	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1703.687	1707.197	Bai_yunli	male	native	She is the American Navy's newest aircraft carrier and will be in active service for seven to eight years.	13	64	390	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1707.707	1709.766	Bai_yunli	male	native	This is Bai Yunli of Phoenix Satellite Television reporting from Washington D.C.	13	64	392	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1712.011	1715.249	Mo_naiqian	female	native	We just saw that the ceremony was officiated by Cheney.	13	65	394	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1715.249	1718.047	Mo_naiqian	female	native	In fact, another news item today also concerns Cheney.	13	65	395	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1718.047	1723.890	Mo_naiqian	female	native	That is about Cheney's assistant who is suspected of involvement in leaking the identity of a former CIA operative.	13	65	396	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1723.890	1727.717	Mo_naiqian	female	native	Starting Tuesday, jury members will be chosen for the trial.	13	65	397	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1728.275	1734.260	Mo_naiqian	female	native	The bill, the trial will take place in the District Court of the capital city of Washington D.C.	13	65	399	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1734.260	1738.192	Mo_naiqian	female	native	The person involved in the case is Libby, Cheney's former Chief of Staff.	13	65	400	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1738.192	1747.384	Mo_naiqian	female	native	He is accused of perjury and obstructing justice in the investigation of the case of leaking the identity of Plame, a former CIA operative.	13	65	401	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1747.384	1750.884	Mo_naiqian	female	native	Vice President Cheney may appear in court as a defense witness.	13	65	402	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1750.884	1755.977	Mo_naiqian	female	native	That will set a precedent of an incumbent Vice President of the U.S. testifying in a criminal case in court.	13	65	403	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1755.977	1761.336	Mo_naiqian	female	native	The court will open next Monday. The trial is expected to last an estimated four to six weeks.	13	65	404	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1763.553	1766.481	Mo_naiqian	female	native	Next, let's turn our attention to U.S. President Bush.	13	65	406	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1766.481	1770.856	Mo_naiqian	female	native	Bush announced his new Iraq policy last Wednesday.	13	65	407	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1770.856	1777.050	Mo_naiqian	female	native	Now, U.S. media turned their focus on his State of the Union message scheduled for the coming Tuesday.	13	65	408	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1777.050	1782.235	Mo_naiqian	female	native	Today, some U.S. media said he may lay it on thick about environmental problems in the State of the Union address,	13	65	409	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1782.235	1788.461	Mo_naiqian	female	native	and will talk about exerting greater effort to deal with the greenhouse effect and global warming problems.	13	65	410	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1788.461	1794.086	Mo_naiqian	female	native	But today White House made haste to assure the world that there will be some adjustments to Bush's environmental policy,	13	65	411	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1794.086	1800.945	Mo_naiqian	female	native	but Bush still will not insist on setting a higher limit on greenhouse emissions,	13	65	412	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1800.945	1806.302	Mo_naiqian	female	native	as he does not want to affect the global competitiveness of the American industry and American companies.	13	65	413	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1806.302	1809.655	Mo_naiqian	female	native	But we'll wait and see what the State of the Union address will bring us next Tuesday.	13	65	414	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1809.655	1812.263	Mo_naiqian	female	native	Meanwhile, we'll bring you other political news items.	13	65	415	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1812.263	1817.631	Mo_naiqian	female	native	Afro-American Democratic Senator Obama, a fast rising star on the American political stage,	13	65	416	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1817.631	1822.892	Mo_naiqian	female	native	filed his papers with the U.S. Federal Election Commission Tuesday.	13	65	417	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1822.892	1827.203	Mo_naiqian	female	native	He said that is a formal statement of candidacy to run in the 2008 presidential election.	13	65	418	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1828.278	1833.940	Mo_naiqian	female	native	The 45-year old Obama became an American Senator for the first time only two years ago.	13	65	420	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1833.940	1838.534	Mo_naiqian	female	native	In fact, he has little experience in national politics. But he does show leadership charisma.	13	65	421	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1838.534	1843.193	Mo_naiqian	female	native	Also, he is of mixed -- black and white -- parentage and comes from the Midwestern state of Kansas.	13	65	422	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1843.193	1846.337	Mo_naiqian	female	native	So, the man or woman in the street easily identify themselves with him.	13	65	423	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1846.337	1849.931	Mo_naiqian	female	native	Since last year, voices supporting his candidacy have become louder and louder.	13	65	424	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1849.931	1855.918	Mo_naiqian	female	native	Tuesday, Obama formally filed his papers to run for the U.S. presidency in 2008. He, in fact, took the first step to join the election.	13	65	425	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1855.918	1863.074	Mo_naiqian	female	native	But, he is immediately confronted with a fight with former First Lady, Senator Hillary, to secure the Democratic nomination for the election.	13	65	426	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1864.975	1872.445	Mo_naiqian	female	native	In fact, more minority citizens winning prominence in public life has become a trend in the United States. We have here another news item on an outstanding Chinese-American.	13	65	428	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1872.445	1879.601	Mo_naiqian	female	native	She is Michelle Kwan, famed U.S. figure skater. And she is America's first "people to people ambassador."	13	65	429	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1879.601	1885.260	Mo_naiqian	female	native	U.S. State Department sources said today Michelle Kwan left Washington D.C. on the 16th to begin a visit to China.	13	65	430	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1886.738	1892.386	Mo_naiqian	female	native	Actually Michelle Kwan was accompanying U.S. Assistant Secretary of State Hill on his visit to China.	13	65	432	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1892.386	1895.965	Mo_naiqian	female	native	She will visit Beijing first, from 17th to 21st.	13	65	433	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1895.965	1901.398	Mo_naiqian	female	native	Her next stops will be Guangzhou, 21st to 23rd; and Hong Kong, 23rd to 24th.	13	65	434	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1901.398	1907.506	Mo_naiqian	female	native	During the visit, she will meet with students, women's groups, business representatives, government officials and the media.	13	65	435	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1907.506	1912.416	Mo_naiqian	female	native	With the help of Michelle Kwan's gentle diplomacy and her Chinese-American background, the U.S. State Department hopes	13	65	436	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1912.416	1918.005	Mo_naiqian	female	native	to better convey to the Chinese public American culture and values.	13	65	437	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1920.504	1926.825	Mo_naiqian	female	native	Next, let's take a look at some top American news events expected to take place tomorrow, that is, Wednesday, January 17th.	13	65	439	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1926.825	1930.657	Mo_naiqian	female	native	First, U.N. Secretary-General Ban Ki-moon, who is on a visit in Washington D.C.,	13	65	440	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1930.657	1933.001	Mo_naiqian	female	native	will meet with American President Bush Tuesday,	13	65	441	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1933.001	1938.142	Mo_naiqian	female	native	and visit Democratic and Republican members of Congress Wednesday.	13	65	442	report	
+PHOENIX_GOODMORNCN_CMN_20070116_185800	0	1938.142	1940.148	Mo_naiqian	female	native	At the same time, he and Senator Kennedy	13	65	443	report	

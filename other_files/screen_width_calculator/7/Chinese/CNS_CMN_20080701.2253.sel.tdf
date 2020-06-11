@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.2253	0	0.0	100.0	speaker	unknown	unknown	新疆：伪造高校录取通知书诈骗1043万案审结	0	0	0		
+CNS_CMN_20080701.2253	0	200.0	300.0	speaker	unknown	unknown	利用大学招生63次实施诈骗，诈骗金额达1043万余元。	0	0	0		
+CNS_CMN_20080701.2253	0	400.0	500.0	speaker	unknown	unknown	法院审理查明，现年29岁的被告人马小龙冒充中央首长秘书，自2003年9月至2006年7月，在新疆各地诈骗60多位大学考生家长。	0	0	0		
+CNS_CMN_20080701.2253	0	500.0	600.0	speaker	unknown	unknown	马小龙还通过被告人李成年、张晖、王春华伪造武装部队印章、部队院校招生文件计划和录取通知书，虚构认识中央军委、兰州军区、新疆军区领导，谎称能让学生免试上部队院校，大肆进行诈骗活动，先后63次骗取被害人钱财1043万元。	0	0	0		
+CNS_CMN_20080701.2253	0	1500.0	1600.0	speaker	unknown	unknown	法院审理认为，被告人马小龙以非法占有为目的，虚构能让学生免试上军队院校的事实，骗取他人钱财，数额特别巨大，其行为均已构成诈骗罪。	0	0	0		

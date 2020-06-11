@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0037.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	在日缅甸人与日本警方发生冲突 数人被送往医院	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 09:24 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月27日电 缅甸驻日本大使馆26日举行行新宪法案全民公决的海外投票，在日缅甸人参加。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	在大使馆外，要求实现民主化的缅甸人与约200名特警发生了冲突，现场一度陷入混乱。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	据共同社报道，约150名缅甸人为了投票赶到大使馆前，但未被允许进入，被迫在门前的道路上等待，时间长达数小时。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	据警方称，有数人因身体不适被送往医院。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	当天上午8点之前就有大批缅甸人聚集在使馆正门前。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	警方以妨碍交通为由要求他们走开，并试图强制驱散人群，双方遂发生激烈冲突。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	冲突中有缅甸人被警察按倒在地，还有人受惊跌倒。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	缅甸人被迫转移至附近公园后大喊“还缅甸和平、给我们公平的机会”、“为什么日本警察支持缅甸军事政府”，混乱持续了数小时。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	抗议活动的领导人称有一部分缅甸人收到了邮寄的海外投票招待券，但是与民主化活动有关的人却都没有收到。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	他说：“我们有护照，能证明我们是缅甸公民。	0	0	0		statement
+CNS_CMN_20080427.0037.sgm	0	2175.000	2200.000	TEXT1	unknown	unkown	我们同样有投票的权利。”((完))	0	0	0		statement

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0992	0	0.0	100.0	speaker	unknown	unknown	发改委要求加强外商投资管理防外汇资金异常流入	0	0	0		
+CNS_CMN_20080720.0992	0	1500.0	1600.0	speaker	unknown	unknown	四、规范新开工项目管理，严格各项项目核准条件。	0	0	0		

@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0015	0	200.0	300.0	speaker	unknown	unknown	新华社伦敦７月８日电（记者陈文仙）矿业股和能源股显著下降，８日伦敦股市整体遭受下挫，《金融时报》１００种股票平均价格指数以５４４０.５点收盘，比前一交易日下跌７２.２点，跌幅为１.３１％。	0	0	0		
+XIN_CMN_20080708.0015	0	500.0	600.0	speaker	unknown	unknown	英国两大石油巨头英国石油公司和壳牌公司的股价分别下降３.４１％和２.２３％。	0	0	0		
+XIN_CMN_20080708.0015	0	600.0	700.0	speaker	unknown	unknown	英国凯恩能源公司的股价跌幅高达６.３６％，英国塔劳石油公司和英国燃气公司的股价下降幅度都超过４％。	0	0	0		
+XIN_CMN_20080708.0015	0	800.0	900.0	speaker	unknown	unknown	欧亚自然资源集团股价下滑６.７９％，澳大利亚必和必拓集团股价下跌６.１２％，其他矿业公司如智利安托法加斯塔公司、澳大利亚力拓集团和印度韦塔丹公司的股价跌幅均在５％以上。	0	0	0		
+XIN_CMN_20080708.0015	0	1100.0	1200.0	speaker	unknown	unknown	不过，零售股却得以上涨，英国玛莎集团股价的涨幅高达６.６８％，成为当日风向标指数涨幅之首。	0	0	0		
+XIN_CMN_20080708.0015	0	1300.0	1400.0	speaker	unknown	unknown	其他零售商也有一定的涨幅，英国超市巨头乐购集团和莫里森集团股价分别上涨２.０８％和１.９９％。	0	0	0		
+XIN_CMN_20080708.0015	0	1500.0	1600.0	speaker	unknown	unknown	法国巴黎股市ＣＡＣ４０指数以４２７５.６１点收盘，比前一交易日下跌６６.９８点，跌幅为１.５４％。	0	0	0		
+XIN_CMN_20080708.0015	0	1600.0	1700.0	speaker	unknown	unknown	德国法兰克福股市ＤＡＸ指数以６３０４.４１点收盘，比前一交易日下降９１.３４点，跌幅为１.４３％。	0	0	0		

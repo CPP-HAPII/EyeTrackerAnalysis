@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.1231	0	200.0	300.0	speaker	unknown	unknown	中新网7月3日电 据俄新网报道称，俄罗斯总统德米特里·梅德韦杰夫建议开始就优化国际金融制度结构进行谈判，俄罗斯正在制定有关完善全球经济体系的建议。	0	0	0		

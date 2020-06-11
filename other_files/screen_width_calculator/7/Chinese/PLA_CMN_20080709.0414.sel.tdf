@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080709.0414	0	1200.0	1300.0	speaker	unknown	unknown	石家庄机械化步兵学院教练团开展“迎奥运强素质谋打赢”趣味运动会，喜迎奥运倒计时一个月，彰显了全团官兵“盼奥运、迎奥运、贺奥运”的美好夙愿。	0	0	0		

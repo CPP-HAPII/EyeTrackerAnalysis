@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1808	0	0.0	100.0	speaker	unknown	unknown	As Zhejiang moves from the rainy season into the monsoon season, the weather will be mostly fine and hot in the near term, with high temperatures.	0	0	0		
+CNS_CMN_20080704.1808	0	700.0	800.0	speaker	unknown	unknown	"This year, the rainy season in Zhejiang starts on June 8 and ends on July 4, both dates earlier than past years. The 26-day duration of the rainy season is 3 days more than that in the past years."	0	0	0		

@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0838.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	HK Journalist in Torch Exhibition on Mount Everest Taken Downhill due to Altitude Sickness	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Source: Xinhua News Agency	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Mount Everest, April 29, Xinhua Special Report,	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1000.000	1100.000	TEXT1	unknown	unkown	At a press conference held on 29th, the organizers of the activity of the Beijing Olympic Games torch exhibition on Mount Everest said that a Hong Kong journalist taking part in the coverage was evacuated down to Dingri County of Rikaze Prefecture on the night of 28th due to serious altitude sickness. The county is 102km away from the base camp on Mount Everest and has an elevation of more than 4000m.	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1300.000	1400.000	TEXT1	unknown	unkown	Accompanying doctor Li Kui said the Hong Kong journalist name of Kuang Yiyi showed noticeable signs of reaction on the way when the team passed through Dingri County. On 28th, when he got to the base camp at 5040m in elevation together with all the fellow journalists, his conditions worsened and he showed symptoms of severe headache and chilliness, plus a low blood oxygen saturation.	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1600.000	1650.000	TEXT1	unknown	unkown	Similar conditions were also found in a staff member of the News & Publicity Coordination Group of the Beijing Olympic Games.	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1650.000	1675.000	TEXT1	unknown	unkown	The same night, the press center sent an ambulance to evacuate them both from the base camp.	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1675.000	1700.000	TEXT1	unknown	unkown	Liu Xuan, deputy director of the press center, said that they are in good conditions now and would arrive in Rikaze on 29th.	0	0	0		statement
+PLA_CMN_20080429.0838.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	Liu also noted that, given the hard conditions in Tibet, he hoped that the other journalists and staff members will take good care of themselves by balancing work and rest.	0	0	0		statement

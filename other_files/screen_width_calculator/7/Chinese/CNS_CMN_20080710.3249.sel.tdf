@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.3249	0	0.0	100.0	speaker	unknown	unknown	山西居民家阳台上涌入上百只蝙蝠“安营扎寨”	0	0	0		
+CNS_CMN_20080710.3249	0	200.0	300.0	speaker	unknown	unknown	一夜间，晋城市区一居民家的阳台上居然涌入上百只蝙蝠“安营扎寨”。	0	0	0		

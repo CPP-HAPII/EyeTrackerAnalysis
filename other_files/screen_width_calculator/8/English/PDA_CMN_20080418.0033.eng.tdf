@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0033.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	US Ambassador to Guatemala Acknowledges 450 tonnes of Columbian Cocaine Shipped Annually to US	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Apr. 18, 2008	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	(People.com.cn, Apr. 18) According to a report by TVS, US Ambassador to Guatemala Derham acknowledged yesterday that 450 tonnes of Columbian cocaine are transported to the US each year, most of the drugs being transported there through Central America.	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Derham said the US had spent USD50 million this year to prevent drug trafficking in the region and that next year the investment would double.	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	He admitted that because drug trafficking is an illegal business, combatting it is a serious and complicated task.	0	0	0		statement
+PDA_CMN_20080418.0033.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Last week, the Guatemalan security organization seized almost 1.5 tonnes of cocaine within the space of three days in the northern state of Petén on the border of Mexico and Belize, dealing a heavy blow to drug-trafficking gangs. (Guan Yanzhong).	0	0	0		statement

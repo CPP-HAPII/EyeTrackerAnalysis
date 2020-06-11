@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0543	0	200.0	300.0	speaker	unknown	unknown	Design Plans Released for Olympic Awards Platform, Award Certificates, and Award Bouquets	0	0	0		
+CNS_CMN_20080717.0543	0	1600.0	1700.0	speaker	unknown	unknown	This series of ceremonial attire will appear at the awards sites of events such as gymnastics, indoor ball competitions, and fencing.	0	0	0		
+CNS_CMN_20080717.0543	0	2700.0	2800.0	speaker	unknown	unknown	All Olympic ceremonial attire and flag raisers' uniforms will have the words "Beijing 2008" embroidered on them.	0	0	0		

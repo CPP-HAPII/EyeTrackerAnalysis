@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-151193-10588757	0	0.0	100.0	speaker	unknown	unknown	Web开发者实践开源但是没有鼓吹它	0	0	0		
+cmn-NG-31-151193-10588757	0	100.0	200.0	speaker	unknown	unknown	*Web**开发者实践开源但是没有鼓吹它*	0	0	0		
+cmn-NG-31-151193-10588757	0	400.0	500.0	speaker	unknown	unknown	翻译： WWW.17LAMP.	0	0	0		
+cmn-NG-31-151193-10588757	0	800.0	900.0	speaker	unknown	unknown	Peters说他们在开创公司之前已经拥有了10年的网络开发公司工作的背景。	0	0	0		
+cmn-NG-31-151193-10588757	0	1000.0	1100.0	speaker	unknown	unknown	他们使用了开放源码软件，不过他们还为之建立了一个专有的软件包，因为， 据St.Peter说，这是客户所要求的。	0	0	0		
+cmn-NG-31-151193-10588757	0	1200.0	1300.0	speaker	unknown	unknown	net/blog/editor/story/20080709142113 >--开源需要新思路： http://www.17lamp.	0	0	0		

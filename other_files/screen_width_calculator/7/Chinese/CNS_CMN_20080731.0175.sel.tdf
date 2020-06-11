@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.0175	0	1900.0	2000.0	speaker	unknown	unknown	有群众反映：“这些人做了干部就不干活了，整天东转转西逛逛，像是大领导、大老爷。”	0	0	0		
+CNS_CMN_20080731.0175	0	2200.0	2300.0	speaker	unknown	unknown	王某一直认为自己是在执行村委会主任的命令，即使产生后果也是村委会主任的责任，不关他的事。	0	0	0		
+CNS_CMN_20080731.0175	0	2900.0	3000.0	speaker	unknown	unknown	富裕了的农村怎样走出村干部前“腐”后继的怪圈，富阳市检察院给出了“金点子”：让村民的手头拥有一份“村官权力清单”。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.0925	0	800.0	900.0	speaker	unknown	unknown	此外，为有效管理流动商贩，变“堵”为“疏”，草案还增加了一条新内容：“广州市、区人民政府可以根据实际情况选择适当的区域设置临时经营场所，引导流动商贩在规定的时段内入场经营。”(陈先锋）	0	0	0		

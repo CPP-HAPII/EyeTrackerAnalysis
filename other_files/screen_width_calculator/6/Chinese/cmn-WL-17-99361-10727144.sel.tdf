@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-17-99361-10727144	0	100.0	200.0	speaker	unknown	unknown	华盛顿8月4日消息：美国国务院发言人加莱戈斯4日表示，美国强烈谴责在中国新疆喀什发生的袭击警察的“暴力行动”，并对袭击事件造成人员伤亡“感到难过”。	0	0	0		

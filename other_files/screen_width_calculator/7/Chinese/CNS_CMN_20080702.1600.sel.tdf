@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1600	0	500.0	600.0	speaker	unknown	unknown	在学校里，教师是未成年的中小学生的监护人，有保护学生安全的责任，在灾难降临时抛弃学生不管独自逃生，有违职业道德。	0	0	0		
+CNS_CMN_20080702.1600	0	1100.0	1200.0	speaker	unknown	unknown	这根据的是美国政府救灾部门和红十字会等机构的专家建议，简称“伏倒、掩护、抓住(或等待)”。	0	0	0		
+CNS_CMN_20080702.1600	0	3800.0	3900.0	speaker	unknown	unknown	这就是为什么美国官方机构从小训练人们遇到地震时要抗拒跑的本能，做到“伏倒、掩护、抓住(等待)”。	0	0	0		

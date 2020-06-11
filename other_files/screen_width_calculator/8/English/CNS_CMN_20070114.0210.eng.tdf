@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070114.0210	0	10010.000	10019.900				Russia-Georgia Situation Changes Again; Georgia Captures Russian Captain Who Illegally Crossed Border	0	0	0		
+CNS_CMN_20070114.0210	0	20010.000	20019.900				January 14, 2007, 15:30	0	0	0		
+CNS_CMN_20070114.0210	0	30010.000	30019.900				Chinanews.com, Moscow, January 14 - On January 13, local time, a local court in Georgia announced a two-month pre-trial detention for a captain of a Russian fishing vessel, accusing him of illegal crossing of the border and illegal fishing.	0	0	0		
+CNS_CMN_20070114.0210	0	40010.000	40019.900				On the 10th of this month, the Georgian coastguard detained two fishing vessels off the seacoast of the Abkhazia district - one boat was the Russian "GROT" and the other the Ukrainian "SAVOR-2."	0	0	0		
+CNS_CMN_20070114.0210	0	40020.000	40029.900				They concurrently captured all crewmembers on the fishing vessels, accusing them of illegal entry into the territorial waters of Georgia.	0	0	0		
+CNS_CMN_20070114.0210	0	40030.000	40039.900				At present, all the other crewmembers on the Russian fishing vessel have obtained bail, but the Georgian court had rejected the captain's request for a bail at 5,800 US dollars.	0	0	0		
+CNS_CMN_20070114.0210	0	50010.000	50019.900				The Abkhazia district is a turbulent district within Georgia, and had been advocating for independence for years.	0	0	0		
+CNS_CMN_20070114.0210	0	50020.000	50029.900				Before the situation between Russia and Georgia took a sudden turn for the worse last year, Russia had all along kept peacekeeping troops here.	0	0	0		
+CNS_CMN_20070114.0210	0	60010.000	60019.900				Russian Ministry of Foreign Affairs spokesperson Mikhail said in a statement on Saturday that Russia is monitoring the development of the situation at all times, and keeping active contact with the Russian and Ukrainian arrestees, as well as other foreign vessels fishing within the Abkhazia district.	0	0	0		
+CNS_CMN_20070114.0210	0	60020.000	60029.900				The Russian ambassador to Georgia said that Russia will use all possible legal means to rescue the arrestees, and he hopes that Georgia will accurately comprehend this incident.	0	0	0		
+CNS_CMN_20070114.0210	0	60030.000	60039.900				(Zhong Yan)	0	0	0		

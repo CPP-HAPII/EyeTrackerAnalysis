@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-124489-10005649	0	0.0	100.0	speaker	unknown	unknown	exploit如果用try{]catch获取控制权应该怎么断 下?	0	0	0		
+cmn-NG-31-124489-10005649	0	100.0	200.0	speaker	unknown	unknown	一些exploit会用try{]catch获得控制权那么od怎么断在获得控制权那个关键地方呢?	0	0	0		

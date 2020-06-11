@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080404.0026	0	0.0	1000.0	speaker	unknown	unknown	俄罗斯总统蒲亭今天告诉北约各国领导人,只要西方各强国妥协,俄国愿意重新遵守冷战时期重要的限武条约,即「欧洲传统武力条约」。	0	0	0		

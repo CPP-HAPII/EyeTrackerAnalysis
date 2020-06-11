@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0837	0	1500.0	1600.0	speaker	unknown	unknown	光是参与的企业就有１２个省区市的１４０多家，还有一些国内的高校、研究院、研究所直接参与了这个项目的技术攻关，参与技术攻关的教授级、院士级的专家有２０００多人，直接参与这个项目的工程技术人员有５万多人。	0	0	0		

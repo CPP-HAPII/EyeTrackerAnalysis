@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1008	0	1700.0	1800.0	speaker	unknown	unknown	洪涝灾害的主要指标中，受灾农作物面积、死亡人口和倒塌房屋数量分别较常年低两成四、六成六和五成六。	0	0	0		

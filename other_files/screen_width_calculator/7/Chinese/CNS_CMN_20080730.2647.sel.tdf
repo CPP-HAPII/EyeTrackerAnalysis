@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.2647	0	200.0	300.0	speaker	unknown	unknown	中新网7月30日电 马英九阔别台当局“陆委会”15年后，29日首度“回娘家”，科长级官员全员出动。	0	0	0		
+CNS_CMN_20080730.2647	0	700.0	800.0	speaker	unknown	unknown	话锋一转，他还指认台下的海基会主秘廖运源当年教过他客家话，会后他还叫住“陆委会”法政处长吴美红，问她考到律师准备执业了没。	0	0	0		
+CNS_CMN_20080730.2647	0	900.0	1000.0	speaker	unknown	unknown	他说，有一回吃泡面，听说康师傅在大陆很畅销，他忍不住问起一旁的康师傅负责人还需要帮什么忙，只见这位负责人不慌不忙说，少管我就行，这让马英九领悟，两岸政策就是要开放，再开放。	0	0	0		

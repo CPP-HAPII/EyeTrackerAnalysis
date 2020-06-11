@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.1796	0	600.0	700.0	speaker	unknown	unknown	上半年，商品零售价格同比上涨7.5%(6月份上涨7.1%)，涨幅比上年同期高5.1个百分点；工业品出厂价格同比上涨7.6%(6月份上涨8.8%)，涨幅比上年同期高4.8个百分点；原材料、燃料、动力购进价格同比上涨11.1%(6月份上涨13.5%)，涨幅比上年同期高7.3个百分点；70个大中城市房屋销售价格同比上涨10.2%(6月份上涨8.2%)，涨幅比上年同期高4.2个百分点。	0	0	0		

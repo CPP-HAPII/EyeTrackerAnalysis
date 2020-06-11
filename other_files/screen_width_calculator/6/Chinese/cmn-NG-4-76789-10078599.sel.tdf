@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76789-10078599	0	0.0	100.0	speaker	unknown	unknown	请教:国内英语教育本科，能否申请Science Education Master	0	0	0		
+cmn-NG-4-76789-10078599	0	100.0	200.0	speaker	unknown	unknown	比如biology, chemistry等等，是否还需要补修相关学分？	0	0	0		
+cmn-NG-4-76789-10078599	0	200.0	300.0	speaker	unknown	unknown	另外，这种情况能申请什么专业？	0	0	0		
+cmn-NG-4-76789-10078599	0	300.0	400.0	speaker	unknown	unknown	谢谢！	0	0	0		

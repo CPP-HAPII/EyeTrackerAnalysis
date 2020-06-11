@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080427.0013.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	借助地方优势编兵整组	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-27 06:07:31   来源：解放军报第1版	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报讯　李光宇、特约通讯员刘松峰报道：大学本科以上学历人员占兵员总数的60%以上,一批高新技术迅速应用于训练之中。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	这是4月中旬,河北某预备役炮兵旅完成整组后出现的新变化。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	在军民融合中创新战斗力生成模式。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	这个预备役旅充分利用寓军于民的特点，借地方人才、技术和装备优势，在高起点上谋划部队建设。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	他们利用驻地通讯公司大功率电波发射设施营造逼真的战场环境，先后演练了复杂电磁环境下炮兵组织指挥、指挥所开设、隐蔽伪装和防敌卫星侦察等课目。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	通过与某院校和某钢铁集团自动化部等单位合作，研发出首长机关训练、炮兵分队训练、预备役快速动员等5个系统、26个子系统，为开展信息化条件下训练搭建起一个功能齐全的网络平台。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	围绕战斗力建设需要及时调整预编官兵，带动和促进高新技术在训练中的应用。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	这个旅在想方设法提高复退军人预编比率的同时，积极到科研院所、高等院校、人才密集企事业等单位编兵，使大学本科以上学历人员占到兵员总数的60%以上。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	旅党委不断探索新的练兵方式方法，通过集中轮训、委托培养、岗位练兵、交叉任职等措施，精心打造适应信息化战争的高素质后备军队伍。	0	0	0		statement
+PLA_CMN_20080427.0013.sgm	0	1587.500	1600.000	TEXT1	unknown	unkown	通过预编高学历人才和复退军人，使大量的新技术、新知识在训练中广泛应用，部队整体战斗力形成时间缩短1/3。	0	0	0		statement

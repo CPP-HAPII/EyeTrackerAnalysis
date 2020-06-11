@@ -1,0 +1,736 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 26.879999999999999, 48.601999999999997, 80.875, 229.01300000000001, 322.57100000000003, 386.89999999999998, 1117.828, 1263.9459999999999, 1816.325, 1828.5309999999999, 1921.8050000000001, 9999999.0]
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	0.000	2.744	speaker#1	female	native	Ranking No.1 and No.2 among open ports in China.	0	0	0	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	3.970	10.035	speaker#1	female	native	The world's first semi-submersible yacht transportation vessel manufactured by China was launched in Yantai, Shandong on the 15th.	0	0	2	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	10.035	14.191	speaker#1	female	native	Its ballasting system is state-of-the-art in the world.	0	0	3	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	14.700	18.530	speaker#1	female	native	The yacht transportation vessel will be shipped to the Netherlands for yacht transportation across the Atlantic.	0	0	5	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	20.371	22.643	speaker#2	female	native	Alright, dear viewers, that's all for China News at this time.	0	1	7	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	22.643	25.877	speaker#2	female	native	Thanks everyone for watching. Next is Today's Focus hosted by Lu Jian.	0	1	8	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	25.877	26.880	speaker#2	female	native	Good-bye, dear viewers!	0	1	9	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	48.602	51.477	Lu_jian	male	native	One is a special-class test pilot who have test flown 26 versions of aircraft	2	3	11	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	51.477	55.577	Lu_jian	male	native	and flown safely for over 2,250 hours.	2	3	12	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	56.187	59.890	Lu_jian	male	native	The other is a chief test engineer who have organized and completed 17 technical problem tackling for flight tests	2	3	14	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	59.890	64.265	Lu_jian	male	native	and conducted over 2,500 sorties of flight tests.	2	3	15	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	64.894	70.050	Lu_jian	male	native	They are the mainstays of the Chinese aviation cause. They have a predestined connection with J-10.	2	3	17	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	70.591	76.333	Lu_jian	male	native	China Air Force special-class test pilot Li Zhonghua and Chief Test Engineer Zhou Ziquan have entered Today's Focus studio.	2	3	19	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	76.333	80.875	Lu_jian	male	native	Welcome to Today's Focus at 21:30 tonight on the Chinese language International Channel.	2	3	20	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	229.013	232.325	Lu_jian	male	native	Hello everyone, welcome to Today's Focus broadcasted live on the International Channel.	4	5	22	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	232.891	236.504	Lu_jian	male	native	Recently uh, with the sensational debut of J-10 independently developed by China,	4	5	24	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	236.504	241.130	Lu_jian	male	native	as people pay attention to the J-10 aircraft, they are also interested in a mysterious yet dangerous occupation, the test pilot.	4	5	25	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	241.130	246.007	Lu_jian	male	native	Well, what kind of dangers have test pilots experienced in the flight tests of J-10?	4	5	26	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	246.007	248.090	Lu_jian	male	native	How did they dissolve the dangers?	4	5	27	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	248.090	251.982	Lu_jian	male	native	Well, in the R&D process of the J-10 aircraft, what kind of suggestions did they put forward?	4	5	28	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	251.982	254.780	Lu_jian	male	native	How do they view the flight performance of the J-10 aircraft?	4	5	29	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	254.780	257.307	Lu_jian	male	native	Well today uh, we have invited two guests.	4	5	30	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	257.307	260.581	Lu_jian	male	native	One uh is China Air Force special-class test pilot Li Zhonghua.	4	5	31	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	260.581	261.082	Lu_jian	male	native	Welcome.	4	5	32	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	261.600	266.228	Lu_jian	male	native	Uh, the other uh is Mr. Zhou Ziquan, former Deputy Director of China Flight Test Institute.	4	5	34	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	266.228	267.330	Lu_jian	male	native	Director Zhou, welcome you two.	4	5	35	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	267.330	268.001	Lu_jian	male	native	Uh,	4	5	36	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	268.688	274.414	Lu_jian	male	native	Zhonghua's clothes today should be, uh at the first glance, at the first glance, a standard flying suit, right?	4	5	38	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	274.414	275.696	Li_zhonghua	male	native	This is our flying suit.	4	6	39	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	275.696	279.296	Lu_jian	male	native	Very standard flying suit, uh, this is for spring and summer, should be?	4	7	40	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	279.296	280.949	Li_zhonghua	male	native	Uh, this is for spring and fall.	4	8	41	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	280.949	285.195	Lu_jian	male	native	This badge, I see there is a T-shaped symbol in the badge on your chest.	4	9	42	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	285.195	287.367	Lu_jian	male	native	This refers to the special-class pilot, right?	4	9	43	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	287.367	291.132	Li_zhonghua	male	native	This is a symbol of pilot classification, test pilot classification, or pilot classification.	4	10	44	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	291.132	291.663	Lu_jian	male	native	Test pilot,	4	11	45	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	291.663	292.979	Li_zhonghua	male	native	this T indicates the special class.	4	12	46	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	292.979	295.130	Lu_jian	male	native	Uh, then what are other classes?	4	13	47	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	295.130	297.266	Li_zhonghua	male	native	Others include first class, second class and third class.	4	14	48	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	297.266	298.538	Lu_jian	male	native	First class, second class and third class.	4	15	49	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	298.538	306.688	Lu_jian	male	native	Alright, uh today uh we have invited Li ((pw)), uh Li, Li Zhonghua, because these few days, friends who have paid attention to J-10 should not find Li Zhonghua unfamiliar.	4	15	50	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	306.688	313.450	Lu_jian	male	native	He has experienced multiple trials of life and death, uh and uh set uh many records in a number of flight tests.	4	15	51	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	313.450	315.827	Lu_jian	male	native	First, let's learn about it through a short video.	4	15	52	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	322.571	324.947	Lu_jian	male	native	He, is the person closest to the Azrael.	5	16	54	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	325.476	332.394	Lu_jian	male	native	As a test pilot, he has set the brilliant flight test records of 2,250 hours of safe flight, and successful handling of 15 midair dangerous situations	5	16	56	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	332.394	335.706	Lu_jian	male	native	and five critical midair dangerous situations.	5	16	57	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	336.366	339.745	Lu_jian	male	native	In his 18 years of flight tests, he has test flown 26 versions of aircraft.	5	16	59	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	339.745	345.383	Lu_jian	male	native	Between life and death, he has written a legend of test pilot with wisdom and courage.	5	16	60	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	346.039	350.693	Lu_jian	male	native	He is one of China's only three test pilots who have obtained the international test pilot level certificate,	5	16	62	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	351.193	354.682	Lu_jian	male	native	one of the three Chinese instructors of stall spins on a S-27,	5	16	64	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	354.682	358.069	Lu_jian	male	native	one of the three Chinese instructors of stall spins on a delta-wing aircraft,	5	16	65	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	358.069	361.991	Lu_jian	male	native	and one of the few Chinese pilots who can perform the cobra maneuver.	5	16	66	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	362.659	366.644	Lu_jian	male	native	He has participated in and completed more than 10 major scientific flight test missions,	5	16	68	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	367.442	372.921	Lu_jian	male	native	filling two blanks domestically in new prototype appraisal flight tests and new technology verification flight tests.	5	16	70	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	372.921	377.015	Lu_jian	male	native	He was awarded one First-Class Merit, five Second-Class Merits and six Third-Class Merits.	5	16	71	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	377.736	384.851	Lu_jian	male	native	He is Li Zhonghua, one of the first double-bachelor degree test pilots of the Air Force, special-class test pilot of the Air Force, deputy commander of the flight test regiment of the Air Force.	5	16	73	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	386.900	391.186	Lu_jian	male	native	After watching the short video uh, people may uh have learned something about flight tests.	6	17	75	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	391.186	395.742	Lu_jian	male	native	However, I've also read a relevant report, which says you set six records in flying, the flight tests of J-10,	6	17	76	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	395.742	399.497	Lu_jian	male	native	for example maximum flight indicated speed and maximum overload value, and so on.	6	17	77	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	399.497	403.406	Lu_jian	male	native	Uh, today I would like to ask you two uh to explain these to us first,	6	17	78	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	403.406	405.812	Lu_jian	male	native	as some people probably find these quite professional.	6	17	79	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	405.812	409.876	Lu_jian	male	native	For instance, maximum flight indicated speed, as I heard that in the course of flight tests,	6	17	80	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	409.876	412.640	Lu_jian	male	native	flying at a low altitude and a large indicated speed is very dangerous?	6	17	81	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	412.640	417.026	Lu_jian	male	native	What is the flight like? I think it involves descending sharply from a high altitude, right?	6	17	82	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	417.026	418.978	Li_zhonghua	male	native	Right, the rate of descending is pretty fast.	6	18	83	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	418.978	419.248	Lu_jian	male	native	Uh-huh.	6	19	84	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	419.248	422.252	Li_zhonghua	male	native	Uh, this is our chief test engineer. He will describe it very clearly.	6	20	85	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	422.252	425.956	Lu_jian	male	native	Director Zhou, could you show us, because we have a J-10 model here,	6	21	86	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	425.956	426.784	Lu_jian	male	native	could you	6	21	87	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	427.784	430.474	Lu_jian	male	native	show us exactly what kind of flight scenario it is like?	6	21	89	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	431.495	432.907	Zhou_ziquan	male	native	It should be said	6	22	91	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	432.907	433.608	Lu_jian	male	native	Uh-huh.	6	23	92	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	433.608	438.247	Zhou_ziquan	male	native	Low-altitude, large ((pw)), the so-called low-altitude large indicated speed involves large speed for one thing and low altitude for another.	6	24	93	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	438.247	438.636	Lu_jian	male	native	Uh-huh.	6	25	94	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	439.136	440.730	Zhou_ziquan	male	native	If the aircraft's	6	26	96	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	441.386	443.560	Zhou_ziquan	male	native	engine has more, more than sufficient thrust,	6	26	98	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	443.560	443.909	Lu_jian	male	native	Uh-huh.	6	27	99	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	443.909	445.729	Zhou_ziquan	male	native	and very little aerodynamic drag,	6	28	100	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	445.729	446.135	Lu_jian	male	native	Uh-huh.	6	29	101	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	446.135	449.634	Zhou_ziquan	male	native	it doesn't have to dive to reach very high speed.	6	30	102	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	449.634	450.034	Lu_jian	male	native	Uh-huh.	6	31	103	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	450.034	451.637	Zhou_ziquan	male	native	However, if	6	32	104	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	452.762	455.923	Zhou_ziquan	male	native	the aircraft's engine have insufficient thrust or too much drag,	6	32	106	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	455.923	457.829	Zhou_ziquan	male	native	what to do if the maximum speed cannot be reached?	6	32	107	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	458.420	461.080	Zhou_ziquan	male	native	It requires nose dive from a very high altitude.	6	32	109	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	461.080	461.561	Lu_jian	male	native	Uh-huh.	6	33	110	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	461.561	462.656	Zhou_ziquan	male	native	For instance, Zhonghua's	6	34	111	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	463.165	466.882	Zhou_ziquan	male	native	his um diving, diving altitude was to dive from over 10,000.	6	34	113	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	467.391	471.534	Zhou_ziquan	male	native	The descending rate at this moment, the diving speed is generally more than a 100 meters per second.	6	34	115	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	471.534	473.311	Lu_jian	male	native	How low should they dive to? Close to the ground?	6	35	116	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	473.311	477.104	Zhou_ziquan	male	native	For us, for me, for us, they are required to dive to a level as low as they can.	6	36	117	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	477.104	479.698	Zhou_ziquan	male	native	Generally uh, around one ((pw)), that is	6	36	118	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	480.359	481.040	Lu_jian	male	native	1,000 meters?	6	37	120	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	480.359	481.040	Zhou_ziquan	male	native	((pw))	6	37	121	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	481.040	482.595	Zhou_ziquan	male	native	2,000 meters' high.	6	38	122	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	482.595	483.017	Lu_jian	male	native	Uh-huh.	6	39	123	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	483.880	487.702	Zhou_ziquan	male	native	The field height is merely several hundred meters, uh, that is above the ground	6	40	125	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	487.702	488.266	Lu_jian	male	native	above the ground	6	41	126	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	487.702	488.266	Zhou_ziquan	male	native	several hundred meters.	6	41	127	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	488.266	488.823	Lu_jian	male	native	several hundred meters?	6	42	128	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	488.823	489.444	Zhou_ziquan	male	native	several hundred meters.	6	43	129	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	489.444	489.895	Lu_jian	male	native	What!	6	44	130	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	489.895	491.547	Zhou_ziquan	male	native	So, it's quite risky at this moment.	6	45	131	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	491.547	496.839	Lu_jian	male	native	So uh um, because to reach the maximum indicated speed at a high altitude, that is to reach the maximum value of the meter,	6	46	132	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	496.839	498.157	Lu_jian	male	native	it should be, ((pw)) understandable.	6	46	133	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	498.157	499.599	Lu_jian	male	native	You know how strong the trust of the engine is,	6	46	134	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	499.599	499.930	Zhou_ziquan	male	native	it would be better.	6	47	135	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	499.930	502.733	Lu_jian	male	native	but it's very dangerous to reach a large indicated speed at a low altitude.	6	48	136	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	502.733	505.155	Lu_jian	male	native	Uh, Li Zhonghua, in the process of flying,	6	48	137	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	505.732	509.075	Lu_jian	male	native	to descend to several hundred meters from as high as over 10,000 meters,	6	48	139	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	509.075	511.971	Lu_jian	male	native	how does it feel, feeling zero gravity or?	6	48	140	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	512.490	517.103	Li_zhonghua	male	native	In the, the descending uh, it should be said the state change of the aircraft is quite fierce.	6	49	142	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	517.103	517.512	Lu_jian	male	native	Uh-huh.	6	50	143	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	517.512	518.915	Li_zhonghua	male	native	The speed and altitude of the aircraft,	6	51	144	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	519.540	522.020	Li_zhonghua	male	native	uh and the ambient noise,	6	51	146	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	522.595	526.086	Li_zhonghua	male	native	as well as the operation of various systems in the aircraft undergo significant changes.	6	51	148	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	526.086	526.827	Lu_jian	male	native	Uh-huh.	6	52	149	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	526.827	527.604	Li_zhonghua	male	native	What's most important	6	53	150	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	526.827	527.604	Lu_jian	male	native	However, I	6	53	151	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	527.604	530.807	Li_zhonghua	male	native	is that you should always watch what speed the aircraft is at	6	54	152	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	530.807	531.062	Lu_jian	male	native	Uh-huh.	6	55	153	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	531.062	534.232	Li_zhonghua	male	native	and how high it is above the ground. This is the most important.	6	56	154	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	534.232	539.440	Lu_jian	male	native	However, I heard what's most dangerous is that you don't know when the aircraft will vibrate abruptly	6	57	155	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	539.440	544.298	Lu_jian	male	native	and then may disintegrate in two seconds, if a certain level is reached.	6	57	156	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	544.298	545.791	Li_zhonghua	male	native	Eh, this is the worst situation,	6	58	157	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	545.791	546.091	Lu_jian	male	native	Uh-huh.	6	59	158	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	546.091	549.305	Li_zhonghua	male	native	but it doesn't mean each flight will face such a problem.	6	60	159	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	549.305	549.585	Lu_jian	male	native	Uh-huh.	6	61	160	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	549.585	554.682	Li_zhonghua	male	native	We expect the aircraft to be able to reach our designed value, without such vibrations.	6	62	161	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	554.682	555.405	Lu_jian	male	native	Uh-huh.	6	63	162	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	555.405	556.844	Zhou_ziquan	male	native	The so-called aircraft design ya,	6	64	163	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	557.344	559.036	Zhou_ziquan	male	native	should consider the question in itself.	6	64	165	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	559.036	562.060	Zhou_ziquan	male	native	With wind tunnel experiments conducted and appropriate calculations done,	6	64	166	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	562.060	564.264	Zhou_ziquan	male	native	the problem shouldn't appear.	6	64	167	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	564.796	565.624	Zhou_ziquan	male	native	However, you uh,	6	64	169	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	566.265	569.541	Zhou_ziquan	male	native	despite the calculations and ground wind tunnel experiments,	6	64	171	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	569.541	569.831	Lu_jian	male	native	Uh-huh.	6	65	172	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	569.831	572.925	Zhou_ziquan	male	native	these may not necessarily match real situations perfectly,	6	66	173	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	572.925	573.253	Lu_jian	male	native	Right!	6	67	174	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	573.253	575.519	Zhou_ziquan	male	native	such that uh there's the question of risks.	6	68	175	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	575.519	577.532	Zhou_ziquan	male	native	It's highly possible what you just said is a fact.	6	68	176	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	577.532	577.907	Lu_jian	male	native	Uh-huh.	6	69	177	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	577.907	578.751	Zhou_ziquan	male	native	For instance,	6	70	178	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	579.689	583.454	Zhou_ziquan	male	native	there was a pilot in Russia, a friend of his, whom our people know well.	6	70	180	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	583.454	583.785	Lu_jian	male	native	Uh-huh.	6	71	181	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	583.785	590.230	Zhou_ziquan	male	native	When he flew at a large indicated speed at a low altitude, the machine, the plane disintegrated, at which time the person died in the plane crashed.	6	72	182	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	590.230	591.527	Lu_jian	male	native	Why is that?	6	73	183	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	592.131	593.694	Zhou_ziquan	male	native	There are primarily two factors involved.	6	74	185	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	594.348	598.503	Zhou_ziquan	male	native	Large speed at a low altitude primarily tests the structural stability of an aircraft.	6	74	187	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	598.503	598.956	Lu_jian	male	native	Uh-huh.	6	75	188	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	598.956	599.863	Zhou_ziquan	male	native		6	76	189	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	599.863	600.906	Zhou_ziquan	male	native	One is the structural strength,	6	76	190	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	600.906	601.264	Lu_jian	male	native	Uh-huh.	6	77	191	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	601.264	604.389	Zhou_ziquan	male	native	like when we test fly at a low altitude and large speed, large indicated speed,	6	78	192	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	604.389	606.669	Zhou_ziquan	male	native	it's common to have a breakage here and a crack there.	6	78	193	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	606.669	607.234	Lu_jian	male	native	Uh-huh.	6	79	194	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	607.234	610.699	Zhou_ziquan	male	native	In addition, the most dangerous thing is the coincidence of vibrations you mentioned just now.	6	80	195	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	610.699	613.843	Zhou_ziquan	male	native	It's possible that um, as the dynamic down there is huge,	6	80	196	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	613.843	614.054	Lu_jian	male	native	Uh-huh.	6	81	197	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	614.054	617.969	Zhou_ziquan	male	native	Outside interference on it, the air current may have huge dynamic on the airframe.	6	82	198	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	617.969	620.282	Zhou_ziquan	male	native	Once it vibrates violently, there could be a coincidence.	6	82	199	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	620.282	622.075	Zhou_ziquan	male	native	Such a coincidence sometimes does happen.	6	82	200	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	622.075	625.373	Zhou_ziquan	male	native	Like in Taiwan um ADF in 1996,	6	82	201	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	625.373	625.716	Lu_jian	male	native	Uh-huh.	6	83	202	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	625.716	628.897	Zhou_ziquan	male	native	it was at such a speed and under such a circumstance,	6	84	203	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	629.549	631.454	Zhou_ziquan	male	native	that the even tail was shaken off.	6	84	205	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	631.454	631.728	Lu_jian	male	native	Uh-huh.	6	85	206	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	631.728	633.984	Zhou_ziquan	male	native	As a result, it dropped into the sea and the person died in the plane crashed.	6	86	207	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	633.984	634.264	Lu_jian	male	native	So,	6	87	208	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	633.984	634.264	Zhou_ziquan	male	native	So,	6	87	209	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	634.264	634.875	Zhou_ziquan	male	native	the risk is indeed	6	88	210	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	634.875	635.150	Lu_jian	male	native	So, being	6	89	211	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	634.875	635.150	Zhou_ziquan	male	native	present.	6	89	212	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	635.150	641.423	Lu_jian	male	native	as a test pilot, Li Zhonghua should actually know quite a lot of those tantamount to, like in foreign countries, there may also be, he just mentioned Russia,	6	90	213	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	641.998	644.331	Lu_jian	male	native	such stories that happened.	6	90	215	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	644.331	646.798	Li_zhonghua	male	native	We have a friend who, when flying abroad,	6	91	216	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	646.798	647.141	Lu_jian	male	native	Uh-huh.	6	92	217	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	647.141	648.383	Li_zhonghua	male	native	experienced such a scenario,	6	93	218	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	648.383	648.837	Lu_jian	male	native	Uh-huh.	6	94	219	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	648.837	649.898	Li_zhonghua	male	native	and fell.	6	95	220	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	649.898	654.611	Lu_jian	male	native	That's why test pilots, in this sense, is indeed a profession very close to the Azrael.	6	96	221	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	654.611	656.704	Lu_jian	male	native	I see many people describe in such a way,	6	96	222	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	656.704	659.157	Lu_jian	male	native	including insiders in your profession.	6	96	223	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	659.157	662.933	Lu_jian	male	native	Uh, what we discussed just now was one of the records. Well, six records,	6	96	224	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	662.933	665.037	Lu_jian	male	native	maximum flight indicated speed, and another one is maximum angle of attack.	6	96	225	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	665.037	670.389	Lu_jian	male	native	Because when we visited some air shows in the past, uh we may have seen some pilots doing the cobra maneuver,	6	96	226	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	670.389	674.079	Lu_jian	male	native	that is to raise the nose up, and then it felt as if it had moved forward like this.	6	96	227	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	674.853	677.249	Lu_jian	male	native	Such, such a move, J-10 should also	6	96	229	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	677.764	678.735	Lu_jian	male	native	be able to perform, right?	6	96	231	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	679.386	680.994	Li_zhonghua	male	native	In fact, the angle of attack you said just now	6	97	233	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	680.994	681.431	Lu_jian	male	native	Uh-huh.	6	98	234	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	681.431	683.333	Li_zhonghua	male	native	is the angle between the airfoil cord	6	99	235	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	683.333	683.926	Li_zhonghua	male	native	and	6	100	236	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	683.333	683.926	Lu_jian	male	native	Uh-huh.	6	100	237	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	683.926	687.127	Li_zhonghua	male	native	the airflow, which is the direction of moving.	6	101	238	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	687.127	687.488	Lu_jian	male	native	Uh-huh.	6	102	239	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	687.488	691.772	Li_zhonghua	male	native	The angle uh is an, an, an, an important	6	103	240	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	692.397	694.105	Li_zhonghua	male	native	parameter that measures the entire overload range of the aircraft.	6	103	242	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	694.105	694.488	Lu_jian	male	native	Uh-huh.	6	104	243	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	694.488	696.157	Li_zhonghua	male	native	Of course, the parameter uh is the bigger the better.	6	105	244	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	696.157	696.449	Lu_jian	male	native	Uh-huh.	6	106	245	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	696.449	699.366	Li_zhonghua	male	native	Well, the bigger it is, the bigger is the aircraft's maneuvering range.	6	107	246	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	699.366	704.088	Lu_jian	male	native	As I see, generally speaking, if the cobra maneuver can be accomplished, it is equal to an angle of attack of 110 degrees,	6	108	247	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	704.088	707.616	Lu_jian	male	native	which is 20 degrees larger than 90 degrees. That is leaning back, backward.	6	108	248	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	707.616	710.911	Zhou_ziquan	male	native	Basically, it is a posture where the engine moves forward, moves forward.	6	109	249	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	710.911	711.640	Li_zhonghua	male	native	But, but	6	110	250	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	711.640	712.564	Li_zhonghua	male	native	the cobra um maneuver ah	6	111	251	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	711.640	712.564	Lu_jian	male	native	(())	6	111	252	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	712.564	714.423	Li_zhonghua	male	native	is a dynamic process,	6	112	253	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	714.423	714.767	Lu_jian	male	native	Uh-huh.	6	113	254	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	714.767	716.839	Li_zhonghua	male	native	that is an uh unstable	6	114	255	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	716.839	717.029	Lu_jian	male	native	Uh-huh.	6	115	256	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	717.029	718.095	Li_zhonghua	male	native	and only a transitional process.	6	116	257	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	718.095	718.576	Li_zhonghua	male	native	It won't	6	117	258	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	718.095	718.576	Lu_jian	male	native	Right.	6	117	259	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	718.576	720.009	Li_zhonghua	male	native	keep such a state for a long time.	6	118	260	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	720.009	720.354	Lu_jian	male	native	Uh-huh.	6	119	261	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	720.354	724.019	Lu_jian	male	native	However, in such a state, how does the pilot feel in an aircraft?	6	119	262	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	724.547	727.964	Li_zhonghua	male	native	Uh the pilot's feel is transient, as the process itself lasts only a few seconds.	6	120	264	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	727.964	728.615	Lu_jian	male	native	Uh-huh.	6	121	265	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	729.506	736.184	Lu_jian	male	native	But as I, I see, when this move was performed, uh it was called a stall spin,	6	121	267	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	736.731	740.042	Lu_jian	male	native	which included a normal spin, uh an inverted spin, a falling leaf.	6	121	269	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	740.042	743.457	Lu_jian	male	native	That is such a state has a variety of, of movements, right?	6	121	270	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	743.457	744.789	Li_zhonghua	male	native	Uh, the two movements are not quite the same.	6	122	271	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	744.789	745.133	Lu_jian	male	native	Uh-huh.	6	123	272	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	745.133	746.087	Li_zhonghua	male	native	A movement like	6	124	273	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	746.743	749.067	Li_zhonghua	male	native	the cobra maneuver is only a state variation process,	6	124	275	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	749.067	749.388	Lu_jian	male	native	Uh-huh.	6	125	276	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	749.388	752.552	Li_zhonghua	male	native	where the aircraft seems to pitch up and then down, such a process.	6	126	277	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	752.552	752.913	Lu_jian	male	native	Uh-huh.	6	127	278	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	752.913	756.288	Li_zhonghua	male	native	By contrast, the stall spin uh is a relatively stable	6	128	279	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	756.816	758.203	Li_zhonghua	male	native	out-of-control state,	6	128	281	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	758.203	758.788	Lu_jian	male	native	Uh-huh.	6	129	282	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	758.788	760.403	Li_zhonghua	male	native	an uncontrollable operating process,	6	130	283	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	760.403	762.966	Li_zhonghua	male	native	where the track changes are quite complicated.	6	130	284	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	762.966	768.294	Lu_jian	male	native	If we demonstrate with an aircraft, what is the track like for a stall spin?	6	131	285	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	769.021	772.370	Li_zhonghua	male	native	The stall spin ah, it is a process of sharp fall like this	6	132	287	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	772.370	775.260	Li_zhonghua	male	native	following an uncontrollable corkscrew path	6	132	288	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	775.869	777.828	Li_zhonghua	male	native	at a relatively large angle of attack.	6	132	290	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	777.828	779.307	Lu_jian	male	native	It is a bit like	6	133	291	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	777.828	779.307	Li_zhonghua	male	native	a bit like, say,	6	133	292	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	779.307	781.560	Lu_jian	male	native	a falling leaf, falling down.	6	134	293	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	781.560	782.817	Li_zhonghua	male	native	That is one kind of them.	6	135	294	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	781.560	782.817	Lu_jian	male	native	Totally out of control.	6	135	295	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	782.817	784.700	Li_zhonghua	male	native	That is one kind. That is one kind of them.	6	135	296	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	782.817	784.700	Lu_jian	male	native	That is one kind of them.	6	135	297	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	784.700	785.421	Li_zhonghua	male	native	Right, that is one kind of them.	6	136	298	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	785.421	786.267	Lu_jian	male	native	That's why it is called a falling leaf.	6	137	299	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	786.267	788.946	Li_zhonghua	male	native	Another one is just like the swirls that we see in our daily lives.	6	138	300	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	788.946	789.290	Lu_jian	male	native	Uh-huh.	6	139	301	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	789.795	791.086	Li_zhonghua	male	native	The, the track	6	140	303	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	791.086	791.399	Lu_jian	male	native	Uh-huh.	6	141	304	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	791.399	792.833	Li_zhonghua	male	native	is also a state traveling like that.	6	142	305	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	792.833	793.474	Lu_jian	male	native	Uh-huh.	6	143	306	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	793.474	796.189	Zhou_ziquan	male	native	Well, some say the spins ne,	6	144	307	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	796.798	798.879	Zhou_ziquan	male	native	have 100 patterns in 100 spins.	6	144	309	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	798.879	799.973	Zhou_ziquan	male	native	Why	6	145	310	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	798.879	799.973	Lu_jian	male	native	(())	6	145	311	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	799.973	800.975	Zhou_ziquan	male	native	is that?	6	146	312	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	800.975	801.496	Lu_jian	male	native	Uh-huh.	6	147	313	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	801.496	807.624	Zhou_ziquan	male	native	It's because ((pw)), at a large angle of attack ah, the risk of airflow separation is very serious.	6	148	314	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	807.624	807.973	Lu_jian	male	native	Uh-huh.	6	149	315	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	807.973	811.793	Zhou_ziquan	male	native	So, sometimes the control vanes will, will, will fail, and your control will not work.	6	150	316	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	811.793	812.218	Lu_jian	male	native	Uh-huh.	6	151	317	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	812.218	812.622	Zhou_ziquan	male	native	Therefore,	6	152	318	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	813.606	819.112	Zhou_ziquan	male	native	For other ranges of small angles of attack, such things as ground wind uh and ground calculations are quite accurate.	6	152	320	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	819.112	819.697	Lu_jian	male	native	Uh-huh.	6	153	321	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	819.697	824.133	Zhou_ziquan	male	native	((pw)), at such moments when the angle of attack is pretty large, these are very inaccurate.	6	154	322	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	824.133	824.520	Lu_jian	male	native	Uh-huh.	6	155	323	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	824.520	829.697	Zhou_ziquan	male	native	You can imagine, the wind tunnel is only this big. If you make the ((pw)), target upright,	6	156	324	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	829.697	831.186	Zhou_ziquan	male	native	the, the model,	6	157	325	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	829.697	831.186	Lu_jian	male	native	uh um um um	6	157	326	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	831.186	832.004	Zhou_ziquan	male	native	the airflow	6	158	327	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	832.004	833.834	Lu_jian	male	native	If there happens to be a gust of wind, it's possible	6	159	328	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	833.834	835.622	Zhou_ziquan	male	native	Right, so, so the alert	6	160	329	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	833.834	835.622	Lu_jian	male	native	the aircraft could really go out of control.	6	160	330	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	835.622	837.051	Zhou_ziquan	male	native	accuracy is very bad.	6	160	331	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	835.622	837.051	Lu_jian	male	native	((pw)) not quite accurate, not quite	6	160	332	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	837.051	837.664	Lu_jian	male	native	accurate, of course.	6	161	333	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	837.664	840.700	Zhou_ziquan	male	native	Hence, it is hard to predict. This is where the danger lies.	6	162	334	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	840.700	841.070	Lu_jian	male	native	Right.	6	163	335	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	841.070	841.538	Zhou_ziquan	male	native	It then depends on	6	164	336	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	841.070	841.538	Lu_jian	male	native	the aircraft	6	164	337	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	841.538	842.425	Zhou_ziquan	male	native	the test pilot.	6	165	338	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	842.425	842.957	Zhou_ziquan	male	native	He has to	6	166	339	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	842.425	842.957	Lu_jian	male	native	Um.	6	166	340	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	842.957	843.717	Zhou_ziquan	male	native	observe.	6	167	341	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	843.717	844.038	Lu_jian	male	native	Uh-huh.	6	168	342	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	844.038	846.793	Zhou_ziquan	male	native	He has to handle promptly, in such a short time.	6	169	343	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	846.793	850.763	Lu_jian	male	native	Yes. So such a situation like the stall spin, the larger the angle of attack, the more dangerous it is.	6	170	344	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	850.763	851.493	Lu_jian	male	native	Sometimes it is called	6	171	345	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	850.763	851.493	Li_zhonghua	male	native	the more dangerous it is.	6	171	346	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	851.493	852.625	Lu_jian	male	native	death trap.	6	172	347	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	852.625	855.781	Lu_jian	male	native	Besides uh, I see you have set the record of um uh maximum overload,	6	172	348	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	856.422	858.387	Lu_jian	male	native	what maximum overload are you able to reach?	6	172	350	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	859.165	861.620	Li_zhonghua	male	native	The overload value we have reached now is pretty large.	6	173	352	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	861.620	861.970	Lu_jian	male	native	Uh-huh.	6	174	353	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	861.970	866.162	Li_zhonghua	male	native	The concept of overload value is a ratio of the lift you have	6	175	354	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	866.162	866.865	Li_zhonghua	male	native	and the	6	176	355	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	866.162	866.865	Lu_jian	male	native	Right.	6	176	356	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	866.865	868.348	Li_zhonghua	male	native	gravity of your aircraft.	6	177	357	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	868.348	868.614	Lu_jian	male	native	Uh-huh.	6	178	358	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	869.180	873.195	Li_zhonghua	male	native	From, put it more plainly, that is, if the overload is five, five times,	6	179	360	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	873.195	874.086	Li_zhonghua	male	native	five overloads,	6	179	361	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	874.086	878.933	Li_zhonghua	male	native	then it means the weight on your body is five times that of your own weight.	6	179	362	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	878.933	880.311	Lu_jian	male	native	That is five yourself	6	180	363	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	880.311	880.827	Li_zhonghua	male	native	Yes,	6	181	364	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	880.311	880.827	Lu_jian	male	native	on top of your	6	181	365	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	880.827	881.277	Li_zhonghua	male	native	If it is	6	181	366	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	880.827	881.277	Lu_jian	male	native	body.	6	181	367	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	881.277	883.230	Li_zhonghua	male	native	seven overloads, it seven times of you.	6	182	368	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	883.230	885.989	Lu_jian	male	native	Flying J-10, what is the maximum overload you can achieve?	6	183	369	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	886.537	887.756	Li_zhonghua	male	native	Uh, larger than this.	6	184	371	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	887.756	888.437	Lu_jian	male	native	Larger?	6	185	372	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	888.437	888.757	Li_zhonghua	male	native	Larger.	6	186	373	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	888.757	889.958	Zhou_ziquan	male	native	That is much larger than this.	6	187	374	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	889.958	890.549	Li_zhonghua	male	native	Much larger than this.	6	188	375	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	889.958	890.549	Lu_jian	male	native	Uh-huh.	6	188	376	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	890.549	892.799	Zhou_ziquan	male	native	When J-10 was initially test flown,	6	189	377	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	893.370	896.209	Zhou_ziquan	male	native	other pilots flew it before, before him,	6	189	379	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	896.209	896.478	Lu_jian	male	native	Uh-huh.	6	190	380	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	896.478	900.164	Zhou_ziquan	male	native	they couldn't achieve it after several flights, that is they were always a bit shy of my design target.	6	191	381	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	900.164	900.685	Zhou_ziquan	male	native	They couldn't achieve.	6	192	382	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	900.164	900.685	Lu_jian	male	native	Uh-huh.	6	192	383	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	900.685	901.076	Lu_jian	male	native	Uh-huh.	6	193	384	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	901.076	907.622	Zhou_ziquan	male	native	Subsequently we stopped, and then studied together with the designing and ground technical staff.	6	194	385	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	907.622	909.709	Zhou_ziquan	male	native	Finally, Li Zhonghua uh achieved it.	6	194	386	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	909.709	915.908	Zhou_ziquan	male	native	To achieve it, he dived from high above, and then pulled up immediately, and then stayed for a while. Finally, it was ((pw)), achieved.	6	194	387	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	915.908	920.585	Lu_jian	male	native	It is only when there are abrupt changes in the flight path that the maximum value can be achieved.	6	195	388	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	920.585	921.026	Li_zhonghua	male	native	Right.	6	196	389	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	921.026	923.105	Li_zhonghua	male	native	This uh is not something I achieved.	6	196	390	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	923.105	924.926	Li_zhonghua	male	native	Actually it's uh the joint effort of everyone.	6	196	391	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	924.926	925.710	Zhou_ziquan	male	native	Right, together.	6	197	392	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	924.926	925.710	Lu_jian	male	native	(())	6	197	393	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	925.710	929.016	Li_zhonghua	male	native	Like at the beginning, people laid a solid foundation and there was a learning curve,	6	198	394	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	929.016	931.609	Li_zhonghua	male	native	especially on the best state point.	6	198	395	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	932.109	933.192	Li_zhonghua	male	native	As to which state point is the best,	6	198	397	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	933.192	934.378	Li_zhonghua	male	native	there was a learning curve.	6	198	398	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	934.378	934.661	Lu_jian	male	native	Uh-huh.	6	199	399	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	934.661	935.856	Li_zhonghua	male	native	In fact, I'm very lucky.	6	200	400	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	935.856	939.557	Li_zhonghua	male	native	People have paved the road before me, and then at last uh I got the value.	6	200	401	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	939.557	943.283	Zhou_ziquan	male	native	Right, sometimes it is the aircraft that cannot endure the overload and sometimes it is the person,	6	201	402	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	943.283	943.736	Lu_jian	male	native	Uh-huh.	6	202	403	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	943.736	947.583	Zhou_ziquan	male	native	especially given that you should stay for a while. It's not only the maximum overload value,	6	203	404	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	947.583	952.108	Zhou_ziquan	male	native	but the time one must keep that posture and the growth rate are both related.	6	203	405	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	952.108	956.244	Lu_jian	male	native	Furthermore, while um ((pw)), enduring the weight of several people,	6	204	406	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	956.244	958.052	Lu_jian	male	native	you have to control the electric control system	6	204	407	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	958.052	958.259	Li_zhonghua	male	native	Right.	6	205	408	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	958.259	958.429	Zhou_ziquan	male	native	Right.	6	206	409	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	958.429	960.500	Lu_jian	male	native	and monitor how the aircraft flies.	6	207	410	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	960.500	962.745	Lu_jian	male	native	This is indeed quite, quite difficult.	6	207	411	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	962.745	964.480	Li_zhonghua	male	native	You should be able to control the aircraft normally.	6	208	412	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	964.480	965.046	Lu_jian	male	native	Uh-huh.	6	209	413	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	965.046	971.536	Lu_jian	male	native	Now let's get back to the studio. You may have a look. On our studio desk uh, uh, are several generations of Chinese aircraft.	6	209	414	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	971.536	973.208	Lu_jian	male	native	The first generation, the second generation and the third generation are all here,	6	209	415	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	973.208	974.961	Lu_jian	male	native	from J-5 to J-10.	6	209	416	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	974.961	980.329	Lu_jian	male	native	Uh, Li Zhonghua should have flown all of them, as I hear you have flown uh 27 versions.	6	209	417	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	980.329	981.470	Li_zhonghua	male	native	I have flown 26 versions.	6	210	418	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	981.470	981.961	Lu_jian	male	native	Twenty-six versions.	6	211	419	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	981.961	982.498	Li_zhonghua	male	native	Right, 26 versions	6	212	420	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	981.961	982.498	Lu_jian	male	native	of aircraft.	6	212	421	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	982.498	986.258	Lu_jian	male	native	Ah, so probably you, you have virtually flown all these in our studio?	6	213	422	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	986.258	986.998	Li_zhonghua	male	native	These few ones, I have	6	214	423	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	986.998	987.356	Li_zhonghua	male	native	flown.	6	215	424	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	986.998	987.356	Zhou_ziquan	male	native	Virtually	6	215	425	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	987.356	988.336	Lu_jian	male	native	You have flown all these?	6	216	426	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	987.356	988.336	Li_zhonghua	male	native	I have virtually flown all these.	6	216	427	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	988.336	993.309	Lu_jian	male	native	Uh, in comparison, J-10, as a third generation, a third generation fighter, compared with fighters of the first two generations,	6	217	428	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	993.309	996.123	Lu_jian	male	native	what do you think of its performance in various aspects when you fly it?	6	217	429	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	997.405	1000.410	Li_zhonghua	male	native	Compared with aircraft of the other ((pw)), two generations, it's a leap forward,	6	218	431	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1000.410	1000.747	Lu_jian	male	native	Uh-huh.	6	219	432	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1001.247	1005.436	Li_zhonghua	male	native	which, if put more plainly, is the favorite uh among us pilots.	6	220	434	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1005.436	1005.912	Lu_jian	male	native	Uh-huh,	6	221	435	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1005.912	1006.718	Lu_jian	male	native	Why?	6	222	436	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1005.912	1006.718	Li_zhonghua	male	native	Besides,	6	222	437	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1006.718	1007.949	Li_zhonghua	male	native	its performance is very good,	6	223	438	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1007.949	1008.194	Lu_jian	male	native	Uh-huh.	6	224	439	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1008.194	1009.452	Li_zhonghua	male	native	and its control features are very good.	6	225	440	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1009.452	1009.683	Lu_jian	male	native	Uh-huh.	6	226	441	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1009.683	1011.315	Li_zhonghua	male	native	Uh, the performance of the aircraft itself is very good.	6	227	442	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1011.315	1017.282	Lu_jian	male	native	By good control features, does that mean ((pw)), basically you don't have to manually operate all kinds of things as you did before.	6	228	443	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1017.282	1019.055	Lu_jian	male	native	((pw)), basically everything can be done with the electronic system?	6	228	444	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1019.055	1020.333	Li_zhonghua	male	native	Flying is more and more free	6	229	445	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1020.333	1020.644	Lu_jian	male	native	Uh-huh.	6	230	446	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1021.144	1022.229	Li_zhonghua	male	native	and the system is more and more advanced,	6	231	448	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1022.229	1022.510	Lu_jian	male	native	Uh-huh.	6	232	449	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1022.510	1023.549	Li_zhonghua	male	native	with an increasing number of functions.	6	233	450	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1023.549	1023.917	Lu_jian	male	native	Uh-huh.	6	234	451	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1023.917	1028.478	Li_zhonghua	male	native	Uh, it could be said the human-computer interface, the information obtained by the pilot is increasingly clear.	6	235	452	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1028.478	1028.778	Lu_jian	male	native	Uh-huh.	6	236	453	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1028.778	1029.910	Li_zhonghua	male	native	This is what pilots desire.	6	237	454	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1029.910	1034.921	Lu_jian	male	native	However, I hear that the J-10, as a third-generation fighter jet, its flying flexibility and sensitivity may have been enhanced,	6	238	455	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1034.921	1037.640	Lu_jian	male	native	but it is harder to control for pilots.	6	238	456	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1038.271	1039.628	Li_zhonghua	male	native	It's not that difficult for pilots to control.	6	239	458	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1038.271	1039.628	Zhou_ziquan	male	native	Because (())	6	239	459	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1039.628	1040.223	Lu_jian	male	native	Uh-huh.	6	240	460	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1040.223	1040.863	Zhou_ziquan	male	native	it is like this.	6	241	461	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1040.863	1045.172	Zhou_ziquan	male	native	That is in terms of controllability, stability or flying quality of the aircraft,	6	241	462	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1045.172	1045.550	Lu_jian	male	native	Uh-huh.	6	242	463	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1045.550	1046.973	Zhou_ziquan	male	native	J-10 is the best.	6	243	464	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1047.492	1051.978	Zhou_ziquan	male	native	People who have flown J-10 will be quite un, uncomfortable to fly other aircraft.	6	243	466	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1051.978	1052.549	Lu_jian	male	native		6	244	467	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1052.549	1057.025	Zhou_ziquan	male	native	That is it, it is very handy, and pilots can do what they want to do.	6	245	468	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1057.025	1060.720	Zhou_ziquan	male	native	I can get it to wherever I want to, very fast, and very stable,	6	245	469	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1060.720	1062.723	Zhou_ziquan	male	native	This is the biggest characteristic of J-10.	6	245	470	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1062.723	1063.184	Lu_jian	male	native	Uh-huh.	6	246	471	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1063.184	1063.725	Zhou_ziquan	male	native	The performance.	6	247	472	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1063.725	1066.249	Lu_jian	male	native	Instead its flexibility and stability are well integrated,	6	248	473	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1066.249	1066.920	Zhou_ziquan	male	native	well integrated.	6	249	474	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1066.920	1067.300	Lu_jian	male	native	I see.	6	250	475	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1067.300	1071.519	Zhou_ziquan	male	native	But its difficulty, that is where does the difficulty lie with the J-10 ((pw)), aircraft?	6	251	476	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1071.519	1071.869	Lu_jian	male	native	Uh-huh.	6	252	477	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1071.869	1076.304	Zhou_ziquan	male	native	It doesn't lie in the control of the aircraft itself. It's very comfortable to control. Otherwise, ((pw)), we won't call it the third-generation fighter.	6	253	478	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1076.304	1076.855	Lu_jian	male	native	Ah.	6	254	479	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1076.855	1078.477	Zhou_ziquan	male	native	Its strength control is excellently designed.	6	255	480	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1078.477	1078.727	Lu_jian	male	native	Uh-huh.	6	256	481	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1079.246	1081.746	Zhou_ziquan	male	native	Its difficulty lies in the huge amount of information,	6	257	483	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1082.302	1083.613	Zhou_ziquan	male	native	which test pilots have to synthesize	6	257	485	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1083.613	1083.879	Lu_jian	male	native	Uh-huh.	6	258	486	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1083.879	1086.849	Zhou_ziquan	male	native	and judge, so as to make the right decision finally.	6	259	487	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1086.849	1090.194	Zhou_ziquan	male	native	Unlike past aircraft that are simple in information and functions,	6	259	488	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1090.194	1090.335	Lu_jian	male	native	Uh-huh.	6	260	489	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1090.335	1091.410	Zhou_ziquan	male	native	as I would only do one thing,	6	261	490	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1091.410	1091.618	Lu_jian	male	native	Uh-huh.	6	262	491	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1091.618	1092.958	Zhou_ziquan	male	native	it has many, may functions,	6	263	492	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1092.958	1095.334	Zhou_ziquan	male	native	air-to-air, air-to-ground, and electronic stations,	6	263	493	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1095.334	1096.704	Zhou_ziquan	male	native	a variety of different functions.	6	263	494	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1096.704	1096.921	Lu_jian	male	native	Uh-huh.	6	264	495	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1096.921	1098.459	Zhou_ziquan	male	native	Hence its information is huge.	6	265	496	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1098.459	1102.922	Lu_jian	male	native	Therefore, therefore, pilots of the third-generation fighters are actually both operators and decision makers.	6	266	497	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1102.922	1103.203	Zhou_ziquan	male	native	Yes.	6	267	498	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1103.203	1104.682	Lu_jian	male	native	They need to synthesize the information to	6	268	499	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1104.682	1105.395	Zhou_ziquan	male	native	He needs to judge.	6	269	500	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1104.682	1105.395	Lu_jian	male	native	Analyze.	6	269	501	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1105.395	1106.287	Lu_jian	male	native	En, to judge.	6	270	502	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1106.287	1108.851	Lu_jian	male	native	Well, what kind of profession is it to be a test pilot?	6	270	503	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1108.851	1111.024	Lu_jian	male	native	Next, again let's have a look through a background video.	6	270	504	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1117.828	1120.547	Lu_jian	male	native	If flying is the cause of braves,	7	271	506	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1120.547	1124.190	Lu_jian	male	native	then test pilots are braves closest to the Azrael.	7	271	507	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1124.931	1131.196	Lu_jian	male	native	In West China, there is a modern Aircraft City that encompasses design, research and manufacturing of aircraft.	7	271	509	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1131.799	1135.936	Lu_jian	male	native	Everyone here says with pride that we live in China's Seattle.	7	271	511	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1136.667	1140.698	Lu_jian	male	native	There is also a special force, a flight test regiment of the China Air Force.	7	271	513	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1141.235	1144.458	Lu_jian	male	native	It is the only authority in China that test flies new versions of aircraft.	7	271	515	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1144.458	1148.135	Lu_jian	male	native	It issues production licenses and passes for home made aircraft.	7	271	516	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1150.267	1152.642	Lu_jian	male	native	Test flying is a profession full of dangers.	7	271	518	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1153.153	1156.816	Lu_jian	male	native	Death always accompanies these challengers of the azure sky.	7	271	520	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1156.816	1160.100	Lu_jian	male	native	Li Zhonghua is a member of this heroic team.	7	271	521	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1161.102	1166.019	Lu_jian	male	native	The aircraft navigated by test pilots are prototypes in the stage of R&D and exploration.	7	271	523	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1166.770	1173.860	Lu_jian	male	native	Any target that engineers design for the aircraft must be verified again and again near its limit through flight tests by test pilots,	7	271	525	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1173.860	1179.679	Lu_jian	male	native	and improved again and again once shortcomings are identified, before it gradually becomes a product that can be delivered to the forces.	7	271	526	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1180.700	1184.997	Lu_jian	male	native	Too far away from the limit, the reliability and advanced features of the aircraft cannot be verified.	7	271	528	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1185.595	1190.034	Lu_jian	male	native	However, close to the limit, the consequences are unknown with every step ahead.	7	271	530	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1190.765	1194.002	Lu_jian	male	native	According to statistics, in the process of test flying key versions in China,	7	271	532	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1194.002	1196.844	Lu_jian	male	native	there is a trouble every 10 minutes on average,	7	271	533	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1196.844	1198.617	Lu_jian	male	native	while the shortest interval is one minute,	7	271	534	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1198.617	1200.500	Lu_jian	male	native	with a problem popping up as soon as the person is aboard the plane.	7	271	535	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1201.531	1203.424	Lu_jian	male	native	Although in peacetime,	7	271	537	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1203.424	1209.384	Lu_jian	male	native	test pilots of the flight test regiment must face trials of life and death on every normal flight day.	7	271	538	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1210.595	1216.684	Lu_jian	male	native	For more than three decades, test pilots of a flight test regiment of the China Air Force has experienced and dissolved over 3,000 dangerous situations,	7	271	540	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1216.684	1220.810	Lu_jian	male	native	of which 246 were major ones that could lead to crashes and deaths.	7	271	541	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1220.810	1223.676	Lu_jian	male	native	Most were dissolved by test pilots.	7	271	542	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1263.946	1265.618	Lu_jian	male	native	Welcome to stay tuned to Today's focus.	8	272	544	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1265.618	1267.902	Lu_jian	male	native	Being a test pilot is indeed very dangerous.	8	272	545	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1267.902	1272.950	Lu_jian	male	native	Uh, Li Zhonghua, I know in the flights, during test flights, there was an extremely dangerous situation, the 5/20 incident,	8	272	546	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1272.950	1274.562	Lu_jian	male	native	right? On May 20, '05.	8	272	547	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1274.562	1274.762	Li_zhonghua	male	native	Right.	8	273	548	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1274.762	1276.735	Lu_jian	male	native	uh, you were test flying with your companion Liang Jianfeng,	8	274	549	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1276.735	1280.641	Lu_jian	male	native	then uh when you experienced a situation, which could be said the aircraft	8	274	550	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1281.160	1282.633	Lu_jian	male	native	was in a state of shock,	8	274	552	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1283.354	1284.426	Li_zhonghua	male	native	was in a state out of control.	8	275	554	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1284.426	1284.867	Lu_jian	male	native	Out of control,	8	276	555	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1284.867	1285.317	Li_zhonghua	male	native	A state out of control.	8	277	556	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1285.317	1289.767	Lu_jian	male	native	which can be described as shock, which means there was no response after everything, the restart was pushed.	8	278	557	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1289.767	1290.318	Li_zhonghua	male	native	Nothing worked.	8	279	558	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1290.318	1291.069	Lu_jian	male	native	Nothing worked.	8	280	559	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1291.069	1291.351	Li_zhonghua	male	native	Yes.	8	281	560	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1291.951	1294.613	Lu_jian	male	native	What happened at the time, the aircraft was descending rapidly, right?	8	282	562	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1294.613	1295.935	Lu_jian	male	native	It is said it rolled over and descended sharply.	8	282	563	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1295.935	1298.441	Li_zhonghua	male	native	At that time uh, the aircraft abruptly deflected to the right,	8	283	564	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1298.441	1298.677	Lu_jian	male	native	Uh-huh.	8	284	565	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1298.677	1299.926	Li_zhonghua	male	native	and rolled over fiercely,	8	285	566	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1299.926	1300.238	Lu_jian	male	native	Uh-huh.	8	286	567	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1300.238	1303.475	Li_zhonghua	male	native	after the rollover, the aircraft control was gone, the pilot control wouldn't work.	8	287	568	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1303.475	1303.996	Lu_jian	male	native	Uh-huh.	8	288	569	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1303.996	1305.288	Li_zhonghua	male	native	The aircraft was descending rapidly.	8	289	570	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1305.288	1307.969	Lu_jian	male	native	It didn't work no matter what control was done. That is all the buttons were	8	290	571	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1307.969	1308.399	Li_zhonghua	male	native	Right.	8	291	572	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1307.969	1308.399	Lu_jian	male	native	useless.	8	291	573	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1308.399	1310.414	Li_zhonghua	male	native	No matter you pulled the stick or stepped the rudder,	8	292	574	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1310.414	1310.993	Lu_jian	male	native	Uh-huh.	8	293	575	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1310.993	1311.776	Li_zhonghua	male	native	they wouldn't work on the aircraft.	8	294	576	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1312.304	1314.955	Li_zhonghua	male	native	It was no use even when some of the emergency buttons were cut off.	8	294	578	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1314.955	1315.392	Lu_jian	male	native	Uh-huh.	8	295	579	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1315.392	1316.270	Li_zhonghua	male	native	Under the circumstance,	8	296	580	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1316.270	1316.770	Zhou_ziquan	male	native	at that moment he	8	297	581	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1316.270	1316.770	Li_zhonghua	male	native	finally uh	8	297	582	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1316.770	1320.251	Zhou_ziquan	male	native	as the power system of the aircraft was abnormal,	8	298	583	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1320.251	1320.515	Lu_jian	male	native	Uh-huh.	8	299	584	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1320.515	1323.628	Zhou_ziquan	male	native	it led to abnormal flight control system and positioning system.	8	300	585	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1323.628	1324.937	Zhou_ziquan	male	native	The aileron,	8	300	586	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1324.937	1325.441	Lu_jian	male	native	Uh-huh.	8	301	587	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1325.441	1328.427	Zhou_ziquan	male	native	the aileron rudder couldn't move, as it was in fact locked.	8	302	588	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1328.427	1328.705	Lu_jian	male	native	Uh-huh.	8	303	589	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1328.705	1330.275	Zhou_ziquan	male	native	It could move ((pw)), vertically.	8	304	590	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1330.275	1332.690	Lu_jian	male	native	It was not J-10 that they were flying, rather it was a three-axis	8	305	591	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1330.275	1332.690	Zhou_ziquan	male	native	((pw)), it went out of control.	8	305	592	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1332.690	1333.519	Lu_jian	male	native	The aircraft stabilized?	8	306	593	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1333.519	1334.567	Li_zhonghua	male	native	The cause,	8	307	594	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1333.519	1334.567	Zhou_ziquan	male	native	yes, it	8	307	595	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1334.567	1335.133	Li_zhonghua	male	native	was caused by	8	308	596	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1334.567	1335.133	Lu_jian	male	native	Uh-huh.	8	308	597	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1335.133	1336.664	Li_zhonghua	male	native	lowered voltage in the power system	8	309	598	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1336.664	1336.962	Lu_jian	male	native	Uh-huh.	8	310	599	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1336.962	1338.697	Li_zhonghua	male	native	to a level outside the normal working range.	8	311	600	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1338.697	1342.021	Li_zhonghua	male	native	Afterwards uh, the computer generated an abnormal signal,	8	311	601	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1342.021	1346.318	Li_zhonghua	male	native	which uh was random. The signal given then was about the rudder and the aileron.	8	311	602	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1346.852	1350.870	Lu_jian	male	native	That is it was no use with all the buttons pushed, and the aircraft uh dropped sharply after a rollover.	8	312	604	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1350.870	1351.402	Li_zhonghua	male	native	It dropped.	8	313	605	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1350.870	1351.402	Zhou_ziquan	male	native	I hear	8	313	606	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1351.402	1352.439	Lu_jian	male	native	Under such a circumstance,	8	314	607	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1351.402	1352.439	Zhou_ziquan	male	native	it's often.	8	314	608	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1352.439	1356.128	Lu_jian	male	native	neither you nor Liang Jianfeng said anything. Why didn't you choose to eject?	8	315	609	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1356.128	1358.326	Li_zhonghua	male	native	Because we two were not yet at the last juncture.	8	316	610	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1358.326	1358.760	Lu_jian	male	native	Uh-huh.	8	317	611	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1358.760	1362.963	Li_zhonghua	male	native	As a test pilot, your duty requires you to accomplish the task and secure the aircraft first.	8	318	612	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1362.963	1363.414	Lu_jian	male	native	Uh-huh.	8	319	613	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1363.414	1367.000	Li_zhonghua	male	native	It is only when there are no choices, do you think of reducing the loss.	8	320	614	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1367.000	1367.531	Lu_jian	male	native	Uh-huh.	8	321	615	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1367.531	1370.909	Lu_jian	male	native	Well then, let's also listen to what your companion Liang Jianfeng says.	8	321	616	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1372.003	1376.409	Liang_jianfeng	male	native	The flight subject we were performing then was flying at 270 at the altitude of 500 meters.	8	322	618	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1376.409	1377.947	Liang_jianfeng	male	native	We would fly a takeoff and landing,	8	322	619	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1378.494	1380.054	Liang_jianfeng	male	native	and a simulated malfunctioning,	8	322	621	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1380.601	1381.373	Liang_jianfeng	male	native	a subject like, like this.	8	322	623	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1381.988	1385.403	Liang_jianfeng	male	native	Well, the, the task went on normally for the first two laps.	8	322	625	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1386.144	1391.050	Liang_jianfeng	male	native	Well, it was in the third lap, when we were just in the third lap, what the aircraft was like, all of a sudden it fiercely	8	322	627	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1391.560	1391.927	Liang_jianfeng	male	native	deflected	8	322	629	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1392.497	1393.045	Liang_jianfeng	male	native	to the right,	8	322	631	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1393.045	1394.278	Liang_jianfeng	male	native	and then uh it	8	322	632	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1395.404	1396.107	Liang_jianfeng	male	native	turned upside down to the left.	8	322	634	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1396.863	1398.180	Liang_jianfeng	male	native	That is the nose was heading the ground,	8	322	636	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1398.708	1399.991	Liang_jianfeng	male	native	and our heads were over the ground.	8	322	638	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1400.501	1401.588	Liang_jianfeng	male	native	And what was the aircraft like? The nose	8	322	640	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1402.110	1403.571	Liang_jianfeng	male	native	swung left and right widely.	8	322	642	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1404.754	1407.897	Liang_jianfeng	male	native	And at this moment, my stick in the front cockpit ah was already out of work and out of control.	8	322	644	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1408.461	1409.869	Liang_jianfeng	male	native	The aircraft was also out of control.	8	322	646	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1411.036	1413.114	Liang_jianfeng	male	native	At this moment uh, you could see the ground,	8	322	648	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1413.820	1418.018	Liang_jianfeng	male	native	the village, including the corn field beneath us were all blown on the face.	8	322	650	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1418.659	1420.445	Liang_jianfeng	male	native	I said loudly then, I said, said,	8	322	652	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1420.445	1423.739	Liang_jianfeng	male	native	as there was not much sound in the radio earphone, I couldn't help shouting loudly, shouting loudly, I said	8	322	653	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1424.258	1424.972	Liang_jianfeng	male	native	we are dead, dead.	8	322	655	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1426.184	1427.306	Liang_jianfeng	male	native	But the aircraft gave no response.	8	322	657	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1427.806	1431.351	Liang_jianfeng	male	native	At this moment, I also heard a shout behind me, that is I could dimly hear him saying	8	322	659	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1431.919	1433.126	Liang_jianfeng	male	native	never mind. Let me, Let me.	8	322	661	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1433.633	1435.738	Liang_jianfeng	male	native	That being said, the aircraft was completely controlled by him.	8	322	663	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1436.688	1440.688	Liang_jianfeng	male	native	Well, what suddenly happened to the aircraft uh at the moment, in the process? It was fiercely	8	322	665	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1441.391	1442.057	Liang_jianfeng	male	native	turned over,	8	322	667	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1442.688	1444.920	Liang_jianfeng	male	native	turned back, actually at a low height above the ground.	8	322	669	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1445.429	1448.438	Liang_jianfeng	male	native	Had the aircraft not turned over, or successfully handled,	8	322	671	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1448.438	1450.063	Liang_jianfeng	male	native	what could happen to the aircraft in a few seconds?	8	322	672	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1450.688	1451.563	Liang_jianfeng	male	native	It could smash into the ground.	8	322	674	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1452.617	1455.003	Liang_jianfeng	male	native	So, I felt, I had a deep feeling then, so I also	8	322	676	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1455.633	1456.352	Liang_jianfeng	male	native	with my hand	8	322	678	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1456.880	1459.863	Liang_jianfeng	male	native	shimmering, I wrote, wrote the log book.	8	322	680	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1462.629	1470.218	Lu_jian	male	native	Liang Jianfeng said then that the aircraft didn't turn over until it was nearly, probably very close to the ground, I heard it was 200 meters.	8	323	682	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1470.218	1470.749	Li_zhonghua	male	native	Right.	8	324	683	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1470.749	1473.053	Lu_jian	male	native	That was indeed a moment of life and death!	8	325	684	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1473.053	1474.916	Lu_jian	male	native	How did you manage to turn over afterwards?	8	325	685	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1474.916	1476.648	Li_zhonghua	male	native	The aircraft's control was recovered afterwards.	8	326	686	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1476.648	1477.520	Lu_jian	male	native	How was it recovered?	8	327	687	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1477.520	1480.264	Li_zhonghua	male	native	Uh, I simply switched off the computer's power,	8	328	688	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1480.264	1482.952	Li_zhonghua	male	native	so that from the source of the signal,	8	328	689	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1482.952	1483.450	Lu_jian	male	native	Uh-huh.	8	329	690	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1483.450	1484.120	Li_zhonghua	male	native	I cut off	8	330	691	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1484.682	1485.321	Li_zhonghua	male	native	the power supply.	8	330	693	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1485.321	1487.821	Lu_jian	male	native	That is in the process of the sharp drop, then	8	331	694	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1488.539	1489.467	Lu_jian	male	native	through	8	331	696	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1489.467	1490.510	Li_zhonghua	male	native	When it dropped sharply,	8	332	697	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1489.467	1490.510	Lu_jian	male	native	these operations.	8	332	698	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1490.510	1491.850	Li_zhonghua	male	native	people were upside down.	8	333	699	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1491.850	1492.181	Lu_jian	male	native	Uh-huh.	8	334	700	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1492.181	1497.256	Li_zhonghua	male	native	Well, after the power supply was switched off in such a situation, the aircraft control was recovered and the aircraft was then turned back over.	8	335	701	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1497.791	1500.119	Zhou_ziquan	male	native	Because the aircraft had two sets of control systems.	8	336	703	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1500.119	1500.549	Lu_jian	male	native	Uh-huh.	8	337	704	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1500.549	1503.471	Zhou_ziquan	male	native	One set is fly-by-wire, fly-by-wire controls the flight throughout.	8	338	705	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1503.471	1503.927	Lu_jian	male	native	Uh-huh.	8	339	706	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1503.927	1509.023	Zhou_ziquan	male	native	What was described just now was, that was, an abnormal and uncontrollable situation of the fly-by-wire system.	8	340	707	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1509.023	1509.400	Lu_jian	male	native	Right.	8	341	708	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1509.400	1513.909	Zhou_ziquan	male	native	Li Zhonghua simply knows this, as he cut it off under the circumstance,	8	342	709	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1513.909	1514.154	Lu_jian	male	native	Uh-huh.	8	343	710	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1514.154	1517.233	Zhou_ziquan	male	native	and switched to the mechanical control at the back cockpit under his own control.	8	344	711	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1517.233	1517.550	Lu_jian	male	native	Uh-huh.	8	345	712	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1517.550	1519.255	Zhou_ziquan	male	native	Thus, the aircraft restored to normal.	8	346	713	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1519.806	1521.400	Lu_jian	male	native	But it was really	8	347	715	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1521.400	1521.759	Zhou_ziquan	male	native	Right.	8	348	716	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1521.759	1522.379	Lu_jian	male	native	a flash of the moment,	8	349	717	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1522.379	1523.872	Lu_jian	male	native	because the aircraft was	8	350	718	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1522.379	1523.872	Zhou_ziquan	male	native	(())	8	350	719	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1523.872	1529.567	Lu_jian	male	native	in a sharp drop, and it is said that it began to recover then from a state of shock 200 meters above the ground.	8	351	720	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1529.567	1530.369	Zhou_ziquan	male	native	This is where the problem	8	352	721	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1529.567	1530.369	Li_zhonghua	male	native	It recovered again.	8	352	722	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1530.369	1532.161	Zhou_ziquan	male	native	lies. If he hadn't got a sound	8	353	723	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1530.369	1532.161	Lu_jian	male	native	Then it quickly	8	353	724	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1532.161	1536.740	Zhou_ziquan	male	native	say, mental state, if he hadn't been steady and calm, they would have been doomed if he had thought about getting nervous.	8	354	725	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1536.740	1537.094	Lu_jian	male	native	Uh-huh.	8	355	726	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1537.094	1540.831	Zhou_ziquan	male	native	And it wouldn't help even if they ejected, as they would have been too close to the ground, and upside down.	8	356	727	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1540.831	1541.322	Lu_jian	male	native	Uh-huh.	8	357	728	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1541.322	1544.917	Lu_jian	male	native	So, being a um ((pw)), uh test pilot uh is a very dangerous profession.	8	357	729	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1544.917	1548.833	Lu_jian	male	native	Uh, I know your wife should also be in the Air Force system.	8	357	730	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1548.833	1549.132	Li_zhonghua	male	native	Right.	8	358	731	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1549.132	1551.319	Lu_jian	male	native	How does she view your occupation?	8	359	732	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1551.877	1553.502	Li_zhonghua	male	native	Uh, my wife has been very supportive	8	360	734	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1553.502	1553.919	Lu_jian	male	native	Uh-huh.	8	361	735	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1553.919	1556.878	Li_zhonghua	male	native	and has followed me from outside to	8	362	736	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1557.425	1559.627	Li_zhonghua	male	native	the place where my troops are stationed.	8	362	738	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1559.627	1562.081	Li_zhonghua	male	native	She is supportive, but also very worried about me.	8	362	739	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1562.081	1566.578	Lu_jian	male	native	Worried about you, of course. Let's listen to what your wife says.	8	363	740	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1568.018	1571.551	Pan_donglan	female	native	He won't, he never tells me when he flies a risky subject.	8	364	742	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1571.551	1572.720	Pan_donglan	female	native	But as we both work	8	364	743	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1573.267	1576.738	Pan_donglan	female	native	for the same unit, I'm in the Political Division and have some knowledge about it.	8	364	745	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1576.738	1577.332	Pan_donglan	female	native	I know	8	364	746	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1577.872	1581.062	Pan_donglan	female	native	for J-10 to be finalized, what, what and what should be flown.	8	364	748	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1581.062	1583.746	Pan_donglan	female	native	Although I don't know specifically what Li Zhonghua will fly,	8	364	749	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1583.746	1584.820	Pan_donglan	female	native	I reckon certainly	8	364	750	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1585.327	1587.491	Pan_donglan	female	native	he will fly these high risk subjects.	8	364	752	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1588.672	1592.793	Pan_donglan	female	native	However, we two seem to have a, I myself seem to, that is	8	364	754	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1593.340	1594.887	Pan_donglan	female	native	for discussions about such things as risks,	8	364	756	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1595.481	1599.026	Pan_donglan	female	native	we seem to avoid intentionally. I don't want to discuss these either normally.	8	364	758	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1599.026	1600.207	Pan_donglan	female	native	I seldom talk to him.	8	364	759	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1600.207	1605.335	Pan_donglan	female	native	But actually I pay great attention in my heart, although I don't want to pay attention, I'm always involuntarily drawn to it.	8	364	760	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1605.966	1608.089	Pan_donglan	female	native	Thus, in such cases, I'm very concerned.	8	364	762	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1608.627	1609.503	Pan_donglan	female	native	When he flies outside,	8	364	764	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1610.126	1613.156	Pan_donglan	female	native	I must wait for his phone call every night.	8	364	766	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1613.777	1617.012	Pan_donglan	female	native	He must call me to say, ah, I did this today.	8	364	768	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1617.522	1620.316	Pan_donglan	female	native	Or even without telling me what you did, as long as you give me a phone call,	8	364	770	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1620.316	1624.802	Pan_donglan	female	native	my heart will be able to settle down. If there's no phone call tonight, I'm definitely sleepless tonight.	8	364	771	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1627.453	1628.516	Lu_jian	male	native	Alas, indeed,	8	365	773	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1629.641	1631.589	Lu_jian	male	native	I think as your wife, she is very worried.	8	365	775	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1631.589	1634.143	Lu_jian	male	native	What do you think is the coziest thing in your family life?	8	365	776	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1634.852	1639.471	Li_zhonghua	male	native	The coziest moment is when I'm with my wife and my son,	8	366	778	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1639.471	1640.002	Lu_jian	male	native	Uh-huh.	8	367	779	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1640.002	1641.518	Li_zhonghua	male	native	uh although such moments are rare,	8	368	780	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1642.081	1643.396	Li_zhonghua	male	native	because we are busy with our own jobs.	8	368	782	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1643.396	1648.875	Li_zhonghua	male	native	But I feel such moments are really those when you can enjoy the care of your family.	8	368	783	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1648.875	1651.261	Lu_jian	male	native	The point you just made is indeed something in agreement with your wife.	8	369	784	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1651.261	1654.667	Lu_jian	male	native	When our reporter interviewed your wife, she also said so. Let's listen to it.	8	369	785	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1655.257	1656.960	Pan_donglan	female	native	When we have a walk together in the evening,	8	370	787	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1656.960	1662.197	Pan_donglan	female	native	say, go shopping in the supermarket. No matter how many things, he will carry it in one hand.	8	370	788	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1662.197	1666.013	Pan_donglan	female	native	Because I have a habit, which is to hold someone's arm when I walk.	8	370	789	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1666.013	1670.455	Pan_donglan	female	native	He always carries everything in one hand no matter how heavy, and empty an arm for me to hold.	8	370	790	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1671.091	1672.052	Pan_donglan	female	native	Just like that.	8	370	792	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1675.115	1678.490	Lu_jian	male	native	Uh, so your wife shows great understanding in your profession.	8	371	794	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1678.490	1682.601	Lu_jian	male	native	uh, but we know just because they may have to handle a variety of dangers,	8	371	795	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1682.601	1684.898	Lu_jian	male	native	the test pilot as a profession is very demanding.	8	371	796	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1684.898	1689.203	Lu_jian	male	native	If compared with pilots, probably there are more professional requirements on test pilots,	8	371	797	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1689.203	1690.111	Lu_jian	male	native	there are even requirements	8	371	798	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1690.634	1691.977	Lu_jian	male	native	in terms of education attainment, are there?	8	371	800	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1692.643	1695.586	Li_zhonghua	male	native	In fact, the difference between test pilots and pilots is that	8	372	802	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1695.586	1698.055	Li_zhonghua	male	native	test pilots fly aircraft, the designs of which are not finalized,	8	372	803	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1698.055	1702.778	Li_zhonghua	male	native	while test pilots, while pilots uh fly those that are finalized, which is a kind of standard flight.	8	372	804	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1702.778	1703.178	Lu_jian	male	native	Uh-huh.	8	373	805	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1703.178	1704.850	Li_zhonghua	male	native	This is the most fundamental difference.	8	374	806	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1705.421	1709.766	Lu_jian	male	native	So from this perspective, test pilots could face many unknown situations.	8	375	808	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1710.379	1713.747	Lu_jian	male	native	Well, in this case, it's probably a bit more demanding professionally, right.	8	375	810	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1713.747	1715.189	Zhou_ziquan	male	native	Sure, it's true.	8	376	811	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1715.189	1722.080	Zhou_ziquan	male	native	Because flight tests themselves, at the initial stage of an aircraft, it definitely has a lot of immaturities.	8	376	812	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1722.080	1722.370	Lu_jian	male	native	Uh-huh.	8	377	813	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1722.370	1725.002	Zhou_ziquan	male	native	It seems uh the, the video also mentioned just now that	8	378	814	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1725.606	1731.470	Zhou_ziquan	male	native	a new aircraft ((pw)), that is the troubles ah are approximately at a magnitude of 1,000 to 2,000.	8	378	816	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1731.470	1731.829	Lu_jian	male	native	Uh-huh.	8	379	817	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1731.829	1732.280	Zhou_ziquan	male	native	Given this,	8	380	818	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1732.817	1734.989	Zhou_ziquan	male	native	some accidents, although small,	8	380	820	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1734.989	1740.438	Zhou_ziquan	male	native	just like, say, when he flied once, hydraulic oil leak, where all the oil leaked at last.	8	380	821	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1740.438	1744.563	Zhou_ziquan	male	native	What caused the accident was actually a 0.3mm sand grain.	8	380	822	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1744.563	1749.111	Zhou_ziquan	male	native	I'm just saying it's hard to say when it will cause huge risks.	8	380	823	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1749.111	1749.700	Lu_jian	male	native	Uh-huh.	8	381	824	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1749.700	1750.411	Zhou_ziquan	male	native	This is my,	8	382	825	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1749.700	1750.411	Lu_jian	male	native	but	8	382	826	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1750.411	1753.685	Lu_jian	male	native	In such a case, probably the test pilot uh sometimes needs some experience to.	8	383	827	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1753.685	1755.691	Zhou_ziquan	male	native	It then depends on the skills of the ((pw)), test pilot.	8	384	828	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1755.691	1756.257	Lu_jian	male	native	Uh-huh.	8	385	829	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1756.257	1760.783	Zhou_ziquan	male	native	If he is very, very experienced, he is able to notice these details.	8	386	830	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1760.783	1766.108	Zhou_ziquan	male	native	Like the voltmeter uh, actually in a very small fall, it's hard to detect.	8	386	831	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1766.108	1766.531	Lu_jian	male	native	Uh-huh.	8	387	832	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1766.531	1769.135	Zhou_ziquan	male	native	With slight shiver, the voltage drops very slowly,	8	388	833	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1769.135	1772.877	Zhou_ziquan	male	native	and he is aware of the problem and lower the landing gear. This reflects the skills.	8	388	834	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1773.405	1774.122	Lu_jian	male	native	This reflects the skills.	8	389	836	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1774.122	1774.764	Lu_jian	male	native	If he only	8	390	837	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1774.122	1774.764	Zhou_ziquan	male	native	That is	8	390	838	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1774.764	1776.198	Lu_jian	male	native	relies on the electronic system's	8	391	839	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1776.198	1776.699	Zhou_ziquan	male	native	Right, right, right.	8	392	840	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1776.699	1777.782	Lu_jian	male	native	it may not be able to be reflected	8	393	841	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1777.782	1778.273	Lu_jian	male	native	in such, such	8	394	842	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1777.782	1778.273	Zhou_ziquan	male	native	Right.	8	394	843	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1778.273	1779.520	Lu_jian	male	native	great details.	8	395	844	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1779.520	1781.615	Lu_jian	male	native	Uh, that's why uh Li Zhonghua	8	395	845	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1782.208	1785.093	Lu_jian	male	native	won a special-class prize and a second-class prize of the National and Technological Progress Award,	8	395	847	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1785.093	1790.060	Lu_jian	male	native	because he has put forward many very constructive suggestions in flight tests,	8	395	848	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1790.060	1793.626	Lu_jian	male	native	playing a significant role in our home developed J-10.	8	395	849	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1793.626	1799.404	Lu_jian	male	native	Uh, maybe I think, due to time constraints, maybe many viewers are eager to hear more from the two guests,	8	395	850	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1799.404	1801.929	Lu_jian	male	native	but we have to stop here today. But never mind,	8	395	851	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1801.929	1808.099	Lu_jian	male	native	because tomorrow uh, Li Zhonghua will come back to our studio with the commissar of their flight test regiment,	8	395	852	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1808.099	1810.828	Lu_jian	male	native	uh to talk about their heroic team with us once again.	8	395	853	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1810.828	1812.354	Lu_jian	male	native	So, thanks very much to the two guests.	8	395	854	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1812.354	1816.325	Lu_jian	male	native	And thank you dear viewers for watching this edition of our Today's Focus. See you tomorrow night.	8	395	855	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1828.531	1830.433	speaker#3	female	native	Hello, let's have a look at the weather together.	10	397	857	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1830.433	1834.900	speaker#3	female	native	The widespread rainy and snowy weather continued in the South today, with heavier rains and snows.	10	397	858	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1834.900	1837.343	speaker#3	female	native	For example, eastern Hubei saw quite heavy snows.	10	397	859	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1837.343	1840.869	speaker#3	female	native	It is expected that there will be more intensified snows in central and eastern Hubei tomorrow.	10	397	860	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1840.869	1844.139	speaker#3	female	native	Well, many places including Wuhan will see moderate to heavy snows.	10	397	861	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1844.139	1846.806	speaker#3	female	native	In addition, there will be moderate rains in Shanghai and Hangzhou.	10	397	862	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1846.806	1853.353	speaker#3	female	native	Well, with the cloudy and rainy weather extending southward, Yunnan, Guangxi and most Guangdong will be covered in rain tomorrow night.	10	397	863	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1853.353	1857.446	speaker#3	female	native	The widespread rainy and snowy weather in the South is not expected to end in the next four to five days.	10	397	864	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1858.093	1861.555	speaker#3	female	native	Although this week will not see much snow uh in the North, with the temperature to stay largely unchanged,	10	397	866	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1861.555	1865.273	speaker#3	female	native	there will be quite a lot of mist and haze in the North China Plain and Liaoning.	10	397	867	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1865.273	1867.210	speaker#3	female	native	The air quality will be hard to improve.	10	397	868	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1867.745	1869.630	speaker#3	female	native	Alright, next let's watch city weather forecasts.	10	397	870	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1871.839	1874.046	speaker#3	female	native	Beijing, overcast, ((pw)) to 3 degrees.	10	397	872	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1874.737	1877.121	speaker#3	female	native	Haerbin, clear, ((pw)) to ((pw)) degrees.	10	397	874	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1877.764	1879.816	speaker#3	female	native	Xi'an, overcast, ((pw)) to 5 degrees.	10	397	876	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1880.798	1883.122	speaker#3	female	native	Jinan, cloudy to overcast, ((pw)) to 2 degrees.	10	397	878	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1883.722	1886.065	speaker#3	female	native	Zhengzhou, cloudy to overcast, ((pw)) to 6 degrees.	10	397	880	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1886.636	1888.689	speaker#3	female	native	Shanghai, drizzle to moderate rain, 5 to 7 degrees.	10	397	882	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1889.299	1891.492	speaker#3	female	native	Changsha, drizzle to sleet, 1 to 3 degrees.	10	397	884	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1892.273	1894.566	speaker#3	female	native	Fuzhou, cloudy to overcast, 14 to 20 degrees.	10	397	886	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1895.097	1897.180	speaker#3	female	native	Taipei, overcast, 18 to 24 degrees.	10	397	888	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1897.951	1900.298	speaker#3	female	native	Guangzhou, overcast to cloudy, 15 to 22 degrees.	10	397	890	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1900.864	1903.175	speaker#3	female	native	Dalian, overcast to clear, ((pw)) to 2 degrees.	10	397	892	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1903.770	1905.953	speaker#3	female	native	Wuxi, drizzle to moderate rain, 3 to 5 degrees.	10	397	894	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1906.714	1909.222	speaker#3	female	native	Korla, clear, ((pw)) to ((pw)) degrees.	10	397	896	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1909.741	1911.801	speaker#3	female	native	Bangkok, overcast, 24 to 34 degrees.	10	397	898	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1912.372	1914.484	speaker#3	female	native	New Delhi, overcast, 7 to 19 degrees.	10	397	900	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1915.278	1917.498	speaker#3	female	native	Seoul, overcast to cloudy, ((pw)) to 1 degree.	10	397	902	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1918.129	1920.423	speaker#3	female	native	Tokyo, overcast to cloudy, 5 to 10 degrees.	10	397	904	report	
+CCTV4_TDYFOCUS_CMN_20070115_082800	0	1921.184	1921.805	speaker#3	female	native	London	10	397	906	report	

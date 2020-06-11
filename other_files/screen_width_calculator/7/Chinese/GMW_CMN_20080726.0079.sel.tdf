@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080726.0079	0	3000.0	3100.0	speaker	unknown	unknown	德国一些政治人物相信，奥巴马柏林演讲有助于建立新跨大西洋关系。	0	0	0		
+GMW_CMN_20080726.0079	0	3500.0	3600.0	speaker	unknown	unknown	吴铮（新华社专稿）	0	0	0		
+GMW_CMN_20080726.0079	0	5800.0	5900.0	speaker	unknown	unknown	注册为民主党籍受访者中，71％的人说奥巴马会赢得选举；注册为共和党籍的受访者只有51％相信麦凯恩能赢，25％的人甚至说奥巴马赢。	0	0	0		

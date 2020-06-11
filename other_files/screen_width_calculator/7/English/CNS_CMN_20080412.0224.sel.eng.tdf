@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080412.0224	0	0.0	100.0	speaker	unknown	unknown	The pilot program of full-time NPC members is worth encouraging.	0	0	0		
+CNS_CMN_20080412.0224	0	1200.0	1300.0	speaker	unknown	unknown	There are a series of system changes, too many obstacles to be broken through, and many technical details to be considered behind full-time NPC members. It may well be described as a slight move in one part that may affect the whole situation.	0	0	0		
+CNS_CMN_20080412.0224	0	1400.0	1500.0	speaker	unknown	unknown	To include full-time NPC members in civil service establishment, this gives a problem to the current management system of civil servants recruitment.	0	0	0		
+CNS_CMN_20080412.0224	0	1500.0	1600.0	speaker	unknown	unknown	How do you approve salary standards for full-time NPC members? If NPC members are put as the same as ordinary civil servants, this is neither legal nor can good material support be given to the representatives.	0	0	0		
+CNS_CMN_20080412.0224	0	1700.0	1800.0	speaker	unknown	unknown	Full-time NPC members also need system reforms in all the agencies of the National People's Congress for them.	0	0	0		

@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Haitian President Orders 15% Drop in Food Prices to Stem Riots	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Port-au-Prince, the 20th (AFP)	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Haitian President Preval today announced a plan to lower food prices by 15% in order to stem deadly food riots that have already resulted in the dismissal of Prime Minister Alexis.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	More than a week after riots broke out in Haiti because of sharp increases in food and fuel prices, Preval today announced the above measures accompanied by food importers.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	1600.000	1800.000	TEXT1	unknown	unkown	According to unofficial statistics, the riots have resulted in at least five dead and 200 injured.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	As Preval made his speech, the National Assembly voted to dismiss Prime Minister Alexis in response to the crisis.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	Sixteen senators in the upper house unanimously passed a condemnation of Alexis that rebuked him for being unable to meet the demands of Haiti's 8.5 million people.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	Approximately 80% of Haiti's people survive on less than two US dollars a day.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	2900.000	3000.000	TEXT1	unknown	unkown	Senators belonging to Preval's party were not present for the vote, but Preval had said a bit earlier that he would not block an attempt to dismiss Alexis.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	3000.000	3200.000	TEXT1	unknown	unkown	He agreed to cooperate with the two chambers of the National Assembly in seeking a replacement.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	3400.000	3700.000	TEXT1	unknown	unkown	Preval said, "If the National Assembly dismisses the prime minister, I will consult with the leaders of the two chambers in accordance with the requirements of the constitution in order to appoint a new prime minister, since no party in the assembly has a majority. "	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	3900.000	4200.000	TEXT1	unknown	unkown	He also defended Alexis, saying faced with the global increase in food prices, Alexis had spared no effort to cope, and to put all the blame on his shoulders was "not fair."	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	4400.000	4500.000	TEXT1	unknown	unkown	Preval also announced at a press conference in Port-au-Prince that the price of a 50kg package of white rice would be lowered by eight US dollars (about NT$240).	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	4500.000	4700.000	TEXT1	unknown	unkown	The price of a 50kg package of rice has doubled in the space of a week to US$70.	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	4900.000	5000.000	TEXT1	unknown	unkown	Preval said, "The government had agreed to this measure because the international community had donated US$3 million."	0	0	0		statement
+AFP_CMN_20080413.0009.sgm	0	5000.000	5200.000	TEXT1	unknown	unkown	He also said the government would also intensify efforts to encourage the production of more grain.	0	0	0		statement

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.1799	0	0.0	100.0	speaker	unknown	unknown	Coin Collectors Association Expert: Olympic Games Commemorative Banknotes Suitable for Public Collection	0	0	0		
+CNS_CMN_20080709.1799	0	200.0	300.0	speaker	unknown	unknown	Zhu Xia, an expert from the Coin Collectors Association, said that the "Olympic Games commemorative banknotes" issued this time are the third set of commemorative banknotes since the founding of the country and are very suitable for public collection due to its low face value.	0	0	0		

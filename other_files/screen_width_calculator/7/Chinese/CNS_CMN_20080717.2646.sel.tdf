@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2646	0	400.0	500.0	speaker	unknown	unknown	巡航编队通过对琼州海峡、洋浦港、北部湾重要航路、中海油北部湾石油钻井平台、中越分界线等水域通航环境的巡查，进一步了解了目前存在的问题，为通航环境的治理提供了重要参考数据。	0	0	0		
+CNS_CMN_20080717.2646	0	600.0	700.0	speaker	unknown	unknown	北部湾北部涠洲岛周围水域有不少的渔船和渔排，对通航构成影响；定线制水域、中越分界线水域、石油钻井平台等水域通航环境状况较好。	0	0	0		
+CNS_CMN_20080717.2646	0	900.0	1000.0	speaker	unknown	unknown	琼州海峡VTS系统雷达监测和高频通话能力均在该系统对外公布的监管范围内，达到设计要求。	0	0	0		

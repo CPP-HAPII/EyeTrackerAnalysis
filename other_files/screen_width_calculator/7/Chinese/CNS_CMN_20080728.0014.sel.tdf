@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080728.0014	0	0.0	100.0	speaker	unknown	unknown	中国男篮奥运目标仍锁定前八	0	0	0		
+CNS_CMN_20080728.0014	0	300.0	400.0	speaker	unknown	unknown	在姚明的带领下，这支中国篮球史上最强的球队将继续冲击奥运前八。	0	0	0		
+CNS_CMN_20080728.0014	0	1400.0	1500.0	speaker	unknown	unknown	在斯坦科维奇杯上击败中国队已经是过去时，我们将打好本次比赛，并将在奥运上尽全力比赛，在所有的比赛中都要全力以赴。”	0	0	0		

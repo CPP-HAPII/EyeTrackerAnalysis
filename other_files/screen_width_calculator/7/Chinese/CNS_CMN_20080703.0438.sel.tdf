@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.0438	0	600.0	700.0	speaker	unknown	unknown	在“周老虎”被证实为“纸老虎”后，公众最关注的恐怕是“造假”究竟是“一个人的瞒天过海”，还是“一群人的沆瀣一气”。	0	0	0		
+CNS_CMN_20080703.0438	0	700.0	800.0	speaker	unknown	unknown	事实上，破绽百出的“纸老虎”，之所以几经波折之后才真相大白，公众很容易将其和“官员参与造假”联系在一起。	0	0	0		
+CNS_CMN_20080703.0438	0	1600.0	1700.0	speaker	unknown	unknown	“纸老虎案”在逻辑上完全存在这样一种可能，即集体造假行为，可以通过订立“攻守同盟”，把所有问题都让周正龙一个人来扛。	0	0	0		

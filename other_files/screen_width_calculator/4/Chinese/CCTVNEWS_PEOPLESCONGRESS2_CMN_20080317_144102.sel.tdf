@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'report', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'nontrans', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 2.0030000000000001, 127.146, 134.82499999999999, 147.851, 150.66300000000001, 169.39099999999999, 177.571, 217.25800000000001, 222.602, 1903.8150000000001, 2562.826, 2579.3879999999999, 3544.8040000000001, 3558.4450000000002, 3566.1170000000002, 3577.9609999999998, 3583.8519999999999, 3588.6799999999998, 3592.3049999999998, 3718.0259999999998, 3726.5569999999998, 4058.3429999999998, 4376.009, 4389.0659999999998, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	476.351	484.400	Zhang_Yu	male	native	{cough} 那么刚才呃我们记者可能由于有点紧张有点兴奋报错了一个人名,其实这在我们的报道过程当中可能也是一个比较正常的状况	9	32	96	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	635.787	643.616	Liao_Xiao_Meng	male	native	{laugh} 第二天,对第二天一早七点我们去了玉渊潭公园采访了一些晨练的老老人,这个呃时候谈的是社保的问题	9	42	130	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	635.787	643.616	Zhang_Yu	male	native	{laugh} 在讨论选题,啊	9	42	131	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	672.116	684.215	Zhang_Yu	male	native	你不过是,小萌是长跑你是短跑,对对对,要求(())	9	44	140	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	780.285	781.942	Zhang_Yu	male	native	{laugh} 还诉苦呢	9	57	162	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	882.632	886.312	Liao_Xiao_Meng	male	native	{laugh} 那你有什么绝招吗,不管是这个方法上肢体语言上	9	62	186	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	2127.338	2131.336	speaker#13	male	native	特别是我们农民那(())	10	120	368	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	2304.524	2316.837	speaker#18	female	native	因为教育涉及到千家万户,所以,规范民办学校的办学行为,提高民办教育的办学整路,迫在眉睫	10	125	385	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	2469.692	2483.067	speaker#23	male	native	增加结构供应和(())不合理的呃需求,这方面政府其实可以有个带带头的作用,可以起这个作用	10	130	400	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	2546.683	2562.826	speaker#25	male	native	(())啊风险太大呀,所以我们一定要尽快的形成风险投资的机制,来推动高新技术产业的发展	10	132	407	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	3092.559	3117.522	Jiao_Hong_Chang	male	native	所以民主呢就是我们这些个他公共权力的合法性正当性是来自于人民的同意,可人民的同意呢我不能一同意以后你就五十年都是你了,我的同意就够五年我就要对你进行同意一次,实际上呢他在呃履行一个这个宪法规定的这么一个宪政体制下,那么他的一个权力的交接的(()),哎	12	151	491	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	3238.544	3265.067	Jiao_Hong_Chang	male	native	那么国际形势来说,你这个国家呢这个在呃这个什么呢,中国跟原来的国际地位不一样了,现在你是算一个大国了是吧,大国你是负责任的大国,然后你要国家形象国家地位大国的这种风采,还要这个和平发展,那么因为你一发展就跟其他国家争就是(())能源呀,什么这个都要发生这个这个竞争的	12	154	504	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080317_144102	0	3756.116	3779.756	Zhang_Yu	male	native	那么下面要进行第二个议程就是表决第十一届全国人民代表大会民族委员会法律委员会司法内务司法委员会教育科学文化卫生委员会外事委员会华侨委员会环境与资源保护委员会农业委农业和农村委员会主任委员副主任委员和委员的名单草案	21	173	577	filler	statement

@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080422.1519	0	1400.0	1500.0	speaker	unknown	unknown	我们希望学校尽快解决此事，不能耽误了我们的前程。”学生们说。	0	0	0		
+CNS_CMN_20080422.1519	0	1800.0	1900.0	speaker	unknown	unknown	记者看到考试通知书上特地注明了：考生凭本通知书(复印件无效)，按通知书上规定的时间和考点确认专项信息并缴纳考试费、报到和考试。	0	0	0		
+CNS_CMN_20080422.1519	0	1900.0	2000.0	speaker	unknown	unknown	确认信息时间是：2008年4月5日；面试时间是：4月18日；考试时间是：4月19日。	0	0	0		
+CNS_CMN_20080422.1519	0	2600.0	2700.0	speaker	unknown	unknown	当天他得知考生被拒绝考试后，便立即和几名校领导赶到考点，并和县、市、省教育局取得沟通，希望能给考生一次机会，但多次努力没有成功。	0	0	0		
+CNS_CMN_20080422.1519	0	3200.0	3300.0	speaker	unknown	unknown	学校的失误还不止于此，更有学生称，为了提高运动成绩，体育老师还给他们打了一种名叫“睾酮”的兴奋剂。	0	0	0		
+CNS_CMN_20080422.1519	0	3300.0	3400.0	speaker	unknown	unknown	“我们有3个体育老师负责体育加试，一个是体育教研组组长任老师，还有体育老师陈晓斌、陈启德。”一位同学反映，“4月12日中午，老师把我们带到校医务室，说每人打一针‘睾酮’，可以提高成绩。	0	0	0		
+CNS_CMN_20080422.1519	0	4300.0	4400.0	speaker	unknown	unknown	我们是从4月12日开始打的，一直打到4月17日，都是中午到校医务室打，由一位女校医给我们6人轮流打。”同学称。	0	0	0		
+CNS_CMN_20080422.1519	0	4400.0	4500.0	speaker	unknown	unknown	女校医称确实给学生打了兴奋剂	0	0	0		
+CNS_CMN_20080422.1519	0	4700.0	4800.0	speaker	unknown	unknown	记者来到校医务室，一位女校医说，确实给学生打过“睾酮”注射液。	0	0	0		
+CNS_CMN_20080422.1519	0	4800.0	4900.0	speaker	unknown	unknown	“这个药是学校体育老师陈晓斌让打的，药品也是他们提供的。”记者要求看注射过的针筒和药瓶，这位女校医拒绝提供。	0	0	0		
+CNS_CMN_20080422.1519	0	5000.0	5100.0	speaker	unknown	unknown	“那个药叫‘睾酮’，是为了让学生跑步跑得快有一个好的成绩，起到一种兴奋作用，对人体无任何伤害。”他称。	0	0	0		
+CNS_CMN_20080422.1519	0	5500.0	5600.0	speaker	unknown	unknown	张强等家长反映，给孩子打“睾酮”兴奋剂一事，他们都不知道，直到4月15日，孩子们要50元钱药费，并说老师称“睾酮”可提高成绩，让肌肉拉力强，他们才知道这是一种用于体育竞技中的兴奋剂。	0	0	0		
+CNS_CMN_20080422.1519	0	5700.0	5800.0	speaker	unknown	unknown	而孩子们向记者反映，自从打了“睾酮”后，他们已经出现不适症状。	0	0	0		
+CNS_CMN_20080422.1519	0	6000.0	6100.0	speaker	unknown	unknown	医院可以买到“睾酮”	0	0	0		
+CNS_CMN_20080422.1519	0	6100.0	6200.0	speaker	unknown	unknown	昨天下午，记者在新街口几家大药房了解到，营业员均称清楚“睾酮”是一种兴奋剂，但该药属于处方药。	0	0	0		
+CNS_CMN_20080422.1519	0	6200.0	6300.0	speaker	unknown	unknown	该药价格便宜，一支“睾酮”注射液价格仅1元左右。	0	0	0		
+CNS_CMN_20080422.1519	0	6500.0	6600.0	speaker	unknown	unknown	张主任说，睾酮是最重要的男性激素(雄激素)，主要由睾丸分泌。	0	0	0		
+CNS_CMN_20080422.1519	0	6800.0	6900.0	speaker	unknown	unknown	而“睾酮”作为一种兴奋剂属于最早的兴奋剂药品，不在管制范围内，但要取得这种药必须有医生的处方才能获取，但目前这种药因为价格低比较容易取得。	0	0	0		

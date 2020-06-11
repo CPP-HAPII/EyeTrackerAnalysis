@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0007.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	For the First Time - Pope Benedict XVI Holds Mass in New York	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	New York (AFP), 19th.	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Today is the three-year anniversary of his duty as Pope Benedict XVI of the Roman Catholic Church. At the same time he has become the first Pope to hold mass in New York's St. Patrick's Cathedral.	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	As the Pope slowly walked down the church's central aisle towards the altar, clergymen of churches rose one by one from the benches to kiss the Pope's holy ring.	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	A few minutes before, when the Pope exited from a black limo stopped on Fifth Avenue and walked up a flight of stairs towards the church, a crowd of several hundred crowded around the iron railing of this 150-year old church, erupting in applause.	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	Under the gothic spires, he was welcomed by New York's Mayor Bloomberg, then turned to hold up two hands to salute the crowd.	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	Soon after, to the several hundred clergymen in the church, the Pope said, that only in New York, "A long-term symbol of tolerance, could a middle class kid by the name of Bloomberg grow up and be invited to welcome the Pope."	0	0	0		statement
+AFP_CMN_20080420.0007.sgm	0	3200.000	3600.000	TEXT1	unknown	unkown	Bloomberg is Jewish. During his six-day visit to the US, the Pope made a special effort to reach out to Jews, including privately meeting with Jewish leaders and becoming the first Pope in history to ever pay a visit to a Jewish synagogue in the US.	0	0	0		statement

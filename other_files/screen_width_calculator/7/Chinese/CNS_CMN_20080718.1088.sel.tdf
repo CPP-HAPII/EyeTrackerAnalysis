@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.1088	0	700.0	800.0	speaker	unknown	unknown	在具体判断之前我们不妨先看两件事：一是最近有报道称中央领导人深入五省进行调查研究，其中一个主要课题是紧缩性货币政策所造成的中小企业资金短缺和生存压力问题，据说其背景是某些沿海省份多次上书中央，请求解决民营企业生存难题；二是整个上半年的CPI走势令人担忧，尽管6月份有所下降，但与年初温总理提出的4.8%的目标相去甚远，由于正值夏季——一年中CPI数据最容易降低的季节，与治理目标近3%的差距不能不让人担忧全年CPI以及宏观经济的形势到底会怎样。	0	0	0		
+CNS_CMN_20080718.1088	0	1100.0	1200.0	speaker	unknown	unknown	而放眼整个宏观形势，这种调整更显必要，不光是CPI，还有经济发展以及目标间的协调同样重要。	0	0	0		
+CNS_CMN_20080718.1088	0	3200.0	3300.0	speaker	unknown	unknown	顺便说一句，有人建议下半年用加息政策代替准备金率政策，请允许我再次引用美联储前主席格林斯潘的话：利率政策(对调整经济来说)是无效的，其中的简单道理就是：成本不决定(项目的)价值。	0	0	0		

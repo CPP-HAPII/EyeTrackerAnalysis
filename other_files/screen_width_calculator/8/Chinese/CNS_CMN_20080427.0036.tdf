@@ -1,0 +1,22 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0036.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	德国一小飞机在航展飞行时撞入人群 1人死多人伤	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 09:32 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月27日电	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	德国警方称，一架小型运动飞机26日在德国中部埃森纳赫附近的一个小型航展中降落后不久冲入人群，造成一名45岁的女售货员丧生，十人受伤，其中包括两名儿童。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	戈塔镇警方发言人称，飞机在沿跑道飞行时撞上了人，它随后撞上了儿童旋转木马。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	《图林根汇报》的记者称，小飞机在升空后不久航展广播就称飞机出现了故障。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	喇叭喊道：“中止起飞，中止起飞。”	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	飞机随后失控。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1293.750	1300.000	TEXT1	unknown	unkown	另一位目击者称：“飞机飞离地面一米，但它无法继续上升，它随后失控撞上观众席。”	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	现场当时有5000名观众，他们在埃森纳赫附近的基德尔运动飞机厂观看航展。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	飞行事故使人们遭受了重创。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	一位报纸记者在事故发生后称：“所有的人都站起来，他们默默无语，把手放在脸上。”	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	警方发言人称科赫利尔称，一名女子在这一事件中丧生，有三名男子受了重伤，其中包括飞行员。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	还有7人受了轻伤，其名包括两名9岁和14岁的儿童。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1875.000	1887.500	TEXT1	unknown	unkown	另有五名观众因受惊而接受了治疗。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1887.500	1893.750	TEXT1	unknown	unkown	所有伤员都已被送往医院，警方在运送伤员时还动用了救援直升机。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1893.750	1900.000	TEXT1	unknown	unkown	她说，当飞机撞上儿童旋转木马时，旋转木马并没有处于工作状态。为期两天的航展活动已被取消，警方仍在调查造成这一事故的原因。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	据德国媒体报道，图林根州州长迪特-阿尔特豪斯对这一事故表示震惊。	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	政府发言人称：“他正在密切关注事情的进展，向在这一事件中提供帮助的所有志愿者表示感谢。”((毕远))	0	0	0		statement

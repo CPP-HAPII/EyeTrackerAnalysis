@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89286-10737296	0	200.0	300.0	speaker	unknown	unknown	殷剑摘得桂冠为中国帆船创造历史 中国第44金2008年08月20日 来源：搜狐体育 作者：刘相平	0	0	0		
+cmn-WL-8-89286-10737296	0	300.0	400.0	speaker	unknown	unknown	搜狐体育讯 8月20日,在第29届奥林匹克运动会女子RS-X级奖牌轮赛中，殷剑不负众望得金牌。	0	0	0		
+cmn-WL-8-89286-10737296	0	700.0	800.0	speaker	unknown	unknown	30岁的殷剑是雅典奥运会银牌得主，由于国际帆联将北京奥运会的帆板型号由米氏级改为RS：X级，殷剑不得不转型，适应全新的规则。	0	0	0		
+cmn-WL-8-89286-10737296	0	2000.0	2100.0	speaker	unknown	unknown	经过一番较量，意大利38岁的老将森西尼在奖牌轮排名第一，英国的布里妮-肖排名第二，殷剑获得第3。	0	0	0		

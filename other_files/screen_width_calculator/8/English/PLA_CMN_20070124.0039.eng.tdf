@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070124.0039	0	10010.000	10019.900				Shenyang Military Region Regiment Incites New Soldiers' Growth with Thousand Pieces of Veterans' Diaries	0	0	0		
+PLA_CMN_20070124.0039	0	20010.000	20019.900				(Source: PLA Daily 2nd edition, Dispatch time: January 24, 2007 06:31)	0	0	0		
+PLA_CMN_20070124.0039	0	30010.000	30019.900				Staff Reporter, Shenyang, January 23, Liu Jianwei. I walked into the First Company of new soldiers of a Shenyang military region regiment this morning and saw dozen of new soldiers gathering in front of the computer to read the "Veterans' Diaries" on the LAN.	0	0	0		
+PLA_CMN_20070124.0039	0	30020.000	30029.900				According to information, the regiment organ tapped teaching resources around them and posted over 1,000 pieces of veterans' diaries on the LAN.	0	0	0		
+PLA_CMN_20070124.0039	0	30030.000	30039.900				New soldiers show great interest in this column. It has over 3,000 hits in less than two months.	0	0	0		
+PLA_CMN_20070124.0039	0	40010.000	40019.900				In recent years, once new soldiers joined the camp, the regiment will organize them to write army diary and encourage them to record their 'early soldier life' in their original flavor.	0	0	0		
+PLA_CMN_20070124.0039	0	40020.000	40029.900				Many soldiers have accumulated several thick books of diary in a few years.	0	0	0		
+PLA_CMN_20070124.0039	0	40030.000	40039.900				These diaries have become precious materials and many soldiers take the diaries with them when they retire from the army.	0	0	0		
+PLA_CMN_20070124.0039	0	40040.000	40049.900				When the veterans retired last yearend, some of them left their work dairies for the regiment as gifts.	0	0	0		
+PLA_CMN_20070124.0039	0	50010.000	50019.900				When the regiment leaders read the veterans' diaries, they found that a lot of the diary contents were full, accurate, vivid, and touching. If they recommended these diaries to new soldiers as selective materials, they would play an inspirational and teaching role to them.	0	0	0		
+PLA_CMN_20070124.0039	0	50020.000	50029.900				In order to do this, they selected and organized the diaries and launched the Veterans' Diaries special column on the LAN.	0	0	0		
+PLA_CMN_20070124.0039	0	60010.000	60019.900				Piece after piece of diary that record veterans' army life thus become the window through which new soldiers understand the troops and their 'treasure box' to resolve problems.	0	0	0		
+PLA_CMN_20070124.0039	0	60020.000	60029.900				New soldier Wang Mingming received the news of his mother's passing away less than a week after he was enlisted.	0	0	0		
+PLA_CMN_20070124.0039	0	60030.000	60039.900				During his sorrow, he saw the diary of veteran Squad Leader Zhang Minghui. He found that the veteran squad leader had similar experience as his. However, the veteran squad leader turned grief into strength and devoted fully to the study and training, thus making many achievements.	0	0	0		
+PLA_CMN_20070124.0039	0	60040.000	60049.900				Wang Mingming was deeply moved. He said, "My mother wanted me to do well in the army. The best way to repay my mother is to achieve."	0	0	0		
+PLA_CMN_20070124.0039	0	70010.000	70019.900				The regiment Political Commissar Hu Chongtao stated that under the influence of the veterans' diaries, new soldiers also pick up their pens and start writing their own army diaries one after another.	0	0	0		

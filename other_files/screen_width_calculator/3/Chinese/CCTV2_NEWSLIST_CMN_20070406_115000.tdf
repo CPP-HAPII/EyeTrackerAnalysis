@@ -1,0 +1,312 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', None]
+;;MM sectionBoundaries	[0.0, 89.009, 112.491, 121.128, 138.34399999999999, 185.10400000000001, 230.86699999999999, 312.74700000000001, 424.214, 459.77300000000002, 501.22199999999998, 517.50300000000004, 534.505, 551.83399999999995, 559.46799999999996, 571.28399999999999, 590.35199999999998, 695.81899999999996, 713.44200000000001, 721.77099999999996, 795.75, 852.56200000000001, 945.78099999999995, 1028.412, 1113.771, 1122.2170000000001, 1196.011, 1294.8330000000001, 1363.557, 1406.961, 1425.7840000000001, 1437.3579999999999, 1448.961, 1461.412, 1476.4469999999999, 1514.0889999999999, 1531.153, 1558.242, 1592.7139999999999, 1600.5599999999999, 1657.029, 1691.2080000000001, 1722.096, 1729.962, 1762.1900000000001, 1881.039, 1941.9369999999999, 1978.1859999999999, 2043.731, 2098.645, 2153.3820000000001, 2196.7510000000002, 2243.1399999999999, 2309.6390000000001, 2326.2240000000002, 2334.3600000000001, 9999999.0]
+CCTV2_NEWSLIST_CMN_20070406_115000	0	89.009	93.545	Shi_xiaonuo	female	native	全球资讯榜，一榜知天下，各位，中午好，我是史小诺，今天是四月六号，星期五。	1	1	1	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	93.545	98.301	Shi_xiaonuo	female	native	昨天上证中指首次站上了三千三百点，股市今天的表现如何呢？	1	1	2	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	98.301	103.930	Shi_xiaonuo	female	native	另外我们要提醒您地摊卖药，乱忽悠的现象又有抬头，老年人要尤其当心。	1	1	3	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	103.930	110.570	Shi_xiaonuo	female	native	而即使不抽烟吸二手烟也会对您的口腔健康产生威胁，还是远离烟雾缭绕的环境为妙。	1	1	4	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	110.570	112.491	Shi_xiaonuo	female	native	好，一起进入今天的全球资讯榜。	1	1	5	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	121.128	126.193	Shi_xiaonuo	female	native	要知天下，先看要闻，教育部提醒要慎对六百教师赴美任教。	3	3	7	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	126.193	129.838	Shi_xiaonuo	female	native	质检总局胡师傅无油烟锅存在欺骗行为。	3	3	8	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	129.838	133.333	Shi_xiaonuo	female	native	香港市场验出含有孔雀石绿的桂花鱼。	3	3	9	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	133.333	136.685	Shi_xiaonuo	female	native	法国一列车进站停过头，七十一人受伤。	3	3	10	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	138.344	149.556	Shi_xiaonuo	female	native	近日有消息说北京某公司经由美国华文教育基金会授权，将会招聘六百名对外汉语教育辅导员赴美国任教的报道，	4	4	12	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	149.556	153.104	Shi_xiaonuo	female	native	那么教育部日前提醒应该是审慎的对待这个项目。	4	4	13	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	155.026	164.548	speaker#1	female	native	教育部指出，鉴于我驻美使馆教育处联系，至今还没有查询到任何有关美国华文教育基金会的信息， 因此对这个基金会的存在表示质疑。	4	5	15	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	164.548	167.943	speaker#1	female	native	据了解，美国学校接受一名教师的程序十分复杂，	4	5	17	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	167.943	175.532	speaker#1	female	native	美国几乎没有一家机构有能力在签证和学校落实上能在短短一年之内安排多达六百名教师赴美任教。	4	5	18	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	175.532	184.032	speaker#1	female	native	教育部提醒，应聘者在报名和参加考试的时候，应该认真查询有关资料和信息，如果出现纠纷，要及时寻求法律保护。	4	5	19	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	185.104	193.598	Shi_xiaonuo	female	native	昨天，国家质检总局首次针对胡师傅无油烟锅事件表态说， 无油烟锅并非绝对不产生油烟，只是相对的油烟较少。	5	6	21	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	193.598	197.416	Shi_xiaonuo	female	native	如果是肆意的夸大无油烟效果，就属于虚假宣传。	5	6	23	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	197.416	203.354	Shi_xiaonuo	female	native	那么专家介绍说，目前市场上的无油烟锅主要是分成铝制和不锈钢制两种。	5	6	24	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	203.354	210.463	Shi_xiaonuo	female	native	胡师傅无油烟锅号称产品由天然紫砂和锰钛合金打造，存在欺骗消费者的行为。	5	6	25	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	210.463	213.787	Shi_xiaonuo	female	native	无油烟锅与普通锅的区别只是锅体的厚度，	5	6	26	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	213.787	221.169	Shi_xiaonuo	female	native	那么无油烟锅的锅底厚度呢一般是四毫米左右，普通锅则经常是小于两毫米。	5	6	27	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	221.169	229.845	Shi_xiaonuo	female	native	那么锅体厚度增加是改善了锅体的导热和蓄热性能，因此不易起油烟或者是减少油烟，但并非绝对不产生油烟。	5	6	28	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	230.867	237.886	Shi_xiaonuo	female	native	近日香港食物安全中心在大埔墟街市检验出了含有微量孔雀石绿的桂花鱼，	6	7	30	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	237.886	246.330	Shi_xiaonuo	female	native	香港特区政府短期内会要求内地输港的淡水鱼必须要加上封条，确保途中不会被渗入有问题的走私鱼。	6	7	31	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	247.542	259.094	speaker#2	male	native	香港食物安全中心四号公布早前在大埔墟街市鱼市抽取的桂花鱼化验结果， 发现三个样本含有微量的孔雀石绿，但属低水平，一般食用情况下不会影响市民健康。	6	8	33	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	259.094	266.680	speaker#2	male	native	但是，不少市民表示暂时不会再购买桂花鱼，并希望特区政府能加强监管，防止有问题的鱼类流入香港。	6	8	35	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	266.680	271.384	speaker#3	female	nonnative	<foreign lang="Cantonese">(())</foreign>	6	9	36	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	271.384	279.487	speaker#2	male	native	目前，食物安全中心正在追查桂花鱼的来源，并要求相关店铺停止出售，提醒业界不要从非正规渠道进口淡水鱼。	6	10	37	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	280.137	295.163	speaker#2	male	native	特区政府还表示，目前已经与内地相关部门达成协议，决定在一，两个月内，要求所有输港淡水鱼在内地鱼场上货后加上封条， 并要在文件上列明封条资料及输港的数量等，确保中途不会被混入走私鱼。	6	10	39	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	296.243	303.377	speaker#2	male	native	特区政府为加强监测，购买了一部价值五百万元的新仪器，这部仪器能够测试出极其微量的孔雀石绿。	6	10	42	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	303.377	311.629	speaker#2	male	native	据了解，根据香港法律，售卖含有孔雀石绿的食物包括活鱼是违法行为，最高可被罚款五万元及监禁六个月。	6	10	43	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	312.747	320.806	Shi_xiaonuo	female	native	被伊朗扣押的十五名英国水兵昨天安全抵达了伦敦希思罗机场，但是持续了近半个月的水兵事件似乎还并没有结束。	7	11	45	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	322.966	326.783	speaker#1	female	native	当天中午，这十五名士兵乘坐班机抵达伦敦希思罗机场，	7	12	47	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	326.783	333.763	speaker#1	female	native	有关方面并未召开新闻发布会，而是安排直升机直接将这些士兵送到了英格兰南部的德文郡空军基地。	7	12	48	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	333.763	338.585	speaker#1	female	native	在他里这些士兵们与他们的家人见了面，并接受了身体检查和军方询问。	7	12	49	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	339.124	347.034	speaker#1	female	native	据伊朗官方媒体报道，这些英军士兵在启程回国前还受到了伊朗总统内贾德送来的礼物，包括伊朗的手工艺品，糖果等。	7	12	51	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	347.543	351.735	speaker#1	female	native	士兵们虽然已经平安的归来，但这一事件似乎还没有划上句号，	7	12	53	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	352.244	361.589	speaker#1	female	native	在与这些士兵短暂会面以后，英国空军的一名高级官员表示， 只要注意到录像中这些士兵的说话方式就可以明显的看出他们并不是出于自愿的。	7	12	55	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	361.589	372.093	speaker#1	female	native	而伊朗最高领袖国际事务顾问美拉亚提昨天说，伊朗在这次事件上显示了毫无畏惧的保护本国领土完整的决心， 并通过宽恕英国士兵达到了目的。	7	12	57	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	372.093	378.031	speaker#1	female	native	他还说，英国首相布莱尔在伊朗政府宣布释放水兵的前一天曾向伊朗方面递交了道歉信。	7	12	59	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	378.031	385.227	speaker#1	female	native	此外，美国国防部长盖茨昨天否认了美国将释放今年一月被驻伊美军抓获的五名伊朗人的传闻。	7	12	60	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	386.739	392.168	Shi_xiaonuo	female	native	受获释英国水兵回国消息的影响，五号国际市场原油期货价格小幅下挫，	7	13	62	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	392.168	412.633	Shi_xiaonuo	female	native	而几乎在伊朗释放十五名英国水兵的同时，有俄罗斯媒体惊爆， 根据他们掌握的有关情报，美国将会对伊朗实施代号为蚊子叮咬行动的空中打击， 还言之凿凿的说，时间是在当地时间四月六号的凌晨四点， 也就是北京时间今天上午的十点钟到十一点左右，不过目前还没有任何动武的迹象。	7	13	63	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	412.633	423.453	Shi_xiaonuo	female	native	负责美军中东地区事务的美国中央司令部的司令威廉法伦也表示， 美国不会很快的打击伊朗，伊朗问题应该是通过外交渠道来解决。	7	13	67	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	424.214	429.947	Shi_xiaonuo	female	native	接下来关注两起事故，昨天一艘希腊油轮在爱琴海桑托林岛附近触礁，	8	14	70	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	429.947	436.502	Shi_xiaonuo	female	native	呃，船上将近一千两百名的乘客和近四百名船员已经是弃船乘救生艇逃生。	8	14	71	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	436.502	442.402	Shi_xiaonuo	female	native	这艘名为海洋钻石号的油轮在距离桑托林岛港口不远处触礁，	8	14	72	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	442.402	451.944	Shi_xiaonuo	female	native	求救信号发出以后，附近海域的十几艘船只前往救援，海军也出动了四架直升机，一架军用运输机和四艘军舰来参与救援。	8	14	73	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	451.944	458.501	Shi_xiaonuo	female	native	那么据希腊海运部门说这艘油轮上是有一千一百九十五名乘客和三百九十多名船员。	8	14	74	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	459.773	472.380	Shi_xiaonuo	female	native	在法国巴黎，东郊火车站也是险象环生，有一列满载乘客的火车在停车时撞上了轨道尽头的缓冲器， 造成七十一名乘客受伤，其中五十八人被送到医院观察治疗。	9	15	76	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	472.380	477.123	Shi_xiaonuo	female	native	事发时这列火车是挂载有九节车厢，车上是有六百多名乘客，	9	15	78	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	477.123	484.152	Shi_xiaonuo	female	native	好在事故发生时列车的时速只有不到十公里，大多数受伤的乘客都是只是骨折或者是扭伤，	9	15	79	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	484.152	489.593	Shi_xiaonuo	female	native	事故发生以后很多愤怒的乘客砸坏了驾驶室的玻璃，准备进去拿司机试问。	9	15	80	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	489.593	495.592	Shi_xiaonuo	female	native	警方随后赶来封锁了现场，调查人员透露火车司机有着十几年的驾驶经验，	9	15	81	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	495.592	499.949	Shi_xiaonuo	female	native	他认为事故的发生是火车本身的装置与车头出现问题所致。	9	15	82	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	501.222	503.189	Shi_xiaonuo	female	native	好，一起来看一组国内外的简讯。	10	16	84	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	504.881	511.920	speaker#1	female	native	中国人民银行昨天下午宣布，本月十六号起上调存款类金融机构，人民币存款准备金率零点五个百分点。	10	17	86	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	511.920	516.221	speaker#1	female	native	至此，商业银行法定存款准备金率已经达到了百分之十点五。	10	17	87	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	517.503	533.784	speaker#1	female	native	建设部日前发布建设部稽查办公室二零零七年工作要点， 表示今年将集中开展房地产市场秩序的专项政治工作。 突出对房地产企业恶意炒作，哄抬房价，违规销售，中介机构违规操作等违法违规行为的专项稽查。	11	18	89	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	534.505	540.502	speaker#1	female	native	昨天，一伙武装人员袭击了伊拉克北部城市摩苏尔的一处检查站，十名伊拉克士兵被打死。	12	19	93	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	540.502	545.890	speaker#1	female	native	在巴士拉一支英军巡逻队遭到袭击，数名士兵和一名科威特籍翻译身亡。	12	19	94	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	545.890	551.233	speaker#1	female	native	同一天，美军一架直升机遭到了重机枪涉及，在巴格达附近坠毁，机上四人受伤。	12	19	95	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	551.834	559.468	speaker#1	female	native	昨天清晨，一伙武装分子向泰国南部也拉府的一座清真寺内投掷了数枚手榴弹，造成至少十四人受伤。	13	20	97	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	559.468	564.172	speaker#1	female	native	印度南部城市科责科德昨天发生火灾，大火是从一家爆竹店燃起的，	14	21	98	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	564.172	570.593	speaker#1	female	native	火势很快的蔓延到了附近的一个市场，至少六人死亡，五十多人受伤，市场内的许多店铺都被烧毁。	14	21	99	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	571.284	578.477	speaker#1	female	native	位于印度洋上的法属留尼旺岛弗尔乃斯火山这两天继续喷发，火山喷出的岩浆切断了道路，损毁了房屋，	15	22	101	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	578.477	582.348	speaker#1	female	native	附近的居民被迫疏散，但是目前还没有伤亡情况报告。	15	22	102	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	590.352	599.243	Shi_xiaonuo	female	native	在去年票房和口碑都不错的当幸福来敲门没有让威尔史密斯夺取奥斯卡的小金人，但是这并没有影响他在好莱坞的发展势头。	16	23	104	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	599.243	605.022	Shi_xiaonuo	female	native	日前揭晓的好莱坞权势男星榜单上，这位黑人明星笑傲全球影坛。	16	23	105	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	606.383	610.773	speaker#4	female	native	威尔史密斯的上榜理由是成为好莱坞最具权势的男影星，	16	24	107	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	610.773	616.482	speaker#4	female	native	这些年好莱坞权势男星榜都是由汤姆克鲁斯和汤姆汉克斯轮流做庄，	16	24	108	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	616.482	621.389	speaker#4	female	native	梅尔吉普森偶尔以黑马姿态杀出，可两个汤姆如今境遇大不如昔，	16	24	109	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	621.389	627.395	speaker#4	female	native	汉克斯老了，克鲁斯成绩不佳，又惨遭太拉盟公司的解雇，魅力已经大不如前。	16	24	110	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	627.395	632.370	speaker#4	female	native	梅尔吉普森更是成为新科最愚蠢的美国人，好莱坞急需新偶像。	16	24	111	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	632.370	639.619	speaker#4	female	native	于是，美国新闻周刊最后在综合了多方意见之后得出结论说，现在的好莱坞已经成了威尔史密斯的天下。	16	24	112	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	639.619	645.060	speaker#4	female	native	最新统计显示，威尔史密斯的全球票房已经达到了惊人的四十四亿美元。	16	24	113	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	645.569	659.790	speaker#4	female	native	新闻周刊的评论说，威尔史密斯擅长各种片型，无论是科幻片，机械攻敌，动作喜剧，星际战警， 浪漫喜剧，全民情敌还是人物传记类的剧情片当幸福来敲门，通通既叫好又叫座。	16	24	115	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	659.790	668.001	speaker#4	female	native	尤其是他在当幸福来敲门的华丽转型，更是以一个落魄老爸的形象道出了一个在美国打拼中年人的辛酸历程。	16	24	117	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	668.540	675.677	speaker#4	female	native	无论电影制作人还是电影公司高层都这样评价威尔史密斯，他什么角色都能演，他的魅力已经超越了种族。	16	24	119	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	675.677	682.284	speaker#4	female	native	只要有威尔史密斯就不怕没有观众，这句话简直就是对今年这份榜单最中肯的评价。	16	24	120	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	682.284	687.297	speaker#4	female	native	同时在这个榜单上，靠加勒比海盗而风光无限的强尼戴普排名第二，	16	24	121	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	687.297	694.354	speaker#4	female	native	名不见经传的班史皮勒和帅哥布莱得皮特分列第三和第四，汤姆克鲁斯则紧随其后。	16	24	122	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	695.819	701.873	Shi_xiaonuo	female	native	在接下来的特别关注榜里，在四川有一辆无牌无照的三轮车竟然是塞下了十九名学生。	17	25	124	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	701.873	706.231	Shi_xiaonuo	female	native	在湖南有一个其他因为好奇结果右腿被铐，不得不求助消防。	17	25	125	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	706.231	711.483	Shi_xiaonuo	female	native	而在重庆有人摆地摊，卖药来乱忽悠，老年人可要担心了。	17	25	126	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	711.483	713.442	Shi_xiaonuo	female	native	好，更多内容一起来特别关注。	17	25	127	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	721.771	728.139	Shi_xiaonuo	female	native	黑校车的新闻我们暴过很多次，虽然被明令禁止但是还是有很多这样的黑车在暗中经营，	19	27	129	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	728.139	732.095	Shi_xiaonuo	female	native	在四川宜宾记者就发现了一辆车里面塞满了孩子的黑三轮。	19	27	130	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	734.139	739.152	speaker#5	female	native	在这条马路上，记者看到三位小朋友在吃力的推着三轮车便立即上前阻止，	19	28	132	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	739.152	747.679	speaker#5	female	native	而当记者靠近的时候却发现小小的一架三轮货车居然挤满了放学回家的学生，记者粗略的数了一下，一共有十九个。	19	28	133	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	756.464	760.830	speaker#5	female	native	正当记者想做进一步了解的时候，车主突然间强行将车推走。	19	28	135	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	773.432	779.870	speaker#5	female	native	车主理直气壮的称，是家长们让他这样接送孩子的，连前来盘问的警察也险些被他的车撞倒。	19	28	137	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	779.870	784.035	speaker#5	female	native	此时，了解到情况的家长也赶到了现场，陆续把自己的孩子接走。	19	28	138	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	784.035	788.192	speaker#5	female	native	为了防止意外发生，警察叫来车辆将留下的孩子送回了家。	19	28	139	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	788.192	794.579	speaker#5	female	native	而涉嫌严重违规的车主被带回派出所接受调查，这辆无证无照的三轮车也将被暂扣。	19	28	140	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	795.750	802.472	Shi_xiaonuo	female	native	再来看看紧急救援的场面，近日在湖南的衡阳有一个男孩因为好奇用捡来的手铐铐住了自己的右腿，	20	29	142	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	802.472	809.487	Shi_xiaonuo	female	native	眼见孩子的右腿被手铐紧紧的箍住却取不下来，情急之下的父亲只好求助当地的消防部门。	20	29	143	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	811.390	816.380	speaker#5	female	native	为了不伤到小孩，消防队员用毛巾将孩子脚踝部分包裹起来，再想办法开锁。	20	30	145	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	816.380	819.714	speaker#5	female	native	经过大家的商议，最后决定用切割机把手铐切断。	20	30	146	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	823.084	828.723	speaker#5	female	native	切割机与手铐摩擦温度十分得高，为了防止灼伤孩子，队员们不断的在毛巾上淋水降温。	20	30	148	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	830.576	835.787	speaker#5	female	native	切割机发出刺耳的声音却牵动每个人的心，因为害怕孩子脸上冒出了豆大的汗珠。	20	30	150	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	835.787	843.056	speaker#5	female	native	消防队员小心翼翼的操纵着机器，避免伤到孩子的腿，半个小时以后坚固的手铐终于被切断，安全取出。	20	30	151	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	844.981	850.389	speaker#5	female	native	在这里我们也要提醒各位家长，一定要告诫孩子有些东西是不能随便尝试的。	20	30	153	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	852.562	860.336	Shi_xiaonuo	female	native	到地摊上面买东西可要多一个心眼，要不然你很容易被虚假宣传给忽悠了，最近呢记者在重庆就亲眼目睹了这样的事儿。	21	31	155	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	862.378	869.021	speaker#5	female	native	记者刚到这条街上，就听见有人在用扩音器大声的吆喝，走近一看原来是有人在摆地摊，宣传膏药。	21	32	157	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	878.502	883.323	speaker#5	female	native	小贩说，他的要叫做万痛筋骨贴，不管身上哪儿疼，贴了就能好。	21	32	159	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	883.323	889.493	speaker#5	female	native	那想到不用花钱，很多人都排队来贴这种膏药，而摆摊的小贩也假装一本正经的给人看起了病。	21	32	160	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	898.282	907.625	speaker#5	female	native	为了证明自己的药疗效好，小贩还特地的介绍说某位大牌明星就使用过他们的药，而且还专门给他们打广告，每年的广告费就几千万。	21	32	162	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	915.521	921.502	speaker#5	female	native	听到这儿，不少围观者都赶到了附近的一家大药房，但是药房的人却说他们根本没有卖过这种药。	21	32	164	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	921.502	927.556	speaker#5	female	native	想买的人只好又返回了地摊，这个时候摆摊的人立刻变了说法，热情的推销起来。	21	32	165	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	934.574	939.240	speaker#5	female	native	记者随后查验了摆摊者提供的证件，发现里面一个单位的印章也没有，	21	32	167	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	939.240	944.600	speaker#5	female	native	而在相关的药品，食品监督网上记者也没有查到这种膏药对应的生产批准文号。	21	32	168	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	945.781	952.929	Shi_xiaonuo	female	native	为了多收一些频道不少居民都在自家的楼顶安装了一种叫做卫星锅的设备，实际上这是国家明令禁止的。	22	33	170	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	952.929	958.752	Shi_xiaonuo	female	native	但是记者最近在北京就发现了一个专卖卫星锅的地方，附近人又把它叫做大锅一条街。	22	33	171	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	960.985	965.832	speaker#5	female	native	在这条所谓的大锅一条街马路两边共有十多家商贩兜售大锅。	22	34	173	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	969.366	973.698	speaker#5	female	native	这样的卫星锅一口只要两，三百块钱，商贩卖一个能够赚几十块钱。	22	34	175	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	973.698	978.672	speaker#5	female	native	商贩说如果客人需要还可以上门安装，完全可以保证电视节目的质量。	22	34	176	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	978.672	983.724	speaker#5	female	native	看到记者犹豫，商贩明确说，这些卫星接受装置是国家允许销售的。	22	34	177	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	990.472	996.428	speaker#5	female	native	城管人员告诉记者，按照有关的规定个人和企业不允许私自生产和贩卖卫星接收装置。	22	34	179	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	996.428	1000.132	speaker#5	female	native	对于这些商贩，他们已经查处过很多次，但是屡查屡有。	22	34	180	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1000.743	1008.716	speaker#5	female	native	随后城管对查抄的小贩在附近的窝点，但是也只能是找到几个铁皮大锅，比较关键的解码器和高频头并没有藏在窝点。	22	34	182	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1008.716	1014.227	speaker#5	female	native	目前当地的执法部门决定从设备流通和生产的源头打击街头卖大锅的现象。	22	34	183	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1015.409	1024.036	Shi_xiaonuo	female	native	据专业人士说，境外的上星电视台很多都是加密，收费的， 隔段时间就会更改一次密码，消费者只有付费之后才能重新收看，	22	35	185	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1024.036	1027.791	Shi_xiaonuo	female	native	如果您是买了非法的卫星锅可能很快就会失效了。	22	35	187	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1028.412	1036.041	Shi_xiaonuo	female	native	来看一对感人的夫妻，彭奇伟是重庆钢铁集团有一名普通的员工，那么在半年前一次意外让他成了植物人，	23	36	189	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1036.041	1045.080	Shi_xiaonuo	female	native	就当医生对他治疗都失去信心的时候，他的妻子赖晓红却仍然坚持着，她用自己不离不弃的爱盼来了奇迹的出现。	23	36	190	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1046.832	1056.121	speaker#5	female	native	这个躺在病床上的人就是彭奇伟，半年前一次到外地出差的途中他遇到意外，摔伤了脑部神经，成了一个对外界毫无知觉的植物人。	23	37	192	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1056.121	1058.131	Lai_xiaohong	female	native	当时的时候我真的受不了，	23	38	193	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1058.131	1060.316	Lai_xiaohong	female	native	还，还有不愿意辞当时的工作，	23	38	194	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1060.316	1065.246	Lai_xiaohong	female	native	他们那个病人可以把人都赘死哎，真的是百分之八十都没人护，真的，	23	38	195	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1065.246	1068.939	Lai_xiaohong	female	native	当时也有人在劝我嘛，啊，那你们最好是放弃啊，	23	38	196	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1068.939	1071.608	Lai_xiaohong	female	native	你一，一个不是人照样过？	23	38	197	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1071.608	1079.023	Lai_xiaohong	female	native	但是我觉得俺这个心头他这个生命我觉得不可能放弃，我哪怕有千分之一的希望呢，我死活都要给他做最后的	23	38	198	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1079.023	1085.655	speaker#5	female	native	从此之后，赖晓红日日夜夜陪伴在丈夫的病床前，并按照医生的嘱托开始了辛苦的护理治疗。	23	39	199	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1085.655	1094.256	speaker#5	female	native	每隔几个小时给丈夫做按摩，活动四肢关节，每天几次擦洗身体，每天给丈夫听音乐，还经常给丈夫讲故事，说话。	23	39	200	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1094.256	1097.950	speaker#5	female	native	医生说这样可以刺激病人的神经，对恢复很有帮助。	23	39	201	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1097.950	1103.669	speaker#5	female	native	经过半年多的护理治疗，丈夫对外界刺激有了轻微的反映，这几天甚至可以说话走路了。	23	39	202	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1104.651	1106.972	Lai_xiaohong	female	native	首先谢谢你对我的支持啊，	23	40	204	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1106.972	1110.026	Peng_qiwei	male	native	首先谢谢你支西啦，真。	23	41	205	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1111.208	1113.771	Lai_xiaohong	female	native	起西啦，他支持不行。	23	42	207	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1122.217	1129.658	Shi_xiaonuo	female	native	先来关注一下今天的股市，央行昨天发布消息，将从本月十六号起提高存款准备金率零点五个百分点，	25	44	209	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1129.658	1132.321	Shi_xiaonuo	female	native	这个消息在资本市场引起了较大反映。	25	44	210	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1132.321	1138.568	Shi_xiaonuo	female	native	今天上午股市低开高走，沪深股指盘中双双再创历史新高，再次出现了大跌。	25	44	211	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1139.763	1144.851	speaker#5	female	native	今天沪深股市一开盘就出现了较大幅度的下跌，其中上涨指数下跌了四十五点，	25	45	213	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1144.851	1149.710	speaker#5	female	native	由于央行提高准备金率，直接冻结了银行可以放贷的资金约一千七百亿元，	25	45	214	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1149.710	1154.954	speaker#5	female	native	今天上午股市的八支银行股全部出现下跌，跌幅在百分之一至百分之二之间。	25	45	215	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1154.954	1161.663	speaker#5	female	native	但是，以山东新泽为代表的有色金属个股出现大涨，奥运，医疗和医药等板块轮番上涨。	25	45	216	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1161.663	1167.110	speaker#5	female	native	多数股票也跟着出现上涨，上涨指数一度达到了三千三百三十四点二二点，	25	45	217	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1167.110	1171.876	speaker#5	female	native	深圳成指一度达到九千二百九十一点八零点，双双再创历史新高。	25	45	218	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1171.876	1180.526	speaker#6	male	native	这次这这几次的比较密集的调，调整啊，实际上都是微调的方式来进行的，那么属于一种比较温和的调整。	25	46	219	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1180.526	1186.273	speaker#5	female	native	在债券市场方面，今天上午各品种几乎全线下跌，下跌幅度在一角到三角左右，	25	47	220	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1186.273	1194.349	speaker#5	female	native	而平常这些品种涨跌幅度也就在几分钱，国家指数出现了一条大大的阴线，相当于平常涨跌幅度的五倍到十倍。	25	47	221	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1196.011	1203.488	Shi_xiaonuo	female	native	个人购房贷款过程当中银行委托律师向消费者收取律师费的不合理现象，一直就是购房者不满意的焦点。	26	48	223	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1203.488	1210.657	Shi_xiaonuo	female	native	二零零七年的一月十七号，北京市有关行业协会规定银行委托律师应该是由银行来付费，	26	48	224	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1210.657	1220.162	Shi_xiaonuo	female	native	但是还是有银行私下收取了购房者的律师费，不过最近北京有一位消费者通过向北京海淀区消协投诉，已经讨回了一千元的律师费。	26	48	225	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1221.704	1227.412	speaker#5	female	native	消费者周先生购买了北京市海淀区的一套公寓，银行告知需要交纳一千元的律师费，	26	49	227	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1227.412	1229.549	speaker#7	male	native	因为当时我也不清楚啊，我就把这钱交了，	26	50	228	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1229.549	1238.079	speaker#7	male	native	后来呢今年今年听说是后来听说出了这么一个规定，可以这个钱不应该我们消费者出，所以我就来找到海淀区消协。	26	50	229	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1238.079	1254.120	speaker#5	female	native	原来，就在周先生交钱的三天前，也就是二零零七年一月十七号，北京市消协已经联合相关部门发布了公告， 明确指出，在个人住房抵押贷款过程当中，聘用律师时要坚持谁委托谁付费的原则，银行委托律师银行付费。	26	51	230	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1254.120	1261.980	speaker#5	female	native	由于周先生支付律师费的日期在公告之后，海淀区消协依据此公告的内容，经过调解为消费者讨回了律师费一千元。	26	51	232	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1261.980	1271.719	speaker#8	female	native	嗯，首先在个人申，嗯，申请办理房贷的过程中，律师其实主要是为银行来服务，而且也，也是由银行来委托律师的，	26	52	233	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1271.719	1276.095	speaker#8	female	native	所以以前呢这个银行律师费由消费者来承担其实是不公平的。	26	52	234	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1276.095	1286.905	speaker#5	female	native	海淀区消协提醒，在办理房贷过程中若银行委托律师却将律师费转嫁给消费者， 请您保留好单据和发票等物证，及时到消协进行投诉或是举报。	26	53	235	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1286.905	1293.772	speaker#5	female	native	同时他们还指出，对于一月十七号以前交律师费的购房者，银行方面退还已收取的律师费的可能性极小。	26	53	237	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1294.833	1311.411	Shi_xiaonuo	female	native	针对近日社会上流传的香蕉有毒的传言，海南省委宣传部，省农业厅昨天联合召开了新闻发布会，澄清相关的问题， 并且出台了对运输香蕉车辆进行过海补贴等一系列的举措，最大限度的减少蕉农的损失。	27	54	239	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1311.411	1319.950	Shi_xiaonuo	female	native	农业厅副厅长简纯林说，所谓的香蕉巴拿马病实际上就是香蕉枯萎病， 被感染的植株根本不会挂果，	27	54	241	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1319.950	1325.654	Shi_xiaonuo	female	native	吃香蕉会致癌的传言完全是无稽之谈，请消费者放心的食用海南香蕉。	27	54	242	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1325.654	1334.243	Shi_xiaonuo	female	native	海南省政府不仅召开了新闻发布会来辟谣，还安排了一百万元专项资金对运输香蕉车辆实行过海补贴，	27	54	243	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1334.243	1340.721	Shi_xiaonuo	female	native	从四月六号到十五号对运输香蕉过海的车辆按照每车三百元的标准进行补贴。	27	54	244	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1340.721	1354.277	Shi_xiaonuo	female	native	目前，海南的香蕉正是成熟的季节，但是自从三月二十一号以来海南香蕉的价格出现了不正常的大幅度的下跌现象， 从平均每公斤两元到三元跌至每公斤零点八元到一点四元，	27	54	245	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1354.277	1361.835	Shi_xiaonuo	female	native	那么希望海南省政府的这一系列的举措能够帮助海南香蕉市场尽快的恢复正常，减少蕉农的损失。	27	54	247	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1363.557	1372.102	Shi_xiaonuo	female	native	再来关注一条国际财经新闻，美国劳工部当天宣布，美国上周新申领失业救济人数增加了一点一万人，	28	55	249	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1372.102	1375.902	Shi_xiaonuo	female	native	投资者普遍认为这是美国经济增速放缓的一个表现。	28	55	250	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1375.902	1393.869	Shi_xiaonuo	female	native	昨天欧元兑美元汇率盘中交易一度曾经上升至两年以来的最高点， 从前一个交易日的一比一点三三六七升至一比一点三四二七， 盘中曾经升至一比，呃，一点三四四二的高位，为近两年以来的最高点。	28	55	251	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1393.869	1406.422	Shi_xiaonuo	female	native	此外， 投资者普遍预计，欧洲中央银行可能会再次将欧元区主导利率提高零点二五个百分点， 从而提高欧元的投资吸引力，这也促使欧元对美元的比价的下跌。	28	55	254	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1406.961	1408.542	Shi_xiaonuo	female	native	好，一起来看一组资讯快报。	29	56	257	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1409.786	1417.719	Shi_xiaonuo	female	native	建设部近日发出通知，要求新建居住区的自行车存车设施必须与住宅同步规划，同步建设，同时投入使用。	29	56	259	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1418.370	1425.123	speaker#1	female	native	北京市从即日起开始为建筑工地，大型餐饮等单位的来京务工人员免费接种麻疹和流脑疫苗。	29	57	261	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1425.784	1437.358	speaker#1	female	native	从五月一号起，中国大陆地区未满十四周岁或者是已满八十周岁赴美人员的非移民签证申请可以通过代传递服务递交， 而不需要亲自到使馆递交及面谈了。	30	58	263	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1437.358	1448.300	speaker#1	female	native	广西出台规定，从五月一号起招聘单位提供虚假招聘信息，做虚假承诺， 以及擅自泄露应聘者个人信息和资料的，将会被处以最高三万元的罚款。	31	59	265	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1448.961	1460.786	speaker#1	female	native	目前，除了九寨沟，黄龙等景区的门票价格从淡季票价调整为旺季票价之外， 从本月起，庐山，泰山，崂山，敦煌等景区的门票也都分别上涨了二十到四十元不等。	32	60	268	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1461.412	1470.002	speaker#1	female	native	上海浦东新区人民法院昨天一审宣判，反流氓软件联盟状告很棒小秘书软件所有者，上海很棒信息技术公司胜诉。	33	61	271	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1470.002	1473.670	speaker#1	female	native	这是反流氓软件联盟成立以来胜诉的第一起案件。	33	61	272	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1476.447	1484.672	Shi_xiaonuo	female	native	前天，一辆满载液化气的槽罐车在行驶过程中从桥上翻下， 造成两人死亡，并且发生了液化气的泄露，情况十分危急。	34	62	274	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1484.672	1486.490	Shi_xiaonuo	female	native	一起来看一下今天的图片新闻。	34	62	274	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1488.122	1494.133	speaker#1	female	native	事故发生时，这辆液化气槽车满载着二十吨液化气由库尔勒朝乌鲁木齐方向行驶，	34	63	277	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1494.133	1497.621	speaker#1	female	native	在距离托克逊县二十多公里处，车辆翻入桥下。	34	63	278	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1497.621	1503.058	speaker#1	female	native	车上的两人当场死亡，液化气槽车上的一个气管破裂，液化气缓慢的向外泄露。	34	63	279	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1503.058	1506.970	speaker#1	female	native	目前，当地有关部门正会同专家处置液化气泄露，	34	63	280	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1506.970	1513.448	speaker#1	female	native	国道三幺四线下行线仍在封闭当中，由库尔勒等地开往乌鲁木齐方向的车辆也没有恢复通行。	34	63	281	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1514.089	1527.304	speaker#1	female	native	同样发生在前天凌晨的还有一起山体塌方事件，一块巨石从山上滑落， 摧毁了重庆市衡水县境内的三幺九国道的公路边坡和路基，使得三幺九国道中断，所幸没有造成人员的伤亡。	35	64	283	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1527.304	1530.584	speaker#1	female	native	由于道路中断，不少旅客还只能在客车上过夜。	35	64	285	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1531.153	1533.176	speaker#1	female	native	再来看看这辆破烂不堪的大巴车。	36	65	287	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1533.176	1551.324	speaker#1	female	native	四月四号清晨当这辆大巴车行驶到湛江立交桥附近时， 被突如其来的两辆中巴和两辆小轿车包围，三十多个身份不明的行程者先用利器将大巴的右前轮扎破放气， 然后用刀械，木棍和铁管以及用报纸包的不明物体疯狂的砸向车的玻璃。	36	65	287	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1551.324	1557.703	speaker#1	female	native	车上的乘客纷纷逃跑，不少乘客由于躲闪不及而受了轻伤，目前案件正在处理调查之中。	36	65	290	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1558.242	1562.919	speaker#1	female	native	同样滋事的还有英国球迷，在欧冠的四分之一决赛的赛场上，	37	66	292	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1562.919	1566.955	speaker#1	female	native	罗马队在主场迎战来访的曼联队，比赛过程异常激烈。	37	66	293	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1566.955	1571.583	speaker#1	female	native	在上半场比赛即将结束的时候，罗马队球员塔戴伊为主队首开记录，	37	66	294	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1571.583	1585.619	speaker#1	female	native	本来就因为本队的斯克尔斯被红牌罚下而感到愤愤不平的曼联球迷，无法忍受主队球迷的欢庆， 向罗马球员和球迷出言侮辱，继而向隔壁看台投掷杂物，并与在场的罗马警方发生冲突。	37	66	295	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1585.619	1592.714	speaker#1	female	native	警察在现场使用了催泪瓦斯才平息了骚乱，在冲突中有曼联球迷被打得头破血流而被送往当地医院。	37	66	297	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1600.560	1610.286	Shi_xiaonuo	female	native	看过美国科幻电影蝙蝠侠的观众可能会知道，里面有一个叫做冰冻人的科学家为了给妻子治病， 就把妻子冰冻起来，等待未来医学奇迹的到来。	39	68	299	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1610.286	1613.490	Shi_xiaonuo	female	native	现在利用冰冻技术来治疗疾病已经成为了现实。	39	68	301	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1613.490	1622.771	Shi_xiaonuo	female	native	第三军大学西南医院采用这项新的技术把患者的肝脏在四摄氏度的温度下冷藏， 同时成功的将胰腺上的恶性肿瘤切除。	39	68	302	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1624.383	1630.371	speaker#1	female	native	这位王女士原本是一位胰腺癌患者，接受了这项新技术的治疗以后，身体正在逐渐的康复。	39	69	305	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1630.371	1635.827	speaker#1	female	native	据了解这项治疗新技术成功的关键之一就是医生研制出了一种新的保护液，	39	69	306	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1635.827	1641.334	speaker#1	female	native	它不仅可以代替人的血液进行血液循环，同时也不会影响手术后人体的正常功能。	39	69	307	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1641.334	1652.028	speaker#1	female	native	据介绍，手术中医生把这种保护液的温度控制在四摄氏度左右， 从而使肝脏在手术期间一直处于低温冷藏状态，为胰腺癌切除手术争取了时间。	39	69	308	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1652.028	1655.807	speaker#1	female	native	据了解这项新技术填补国内外治疗这种疾病的空白。	39	69	310	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1657.029	1665.166	Shi_xiaonuo	female	native	印度的科学家经过十几年的研究，日前成功的将动物的眼睛晶状体进行了再生，并且有望用到人类身上。	40	70	312	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1665.166	1676.471	Shi_xiaonuo	female	native	动物学家们先是将老鼠等哺乳动物的角膜切下一小部分， 然后再补充一定量的维生素 <foreign lang="English">A</foreign> ，过了一个半月发现背面虹膜生出了一个完整的晶状体。	40	70	313	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1676.471	1680.327	Shi_xiaonuo	female	native	现在科学家在老鼠和蝌蚪身上都进行了成功的实验，	40	70	315	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1680.327	1689.558	Shi_xiaonuo	female	native	这样自然的再生晶状体实验理论上可以用于人类的晶状体再生，但是还需要进一步的研究来证实它的安全性和可靠性。	40	70	316	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1691.208	1702.121	Shi_xiaonuo	female	native	别以为只有抽烟的人才会面临口腔健康问题，美国最新研究显示， 吸二手烟同样可能会导致牙周炎的患者的牙骨质的流失，	41	71	318	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1702.121	1708.368	Shi_xiaonuo	female	native	那么实验结果就发现生活在二手烟环境当中的实验鼠容易出现牙骨质流失，	41	71	320	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1708.368	1714.653	Shi_xiaonuo	female	native	不论是香烟中的焦烟，尼古丁和一氧化碳的含量高低与否，都会出现类似的结果。	41	71	321	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1714.653	1722.096	Shi_xiaonuo	female	native	那么研究人员因此建议说要想保持健康的生活方式，最重要的是要远离那些烟雾笼罩的地方。	41	71	322	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1729.962	1739.042	Shi_xiaonuo	female	native	喜欢英超球赛的观众可以关注一下明天零点十五分的曼城对查尔顿的比赛，这是英超本轮最受国内关注的一场赛事。	43	73	324	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1739.042	1748.913	Shi_xiaonuo	female	native	这两支球队分别拥有一名中国当前最优秀的球员孙继海和郑智，同时这也是孙继海和郑智在英超赛场上第一次的正面交锋。	43	73	325	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1748.913	1755.411	Shi_xiaonuo	female	native	孙继海和郑智在球队中的地位空前稳固，两名队员在周末首发的可能性都是非常之大。	43	73	326	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1755.411	1761.248	Shi_xiaonuo	female	native	虽然中国球员在英超历史上碰撞已有先例，但是这一次却可能是最为精采的一次。	43	73	327	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1762.190	1763.950	Shi_xiaonuo	female	native	来看一组关于动物的消息，	44	74	329	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1763.950	1775.516	Shi_xiaonuo	female	native	俗话说虎毒不食子，而在福建泉州东湖公园的一只六岁的母老虎娇娇， 它却把自己刚刚产下的三只虎仔当中的一只给吃掉了，这究竟是怎么回事儿呢？	44	74	329	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1777.367	1780.731	speaker#9	female	native	记者看到，虎妈妈娇娇在虎舍里不停的来回走动，	44	75	332	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1780.731	1784.896	speaker#9	female	native	大概十分钟之后，娇娇很有可能是走累了，于是便安静的躺到了角落里，	44	75	333	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1784.896	1787.559	speaker#9	female	native	而另外两只小老虎则在它的身上嬉戏。	44	75	334	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1787.559	1794.116	speaker#9	female	native	据工作人员说，小老虎本来有三只，但是前天有一只小老虎突然间病亡了，再后来就尸首全无。	44	75	335	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1794.116	1797.510	speaker#9	female	native	据工作人员估计，它很有可能是被老虎妈妈吃掉了。	44	75	336	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1797.510	1800.274	speaker#10	male	native	我就怀疑呢肯定是被这个母虎吃掉了，	44	76	337	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1800.274	1806.567	speaker#11	male	native	它们情况下它如果这个小老虎不是生病死亡，不在死亡的情况下它不会吃它的，它肯定是死亡以后才吃它的。	44	77	338	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1806.567	1812.042	speaker#9	female	native	和这只可怜的小老虎相比，山东淄博动物园的一对双胞胎小棕熊可就是幸福多了，	44	78	339	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1812.042	1816.107	speaker#9	female	native	熊爸爸，熊妈妈对它们是百般呵护，根本就不让饲养员靠近，	44	78	340	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1816.107	1820.850	speaker#9	female	native	以至于这两个小家伙都七十多天大了，饲养员还没搞清楚它们俩的性别。	44	78	341	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1820.850	1826.857	speaker#12	male	native	呃，目前不能靠近，所以不敢确定，不可确定，呃，是公是母。	44	79	342	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1834.814	1846.161	Shi_xiaonuo	female	native	而在以色列萨法里的动物园，一项以温顺闻名的一头公象突然发狂，猛烈的攻击起了一头母象， 直到把这头可怜的母象打死，一名参观者拍摄下了袭击的全过程。	44	80	344	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1848.061	1853.120	speaker#12	male	native	这头雄性的大象名叫由西，它重七吨，是世界上体重最大的家养大象。	44	81	347	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1853.120	1856.685	speaker#12	male	native	当时由西正在跟比自己大十五岁的母象阿塔里玩耍，，	44	81	348	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1856.685	1862.126	speaker#12	male	native	但是不知道什么原因，由西突然是野性大发，挥舞着鼻子攻击体态瘦小的阿塔里。	44	81	349	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1862.126	1868.959	speaker#12	male	native	由西把阿塔里顶翻在地，可是它还是不肯善罢甘休，不停的用鼻子和獠牙攻击奄奄一息的阿塔里。	44	81	350	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1868.959	1874.241	speaker#12	male	native	动物园的工作人员随后赶到，他们制止了由西的暴力行为，不过阿塔里已经不幸身亡。	44	81	351	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1874.241	1879.437	speaker#12	male	native	工作人员埋葬了阿塔里，并且把由西单独关了起来，等待动物专家的处置。	44	81	352	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1881.039	1886.368	Shi_xiaonuo	female	native	今年是农历猪年，准妈妈们为了生一个健康的宝宝，可谓是慷慨舍钱，	45	82	354	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1886.368	1891.960	Shi_xiaonuo	female	native	最近烟台的有一些精明的商家又从孕妇身上发现了新的商机，催火了大肚经济。	45	82	355	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1893.712	1899.189	speaker#1	female	native	在烟台几家影楼记者发现，越来越多的准妈妈希望在临产前拍一组照片留念。	45	83	357	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1899.189	1905.606	speaker#13	female	native	然后最近呢过来每个月过来拍孕妇照片的也挺多的，一个月能拍个十几个吧。	45	84	358	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1908.660	1914.139	speaker#14	female	native	感觉女人一辈子这么一次，感觉自己怀孕，呃，想留个纪念。	45	85	360	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1914.139	1923.182	speaker#1	female	native	市民殷女士怀孕已经有九个多月了，她这次来拍照除了想给自己留下一个美好的回忆外， 主要还是为了另一个人，那就是肚子里的小宝宝。	45	86	361	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1923.182	1935.119	speaker#15	female	native	啊，现在还有一个月要生了，我就是想把怀孕的时间拍一张照片留给以后的孩子看，想把自己最美丽的时候留给他看一下。	45	87	363	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1935.119	1940.795	speaker#1	female	native	据说有不少的准妈妈从刚一怀孕就在影楼照写真，每个月都来，一直拍到了临产。	45	88	364	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1941.937	1951.260	Shi_xiaonuo	female	native	再来关心一对刚刚做完手术的连体女婴，昨天在泰国的曼谷一对被成功分离心肺相连的连体女婴在公众面前亮相，	46	89	366	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1951.260	1953.370	Shi_xiaonuo	female	native	她们是在二月份接受分离手术的。	46	89	367	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1953.370	1961.621	Shi_xiaonuo	female	native	医生介绍说她们目前的状态稳定，只是姐姐的心脏仍然有一个漏洞，医生准备在她再大些时候再为其做修补的手术。	46	89	368	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1961.621	1970.651	Shi_xiaonuo	female	native	两姐妹是去年出生的，天生胸腹相连，心脏和肺部也是罕见的连在了一起，这种情况的发生几率仅为五万分之一。	46	89	369	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1970.651	1977.245	Shi_xiaonuo	female	native	手术当中，医生首先将两名女婴的心脏分离，而后将肺部和躯干分离，手术时间超过了十二个小时。	46	89	370	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1978.186	1985.826	Shi_xiaonuo	female	native	如今气候变暖已经成了全世界人关心的话题，那么最近日本的未来博物馆展出了一台高科技地球模拟仪。	47	90	372	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1985.826	1991.546	Shi_xiaonuo	female	native	通过十分生动的方式向人们拉响了全球变暖的警报，来唤醒人们的危机意识。	47	90	373	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1993.405	1996.779	speaker#12	male	native	这就是在向人们发出气候警报的地球模拟仪，	47	91	375	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	1996.779	2001.873	speaker#12	male	native	别看它只是用几根纤细的金属丝掉在半空中，但实际上它可有三十吨重。	47	91	376	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2001.873	2012.447	speaker#12	male	native	这个小地球的表面有一百万个发光二极管组成，不仅可以显示出地表蓝色的海洋， 还可以根据气象卫星传回的数据及时向人们展示大气层中云层的流动，	47	91	377	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2012.447	2018.759	speaker#12	male	native	每天这个小地球都会有几次特殊的表演，向人们展示上个世纪和这个世纪的气候变化情况。	47	91	379	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2018.759	2023.014	speaker#12	male	native	一九零一年，地球上还是一片黑暗，这说明气候还是凉爽的，	47	91	380	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2023.014	2028.600	speaker#12	male	native	但是随着时间的推移，地球仪越来越亮，越来越红，这说明地球的气温正不断的升高。	47	91	381	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2029.191	2033.312	speaker#12	male	native	地球的南极和北极尤其明亮，这说明两级的气温变化非常大。	47	91	383	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2033.312	2042.636	speaker#12	male	native	博物馆希望地球模拟仪的警示作用可以让人们真正意识到气候变化的严重后果， 并在生活中从点滴做起，为保护环境而不断努力。	47	91	384	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2043.731	2050.556	Shi_xiaonuo	female	native	电脑游戏中的血腥与暴力通常是吸引玩家的最重要的元素，有没有人想过去做一位和平的缔造者呢？	48	92	387	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2050.556	2058.384	Shi_xiaonuo	female	native	在美国的一款游戏当中游戏双方就能够模拟巴以双方领导人为解决持续了几十年的巴以冲突出谋划策。	48	92	388	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2059.927	2072.979	speaker#1	female	native	历史不可以重演，但这款名叫和平缔造者的游戏中，玩家就可以根据自己的兴趣模拟成为巴基斯坦或者以色列的最高领导人， 然后根据游戏中所提供的情景，比如发生了暴力冲突等来提出自己的对策。	48	93	390	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2073.488	2080.153	speaker#1	female	native	值得一提的是，游戏中的许多场景都是根据真实资料制作完成的， 比如巴以双方领导人历史性的会晤等。	48	93	393	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2080.153	2090.252	speaker#1	female	native	因此，玩家可以设身处地的提出自己的建议，而即便是没有更好的解决方案， 一场游戏下来玩家至少还能了解中东地区冲突不断的历史原因等。	48	93	395	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2090.252	2097.393	speaker#1	female	native	在游戏开发者看来，这比他们读书看报的效果要强很多，寓教于乐就是这款游戏的开发者所希望的结果。	48	93	397	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2098.645	2105.496	Shi_xiaonuo	female	native	我们小时候的玩具可能大部分都因为已经破旧而扔掉了，那现在想想那些童年的记忆还是非常的美好的，	49	94	399	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2105.496	2113.354	Shi_xiaonuo	female	native	要是能有一个专门修玩具的地方就好了，而在美国的纽约呢就有一家已经经营了一百多年的玩具医院，一起来看一下。	49	94	400	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2115.213	2121.419	speaker#12	male	native	走进这家玩具医院，您可能会被眼前景像吓一跳，因为架子上摆满了残缺不全的玩具娃娃零件，	49	95	402	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2122.018	2130.819	speaker#12	male	native	医院的主人也是这里的主治大夫欧文谢斯老人说，不管送来的玩具娃娃多么破旧，残缺，经过他的巧手医治都能够重获新生。	49	95	404	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2130.819	2136.071	speaker#12	male	native	这间玩具医院是谢斯家族在一九零零年创办的，到现在已经有一百多年的历史了，	49	95	405	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2136.071	2141.246	speaker#12	male	native	今年八十一岁的欧文谢斯从父辈手中接过医院的经营也已经有六十多年。	49	95	406	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2141.246	2147.269	speaker#12	male	native	多年来，经过欧文修复的玩具数不胜数，很多顾客在拿到修复后的玩偶时都非常的激动，	49	95	407	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2147.269	2152.313	speaker#12	male	native	对于他们来说，修复的不仅是普通的玩具，而是承载了童年记忆的好伙伴。	49	95	408	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2153.382	2160.234	Shi_xiaonuo	female	native	传统的戏剧表演都是在平面的舞台上进行的，但您见过演员悬在空中的戏剧吗？一起来见识一下。	50	96	410	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2161.526	2168.417	speaker#1	female	native	不说您可能看不出来，这家位于纽约的剧院正在上演戏剧失去的一些，是不是有种置身影院的错觉？	50	97	412	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2168.417	2171.721	speaker#1	female	native	这里的戏剧舞台是用三 <foreign lang="English">D</foreign> 视频发射装置设计的，	50	97	413	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2171.721	2176.113	speaker#1	female	native	整个舞台呈现出了立体的效果，整个戏剧场景也都上升到了半空中。	50	97	414	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2176.113	2181.249	speaker#1	female	native	这样像以前看不清楚演员下跪或平躺的镜头现在也可以一览无余了。	50	97	415	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2181.249	2189.385	speaker#1	female	native	需要变换场景的时候，不需要演员跑上跑下，也不需要暂时的拉起大幕， 只要把预先存在电脑上的场景轻轻的一点就可以了。	50	97	416	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2189.385	2195.555	speaker#1	female	native	更神奇的是，即使哪个演员临时不能出演，只要把事先录好的视频融合进来，就能完美呈现了。	50	97	418	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2196.751	2202.228	Shi_xiaonuo	female	native	爱养狗的朋友们可能遇到过这样的难题，如果家里人都是外出时，谁来照看小狗呢？	51	98	420	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2202.228	2206.746	Shi_xiaonuo	female	native	如今有一个名叫奥尔贝德的埃及小伙子已经想到了好办法。	51	98	421	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2206.746	2210.918	Shi_xiaonuo	female	native	他在首都开罗附近的一个大农场里面创办了一个豪华的狗旅馆。	51	98	422	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2212.306	2217.088	speaker#1	female	native	这家名叫米特曼彻尔斯的狗旅馆被当地报纸称为七星级旅馆，	51	99	424	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2217.088	2222.417	speaker#1	female	native	绿树掩映下的农场空气清新，环境优美，每个小狗都可以拥有自己单独的房间，	51	99	425	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2222.417	2225.926	speaker#1	female	native	它们还有共同的训练场地，餐厅，美丽的大花园。	51	99	426	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2225.926	2232.019	speaker#1	female	native	饱餐一顿之后，幸运的小狗们可以在花园里散步，消食，还可以练练自己的弹跳能力，锻炼身体。	51	99	427	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2232.019	2237.425	speaker#1	female	native	更奢侈的是，它们还有一个盛开着莲花的游泳池，可以在里面游泳，嬉戏玩耍。	51	99	428	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2237.425	2242.014	speaker#1	female	native	不过要享受这些服务，小狗的主人们每天要支付大约二十六美元的房费。	51	99	429	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2243.140	2249.125	Shi_xiaonuo	female	native	如果您喜欢好莱坞影星马克沃尔伯格就不能错过他最近主演的动作惊悚片狙击生死线。	52	100	431	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2249.125	2253.606	Shi_xiaonuo	female	native	据说看过这部电影的人都会被它跌宕起伏的情节所感染，大呼过瘾。	52	100	432	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2255.498	2260.400	speaker#12	male	native	身手一流的狙击手鲍伯在美国海军陆战队服役多年并且表现优异，	52	101	434	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2260.400	2264.141	speaker#12	male	native	但是在骨子里他并不喜欢这种整日与枪械为伴的日子。	52	101	435	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2264.141	2271.282	speaker#12	male	native	终于等到了退伍的日子，鲍伯便带着新任女友来到了偏僻的阿肯色州开始过上了向往已久的平静生活。	52	101	436	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2271.282	2280.616	speaker#12	male	native	然而幸福的时光刚开始没有多久，鲍伯的旧上司就找上门来，希望他能够重出江湖， 为即将举行街头演讲的总统在暗处担任保镖。	52	101	437	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2280.616	2285.547	speaker#12	male	native	一向忠诚善良的鲍伯耐不住劝说，答应执行他人生中最后一次任务。	52	101	439	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2285.547	2289.750	speaker#12	male	native	可是就在演讲的当天，总统的贴身保镖现场遭人暗杀，	52	101	440	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2289.750	2293.953	speaker#12	male	native	赶上前去追击凶手的鲍伯反而被警察当做刺杀总统的疑犯，	52	101	441	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2293.953	2300.472	speaker#12	male	native	被迫亡命天涯的他才恍然大悟，原来自己从一开始就已经陷入了别人精心策划的阴谋之中。	52	101	442	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2300.472	2306.084	speaker#12	male	native	为了洗脱罪责，鲍伯开始追查幕后真凶，上演了一场惊心动魄的绝地反击。	52	101	443	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2309.639	2318.782	Shi_xiaonuo	female	native	再来看一下沪深股市今天上午的收盘情况，上证指数是以三千三百一十七点五六点收盘， 下跌了一点五八点，成交金额是六百五十五点八亿元。	53	102	445	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2318.782	2325.183	Shi_xiaonuo	female	native	深圳成指是以九千二百一十五点零八点收盘，上涨了五十三点六一点，成交金额是三百五十六点九一元。	53	102	447	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2326.224	2333.664	Shi_xiaonuo	female	native	来看一条刚刚收到的消息，在今天上午中国银行业协会自律委员会宣布将会取消银行的跨行查询收费。	54	103	449	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2334.360	2340.297	Shi_xiaonuo	female	native	美国著名的演唱组合 <foreign lang="English">(())</foreign> 乐队的成员即将单飞，最近他们通过自己的网站来发布了这个消息。	55	104	451	report	
+CCTV2_NEWSLIST_CMN_20070406_115000	0	2340.297	2341.764	Shi_xiaonuo	female	native	我们一起来看一下他们的精	55	104	452	report	

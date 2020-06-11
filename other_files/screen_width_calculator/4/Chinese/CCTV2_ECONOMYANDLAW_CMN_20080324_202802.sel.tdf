@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 80.159999999999997, 564.50900000000001, 693.15099999999995, 1088.885, 1189.3789999999999, 1549.2170000000001, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20080324_202802	0	993.159	1004.075	Xue_Song	male	native	作案人操四川口音,口音方言是不可能伪造的,有没有可能作案人假造身份证明时,将前六位写成真实的呢	3	55	62	report	statement

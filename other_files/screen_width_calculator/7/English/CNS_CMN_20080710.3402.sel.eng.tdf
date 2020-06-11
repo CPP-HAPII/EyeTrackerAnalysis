@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.3402	0	800.0	900.0	speaker	unknown	unknown	He was chosen as the 6th candidate at the NBA Player Show by the Milwaukee Bucks team last year. He played 66 matches in the previous season, with an average score of 8.6 and 5.2 rebounds.	0	0	0		
+CNS_CMN_20080710.3402	0	900.0	1000.0	speaker	unknown	unknown	The Milwaukee Bucks decided on the 26th of last month to recruit the second player, Jefferson, of the New Jersey Nets by exchanging Yi Jianlian and Simons.	0	0	0		
+CNS_CMN_20080710.3402	0	1500.0	1600.0	speaker	unknown	unknown	Rodd Sohn said; "Although we are not a very strong team, Yi is still very young. He will start his second year of the NBA career. We expect that the young players will grow quickly".	0	0	0		

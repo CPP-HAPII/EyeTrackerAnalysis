@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Pingdu, Shandong Holds Continuing Education Training Class for Accountants	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Qingdao (People.com), April 18th (Song Xuechun Li Peiqiang) - Pingdu City, Shandong Province integrated the issuance and implementation of standards from the Ministry of Finance. Since last year, the city's teaching center's teacher resource training base and Pingdu City's finance department jointly held the continuing education training class for accountants.	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The training content is "business accounting standards" and "internal accounting control systems."	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	Three days in one period, so far there have been a total of 14 periods - more than 7000 working accountants are trained.	0	0	0		statement
+PDA_CMN_20080418.0005.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Through the training and exam, accountants improve their professional skills and theoretical knowledge, allowing working accountants to quickly become familiar with and get a grasp of the relevant rules of new business accounting standards.	0	0	0		statement

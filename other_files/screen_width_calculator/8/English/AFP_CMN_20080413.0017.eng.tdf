@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0017.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Former Secretary of State Powell: Siew-Hu Meeting Good News for Region	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	BO'AO, 13th (AFP)	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Following Taiwanese Vice-President Elect Vincent Siew's meeting yesterday with Chinese President Hu Jintao, former US Secretary of State Powell today praised the historical meeting as "good news for the region."	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	The 20-minute meeting yesterday between Siew and Hu Jintao is the highest level contact ever between Taiwan and China. Powell made the above statement after meeting with Siew.	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	Powell said at a press conference,"I've conveyed my assessment (to Vincent Siew), that being that this is all very good news for this region and the two sides have stepped onto a new road."	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	Powell also said,"I hope it's a road that leads to more interaction between the two shores. I also hope that it's a road that leads to new areas of cooperation."	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	Vincent Siew, who next month will take the office of vice-president, said Powell had stressed the regional significance of the thaw in relations between Taiwan and China.	0	0	0		statement
+AFP_CMN_20080413.0017.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	Vincent Siew said Powell "hopes this will not only be helpful toward the peace and stability of relations across the Taiwan Strait, but also be helpful to security and peace in the region."	0	0	0		statement

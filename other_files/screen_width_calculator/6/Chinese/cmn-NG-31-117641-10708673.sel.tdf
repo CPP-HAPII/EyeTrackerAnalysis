@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117641-10708673	0	0.0	100.0	speaker	unknown	unknown	关于mysql的一个疑问	0	0	0		
+cmn-NG-31-117641-10708673	0	200.0	300.0	speaker	unknown	unknown	用python连接mysql并执行完操作后，如果不断开连接会有什么后果（就是没有语句 connection.close() ） ？	0	0	0		

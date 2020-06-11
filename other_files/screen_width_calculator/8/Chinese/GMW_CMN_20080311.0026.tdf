@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0026.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	法军一架直升机在科特迪瓦坠毁	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	记者黄伟 2008-03-11	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华网阿比让３月１０日电　法国驻科特迪瓦“独角兽”行动部队１０日发表公报说，法军一架直升机当天在科中部城市布瓦凯附近坠毁，但没有造成人员伤亡。	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	公报说，这架直升机在布瓦凯以南一个水坝上空执行飞行任务时坠毁，两名机组人员安全逃离。	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	初步调查认为，驾驶员操作失误可能是坠机事故发生的主要原因 。	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	目前，“独角兽”行动部队已经就事故的具体原因展开进一步调查。	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	目前约有８０００名联合国维和士兵及１８００名“独角兽”行动部队士兵驻扎在科特迪瓦，以维护该国的和平进程。	0	0	0		statement
+GMW_CMN_20080311.0026.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	根据科总统巴博与原反对派武装达成的协议，随着科和平进程的发展，外国军队将分阶段逐步撤离科特迪瓦。	0	0	0		statement

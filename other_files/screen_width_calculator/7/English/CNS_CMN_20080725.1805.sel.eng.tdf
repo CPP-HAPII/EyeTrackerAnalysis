@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.1805	0	600.0	700.0	speaker	unknown	unknown	Members of the Standing Committee of the Central Political Bureau of the Communist Party of China, Wen Jiabao, Jia Qinglin, Xi Jinpin, Li Keqiang attended the forum.	0	0	0		
+CNS_CMN_20080725.1805	0	2500.0	2600.0	speaker	unknown	unknown	We need to strive to realize steady growth of total grain output, further implement and improve various policies to strengthen and benefit agricultures, take measures to reduce costs of agricultural production, and protect farmers' enthusiasm in growing grains.	0	0	0		

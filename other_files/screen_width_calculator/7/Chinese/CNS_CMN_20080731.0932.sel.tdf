@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.0932	0	0.0	100.0	speaker	unknown	unknown	深圳明起正式实施居住证制度 一字之差消除歧视	0	0	0		
+CNS_CMN_20080731.0932	0	100.0	200.0	speaker	unknown	unknown	2008年07月31日 08:49 来源：南方日报 发表评论	0	0	0		
+CNS_CMN_20080731.0932	0	1700.0	1800.0	speaker	unknown	unknown	有限资源配置的参考	0	0	0		
+CNS_CMN_20080731.0932	0	2900.0	3000.0	speaker	unknown	unknown	深圳的外来人口管理走过了三个阶段，1984年实行暂住证制度，2006年发布人口管理“1 5”文件，对暂住证管理制度进行改革，减少暂住证类别，降低门槛，简化程序，明确持证人享有的权利，8月1日正式开始实施的居住证制度将开始一个新的阶段。	0	0	0		
+CNS_CMN_20080731.0932	0	3100.0	3200.0	speaker	unknown	unknown	据该负责人称，自从国家收容条例废止之后，深圳的暂住证制度实施的效果已经不明显，即使是“1 5”文件出台后，深圳的人口管理依然没有太大的变化。	0	0	0		
+CNS_CMN_20080731.0932	0	3900.0	4000.0	speaker	unknown	unknown	居住证持有者将享受诸多市民待遇，办理以自愿为主；而暂住证没有优惠待遇，在一定程度上存在人格歧视，办证属于强制性。	0	0	0		
+CNS_CMN_20080731.0932	0	4100.0	4200.0	speaker	unknown	unknown	居住证规定办理时间为进入深圳30天内，改变了过去暂住证制度下凡暂住3日以上均需办理暂住证的“一刀切”管理模式。	0	0	0		

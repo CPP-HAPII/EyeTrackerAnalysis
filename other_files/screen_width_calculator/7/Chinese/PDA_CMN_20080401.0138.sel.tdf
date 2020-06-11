@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080401.0138	0	0.0	100.0	speaker	unknown	unknown	望海楼：达赖喇嘛又说谎了	0	0	0		
+PDA_CMN_20080401.0138	0	900.0	1000.0	speaker	unknown	unknown	讲此话前，达赖特地会见“藏青会”等组织，授意他们对这些不便直说的指令要心领神会。	0	0	0		

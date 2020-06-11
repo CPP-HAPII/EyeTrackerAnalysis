@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 148.33799999999999, 330.745, 1712.8030000000001, 9999999.0]
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	501.872	516.874	Shen_Hua	male	native	那个待遇呢存在这不公平现象,或者不合理,或者起码没有形成文字最后敲定,双方都能够约定 (()) 来讲允予认可,因此来就把矛盾带到天上,航空驾驶员我-我顺便讲一句,他们是非常辛苦的	2	2	34	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	550.503	582.685	Shen_Hua	male	native	对对对,尽管有油料储备但是来讲呢这种在空中类的这个-这个中呢,这种消耗方式来讲是恐怕来非常的这个 (()) 所以说我听到这个事件以后觉得来讲有点离谱, (()) 俗话讲有点离谱	2	2	38	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	709.541	718.738	Shen_Hua	male	native	所以这里面有一个劳资双方是不是来讲在这个问题上有一个 (()) ,有一个共识,有一个这个明文的这个规定说合同,呃有一个合同	2	2	50	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	823.793	833.518	speaker#3	male	native	不给呃资方出力, (())	2	5	62	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	976.397	1003.134	speaker#5	male	native	提点小建议哈,它切入正题,就说-就说今天这个航空那个罢工,那估且不说这个呃这个司机这个驾驶员那个罢工那个,他们两方谁是谁非,但我觉得呃这些驾驶员他也是被逼无奈,你想谁愿意拿自己的生命去开玩笑,是吧,他被逼到那个份上没办法了,他才冒这个险	2	7	78	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	1048.942	1063.660	Shen_Hua	male	native	这里面还牵涉另外一个问题,这个讲到劳工权益的问题,呃劳工的确应该有他们的权益,但是有的时候包括在美国你记不记得里根总统曾经把很多的来讲 (()) 的这个指挥员他们一起给解雇了	2	8	84	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	1082.157	1092.840	Shen_Hua	male	native	对对,好像也涉及这么个问题	2	8	88	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	1092.840	1113.463	speaker#6	male	native	呃你好,呃我想对主持人说的一句就是说,那个呃现在那政府已经就是说要-要严惩这个驾驶员嘛,是吧, (()) 呃就是说	2	9	90	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	1156.777	1168.181	speaker#6	male	native	(()) 这个-这个,呃看来中国-中国目前来说还没有罢工的自由是吧,还没有罢工的自由,好我们再来听听山西的吴先生有什么看法,吴先生	2	9	94	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	1221.170	1239.972	Shen_Hua	male	native	对都是 (()) 而且美国的航空业来讲是美国,美国现在不是很多行业都有工会,那么来讲的这个传统工会,传统意义上的工会,你像美国的航空公司都属于卡车公司,啊卡车工人工会,所以他这是传统型的	2	11	100	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	1399.487	1439.237	speaker#10	male	native	(()) 现在,如果说这个中航嘛他这种-这种罢工的这种正义的行动呢都遭到非议,甚至包括你们这个呃嘉宾的这种非议的话,那么西藏那-那些人他那个,他-他我们就不值得同情他,他,因为他们呃自己都已经呃拿-拿起这个确实干了一些这个烧杀抢的事情	2	15	120	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080403_223000	0	1657.955	1677.021	speaker#13	male	native	不过这个事我想到了另外一个问题,就是中国是个十亿多的一个普通的工薪阶层,包括那个普通打工者,和一些弱势群体,他们的这个合法权益包括他们的收入都是 (()) ,合法权益经常受到这个被不多呃呃被侵犯	2	20	144	filler	statement

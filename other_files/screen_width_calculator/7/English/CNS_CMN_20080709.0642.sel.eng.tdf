@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.0642	0	0.0	100.0	speaker	unknown	unknown	China becomes one of the world's top three in fields of photogrammetry and remote sensing	0	0	0		

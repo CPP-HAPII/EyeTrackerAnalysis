@@ -1,0 +1,45 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'report', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'filler', u'report', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 362.709, 374.32600000000002, 639.76400000000001, 1002.684, 1027.2349999999999, 3705.3240000000001, 4004.1060000000002, 4214.2740000000003, 4373.9089999999997, 4509.4369999999999, 4866.0749999999998, 4925.7460000000001, 4970.3950000000004, 5431.7849999999999, 6269.4970000000003, 6316.1149999999998, 6481.4470000000001, 6935.7629999999999, 7050.8729999999996, 7203.2489999999998, 7405.2929999999997, 7633.0510000000004, 7850.4719999999998, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	242.313	251.167	Zhang_Quan_Ling	female	native	那另外它也是一个发展的问题,尤其是一个可持续发展的问题,那在这份材料当中呢也说了这个多年以来中国政府在这方面的努力,文静	0	2	27	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	374.326	383.123	speaker#4	female	native	(()) 热点猜想,一,今年国家节能减排工作的重点是什么,主要任务是什么,猜想原因	2	7	46	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	849.574	865.909	Wen_Jing	female	native	对, (()) ,沙尘,对,嗯,嗯	3	10	93	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	985.771	1002.684	Zhou_Da_Di	male	native	实际上就是你的生活的一个具体条件,啊生活不但要有吃的,你还有地方呆呀,你得有呼吸呀,就是这样,啊蓝天绿水呀 {laugh}	3	10	112	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	1510.644	1520.045	speaker#9	male	native	另外你,呃你对奥运之后呃北京空气质量是什么样的一个状况你有没有什么样的一个期待,谢谢	5	17	143	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	2023.706	2044.991	speaker#11	male	native	呃我想问一下那个今年呃就是现在有什么呃进展,呃今年呃有希望就是成立这个部-部门,后来这个呃环境部对你们的那个减能减排的任务还有其他的呃环保的任务有什么好处,谢谢	5	21	167	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	2438.502	2447.484	speaker#6	male	native	请,第三排的 (())	5	28	187	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	2532.259	2562.747	Xie_Zhen_Hua	male	native	呃根据新颁布的这个节约能源法和已经颁布实施的环境保护法的有关的一些法规,这个对所有的新建项目这个要实行这个节能评估,要进行 (()) 评价,它这个不符合标准和规定的这样的项目呢是不可能这个新,从新再-再新的建设	5	31	191	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	2858.064	2868.390	Zhang_Li_Jun	male	native	同时呢我们还要求地方的环保部门要定期的对自动在线监测设备进行 (())	5	35	205	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	3622.217	3658.111	Zhang_Li_Jun	male	native	必须持之以恒的继续抓啊才能实现改善环境的,同时呢,除了这两个污染,啊两项主要污染物指标之外,现在影响环境质量的一些指标,比如水中的氨氮,大气中的氮氧化物,它的污染呢已经开始 (()) ,不削减这两个污染物啊,周围环境质量的改善也是受到影响的	5	39	242	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	3905.538	3913.397	Zhou_Da_Di	male	native	因为经济上从百分之七八以上在增长,每一个百分点都意味着经济的一个比较大的变化	6	41	271	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	4583.963	4593.681	speaker#18	male	native	呃太原也就四十几天,啊 (()) 是七天,七天呃二级天气只有七天,全天	10	47	326	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	4716.259	4730.538	speaker#22	male	native	建立以国家为主的多元化的这个补偿路子,呃以生态的这个贡献量和先知的这个发展量来这个 (()) ,设立这个生态的补偿专项,建立这个流域的生态补偿机制	10	51	334	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	4773.794	4792.400	speaker#23	male	nonnative	这个第二个呢是要求这个提高呃提高及扩大野生动物伤害这个呃专家呃 (()) 及至这个人的这个补偿呀标准,而且呢这个标准呢是非常低的	10	52	338	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	4792.400	4802.263	speaker#23	male	nonnative	你瞧现在这个标准,国家的标准,这个一头牦牛是一百五十块钱,这个标准低,而且是 (())	10	52	339	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	4848.270	4866.075	speaker#25	male	native	如投资的抵免,直接的优惠是是吧,还有加速 (()) 折旧等,对节能减排效益显著的重大设备和产品,实行一定期限的增值税的减免	10	54	342	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	5012.069	5021.111	Wen_Jing	female	native	但是这些措施呢毕竟是在奥运会期间这一短时期之内,我们所能够取得的,我们所能够采取的,那么之后呢 {laugh}	13	58	360	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	5402.471	5420.594	Zhou_Da_Di	male	native	这个当然这里我也希望这个今年秋天 {laugh} 夏秋天的时候,那个天公也要替我们做点美 {laugh} ,对,当然人为因素现在还是呃是更重要的了我想,我们充分做准备,对对对	13	62	405	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	5608.358	5622.041	speaker#27	male	native	就要从成从每个人做起,包括我们国家机关做起,我认为这是政协非常好,昨天我看见一支铅笔,啊是 (()) 形的铅笔,全部用复印-复印纸做成的啊	14	65	423	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	5622.041	5634.466	speaker#27	male	native	这个就 (()) ,我们的牙膏牙刷,不像过去的这个每天来一桶,啊现在 (()) 几天,那么给你一支牙膏一支牙刷,你可以用,用多了用回还可以再回去是吧	14	65	424	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	5684.122	5690.419	speaker#27	male	native	这个要全国政协委员,全国人大代表政府机关应该率先 (()) 办	14	65	427	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	5845.904	5854.806	speaker#30	male	native	其实发达国家可以对发展中国家的节能减排提供相应的资金和技术方面的 (()) ,它去购买,购买你的排污权,啊这是一个方面	14	68	438	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	5923.051	5938.561	speaker#31	female	native	拿日本来说,他们国民的那个 (()) 意识,啊一个我们说 (()) 意识说是有消极那一面,另外一个它就是感到自己是个小国,是一个资源非常贫乏的国家	14	69	444	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6253.688	6269.497	speaker#4	female	native	(()) 自然最生态,人民日报,广东团代表陈耀光表示,建设生态文明城市就不要搞太多无人区,而应该把绿地建在城里,建在老百姓的身边因地置宜,不需高价造绿	14	71	467	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6540.433	6562.602	Zhou_Da_Di	male	native	这个第二呢我觉得它还有一个意义,就是说我们要有一个机制,就使大家呢感到呃搞这个节能减排,啊搞环境保护有利于经济发展,有利于社会发展,甚至是和微观的这种经济活动的这个 (()) 性啊是能挂勾的	17	75	490	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6633.971	6647.208	Zhou_Da_Di	male	native	那么这个优惠是往这个呃搞这个污染产业这方面去-去给呢,还是往这个节能减排这边给,这也是很有这个政策调整的意义	17	75	500	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6735.663	6749.122	Wen_Jing	female	native	但是在过去我们见到这样的企业比较的多,它不在乎所谓的长远利益,他觉得我挣一把就可以走,我们见到有过这样的 (()) ,作为 (()) 嗯,对,嗯	17	75	515	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6828.984	6850.257	Zhou_Da_Di	male	native	对对对,这是另一个从环保方面的这个就是,就是所谓我们从经济学上,环境经济学它有一个环境外 (()) 的内部化问题	17	75	526	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6850.257	6864.801	Zhou_Da_Di	male	native	呃所谓环境 (()) 呢就是说你这个成本不算在环境污染还没算在工厂的这个直接成本里头去,所以治理环境就成了一个单独的成本问题了,啊尽管这个污染还是会对大多数人造成很大的损失	17	75	528	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6864.801	6881.641	Zhou_Da_Di	male	native	那么现在还讲就通过法律,通过这个收费,通过罚惩,惩-惩,奖惩啊,啊通过这个呃经济手段,啊和法律法规手段,使这个 (()) 啊进一步的内部化,啊	17	75	530	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6935.763	6958.069	speaker#4	female	native	循环经济是一种最大限度的利用资源和保护环境的经济发展模式,它以低消耗低排放高效率为基本特征,以尽可能小的资源消耗和环境成本获得尽可能大的经济效益和社会效益,从而使经济系统与自然生态系统的物质循环过程相互和谐,促进资源 (()) 利用	18	76	537	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	6958.069	6979.206	speaker#4	female	native	天津北江电厂是我国首批循环经济试点项目之一,采用了目前世界上最先进的百万千瓦等级 (()) 发电机组,一期工程两排机组投产后,可以使天津市发电总量在现有基础上增加百分之五十,一批能耗高污染大的小火电机组将被逐步淘汰	18	76	538	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7121.465	7136.116	speaker#4	female	native	所有商品零售场所将一律不得免费提供免费塑料购物袋,六月一号以后,违规继续生产超薄塑料购物袋的厂家,质检部门将予以责令停产,没收违法产品,没收非法所得罚款等处罚	19	80	550	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7316.780	7336.376	Zhou_Da_Di	male	native	嗯,对对对,这个呢这次 (()) 是两个,一个刚才说的超薄塑料袋,因为这个东西是肯定不能回用	20	81	568	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7336.376	7351.460	Zhou_Da_Di	male	native	是吧,呃没准没-没到家以前就破了,所以到处是天上乱飞,这个东西不合理,完全禁止掉,第二个呢它是这个不能免费啊提供这种啊购物塑料袋	20	81	570	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7362.747	7375.791	Zhou_Da_Di	male	native	所以这样的话你-你实际上你稍微有点钱,一毛钱一个,咱们说吧,我不知道以后会卖多少钱啊,这样的话至少你可以不要那个多余的那部分	20	81	574	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7454.403	7470.365	speaker#34	male	native	我一走进房间吧就看这个 (()) ,继续用这毛巾呢就放在架上,不需要用的话呢就扔在这筐里头,既环保呢又节约用水,这是我从家带来的香皂和那个牙膏啊,可以反复使用	21	85	583	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7470.365	7482.534	speaker#35	male	native	加快淘汰落后,只有很快的把落后的 (()) 装备淘汰完以后,才能够为节能减排奠定一个好的物质基础	21	86	584	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7482.534	7492.815	speaker#36	male	native	我们 (()) 最关注的就是对于风景区的治安环境的保护和自然文化的遗产的保护和利用	21	87	585	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7545.048	7552.965	speaker#40	female	nonnative	在做饭-饭的时候, (()) 做干饭啊,先把米来泡泡,泡泡三至五分钟,做米饭既省电又好吃	21	92	591	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7817.409	7828.917	Wen_Jing	female	native	{laugh} 好的,好,听了这句话了,也许对于下午我们所关心的这些问题呢在今天下午聚焦两会直播节目当中都会得到进一步的这个印证了	22	99	623	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_083701	0	7817.409	7828.917	Zhou_Da_Di	male	native	我-我估计会成立哈,我估计 {laugh}	22	99	624	filler	statement

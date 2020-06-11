@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1529	0	200.0	300.0	speaker	unknown	unknown	中新网7月1日电 据国土资源部网站消息，日前，国土资源部向受地震影响较大的四川、甘肃、陕西国土资源厅发出通知，要求三省在目前地灾防范的关键时期，结合灾区防灾实际，切实做好地灾防范工作。	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.3454	0	400.0	500.0	speaker	unknown	unknown	Making Diplomatic Arrangements in Secret for "Preemptive Strike by November or So"	0	0	0		
+CNS_CMN_20080710.3454	0	1100.0	1200.0	speaker	unknown	unknown	American neoconservative hawk Bolton (John Bolton) once predicted that Israel would attack Iran in the last few weeks of Bush's term.	0	0	0		
+CNS_CMN_20080710.3454	0	1200.0	1300.0	speaker	unknown	unknown	Bar (Shmuel Bar), a former Israeli military intelligence official, also pointed out that before America's November general election it may be an opportunity to attack Iran, because Obama could very likely win and will carry out talks with Iran after taking office. As a result, it could only make Israel's opportunity to attack Iran extremely slim.	0	0	0		

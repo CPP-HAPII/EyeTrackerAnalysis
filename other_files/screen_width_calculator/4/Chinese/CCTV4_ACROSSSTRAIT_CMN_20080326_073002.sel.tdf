@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 62.447000000000003, 114.864, 119.426, 195.40899999999999, 255.0, 285.70299999999997, 307.51499999999999, 311.74900000000002, 371.52800000000002, 471.84100000000001, 532.92200000000003, 593.14099999999996, 648.65599999999995, 697.81200000000001, 702.94600000000003, 763.43200000000002, 848.25999999999999, 1620.0550000000001, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080326_073002	0	289.797	295.688	Li_Hong	female	native	目前呢岛内已有台北市新竹市台中市都表示欢迎大熊猫安家落户	6	12	36	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080326_073002	0	333.937	340.312	speaker#2	female	native	台中市长胡志强二十五号说,台中虽然没有熊猫馆,但是他们可以马上请人修建	8	17	44	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080326_073002	0	729.948	739.229	Li_Hong	female	native	所以有台湾的评论就认为说,民进党当政的八年采取的是三光政策,就是把位置占光,把钱用光,把债借光	15	35	93	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080326_073002	0	818.680	828.212	speaker#2	female	native	也难怪有人批评民进党当政八年执行的是三光政策,就是把位置占光把钱用光把债借光	16	39	105	report	statement

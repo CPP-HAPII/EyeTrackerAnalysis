@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121113-9950869	0	0.0	100.0	speaker	unknown	unknown	Why don't the movie theaters replay some old classic movies?	0	0	0		
+cmn-NG-31-121113-9950869	0	100.0	200.0	speaker	unknown	unknown	Sender: saharawalker (Fei Shu Fei Tai Ran Chen Ai), Board: Movie Topic: Why don't the movie theaters replay some old classic movies?	0	0	0		
+cmn-NG-31-121113-9950869	0	200.0	300.0	speaker	unknown	unknown	Sent from: newsmth.net (Sun Apr 27 22:47:34 2008), internal	0	0	0		
+cmn-NG-31-121113-9950869	0	400.0	500.0	speaker	unknown	unknown	The movie jointly produced by J&J has quite good scenes of martial arts, but the plot is weak. The screenplay resembles a fairy tale and also alternates between the ancient and current times. Jackie Chan has played in umpteen similar movies.	0	0	0		
+cmn-NG-31-121113-9950869	0	500.0	600.0	speaker	unknown	unknown	10000BC, it is still playing the old story of the oppressed waging resistance.	0	0	0		
+cmn-NG-31-121113-9950869	0	900.0	1000.0	speaker	unknown	unknown	Call for classics!	0	0	0		

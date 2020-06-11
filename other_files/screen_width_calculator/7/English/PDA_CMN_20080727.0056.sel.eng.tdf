@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080727.0056	0	2100.0	2200.0	speaker	unknown	unknown	In 1980, Zhang Huamei from Wenzhou received China's first "Business License for Privately-owned Businesses", becoming the first legal privately-owned business after the reform and opening up.	0	0	0		
+PDA_CMN_20080727.0056	0	2600.0	2700.0	speaker	unknown	unknown	* The first large-scale liberalization of small commodity prices.	0	0	0		
+PDA_CMN_20080727.0056	0	2700.0	2800.0	speaker	unknown	unknown	On September 16, 1982, the State Council decided to liberalize prices of 160 kinds of small commodity and implement market regulation.	0	0	0		
+PDA_CMN_20080727.0056	0	2800.0	2900.0	speaker	unknown	unknown	* The first supercomputer that made over 100 million computations each second	0	0	0		
+PDA_CMN_20080727.0056	0	2900.0	3000.0	speaker	unknown	unknown	In December, 1983, the first "Galaxy" supercomputer of China was successfully developed by the National University of Defense Technology Research Institute. It could make more than 100 million computations each second and filled the gap in supercomputers in China.	0	0	0		

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.0321	0	600.0	700.0	speaker	unknown	unknown	春节前后，一些中文网站上流传巴西“预言家”朱瑟里诺(Jucelino)的“预言”，其中一条称：“9月13日，南宁与海南岛之间将发生9.1级大地震，引发海啸，造成数百万人死亡，并可能冲到日本”。	0	0	0		
+CNS_CMN_20080702.0321	0	1100.0	1200.0	speaker	unknown	unknown	海南属热带岛屿，容易让人联想到海啸;而地震的周期性和不确定性，又容易让人们想到灾难的降临。	0	0	0		
+CNS_CMN_20080702.0321	0	1500.0	1600.0	speaker	unknown	unknown	他开设了自己的网站，在其网页上有大量的广告和关于过去“预言”的描述，他的“预言”都来自他的“梦境”。	0	0	0		
+CNS_CMN_20080702.0321	0	3400.0	3500.0	speaker	unknown	unknown	共有7位地震专家接受了本报记者的现场采访，他们最后总结说，汶川大地震后，省地震局加强了监测预报，从每月的会商一度到达每日会商，最近连续召开了全省和华南地区的地震预报会商会，从目前的情况看，海南岛今年发生破坏性地震的可能性几乎为零，海啸就更不用说了。	0	0	0		

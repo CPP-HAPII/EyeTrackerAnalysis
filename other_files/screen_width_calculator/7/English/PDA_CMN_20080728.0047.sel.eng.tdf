@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080728.0047	0	200.0	300.0	speaker	unknown	unknown	At the second work conference of liaisons for domestic participants in the Expo held in Shanghai on the 28th, government representatives from 15 provinces, regions and municipalities across the country signed the agreement for domestic participants in the World Expo 2010 in Shanghai, China.	0	0	0		

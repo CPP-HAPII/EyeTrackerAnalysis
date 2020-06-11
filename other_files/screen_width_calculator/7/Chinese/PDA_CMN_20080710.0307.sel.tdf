@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080710.0307	0	700.0	800.0	speaker	unknown	unknown	基金会主席蒂奇在开幕致词中说，“歌唱是人类最初共同的母语”，如今歌唱仍可将不同民族、文化、宗教信仰的人们“聚在一起，建立并加深彼此的理解与友谊”。	0	0	0		

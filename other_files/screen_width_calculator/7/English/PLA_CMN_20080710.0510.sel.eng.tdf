@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080710.0510	0	1100.0	1200.0	speaker	unknown	unknown	When I visited Japan in May, the two sides issued the 4th Sino-Japanese political document, which presents a blueprint for the future development of Sino-Japanese relations.	0	0	0		

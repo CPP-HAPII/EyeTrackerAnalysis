@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.0373	0	3800.0	3900.0	speaker	unknown	unknown	凌晨5点，迎着第一缕晨曦，开始新一天的工作。	0	0	0		
+CNS_CMN_20080410.0373	0	4200.0	4300.0	speaker	unknown	unknown	虽然平时和她们关系挺好的，那次我却把头故意低下了，怕被同学认出。”	0	0	0		
+CNS_CMN_20080410.0373	0	6500.0	6600.0	speaker	unknown	unknown	这个1988年6月出生、大专毕业的女孩头发长长的，说起话来细声细气，皮肤白皙红润，脸上还带着些婴儿肥和几颗淡淡的痣。	0	0	0		
+CNS_CMN_20080410.0373	0	6600.0	6700.0	speaker	unknown	unknown	读大专的时候，邵洁燕没有住校。	0	0	0		

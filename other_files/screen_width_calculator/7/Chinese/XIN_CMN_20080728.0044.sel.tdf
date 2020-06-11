@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080728.0044	0	100.0	200.0	speaker	unknown	unknown	新华社福州７月２８日电 记者从有关部门获悉，受强台风“凤凰”影响，厦金海域的厦门－金门、泉州－金门和马尾－马祖３条海上客运直航航线２８日全部停航。	0	0	0		
+XIN_CMN_20080728.0044	0	800.0	900.0	speaker	unknown	unknown	来自泉州边检站的消息，受第８号强台风“凤凰”影响，泉金直航航线（泉州－金门）于２８日起暂时停航。	0	0	0		
+XIN_CMN_20080728.0044	0	1000.0	1100.0	speaker	unknown	unknown	据福建省气象台预报，今年第８号强台风“凤凰”预计将于２８日晚在福建省连江到厦门之间沿海再次登陆，将会给福建省带来强风暴雨，阵风最高达１１到１２级，部分县市的过程雨量可达１５０到２００毫米，局部超过２５０毫米。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080706.0531	0	400.0	500.0	speaker	unknown	unknown	于是，人们纷纷给地震台打电话，不知道是四川又地震了，还是周边地区发生了重大地震？	0	0	0		

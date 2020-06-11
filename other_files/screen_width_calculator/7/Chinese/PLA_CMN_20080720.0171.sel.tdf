@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080720.0171	0	300.0	400.0	speaker	unknown	unknown	据民航局空管局局长苏兰根介绍，从７月２０日起，民航局空管局和７个地区空管局的指挥中心，值班领导和工作人员全部到位，７月２０日至９月２０日为民航空管系统奥运保障的特殊时期。	0	0	0		
+PLA_CMN_20080720.0171	0	600.0	700.0	speaker	unknown	unknown	苏兰根说，进入实战状态后，民航空管指挥机构将严格执行２４小时值班制度，加快完善与上下级指挥体系的磨合。	0	0	0		

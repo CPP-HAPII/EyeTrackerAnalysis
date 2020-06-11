@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080726.0015	0	300.0	400.0	speaker	unknown	unknown	五个奥运“福娃”的足底被粘上一圈鬃毛，将其置于铜盘中，随着北京什刹海东官房胡同一号“家庭艺术馆”老艺人白大成在铜盘边缘有节奏的击打，形态各异的“鬃人”福娃开始欢快的舞动……	0	0	0		
+XIN_CMN_20080726.0015	0	500.0	600.0	speaker	unknown	unknown	北京市非物质文化遗产“鬃人”表演是老北京民间工艺中的一项绝活，出现于清代末年，至今已有一百多年历史，是受京剧及皮影戏的影响而产生的。	0	0	0		
+XIN_CMN_20080726.0015	0	600.0	700.0	speaker	unknown	unknown	因“鬃人”的制作是用胶泥做头和底座，用秫秸杆做身架，外绷彩纸（或色绸）外衣，并加少许棉花，然后依据人物故事画脸谱，绘服饰，底座粘一圈约二三厘米长的猪鬃，故名“鬃人”。	0	0	0		
+XIN_CMN_20080726.0015	0	1000.0	1100.0	speaker	unknown	unknown	１９１５年，北京“鬃人”参加“巴拿马万国博览会”获银质奖，从此名声大噪。	0	0	0		
+XIN_CMN_20080726.0015	0	1500.0	1600.0	speaker	unknown	unknown	白大成告诉记者，在“文化遗产人人保护，保护成果人人共享”为主题的今天，除了“雅”文化、精英文化外，具有鲜明民族性和地域性的民间文化遗产越来越多地被人们所关注。	0	0	0		
+XIN_CMN_20080726.0015	0	1600.0	1700.0	speaker	unknown	unknown	如今，什刹海东官房胡同一号“家庭艺术馆”小院的院门不断被叩响，作为这里的主人，我越来越多地看到“鬃人”表演这一中国民间艺术正走出国门，中国文化遗产保护也正在不断走向民间，走向大众。	0	0	0		

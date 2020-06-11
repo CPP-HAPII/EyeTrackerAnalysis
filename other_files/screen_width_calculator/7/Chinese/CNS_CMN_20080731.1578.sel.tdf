@@ -1,0 +1,22 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.1578	0	0.0	100.0	speaker	unknown	unknown	四川达州发现桃花水母 被称“水中国宝”(图)	0	0	0		
+CNS_CMN_20080731.1578	0	200.0	300.0	speaker	unknown	unknown	29日，达州市首次发现了大量距今约6.5亿年、被列为世界最高级别的“极危生物”———有“水中国宝”之称的罕见桃花水母。	0	0	0		
+CNS_CMN_20080731.1578	0	300.0	400.0	speaker	unknown	unknown	“我们在达县发现了大量桃花水母。”昨日上午，记者接到达州市水产局打来的热线后迅速赶到现场，只见工作人员用脸盆装着的水母如五角硬币大小，如飘落在水中的瓣瓣桃花，无头无尾，晶莹透亮，柔软如绸，在水中一张一缩，上下飘荡，悠然自得，就像空中缓缓升降的降落伞，在水池中显得异常优美。	0	0	0		
+CNS_CMN_20080731.1578	0	500.0	600.0	speaker	unknown	unknown	经过初步观察取样到网上比对后，工作人员惊奇地发现这种小生物和已发现的桃花水母完全一致。	0	0	0		
+CNS_CMN_20080731.1578	0	600.0	700.0	speaker	unknown	unknown	水产局副总工程师邓晓军告诉记者：“经过查阅资料和多位专家、教授的确认，在达县发现的这一珍稀生物确是桃花水母的一种。”在一个小水域内同时出现数量如此众多的桃花水母，实属罕见。	0	0	0		
+CNS_CMN_20080731.1578	0	700.0	800.0	speaker	unknown	unknown	专家、教授们纷纷认为，由于“桃花水母”对生存环境有着极高的要求，水质不能有任何污染，其活体更加罕见，极难制成标本，因此排除人为放养的原因。	0	0	0		
+CNS_CMN_20080731.1578	0	800.0	900.0	speaker	unknown	unknown	“桃花水母”的出现应该是水质改善的一个重要标志。	0	0	0		
+CNS_CMN_20080731.1578	0	900.0	1000.0	speaker	unknown	unknown	据介绍，桃花水母生长于温带淡水中，是地球上最原始最低等的无脊椎腔肠动物，属于世界保护级别最高的“极危生物”。	0	0	0		
+CNS_CMN_20080731.1578	0	1100.0	1200.0	speaker	unknown	unknown	桃花水母有重要的学术价值，如果这一珍贵物种的灭绝，不但是我国物种多样化的损失，也是我国古代记载的“桃花鱼”文化资源的永久丧失。	0	0	0		
+CNS_CMN_20080731.1578	0	1200.0	1300.0	speaker	unknown	unknown	目前，对保护桃花水母的呼吁，已引起国内学术界及各方面的关注。	0	0	0		
+CNS_CMN_20080731.1578	0	1500.0	1600.0	speaker	unknown	unknown	11种桃花水母9种在中国	0	0	0		
+CNS_CMN_20080731.1578	0	1600.0	1700.0	speaker	unknown	unknown	到目前为止，世界上的桃花水母已发现11种，除英国的索氏桃花水母和日本的伊势桃花水母(1922年被发现)两种外，其余9种均产在我国：	0	0	0		
+CNS_CMN_20080731.1578	0	1700.0	1800.0	speaker	unknown	unknown	*宜昌桃花水母仅分布于湖北宜昌，1907年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	1800.0	1900.0	speaker	unknown	unknown	*中华桃花水母分布在四川乐山、四川泸州、湖北宜昌等地，1939年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	1900.0	2000.0	speaker	unknown	unknown	*乐山桃花水母分布于四川乐山、湖北秭归、重庆等地，1939年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	2000.0	2100.0	speaker	unknown	unknown	*杭州桃花水母仅分布于杭州市，1980年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	2100.0	2200.0	speaker	unknown	unknown	*信阳桃花水母仅分布于河南信阳狮河港，1980年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	2200.0	2300.0	speaker	unknown	unknown	*四川桃花水母仅分布于四川都江堰青城山，1984年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	2300.0	2400.0	speaker	unknown	unknown	*秭归桃花水母分布在湖北秭归、重庆等地(随着三峡水库蓄水，秭归桃花水母栖息地已被破坏)，1985年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	2400.0	2500.0	speaker	unknown	unknown	*楚雄桃花水母仅分布于云南楚雄市，2000年被发现；	0	0	0		
+CNS_CMN_20080731.1578	0	2500.0	2600.0	speaker	unknown	unknown	*短手桃花水母仅分布于湖北秭归，2002年被发现。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080411.0007	0	0.0	1000.0	speaker	unknown	unknown	将近半数网站提供一些有关自杀方法的资讯,同时有将近五分之一的网站专门教人自杀,其中半数积极鼓励、倡导或协助网友了结生命。	0	0	0		
+AFP_CMN_20080411.0007	0	0.0	1000.0	speaker	unknown	unknown	整体而言,Google及雅虎搜寻到的自杀网站最多,MSN搜寻到的防治、协助、学术或政策网站最多。	0	0	0		

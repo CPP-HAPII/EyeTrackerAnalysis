@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0037.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	梁光烈会见朝鲜人民军空军司令	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 06:15:32   来源：解放军报第1版	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	本报北京4月22日电　记者吕德胜报道：国务委员兼国防部长梁光烈今天下午在八一大楼会见了来访的朝鲜人民军空军司令李炳哲一行。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	梁光烈说，中朝两国是山水相连的友好邻邦，两国人民之间有着宝贵的传统友谊，双方在政治、经济、文化、军事等领域一直保持着友好关系。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	中朝友谊已经成为双方共同的宝贵财富。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	中方对朝方始终坚持一个中国的立场表示感谢。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	梁光烈表示，多年来中朝两国军队交流不断，促进了各自军队的发展，也为两国友好合作关系的发展做出了贡献。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	中方愿与朝方一道加强交往、沟通与协调，为两国友好合作关系的发展做贡献，为维护地区和平与稳定做贡献。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	希望此次访问能够进一步增进两军特别是两国空军的友谊，推动各领域的务实合作。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	李炳哲说，朝鲜人民军空军非常重视与中国军队特别是中国空军发展友好关系，希望双方进一步加强交流与合作。	0	0	0		statement
+PLA_CMN_20080423.0037.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	中央军委委员、空军司令员许其亮和朝鲜驻华大使崔镇洙等会见时在座。	0	0	0		statement

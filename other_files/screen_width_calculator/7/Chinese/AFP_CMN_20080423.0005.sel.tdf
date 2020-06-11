@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080423.0005	0	0.0	1000.0	speaker	unknown	unknown	北海布伦特原油六月期货创下每桶一百一十六点七五美元盘中交易新高,终场比昨天收盘价上涨一点五二美元,创下一百一十五点九五美元历史新高价。	0	0	0		

@@ -1,0 +1,23 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080306.0251.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Deputy Fan Jinlong: Guiding the Flow of Surplus Funds to the Countryside	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Correspondent Zhou Yingfeng, 2008-03-06	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Xinhuanet.com, Beijing, March 6	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	950.000	975.000	TEXT1	unknown	unkown	Deputy to the National People's Congress and Mayor of Huai'an City in Jiangsu Province Fan Jinlong said, the "three rural issues" and excess liquidity are hot topics at the two conferences. In fact, these two topics can entirely be discussed in connection with each other.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	He advises the government to introduce target-oriented policy measures to attract surplus funds in the market to the countryside which is in real need of funds.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Fan Jinlong said, on one hand there is excess liquidity, and on the other hand the development of rural areas needs large amounts of funds.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	Speaking in specifics, there are five areas in which the countryside needs funds invested: First, agricultural production conditions,	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	including the water conservancy and irrigation, electric power supply, and other facilities that are needed for agricultural production.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	Currently, the agricultural facilities in some places have already shown signs of age, etc.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1293.750	1296.875	TEXT1	unknown	unkown	Second, infrastructure in rural areas.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1296.875	1298.438	TEXT1	unknown	unkown	Perfecting infrastructures such as roads, transportation, potable water, forestation, and so on is the fundamental work for improving production and living conditions in the countryside.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1298.438	1299.219	TEXT1	unknown	unkown	Third, high efficiency eco-agriculture.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.219	1299.609	TEXT1	unknown	unkown	High efficiency eco-agriculture is an important channel for increasing revenue for farmers. The output is high, so are investments; it requires the influx of large amounts of funds from the outside to support the management and development of agricultural industrialization.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.609	1299.805	TEXT1	unknown	unkown	Fourth, the construction of the new countryside.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.805	1299.902	TEXT1	unknown	unkown	China has many people but little land. The scattered villages need to be centralized in order to save on land resources.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.902	1299.951	TEXT1	unknown	unkown	Completing this work also requires financial support.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.951	1299.976	TEXT1	unknown	unkown	Fifth, farmers starting a business.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1299.976	1300.000	TEXT1	unknown	unkown	Whether the farmers start their businesses as growers, cultivators, transporters of agricultural products, or other agricultural services, they all need financial support.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Fan Jinlong believes that currently, excess liquidity has no way of flowing to the countryside mainly because investors need to consider their output-input ratios.	0	0	0		statement
+GMW_CMN_20080306.0251.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	Fan Jinlong recommends that the nation should introduce some policies of encouragement to motivate state-owned commercial banks to "stoop down," making them truly lay roots in the countryside and serve the needs of the "three rural issues;" to allow non-government credit to "float upward," giving it a legal status for operation; to allow the influx of industrial and commercial capital to the countryside, enabling it to reap reasonable returns from investing in projects related to the "three rural issues."	0	0	0		statement

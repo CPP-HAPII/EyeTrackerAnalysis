@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080409.0305	0	600.0	700.0	speaker	unknown	unknown	江西省气象台介绍，受高空低槽、中低层切变影响，８日傍晚开始江西省自北向南先后出现降雨，８日８时－９日８时江西全省平均降雨量２３．２毫米。	0	0	0		
+PLA_CMN_20080409.0305	0	700.0	800.0	speaker	unknown	unknown	据气象部门中尺度加密站监测，８日８时－９日８时江西全省有２２县市的７０个乡镇出现暴雨，以龙虎山天门山８６．５毫米为最大。	0	0	0		

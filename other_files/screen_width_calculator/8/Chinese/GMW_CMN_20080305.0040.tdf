@@ -1,0 +1,26 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080305.0040.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	永远铭记“为了中华之崛起” ――纪念周恩来同志诞辰110周年	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	本报评论员 2008-03-05	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	900.000	950.000	TEXT1	unknown	unkown	今天是敬爱的周恩来同志诞辰110周年的日子。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	在这个特殊的日子里,缅怀这位功勋卓著的伟人,重温那些感人肺腑的往事,我们心潮澎湃,难以平静。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	“周总理”,这是人民对他的亲切称呼。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	中国人民有幸哺育了这样一位好总理。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	他在历史天空画下的虹彩,在祖国大地留下的足迹,在人民心中刻下的烙印,是我们民族永恒的记忆 。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	周恩来同志生于“积弱不争”之中国、“外侮日迫”之时代。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	深重的灾难和危机,激起他强烈的爱国心和责任感。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	“为了中华之崛起”,这是他少年时代立下的誓言,也是他终生笃行的人生信条。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1587.500	1593.750	TEXT1	unknown	unkown	天下兴亡,匹夫有责。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1593.750	1596.875	TEXT1	unknown	unkown	“苟利国家生死以,岂因祸福避趋之。”	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1596.875	1598.438	TEXT1	unknown	unkown	为救国家危亡,为求人民幸福,他一生奔波,去呐喊,去革命,去建设。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1598.438	1599.219	TEXT1	unknown	unkown	为民族复兴的鸿图伟业,他不辞劳苦、不避艰险,迎难而上。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1599.219	1599.609	TEXT1	unknown	unkown	他走过革命的腥风血雨,走过战争的烽火硝烟,走过建设新中国的波澜壮阔,目光如炬,勇往直前。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1599.609	1599.805	TEXT1	unknown	unkown	他瑰丽多彩的生涯,就是中华民族走向繁荣富强的一个生动注脚。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1599.805	1600.000	TEXT1	unknown	unkown	一切“为了中华之崛起”,周恩来同志为我们树立了光辉的榜样。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	强国富民,这是中国人民百年的追求。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	作为中国人民的好儿子,周恩来同志的一生,就是“为了中华之崛起”而不懈奋斗的一生。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	我们缅怀周恩来同志的丰功伟绩,学习周恩来同志的伟大精神,就是要像他那样,“为了中华之崛起”发奋学习;“为了中华之崛起”埋头工作;“为了中华之崛起”矢志不移,鞠躬尽瘁。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	今天,改革开放和社会主义现代化建设事业取得了举世瞩目的成就,中华民族伟大复兴展现出光明灿烂的前景。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	我们在新的历史起点上,使命更加光荣,责任更为重大。	0	0	0		statement
+GMW_CMN_20080305.0040.sgm	0	2175.000	2200.000	TEXT1	unknown	unkown	我们一定要继承周恩来等老一辈革命家的遗志,在党的十七大精神指引下,高举中国特色社会主义伟大旗帜,继续解放思想,坚持改革开放,推动科学发展,促进社会和谐,永远铭记“为了中华之崛起”,为把我国建设成为富强民主文明和谐的社会主义现代化国家而努力奋斗。	0	0	0		statement

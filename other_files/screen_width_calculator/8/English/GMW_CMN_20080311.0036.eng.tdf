@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0036.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	South Korea Replaces First Astronaut Candidate	0	0	0		statement
+GMW_CMN_20080311.0036.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-11	0	0	0		statement
+GMW_CMN_20080311.0036.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Seoul (Xinhua News Agency), March 10th - (Reporters Li Zhengyu, Gan Yulan)	0	0	0		statement
+GMW_CMN_20080311.0036.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	On the 10th, South Korea's Ministry of Education, Science and Technology announced that due to violation of the rules during the training period by Ko San, South Korea's first astronaut confirmed in September of last year, the government has decided to replace him with the reserved female astronaut Yi So-yeon in April's voyage to the International Space Station on board a Russian manned spacecraft.	0	0	0		statement
+GMW_CMN_20080311.0036.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	On the same day, Lee Sang-mok, chief of Korea's Ministry of Education, Science and Technology's Fundamental Research Department said at a news conference that, on the 7th, Russia's space agency reported to the Koreans that Ko San violated regulations during the training period and suggested to have Yi So-yeon replace Ko San.	0	0	0		statement
+GMW_CMN_20080311.0036.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	South Korea decided to accept this suggestion.	0	0	0		statement
+GMW_CMN_20080311.0036.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	Lee Sang-mok said that since Yi So-yeon has been jointly attending the related space training with Ko San all along as a reserve astronaut, Yi So-yeon's replacement of Ko San for this space mission will not affect April's space plan.	0	0	0		statement
+GMW_CMN_20080311.0036.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	According to South Korea's new decision, Yi So-yeon will leave for the International Space Station aboard a Russian manned spacecraft in April 2008. She will become the first South Korean and female astronaut to enter space.	0	0	0		statement

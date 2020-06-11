@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 215.727, 397.45400000000001, 1728.558, 9999999.0]
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	573.428	595.324	speaker#5	male	native	呃你好,嘉宾好,我认为这次抵制家乐福法国货这种行为,一个是表现出中国民众当中在政治上非常-非常的愚昧这是第一个,愚昧很愚蠢,再一个就是别有用心的人在参与,在 (()) 在鼓动这件事情	2	5	30	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	635.144	655.937	speaker#6	male	native	喂,我姓张,呃你好,我想关于你们访问的题目,刚才我听国内新闻也是,关于姜-姜俞女士关于这个网-网民,关于抵制呃法国货的问题姜俞 (()) 奈何的一个表示	2	6	34	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	701.713	720.737	speaker#6	male	native	实际上呢这个问题我想呢应该还是赞成白岩松先生的那个观点,市场经济,而且冷静客观的,什么是民族主义,什么是爱国主义,我这个我想中国政府是不会容忍这种事情发生的,这个发生对中国没有好处,谢谢	2	6	42	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	742.143	754.648	speaker#7	male	native	这是一条,再一个就今天我看了一篇报导是那个新华社主办的那个呃 (()) 报早报啊上面写的呃报道一条这个记者去采访那个家乐福	2	7	46	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	816.851	838.195	speaker#9	male	native	唉您好,我就感觉到就是说现在我们国内就是说互联网上我不认为他们那些东西都是代表中国主流名义的,因为说老实话中国也没有一个呃公开的第三方的非官方的民意调查机构,其实现在中国的互联网是很不健康的,满天都是 (()) 着一些什么吸引眼球的东西,这是第一个	2	9	54	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	889.613	903.057	Sun_Cheng	male	native	好谢谢电话,一零八一零八六六八三七五一六一,我们希望听到各种样观点,另外一个免费的电话号码是一零八七一零八六六八三七五一六一,上海姚先生	2	10	61	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	940.372	960.383	speaker#10	male	native	另外这个美国包括许多这个-这个世界上的一些民主自己的国家,这个在中国 (()) 投资做生意,那么中国政府是不是都要跟他们断绝生意来往呢,不要让他们去投资好了,我想这个中国的老百姓,中国的有些人确实是愚昧无成,愚蠢到了这个极发啊,呃谢谢啊	2	10	70	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	1181.564	1196.749	speaker#13	male	native	好的谢谢主持人,呃可以,呃是啊,我从网上我也跟其它的 (()) ,我们当地没有相关的了	2	13	92	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	1196.749	1232.755	speaker#14	male	native	唉您-您好,唉我对于家乐福的这个问题还是我重复我在网络上发表的看法,就是首先法国它 (()) 宣布呃抵制北京奥运会,呃所以说呃我认为中-中国呃民众不应该把呃事情闹的呃太僵跟法国	2	14	94	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	1278.786	1300.476	speaker#15	male	native	喂-喂你好,主持人你好,呃你好,听到我听到我吧,呃我-我-我想这美国这样, {cough} 呃是那个尊敬的听众朋友,大家不要,大家不要再-再蠢了	2	15	100	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	1325.810	1343.728	speaker#15	male	native	我们一次一次的被共产党所欺骗,这不要-不要-不要,不要-不要再干这种蠢事了,家乐福-家乐福都是供货的都是我们中国--中国国内厂商,你去抵制 (()) ,抵制就是我们抵自己,而且--	2	15	104	filler	
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	1391.018	1404.904	speaker#16	male	native	(()) ,合肥-合肥一个家乐福超市呃已经 (())	2	16	110	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080418_223000	0	1577.436	1597.010	speaker#19	male	native	所以说我并不说要抵制家乐福抵制法国多少名牌,但至少我们要抵制一段时间,我要-要世界知道我们中国人民不是说呃不是那样很落后的很好欺负的,而不是说呃像外国的媒体,西方媒体希望的那样,希望中国人这一次是 (())	2	19	130	filler	statement

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117646-10710034	0	300.0	400.0	speaker	unknown	unknown	90分钟后，D23次全体 乘客转乘一辆新调的动车出发。	0	0	0		
+cmn-NG-31-117646-10710034	0	500.0	600.0	speaker	unknown	unknown	昨晚7时10分许，D23次列车仍停在通州双桥附近。	0	0	0		
+cmn-NG-31-117646-10710034	0	1300.0	1400.0	speaker	unknown	unknown	昨晚7时30分，D23次全体乘客转乘一辆新调动车。	0	0	0		
+cmn-NG-31-117646-10710034	0	1600.0	1700.0	speaker	unknown	unknown	天大求实BBS bbs.tju.	0	0	0		

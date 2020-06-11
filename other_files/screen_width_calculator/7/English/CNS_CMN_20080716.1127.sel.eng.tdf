@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.1127	0	0.0	100.0	speaker	unknown	unknown	Olympic Gold Medal Candidate Fencing (4): China-born Luan Jujie draws her sword again	0	0	0		
+CNS_CMN_20080716.1127	0	700.0	800.0	speaker	unknown	unknown	For the Beijing Olympic Games, she once again, at the age of more than 50-- "which is old for sporting circles"--travelled to competitions around the world taking part in the gruelling Olympic point race. In the end, she won one of the two competitor tickets assigned to all of North America for the fencing competition at the Beijing Olympic Games.	0	0	0		

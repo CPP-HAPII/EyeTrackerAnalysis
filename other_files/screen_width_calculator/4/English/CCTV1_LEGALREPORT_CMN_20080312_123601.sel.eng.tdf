@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 370.529, 395.69600000000003, 405.81, 438.13400000000001, 464.48500000000001, 774.226, 794.96299999999997, 938.56799999999998, 1147.9349999999999, 1282.213, 1376.8119999999999, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080312_123601	0	898.991	907.458	speaker#15	female	native	Everyone in the family was in one house, and that was also our (()) city.	7	29	41	report	statement
+CCTV1_LEGALREPORT_CMN_20080312_123601	0	1273.836	1282.213	speaker#15	female	native	Everyone in the family was in one house, and that was also our (()) city.	9	37	67	report	statement
+CCTV1_LEGALREPORT_CMN_20080312_123601	0	1348.560	1360.570	speaker#1	male	native	If you have difficulties, find the police {laugh}.	10	38	76	filler	statement

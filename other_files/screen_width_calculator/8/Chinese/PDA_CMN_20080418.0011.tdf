@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0011.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	美国国务卿赖斯:朝鲜可望月底前提交核计划清单	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	900.000	950.000	TEXT1	unknown	unkown	美国国务卿赖斯十七日在记者会上表示，根据美朝代表新加坡会谈的结果，美计划近期派员访朝，将就朝全面核计划清单进行最后谈判。	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	如果谈判进展顺利，朝鲜可望于本月底之前提交完整的核计划清单。	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	赖斯说：“我们是否已经依照六方会谈框架取得朝核问题的进展呢？是的。	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	我们是否仍然有理由保持谨慎与怀疑呢？是的。”	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	赖斯对六方会谈这一机制表示了称赞，她说，这种框架下的会谈为会谈参与各方在推动朝鲜半岛无核化和防止核扩散找到了共同点。	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	在当天的记者会上，对于有关朝鲜弃核进程中有哪些具体问题，赖斯并没有回答。	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	昨天，美国国务院官员曾表示，美国正在建立一个新机制，用来仔细审查朝鲜关于核武清单所作的所有通报。	0	0	0		statement
+PDA_CMN_20080418.0011.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	此间媒体对此曾评论说，这显然是在暗示美国有可能很快接收到朝鲜方面提供的全面核清单。((记者 邱江波))	0	0	0		statement

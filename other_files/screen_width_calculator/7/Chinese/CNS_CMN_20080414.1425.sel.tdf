@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080414.1425	0	700.0	800.0	speaker	unknown	unknown	房地产、金融类股票指数逼近跌停。	0	0	0		
+CNS_CMN_20080414.1425	0	1000.0	1100.0	speaker	unknown	unknown	今日，地产龙头万科A、金地集团、保利地产全部跌停，有交易的七十四只房地产股，有三十三只跌停。	0	0	0		
+CNS_CMN_20080414.1425	0	1100.0	1200.0	speaker	unknown	unknown	同样重挫的还有金融类股，除中国银行下跌近百分之四外，今日交易的所有金融类股票跌幅均超过百分之五，五只跌停。	0	0	0		
+CNS_CMN_20080414.1425	0	1200.0	1300.0	speaker	unknown	unknown	市场人士分析，美国近期公布的经济数据继续恶化，令一度缓和的次按忧虑再次袭上A股心头，加之有消息称，央行官员周末预计三月CPI数据仍将高企，令市场对通胀及宏调未知性的担忧进一步加剧。	0	0	0		

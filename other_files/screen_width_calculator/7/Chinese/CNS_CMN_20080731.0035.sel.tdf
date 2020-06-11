@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.0035	0	200.0	300.0	speaker	unknown	unknown	中新网7月31日电 综合报道，115个国家30日在在德黑兰举行的第15届不结盟运动部长会议上发表联合声明，支持伊朗和平利用核能源。	0	0	0		

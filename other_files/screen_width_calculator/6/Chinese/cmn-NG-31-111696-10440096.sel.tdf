@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-111696-10440096	0	0.0	100.0	speaker	unknown	unknown	法国世界报眼中的西藏拉萨骚乱真相	0	0	0		
+cmn-NG-31-111696-10440096	0	100.0	200.0	speaker	unknown	unknown	法国世界报眼中的西藏拉萨骚乱真相DWNEWS.COM-- 2008年4月10日1:11:32(京港台时间) --多维新闻网	0	0	0		
+cmn-NG-31-111696-10440096	0	400.0	500.0	speaker	unknown	unknown	法国《世界报》在４月４日发表文章，重组了他们认为最接近事实的西藏骚乱。	0	0	0		
+cmn-NG-31-111696-10440096	0	3100.0	3200.0	speaker	unknown	unknown	3月14日，小昭寺的喇嘛采取行动。	0	0	0		
+cmn-NG-31-111696-10440096	0	4100.0	4200.0	speaker	unknown	unknown	藏人也把怨气向汉族和回族移民发泄，暴乱把种族仇恨问题公开了。	0	0	0		
+cmn-NG-31-111696-10440096	0	4200.0	4300.0	speaker	unknown	unknown	世界报引述英国经济学人杂志驻京特派员、在当天刚好在拉萨的James Miles指出：“事件引爆的种族暴力是最使人不快的。”(chinesenewsnet.com)	0	0	0		
+cmn-NG-31-111696-10440096	0	4300.0	4400.0	speaker	unknown	unknown	德国《时代周报》记者George Blum在15日抵达拉萨，他发现旧城区已形同无人地带。	0	0	0		
+cmn-NG-31-111696-10440096	0	4500.0	4600.0	speaker	unknown	unknown	GeorgeBlum引述这些藏人说：“我们向他们，哪些中国人，展示我们能做些甚麽！”(chinesenewsnet.com)	0	0	0		

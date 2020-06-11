@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76852-10075965	0	700.0	800.0	speaker	unknown	unknown	本人长期驻Chicago版，对那里有感情，愿意尽力。	0	0	0		
+cmn-NG-4-76852-10075965	0	1000.0	1100.0	speaker	unknown	unknown	严厉制止人身攻击，打击造谣诽谤，恶意泄漏个人隐私等行为，同时保障网友的言论自由。	0	0	0		
+cmn-NG-4-76852-10075965	0	1200.0	1300.0	speaker	unknown	unknown	鼓励芝加哥版各ID参与讨论交流，将本版发展为当地中国人生活思想交流的基地，并能从中得到当地有用的生活信息。	0	0	0		
+cmn-NG-4-76852-10075965	0	1400.0	1500.0	speaker	unknown	unknown	多谢支持！	0	0	0		

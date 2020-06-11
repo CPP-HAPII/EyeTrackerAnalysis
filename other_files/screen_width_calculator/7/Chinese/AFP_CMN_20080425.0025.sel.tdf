@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0025	0	0.0	1000.0	speaker	unknown	unknown	白宫与美国中央情报局官员今天向参议员表示,信奉史达林主义的北韩,已协助叙利亚兴建一座核子反应炉;该地点在以色列去年九月空袭中遭摧毁。	0	0	0		

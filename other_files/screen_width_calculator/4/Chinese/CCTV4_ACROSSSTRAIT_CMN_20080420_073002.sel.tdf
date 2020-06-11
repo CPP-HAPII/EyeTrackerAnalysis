@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 73.018000000000001, 95.135000000000005, 131.59700000000001, 304.89400000000001, 363.12799999999999, 1002.446, 1059.384, 1277.5799999999999, 1312.9069999999999, 1626.3800000000001, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080420_073002	0	497.209	502.787	Yin_Nai_Jing	female	native	这么丰富的经历的情况之下,对于政务是相当娴熟的	5	13	45	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080420_073002	0	1237.886	1248.959	Zhang_Qi_Kai	male	native	另外有一个点是很好玩的,就是这次站出来咬-咬这个谢长廷的,不是国民党的人哎,他是以前他的机要秘书长叫林宏明先生,林宏明先生基本上也是属于民进党人	7	30	119	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080420_073002	0	1260.299	1265.690	Zhang_Qi_Kai	male	native	所以我认为现在的整个气氛,为什么谢长廷这么紧张,一方面他发现陈水扁可能开始在整他了	7	31	123	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080420_073002	0	1437.291	1448.510	speaker#1	female	native	那我们看到台湾媒体的报道,随着国民党提出的两岸开放的具体的时间表的临近呀,台湾各农业县呢积极的找管道,洽谈农产品登陆大陆的事宜	9	36	141	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080420_073002	0	1448.510	1457.197	speaker#1	female	native	那我们发现民进党执政的县市长呢动作反应反而是最积极的,那官方和民间都在接洽农产品销往大陆的事情	9	36	142	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080420_073002	0	1599.872	1606.003	Zhang_Qi_Kai	male	native	所以像现在五月份快到了,我们大家都在已经在想这个想这个(())的这个荔枝荔枝啊对对,好	9	40	156	filler	statement

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.2991	0	300.0	400.0	speaker	unknown	unknown	台北股市历经昨日重挫，今天开盘小幅反弹，部份大型电子权值股除权息走扬，但金融、营建股持续走软，指数走低下探，终场下跌123.6点或1.8%，以6710.64点作收，6800点失守，成交值为新台币1005.46亿元。	0	0	0		

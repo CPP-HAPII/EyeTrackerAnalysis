@@ -1,0 +1,264 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 85.391999999999996, 160.24199999999999, 227.078, 1163.9110000000001, 1230.8589999999999, 1278.046, 1326.579, 1350.171, 1420.77, 1442.566, 1462.1469999999999, 1472.4169999999999, 1720.373, 1837.528, 1861.0909999999999, 1882.528, 1911.3, 1988.0360000000001, 2040.299, 9999999.0]
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	0.659	2.994	speaker#1	female	native	悉尼，晴，十三到十八度	0	0	1	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2.994	5.689	speaker#1	female	native	奥克兰，多云，十一到十六度。	0	0	2	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	7.305	9.910	speaker#1	female	native	惠灵顿，多云，八到十四度。	0	0	4	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	9.910	12.545	speaker#1	female	native	斯德哥尔摩，晴，九到十八度。	0	0	5	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	14.491	16.976	speaker#1	female	native	莫斯科，晴，十三到二十度。	0	0	7	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	16.976	19.701	speaker#1	female	native	伦敦，小雨，十四到二十七度。	0	0	8	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	21.617	24.671	speaker#1	female	native	阿姆斯特丹，多云，十三到二十四度。	0	0	10	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	24.671	27.396	speaker#1	female	native	柏林，晴，十一到二十五度。	0	0	11	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	28.594	31.348	speaker#1	female	native	巴黎，中雨，十三到二十八度。	0	0	13	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	31.348	34.402	speaker#1	female	native	马德里，多云转阴，十七到三十二度。	0	0	14	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	35.660	38.325	speaker#1	female	native	罗马，多云，十八到二十七度。	0	0	16	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	38.325	41.199	speaker#1	female	native	伊斯坦布尔，多云，十九到二十六度。	0	0	17	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	42.696	45.870	speaker#1	female	native	开罗，晴转多云，二十四到三十五度。	0	0	19	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	45.870	48.684	speaker#1	female	native	开普敦，多云转晴，七到十八度。	0	0	20	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	50.032	52.607	speaker#1	female	native	温哥华，多云，十三到二十度。	0	0	22	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	52.607	55.691	speaker#1	female	native	多伦多，小雨转大雨，十二到十九度。	0	0	23	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	56.829	59.583	speaker#1	female	native	蒙特利尔，多云，八到二十一度。	0	0	25	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	59.583	62.697	speaker#1	female	native	西雅图，阴转多云，十一到十八度。	0	0	26	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	63.745	66.919	speaker#1	female	native	芝加哥，中雨转小雨，十六到十九度。	0	0	28	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	66.919	69.494	speaker#1	female	native	纽约，晴，十七到二十一度。	0	0	29	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	71.021	73.955	speaker#1	female	native	墨西哥城，雷阵雨，十三到二十二度。	0	0	31	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	73.955	76.919	speaker#1	female	native	里约热内卢，晴，十七到二十七度。	0	0	32	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	78.117	81.141	speaker#1	female	native	圣地亚哥，多云转晴，五到十七度。	0	0	34	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	81.141	83.985	speaker#1	female	native	布宜诺斯艾利斯，多云，八到十七度。	0	0	35	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	85.392	88.087	speaker#2	female	native	好的，我们再一起来看一下出行方面的消息。	1	1	37	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	88.087	95.841	speaker#2	female	native	民航方面，山东航空公司近日开通了青岛到韩国首尔的往返航班，航班号呢是 <foreign lang="English">SC</foreign> 四零八幺，四零八二。	1	1	38	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	95.841	101.200	speaker#2	female	native	在每天中午十二点五十五分从青岛起飞，当地时间下午三点十分到达首尔。	1	1	39	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	101.200	106.829	speaker#2	female	native	在当地时间下午的四点十分从首尔返回，北京时间下午四点二十五分到达青岛。	1	1	40	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	106.829	109.494	speaker#2	female	native	青岛和首尔的时差呢，是一个小时。	1	1	41	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	109.494	116.530	speaker#2	female	native	中国国际航空公司呢近日开通海拉尔往返哈尔滨的航线，航班号是 <foreign lang="English">CA</foreign> 幺二五九，幺二六零。	1	1	42	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	116.530	121.572	speaker#2	female	native	从海拉尔起飞的时间是每天上午的的十点四十分，十一点四十分到达哈尔滨，	1	1	43	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	121.572	126.350	speaker#2	female	native	中午的十二点一刻从哈尔滨返程飞行，下午的一点十五分到达海拉尔。	1	1	44	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	126.350	132.548	speaker#2	female	native	另外一条新开通的航线呢，是满洲里到哈尔滨的，航班号呢是 <foreign lang="English">CA</foreign> 幺二三九，幺二四零。	1	1	45	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	132.548	137.524	speaker#2	female	native	每天上午十点五十五分从满洲里起飞，中午的十二点二十五分到达哈尔滨，	1	1	46	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	137.524	142.764	speaker#2	female	native	返程的航班呢在下午的一点钟从哈尔滨起飞，在下午的两点半回到满洲里。	1	1	47	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	143.333	149.284	speaker#2	female	native	铁路方面，从十月一号起呢，会隔日开行从广州到拉萨的 <foreign lang="English">T</foreign> 二六二次旅客列车。	1	1	49	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	149.284	156.979	speaker#2	female	native	列车沿途呢会经过长沙，蒲圻，还有武昌，郑州，西安，兰州，西宁，格尔木，那曲等九个站点。	1	1	50	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	156.979	160.242	speaker#2	female	native	那好吧，我们这档节目就先到这，待会再见。	1	1	51	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	227.078	231.359	speaker#3	female	native	各位晚上好，这里是中央电视台晚间新闻，欢迎您收看。	3	3	53	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	232.048	239.473	speaker#3	female	native	九月六号至十一号，中共中央总书记，国家主席，中央军委主席胡锦涛来到新疆考察工作。	3	3	55	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	239.473	246.599	speaker#3	female	native	下面请看本台记者采制的胡锦涛总书记考察新疆纪实，在希望的热土上。	3	3	56	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	247.916	257.497	speaker#4	male	native	这是美丽的土地，大漠苍茫，群山逶迤，一片片桑田，一块块绿洲生机盎然。	3	4	58	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	258.156	266.689	speaker#4	male	native	这是发展的土地，经济发展，开放活跃，两千多万各族群众在这里辛勤劳动，和谐共处。	3	4	60	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	267.288	275.701	speaker#4	male	native	这就是新疆，昔日丝绸之路的重要通道，如今我国西北充满希望的土地。	3	4	62	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	277.857	285.522	speaker#4	male	native	九月六号至十一号，中共中央总书记，国家主席，中央军委主席胡锦涛来到这里考察工作，	3	4	64	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	286.211	301.690	speaker#4	male	native	从南疆到北疆，从农村到城市，从戈壁到绿洲， 总书记风尘仆仆深入企业，村庄，学校，社区，部队和新疆生产建设兵团，看望和慰问各族干部群众。	3	4	66	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	302.259	307.798	speaker#4	male	native	就促进经济社会发展，改善各族群众生活进行调查研究。	3	4	69	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	308.576	317.085	speaker#4	male	native	他强调，十一五时期是我国全面建设小康社会的关键时期，也是新疆促进发展和稳定的关键时期，	3	4	71	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	317.624	329.324	speaker#4	male	native	希望新疆的同志坚持以邓小平理论和三个代表重要思想为指导，全面贯彻落实科学发展观，认真实施稳疆，兴疆，富民，富边战略，	3	4	73	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	329.324	336.031	speaker#4	male	native	团结带领各族干部群众继续开创新疆团结稳定，蓬勃发展的新局面。	3	4	74	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	338.007	348.187	speaker#4	male	native	抓住国家实施西部大开发战略的历史机遇，深化改革开放，发挥新疆的独特优势，走出一条符合新疆特点的科学发展之路。	3	4	76	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	348.187	355.013	speaker#4	male	native	给新疆各族群众带来更多实实在在的好处是胡锦涛十分关注的问题。	3	4	77	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	355.792	367.558	speaker#4	male	native	六号下午，中国石油新疆油田公司办公楼二层会议室里，总书记同石油战线的同志们坐在一起共商新疆石油天然气产业发展大计。	3	4	79	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	368.367	377.289	speaker#4	male	native	总书记强调，要充分发挥新疆石油天然气资源丰富的优势，加大勘探开发力度，强化老油田挖潜改造。	3	4	81	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	377.289	385.343	speaker#4	male	native	统筹生产加工运输，加强国际合作力度，把新疆建设成我国西部的重要能源基地。	3	4	82	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	386.301	399.535	speaker#4	male	native	在独山子附近的一片戈壁滩上，西部大开发的标志性工程， 全国迄今最大的炼化一体化工程，独山子石化千万吨炼油和百万吨乙烯工程正在加紧建设。	3	4	84	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	400.104	405.553	speaker#4	male	native	七号上午，胡锦涛来到工地现场考察工程规划和建设情况。	3	4	87	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	406.302	416.062	speaker#4	male	native	总书记叮嘱施工人员，一定把工程搞好，确保工程质量，要注重技术创新，提高我国石化工业的科技水平。	3	4	89	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	417.170	423.368	speaker#4	male	native	独特的区位优势曾使古代的新疆地区成为东西方交流的桥梁，	3	4	91	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	423.368	428.158	speaker#4	male	native	茫茫沙漠，仿佛还能听到当年商旅穿行的驼铃，	3	4	92	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	429.206	434.775	speaker#4	male	native	全方位开放战略的实施为这块古代的土地注入了新的生机。	3	4	94	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	435.553	439.924	speaker#4	male	native	霍尔果斯，中国哈萨克斯坦边境线上的一个口岸，	3	4	96	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	440.463	447.918	speaker#4	male	native	九号下午，胡锦涛顶着烈日来到这里，听着工作人员的介绍，总书记神情专注。	3	4	98	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	448.607	455.703	speaker#4	male	native	不久的将来，占地四点六三平方公里的中哈国际边境合作中心将在这里崛起。	3	4	100	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	457.469	465.283	speaker#4	male	native	要认真组织，精心施工，确保工程进度和质量，把这项对外开放的大工程切实做好!	3	4	102	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	465.912	468.397	speaker#4	male	native	胡锦涛叮咛新疆负责同志。	3	4	104	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	469.505	477.918	speaker#4	male	native	天山北麓，从哈萨克斯坦阿卡苏经我国阿拉山口到独山子，一条原油输送管道已经建成，	3	4	106	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	478.577	482.715	speaker#4	male	native	这条连接到哈萨克斯坦的原油管道，全长一千二百多公里，	3	4	108	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	482.715	490.044	speaker#4	male	native	经过建设者顽强拼搏，在很短的时间内就完成建设任务，整个工程目前运行良好。	3	4	109	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	490.763	502.170	speaker#4	male	native	总书记强调，在发展能源产业的过程中，要坚持节约优先，立足国内，多元发展，保护环境，积极开展平等互利的国际合作。	3	4	111	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	502.709	512.080	speaker#4	male	native	要充分发挥向西开放的地缘区位优势，努力把新疆打造成我国向西开放的桥头堡和枢纽站。	3	4	113	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	513.697	522.316	speaker#4	male	native	特变电工股份有限公司控股的新疆新能源股份有限公司，是一家专门从事太阳能开发利用的高新技术企业，	3	4	115	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	522.316	525.673	speaker#4	male	native	拥有多项具有自主知识产权的专利技术。	3	4	116	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	526.302	529.146	speaker#4	male	native	十号下午，胡锦涛来到这家企业，	3	4	118	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	529.895	536.811	speaker#4	male	native	在专为农牧民开发的家用太阳能发电机组等产品前，总书记看得认真，问得仔细。	3	4	120	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	537.679	542.050	speaker#4	male	native	今天，我再提一个要求，一定要搞好售后服务。	3	4	122	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	542.679	553.128	speaker#4	male	native	胡锦涛对特变电工公司董事长张新说，因为用太阳能发电的大多是偏远地区的群众，要更多关怀他们，帮助他们。	3	4	124	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	555.284	559.805	speaker#4	male	native	新疆全区两千多万人口中，农村人口超过百分之六十，	3	4	126	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	560.464	566.632	speaker#4	male	native	总书记牵挂着农牧区各族群众，关注着新疆社会主义新农村建设进程。	3	4	128	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	567.231	574.237	speaker#4	male	native	八号一大早，天刚蒙蒙亮，胡锦涛就前往和田地区的山普鲁乡加依艾日克村，	3	4	130	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	575.075	588.159	speaker#4	male	native	南疆地区地震灾害频繁，从二零零四年开始，在国家支持下，当地政府开始实施抗震安居工程， 帮助农民建筑既经济适用又具有良好防震性能的房屋。	3	4	132	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	588.668	597.380	speaker#4	male	native	截至二零零五年，整个工程已投入一百一十七点四五亿元，二百四十八万各族群众搬进了抗震安居房。	3	4	135	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	598.009	606.602	speaker#4	male	native	加依艾日克村去年启动抗震安居工程，七十二岁的维族老人阿不都吉力力吾不力海热搬了新家。	3	4	137	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	606.602	613.069	Hu_jintao	male	native	这个新房是哪一年盖起来的？跟原来住的房子比，怎么样，现在？	3	5	138	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	613.069	615.322	speaker#5	male	native	<foreign lang="unknown">(())</foreign>	3	6	139	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	615.322	616.340	speaker#6	male	native	比以前好多了。	3	7	140	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	616.340	621.572	speaker#5	male	native	<foreign lang="unknown">(())</foreign>	3	8	141	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	616.340	621.572	speaker#6	male	native	原来房子间数多，但是比较危险。	3	8	142	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	621.572	626.273	speaker#4	male	native	院子里，囊，哈密瓜，葡萄，杏干等摆了一桌，	3	9	143	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	626.872	630.585	speaker#4	male	native	胡锦涛与阿不都吉力力吾不力海热拉起家常。	3	9	145	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	631.184	636.693	Hu_jintao	male	native	看到你们盖了新房，生活越过越好，我们特别高兴。	3	10	147	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	636.693	638.430	speaker#5	male	native	<foreign lang="unknown">(())</foreign>	3	11	148	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	638.430	643.041	Hu_jintao	male	native	虽然生活改善了，但是我们还不应该满足。	3	12	149	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	643.041	644.658	speaker#5	male	native	<foreign lang="unknown">(())</foreign>	3	13	150	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	644.658	658.161	Hu_jintao	male	native	中央已经提出来， 要建设社会主义新农村， 希望大家要继续努力， 把我们的经济搞上去，让我们的日子啊，越来过越好。	3	14	151	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	658.161	661.035	speaker#5	male	native	<foreign lang="unknown">(())</foreign>	3	15	158	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	661.035	667.951	speaker#4	male	native	胡锦涛来到村民中间，同村民们一一握手，村民们纷纷向总书记问好。	3	16	159	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	668.999	670.885	Hu_jintao	male	native	你们家住在什么地方？	3	17	161	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	670.885	674.089	speaker#7	male	native	<foreign lang="unknown">(())</foreign>	3	18	162	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	674.089	675.496	speaker#8	male	native	就在这个地方。	3	19	163	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	675.496	679.059	Hu_jintao	male	native	这个现在农业税呀，什么这些提留啊，都没有了吧？	3	20	164	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	679.059	682.532	speaker#5	male	native	<foreign lang="unknown">(())</foreign>	3	21	165	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	682.532	687.622	speaker#5	male	native	都，都取消了，现在我们减负了，啊。	3	21	166	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	687.622	688.939	Hu_jintao	male	native	娃娃上学了没有？	3	22	167	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	688.939	690.389	speaker#5	male	native	<foreign lang="unknown">(())</foreign>	3	23	168	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	690.389	692.053	speaker#5	male	native	呃，上学了。	3	23	169	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	692.592	694.029	Hu_jintao	male	native	这个学费也都免了吧？	3	24	171	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	694.029	696.813	speaker#5	male	native	啊， <foreign lang="unknown">(())</foreign> 。	3	25	172	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	696.813	708.792	Hu_jintao	male	native	这个把农业税给免了，减轻大家的负担，目的呢就是让大家啊，能够更好的这个搞好生产，发展经济，尽快的富起来。	3	26	173	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	708.792	710.676	speaker#5	male	native	<foreign lang="unknown">(())</foreign> 。	3	27	176	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	710.676	722.353	speaker#4	male	native	在洛浦县阔恰克村的棉花田，在和田县库木艾热克村的核桃地，在新疆生产建设兵团农十四师垦区的红枣，红柳大芸基地。	3	28	177	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	722.922	737.473	speaker#4	male	native	胡锦涛走进田间地头，察看农作物长势，同农民交谈， 详细了解种植成本，收成和收入情况，关切地询问他们生活上有什么困难，对中央的农村政策还有哪些意见。	3	28	179	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	740.317	746.934	speaker#4	male	native	新疆年均降水量只有一百多毫米，沙漠面积占全国沙漠总面积的百分之六十。	3	28	182	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	747.563	757.563	speaker#4	male	native	严峻的事实警醒人们，新疆进行大开发，实现大发展，必须把生态环境保护和建设置于更加突出的位置。	3	28	184	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	758.222	769.869	speaker#4	male	native	胡锦涛心系西北大地的生态保护，在新疆考察期间，一次次深入重点流域和干旱荒漠地区，就生态环境保护和建设进行调研。	3	28	186	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	771.396	777.234	speaker#4	male	native	水是新疆人民的生命线，更是新疆可持续发展的保障线，	3	28	188	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	777.863	783.761	speaker#4	male	native	六号下午，胡锦涛来到克拉玛依市郊的九龙潭，考察这里的饮水工程。	3	28	190	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	784.540	791.500	speaker#4	male	native	看着眼前的场景，胡锦涛高兴地说，戈壁滩有了水，就是翻天覆地的变化。	3	28	192	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	791.500	794.899	speaker#4	male	native	有了水，就有了生命，就有了活力。	3	28	193	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	796.067	804.121	speaker#4	male	native	地处塔克拉玛干沙漠南缘的墨玉县，百分之八十六点五的面积是沙漠，全年风沙天气超过二百天。	3	28	195	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	804.690	813.612	speaker#4	male	native	二零零三年，墨玉县在主要风口区波斯坦库勒启动大规模生态治理工程，目前已完成一万三千六百多亩。	3	28	197	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	814.720	819.989	speaker#4	male	native	八号下午，胡锦涛穿过茫茫戈壁，长途跋涉来到这里。	3	28	199	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	820.618	833.432	speaker#4	male	native	沿着尘土飞扬的土路，胡锦涛走进林地中，认真察看树苗长势， 详细询问工程规划，资金来源，树种选择和渠系设计等方面的情况。	3	28	201	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	834.510	845.318	speaker#4	male	native	投资一百零七亿元，启动塔里木河流域综合治理，实施天山，阿尔泰山天然林保护和平原绿化，保护荒漠植被三大生态建设工程，	3	28	204	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	845.857	850.288	speaker#4	male	native	西部大开发以来，新疆启动了一系列重大环保工程。	3	28	206	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	851.037	859.480	speaker#4	male	native	胡锦涛对大家说，新疆生态环境的状况不仅关系自身的可持续发展，而且关系全国的可持续发展。	3	28	208	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	859.989	865.917	speaker#4	male	native	要坚持正确生态观念，牢固树立生态因素是重要发展成本的意识，	3	28	210	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	865.917	878.402	speaker#4	male	native	在规划项目和开发建设时要充分考虑生态环境，力争用最小的生态成本获取最大的经济效益，实现经济发展和环境保护同步双赢。	3	28	211	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	879.869	886.246	speaker#4	male	native	十三个世居民族，四十七个民族成份，少数民族人口占全区总人口的百分之六十。	3	28	213	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	886.935	894.480	speaker#4	male	native	多民族聚居的特点，决定了新疆的和谐社会建设必须建立在民族团结进步的基石之上。	3	28	215	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	895.588	898.283	speaker#4	male	native	胡锦涛十分关心新疆的教育事业。	3	28	217	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	898.792	906.127	speaker#4	male	native	在新疆生产建设兵团农十四师二二四团考察时，他特意提出要看看这里的学校。	3	28	219	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	906.786	919.421	speaker#4	male	native	他来到学校，察看教室和学生宿舍，并勉励老师们用学识魅力培养学生，用人格魅力影响学生，努力在教师岗位上做出更大成绩。	3	28	221	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	920.439	923.183	speaker#4	male	native	九月十号是第二十二个教师节。	3	28	223	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	923.694	930.229	speaker#4	male	native	胡锦涛前往乌鲁木齐市第六十六中学，看望师生，向大家致以节日的问候。	3	28	225	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	931.217	935.798	Hu_jintao	male	native	今天是第二十二个教师节，	3	29	227	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	937.355	947.624	Hu_jintao	male	native	首先啊，让我们一起向敬爱的老师表示节日的祝贺和良好的祝愿，	3	29	229	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	954.001	956.396	Hu_jintao	male	native	在这教师节到来的时候，	3	29	231	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	957.414	969.301	Hu_jintao	male	native	我建议呀， 同学们， 每个人 都想一句， 感谢或者祝愿老师的话，好不好？	3	29	233	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	969.301	971.127	speaker#9	male	native	好。	3	30	242	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	973.852	975.858	Hu_jintao	male	native	下面呢，我先说，	3	31	244	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	977.595	979.242	Hu_jintao	male	native	我想的八个字啊，	3	31	246	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	980.110	986.332	Hu_jintao	male	native	就是 培育之恩， 终生不忘，	3	31	248	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	986.332	989.720	Hu_jintao	male	native	下面我把这八个字啊写在这儿啊。	3	31	252	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1005.016	1009.477	Hu_jintao	male	native	下面是不是请想好的同学举手。	3	31	254	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1010.255	1020.315	speaker#10	female	native	我们班的全体同学来自于哈什地区和吐鲁番地区，我们会努力学习，要考到内地高中班，然后考到重点大学。	3	32	256	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1020.315	1032.823	speaker#10	female	native	将来回报祖国，回报新疆，把我们所学到的知识教授，传授给新疆人民， 提高新疆人民的文化素质，缩短东西部差距。	3	32	257	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1032.823	1036.572	speaker#10	female	native	要把新疆变得更加美丽，更加繁荣富强。	3	32	258	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1036.572	1037.470	Hu_jintao	male	native	好。	3	33	259	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1040.973	1047.829	Hu_jintao	male	native	我听说啊， 同学们大多来自边远的农牧区。	3	33	261	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1048.847	1053.039	Hu_jintao	male	native	看到你们在这里茁壮成长，我感到由衷的高兴。	3	33	265	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1054.656	1060.196	Hu_jintao	male	native	党和政府为同学们创造了良好的学习条件。	3	33	267	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1061.064	1064.507	Hu_jintao	male	native	老师们又在精心的哺育着我们，	3	33	271	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1065.854	1082.981	Hu_jintao	male	native	我希望同学们 ，第一， 要珍惜这里的宝贵的 学习机遇。 刻苦学习， 努力掌握真才实学。	3	33	273	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1084.867	1094.687	Hu_jintao	male	native	第二呢， 不仅要努力学习科学知识， 还要培养自己的优良品德，	3	33	285	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1096.035	1107.113	Hu_jintao	male	native	要锻炼健康的体魄， 做到德，智，体，美全面发展，	3	33	291	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1108.251	1109.778	Hu_jintao	male	native	同学们能不能做到？	3	33	295	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1109.778	1111.395	speaker#9	male	native	能。	3	34	296	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1115.916	1126.245	speaker#4	male	native	孟校长告诉总书记，政府对疆内初中班十分重视，每个学生每年补助五千元，学生全部免费，包括住宿，吃饭。	3	35	298	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1127.144	1133.312	speaker#4	male	native	学校有一流的设备，就要努力培养一流的人才。胡锦涛对孟校长说。	3	35	300	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1134.689	1144.169	speaker#4	male	native	在初二年级语文组办公室，在生物，化学实验室，胡锦涛同正在备课的老师们亲切交谈， 详细了解教学情况，	3	35	302	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1144.169	1146.605	speaker#4	male	native	向教师们致以节日的问候。	3	35	302	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1147.324	1152.474	speaker#4	male	native	总书记要离开了，全校师生聚集到了校门口的广场上。	3	35	305	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1153.043	1159.809	speaker#4	male	native	总书记向师生们亲切挥手，全校师生依依不舍地同总书记告别。	3	35	307	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1163.911	1166.366	speaker#3	female	native	下面来看今天的其他时政要闻。	4	36	309	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1168.013	1176.457	speaker#11	female	native	九月十二号，胡锦涛主持仪式，欢迎马尔代夫总统加尧姆访华，欢迎仪式后，胡锦涛与加尧姆举行会谈。	4	37	311	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1176.457	1184.211	speaker#11	female	native	双方就巩固中马传统友谊，加强两国务实合作，发展新世纪中马友好合作关系达成广泛共识。	4	37	312	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1184.810	1188.582	speaker#11	female	native	九月十二号，吴邦国会见马尔代夫总统加尧姆。	4	37	314	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1189.301	1194.690	speaker#11	female	native	当地时间九月十一号，亚欧首脑会议闭幕，温家宝在闭幕式上致词。	4	37	316	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1194.690	1200.828	speaker#11	female	native	当天，温家宝还分别会见了西班牙首相萨帕特罗，葡萄牙总理索克拉特斯。	4	37	317	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1201.427	1206.247	speaker#11	female	native	当地时间十二号，二零零六年中欧工商峰会在赫尔辛基举行。	4	37	319	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1206.247	1211.936	speaker#11	female	native	温家宝发表了题为坚持互利共赢，加强合作创新的重要演讲。	4	37	320	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1212.565	1217.595	speaker#11	female	native	亚洲审计组织第十届大会九月十二号开幕，温家宝发来贺信。	4	37	322	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1218.284	1229.931	speaker#11	female	native	九月七号至十一号，曾庆红在山西考察调研时强调，坚持用科学发展观，统领经济社会发展全局， 在推进中部崛起中实现又快又好的发展。	4	37	324	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1230.859	1232.865	speaker#3	female	native	下面请看一组外事消息。	5	38	327	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1234.093	1243.404	speaker#11	female	native	中央军委副主席，国务委员兼国防部长曹刚川十一号上午与罗马尼亚国防部长特奥多尔阿塔纳休在罗马尼亚国防部举行会谈。	5	39	329	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1243.973	1249.153	speaker#11	female	native	曹刚川表示，中国始终视罗马尼亚为重要的合作伙伴和可以信赖的朋友，	5	39	331	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1249.153	1256.249	speaker#11	female	native	中国人民解放军愿与罗马尼亚军队一道，为中罗全面友好合作伙伴关系进一步发展做出新的贡献。	5	39	332	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1256.908	1261.371	speaker#11	female	native	阿塔纳休说，罗马尼亚将继续坚定奉行对华友好政策。	5	39	334	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1261.940	1269.123	speaker#11	female	native	会谈后，曹刚川罗马尼亚国防部礼堂发表了题为中国的和平发展道路与国防现代化的演讲。	5	39	336	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1269.722	1277.327	speaker#11	female	native	曹刚川是应阿塔纳休的邀请，于十二号中午抵达布加勒斯特，开始对罗马尼亚进行为期两天的正式友好访问的。	5	39	338	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1278.046	1290.800	speaker#3	female	native	外交部长李肇星将于九月十七号至二十三号率团出席第六十一届联大一般性辩论， 并于九月二十四号至二十七号，对圣卢西亚，安提瓜和巴布达进行正式访问。	6	40	340	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1290.800	1297.267	speaker#3	female	native	在纽约期间，李肇星将在联大一般性辩论中发言，并进行一系列多边，双边活动。	6	40	342	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1297.267	1308.165	speaker#3	female	native	包括会晤联合国秘书长安南，第六十一届联会主席哈亚，及有关国家外长， 与里约集团，海湾合作委员会，欧盟三架马车外长举行磋商等。	6	40	343	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1308.854	1325.321	speaker#3	female	native	应国务委员唐家璇的邀请，印度尼西亚共和国政治法律安全统筹部长维多多将于九月十七号第，至二十一号对我国进行正式访问， 与唐家璇共同主持中国与印尼副总理级对话机制首次会议。	6	40	346	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1326.579	1338.285	speaker#11	female	native	为纪念中国共产党建党八十五周年，红军长征胜利七十周年和新中国成立五十七周年， 中央国家机关第二届职工书画摄影展今天在北京举行。	7	41	349	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1338.285	1343.854	speaker#11	female	native	本届书画摄影展以忆革命路，抒公仆情，展和谐风为主题，	7	41	351	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1343.854	1349.333	speaker#11	female	native	共有九十个部门，两千多幅作品参选，有九百五十三幅作品参展。	7	41	352	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1350.171	1359.872	speaker#3	female	native	在长安画派奠基者和创始人赵望云百年诞辰之际，其子女将赵先生的三百五十多幅遗作捐赠给国家，	8	42	354	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1359.872	1363.674	speaker#3	female	native	这是目前为止，国画家中最大的一批捐赠。	8	42	355	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1365.291	1371.938	speaker#11	female	native	赵望云是我国现代杰出的中国画画家，二十世纪中国画坛大众化艺术思潮的先驱，	8	43	357	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1371.938	1376.758	speaker#11	female	native	以独具地域风貌和朴实浑厚的笔墨风格开创了长安画派。	8	43	358	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1376.758	1382.267	speaker#11	female	native	培养了黄胄，方济众，徐庶之等人，为西北美术做出了开拓性的贡献。	8	43	359	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1382.836	1391.189	speaker#11	female	native	这次捐赠的是赵望云不同时期的重要代表作，将作为中国二十世纪美术收藏捐赠给中国美术馆永久收藏。	8	43	361	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1391.189	1399.303	speaker#12	male	native	绘画是通过形象来保存历史，包括记录历史的发展历史，	8	44	362	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1399.303	1407.327	speaker#12	male	native	所以赵望云作品的捐赠就提供了一个非常完整的他的创作世界。	8	44	363	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1407.327	1419.752	speaker#13	male	native	我们觉得他是属于祖国，属于人民的，所以我们觉得百年的时候把他的一些作品还给祖国，还给人民，这是最好的纪念。	8	45	364	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1420.770	1427.776	speaker#11	female	native	第三届全国少数民族文艺会演今晚上演江苏省代表团的大型民族舞剧红河谷。	9	46	366	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1427.776	1434.812	speaker#11	female	native	这部取材于同名电影的舞剧以多元化的手法生动再现了汉藏人民共同抵御外敌的故事。	9	46	367	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1434.812	1441.608	speaker#11	female	native	其中，传统藏族舞蹈，现代舞和西方芭蕾舞的综合运用，展示了艺术嫁接的魅力。	9	46	368	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1442.566	1451.758	speaker#11	female	native	纪念红军长征胜利七十周年的献礼影片，由共青团中央和南京电影制片厂等联合摄制的中国一九四九在北京首映。	10	47	370	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1451.758	1461.219	speaker#11	female	native	影片通过两位美国记者在中国的采访经历，再现了中国共产党与老百姓的鱼水之情，展现了毛泽东等领导人的伟大情怀。	10	47	371	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1462.147	1464.572	speaker#3	female	native	稍后晚间新闻，还有国际方面的消息。	11	48	373	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1465.171	1467.925	speaker#11	female	native	美国驻叙利亚使馆遭到袭击。	11	49	375	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1468.434	1472.417	speaker#11	female	native	手机依赖症，戒掉手机，拥抱新生活。	11	49	377	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1720.373	1723.307	speaker#3	female	native	好，欢迎您回来，我们来关注国际方面的消息。	13	51	379	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1723.307	1731.570	speaker#3	female	native	当地时间今天上午一伙武装分子用火箭弹等武器，袭击了位于叙利亚首都大马士革的美国驻叙利亚使馆。	13	51	380	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1731.570	1738.157	speaker#3	female	native	叙利亚安全部队随后包围了美国使馆，并与武装分子交火，三名袭击者被打死，一人受伤。	13	51	381	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1738.157	1743.247	speaker#3	female	native	下面我来连线新华社驻叙利亚记者顾康，请他介绍一下最新情况，顾康。	13	51	382	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1744.025	1749.294	Gu_kang	male	native	在袭击事件发生之后，叙利亚内政部长马吉德来到现场视察情况，	13	52	384	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1749.294	1758.995	Gu_kang	male	native	他对记者说，由于叙利亚安全部门的及时的反应，呃，挫败了武装分子试图用这个汽车冲击美国使馆的图谋，	13	52	385	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1758.995	1768.246	Gu_kang	male	native	其中一辆汽车被恐怖分子在这个使馆旁边引爆，另外一辆汽车撞断美国使馆门口的水泥的隔离墩，但是没有被引爆。	13	52	386	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1768.246	1772.752	Gu_kang	male	native	而叙利亚安全部门呢已经成功的把这个汽车内的炸弹拆除了。	13	52	387	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1773.381	1777.504	Gu_kang	male	native	呃，叙利亚内政部长同时表示，叙利亚安全部门击毙了三名武装分子，	13	52	389	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1777.504	1783.276	Gu_kang	male	native	呃，另外一名武装分子受伤后呢也被抓获，现在正在医院里进行，呃，救治。	13	52	390	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1783.276	1789.623	Gu_kang	male	native	叙利亚方面希望通过这名武装分子的口中，能够了解到此次袭击的一些线索。	13	52	391	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1790.222	1801.390	Gu_kang	male	native	呃，与此同时呢，美国使馆在袭击发生之后，也发表了一个简短的声明，表示美国的外交官，嗯，在这次事故中没有人员伤亡。	13	52	393	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1801.989	1811.121	Gu_kang	male	native	据叙利亚方面公布的数据是有十一名平民在这次事件中受伤，呃，同时一名叙利亚警卫呢也被武装分子打死了。	13	52	395	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1811.121	1817.378	Gu_kang	male	native	由于这个中国驻叙利亚大使馆距离这个遭受袭击的美国大使馆的距离只有十几米，	13	52	396	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1817.378	1826.809	Gu_kang	male	native	呃，在这个美国使馆遭遇袭击期间呢，中国驻叙利亚大使馆的中国参赞李鸿昱他冒着危险在使馆的院子里观察情况，	13	52	397	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1826.809	1835.462	Gu_kang	male	native	呃，不幸被飞来的弹片击中，脸部受到了轻伤，目前呢李参赞正在医院接受治疗，他的伤势很稳定。	13	52	398	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1836.211	1837.528	speaker#3	female	native	好的，谢谢顾康的报道。	13	53	400	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1837.528	1840.043	speaker#3	female	native	更多消息来看晚间国际快报。	14	54	401	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1840.702	1847.289	speaker#11	female	native	伊拉克总理马利基十二号抵达伊朗首都德黑兰，开始对伊拉进行他就任总理以来的首次访问。	14	55	403	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1847.289	1853.786	speaker#11	female	native	据悉，双方的讨论议题包括区域热点问题，及能源，贸易和经济合作开发等。	14	55	404	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1853.786	1859.834	speaker#11	female	native	自从萨达姆政权垮台后，伊拉克新政府一直在寻求拉近两国政府间的关系。	14	55	405	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1861.091	1871.660	speaker#11	female	native	美国亚特兰蒂斯号航天飞机上的两名宇航员，十二号开始了预定为六个半小时的太空行走，为国际空间站安装一对新的太阳能电池板。	15	56	407	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1871.660	1876.151	speaker#11	female	native	这是近四年来，国际空间站首次安装新的大型组件。	15	56	408	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1876.151	1880.462	speaker#11	female	native	这套新的太阳能电池板将使空间站的供电能力翻番。	15	56	409	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1882.528	1890.103	speaker#11	female	native	日本第三顺次皇位继承人天皇次子文仁亲王秋筱宫儿子的命名仪式十二号在东京举行。	16	57	411	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1890.103	1897.697	speaker#11	female	native	秋筱宫给儿子起名悠仁，意思是祝愿小亲王能以悠然自得的心情，长久的渡过一生。	16	57	412	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1898.266	1904.384	speaker#11	female	native	根据日本皇室的规定，亲王的名字原则上是两个汉字，而且要有仁字。	16	57	414	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1904.384	1910.192	speaker#11	female	native	悠仁是本月六号出生的，此前，日本皇室已经四十年没有男婴出生。	16	57	415	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1911.300	1917.498	speaker#3	female	native	现在手机等掌上移动通讯工具已经成了人们日常生活当中很重要的一部分，	17	58	417	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1917.498	1923.845	speaker#3	female	native	但是，不知道您考虑过没有，这些掌上通讯工具对人们的健康会有什么样的影响呢？	17	58	418	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1923.845	1933.935	speaker#3	female	native	最近，美国在线，美联社等公司联合进行了一项调查，调查显示，超过四分之一的受访者表示，他们对手机已经上瘾了。	17	58	419	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1935.402	1943.935	speaker#11	female	native	李克是一家旅馆的经理，他的手机可以上网收发邮件，他说过去他几乎白天黑夜都离不开手机。	17	59	421	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1943.935	1954.234	Li_ke	male	native	<foreign lang="English">(())</foreign> 。	17	60	422	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1954.234	1961.539	speaker#11	female	native	有专家认为，对手机等掌上移动通讯工具的上瘾并不亚于对药物或者酒精的上瘾。	17	61	423	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1961.539	1969.982	speaker#11	female	native	人们会牺牲与家人或朋友在一起的时间来使用这些通讯工具，从而对人们的生活和人与人之间的沟通造成影响。	17	61	424	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1970.551	1978.246	speaker#11	female	native	现在，李克已经戒掉对手机的使用了，与此同时他还帮助住在他旅馆的客人克服对手机的依赖。	17	61	426	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1978.246	1982.917	speaker#11	female	native	在客人住宿期间，他们的手机会被锁起来，直到他们离开。	17	61	427	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	1984.264	1988.036	speaker#3	female	native	好，以上就是今天的晚间新闻，感谢您收看，再见。	17	62	429	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2040.299	2047.192	speaker#14	female	native	周玉纹，南方小城里一个沉默斯文的女性，此时此刻，她的内心充满挣扎。	19	64	431	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2047.820	2055.060	speaker#14	female	native	她平静的生活被远道而来的客人打破，就像船浆划开水面，泛起层层涟漪。	19	64	433	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2071.732	2075.564	speaker#14	female	native	小城其实不是城，而是一座半倾的废墟。	19	64	435	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2076.193	2080.564	speaker#14	female	native	八年的战争刚刚结束，到都是断壁颓垣。	19	64	437	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2081.313	2088.050	speaker#14	female	native	春天来了，为劫后的家园添了生机，却不能让人从苦闷里解脱出来。	19	64	439	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2090.715	2094.368	speaker#14	female	native	妻子周玉纹每天要到城头上走一走。	19	64	441	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2096.284	2100.565	speaker#15	female	native	眼睛里不看着什么，心里也不想着什么。	19	65	443	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2104.488	2108.799	speaker#16	female	native	那个戏要把尺寸捏得很准才好。	19	66	445	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2110.775	2113.859	speaker#14	female	native	丈夫戴礼言坚信自己得了肺病。	19	67	447	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2114.757	2119.817	speaker#15	female	native	我没有勇气死，他好象没有勇气活了。	19	68	449	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2120.625	2125.715	speaker#17	female	native	狼狈不堪，已经那样，而且带有点神经兮兮那个味道。	19	69	451	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2127.332	2130.933	speaker#14	female	native	妹妹戴秀刚刚十六岁，还在读书。	19	70	453	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2133.418	2136.682	speaker#15	female	native	妹妹住在花园的另一角，	19	71	455	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2137.311	2140.155	speaker#15	female	native	跟礼言就不像一个母亲生的。	19	71	457	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2140.874	2143.209	speaker#15	female	native	她有她的小天地。	19	71	459	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2144.646	2149.826	speaker#16	female	native	这个戏比较沉闷，啊，也没什么更多的那个场景了。	19	72	461	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2150.664	2152.700	speaker#14	female	native	仆人老黄忠心耿耿。	19	73	463	report	
+CCTVNEWS_EVENINGNEWS_CMN_20060912_225702	0	2152.700	2156.652	speaker#15	female	native	老黄总把药罐里的药渣倒在后门口。	19	74	464	report	

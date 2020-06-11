@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0054.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	向南林做客中国军网	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 06:15:32   来源：解放军报第1版	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报北京4月22日电　特约记者吴溪、记者刘欣欣报道：今晚，中国军网携手新浪网联合举办新一代青年士兵的楷模向南林访谈。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	中国军网视频演播室内，向南林就军旅生涯、人生历程、理想信念以及新时代青年的进取创新精神等话题与广大网友进行了在线交流。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	多专多能、全面发展的工作业绩，干一行、爱一行、精一行的工作标准，执著追求、热情待人、乐于助人的品格，使现场观众和在线网友一睹这位兵之骄子的风采。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	在线访谈期间，围绕向南林工作生活的方方面面，网友提问不断、互动不断、祝福不断。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	一位网友留言道出了大家共同的心声：“一个向南林还不够，希望涌现出千千万万个向南林！”	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	访谈结束时，向南林即兴泼墨挥毫，写下了“与真理同行”5个大字。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	本报北京4月22日电　胡海龙、刘兴报道：4月20日，新一代青年士兵的楷模向南林，走进全军政工网嘉宾访谈室，围绕“学习实践中国特色社会主义理论，做‘四个新一代’模范青年”与网友在线交流，受到热烈欢迎。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	访谈中，向南林回顾了自己在党的创新理论建连育人浓厚氛围中健康成长、在大抓军事斗争准备生动实践中提高综合素质的人生历程，并就如何坚持用党的创新理论武装头脑，在执著追求真理中坚定理想信念作了重点介绍。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	他还就青年士兵如何迈好军旅第一步、践行军人使命、提高自身素质等问题回答了网友的提问。	0	0	0		statement
+PLA_CMN_20080423.0054.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	广大网友纷纷表示要以向南林为榜样，积极响应胡主席号召，争做“四个新一代”的模范青年。	0	0	0		statement

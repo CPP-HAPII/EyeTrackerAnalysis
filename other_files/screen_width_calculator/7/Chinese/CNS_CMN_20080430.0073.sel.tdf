@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080430.0073	0	200.0	300.0	speaker	unknown	unknown	中新网东莞4月30日电(李映民 李获)记者今天从东莞市政府新闻办获悉，四月二十八日媒体报道“四川凉山童工被拐骗到东莞打工事件”曝光后，东莞市委、市政府高度重视，迅速组成调查组开展事件调查，同时在全市范围内全面展开清查行动，坚决严厉打击非法用工行为，确保良好用工环境。	0	0	0		

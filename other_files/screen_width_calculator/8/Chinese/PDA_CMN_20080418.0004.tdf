@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	英媒传普京情倾美艳体操冠军 两人年龄相差30岁((图))	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	900.000	1550.000	TEXT1	unknown	unkown	英国媒体昨天报道称，现年56岁的俄罗斯总统普京将和24岁的俄罗斯艺术体操世界冠军兼模特阿莉娜・卡巴耶娃结婚。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	1550.000	1875.000	TEXT1	unknown	unkown	这场浪漫故事的闲言碎语让人感觉不太正经，因为普京并没有正式宣布与50岁的妻子柳德米拉分手。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	1875.000	2037.500	TEXT1	unknown	unkown	但英国媒体称，一向让自己私生活远离聚光灯的普京两个月前已与妻子离婚。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2037.500	2200.000	TEXT1	unknown	unkown	一家俄罗斯网站甚至称，普京和卡巴耶娃曾被看到在莫斯科一家餐馆接吻。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	英国媒体报道称，普京向已是俄罗斯议会成员的卡巴耶娃求爱的消息在俄罗斯民间流传了一段时间，但直到现在才被一家俄罗斯报纸披露。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	该报援引圣彼得堡一位宴会策划者的话说，他正在申请筹办普京将在圣彼得堡举办的豪华婚礼。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	据称，婚礼将于6月15日举行，在普京卸任俄罗斯总统的一个多月后。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2750.000	2775.000	TEXT1	unknown	unkown	一个流传最广的传言称，普京和卡巴耶娃将在俄罗斯沙皇的夏宫普希金城里举行婚礼，这座城堡内有叶卡捷琳娜宫、亚历山大宫等建筑。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	2775.000	2800.000	TEXT1	unknown	unkown	该媒体同时称克里姆林宫目前仍拒绝评论这一消息。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	3000.000	3350.000	TEXT1	unknown	unkown	1983年生于现乌兹别克斯坦首都塔什干的卡巴耶娃曾代表俄罗斯参加悉尼和雅典奥运会，且是雅典奥运会的艺术体操全能冠军，曾为杂志拍摄性感照片，全身只披一块皮毛，她还参加了日本动作电影《赤影》的演出。	0	0	0		statement
+PDA_CMN_20080418.0004.sgm	0	3350.000	3700.000	TEXT1	unknown	unkown	她在2007年加入“统一俄罗斯党”后开始从政。	0	0	0		statement

@@ -1,0 +1,230 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 215.44499999999999, 259.09100000000001, 665.92399999999998, 681.40800000000002, 1250.6310000000001, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	215.445	219.273	speaker#1	male	native	Wang Zhihe found out in Germany that there is another Wang Zhihe.	1	1	1	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	219.914	225.789	speaker#2	female	native	That is, a uh, German, uh, company had already registered the name. He was very surprised then.	1	2	3	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	226.929	229.866	speaker#1	male	native	Who had registered the Wang Zhihe trademark in Germany?	1	3	5	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	229.866	232.194	speaker#1	male	native	Why did they have to register this trademark?	1	3	6	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	232.194	235.663	speaker#1	male	native	What dilemma does Beijing Wang Zhihe Company encounter?	1	3	7	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	236.304	238.944	speaker#1	male	native	Legal Report presents "Who is Wang Zhihe?"	1	3	9	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	259.091	262.029	speaker#3	male	native	Hello, everyone. This is Legal Report. Welcome to our show today.	2	4	11	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	262.029	266.779	speaker#3	male	native	The guest we invited to our studio today is Professor Li Mingde at the Chinese Academy of Social Sciences.	2	4	12	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	266.779	270.441	speaker#3	male	native	Mr. Li, before the show starts, uh, let's watch a frame segment	2	4	13	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	270.441	273.950	speaker#3	male	native	that involves a kind of food that we all know very well.	2	4	14	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	276.746	279.559	speaker#4	male	native	Wang Zhihe is a time-honored brand in China.	2	5	16	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	279.559	285.086	speaker#4	male	native	Bean curd products including fermented bean curd and strong-smelling preserved fermented bean curd, the main products of Beijing Wang Zhihe Company, have a long history.	2	5	17	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	287.538	290.663	speaker#3	male	native	Wang Zhihe is a famous century-old store in China.	2	6	19	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	290.663	295.788	speaker#3	male	native	To its surprise, it landed in the vicious circle of going to court to fight for its own trademark recently.	2	6	20	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	295.788	297.897	speaker#3	male	native	Let's watch today's reporter's investigations.	2	6	21	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	299.569	303.992	speaker#4	male	native	In July 2006, Wang Zhihe Company prepared to officially enter the European market.	2	7	23	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	303.992	307.367	speaker#4	male	native	The company sent people to countries in Europe to register its trademark.	2	7	25	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	308.149	311.579	speaker#4	male	native	They were shocked when they arrived at the German Patent and Trademark Office.	2	7	27	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	313.329	316.736	speaker#2	female	native	At that time, they were told that a	2	8	29	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	316.736	320.971	speaker#2	female	native	uh, German uh, company had already registered the name. They were surprised.	2	8	30	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	322.502	326.190	speaker#4	male	native	As it turned out, four months before Wang Zhihe Company went to Germany,	2	9	32	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	326.190	328.972	speaker#4	male	native	the Wang Zhihe trademark had already been registered.	2	9	33	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	329.722	333.941	speaker#4	male	native	Who had beat Wang Zhihe Company to register this trademark?	2	9	35	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	335.925	337.565	speaker#5	male	native	(()) the person who snatched the trademark to register is here.	2	10	37	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	337.565	341.048	speaker#5	male	native	OKAI, an import-export company,	2	11	39	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	337.565	341.048	speaker#6	male	native	It says, "OKAI". It should be an import-export company.	2	11	38	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	341.048	342.626	speaker#5	male	native	and its address is in Berlin.	2	12	40	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	342.626	348.150	speaker#2	female	native	Investigations showed that this company in fact, runs ((pw)), runs a small supermarket that mainly sells Chinese products.	2	13	41	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	349.307	353.494	speaker#4	male	native	OKAI Company is a company operated by a German Chinese.	2	14	43	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	353.494	359.494	speaker#4	male	native	The products its supermarkets sell are mainly from China, among which are products of Wang Zhihe Company.	2	14	44	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	360.229	363.385	speaker#4	male	native	This trademark is on all the products of Wang Zhihe Company.	2	14	47	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	364.275	367.338	speaker#4	male	native	This is the trademark registered by OKAI Company in Germany.	2	14	49	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	367.947	372.713	speaker#4	male	native	If we compare the two, whether it is the head or the Chinese and English writing, they are exactly the same.	2	14	51	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	373.651	377.619	speaker#4	male	native	OKAI Company had the ownership of this trademark before Wang Zhihe Company,	2	14	53	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	377.619	382.492	speaker#4	male	native	it implies that Wang Zhihe Company cannot sell its products directly in Germany,	2	14	54	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	382.492	385.882	speaker#4	male	native	otherwise, it will be illegal. This is not a trivial matter.	2	14	55	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	387.483	407.810	speaker#7	female	nonnative	<foreign lang="unknown">(())</foreign>	2	15	57	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	408.622	411.732	speaker#4	male	native	Some scenes the reporter shot on the street of Germany were thought provoking.	2	16	59	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	412.513	415.872	speaker#4	male	native	This was a chain supermarket that OKAI Company owns.	2	16	61	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	416.528	421.607	speaker#4	male	native	Through the glass, we could see that products with Wang Zhihe's trademark were piled up in the supermarket.	2	16	63	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	423.778	426.559	speaker#4	male	native	The reporter also bought some merchandizes from the supermarket.	2	16	65	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	427.981	431.262	speaker#4	male	native	These Wang Zhihe's fermented bean curd were apparently not OKAI Company's products	2	16	67	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	431.262	434.012	speaker#4	male	native	but produced by Beijing Wang Zhihe Food Group Co. Ltd.	2	16	68	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	435.309	442.169	speaker#4	male	native	Even though Wang Zhihe Company was the producer of these merchandizes, now it has to be at the command of OKAI Company that owns this trademark right.	2	16	70	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	442.169	447.559	speaker#4	male	native	Confronted with this awkward dilemma in Germany, Wang Zhihe Company decided to send an attorney to communicate with OKAI Company.	2	16	72	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	448.387	451.883	speaker#2	female	native	Dodged, he dodged, so we contacted him through an attorney.	2	17	74	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	451.883	453.945	speaker#2	female	native	Refused, oh, he refused to communicate.	2	17	75	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	454.773	460.929	speaker#4	male	native	The incident in which Wang Zhihe's trademark was snatched and registered by someone else quickly came back to China. The entire company was upset.	2	18	77	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	460.929	468.132	speaker#4	male	native	The company's employees argued that the Wang Zhihe trademark is a wealth passed on from ancestors, so it is perfectly justified that it belongs to them.	2	18	78	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	468.132	471.460	speaker#4	male	native	How can it belong to someone else so easily now?	2	18	79	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	473.508	477.090	speaker#8	male	native	Wang Zhihe, how many years of history does it have?	2	19	81	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	477.887	484.294	speaker#8	male	native	In fact, this brand originally belonged to China, now it went to another country, you, can you calm down about this thing?	2	19	85	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	484.997	489.302	speaker#9	male	native	They lorded our uh, domestic uh, name brand,	2	20	89	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	489.302	492.240	speaker#9	male	native	wasn't that unreasonable at all, was it?	2	20	90	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	492.865	497.490	speaker#4	male	native	Wang Zhihe Company explained that the telling of the earliest history of the time-honored brand Wang Zhihe should start with this picture.	2	21	92	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	497.490	501.631	speaker#4	male	native	This is an approximate map of Beijing Yanshou Fourth Street during the Kangxi era of the Qing Dynasty.	2	21	93	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	501.631	507.162	speaker#4	male	native	More than three centuries ago, Wang Zhihe, who abandoned literature for business opened up the Wang Zhihe ((+sauce and pickle shop)).	2	21	94	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	507.162	510.772	speaker#4	male	native	The shop name Wang Zhihe first appeared in Beijing.	2	21	96	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	510.772	518.896	speaker#4	male	native	Ancestor Wang Zhihe might not have expected that more than three centuries later, this shop name would actually cause a dispute in the faraway Germany.	2	21	97	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	520.412	523.600	speaker#4	male	native	Yanshou Fourth Street has now changed its name to Yanshou Street.	2	21	100	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	523.600	526.022	speaker#4	male	native	An elderly has lived here since he was young.	2	21	101	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	526.022	530.365	speaker#4	male	native	He relied on selling Wang Zhihe's fermented bean curd for a living more than six decades ago.	2	21	102	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	531.709	533.740	speaker#10	male	native	After you bought them (()), you sold them outside.	2	22	104	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	533.740	534.599	speaker#11	male	native	Ai, to sell.	2	23	105	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	534.599	536.333	speaker#11	male	native	(())	2	23	106	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	536.333	538.052	speaker#10	male	native	Did you call aloud for sale, call aloud for sale outside?	2	24	107	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	538.052	538.864	speaker#11	male	native	I also called aloud for sale.	2	25	108	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	538.864	539.755	speaker#10	male	native	How did you call aloud for sale?	2	26	109	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	539.755	541.644	speaker#11	male	native	Strong-smelling preserved fermented bean curd and fermented bean curd.	2	27	110	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	541.644	542.129	speaker#10	male	native	Oh?	2	28	111	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	542.129	543.551	speaker#11	male	native	Wang Zhihe's strong-smelling preserved fermented bean curd.	2	29	112	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	545.238	550.316	speaker#4	male	native	More than half a century ago, the elderly brought Wang Zhihe's fermented bean curd to all the neighboring households on the street.	2	30	114	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	550.316	554.933	speaker#4	male	native	Since then, Wang Zhihe these three characters have become an obsession in his heart.	2	30	115	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	554.933	560.964	speaker#4	male	native	The elderly could not understand that the ownership of the shop name Wang Zhihe could actually become a problem.	2	30	116	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	563.042	563.855	speaker#11	male	native	It was unexpected.	2	31	118	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	563.855	568.277	speaker#11	male	native	(()) us ((pw)), us China (()) where does he sell?	2	31	119	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	568.277	570.792	speaker#11	male	native	(()) right?	2	31	120	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	572.073	578.058	speaker#3	male	native	Mr. Li, now we saw that Wang Zhihe was registered in Germany and uh, the people at Wang Zhihe Company were very upset.	2	32	122	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	578.058	582.230	speaker#3	male	native	The German company snatched Wang Zhihe's trademark and registered it in Germany.	2	32	123	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	582.230	585.136	speaker#3	male	native	Was this act illegal?	2	32	124	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	586.042	588.995	Li_mingde	male	native	Um, there should be legal basis.	2	33	126	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	588.995	590.042	speaker#3	male	native	How do you explain that?	2	34	127	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	590.042	596.554	Li_mingde	male	native	Well, it is like this. That is, intellectual property right including trademark right, has its own regional nature.	2	35	128	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	594.288	594.788	speaker#3	male	native	Uh-huh.	2	36	130	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	596.554	602.861	Li_mingde	male	native	For instance, Wang Zhihe was registered in China, then its scope of rights is only limited to China.	2	37	132	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	598.120	598.541	speaker#3	male	native	Uh-huh.	2	38	133	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	599.502	599.908	speaker#3	male	native	Yes.	2	40	135	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	602.861	603.169	speaker#3	male	native	Uh-huh.	2	42	137	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	603.169	604.720	Li_mingde	male	native	Its protection is also limited to China.	2	43	138	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	604.720	605.376	speaker#3	male	native	Yes, yes, yes.	2	44	139	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	605.376	617.266	Li_mingde	male	native	Well, if someone makes use of the regional nature of intellectual property right and register the trademark in a place, then it is possible for him to become the right owner of the trademark.	2	45	140	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	610.095	610.517	speaker#3	male	native	Uh-huh.	2	46	143	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	612.126	612.532	speaker#3	male	native	Uh-huh,	2	48	145	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	617.266	620.563	speaker#3	male	native	We saw that a company in Germany registered this trademark.	2	50	149	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	620.563	620.893	Li_mingde	male	native	Uh-huh.	2	51	150	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	620.893	627.704	speaker#3	male	native	Well, once this registration is established, Wang Zhihe's own products will have what limitations when entering Germany?	2	52	151	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	627.704	637.033	Li_mingde	male	native	Well, under this situation, he has the right to ((pw)), that is, to refuse to let real Wang Zhihe's products enter his, enter the country of Germany.	2	53	155	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	637.033	637.611	speaker#3	male	native	Uh-huh, yes, yes.	2	54	158	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	637.611	639.970	Li_mingde	male	native	He can block the products outside uh, the custom.	2	55	159	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	639.970	640.407	speaker#3	male	native	Uh-huh, uh-huh.	2	56	160	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	640.407	643.939	Li_mingde	male	native	Even if you have entered, he can sue you for infringing on trademark right.	2	57	161	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	643.939	644.705	speaker#3	male	native	Uh-huh, yes, yes.	2	58	163	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	644.705	648.502	speaker#3	male	native	For Wang Zhihe, uh, Wang Zhihe was considered a small workshop in the past.	2	58	164	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	648.502	651.033	speaker#3	male	native	Now, it is not a small workshop. It is a big company now.	2	58	166	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	651.033	657.955	speaker#3	male	native	Moreover, the brand Wang Zhihe including its trademark has been established by the State Administration of Industry and Commerce as famous Chinese trademark.	2	58	167	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	657.955	665.924	speaker#3	male	native	Now, after this trademark was registered in Germany, Wang Zhihe, who is powerful, of course would not let it go so easily.	2	58	169	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	665.924	667.690	speaker#1	male	native	Its trademark right was infringed upon.	3	59	171	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	667.690	670.596	speaker#1	male	native	Wang Zhihe Company went to court in Germany to protect its rights.	3	59	172	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	670.596	673.564	speaker#1	male	native	Several trademarks of time-honored brands were snatched and registered overseas,	3	59	173	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	673.564	676.658	speaker#1	male	native	how should long-established businesses handle this?	3	59	174	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	676.658	680.064	speaker#1	male	native	Legal Report continues to broadcast "Who Is Wang Zhihe".	3	59	175	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	681.408	686.345	speaker#12	male	native	In the past, Wang Wei, an expert at the College of Art and Design who specializes in company image,	4	60	177	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	686.345	693.016	speaker#12	male	native	uh, after two years, two years of breaking in, he then worked out the company image.	4	60	178	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	693.016	695.969	speaker#12	male	native	The writings was done by master calligrapher ((Liu Bingsen)).	4	60	180	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	696.531	703.234	speaker#4	male	native	Since 1996, Wang Zhihe Company has started using this set of trademark and has the copyright of the trademark design.	4	61	182	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	703.859	709.328	speaker#4	male	native	Yet, the trademark OKAI Company registered was exactly the same as Wang Zhihe's set of trademark.	4	61	186	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	709.328	713.608	speaker#4	male	native	People at Wang Zhihe Company argued that it is unreasonable no matter where.	4	61	187	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	715.796	722.124	speaker#2	female	native	From the protection of uh, brands of national industries' and the protection of time-honored brands' point of view, we absolutely have to argue strongly on just grounds.	4	62	189	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	723.015	728.593	speaker#4	male	native	At the end of 2006, Wang Zhihe Company sued OKAI Company at the Munich District Court in Germany,	4	63	193	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	728.593	737.283	speaker#4	male	native	requesting the court to grant a ruling that OKAI Company has to abandon Wang Zhihe's trademark or to assign the trademark to Wang Zhihe Company and make a reparation for related losses.	4	63	194	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	738.142	742.814	speaker#4	male	native	In January 2007, the Munich District Court accepted and heard the litigation application of Wang Zhihe Company.	4	63	196	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	744.033	746.532	speaker#5	male	native	In 2007, on August 8,	4	64	198	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	745.484	746.532	speaker#6	male	native	on August 8	4	65	200	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	746.532	748.815	speaker#5	male	native	at 11 a.m. past 11 o'clock,	4	66	201	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	748.815	750.035	speaker#6	male	native	at 11:15	4	67	204	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	750.035	752.600	speaker#5	male	native	ah, at 11:15 in Court No. 501.	4	68	205	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	752.600	753.272	speaker#6	male	native	Oh.	4	69	206	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	753.272	756.981	speaker#6	male	native	That day signified the first day that you two waged war against each other.	4	69	207	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	756.981	758.398	speaker#5	male	native	Yes, we officially battle.	4	70	208	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	759.616	763.006	speaker#13	male	native	Last year, China's long-established store Wang Zhihe's trademark was snatched and registered in Germany.	4	71	210	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	763.006	766.538	speaker#13	male	native	Wang Zhihe Food Group Co. Ltd. decided to demand its trademark right through litigation.	4	71	211	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	766.538	769.400	speaker#13	male	native	This was the first time Chinese long-established store went abroad.	4	71	212	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	770.962	778.009	speaker#4	male	native	At the end of January 2007, CCTV covered the news of Wang Zhihe Company filing charges in Germany in order to reclaim its trademark right.	4	72	214	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	778.009	780.587	speaker#4	male	native	Chinese around the world all keep a close eye on this matter.	4	72	216	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	780.587	783.431	speaker#4	male	native	However, it is not easy to win this lawsuit.	4	72	217	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	784.853	786.775	speaker#5	male	native	The judge was in a German court.	4	73	219	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	786.775	787.947	speaker#5	male	native	The judge was German.	4	73	220	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	787.947	794.650	speaker#5	male	native	He neither understood uh, the popularity of Wang Zhihe, nor did he know whether OKAI harbor such ill intention.	4	73	221	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	795.337	801.790	speaker#4	male	native	In addition, after the case was filed with the Munich District Court, the response of OKAI Company also seemed to suggest the complexity of this legal dispute.	4	74	224	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	804.603	807.290	speaker#14	female	native	They argued that you snatched and registered the trademark with ill intention. Do you agree with this statement?	4	75	227	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	807.290	808.411	speaker#15	male	native	Disagree, disagree.	4	76	228	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	808.411	809.973	speaker#14	female	native	Uh, why do you disagree?	4	77	230	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	808.411	809.973	speaker#15	male	native	Nonsense.	4	77	229	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	811.036	813.817	speaker#4	male	native	This legal document was the statement of defense of OKAI Company.	4	78	233	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	813.817	822.786	speaker#4	male	native	They stressed that under German law, as long as the Wang Zhihe trademark had not been registered in Germany, then it would be legal for OKAI Company to register this trademark.	4	78	234	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	824.370	842.227	speaker#16	male	nonnative	<foreign lang="unknown">(())</foreign>	4	79	238	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	843.664	847.945	speaker#4	male	native	However, Wang Zhihe Company argued that even though the registration procedure of OKAI Company seemed to be fine	4	80	240	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	847.945	852.179	speaker#4	male	native	and Beijing Wang Zhihe Company had never registered the Wang Zhihe trademark in Germany,	4	80	241	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	852.179	855.554	speaker#4	male	native	the Wang Zhihe trademark is a famous trademark in China.	4	80	242	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	855.554	860.351	speaker#4	male	native	According to German law, the intention of OKAI Company to register this trademark was questionable.	4	80	243	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	860.351	864.226	speaker#4	male	native	The official at the German Trademark and Patent Office affirmed this argument.	4	80	244	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	866.132	886.252	speaker#16	male	nonnative	<foreign lang="unknown">(())</foreign>	4	81	246	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	886.846	897.426	speaker#4	male	native	Wang Zhihe Company further indicated that even though the Wang Zhihe trademark is not a famous trademark in Germany, only a few Chinese living in Germany do not know Wang Zhihe such a brand.	4	82	248	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	898.160	899.645	speaker#17	female	native	Do you know about Wang Zhihe this trademark?	4	83	252	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	899.645	900.239	speaker#18	male	native	Yes, I do.	4	84	253	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	900.239	901.802	speaker#19	female	native	We should all know.	4	85	254	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	901.802	904.396	speaker#19	female	native	I guess at least ((pw)), 80 to 90 percent of us do.	4	85	255	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	905.083	910.240	speaker#4	male	native	Let alone the supermarkets that OKAI Company owns also carry Wang Zhihe Company's products.	4	86	257	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	910.240	912.959	speaker#4	male	native	They obviously know the popularity of the Wang Zhihe trademark.	4	86	258	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	914.318	929.192	speaker#20	male	native	<foreign lang="unknown">(())</foreign>	4	87	260	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	929.926	941.301	speaker#20	male	native	<foreign lang="unknown">(())</foreign>	4	87	262	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	942.020	953.788	speaker#3	male	native	Mr. Li, in this case, we see that the registration of the Wang Zhihe trademark by the company in Germany contains 'Wang Zhihe' these three characters and all the designs involving this trademark.	4	88	264	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	953.788	956.554	speaker#3	male	native	Then, how do we define such behavior from the legal point of view?	4	88	266	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	957.273	959.101	Li_mingde	male	native	It should contain ill intention.	4	89	268	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	960.117	972.084	Li_mingde	male	native	Well, according to the stipulations of the Treaty of Paris and the stipulations of the World Trade Organization Agreement on Trade-Related Intellectual Property Rights, registered famous trademarks, should also be protected by other member states.	4	89	270	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	968.443	968.818	speaker#3	male	native	Uh-huh.	4	90	273	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	972.084	972.522	speaker#3	male	native	Uh-huh.	4	92	275	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	972.522	978.193	Li_mingde	male	native	Well, secondly, this case also involved, well, actually, there is also the issue of copyright.	4	93	276	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	974.928	975.381	speaker#3	male	native	Uh-huh.	4	94	277	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	979.037	983.208	Li_mingde	male	native	We say that any trademark is possibly a work above all others.	4	95	280	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	983.208	983.583	speaker#3	male	native	Yes.	4	96	281	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	983.583	996.432	Li_mingde	male	native	Well, therefore, under this circumstances, even though he had registered for the trademark, if we want to go to court, besides using the famous trademark, non-registered famous trademark this angle to argue,	4	97	282	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	987.396	987.864	speaker#3	male	native	Uh-huh, uh-huh.	4	98	284	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	995.760	996.432	speaker#3	male	native	Uh-huh, uh-huh.	4	100	289	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	996.432	999.810	Li_mingde	male	native	we can also use this copyright approach to argue.	4	101	290	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	998.816	999.191	speaker#3	male	native	Yes.	4	102	291	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	999.810	1000.263	speaker#3	male	native	Yes.	4	104	293	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1000.263	1005.247	speaker#3	male	native	Wang Zhihe Company planned to fight this lawsuit to the end for their own trademark right.	4	104	294	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1005.247	1008.934	speaker#3	male	native	We also follow uh, this specific case with everyone.	4	104	295	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1008.934	1017.284	speaker#3	male	native	However, many trademarks of long-established stores and time-honored brands in China like Wang Zhihe uh, had been snatched and registered in other countries in recent years.	4	104	296	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1017.284	1022.065	speaker#3	male	native	Our reporter also tried his best to learn about these situations when	4	104	297	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1025.181	1027.775	speaker#4	male	native	This is the material provided by the State Chamber of Commerce.	4	105	299	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1027.775	1032.135	speaker#4	male	native	It had summarized the general situation of trademarks of time-honored stores being snatched for registration overseas in recent years.	4	105	300	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1032.792	1036.222	speaker#4	male	native	In Canada, trademarks of Guifaxiang Shibajie and Liubiju were snatched for registration.	4	105	302	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1036.222	1040.488	speaker#4	male	native	In Japan, trademarks of Goubuli, Tongrentang, Dukang, and Yidege were snatched for registration.	4	105	303	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1040.488	1043.269	speaker#4	male	native	In Europe, trademarks of Red Star and Wang Zhihe were snatched for registration.	4	105	304	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1046.381	1049.725	speaker#21	male	native	Currently, there are approximately less than 20 stores that we know of.	4	106	306	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1050.647	1055.146	speaker#4	male	native	Among which, the case of Guifaxiang Shibajie trademark being snatched for registration in Canada had typical significance.	4	107	308	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1055.146	1058.819	speaker#4	male	native	The fried dough twist produced by Guifaxiang Company is a specialty pastry of Tianjin.	4	107	309	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1058.819	1064.466	speaker#4	male	native	The Guifaxiang Shibajie trademark has had a century old history. It is one of the famous time-honored brands in China.	4	107	310	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1065.153	1071.935	speaker#4	male	native	Four years ago, Guifaxiang Company accidentally found out that a company had registered the Guifaxiang Shibajie trademark in Canada.	4	107	312	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1071.935	1077.575	speaker#4	male	native	What was astonishing was that the company that registered this trademark was called China's Time-Honored Brand Inc.	4	107	313	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1079.341	1083.169	speaker#21	male	native	It had registered our trademarks such as Guifaxiang, Guanshengyuan, and Liubiju.	4	108	315	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1084.622	1087.544	speaker#4	male	native	China's Time-Honored Brand Inc. is a Canadian company.	4	109	317	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1087.544	1093.154	speaker#4	male	native	Their main business is actually to brazenly snatched Chinese time-honored names for registration in Canada.	4	109	318	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1093.154	1098.685	speaker#4	male	native	In face of this act, Guifaxiang Company complained to the Canadian Trademark Office.	4	109	319	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1099.841	1106.389	speaker#21	male	native	In October 2003, uh, the Canadian Trademark Office uh, held a hearing.	4	110	321	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1107.045	1110.795	speaker#21	male	native	The defendant, uh, the company registered in Canada,	4	110	324	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1110.795	1114.733	speaker#21	male	native	uh, China's Time-Honored Brand Inc. did not attend.	4	110	325	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1115.389	1117.608	speaker#21	male	native	The Canadian Trademark Office considered him waiving his rights.	4	110	327	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1118.389	1124.889	speaker#21	male	native	Therefore, under this circumstances, we registered our official Guifaxiang trademark.	4	110	329	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1125.577	1129.687	speaker#4	male	native	Guifaxiang Company won back the trademark that originally belonged to them through legal means.	4	111	332	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1129.687	1136.781	speaker#4	male	native	However, like Guifaxiang and Wang Zhihe such long-established stores that picked up legal weapons to protect their own rights are rare.	4	111	333	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1136.781	1140.263	speaker#4	male	native	Majority of the long-established stores choose to handle it with silence,	4	111	335	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1140.263	1142.716	speaker#4	male	native	some even give up markets in these countries.	4	111	336	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1143.901	1148.728	speaker#22	male	native	Some think, "My main market is domestic and I don't want to concern about that market."	4	112	338	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1148.728	1153.763	speaker#22	male	native	Therefore, in this case, you go ahead to register, register. Some businesses, and even majority of them hold this opinion now.	4	112	339	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1154.419	1160.247	speaker#4	male	native	Wang Yang believed that with the growing power of our country, the world is gradually learning about and becoming familiar with Chinese time-honored brands.	4	113	341	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1160.247	1174.342	speaker#4	male	native	When the influence of time-honored brands continue to expand globally, some businessmen will also have their eyes on the business opportunities that long-established stores have to do what they can to seek gain. As a result, long-established stores should foster the protection awareness of intellectual property rights +as soon as possible.	4	113	343	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1177.131	1181.647	speaker#22	male	native	Already or developing, the path to uh, develop international markets is probably rough.	4	114	347	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1181.647	1187.522	speaker#22	male	native	Now that people have this awareness, they should register their trademarks overseas.	4	114	348	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1187.522	1190.975	speaker#22	male	native	In this case, you are consciously protecting your +intellectual property rights.	4	114	349	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1190.975	1197.600	speaker#3	male	native	Mr. Li, long-established brands in China like this uh, being registered overseas is often seen in recent years.	4	115	350	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1197.600	1203.647	speaker#3	male	native	Some businesses will make an effort to protect their rights while others are unconcerned.	4	115	352	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1203.647	1217.991	Li_mingde	male	native	Spend a little sum of money to hire someone to go through the procedure to register it is better or let other people snatch your trademark and lose a market because your products cannot get it is better?	4	116	354	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1210.296	1210.655	speaker#3	male	native	Uh-huh.	4	117	358	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1217.991	1218.601	speaker#3	male	native	Yes, yes, yes.	4	119	363	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1218.601	1221.523	Li_mingde	male	native	This involves a uh, balanced choice.	4	120	364	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1221.523	1222.132	speaker#3	male	native	Yes, yes, yes.	4	121	365	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1222.132	1225.850	Li_mingde	male	native	Therefore, in my opinion, we should still do it.	4	122	366	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1225.850	1226.285	speaker#3	male	native	Yes, yes.	4	123	367	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1226.285	1229.287	Li_mingde	male	native	Such time and energy should be spent.	4	124	368	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1229.287	1233.771	speaker#3	male	native	Our case today can serve as a reminder for businesses.	4	125	369	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1233.771	1239.568	speaker#3	male	native	Many businesses may need to ponder carefully what they should do for their trademarks	4	125	370	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1239.568	1245.599	speaker#3	male	native	so they can play the role that they ought to play in future global economic structure.	4	125	371	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1245.599	1248.756	speaker#3	male	native	Thank you for tuning in to today's show. Thank you Mr. Li for participating in our live discussion.	4	125	372	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1248.756	1250.631	speaker#3	male	native	Legal Report will see you same time tomorrow.	4	125	373	report	

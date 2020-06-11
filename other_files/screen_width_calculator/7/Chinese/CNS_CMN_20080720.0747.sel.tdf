@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0747	0	800.0	900.0	speaker	unknown	unknown	“女人最幸福的怀胎十月，对我却是整整10个月的心理煎熬！”沈洁说，白血病人怀孕、生产都随时可能造成大出血，危及生命。	0	0	0		
+CNS_CMN_20080720.0747	0	1200.0	1300.0	speaker	unknown	unknown	“这名孕妇的脾脏已经肿大如篮球，随时可能破裂，她却凭借坚强的意志生下一个健康的女儿。”中南大学湘雅医院产科主任胡招娣介绍，沈洁的脾脏已占据整个左腹，严重压迫子宫。	0	0	0		
+CNS_CMN_20080720.0747	0	1400.0	1500.0	speaker	unknown	unknown	“停药10个月，妻子的白血病已复发，必须马上进行化疗。”杨康说，沈洁后续治疗的费用还是一个天文数字，他现在最大的愿望就是努力挣钱，将来让妻子和孩子过上更好的生活。	0	0	0		

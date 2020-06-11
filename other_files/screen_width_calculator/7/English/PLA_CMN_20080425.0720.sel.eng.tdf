@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080425.0720	0	600.0	700.0	speaker	unknown	unknown	"He turned out to be a fugitive criminal!" exclaimed the crowd of onlookers after finding out the truth.	0	0	0		
+PLA_CMN_20080425.0720	0	700.0	800.0	speaker	unknown	unknown	According to Yang Jingliang of the office of the Xuanwu Public Security Branch Bureau, the name of the male youth taken away by police was Chang. On the morning of the 23rd, he and his father came to the household registration center with their household register to apply for a identity card. The policewoman on duty received them warmly.	0	0	0		

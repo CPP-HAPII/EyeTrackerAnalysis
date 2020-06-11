@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070127.0008	0	10010.000	10019.900				Over 3,900 Veteran Cadres of Chengdu Military Command Happily Move into New Residences	0	0	0		
+PLA_CMN_20070127.0008	0	20010.000	20019.900				(Source: PLA Daily, Page 1, Time of Release: 2007-01-27 06:45)	0	0	0		
+PLA_CMN_20070127.0008	0	30010.000	30019.900				Staff Report, Special Correspondent Liu Daoguo Reporting: Jiejia Garden, a residential subdivision for retired cadres located on the banks of the Qingshui River in Chengdu City, was recently festooned with lights and ribbons, creating a joyful atmosphere, as a group of veteran cadres happily moved into new residences.	0	0	0		
+PLA_CMN_20070127.0008	0	30020.000	30029.900				To this point, Chengdu Military Command has provided over 3,900 veteran cadres with spacious, bright, and comfortable new residences, becoming the first in the entire military to realize the goal of having residences available when cadres retire to local areas.	0	0	0		
+PLA_CMN_20070127.0008	0	30030.000	30039.900				Chengdu Military Command formulated the "Development Plan for Construction of Residences for Retired Cadres in the Military Command" and overcame difficulties such as fund shortages. One after another, it launched five unified construction projects including Chengdu's Jiejia Garden and 14 commercial housing district remodeling projects, securing an inventory of over 3,000 residential units.	0	0	0		

@@ -1,0 +1,22 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0036.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	A Small Plane Flying at an Air Show in Germany Crashes into Crowds, Killing One Person and Injuring Many Others	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008, 09:32, Source: Chinanews.com - Comment	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Chinanews.com, April 27	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	According to German police authorities, a small sport plane crashed into a crowd of people shortly after landing at a small air show near Eisenach in central Germany on the 26th, killing a 45-year-old saleswoman and injuring 10 others, including two children.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	A spokesperson for police in the town of Gotha said that the plane hit people while flying along the runway and then struck a children's carousel.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	According to a Thüringer Allgemeinen reporter, shortly after the small plane took off, the air show broadcaster said the plane had a problem.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	The loudspeaker shouted: "Abort the take-off, abort the take-off."	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	The plane then lost control.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1293.750	1300.000	TEXT1	unknown	unkown	Another eyewitness said: "The plane was flying one meter above the ground, but it failed to rise further, and then it lost control and crashed into spectators."	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	There were 5,000 spectators on the scene at the time. They were watching the air show at Kindel +Airfield near Eisenach.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	People were devastated by the aviation accident.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	After the accident took place, a newspaper reporter said: "All the people stood up, and they silently covered their faces with their hands."	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	One woman was killed in the accident and three men were seriously wounded, including the pilot, said a police spokesperson -- said Koehler.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	Another seven people suffered light injuries, ((pw)) including two children aged nine and 14.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1875.000	1887.500	TEXT1	unknown	unkown	In addition, five spectators received treatment due to shock.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1887.500	1893.750	TEXT1	unknown	unkown	All those injured had been sent to the hospital, and the police used a rescue helicopter to transport the wounded.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	1893.750	1900.000	TEXT1	unknown	unkown	She said that the carousel was not in operation when the plane hit it. The two-day air show event had been canceled, and the police are still investigating the cause of this accident.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	According to German media reports, Thuringia Minister-President Dieter Althaus was stunned by the accident.	0	0	0		statement
+CNS_CMN_20080427.0036.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	A spokesperson for the government said: "He is closely following the developments of the incident and thanking all the volunteers who have offered their assistance during the accident." (Bi Yuan)	0	0	0		statement

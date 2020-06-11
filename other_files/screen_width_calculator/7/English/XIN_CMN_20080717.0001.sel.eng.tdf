@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080717.0001	0	100.0	200.0	speaker	unknown	unknown	On October 12, 2002, the Supreme People's Court of the People's Republic of China published the "Interpretation of the Supreme People's Court about Some Issues Related to the Application of Laws during the Hearing of the Cases of Civil Disputes over Copyright" (Fa Shi [2002] No. 31). Article 16 provides: "When the current event news collected and edited by others is transmitted and reported, the source should be indicated."	0	0	0		
+XIN_CMN_20080717.0001	0	600.0	700.0	speaker	unknown	unknown	Xinhua News Agency	0	0	0		

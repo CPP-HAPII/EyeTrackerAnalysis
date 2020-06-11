@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.3344	0	0.0	100.0	speaker	unknown	unknown	深圳324家工业企业计划外迁 涉及产值209.43亿	0	0	0		
+CNS_CMN_20080715.3344	0	200.0	300.0	speaker	unknown	unknown	截至上月5日，深圳贸工局调研表明，深圳324家工业企业计划外迁，涉及工业产值209.43亿元。	0	0	0		
+CNS_CMN_20080715.3344	0	300.0	400.0	speaker	unknown	unknown	记者昨日从深圳市政协获悉，深圳市贸工局在回复政协委员相关提案时表示，企业外迁和产业转移尚未对深圳工业增长带来显著影响，但将改革招商方式应对企业外迁，优先发展产业制造业。	0	0	0		
+CNS_CMN_20080715.3344	0	800.0	900.0	speaker	unknown	unknown	此外，截至上月5日，在贸工局开展的调查问卷中，共有61家工业企业填报了部分外迁的资料，涉及工业产值24亿元左右，占深圳市规模以上工业总产值的0.17 %；还有324家工业企业表示计划外迁，涉及工业产值209.43亿元，占该市规模以上工业总产值的1.5%。	0	0	0		
+CNS_CMN_20080715.3344	0	1700.0	1800.0	speaker	unknown	unknown	深圳市贸工局分析认为，由于深圳土地资源紧缺，一些企业将部分或全部生产环节外迁到周边城市或国内其他地区，但其总部和高端生产环节仍然保留在深圳。	0	0	0		

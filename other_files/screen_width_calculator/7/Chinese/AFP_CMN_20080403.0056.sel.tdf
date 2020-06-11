@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080403.0056	0	0.0	1000.0	speaker	unknown	unknown	崔凡吉莱领导的反对党「民主改革运动」则宣布,崔凡吉莱赢得的选票已超过避免决选所需的五成门槛,而在今天凌晨出炉的国会大选开票结果,反对党更掌控了国会。	0	0	0		
+AFP_CMN_20080403.0056	0	0.0	1000.0	speaker	unknown	unknown	自开票日起穆加比一直未公开露面,但马同加否认穆加比打算认输。	0	0	0		

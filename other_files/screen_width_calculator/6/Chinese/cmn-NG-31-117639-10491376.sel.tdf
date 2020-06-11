@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117639-10491376	0	0.0	100.0	speaker	unknown	unknown	请教在SQL查询方面有没什么推荐的书籍？	0	0	0		
+cmn-NG-31-117639-10491376	0	100.0	200.0	speaker	unknown	unknown	最近发现自己的SQL查询语句写得很烂，想重新认真学习下SQL的查询语句，不知道有没有什么推荐的书籍的？	0	0	0		

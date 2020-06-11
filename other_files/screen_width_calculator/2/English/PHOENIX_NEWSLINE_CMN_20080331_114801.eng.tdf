@@ -1,0 +1,420 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 31.643999999999998, 535.572, 614.43399999999997, 1114.826, 1273.098, 1611.4880000000001, 1777.624, 1810.528, 1826.3209999999999, 9999999.0]
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	31.644	34.698	Zheng_hao	male	native	On the heels of current events, let's now begin. Welcome to the Hongyun Newsline program.	1	1	1	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	34.698	44.129	Zheng_hao	male	native	This morning the 2008 Beijing Olympics Torch Welcoming Ceremony and the Global Olympic Torch Relay Launching Ceremony were held in grand style in Beijing's Tiananmen Square.	1	1	2	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	44.129	49.377	Zheng_hao	male	native	We note, uh, in the recent period of time the Party and state leaders, uh, on separate occasions, have all pointed out, uh,	1	1	3	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	49.377	54.342	Zheng_hao	male	native	people from any minority faction who want to sabotage the Olympic Games are all doomed to failure.	1	1	4	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	54.342	58.055	Zheng_hao	male	native	Well, in fact, uh, this incident that they are referring to, uh, mainly means the disturbance in Tibet.	1	1	5	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	58.055	63.624	Zheng_hao	male	native	How do we look at this incident, and, uh, how do we look at the reports and behavior of the Western media regarding this incident?	1	1	6	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	63.624	67.576	Zheng_hao	male	native	For this topic, let's ask current events commentator Mr. Qiu Zhenhai to make an analysis for everyone.	1	1	7	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	67.576	71.917	Zheng_hao	male	native	How do you view the Western media's commentary, this commentary about the Tibetan rebellions -- riots?	1	1	8	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	71.917	72.768	Qiu_zhenhai	male	native	Right, in the recent period of time,	1	2	9	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	72.768	73.108	Qiu_zhenhai	male	native	These --	1	3	10	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	72.768	73.108	Zheng_hao	male	native	Uh-huh.	1	3	11	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	73.108	74.019	Qiu_zhenhai	male	native	-- reports by the Western media,	1	4	12	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	74.019	74.288	Qiu_zhenhai	male	native	um,	1	5	13	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	74.019	74.288	Zheng_hao	male	native	Uh-huh.	1	5	14	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	74.288	76.468	Qiu_zhenhai	male	native	have again and again been mistaken, ah, regarding the Tibet issue.	1	6	15	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	76.468	80.719	Qiu_zhenhai	male	native	So, China's netizens have recently discovered an anti-CNN public opinion movement as well.	1	6	16	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	80.719	80.959	Zheng_hao	male	native	Uh-huh.	1	7	17	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	80.959	84.420	Qiu_zhenhai	male	native	Now there is a www.anti-cnn.com,	1	8	18	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	84.420	84.690	Qiu_zhenhai	male	native	which is --	1	9	19	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	84.420	84.690	Zheng_hao	male	native	Uh-huh.	1	9	20	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	84.690	86.079	Qiu_zhenhai	male	native	-- an anti-CNN website.	1	10	21	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	86.079	88.624	Qiu_zhenhai	male	native	So I, too, have noticed that there are indeed many responses within this website.	1	10	22	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	88.624	88.983	Zheng_hao	male	native	Uh-huh.	1	11	23	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	88.983	92.628	Qiu_zhenhai	male	native	Ah, so this morning, um, what you just said is quite correct; this Olympic torch has arrived in Beijing, ah,	1	12	24	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	92.628	92.743	Zheng_hao	male	native	Uh-huh.	1	13	25	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	92.743	95.929	Qiu_zhenhai	male	native	so in the next two months a relay will begin around the whole world,	1	14	26	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	95.929	96.139	Zheng_hao	male	native	Uh-huh.	1	15	27	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	96.139	99.073	Qiu_zhenhai	male	native	so it will go to many cities around the world,	1	16	28	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	99.073	103.851	Qiu_zhenhai	male	native	which will also include going to, um, China's Tibet, and then through Tibet it will enter, uh, climb, um, Mount Everest.	1	16	29	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	103.851	104.432	Zheng_hao	male	native	Uh-huh.	1	17	30	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	104.432	108.265	Qiu_zhenhai	male	native	So therefore, uh, I believe that in the near future, on the one hand China will increase security;	1	18	31	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	108.265	116.379	Qiu_zhenhai	male	native	um, however, at the same time, uh, Tibetan independence activists, and some other -- some elements who harbor evil intentions, uh, I think, will all carry out some so-called destructive activities at every stop.	1	18	32	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	116.379	118.535	Qiu_zhenhai	male	native	But I think this in itself should not be enough to cause any huge waves.	1	18	33	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	118.535	118.715	Zheng_hao	male	native	Uh-huh.	1	19	34	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	118.715	121.050	Qiu_zhenhai	male	native	On this I think we should be full of confidence.	1	20	35	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	121.050	128.206	Qiu_zhenhai	male	native	However, during this process some small disturbances have occurred, uh, I think that recently, besides the Olympics, besides, um, Tibet and so on,	1	20	36	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	128.206	132.459	Qiu_zhenhai	male	native	there is also a string of disturbances, uh, I think everyone can draw some conclusions from some experience,	1	20	37	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	132.459	136.949	Qiu_zhenhai	male	native	so that the future, um, Olympics crisis, or the management of the Olympics crisis,	1	20	38	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	136.949	137.068	Zheng_hao	male	native	Uh-huh.	1	21	39	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	137.068	141.829	Qiu_zhenhai	male	native	or the international public relations of the Olympics and so on over the next four months can be handled even better,	1	22	40	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	141.829	142.038	Qiu_zhenhai	male	native	be handled --	1	23	41	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	141.829	142.038	Zheng_hao	male	native	Uh-huh.	1	23	42	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	142.038	142.938	Qiu_zhenhai	male	native	-- even more perfectly.	1	24	43	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	142.938	149.794	Qiu_zhenhai	male	native	Currently we know there are still four full months until the Beijing Olympics, so I think that it might be better if we can do some reflection on the Tibetan disturbances.	1	24	44	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	149.794	154.195	Qiu_zhenhai	male	native	So just now I said that there were many mistaken reports of this, um, this Tibetan disturbance in the Western media,	1	24	45	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	154.195	157.056	Qiu_zhenhai	male	native	and many ((pw)) ((pw)) transplanted images, ah, have also emerged.	1	24	46	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	157.056	160.063	Qiu_zhenhai	male	native	For example, making this, uh, Nepalese military police officer --	1	24	47	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	160.063	160.213	Zheng_hao	male	native	Uh-huh.	1	25	48	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	160.213	165.170	Qiu_zhenhai	male	native	-- beating this Nepalese man out to be the Chinese, um, military police officer beating a Tibetan;	1	26	49	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	165.170	172.086	Qiu_zhenhai	male	native	making this rescue by the Chinese military police officer of a Han Chinese person, ah, out to be, out to be an arrest by the Chinese military police officer of a Tibetan, etc.	1	26	50	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	172.086	172.249	Zheng_hao	male	native	Uh-huh.	1	27	51	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	172.249	175.380	Qiu_zhenhai	male	native	So all of these, uh, have given rise to much indignation and backlash among China's netizens.	1	28	52	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	175.380	183.270	Qiu_zhenhai	male	native	And there are also some Western media, including Germany's, such as (()), that have all made some apologies and so on; so, this is one aspect of the problem.	1	28	53	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	183.270	188.284	Qiu_zhenhai	male	native	Uh, another aspect is, uh, we've seen, um, uh, in the political circles of the West,	1	28	54	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	188.284	191.967	Qiu_zhenhai	male	native	yesterday and the past couple of days, the EU's, um, foreign ministers meeting has been held.	1	28	55	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	191.967	197.870	Qiu_zhenhai	male	native	Originally, last week everyone was relatively worried that at the EU foreign ministers meeting a decision could possibly be made to boycott the Beijing Olympics opening ceremony.	1	28	56	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	197.870	198.105	Qiu_zhenhai	male	native	But --	1	29	57	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	197.870	198.105	Zheng_hao	male	native	Uh-huh.	1	29	58	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	198.105	198.674	Qiu_zhenhai	male	native	-- there wasn't.	1	30	59	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	198.674	205.500	Qiu_zhenhai	male	native	Uh, so now inside -- um, the EU foreign ministers basically are opposed to, that is, want to boycott the Beijing opening ceremony.	1	30	60	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	205.500	211.524	Qiu_zhenhai	male	native	Uh, but they called on Beijing and the Dalai Lama to hold a so-called substantive, constructive dialogue.	1	30	61	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	211.524	212.003	Zheng_hao	male	native	Uh-huh.	1	31	62	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	212.003	219.027	Qiu_zhenhai	male	native	Uh, so for example, Germany's minister of foreign affairs and the president of Germany, the chancellor of Germany, uh, have said that they will not come to Beijing to participate in the Olympics,	1	32	63	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	219.027	222.955	Qiu_zhenhai	male	native	but their excuse was not to boycott; their excuse was said to be that they had not planned on coming in the first place.	1	32	64	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	222.955	223.105	Zheng_hao	male	native	Uh-huh.	1	33	65	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	223.105	226.153	Qiu_zhenhai	male	native	So there weren't any cancellations or anything.	1	34	66	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	226.153	231.153	Qiu_zhenhai	male	native	So we can see that this actually reflects a kind of a policy of the West toward China as a whole on the one hand,	1	34	67	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	231.153	236.063	Qiu_zhenhai	male	native	and its values on the other hand. And another aspect is that they have a rather subtle kind of mentality.	1	34	68	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	236.063	243.309	Qiu_zhenhai	male	native	For the so-called, so-called values, uh, it is extremely obvious that whether on the issues of human rights, Tibet, and so on, including some other issues, the West has its values.	1	34	69	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	243.309	243.698	Zheng_hao	male	native	Uh-huh.	1	35	70	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	243.698	250.404	Qiu_zhenhai	male	native	So, but as to how it deals with China as a whole, basically it is still business as usual.	1	36	71	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	250.404	250.584	Zheng_hao	male	native	Uh-huh.	1	37	72	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	250.584	252.650	Qiu_zhenhai	male	native	This time it was especially obvious, especially in Europe.	1	38	73	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	252.650	256.692	Qiu_zhenhai	male	native	Even though we have seen that in Europe, ah, on the one hand Europe has been especially fierce on the Tibet issue;	1	38	74	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	256.692	257.021	Zheng_hao	male	native	Right.	1	39	75	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	257.021	260.883	Qiu_zhenhai	male	native	we see that on the Tibet issue, Europe -- its degree of fierceness has surpassed that of America.	1	40	76	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	260.883	265.391	Qiu_zhenhai	male	native	The reason the degree of fierceness of European leaders on the Tibet issue has surpassed that of America is that two weeks ago,	1	40	77	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	265.391	269.536	Qiu_zhenhai	male	native	I mentioned here, Europe has a kind of natural complex for Tibet.	1	40	78	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	269.536	275.764	Qiu_zhenhai	male	native	This kind of natural complex for a Tibetan Shangri-La, a kind of complex for primitive human civilization has surpassed that of America.	1	40	79	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	275.764	278.528	Qiu_zhenhai	male	native	Because Europe is a continent with a very ancient civilization as well, right?	1	40	80	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	278.528	284.866	Qiu_zhenhai	male	native	Uh, but at the same time, uh, Europe has a kind of extremely subtle kind of mentality toward China; this kind of mentality in a way is shown in the reports of the media.	1	40	81	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	284.866	289.357	Qiu_zhenhai	male	native	So I think, in just a minute, I, I'll have a lot of time in which I can analyze the mentality of the, um, reports by the European media.	1	40	82	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	289.357	289.607	Zheng_hao	male	native	Uh-huh.	1	41	83	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	289.607	293.589	Qiu_zhenhai	male	native	Another example is in Germany, as I just said, the German minister of foreign affairs, the German president, and the German chancellor,	1	42	84	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	293.589	298.888	Qiu_zhenhai	male	native	on the one hand, said they would not come to Beijing to participate in the Beijing Olympics opening ceremony, but on the other hand, they said it was not in order to boycott the Beijing Olympics; "We didn't want to come in the first place."	1	42	85	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	298.888	299.068	Zheng_hao	male	native	Uh-huh.	1	43	86	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	299.068	303.140	Qiu_zhenhai	male	native	"It wasn't originally in our plans, so there wasn't such a thing as a cancellation."	1	44	87	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	303.140	309.877	Qiu_zhenhai	male	native	All of this shows that he did not want to come participate, but at the same time also wanted to find some excuses, saying I don't really want to boycott you; that's a kind of, relatively speaking, subtle mentality,	1	44	88	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	309.877	312.931	Qiu_zhenhai	male	native	trying to keep an appropriate balance between the diplomacy of values that he originally upheld,	1	44	89	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	312.931	313.246	Zheng_hao	male	native	Uh-huh.	1	45	90	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	313.246	321.045	Qiu_zhenhai	male	native	and the rational and pragmatic diplomacy of interests he has toward China; saving China some face, while at the same time saving his own face a bit.	1	46	91	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	321.045	321.194	Zheng_hao	male	native	Uh-huh.	1	47	92	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	321.194	325.147	Qiu_zhenhai	male	native	I think that from European political circles we can decipher a kind of extremely subtle sort of mentality.	1	48	93	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	325.147	328.362	Qiu_zhenhai	male	native	So currently I think let's still return to this Chinese and Western media's,	1	48	94	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	328.362	328.649	Zheng_hao	male	native	Uh-huh.	1	49	95	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	328.649	331.763	Qiu_zhenhai	male	native	-- a conflict between China and the Western media over this Tibet issue.	1	50	96	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	332.272	340.895	Qiu_zhenhai	male	native	Um, it should be admitted that this time the Western media have made a big blunder; so I think that there are a great many reasons for this big, this big blunder. There are superficial reasons and there are deep reasons.	1	50	98	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	340.895	344.529	Qiu_zhenhai	male	native	If you go talk to reporters and editors of the Western media, they surely will tell you that	1	50	99	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	344.529	348.092	Qiu_zhenhai	male	native	the reasons are all superficial; behind the scenes we do not have bad attention toward China,	1	50	100	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	348.092	348.391	Zheng_hao	male	native	Uh-huh.	1	51	101	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	348.391	349.697	Qiu_zhenhai	male	native	do not have bad intentions toward China.	1	52	102	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	349.697	352.182	Qiu_zhenhai	male	native	I think, I believe that part of this does make sense.	1	52	103	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	352.182	355.727	Qiu_zhenhai	male	native	For example, there are some reasons why he wrongly transplanted this image,	1	52	104	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	355.727	358.889	Qiu_zhenhai	male	native	ah, thinking it was the Indian military police -- mistaking them for Chinese military police.	1	52	105	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	358.889	366.045	Qiu_zhenhai	male	native	They themselves said it was because the uniform of the Chinese military police looks about the same as that of the ((pw)) Tibetan military police -- the Indian military police; they are all green.	1	52	106	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	366.045	372.243	Qiu_zhenhai	male	native	So our run-of-the-mill, international news editors -- we do not have this basic knowledge, ah, so we were very quick to -- as a result, made mistakes.	1	52	107	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	372.243	379.737	Qiu_zhenhai	male	native	I think that perhaps some of it is due to this kind of reason, including us; if we take a look at the uniform of the military police of some country, we might not, not be very familiar with it; sometimes we, too, could get it wrong.	1	52	108	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	379.737	380.956	Qiu_zhenhai	male	native	This is a technical reason.	1	52	109	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	380.956	387.303	Qiu_zhenhai	male	native	However, there are also some deep, psychological reasons. Why does the Western media, whether it be television stations or newspapers,	1	52	110	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	387.303	389.887	Qiu_zhenhai	male	native	when he receives this kind of a photograph, his first reaction,	1	52	111	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	389.887	390.246	Zheng_hao	male	native	Uh-huh.	1	53	112	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	390.246	394.396	Qiu_zhenhai	male	native	was what he saw were definitely Chinese military police, he just thought that these must be Chinese military police arresting Tibetans.	1	54	113	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	394.396	402.331	Qiu_zhenhai	male	native	Including when the Chinese military police, military police were rescuing a Han Chinese, immediately their first natural reaction was to say that these are Chinese military police arresting a Tibetan.	1	54	114	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	402.331	408.439	Qiu_zhenhai	male	native	With this background it is then very difficult to explain it with his, uh, um, carelessness, technical carelessness.	1	54	115	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	408.439	412.729	Qiu_zhenhai	male	native	Even if, even if it was technical carelessness, there still is no way to explain it, since you represent serious Western media,	1	54	116	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	412.729	412.849	Zheng_hao	male	native	Uh-huh.	1	55	117	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	412.849	414.816	Qiu_zhenhai	male	native	do you have no professionalism?	1	56	118	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	414.816	419.696	Qiu_zhenhai	male	native	Wouldn't you -- before you use the photograph, wouldn't you check it over and over again?	1	56	119	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	419.696	422.976	Qiu_zhenhai	male	native	We know that many serious Western media all have a guiding principle.	1	56	120	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	422.976	428.365	Qiu_zhenhai	male	native	That is, when a piece of news is from only one source, one source of information, most don't dare to use it.	1	56	121	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	428.365	429.467	Qiu_zhenhai	male	native	Only when there is definitely a second,	1	56	122	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	429.467	429.676	Zheng_hao	male	native	Uh-huh.	1	57	123	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	429.676	432.886	Qiu_zhenhai	male	native	independent source of information to corroborate it can this piece of news be published.	1	58	124	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	432.886	436.178	Qiu_zhenhai	male	native	All of this is the Western media's kind of, uh, kind of professionalism.	1	58	125	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	436.178	439.347	Qiu_zhenhai	male	native	So in the face of this kind of professional -- this kind of bias,	1	58	126	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	439.347	439.587	Zheng_hao	male	native	Uh-huh.	1	59	127	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	439.587	441.058	Qiu_zhenhai	male	native	professionalism has already gone out the window.	1	60	128	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	441.058	446.742	Qiu_zhenhai	male	native	This is exactly what I said two weeks ago that a kind of serious spirit of criticism of the West, a sort of pragmatic spirit of seeking proof,	1	60	129	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	446.742	446.922	Zheng_hao	male	native	Uh-huh.	1	61	130	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	446.922	447.884	Qiu_zhenhai	male	native	a sort of empirical spirit,	1	62	131	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	447.884	451.387	Qiu_zhenhai	male	native	often seems to have receded into a minor position when it faces prejudice against China, whether it be ideological,	1	62	132	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	451.387	451.657	Zheng_hao	male	native	Uh-huh.	1	63	133	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	451.657	460.400	Qiu_zhenhai	male	native	or a kind of complex for Tibet, or faces a kind of arrogance of the mainstream values of its freedom, democracy and tradition and so on.	1	64	134	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	460.400	464.771	Qiu_zhenhai	male	native	So I think that here there are technical reasons for it, making mistakes in a hurry,	1	64	135	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	464.771	464.921	Zheng_hao	male	native	Uh-huh.	1	65	136	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	464.921	468.239	Qiu_zhenhai	male	native	but in a hurry -- why would they make mistakes in a hurry; why not go and seek proof over and over again?	1	66	137	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	468.239	468.419	Zheng_hao	male	native	Uh-huh.	1	67	138	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	468.419	469.630	Qiu_zhenhai	male	native	Why is it not just one television station,	1	68	139	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	469.630	474.771	Qiu_zhenhai	male	native	but the television stations of many, many nations from America to Europe making mistakes at the same time?	1	68	140	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	474.771	482.706	Qiu_zhenhai	male	native	Well, I think that behind this is a kind of phenomenon, and that this phenomenon is exactly the kind of so-called making mistakes in a hurry, making mistakes in a hurry, which is caused by this background of multiple complexes we mentioned just now.	1	68	141	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	482.706	486.431	Qiu_zhenhai	male	native	So I think this time the Western media as a whole should have a lot of room for reflection.	1	68	142	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	486.431	486.611	Zheng_hao	male	native	Uh-huh.	1	69	143	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	486.611	492.988	Qiu_zhenhai	male	native	Here, there were unintentional mistakes; however, there were also intentional mistakes; or there were unintentional -- or there was a bias behind the intentional mistakes,	1	70	144	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	492.988	493.138	Zheng_hao	male	native	Uh-huh.	1	71	145	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	493.138	495.580	Qiu_zhenhai	male	native	as well as an issue of values it has toward China as a whole.	1	72	146	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	495.580	500.169	Qiu_zhenhai	male	native	But on the other hand -- I can talk about it in just a minute -- on the other hand there is also room for reflection for the Chinese side.	1	72	147	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	500.169	505.109	Qiu_zhenhai	male	native	Why does the Western media -- let's cast aside the parts of it that are biased, prejudiced, and arrogant,	1	72	148	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	505.109	505.289	Zheng_hao	male	native	Uh-huh.	1	73	149	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	505.289	507.646	Qiu_zhenhai	male	native	when the crisis is beginning, the Chinese side --	1	74	150	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	507.646	511.427	Qiu_zhenhai	male	native	don't we have some room for reflection in public relations strategy and international public relations strategy?	1	74	151	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	511.427	517.385	Qiu_zhenhai	male	native	I think perhaps this is a question that everyone on both sides, when calming down, can carefully ponder and reflect on after the disturbance has passed.	1	74	152	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	517.385	523.732	Zheng_hao	male	native	True, when the Western media were reporting, uh, reporting this violent incident in Lhasa, uh, as you just said, perhaps some technical problems could have appeared;	1	75	153	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	523.732	530.392	Zheng_hao	male	native	nevertheless, I think it still cannot be excused; much, much less that during the reporting process, uh, they perhaps even had a kind of, a special kind of mentality.	1	75	154	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	530.392	532.094	Zheng_hao	male	native	So, just what is this kind of mentality?	1	75	155	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	532.094	535.572	Zheng_hao	male	native	In the next segment we will again listen to an analysis by Mr. Qiu Zhenhai. See you again in a minute.	1	75	156	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	614.434	619.644	Zheng_hao	male	native	When the Western media were reporting on the Lhasa incident, uh, some so-called technical problems could have happened.	3	77	158	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	619.644	625.003	Zheng_hao	male	native	However, uh, nevertheless, we believe, uh, actually, uh, in terms of these problems, uh, they still should not be excused.	3	77	159	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	625.003	631.974	Zheng_hao	male	native	But even more we believe, uh, in fact the Western media, uh, still has a kind of subtle mentality in its reports of the Tibet issue.	3	77	160	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	631.974	633.586	Zheng_hao	male	native	Just what kind of a mentality is this?	3	77	161	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	633.586	637.273	Zheng_hao	male	native	Let's listen again to an analysis by Mr. Qiu Zhenhai. So, how do you see this part of it?	3	77	162	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	637.273	638.706	Qiu_zhenhai	male	native	Right, this kind of subtle mentality	3	78	163	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	638.706	638.975	Qiu_zhenhai	male	native	is extremely,	3	79	164	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	638.706	638.975	Zheng_hao	male	native	Uh-huh.	3	79	165	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	638.975	639.279	Qiu_zhenhai	male	native	important.	3	80	166	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	639.279	639.519	Zheng_hao	male	native	Uh-huh.	3	81	167	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	639.519	641.422	Qiu_zhenhai	male	native	Recently, um, last week I was on vacation.	3	82	168	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	641.422	642.119	Qiu_zhenhai	male	native	So I went,	3	83	169	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	641.422	642.119	Zheng_hao	male	native	Uh-huh.	3	83	170	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	642.119	644.844	Qiu_zhenhai	male	native	I went overseas, in fact with ((pw)), quite a few Western nations'	3	84	171	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	644.844	645.113	Qiu_zhenhai	male	native	reporters,	3	85	172	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	644.844	645.113	Zheng_hao	male	native	Uh-huh.	3	85	173	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	645.113	646.615	Qiu_zhenhai	male	native	we all did some discussions on this.	3	86	174	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	646.615	648.501	Qiu_zhenhai	male	native	In fact I secretly did some so-called investigation as well.	3	86	175	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	648.501	648.711	Zheng_hao	male	native	Uh-huh.	3	87	176	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	648.711	652.633	Qiu_zhenhai	male	native	Well, I feel in fact rather than saying they were mistakes made in a hurry, or technical breakdowns,	3	88	177	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	652.633	652.873	Zheng_hao	male	native	Uh-huh.	3	89	178	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	652.873	657.095	Qiu_zhenhai	male	native	uh, either unintentional or intentional, it would be better to say that there is a kind of subtle mentality behind it.	3	90	179	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	657.095	657.275	Zheng_hao	male	native	Uh-huh.	3	91	180	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	657.275	662.813	Qiu_zhenhai	male	native	This subtle mentality is as I just, as I said two weeks ago, the West has multiple complexes toward China, which as background have given rise to,	3	92	181	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	662.813	665.291	Qiu_zhenhai	male	native	have given rise to this kind of multiple attitudes which they themselves are unable to differentiate	3	92	182	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	665.291	665.530	Zheng_hao	male	native	Uh-huh.	3	93	183	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	665.530	670.569	Qiu_zhenhai	male	native	to the extent that this subtle mentality of theirs will make them fail to live up to their professionalism.	3	94	184	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	670.569	676.018	Qiu_zhenhai	male	native	So, first of all, how does one look at this, this coverage by the Western ((pw)), media on the Tibet issue?	3	94	185	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	676.018	677.640	Qiu_zhenhai	male	native	Um, I think there are two groups.	3	94	186	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	677.640	677.761	Zheng_hao	male	native	Uh-huh.	3	95	187	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	677.761	682.454	Qiu_zhenhai	male	native	The first group is, um, those few reporters who directly entered Tibet,	3	96	188	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	682.454	682.611	Zheng_hao	male	native	Uh-huh.	3	97	189	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	682.611	683.264	Qiu_zhenhai	male	native	reporter	3	98	190	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	683.264	690.659	Qiu_zhenhai	male	native	Specifically speaking, in fact there were only two Western reporters. One was this British Economist reporter stationed in Beijing (());	3	98	191	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	690.659	695.733	Qiu_zhenhai	male	native	The other was a reporter stationed in Beijing, (()), from the German weekly Die Zeit.	3	98	192	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	695.733	696.048	Zheng_hao	male	native	Uh-huh.	3	99	193	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	696.048	702.170	Qiu_zhenhai	male	native	Of the two, one of them was in Tibet on that day, March 14, right in Lhasa; he had originally gone there for another thing.	3	100	194	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	702.170	704.551	Qiu_zhenhai	male	native	Then, as soon as the riots happened, he went straight, went to the scene.	3	100	195	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	704.551	704.821	Zheng_hao	male	native	Uh-huh.	3	101	196	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	704.821	708.907	Qiu_zhenhai	male	native	The other one, uh, entered the West, um, entered Lhasa, Tibet, on March 15.	3	102	197	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	708.907	713.458	Qiu_zhenhai	male	native	Well, both were after other targets and then after they went, during those two days they were both eyewitnesses at the scene in Lhasa.	3	102	198	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	714.027	719.451	Qiu_zhenhai	male	native	The reports that these two reporters dispatched, the reports dispatched from the local areas, were completely objective, completely first-hand.	3	102	200	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	719.451	723.638	Qiu_zhenhai	male	native	It was an extremely direct, extremely objective and balanced report as an eyewitness.	3	102	201	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	723.638	726.637	Qiu_zhenhai	male	native	I read them through very carefully. One was in English, and the other was in German.	3	102	202	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	726.637	731.662	Qiu_zhenhai	male	native	I think the reports by the two of them basically were the first-hand reports of direct eyewitnesses, in which one can find no fault.	3	102	203	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	731.662	731.872	Zheng_hao	male	native	Uh-huh.	3	103	204	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	731.872	737.082	Qiu_zhenhai	male	native	And I had a talk with, with both of them separately. Even though later this (()), due to all kinds of reasons, he --	3	104	205	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	737.082	737.273	Zheng_hao	male	native	Uh-huh.	3	105	206	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	737.273	740.896	Qiu_zhenhai	male	native	I originally wanted to invite him to be on my program, but he said that after he reported it to their headquarters,	3	106	207	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	740.896	741.105	Zheng_hao	male	native	Uh-huh.	3	107	208	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	741.105	743.609	Qiu_zhenhai	male	native	their headquarters thought that now it would not be appropriate to go on Phoenix Satellite TV.	3	108	209	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	743.609	745.864	Qiu_zhenhai	male	native	Of course, my personal interpretation was that behind this it	3	108	210	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	745.864	746.184	Qiu_zhenhai	male	native	had --	3	109	211	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	745.864	746.184	Zheng_hao	male	native	Uh-huh.	3	109	212	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	746.184	748.280	Qiu_zhenhai	male	native	-- some kind of very subtle sort of problem of mentality.	3	110	213	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	748.280	748.549	Zheng_hao	male	native	Uh-huh.	3	111	214	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	748.549	752.321	Qiu_zhenhai	male	native	But that Hua Jiuzhi, that is, that reporter from Germany, (()), came on my show.	3	112	215	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	752.321	756.858	Qiu_zhenhai	male	native	Um, I also probed him very carefully. During the program, uh, in his report he,	3	112	216	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	756.858	760.555	Qiu_zhenhai	male	native	um, wrote some of the many, many first-handed facts as well as his viewpoints.	3	112	217	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	760.555	760.854	Zheng_hao	male	native	Uh-huh.	3	113	218	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	760.854	769.117	Qiu_zhenhai	male	native	This was one group. I think that those Western reporters who went directly to the scene ((pw)) possessed some of the professionalism that a Western reporter should have, and that is balanced,	3	114	219	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	769.117	769.297	Zheng_hao	male	native	Uh-huh.	3	115	220	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	769.297	770.375	Qiu_zhenhai	male	native	and objective reporting,	3	116	221	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	770.375	777.261	Qiu_zhenhai	male	native	based on -- using their own eyes as much as possible, rather than obtaining their news sources in an official, officially organized manner,	3	116	222	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	777.261	783.593	Qiu_zhenhai	male	native	as well as doing all they could to talk with more news sources which had a broader coverage to obtain their information.	3	116	223	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	783.593	784.422	Qiu_zhenhai	male	native	This is one group.	3	117	224	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	783.593	784.422	Zheng_hao	male	native	Uh-huh.	3	117	225	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	784.422	791.817	Qiu_zhenhai	male	native	The second group, uh, is the vast majority of Western media personnel who had no way of going to the scene. So this then gave rise to -- then their bias started to come into play.	3	118	226	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	791.817	792.087	Zheng_hao	male	native	Uh-huh.	3	119	227	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	792.087	798.973	Qiu_zhenhai	male	native	The subtle mentality behind this bias then began to take effect. Under these kinds of circumstances the so-called mistakes made in a hurry and those sorts of technical breakdowns then began to occur.	3	120	228	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	798.973	802.002	Qiu_zhenhai	male	native	So in this, uh, of course, behind this, I believe, um,	3	120	229	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	802.002	807.511	Qiu_zhenhai	male	native	as we just said, I believe, I don't believe this is a kind of unintentional mistakes made in a hurry, but is a kind of subtle mentality.	3	120	230	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	807.511	807.655	Zheng_hao	male	native	Uh-huh.	3	121	231	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	807.655	808.943	Qiu_zhenhai	male	native	So what is this kind of subtle mentality?	3	122	232	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	808.943	815.805	Qiu_zhenhai	male	native	It is nothing other than that China is a communist country; communist countries in their eyes are naturally anti-democratic, anti-freedom, and naturally suppressive.	3	122	233	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	815.805	820.775	Qiu_zhenhai	male	native	In addition, based on what they had before, for example, they seemed to remember vividly a bout of political turmoil that happened in China more than ten years ago.	3	122	234	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	820.775	828.500	Qiu_zhenhai	male	native	So the moment they saw military vehicles appear on the streets of Lhasa, the first idea that occurred to their mind -- they immediately thought that this was suppression,	3	122	235	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	828.500	829.058	Qiu_zhenhai	male	native	right?	3	123	236	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	828.500	829.058	Zheng_hao	male	native	Uh-huh.	3	123	237	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	829.058	834.458	Qiu_zhenhai	male	native	The second mentality, uh, is, for example, this kind of so-called natural complex that they have towards the Tibet issue,	3	124	238	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	834.458	840.583	Qiu_zhenhai	male	native	and so on. This has caused them to actually have a kind of hidden logic, to use a kind of hidden logic, to use a kind of preconceived notion.	3	124	239	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	840.583	846.285	Qiu_zhenhai	male	native	In other words, in, in their reports, they already have a standpoint at the outset: This certainly is your Beijing military police going to suppress those Tibetans.	3	124	240	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	846.285	846.554	Zheng_hao	male	native	Uh-huh.	3	125	241	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	846.554	852.169	Qiu_zhenhai	male	native	And then again starting with this verdict, they go and search for the facts they need that can support this verdict of theirs,	3	126	242	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	852.169	852.349	Zheng_hao	male	native	Uh-huh.	3	127	243	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	852.349	855.767	Qiu_zhenhai	male	native	rather than using a kind of empirical method and starting with the facts,	3	128	244	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	855.767	859.908	Qiu_zhenhai	male	native	and inferring a verdict from a lot of facts. These are two completely different kinds of (()).	3	128	245	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	859.908	864.459	Qiu_zhenhai	male	native	Two completely different kinds of methods of either scholarship or news reporting and interpretation.	3	128	246	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	864.459	871.675	Qiu_zhenhai	male	native	It is such a shame that under these circumstances, the great majority of Western, Western reporters who did not go to the actual scene all adopted the former method.	3	128	247	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	871.675	878.711	Qiu_zhenhai	male	native	They have a verdict first, and then use the verdict to search for a kind of outcome. This is exactly what we call preconceived notions by the media in news studies, in media studies. This is extremely harmful.	3	128	248	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	878.711	879.040	Zheng_hao	male	native	Uh-huh.	3	129	249	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	879.040	886.405	Qiu_zhenhai	male	native	It is very regretful that these kinds of preconceived notions by the media exist in all countries, both in democracies and in dictatorships.	3	130	250	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	886.405	892.528	Qiu_zhenhai	male	native	Both China and the outside world have it; in other words, throughout history both China and the outside world have had it. This is not only a phenomenon of the Western media; China also has this same kind of phenomenon.	3	130	251	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	892.528	896.293	Qiu_zhenhai	male	native	Let me talk a bit about my personal experiences. More than ten years ago, twenty years ago, when I had just arrived in Germany,	3	130	252	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	896.293	900.882	Qiu_zhenhai	male	native	I was working for a mainland Chinese news medium as, um, a special correspondent at the time.	3	130	253	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	900.882	906.900	Qiu_zhenhai	male	native	Back then it happened to be right before Germany had begun its unification, and after the unification, when a lot of problems immediately happened, occurred.	3	130	254	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	906.900	914.175	Qiu_zhenhai	male	native	So at the time these sorts of problems -- I remember that at the time, the chancellor of Germany back then, Kohl, went to East Germany to make inspections, and the angry East German mob threw an egg at him.	3	130	255	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	914.175	919.355	Qiu_zhenhai	male	native	This egg then smoothly began to drip down his cheeks so that, so that Kohl went to fight with that mob, too.	3	130	256	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	919.355	926.990	Qiu_zhenhai	male	native	Um, at that time, in front of the cameras of the entire world's media everything went to chaos, and each day there were hundreds of thousands of people demonstrating on the streets of East Germany.	3	130	257	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	926.990	935.613	Qiu_zhenhai	male	native	So at the time, uh, the majority of Chinese reporters were looking for an already-conceived verdict that this was the result of privatization after the unification of the two Germanys,	3	130	258	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	935.613	937.545	Qiu_zhenhai	male	native	because China at the time was opposing "peaceful evolution."	3	130	259	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	937.545	944.356	Qiu_zhenhai	male	native	China back then very much needed to find an angry mob brought about by privatization after the two Germanys had walked the road of unification.	3	130	260	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	944.356	947.500	Qiu_zhenhai	male	native	So under these kinds of circumstances, the reports about Germany were far from being objective.	3	130	261	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	947.500	947.769	Zheng_hao	male	native	Uh-huh.	3	131	262	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	947.769	950.224	Qiu_zhenhai	male	native	This was a similar occurrence of this kind of situation in the Chinese media at the time.	3	132	263	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	950.224	953.907	Qiu_zhenhai	male	native	And then after a few years, when I again went to work for the European, the German media,	3	132	264	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	953.907	961.182	Qiu_zhenhai	male	native	I discovered, um, if we say that in the past the Chinese media were basing on a verdict that the Chinese media needed to search for facts in Germany that would benefit us,	3	132	265	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	961.182	963.962	Qiu_zhenhai	male	native	then while we were working for the German media, we discovered very quickly that	3	132	266	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	963.962	973.238	Qiu_zhenhai	male	native	we needed to look at China through a different German colored lens, to search for those facts Germany and Europe needed that could prove that Chinese socialism didn't work.	3	132	267	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	973.238	976.592	Qiu_zhenhai	male	native	So we can see that preconceived notions in the media are extremely frightening.	3	132	268	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	976.592	980.694	Qiu_zhenhai	male	native	But very regretfully, it has existed everywhere whether in China or in Europe, in China and the outside world throughout history.	3	132	269	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	980.694	985.934	Qiu_zhenhai	male	native	But, but what we want to say is, although this is a kind of objective reality, this is not an ideal state of affairs.	3	132	270	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	985.934	989.677	Qiu_zhenhai	male	native	For example, ideally news is not processed like this; a first-rate news story is not processed like this.	3	132	271	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	989.677	989.990	Qiu_zhenhai	male	native	A --	3	133	272	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	989.677	989.990	Zheng_hao	male	native	Uh-huh.	3	133	273	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	989.990	996.338	Qiu_zhenhai	male	native	-- first-rate news reporter, no matter if you are in China, in Hong Kong, or in Europe, or in America, you should not	3	134	274	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	996.338	999.827	Qiu_zhenhai	male	native	just think this is acceptable simply because it serves the objective and is a fact;	3	134	275	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	999.827	1000.110	Qiu_zhenhai	male	native	but --	3	135	276	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	999.827	1000.110	Zheng_hao	male	native	Uh-huh.	3	135	277	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1000.110	1004.258	Qiu_zhenhai	male	native	-- you must get, uh, lean toward the most ideal state of affairs.	3	136	278	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1005.007	1010.546	Qiu_zhenhai	male	native	So I feel that regarding the problems with these reports of Tibet this time by the Western media, their preconceived notions should deserve criticizing.	3	136	280	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1010.546	1010.756	Zheng_hao	male	native	Uh-huh.	3	137	281	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1010.756	1014.618	Qiu_zhenhai	male	native	And what is extremely important is still a kind of mentality behind it, a kind of extremely subtle attitude.	3	138	282	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1014.618	1019.019	Qiu_zhenhai	male	native	Just now I spoke of two attitudes; one was an attitude toward the rise of China, and the other is a mentality about the Tibet issue.	3	138	283	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1019.019	1023.212	Qiu_zhenhai	male	native	And most importantly, there is still another mentality, which is the mentality after a disturbance happens.	3	138	284	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1023.212	1023.511	Zheng_hao	male	native	Uh-huh.	3	139	285	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1023.511	1026.744	Qiu_zhenhai	male	native	In particular, it made many Chinese netizens start an anti-CNN movement.	3	140	286	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1026.744	1031.205	Qiu_zhenhai	male	native	Ah, after starting this movement against the inaccurate coverage by the Western media,	3	140	287	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1031.205	1037.762	Qiu_zhenhai	male	native	a considerable portion of the Western media reporters stationed in China or in their local headquarters actually still held a kind of extremely subtle mentality.	3	140	288	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1037.762	1044.199	Qiu_zhenhai	male	native	They either disdained to take care of this dispute in general for you, or, uh, even had a kind of condescending attitude.	3	140	289	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1044.199	1049.828	Qiu_zhenhai	male	native	Or, um, they were concerned about being used by some so-called Chinese, as they see it, propaganda, and so on.	3	140	290	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1049.828	1058.421	Qiu_zhenhai	male	native	All sorts of, uh, I feel that through this whole media confrontation, uh, it should be said that the Western media have quite a lot of room for reflection.	3	140	291	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1058.421	1058.596	Zheng_hao	male	native	Uh-huh.	3	141	292	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1058.596	1063.837	Qiu_zhenhai	male	native	So in this whole conflict between the Chinese and Western media regarding the truth about the Tibet issue,	3	142	293	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1063.837	1067.758	Qiu_zhenhai	male	native	first of all, it was concluded with the Chinese side having the upper hand, the Chinese side winning.	3	142	294	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1067.758	1070.606	Qiu_zhenhai	male	native	But this does not mean that the Chinese side has no room for reflection.	3	142	295	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1070.606	1070.815	Zheng_hao	male	native	Uh-huh.	3	143	296	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1070.815	1076.471	Qiu_zhenhai	male	native	On the contrary, uh, we may ask a question, ah, casting aside so many prejudices by the Western media, casting aside so many subtle mentalities,	3	144	297	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1076.471	1081.711	Qiu_zhenhai	male	native	if from the start the Chinese side had been able to honestly come forth and allow all the reporters from the Western media to go to the location	3	144	298	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1081.711	1088.328	Qiu_zhenhai	male	native	and unveil all the real facts to the Western media's reporters, then no matter how many prejudices they had, no matter how many subtle attitudes they had,	3	144	299	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1088.328	1091.382	Qiu_zhenhai	male	native	I don't think the matter would have gone as badly as it did later on.	3	144	300	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1091.382	1094.723	Qiu_zhenhai	male	native	Because now many reporters of the Western media are saying that because you would not let me go in at the time,	3	144	301	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1094.723	1098.478	Qiu_zhenhai	male	native	we could only go by our imagination; that's why we could only do this or do that.	3	144	302	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1098.478	1102.520	Qiu_zhenhai	male	native	Therefore, we feel that there is a certain truth in this, but a considerable portion of this is also an excuse.	3	144	303	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1102.520	1103.481	Qiu_zhenhai	male	native	But in this, uh,	3	144	304	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1103.481	1103.685	Zheng_hao	male	native	Uh-huh.	3	145	305	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1103.685	1107.251	Qiu_zhenhai	male	native	actually a lot of reflection needs to be done by both sides together.	3	146	306	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1107.251	1111.084	Zheng_hao	male	native	Uh-huh; so, you just mentioned, uh, we have things we need to reflect on as well. Just what do we need to reflect on?	3	147	307	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1111.084	1114.826	Zheng_hao	male	native	In the next segment, uh, we will hear more about how Mr. Qiu Zhenhai views it. We will see you again in a moment.	3	147	308	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1273.098	1281.547	Zheng_hao	male	native	After the riots happened in Lhasa, Tibet, uh, the Western media had their way of doing things. It seems, uh, we should have our own set of methods, too. How should we go about doing things?	5	149	310	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1281.547	1283.697	Zheng_hao	male	native	Let's again hear how Mr. Qiu Zhenhai views it.	5	149	311	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1283.697	1285.733	Zheng_hao	male	native	We can only make a few suggestions;	5	149	312	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1285.733	1285.912	Zheng_hao	male	native	so,	5	150	313	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1285.733	1285.912	Qiu_zhenhai	male	native	Right.	5	150	314	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1285.912	1286.871	Zheng_hao	male	native	how would you make these suggestions?	5	151	315	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1286.871	1290.464	Qiu_zhenhai	male	native	Well, my advice is like this; uh, after this thing with the Western media came out, because they were losing,	5	152	316	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1290.464	1290.644	Zheng_hao	male	native	Right.	5	153	317	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1290.644	1292.741	Qiu_zhenhai	male	native	well, some media made some apologies,	5	154	318	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1292.741	1293.098	Qiu_zhenhai	male	native	but,	5	155	319	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1292.741	1293.098	Zheng_hao	male	native	Uh-huh.	5	155	320	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1293.098	1297.351	Qiu_zhenhai	male	native	emotionally, they were not completely convinced. Um, I think this was, was their problem.	5	156	321	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1297.351	1301.541	Qiu_zhenhai	male	native	So I also noticed that some China-based reporters from the Western media, including their headquarters, uh, wrote some essays,	5	156	322	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1301.541	1301.882	Qiu_zhenhai	male	native	wrote some --	5	157	323	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1301.541	1301.882	Zheng_hao	male	native	Uh-huh.	5	157	324	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1301.882	1303.429	Qiu_zhenhai	male	native	-- some materials in their defense,	5	158	325	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1303.429	1306.914	Qiu_zhenhai	male	native	um, believing that the current anti-CNN movement started by Chinese netizens,	5	158	326	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1306.914	1312.231	Qiu_zhenhai	male	native	including this Anti-CNN.com website, is the beginning of a so-called new democracy movement in China.	5	158	327	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1312.231	1312.543	Zheng_hao	male	native	Uh-huh.	5	159	328	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1312.543	1319.057	Qiu_zhenhai	male	native	So there were even some British newspapers that, um, talked about this alongside a situation in the eighteenth century when China drove out a member of the British imperial family,	5	160	329	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1319.057	1325.554	Qiu_zhenhai	male	native	because this imperial family member was not willing to bow to the Chinese emperor at the time. I think this in itself is very much nonsense.	5	160	330	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1325.554	1330.584	Qiu_zhenhai	male	native	This is a kind of condescending attitude by the Western media, and kind of a very nonsensical kind of attitude at that.	5	160	331	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1330.584	1333.848	Qiu_zhenhai	male	native	This still goes back to that remark, that is, an ill-balanced mentality in the face of China's rise.	5	160	332	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1333.848	1334.028	Zheng_hao	male	native	Uh-huh.	5	161	333	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1334.028	1337.920	Qiu_zhenhai	male	native	Therefore, when this kind of mentality appeared, it manipulated their distorting lenses,	5	162	334	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1337.920	1344.926	Qiu_zhenhai	male	native	and their distorting lenses caused them to have a preconceived verdict. After reaching the verdict they then went to look for these facts that could prove their verdict.	5	162	335	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1344.926	1347.173	Qiu_zhenhai	male	native	This completely goes against the things serious news should have.	5	162	336	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1347.173	1347.532	Zheng_hao	male	native	Uh-huh.	5	163	337	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1347.532	1352.562	Qiu_zhenhai	male	native	So, I myself look at it this way: I believe that this anti-CNN movement, I think, has been so far still healthy.	5	164	338	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1352.562	1358.999	Qiu_zhenhai	male	native	We notice that there is a line on its website; it says we are not against the media in themselves; we are just against the unobjective reporting of certain media.	5	164	339	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1358.999	1362.053	Qiu_zhenhai	male	native	We are not opposed to the people of the West, but we are against prejudice.	5	164	340	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1362.053	1367.156	Qiu_zhenhai	male	native	I think these two sentences are quite well said. It ((pw)), to a considerable extent, shows this website's creator's sort of,	5	164	341	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1367.156	1371.904	Qiu_zhenhai	male	native	um, very objective, very neutral, very balanced vision and an extremely, extremely honest attitude.	5	164	342	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1371.904	1375.796	Qiu_zhenhai	male	native	The key problem lies in the discussion areas behind this website, behind this website.	5	164	343	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1375.796	1376.012	Zheng_hao	male	native	Uh-huh.	5	165	344	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1376.012	1385.293	Qiu_zhenhai	male	native	I feel that the points made by many of our netizens, on the contrary, are a bit, um -- in these regards might generate certain worries among the Western media and might generate certain worries among us.	5	166	345	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1385.293	1393.611	Qiu_zhenhai	male	native	That is, lest it will cause some kind of patriotic sentiment of ours that in itself is extremely healthy, extremely rational, to evolve into a kind of, a kind of sentiment of +nationalism.	5	166	346	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1393.611	1396.950	Qiu_zhenhai	male	native	Or it ((pw)), added some, some unhealthy +nationalistic elements;	5	166	347	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1396.950	1400.348	Qiu_zhenhai	male	native	for example, we must oppose anything that is Western and drive Western reporters out and so on and so forth.	5	166	348	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1400.348	1402.968	Qiu_zhenhai	male	native	Well, if this happens, it would be truly a reversion to the era of the Boxers back then,	5	166	349	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1402.968	1406.516	Qiu_zhenhai	male	native	even a reversion to that era even earlier of eighteenth century China.	5	166	350	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1406.516	1411.851	Qiu_zhenhai	male	native	So I believe that so far this kind of anti-CNN movement which rectifies the unobjective reports by the West,	5	166	351	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1411.851	1415.049	Qiu_zhenhai	male	native	this thing in itself, I believe, is very honorable, very healthy.	5	166	352	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1415.049	1421.306	Qiu_zhenhai	male	native	But I hope that when dealing with, addressing this issue, our netizens will not develop a very extreme sentiment of +nationalism.	5	166	353	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1421.306	1428.643	Qiu_zhenhai	male	native	So by the same token we also hope that certain Western media will regard this thing with an even broader, even more balanced vision.	5	166	354	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1428.643	1433.947	Qiu_zhenhai	male	native	I think, um, we are all colleagues; I don't think there is any need for me here to give some more advice to my Western colleagues.	5	166	355	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1434.456	1438.673	Qiu_zhenhai	male	native	The second thing has to do with some, some international public relations of our own on the Chinese side.	5	166	357	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1438.673	1439.003	Zheng_hao	male	native	Uh-huh.	5	167	358	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1439.003	1442.811	Qiu_zhenhai	male	native	Um, I remember at the beginning of the year, I said here that early this year, ah, this year,	5	168	359	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1442.811	1447.959	Qiu_zhenhai	male	native	especially in the first half of the year, as it is the year of the international Olympics, is the year of China's Olympics, um, China will certainly face many crises.	5	168	360	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1447.959	1448.229	Zheng_hao	male	native	Uh-huh.	5	169	361	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1448.229	1452.955	Qiu_zhenhai	male	native	Especially concerning the Olympics. So now as expected, crises follow, follow one after another.	5	170	362	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1452.955	1456.159	Qiu_zhenhai	male	native	Although behind this some are random, some are inevitable,	5	170	363	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1456.159	1459.013	Qiu_zhenhai	male	native	behind the so-called inevitable are certainly the plotting of certain people, certain organizations.	5	170	364	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1459.013	1466.069	Qiu_zhenhai	male	native	And some of them are certain conflicts that the West would inevitably have with China on this and that occasion, this and that opportunity.	5	170	365	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1466.069	1470.201	Qiu_zhenhai	male	native	So even more of their subtle attitudes are brought up to the surface.	5	170	366	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1470.201	1476.578	Qiu_zhenhai	male	native	So I think that for China, how to deal with in the future these issues like Tibet or the various disturbances produced by the Olympics --	5	170	367	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1476.578	1481.518	Qiu_zhenhai	male	native	as I just said, from now on, over the next two months the Olympic torch will be relayed through places all over the world.	5	170	368	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1481.518	1481.818	Zheng_hao	male	native	Uh-huh.	5	171	369	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1481.818	1484.752	Qiu_zhenhai	male	native	So, in these next two months many things will certainly occur.	5	172	370	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1484.752	1489.752	Qiu_zhenhai	male	native	In the next four months, right up to the opening of the Olympic Games, right up to their closing, many things will still discover -- happen.	5	172	371	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1489.752	1494.064	Qiu_zhenhai	male	native	So, how China will deal with this kind of Olympic crisis, I think, is a question worth thinking about.	5	172	372	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1494.064	1501.130	Qiu_zhenhai	male	native	So, conversely speaking, as I just said, this time if China from the beginning had been able to open up and allow Western reporters to go in, I think it would have been much better.	5	172	373	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1501.130	1506.190	Qiu_zhenhai	male	native	So, now we notice that actually in the past few days, uh, the Chinese side has made quite a few responses.	5	172	374	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1506.190	1512.118	Qiu_zhenhai	male	native	For example, opening up, re-opening Tibet to West, Western reporters, ah, and it has also distributed quite a few useful materials.	5	172	375	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1512.118	1512.298	Zheng_hao	male	native	Uh-huh.	5	173	376	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1512.298	1517.687	Qiu_zhenhai	male	native	In addition, Chinese diplomats based in many countries also appeared in the Western media. I think this is all very worthy of approval.	5	174	377	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1517.687	1525.001	Qiu_zhenhai	male	native	The key question is: are these changes, after all, responsive, expedient changes? Are they the last-minute, expedient changes after this affair has come about --	5	174	378	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1525.001	1527.187	Qiu_zhenhai	male	native	Even though expedient changes are also very good and should also be affirmed --	5	174	379	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1527.187	1527.427	Zheng_hao	male	native	Uh-huh.	5	175	380	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1527.427	1531.888	Qiu_zhenhai	male	native	or are they a kind of systematic change? I -- we hope they are a systematic change.	5	176	381	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1531.888	1537.098	Qiu_zhenhai	male	native	Systematic changes, that is, we hope that in the system of much of our propaganda, there should no longer be a dominant media phobia,	5	176	382	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1537.098	1542.457	Qiu_zhenhai	male	native	including the fear of those media that have bias, misunderstanding, and even ill intentions and animosity toward you.	5	176	383	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1542.457	1548.385	Qiu_zhenhai	male	native	With an open mentality -- because China, to speak the truth, has nothing to lose and China also has nothing to fear.	5	176	384	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1548.385	1551.396	Qiu_zhenhai	male	native	China has huge achievements and China also has quite a few problems --	5	176	385	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1551.396	1554.570	Qiu_zhenhai	male	native	it should reveal the true China to the world, and there is nothing to be fearful about.	5	176	386	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1554.570	1554.720	Zheng_hao	male	native	Uh-huh.	5	177	387	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1554.720	1558.193	Qiu_zhenhai	male	native	In addition to this kind of attitude of opening up, I feel there should be a kind of relaxing of the mechanism,	5	178	388	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1558.193	1562.085	Qiu_zhenhai	male	native	Perhaps due to their hands being tied by this mechanism, many propaganda personnel --	5	178	389	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1562.085	1567.454	Qiu_zhenhai	male	native	when the leaders above, above them do not give an instruction, none of departments in charge, none of leaders or persons in charge,	5	178	390	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1567.454	1573.493	Qiu_zhenhai	male	native	would dare to open up to Western reporters rashly; none of them dare to hastily release, release some news to Western reporters.	5	178	391	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1573.493	1578.259	Qiu_zhenhai	male	native	I think it is this kind of systematic, a kind of habitual thinking and a kind of, a kind of habitual mode that	5	178	392	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1578.259	1582.236	Qiu_zhenhai	male	native	has caused such a big conflict to emerge between the Chinese and Western media over this Tibet disturbance.	5	178	393	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1582.236	1582.476	Zheng_hao	male	native	Uh-huh.	5	179	394	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1582.476	1588.075	Qiu_zhenhai	male	native	So, even though we think it is worthy of our approval, believing this time, uh, many changes have already been made,	5	180	395	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1588.075	1588.225	Zheng_hao	male	native	Uh-huh.	5	181	396	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1588.225	1590.171	Qiu_zhenhai	male	native	yet this is an expedient change.	5	182	397	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1590.171	1596.608	Qiu_zhenhai	male	native	While expedient changes are also worth affirmation, I, we still hope that over the next four months we can, to a certain degree -- even though doing it completely is also very difficult --	5	182	398	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1596.608	1604.422	Qiu_zhenhai	male	native	can change, to a certain degree, a kind of traditional mode of thinking and customary approach so that this sort of expedient change can turn into a kind of systematic change.	5	182	399	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1604.422	1607.266	Zheng_hao	male	native	Okay, we'll just stop our discussion on this topic, uh, here today.	5	183	400	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1607.266	1611.488	Zheng_hao	male	native	Dear viewers, thank you again for watching today's Newsline program; see you again tomorrow at the same time.	5	183	401	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1777.624	1787.175	speaker#1	female	native	At the grand ceremony of Influential Chinese People of the World solemnly held in Beijing, Jackie Chan and Gong Li arrived on the scene to accept awards in person and made their acknowledgement speeches as role models for Chinese people.	7	185	403	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1787.175	1793.522	speaker#1	female	native	Gu Juji forms another males group and steps up to sing, presenting new songs, wearing sound-activated combat duds, Gu's childlike innocence never-ending.	7	185	404	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1796.337	1802.415	speaker#1	female	native	Celebrating his son's first birthday, May Day members witness the grabbing test ceremony; Little Stone chooses a typewriter only.	7	185	406	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1804.211	1810.528	speaker#1	female	native	Wu Tianhao with a brand new image serves as a judge for the dance competition. He will invest in a new movie, with himself playing the lead role.	7	185	408	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1826.321	1832.219	speaker#1	female	native	Hello, everybody, welcome to this week's Entertainment ((pw)), um, this Entertainment Storm -- oh no, I've messed it all up; how did that happen.	9	187	410	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1832.219	1838.339	speaker#1	female	native	Today is Monday; uh, we have seen that this week, uh, the atmosphere in our company is extremely, extremely good. Why?	9	187	411	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1838.339	1843.776	speaker#1	female	native	Uh, it should be said that March 31, that is, today, is Phoenix Satellite TV's 12th birthday.	9	187	412	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1843.776	1850.303	speaker#1	female	native	Ah, in 1996, ah, well, today many years ago, today twelve years ago it started broadcasting.	9	187	413	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1850.303	1857.728	speaker#1	female	native	Ah, so, of course, last weekend, um, the grand ceremony of Influential Chinese People of the World entitled "World Is Beautiful Because of You" was solemnly held as well.	9	187	414	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1857.728	1862.339	speaker#1	female	native	So we have seen many of our role models for the Chinese people standing on stage accepting awards.	9	187	415	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1862.339	1866.740	speaker#1	female	native	Today we will look back on some brilliant scenes, but first let's ask today's BBS question.	9	187	416	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1866.740	1872.549	speaker#1	female	native	The question that we want to ask today is, who in your mind is the most influential Chinese movie star?	9	187	417	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1872.549	1877.130	speaker#1	female	native	Because this is entertainment, right? So I just want to ask the Chinese community, who do you feel it is in terms of movie stars?	9	187	418	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1877.130	1882.819	speaker#1	female	native	Um, please send your answers to us; whether as an SMS or a comment on this website, we welcome them all very much.	9	187	419	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1882.819	1885.933	speaker#1	female	native	Okay, take a quick look at the grand ceremony on the evening of the 29th.	9	187	420	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1890.903	1896.202	speaker#2	female	native	Recently, the grand ceremony of Influential Chinese People of the World in 2007 entitled "World Is Beautiful Because of You" came to a perfect close in Beijing.	9	188	422	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1896.202	1903.059	speaker#2	female	native	Twelve honored prize-wining guests including Hao Weimin, Michelle Kwan, Chang Hao, Lin Huaimin accompanied by Phoenix Satellite TV's elites,	9	188	423	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1903.059	1907.037	speaker#2	female	native	appeared in person one by one to attend that evening's awards ceremony in the Century Auditorium at Peking University.	9	188	424	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1907.037	1915.390	speaker#2	female	native	And among the many awards recipients, the appearances of Jackie Chan, Gong Li, and Mrs. Yao, accepting an award on behalf of her son Yao Ming, from the domains of culture, arts, sports, and economics,	9	188	425	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1915.390	1919.881	speaker#2	female	native	held the full attention of our media friends on the scene; there was no end to the flashes of cameras.	9	188	426	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1925.930	1932.547	speaker#3	male	native	When you received this award, that is, this "World Is Beautiful Because of You," how did you feel you should understand "World Is Beautiful Because of You;" and what should you do?	9	189	428	report	
+PHOENIX_NEWSLINE_CMN_20080331_114801	0	1932.547	1939.104	Cheng_long	male	native	Uh, I feel that this whole time I didn't say that I wanted to do something for the world, however...	9	190	429	report	

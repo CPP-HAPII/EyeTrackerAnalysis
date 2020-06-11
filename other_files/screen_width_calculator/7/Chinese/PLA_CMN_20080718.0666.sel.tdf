@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080718.0666	0	500.0	600.0	speaker	unknown	unknown	４月２８日在平壤举行的奥运火炬传递是奥运圣火首次进入朝鲜境内，受到４０万平壤市民的夹道欢迎。	0	0	0		

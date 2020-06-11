@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080717.0092	0	2100.0	2200.0	speaker	unknown	unknown	（七）参加同级党代表大会或者同级党的委员会组织的活动；	0	0	0		
+PLA_CMN_20080717.0092	0	2900.0	3000.0	speaker	unknown	unknown	第十条党代表大会代表受同级党代表大会和党的委员会的委托，可以在本地区对涉及同级党代表大会和党的委员会职权范围内的有关重大决策、重要事项进行调查研究。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.2663	0	1700.0	1800.0	speaker	unknown	unknown	而矫正近视产品的销售也迅速好起来，在一家眼镜店，几位家长带着孩子前来验光配镜，同时询问：“有没有广告上说的那种XX镜？”	0	0	0		
+CNS_CMN_20080710.2663	0	2800.0	2900.0	speaker	unknown	unknown	(记者 刘文静)	0	0	0		

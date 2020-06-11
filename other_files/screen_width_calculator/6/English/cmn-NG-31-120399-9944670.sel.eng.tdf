@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120399-9944670	0	100.0	200.0	speaker	unknown	unknown	Carbon Fiber 20:47:23 Is your version 9.51.04	0	0	0		
+cmn-NG-31-120399-9944670	0	700.0	800.0	speaker	unknown	unknown	Carbon Fiber 20:48:32 You mean the left and the right must be symmetrical?	0	0	0		
+cmn-NG-31-120399-9944670	0	1300.0	1400.0	speaker	unknown	unknown	Unfinished Love 20:51:47 == Carbon Fiber 20:51:49 Originally there was a difference	0	0	0		
+cmn-NG-31-120399-9944670	0	1800.0	1900.0	speaker	unknown	unknown	Carbon Fiber 20:55:49 Furthermore, the force applied looks, looks clear-cut and it's also simpler to do modeling	0	0	0		
+cmn-NG-31-120399-9944670	0	2300.0	2400.0	speaker	unknown	unknown	Carbon Fiber 22:25:38 I'll re-check this question of yours to see if the difference in the height of the centroid in RM is big or not	0	0	0		
+cmn-NG-31-120399-9944670	0	2600.0	2700.0	speaker	unknown	unknown	Carbon Fiber 22:41:46 In other words, the centroid in RM is on a straight line	0	0	0		
+cmn-NG-31-120399-9944670	0	2800.0	2900.0	speaker	unknown	unknown	Unfinished Love 22:42:34 But when I demarcated various parts of the main beam according to the width variable value in Gp	0	0	0		
+cmn-NG-31-120399-9944670	0	3300.0	3400.0	speaker	unknown	unknown	Carbon Fiber 22:44:34 The calculation includes angle beta, did you notice?	0	0	0		
+cmn-NG-31-120399-9944670	0	3700.0	3800.0	speaker	unknown	unknown	Carbon Fiber 22:45:21 The final main inertia axis is tilted <5.jpg>	0	0	0		

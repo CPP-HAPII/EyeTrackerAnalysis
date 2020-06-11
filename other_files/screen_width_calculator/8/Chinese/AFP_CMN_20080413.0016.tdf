@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0016.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	美财长鲍尔森:全球经济面临重大挑战	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社华盛顿十二日电	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	美国财政部长鲍尔森今天表示,受美国经济趋缓、金融市场动荡和通货膨胀节节攀升影响,全球经济面临「相当大的挑战」。	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	在国际货币基金和金融委员会春季会议上发表演说的鲍尔森表示,过去几年以来,全球经济成长一直令人赞赏,但受美国房贷危机波及,如今情势已改观。	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	鲍尔森说:「二零零八将会是更艰困的一年,面临美国经济调整、金融市场压力、商品价格飙涨以及通货膨胀逾越目标水准等直接冲击。」	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	鲍尔森又说:「经济下滑风险程度不一,但没有任何一个经济体能完全摆脱全球力量影响。」	0	0	0		statement

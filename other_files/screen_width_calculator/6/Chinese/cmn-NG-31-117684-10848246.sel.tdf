@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117684-10848246	0	100.0	200.0	speaker	unknown	unknown	（作者 Simon Elegant）在中国媒体对奥运成就的过度热情中，最近一期的《南风窗》（Southern Window，发行量50万册的知识分子时事杂志）令我眼前一亮。	0	0	0		
+cmn-NG-31-117684-10848246	0	600.0	700.0	speaker	unknown	unknown	Sent to you by 参考消息 via Google Reader: 时代周刊 中国要走向何方 via星岛时评 by www.stnn.	0	0	0		
+cmn-NG-31-117684-10848246	0	700.0	800.0	speaker	unknown	unknown	cc on 8/27/08 在中国媒体对奥运成就的过度热情中，最近一期的《南风窗》（Southern Window，发行量50万册的知识分子时事杂志）令我眼前一亮。	0	0	0		
+cmn-NG-31-117684-10848246	0	3100.0	3200.0	speaker	unknown	unknown	那些受益于中国蓬勃发展的经济的人们，不断壮大的城市中产阶级，也越来越敦促当局授予他们更多的权利和自由。	0	0	0		
+cmn-NG-31-117684-10848246	0	3300.0	3400.0	speaker	unknown	unknown	去年成千上万的厦门市民示威反对一个化工厂的建设计划，迫使当局取消这个计划。	0	0	0		
+cmn-NG-31-117684-10848246	0	3700.0	3800.0	speaker	unknown	unknown	（作者 Simon Elegant）译文为摘译，英文原文Things you can do from here:- Subscribe to 星岛时评 using Google Reader- Get started using Google Reader to easily keep up with all yourfavorite sites	0	0	0		

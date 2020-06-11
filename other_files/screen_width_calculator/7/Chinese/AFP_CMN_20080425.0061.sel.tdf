@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0061	0	0.0	1000.0	speaker	unknown	unknown	他显然是在为推动放宽法国每周三十五小时工时限制的努力辩护,他的作法包括减少加班费的税负。	0	0	0		

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10513610	0	400.0	500.0	speaker	unknown	unknown	5岁娃娃为什么能当公务员？	0	0	0		
+cmn-NG-31-117651-10513610	0	600.0	700.0	speaker	unknown	unknown	现在，我们国家一些钱没有列入财政预算，就是列入了，有的也不严格执行。	0	0	0		
+cmn-NG-31-117651-10513610	0	700.0	800.0	speaker	unknown	unknown	许多省、市甚至县都在北京设立各类办事处，为什么“跑部钱进”的人这么多？	0	0	0		
+cmn-NG-31-117651-10513610	0	2400.0	2500.0	speaker	unknown	unknown	现在，我们国家一些钱没有列入财政预算，就是列入了，有的也不严格执行。	0	0	0		
+cmn-NG-31-117651-10513610	0	2500.0	2600.0	speaker	unknown	unknown	许多省、市甚至县都在北京设立各类办事处，为什么“跑部钱进”的人这么多？	0	0	0		
+cmn-NG-31-117651-10513610	0	3900.0	4000.0	speaker	unknown	unknown	目前，国家法律规定，巨额财产来源不明，最高判刑5年。	0	0	0		
+cmn-NG-31-117651-10513610	0	4500.0	4600.0	speaker	unknown	unknown	刘锡荣说自己任中纪委副书记时，负责联系西部省份，某省一官员在担任人事厅长时，把15个亲戚“农转非”安排到机关当公务员。	0	0	0		

@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-111696-10693845	0	0.0	100.0	speaker	unknown	unknown	中国大陆现行法制对贪官没有威慑力	0	0	0		
+cmn-NG-31-111696-10693845	0	100.0	200.0	speaker	unknown	unknown	中国大陆现行法制对贪官没有威慑力DWNEWS.COM-- 2008年8月6日14:2:16(京港台时间) --多维新闻网	0	0	0		
+cmn-NG-31-111696-10693845	0	200.0	300.0	speaker	unknown	unknown	冼岩专稿／之所以这么说，主要是因为针对贪官的立即执行之死刑判决太少，而且正越来越少。	0	0	0		
+cmn-NG-31-111696-10693845	0	500.0	600.0	speaker	unknown	unknown	只要在比正常犯人待遇好得多，与家居相比仅仅只是没有外出自由的牢中呆个几年，就可以出来享受贪污腐败的丰硕成果（“有关部门”查出的腐败金额总是远远小于实际发生额），由此幸福全家人乃至几代人，这样的选择题，相信谁都知道该怎么做。	0	0	0		
+cmn-NG-31-111696-10693845	0	1500.0	1600.0	speaker	unknown	unknown	无一涉及。	0	0	0		
+cmn-NG-31-111696-10693845	0	1900.0	2000.0	speaker	unknown	unknown	当然，这样的题目极其犯忌，它严重损害了某一强势群体的共同利益；其所得结论，更可能颠覆反腐战线的大好形象。	0	0	0		

@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0016.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	United States Treasury Secretary Paulson: The World Economy Faces Major Challenges	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Washington (AFP), 12th.	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Today, United States Treasury Secretary Paulson said that, affected by the slowing of the American economy, financial market turmoil and currency inflation, the global economy is facing a "considerably large challenge."	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	At an address given at the spring meeting of the International Monetary Fund and Financial Committee, Paulson said that within the last few years the growth of the global economy was always admirable, but because of the effects of the spread of the USA's mortgage crisis,today's state of affairs haves already taken on a new look.	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	Paulson said: "2008 will be a more difficult year, facing the direct impact of the USA's economic adjustments, financial market pressure, rapid increases in commodity prices and currency inflation overstepping target levels, etc."	0	0	0		statement
+AFP_CMN_20080413.0016.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	Paulson also said: "The risk of any economy sliding varies, but there isn't any one economy that can completely break free from the influence of global forces."	0	0	0		statement

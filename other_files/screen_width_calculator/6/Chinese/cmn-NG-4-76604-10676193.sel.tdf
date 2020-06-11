@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76604-10676193	0	100.0	200.0	speaker	unknown	unknown	很久不见了。。。。出现在男篮解说现场	0	0	0		

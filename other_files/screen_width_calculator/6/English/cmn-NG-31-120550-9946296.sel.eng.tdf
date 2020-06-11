@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120550-9946296	0	0.0	100.0	speaker	unknown	unknown	new experience of google search	0	0	0		
+cmn-NG-31-120550-9946296	0	100.0	200.0	speaker	unknown	unknown	this could well be old news to some people :(, however I only just found out.	0	0	0		
+cmn-NG-31-120550-9946296	0	300.0	400.0	speaker	unknown	unknown	For more details, visit: http://www.google.	0	0	0		
+cmn-NG-31-120550-9946296	0	400.0	500.0	speaker	unknown	unknown	com/experimental/ at the very bottom.	0	0	0		
+cmn-NG-31-120550-9946296	0	600.0	700.0	speaker	unknown	unknown	Actually, a few Google products already do very similar things, for example gmail, googlereader etc.	0	0	0		
+cmn-NG-31-120550-9946296	0	700.0	800.0	speaker	unknown	unknown	I would say google uses vim quite a lot, and also has even recruited vim's writer on board.	0	0	0		
+cmn-NG-31-120550-9946296	0	800.0	900.0	speaker	unknown	unknown	I think, if there are many people within google using emacs, then maybe these shortcut keys are just emacs style.	0	0	0		
+cmn-NG-31-120550-9946296	0	1000.0	1100.0	speaker	unknown	unknown	They all say emacs is an operating system, I've read a few overviews, but haven't used it before, don't know how it feels.	0	0	0		
+cmn-NG-31-120550-9946296	0	1100.0	1200.0	speaker	unknown	unknown	But I hope vim becomes an operating system, or I hope it can combine all software shortcut keys together as vi-like does, because that natural and flowing style of operation is very addictive, and so difficult to resist, especially for those people who sit in front of and operate a computer every day.	0	0	0		
+cmn-NG-31-120550-9946296	0	1300.0	1400.0	speaker	unknown	unknown	I saw a foreign guy say, he is happy to use firefox, because of nothing else except that firefox has vimperator :).	0	0	0		
+cmn-NG-31-120550-9946296	0	1500.0	1600.0	speaker	unknown	unknown	to those of us vim fans, this will be worth waiting for.	0	0	0		

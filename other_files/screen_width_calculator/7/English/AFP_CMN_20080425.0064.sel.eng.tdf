@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0064	0	0.0	1000.0	speaker	unknown	unknown	China's state-run "Xinhua News Agency" reported today that the relevant Chinese department is going to contact and negotiate with the Dalai Lama's private representative in the coming days.	0	0	0		

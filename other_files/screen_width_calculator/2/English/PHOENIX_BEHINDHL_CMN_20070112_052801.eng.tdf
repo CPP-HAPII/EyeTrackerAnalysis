@@ -1,0 +1,607 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 132.19200000000001, 304.85000000000002, 773.13300000000004, 829.45600000000002, 1489.819, 1584.377, 1735.7819999999999, 1899.6890000000001, 9999999.0]
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	0.000	6.344	speaker#1	male	native	After the suit, uh, that is to say, uh, if the court rules, uh, in our favor, we'll feel that we've done something very significant.	0	0	0	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	6.344	14.951	speaker#1	male	native	If he rules, uh, rejects us, we think, we will also think that we've fully discharged our responsibilities as a civil administration department with regard to this incident. Ah.	0	0	1	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	14.951	19.717	speaker#2	female	native	When our interview was about to finish, there also came another piece of delighting news.	0	1	2	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	19.717	23.473	speaker#2	female	native	That is, this case has attracted great attention from the legal community.	0	1	3	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	24.222	32.142	speaker#2	female	native	The civil administration office of Gaochun County has now been formally invited to take part in a seminar organized by Nanjing University on protecting the rights of the homeless.	0	1	5	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	32.142	36.726	speaker#2	female	native	Many legal experts and representatives from legislative departments will be attending it.	0	1	6	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	37.474	47.370	speaker#2	female	native	Meanwhile, this case has also become one of the four example cases listed on the 2006 list of new cases to be used in education on the concept of law in supervisory departments nationwide. It will be discussed upon in the system.	0	1	8	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	48.208	59.885	speaker#2	female	native	We have reason to believe that what this kind of lawsuit gives justice to is not merely the value of and respect for an individual life. It will also remove a legal blind spot, allowing more people to benefit because of this.	0	1	10	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	61.262	66.053	speaker#3	male	native	Uh, if Jiangsu Province, uh, has corresponding local legislation,	0	2	12	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	66.861	71.704	speaker#3	male	native	or in future the Supreme People's Court makes ((pw)) corresponding judicial interpretation,	0	2	14	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	72.250	81.752	speaker#3	male	native	ah, or it can even be confirmed by legislation -- if it's confirmed, then we think, ah, that similar regrettable events like this will not happen again.	0	2	16	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	81.752	86.393	speaker#4	male	native	The problem has arisen; this contradiction has been drawn into the open. Surely it should be solved?	0	3	17	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	87.650	92.010	speaker#4	male	native	But whatever method is used to solve it -- the method of legislation or other methods -- I think there is definitely a way to solve it.	0	3	19	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	92.010	92.860	speaker#4	male	native	And especially our country...	0	3	20	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	304.850	306.777	Dou_wentao		native	Hello, everyone. This is Behind the Headlines.	2	5	23	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	306.777	310.813	Dou_wentao		native	Today I'm very, ah, happy. Yuanzi is here, too. Wanzi, Yuanzi, haha.	2	5	24	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	310.813	313.214	Dou_wentao		native	Now it seems that as soon as our Professor Xu, ah, sees you,	2	5	25	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	313.214	313.454	Dou_wentao		native	...	2	6	26	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	313.214	313.454	Chen_fangyuan	female	native	Um.	2	6	27	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	313.454	315.250	Dou_wentao		native	he always wants to raise this singing issue.	2	7	28	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	315.250	317.191	Chen_fangyuan	female	native	Ah, he must be a music lover.	2	8	29	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	317.191	317.820	Dou_wentao		native	Ah.	2	9	30	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	317.191	317.820	Xu_zidong	male	native	Isn't that right?	2	9	31	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	317.820	321.054	Dou_wentao		native	This -- Professor Xu was also recently playing (()).	2	10	32	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	321.054	323.180	Xu_zidong	male	native	I wanted to, ah, play, but the cost was very high.	2	11	33	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	323.180	324.827	Chen_fangyuan	female	native	It looks like he's a real enthusiast.	2	12	34	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	324.827	325.641	Dou_wentao		native	Right, you be careful!	2	13	35	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	325.641	326.444	Chen_fangyuan	female	native	He can really talk.	2	14	36	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	326.444	328.869	Dou_wentao		native	Right, but I want to ask you one question.	2	15	37	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	328.869	329.259	Chen_fangyuan	female	native	Uh-huh?	2	16	38	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	329.259	333.789	Dou_wentao		native	When we're singing, why can we only sing when we see the karaoke words there?	2	17	39	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	333.789	335.226	Chen_fangyuan	female	native	That's because you can't learn the words by heart.	2	18	40	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	335.226	335.675	Dou_wentao		native	No, it's not.	2	19	41	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	335.675	336.184	Chen_fangyuan	female	native	Oh? It's not?	2	20	42	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	336.184	338.858	Dou_wentao		native	Even if I could -- I think that even if I was looking at the words on a piece of paper I was holding,	2	21	43	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	338.858	339.154	Chen_fangyuan	female	native	Uh-huh.	2	22	44	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	339.154	341.543	Dou_wentao		native	and I hear the beat of the music, but I can't sing in time.	2	23	45	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	342.082	343.370	Chen_fangyuan	female	native	Oh, it's a problem of rhythm.	2	24	47	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	343.370	343.610	Dou_wentao		native	Oh!	2	25	48	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	343.610	344.748	Chen_fangyuan	female	native	It's a problem of rhythm.	2	26	49	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	344.748	345.766	Dou_wentao		native	Sense of rhythm.	2	27	50	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	345.766	347.503	Chen_fangyuan	female	native	That's it, it's rhythm.	2	28	51	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	347.503	349.180	Dou_wentao		native	So why do you have a good sense of rhythm?	2	29	52	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	349.180	350.437	Chen_fangyuan	female	native	Ah, it's not that I have a good sense of rhythm, it's --	2	30	53	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	350.437	351.455	Chen_fangyuan	female	native	you still, still should...	2	31	54	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	350.437	351.455	Xu_zidong	male	native	It's singing professionally.	2	31	55	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	351.455	352.862	Chen_fangyuan	female	native	...should practice more, I think.	2	32	56	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	352.862	354.265	Dou_wentao		native	My sense of rhythm is zero.	2	33	57	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	354.265	354.749	Chen_fangyuan	female	native	Really?	2	34	58	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	354.749	357.625	Dou_wentao		native	And I've discovered that having zero sense of rhythm is a big problem,	2	35	59	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	357.625	363.222	Dou_wentao		native	because in all my investigations into many, ah, fields, people in every field, when they remembered everything they possibly could,	2	35	60	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	363.222	363.828	Chen_fangyuan	female	native	Uh-huh.	2	36	61	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	363.828	365.777	Dou_wentao		native	they would all say to you the word "rhythm."	2	37	62	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	365.777	366.336	Chen_fangyuan	female	native	Uh-huh.	2	38	63	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	366.336	369.450	Dou_wentao		native	Cross-talk artists, writers, whatever they do --	2	39	64	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	370.288	375.259	Dou_wentao		native	politicians, even martial artists. I was saying the other day that there is a book called "The Vanished Wu Lin."	2	39	66	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	375.259	375.449	Chen_fangyuan	female	native	Uh-huh.	2	40	67	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	375.449	380.398	Dou_wentao		native	It's about, um, things in the real martial arts circle in the old society.	2	41	68	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	380.398	385.507	Dou_wentao		native	You see, the Xingyi school says, ah, a real duel between two people wasn't like this entertainment show of ours.	2	41	69	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	385.507	387.739	Dou_wentao		native	During a real duel an interesting thing often happened.	2	41	70	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	387.739	388.196	Chen_fangyuan	female	native	Uh-huh.	2	42	71	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	388.196	391.905	Dou_wentao		native	Because swords won't wait, you -- you -- you weren't able to, ah, think at all.	2	43	72	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	391.905	392.114	Chen_fangyuan	female	native	Uh-huh.	2	44	73	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	392.114	393.067	Dou_wentao		native	Subconsciously,	2	45	74	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	393.067	395.833	Dou_wentao		native	people would subconsciously imitate their opponents.	2	45	75	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	396.492	400.019	Dou_wentao		native	When two people have a duel, what they often rely on is rhythm. For example, I make a move,	2	45	77	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	400.805	405.016	Dou_wentao		native	and if you are a little weak, you involuntarily, ((pw)) actually, I think what he says is a bit like hypnosis.	2	45	79	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	405.016	405.426	Chen_fangyuan	female	native	Uh-huh.	2	46	80	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	405.426	409.198	Dou_wentao		native	In the process of a duel, you involuntarily imitate the rhythm of my moves.	2	47	81	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.198	409.378	Dou_wentao		native		2	48	82	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.198	409.378	Chen_fangyuan	female	native	Set	2	48	83	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.378	409.887	Chen_fangyuan	female	native	pattern, um.	2	49	84	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	409.887	411.893	Dou_wentao		native	In an instant I knock you down, then --	2	50	85	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	411.893	412.372	Dou_wentao		native	It's you --	2	51	86	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	411.893	412.372	Chen_fangyuan	female	native	Ow!	2	51	87	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	412.372	414.019	Dou_wentao		native	I lead you along, you act like a fool.	2	52	88	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	414.947	415.905	Chen_fangyuan	female	native	Speaking of acting, uh,	2	53	90	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	415.905	416.204	Chen_fangyuan	female	native	it also...	2	54	91	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	415.905	416.204	Dou_wentao		native	Uh-huh.	2	54	92	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	416.204	417.042	Chen_fangyuan	female	native	...has rhythm.	2	55	93	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	417.042	417.338	Dou_wentao		native	Right.	2	56	94	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	417.338	419.917	Chen_fangyuan	female	native	Speaking of a -- shooting a movie. There's also a rhythm of movies.	2	57	95	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	419.917	423.689	Dou_wentao		native	Life itself is made up of stretch after stretch of rhythm.	2	58	96	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	423.689	427.851	Dou_wentao		native	But some people's rhythm of life is disorganized.	2	58	97	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	427.851	428.270	Chen_fangyuan	female	native	Oh.	2	59	98	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	428.270	436.311	Dou_wentao		native	I was really touched by this thing, ah. It's a newspaper that Professor Xu brought from Hong Kong, the Hong Kong Ming Pao.	2	60	99	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	436.820	441.121	Dou_wentao		native	Hong Kong's Ming Pao has recently covered something that has caused a lot of discussion in the West.	2	60	101	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	441.121	441.776	Chen_fangyuan	female	native	Uh-huh.	2	61	102	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	441.776	443.367	Dou_wentao		native	I'll show you this photo first.	2	62	103	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	444.175	447.960	Dou_wentao		native	This little, this little child, ah, is called Ashley.	2	62	105	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	447.960	451.481	Dou_wentao		native	This is a photo from when she was one year old. Look at another one.	2	62	106	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	452.289	456.990	Dou_wentao		native	Ashley's IQ is equal to that of a three-month-old baby. She can only lie in bed all day.	2	62	108	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	456.990	461.062	Dou_wentao		native	Look at this -- this -- this one. This photo was taken last month.	2	62	109	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	461.601	466.568	Dou_wentao		native	Her actual age is already nine years old, but she now has a six-year-old's body.	2	62	111	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	466.568	472.975	Dou_wentao		native	And doctors say that her whole life -- so I was saying her rhythm -- she will have a six-year-old's body her whole life.	2	62	112	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	473.634	478.784	Dou_wentao		native	Who decided this? Her parents decided it. That is, this child has a mental disease,	2	62	114	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	479.442	482.227	Dou_wentao		native	and the parents discovered that -- this -- look what it says here:	2	62	116	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	483.365	486.993	Dou_wentao		native	she can't speak, can't walk, she can't lift her head or swallow food.	2	62	118	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	486.993	490.880	Dou_wentao		native	Three years ago, she started showing signs of entry into puberty.	2	62	119	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	491.479	499.886	Dou_wentao		native	Her parents asked the doctors to remove their daughter's uterus, appendix and breast buds, something basically called ((pw)) ((pw)) ((pw)) nipples,	2	62	121	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	499.886	504.917	Dou_wentao		native	and inject estrogen to make her stop growing, to stop forever at six years old.	2	62	122	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	504.917	509.244	Dou_wentao		native	Her height is predicted to stop forever at 1.3 meters, her weight at 75 pounds.	2	62	123	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	509.812	515.411	Dou_wentao		native	Stopping growing for her, ah, can prevent many illnesses, for example, bedsores from lying in bed for long periods,	2	62	125	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	515.411	519.679	Dou_wentao		native	and also, uh, removing the uterus can prevent menstruation and prevent uterine cancer.	2	62	126	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	519.679	524.179	Dou_wentao		native	Removing the mammary glands can prevent degenerative changes in the breasts.	2	62	127	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	524.179	526.968	Dou_wentao		native	And it can also prevent her suffering sexual harassment.	2	62	128	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	527.627	529.902	Dou_wentao		native	So her parents, ah, also in great pain, particular anguish,	2	62	130	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	530.651	535.741	Dou_wentao		native	made a decision like this. This is what the West is discussing now, that is, this Ashley, called a "pillow angel."	2	62	132	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	535.741	540.472	Xu_zidong	male	native	In 2 -- 2006 the biggest issue in medical circles all over the world was this pillow angel, right.	2	63	133	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	540.472	541.370	Xu_zidong	male	native		2	64	134	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	540.472	541.370	Chen_fangyuan	female	native	Oh? Really?	2	64	135	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	542.059	549.125	Xu_zidong	male	native	Because -- what is her significance? The significance lies in that she -- she will have a three-month-old mind in future,	2	65	137	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	550.083	551.939	Xu_zidong	male	native	a three-month-old brain,	2	65	139	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	551.939	552.358	Dou_wentao		native	Uh-huh.	2	66	140	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	552.358	553.586	Xu_zidong	male	native	and a six-year-old body.	2	67	141	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	554.364	556.340	Xu_zidong	male	native	The three-month-old brain is natural;	2	67	143	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	557.029	558.826	Xu_zidong	male	native	the six-year-old body is artificial.	2	67	145	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	559.814	563.197	Xu_zidong	male	native	So from the medical perspective, she's a Frankenstein. She --	2	67	147	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	563.197	568.677	Xu_zidong	male	native	You imagine, after twenty, thirty years, she will be thirty, but she will still be like this.	2	67	148	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	569.515	571.341	Xu_zidong	male	native	You imagine the face of an angel like this.	2	67	150	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	571.341	571.607	Dou_wentao		native	Uh-huh.	2	68	151	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	571.607	576.611	Xu_zidong	male	native	At thirty, she will still be a child like this, an angel that never grows up.	2	69	152	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	577.539	583.707	Xu_zidong	male	native	So this has brought everybody many problems of medical -- medical ethics, all kinds of ethical problems.	2	69	154	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	583.707	584.695	Xu_zidong	male	native	Really, really...	2	70	155	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	583.707	584.695	Dou_wentao		native	Yuanzi? You say something.	2	70	156	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	584.695	585.234	Xu_zidong	male	native	...extraordinary.	2	71	157	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	585.234	588.844	Dou_wentao		native	((pw)) ((pw)) ((pw)) as a female, what do you feel looking at her picture?	2	72	158	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	588.844	593.047	Chen_fangyuan	female	native	I think that for something, for example, it is one thing to understand it emotionally, and another to understand it intellectually.	2	73	159	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	593.047	596.078	Chen_fangyuan	female	native	Just like euthanasia, uh, as we've talked about,	2	73	160	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	596.078	596.551	Dou_wentao		native	Uh-huh, uh.	2	74	161	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	596.551	600.934	Chen_fangyuan	female	native	although in many countries laws have been passed to allow euthanasia, there are still many countries that have not passed them.	2	75	162	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	600.934	605.694	Chen_fangyuan	female	native	In addition, there are also some perhaps religious countries that may think that God made us, so we should be this way:	2	75	163	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	605.694	608.329	Chen_fangyuan	female	native	we shouldn't change then, shouldn't this or that, and that death should also be natural.	2	75	164	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	608.329	608.718	Dou_wentao		native	Uh-huh.	2	76	165	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	608.718	614.248	Chen_fangyuan	female	native	But I think, I personally agree to euthanasia. I think this is a very big topic for discussion.	2	77	166	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	614.248	618.873	Chen_fangyuan	female	native	To put it simply, I think, that is, letting people end their own suffering themselves --	2	77	167	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	618.873	623.347	Chen_fangyuan	female	native	Patients of this kind are definitely suffering enormously, extreme suffering like you can't imagine --	2	77	168	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	623.347	628.491	Chen_fangyuan	female	native	They think that dying is better than living, so I might as well choose death. In addition, that is, I'll let myself die with some dignity.	2	77	169	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	629.688	634.778	Xu_zidong	male	native	So it seems that this problem of this pillow angel was simply exposed it in a dramatized way.	2	78	171	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	634.778	635.227	Xu_zidong	male	native	In fact,	2	79	172	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	634.778	635.227	Chen_fangyuan	female	native	Right.	2	79	173	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	635.227	636.993	Xu_zidong	male	native	similar phenomena, ah, humanity...	2	80	174	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	636.993	637.473	Dou_wentao		native	Mm.	2	81	175	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	637.473	639.055	Xu_zidong	male	native	...exist everywhere, ah, right?	2	82	176	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	639.055	642.615	Xu_zidong	male	native	Many people have criticized her parents, ah, and her parents are very saddened.	2	82	177	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	642.615	649.419	Xu_zidong	male	native	They have criticized her parents on two levels, the first level, fairly obviously, is what you just said. The parents say we're doing it for her benefit.	2	82	178	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	649.419	649.778	Chen_fangyuan	female	native	Uh-huh.	2	83	179	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	649.778	652.233	Xu_zidong	male	native	This level in most Western morality --	2	84	180	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	652.233	652.622	Chen_fangyuan	female	native	Uh-huh.	2	85	181	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	652.622	655.712	Xu_zidong	male	native	someone makes decisions on behalf of someone for their benefit --	2	86	182	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	656.401	662.481	Xu_zidong	male	native	this is, um, not approved of. That is, because she's a child, because she has no ability to judge,	2	86	184	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	662.481	665.892	Xu_zidong	male	native	we make decisions on her behalf for her benefit -- many people have no sympathy with this.	2	86	185	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	665.892	666.371	Chen_fangyuan	female	native	Uh-huh.	2	87	186	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	666.371	671.574	Xu_zidong	male	native	But what's the other one? Because her parents were facing -- her parents have to care for her for her whole life, ah, her whole life.	2	88	187	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	671.574	675.793	Xu_zidong	male	native	You have this child -- you -- my -- the whole life of the parents will completely change as well, right?	2	88	188	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	675.793	679.918	Xu_zidong	male	native	So, you imagine, I just leave her on the bed, because she can't get up, anyway.	2	88	189	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	679.918	684.231	Xu_zidong	male	native	Now, if she grows up, it will be even more difficult with her not being able to get up, so we change her into a person like this.	2	88	190	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	684.231	684.496	Chen_fangyuan	female	native	Uh-huh.	2	89	191	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	684.496	686.802	Xu_zidong	male	native	So, another critical voice is saying,	2	90	192	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	687.580	689.766	Xu_zidong	male	native	you go to the disabled people's center and have a look.	2	90	194	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	690.484	694.077	Xu_zidong	male	native	You have a look at how all those handicapped people are living.	2	90	196	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	694.077	694.436	Dou_wentao		native	Uh-huh.	2	91	197	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	694.436	700.305	Xu_zidong	male	native	That is, you can't, what they mean is that you parents, ah, are scared to see a disabled child.	2	92	198	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	700.903	705.189	Xu_zidong	male	native	So you change her into a lower, smaller disability.	2	92	200	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	705.189	706.327	Dou_wentao		native	Never growing up.	2	93	201	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	706.327	710.279	Xu_zidong	male	native	Oh, never growing up. Actually, the disabled are still people, aren't they?	2	94	202	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	710.279	716.058	Xu_zidong	male	native	Even if she only has the IQ of a three-month-old, but her rights as a human being should not be taken away, right?	2	94	203	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	716.058	716.537	Dou_wentao		native	But does she know about her rights?	2	95	204	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	716.537	717.648	Dou_wentao		native		2	96	205	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	716.537	717.648	Xu_zidong	male	native	Disabled people's --	2	96	206	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	717.648	725.858	Xu_zidong	male	native	Right, she doesn't know, but they, that is, other people know. You can't think, this person doesn't know, so we can do other things to her.	2	97	207	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	725.858	729.654	Xu_zidong	male	native	Well, if you use this logic, a lot of atrocities around the world would be tolerated.	2	97	208	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	729.654	730.343	Xu_zidong	male	native		2	98	209	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	729.654	730.343	Dou_wentao		native	Right, right, right.	2	98	210	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	730.343	735.223	Xu_zidong	male	native	So, the chastity -- ah, chaste women in the past, with bound feet, were they all willing?	2	99	211	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	735.223	740.912	Xu_zidong	male	native	Were you right if you did it to them on their behalf? No, looking at it from the angle of public consensus,	2	99	212	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	740.912	745.463	Xu_zidong	male	native	you can't say that. So what they mean is, actually from a highly humanistic standard...	2	99	213	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	745.463	745.612	Chen_fangyuan	female	native	Uh-huh.	2	100	214	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	745.612	746.391	Xu_zidong	male	native	...making a criticism like this.	2	101	215	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	746.391	747.169	Xu_zidong	male	native	That is, you parents --	2	101	216	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	747.678	751.241	Xu_zidong	male	native	you should face it that there are disabled people in the world.	2	101	218	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	751.241	751.631	Chen_fangyuan	female	native	Uh-huh.	2	102	219	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	751.631	754.056	Xu_zidong	male	native	That is, they want them to go and live in a disabled people's center for a month --	2	103	220	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	754.745	755.134	Xu_zidong	male	native	they say you...	2	104	222	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	754.745	755.134	Dou_wentao		native	Ah.	2	104	223	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	755.134	761.511	Xu_zidong	male	native	...go and live in a disabled people's center for a month, then you'll understand that disabled people are also people and how they live in the world.	2	105	224	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	761.511	767.050	Xu_zidong	male	native	You shouldn't use scientific methods to destroy or change this child of yours. It's a criticism raised from this perspective.	2	105	225	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	767.050	769.587	Xu_zidong	male	native	So the ethics behind it is very deep.	2	106	226	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	767.050	769.587	Dou_wentao		native	This, this choice is really, is really	2	106	227	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	769.587	770.650	Dou_wentao		native	too, too difficult.	2	107	228	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	770.650	771.025	Chen_fangyuan	female	native	Yeah.	2	108	229	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	771.025	773.133	Dou_wentao		native	This is Behind the Headlines, see you after commercials.	2	109	230	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	829.456	830.444	Dou_wentao		native	Yuanzi, what have you thought of?	4	111	232	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	831.073	836.073	Chen_fangyuan	female	native	I, um, I first thought of an example, that is, I -- an -- an -- an athlete.	4	112	234	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	836.073	836.313	Dou_wentao		native	Uh.	4	113	235	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	836.313	840.019	Chen_fangyuan	female	native	Uh, I know a friend who looks after her.	4	114	236	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	840.019	847.177	Chen_fangyuan	female	native	That is, she was seriously paralyzed after she was injured, and couldn't take care of herself. It was a girl, and then my friend took care of her from then on.	4	114	237	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	847.177	854.771	Chen_fangyuan	female	native	She took care of her, helped her with, ah, treatment, ah, and rehabilitation, even, ah, going to the bathroom, including, ah, her periods. She had to go and clean up everything	4	114	238	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	854.771	855.430	Chen_fangyuan	female	native	for her.	4	115	239	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	854.771	855.430	Dou_wentao		native	Ah, ah, ah.	4	115	240	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	855.430	861.748	Chen_fangyuan	female	native	Actually it was a problem that involves a lot of small, specific and practical details, so --	4	116	241	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	861.748	862.346	Chen_fangyuan	female	native	that is...	4	117	242	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	861.748	862.346	Dou_wentao		native	Yes, it is.	4	117	243	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	862.346	863.963	Chen_fangyuan	female	native	This is a very, very...	4	118	244	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	863.963	864.173	Dou_wentao		native	What	4	119	245	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	864.173	864.562	Dou_wentao		native	to do?	4	120	246	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	864.173	864.562	Xu_zidong	male	native	So,	4	120	247	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	864.562	868.664	Xu_zidong	male	native	that's also what her parents say, actually all of the responsibility for her care is ultimately on her parents,	4	121	248	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	868.664	869.652	Xu_zidong	male	native		4	122	249	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	868.664	869.652	Chen_fangyuan	female	native	Right.	4	122	250	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	869.652	871.868	Xu_zidong	male	native	isn't it? They wrote some letters that are quite moving too.	4	123	251	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	871.868	872.078	Chen_fangyuan	female	native	Right.	4	124	252	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	872.078	876.958	Xu_zidong	male	native	That is to say, they -- they -- they say the little child shakes her head; if you give her a doll, the child doesn't know.	4	125	253	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	876.958	880.671	Xu_zidong	male	native	She's as rude as a pirate to -- to that -- that -- that doll.	4	125	254	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	880.671	880.911	Dou_wentao		native	Mm.	4	126	255	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	880.671	880.911	Xu_zidong	male	native	Then	4	126	256	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	880.911	885.971	Xu_zidong	male	native	in the hospital everyone came to ((pw)) crowd around and look at her, that is, they kept looking at their child.	4	127	257	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	885.971	886.869	Xu_zidong	male	native	In the parents' minds...	4	128	258	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	885.971	886.869	Chen_fangyuan	female	native	They were worried that she'd be bullied, worried that she'd be bullied.	4	128	259	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	886.869	887.677	Chen_fangyuan	female	native		4	129	260	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	887.677	888.126	Chen_fangyuan	female	native		4	130	261	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	887.677	888.126	Xu_zidong	male	native	I was watching	4	130	262	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	888.126	891.719	Xu_zidong	male	native	the news, that is -- anyway I was looking at, particularly this photo, and as I looked at it I felt...	4	131	263	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	891.719	899.161	Dou_wentao		native	So, you see, that is, that is to say, life, with its aging, disease and death, is too harsh, ah, that is, that illness can be very harsh.	4	132	264	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	899.161	905.276	Xu_zidong	male	native	Uh, people -- people -- I always think that people, as soon as they have children -- having children is an enormous, enormous responsibility.	4	133	265	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	905.276	905.845	Xu_zidong	male	native	Enormous...	4	134	266	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	905.276	905.845	Dou_wentao		native	That's right.	4	134	267	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	905.845	907.043	Xu_zidong	male	native	...it's an enormous responsibility.	4	135	268	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	907.043	907.312	Xu_zidong	male	native		4	136	269	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	907.043	907.312	Dou_wentao		native	I'm also	4	136	270	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	907.312	913.091	Dou_wentao		native	telling you that you see, our director, who had a child, ah, then one day said to me,	4	137	271	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	913.869	920.815	Dou_wentao		native	the child cries, you -- can you imagine it? The child cries, uh, and you hold her, but you don't know why she's crying,	4	137	273	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	920.815	923.180	Dou_wentao		native	and she's crying on and on there, you know?	4	137	274	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	923.180	923.586	Dou_wentao		native	Oh, dear.	4	138	275	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	923.180	923.586	Chen_fangyuan	female	native	Hungry, isn't she?	4	138	276	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	923.586	924.484	Chen_fangyuan	female	native		4	139	277	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	924.484	928.625	Dou_wentao		native	But -- but you don't know if it's hunger, you give her milk, and she doesn't eat, whatever you feed her -- and you don't know why she's crying.	4	140	278	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	928.625	934.425	Dou_wentao		native	At that time you, as a father, will start to think why did I have to have this child? You know?	4	140	279	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	934.425	938.215	Dou_wentao		native	Another possibility is an unplanned child. Some people have one like this.	4	140	280	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	938.215	944.637	Xu_zidong	male	native	A quote from Lu -- Lu Xun says that a child, uh, cries, and it rolls its eyes at the people in the room.	4	141	281	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	944.637	948.589	Xu_zidong	male	native	He said, is it looking for the opposite sex? No, everyone knows it wants to have milk.	4	141	282	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	948.589	950.445	Xu_zidong	male	native	{laugh}	4	141	283	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	950.445	951.433	Xu_zidong	male	native	It's not easy.	4	142	284	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	951.433	956.282	Chen_fangyuan	female	native	Actually, that -- that care that parents have for children, that attention, that raising, ah, actually it's never-ending,	4	143	285	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	956.282	958.617	Chen_fangyuan	female	native	and it's particularly all-encompassing -- many things --	4	143	286	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	958.617	958.827	Dou_wentao		native	Uh-huh.	4	144	287	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	958.827	960.501	Chen_fangyuan	female	native	for them to raise us into the grown ups we are now --	4	145	288	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	960.501	963.438	Chen_fangyuan	female	native	What's the example that I -- I've thought of? That is, isn't this child suffering from cerebral palsy?	4	145	289	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	963.438	963.938	Chen_fangyuan	female	native	So she is the same as...	4	146	290	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	963.438	963.938	Dou_wentao		native	Mm.	4	146	291	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	963.938	969.345	Chen_fangyuan	female	native	...those retarded people -- when we were small, when we were in -- in the Central Philharmonic Orchestra, at that time we were going to -- going to school,	4	147	292	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	969.345	973.220	Chen_fangyuan	female	native	then one of our teachers had a child that was called -- called Down's Syndrome,	4	147	293	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.220	973.698	Chen_fangyuan	female	native	that is...	4	148	294	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.220	973.698	Dou_wentao		native	Oh.	4	148	295	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.698	973.993	Chen_fangyuan	female	native	...one of the world's -- there's a kind of...	4	149	296	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.993	974.802	Chen_fangyuan	female	native		4	150	297	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	973.993	974.802	Dou_wentao		native	Down's Syndrome, right.	4	150	298	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	974.802	981.329	Chen_fangyuan	female	native	...patients who look the same. We knew him since he was small. The teacher would come with him. Sometimes he would come to class, and we would see him.	4	151	299	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	981.329	983.724	Chen_fangyuan	female	native	We always thought he was a retarded child.	4	151	300	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	983.724	984.143	Dou_wentao		native	Uh-huh.	4	152	301	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	984.143	988.972	Chen_fangyuan	female	native	He was about the same age as us, and a few years before he'd suddenly changed --	4	153	302	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	988.972	992.795	Chen_fangyuan	female	native	not to say he became normal, but to say he suddenly had an ability.	4	153	303	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	993.364	996.877	Chen_fangyuan	female	native	What was really special was, he could suddenly draw.	4	153	305	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	996.877	997.266	Dou_wentao		native	Ah.	4	154	306	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	997.266	997.775	Dou_wentao		native	Sometimes it's...	4	155	307	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	997.266	997.775	Chen_fangyuan	female	native	And the pictures --	4	155	308	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	997.775	998.464	Dou_wentao		native	...a genius.	4	156	309	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	998.464	1001.698	Chen_fangyuan	female	native	It's really true that sometimes there is just a very fine line between a genius and a fool.	4	157	310	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1001.698	1002.087	Xu_zidong	male	native	Uh-huh.	4	158	311	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1002.087	1002.566	Chen_fangyuan	female	native	That is to say...	4	159	312	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1002.566	1003.644	Dou_wentao		native	Well said.	4	160	313	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1003.644	1006.986	Chen_fangyuan	female	native	...sometimes it's just like this, because I think -- whether there will be research on it from a scientific perspective --	4	161	314	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1006.986	1009.183	Chen_fangyuan	female	native	that is, in the brain, this --	4	161	315	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.183	1009.452	Chen_fangyuan	female	native	this...	4	162	316	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.183	1009.452	Xu_zidong	male	native	Crossed connections, right?	4	162	317	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.452	1009.871	Xu_zidong	male	native		4	163	318	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1009.871	1010.135	Chen_fangyuan	female	native	Oh.	4	164	319	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1010.135	1011.698	Chen_fangyuan	female	native	That is, which cell...	4	165	320	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1010.135	1011.698	Xu_zidong	male	native	Connections, one by one.	4	165	321	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1011.698	1016.338	Chen_fangyuan	female	native	...sequenced close with which cell or its whatever, will produce some chemical +reactions, or whatever --	4	166	322	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1016.338	1020.026	Chen_fangyuan	female	native	later the pictures he draws are amazing, and all of his pictures were drawn while he was listening to music.	4	166	323	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1020.026	1020.410	Dou_wentao		native	Uh-huh.	4	167	324	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1020.410	1026.218	Chen_fangyuan	female	native	His dad was a very famous composer, so listening to his dad's works, tears would come to his eyes.	4	168	325	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1026.218	1029.392	Chen_fangyuan	female	native	Then he'd say, dad, I want to draw your so many-th symphony.	4	168	326	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1029.392	1036.046	Chen_fangyuan	female	native	Just listening to Yoyo Ma's works, listening to that cello piece of Yoyo Ma's, listening to so-and-so great composer's music, he could draw a picture.	4	168	327	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1036.046	1044.941	Chen_fangyuan	female	native	And when the composer himself saw it afterwards, he said in great surprise, my goodness, this picture is exactly what I was trying to express with this music. So it was extremely amazing.	4	168	328	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1044.941	1047.692	Dou_wentao		native	Uh, but this has a lot to do with hereditary genes.	4	169	329	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1047.692	1052.542	Dou_wentao		native	My feeling, ah, recently, is that it's just like retarded people, ah, or whatever, ah, that you were saying, but there is still one question,	4	169	330	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1052.542	1057.542	Dou_wentao		native	which is, you've got to have a kind of respect for the things that we don't understand in our lives.	4	169	331	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1057.542	1058.051	Chen_fangyuan	female	native	Uh-huh.	4	170	332	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1058.051	1064.302	Dou_wentao		native	You don't know -- for example, perhaps his illness is just as you said: he might be discovered as a genius in some other area,	4	171	333	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1064.302	1069.480	Dou_wentao		native	uh, or there might even be a way of treating the illness after a few years.	4	171	334	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1069.480	1073.405	Dou_wentao		native	That is to say, what we know about this, ah, is too limited at the moment.	4	171	335	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1073.405	1073.732	Chen_fangyuan	female	native	Right, right.	4	172	336	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1073.732	1074.184	Chen_fangyuan	female	native	Limited.	4	173	337	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1073.732	1074.184	Dou_wentao		native	For example,	4	173	338	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1074.184	1078.735	Dou_wentao		native	recently I, ah, oh -- let me tell you -- I read a very interesting book called Sperm Wars.	4	174	339	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1078.735	1079.064	Xu_zidong	male	native	Uh.	4	175	340	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1078.735	1079.064	Chen_fangyuan	female	native	Mm.	4	175	341	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1079.064	1082.118	Dou_wentao		native	This book was very funny, I tell you, it -- I'm telling you, Professor Xu,	4	176	342	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1082.118	1082.807	Dou_wentao		native	let me say first...	4	177	343	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1082.118	1082.807	Xu_zidong	male	native	It's written by ((pw)) an American.	4	177	344	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1082.807	1083.419	Xu_zidong	male	native		4	178	345	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1083.945	1085.767	Dou_wentao		native	An American, ah, Robin Baker.	4	179	347	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1085.767	1090.257	Dou_wentao		native	Very -- let me say first that this book of his, ah, just shows the conservatism of the publishing world in China.	4	179	348	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1090.257	1090.652	Chen_fangyuan	female	native	Uh-huh.	4	180	349	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1090.652	1094.634	Dou_wentao		native	This is obviously an academic book, a very serious book,	4	181	350	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1094.634	1098.347	Dou_wentao		native	but it perhaps uses a rather lively descriptive style,	4	181	351	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1098.347	1102.957	Dou_wentao		native	and then there are numerous expert introductions, repeatedly telling you...	4	181	352	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1102.957	1103.137	Chen_fangyuan	female	native	Uh-huh.	4	182	353	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1103.137	1104.574	Dou_wentao		native	that don't think this is a pornographic novel,	4	183	354	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1104.574	1104.903	Chen_fangyuan	female	native	Uh,	4	184	355	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1104.903	1108.976	Dou_wentao		native	and after explaining, they even tell readers, we've cut things out.	4	185	356	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1108.976	1109.273	Dou_wentao		native	You...	4	186	357	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1108.976	1109.273	Xu_zidong	male	native	Mm.	4	186	358	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1109.273	1113.405	Dou_wentao		native	...say this kind of thing; I say, why do you have to cut them out? I think what you've cut out is what I most want to read.	4	187	359	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1113.405	1114.453	Dou_wentao		native	How can you just do whatever you want?	4	188	360	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1113.405	1114.453	Xu_zidong	male	native	Just like The Plum in the Golden Vase: 200 words cut out here.	4	188	361	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1114.453	1116.281	Xu_zidong	male	native		4	189	362	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1116.281	1116.699	Xu_zidong	male	native		4	190	363	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1116.281	1116.699	Dou_wentao		native	There's no --	4	190	364	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1116.699	1119.483	Dou_wentao		native	that is, I think the publisher is taking me as retarded.	4	191	365	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1119.483	1123.855	Dou_wentao		native	You -- am I -- am I slow-witted? So -- so I won't understand it, and you cut it out. No, I'm not. That's exactly what I'm talking about.	4	191	366	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1123.855	1130.575	Xu_zidong	male	native	Now in publishing, in all areas of the business, they have a standard, which is 15 or 16 years old. They take this as their cut-off line.	4	192	367	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1130.575	1131.024	Xu_zidong	male	native	Particularly not to...	4	193	368	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1130.575	1131.024	Chen_fangyuan	female	native	Oh.	4	193	369	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.024	1131.383	Xu_zidong	male	native	...exceed	4	194	370	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.383	1131.806	Xu_zidong	male	native	this.	4	195	371	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.383	1131.806	Dou_wentao		native	Like Hong Kong, we could...	4	195	372	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.806	1132.465	Dou_wentao		native		4	196	373	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1131.806	1132.465	Chen_fangyuan	female	native	Ah.	4	196	374	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1132.465	1139.471	Dou_wentao		native	have grades. No, what I wanted to talk about isn't this -- what I'm talking about is this sperm which is just +fascinating. Do you know why people need a hundred million all at once?	4	197	375	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1140.100	1142.555	Dou_wentao		native	Need as many as a hundred million sperms?	4	197	377	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1142.555	1142.914	Chen_fangyuan	female	native	Mm.	4	198	378	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1143.663	1146.417	Dou_wentao		native	Do we not need them? In the past they thought they were all charging, charging, um,	4	199	380	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1146.417	1146.807	Dou_wentao		native	um...	4	200	381	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1146.417	1146.807	Xu_zidong	male	native	There are defenders. There are defenders,	4	200	382	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1146.807	1148.244	Xu_zidong	male	native	I've heard...	4	201	383	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1148.244	1149.502	Dou_wentao		native	Right, your --	4	202	384	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1149.502	1150.610	Dou_wentao		native	discovered that human beings with so...	4	203	385	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1149.502	1150.610	Xu_zidong	male	native	...there are strikers and there are defenders.	4	203	386	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1150.610	1153.367	Dou_wentao		native	...many years of evolution, uh, these a hundred million sperms, ah...	4	204	387	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1153.367	1153.576	Chen_fangyuan	female	native	Eh.	4	205	388	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1153.576	1155.879	Dou_wentao		native	have different roles, like an army.	4	206	389	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1155.879	1156.388	Chen_fangyuan	female	native	Oh.	4	207	390	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1156.388	1162.227	Dou_wentao		native	For example, scientists mix together the sperms of two men, and immediately found that they started a war.	4	208	391	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1162.826	1163.545	Dou_wentao		native	My goodness! They are all	4	208	393	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.545	1163.785	Dou_wentao		native	self...	4	209	394	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.545	1163.785	Xu_zidong	male	native	Good. Good.	4	209	395	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.785	1163.995	Dou_wentao		native	...sacrificing.	4	210	396	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1163.995	1165.462	Xu_zidong	male	native	Oh, they are going to fight a battle.	4	211	397	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1165.462	1168.157	Dou_wentao		native	Some sperms fight, block off;	4	212	398	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1168.157	1168.576	Chen_fangyuan	female	native	Uh-huh.	4	213	399	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1168.576	1173.246	Dou_wentao		native	some sperms do their utmost to penetrate the egg. They are specifically responsible for fertilization.	4	214	400	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1173.246	1178.707	Dou_wentao		native	Have you read it? They have strategy, and in addition, for example, this book reminds me, ah, this year is the year of the pig.	4	214	401	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1178.707	1179.066	Chen_fangyuan	female	native	Yeah.	4	215	402	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1179.066	1182.300	Dou_wentao		native	Many people, ah, are seeded players -- you know, men --	4	216	403	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1182.300	1182.839	Dou_wentao		native	know what --	4	217	404	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1182.300	1182.839	Chen_fangyuan	female	native	Next year,	4	217	405	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1182.839	1184.695	Chen_fangyuan	female	native	it'll be next year very soon -- lunar year.	4	218	406	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1184.695	1185.204	Dou_wentao		native	Oh, lunar year,	4	219	407	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1185.204	1185.501	Dou_wentao		native		4	220	408	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1185.204	1185.501	Chen_fangyuan	female	native	Mm.	4	220	409	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1185.501	1186.549	Dou_wentao		native	all want to have a baby.	4	221	410	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1186.549	1186.998	Chen_fangyuan	female	native	Uh-huh	4	222	411	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1186.998	1187.627	Xu_zidong	male	native	Year of the pig.	4	223	412	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1187.627	1190.522	Dou_wentao		native	Uh-huh, now there are some seeded players -- like, ah, husbands are seeded players --	4	224	413	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1190.522	1190.881	Chen_fangyuan	female	native	Uh-huh.	4	225	414	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1190.881	1193.855	Dou_wentao		native	they are forced by their wives to be flying all over the place.	4	226	415	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1193.855	1199.304	Dou_wentao		native	Why fly all over the place? Because now a lot of people work in two different places, you know? Couples are calculating	4	226	416	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1199.933	1200.711	Dou_wentao		native	my ovulation dates.	4	226	418	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1200.711	1201.071	Chen_fangyuan	female	native	Ah.	4	227	419	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1201.071	1207.538	Dou_wentao		native	That is, they are taking a plane to go and -- haha -- to go -- to go and do what? To go and find -- find this ovulation date, you know? It's too funny.	4	228	420	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1207.538	1208.227	Chen_fangyuan	female	native	Making a baby, haha!	4	229	421	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1208.227	1215.502	Dou_wentao		native	That's right. You -- you -- you've heard, the other day I -- I heard two women, women -- two wives who both wanted to have children exchanging their experiences. I nearly killed myself laughing.	4	230	422	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1215.502	1220.922	Dou_wentao		native	There was one -- one -- I heard one woman say -- say, ah, I have a pillow to put under me each time,	4	230	423	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1220.922	1221.311	Chen_fangyuan	female	native	Mm.	4	231	424	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1221.311	1227.090	Dou_wentao		native	why is it not working? Always not conceiving? The other woman said, that's no good, putting something under you is not going to work. Ah, I stand on my head every time.	4	232	425	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1227.090	1227.599	Chen_fangyuan	female	native	{laugh}	4	233	426	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1227.599	1231.162	Dou_wentao		native	My husband reads the newspaper in bed, while I stand on my head in bed. I said	4	234	427	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1231.162	1231.599	Dou_wentao		native	this -- this...	4	235	428	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1231.162	1231.599	Chen_fangyuan	female	native	This is	4	235	429	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1231.599	1233.485	Chen_fangyuan	female	native	a joke, this is definitely a dramatization of a joke!	4	236	430	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1233.485	1234.862	Dou_wentao		native	I heard those two women saying it.	4	237	431	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1234.862	1235.282	Chen_fangyuan	female	native	Honestly?	4	238	432	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1235.282	1237.707	Dou_wentao		native	Honestly. Standing on her head, it has to be standing on her head for half an hour. You'd say she	4	239	433	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1237.707	1238.396	Dou_wentao		native	was an athlete.	4	240	434	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1237.707	1238.396	Chen_fangyuan	female	native	Wow.	4	240	435	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1239.294	1244.174	Chen_fangyuan	female	native	I think this should be more of animal instincts, a kind of, a kind of, a kind of natural condition.	4	241	437	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1244.174	1246.480	Chen_fangyuan	female	native	I think physiology -- people all have their own physiological -- biological clock.	4	241	438	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1246.480	1246.839	Dou_wentao		native	Uh-huh.	4	242	439	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1246.839	1251.720	Chen_fangyuan	female	native	Their own physiology will issue an order, then although it's -- although we can't hear the order,	4	243	440	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1251.720	1255.080	Chen_fangyuan	female	native	all parts of their bodies can feel ((pw)) these orders, I think.	4	243	441	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1255.080	1258.187	Xu_zidong	male	native	There is simply no end of worries. You see, you worry when you haven't had children, right?	4	244	442	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1258.187	1258.606	Xu_zidong	male	native	Oh.	4	245	443	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1258.187	1258.606	Dou_wentao		native	What's up?	4	245	444	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1258.606	1259.265	Xu_zidong	male	native	How can you have a child?	4	246	445	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1259.265	1259.744	Xu_zidong	male	native	Ah.	4	247	446	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1259.265	1259.744	Dou_wentao		native	Mm.	4	247	447	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1259.744	1261.870	Xu_zidong	male	native	You have a child, then if there's a problem it's a real headache.	4	248	448	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1261.870	1262.408	Dou_wentao		native	Mm.	4	249	449	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1262.408	1269.434	Xu_zidong	male	native	Strindberg's play The Father, ah, talks about another headache. What is it? The good captain -- or isn't it colonel?	4	250	450	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1269.434	1274.090	Xu_zidong	male	native	His relationship with his wife is not very good. His wife wants -- wants to make him, ah, to make him angry.	4	250	451	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1274.090	1278.506	Xu_zidong	male	native	She suddenly thinks of a way, and tells him his daughter, who is already quite big,	4	250	452	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1279.195	1280.932	Xu_zidong	male	native	isn't his.	4	250	454	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1280.932	1282.758	Dou_wentao		native	{laugh}	4	251	455	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1282.758	1290.423	Xu_zidong	male	native	Then that father is stunned, then he goes asking everyone, asking everyone, then everyone thinks he's insane.	4	252	456	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1291.321	1293.088	Xu_zidong	male	native	Why? Everyone laughs at him.	4	252	458	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1293.088	1293.357	Dou_wentao		native	Mm.	4	253	459	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1293.357	1300.513	Xu_zidong	male	native	Who would suddenly come out and say that their own child isn't theirs? He's saying it to everyone, and finally everyone gradually -- gradually --	4	254	460	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1300.513	1304.216	Xu_zidong	male	native	when everyone laughs at him as a mad man, he thinks the thing is rather suspicious, ah.	4	254	461	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1304.216	1304.615	Dou_wentao		native	uh-huh.	4	255	462	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1304.615	1306.791	Xu_zidong	male	native	You see, he never gets a clear answer.	4	256	463	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1306.791	1307.090	Chen_fangyuan	female	native	Uh-huh.	4	257	464	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1307.090	1312.729	Xu_zidong	male	native	In the end he genuinely goes insane, that is, he genuinely develops a mental problem, so...	4	258	465	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1312.729	1312.969	Dou_wentao		native	Really.	4	259	466	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1312.969	1315.155	Xu_zidong	male	native	...so, so, you see, this issue of children...	4	260	467	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1315.155	1315.424	Dou_wentao		native	I tell you...	4	261	468	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1315.424	1316.262	Xu_zidong	male	native	...is so much trouble!	4	262	469	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1316.262	1319.795	Dou_wentao		native	...it's driven by a strong instinct. I've been having an odd theory lately, ah,	4	263	470	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1319.795	1320.188	Chen_fangyuan	female	native	Uh.	4	264	471	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1320.188	1324.316	Dou_wentao		native	I ((pw)) I think people -- or rather, you think you're a person, but actually, ah, you're just a vessel.	4	265	472	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1324.885	1330.829	Dou_wentao		native	All of your behavior in your life and everything you do result from you being a vessel for your genes.	4	265	474	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1330.829	1331.189	Chen_fangyuan	female	native	Uh-huh.	4	266	475	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1331.189	1337.979	Dou_wentao		native	Your -- your biggest real goal in this life, whether you know it or not, whether you are willing or not -- you're doing everything for your genes.	4	267	476	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1337.979	1342.542	Dou_wentao		native	For example, I was saying that this book raises a question. I'd only just read the beginning when I discovered a problem.	4	267	477	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1342.542	1345.117	Dou_wentao		native	When you don't want to get pregnant, why...	4	267	478	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1345.117	1345.296	Chen_fangyuan	female	native	Mm.	4	268	479	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1345.296	1345.846	Dou_wentao		native	...do you often...	4	269	480	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1345.846	1346.804	Chen_fangyuan	female	native	Mm.	4	270	481	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1346.804	1350.756	Dou_wentao		native	...get pregnant? And when you want to get pregnant, you always can't get pregnant.	4	271	482	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1351.415	1359.715	Dou_wentao		native	This shows, ah, ((pw)) -- and also, why do husband and wife -- we now say that the feelings between husband and wife, uh, that is that sex life between husband and wife seems to be a routine business,	4	271	484	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1359.715	1359.967	Chen_fangyuan	female	native	Uh-huh.	4	272	485	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1359.967	1363.307	Dou_wentao		native	they obviously feel very bored, but why do you still want to carry out this routine business?	4	273	486	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1363.307	1367.649	Dou_wentao		native	We often explain it by referring to those feelings, ah, something like family bonds, ah, love, and reasons like these.	4	273	487	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1367.649	1372.738	Dou_wentao		native	According to the research in this book, this is a human instinct that you can't control.	4	273	488	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1373.247	1377.229	Dou_wentao		native	For example, humans must do what is the best for their reproduction.	4	273	490	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1377.229	1377.679	Chen_fangyuan	female	native	Uh-huh.	4	274	491	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1377.679	1381.600	Dou_wentao		native	Why maintain a sex life which is a sort of routine business?	4	275	492	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1382.109	1387.290	Dou_wentao		native	Because you can never calculate a human female's ovulation date accurately.	4	275	494	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1387.290	1387.919	Chen_fangyuan	female	native	Uh-huh.	4	276	495	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1387.919	1389.835	Dou_wentao		native	Although how many days it is...	4	277	496	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1389.835	1390.445	Dou_wentao		native		4	278	497	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1389.835	1390.445	Xu_zidong	male	native	There's been a lot of research.	4	278	498	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1390.445	1390.834	Xu_zidong	male	native		4	279	499	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1390.834	1391.100	Chen_fangyuan	female	native	Ah, there has been	4	280	500	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1391.100	1391.606	Chen_fangyuan	female	native	research.	4	281	501	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1391.100	1391.606	Dou_wentao		native	How many days...	4	281	502	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1391.606	1392.834	Chen_fangyuan	female	native	Expert, this is an expert.	4	282	503	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1392.834	1396.397	Dou_wentao		native	...uh, right, for example, the egg lives only for one day, and the sperm, uh,	4	283	504	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1396.397	1397.146	Xu_zidong	male	native	We truly don't know that yet.	4	284	505	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1397.146	1397.536	Xu_zidong	male	native		4	285	506	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1397.146	1397.536	Dou_wentao		native	Right,	4	285	507	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1397.536	1401.072	Dou_wentao		native	after people, people ejaculated, the sperm will approximately...	4	286	508	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1401.072	1404.288	Xu_zidong	male	native	You mean females can only conceive on one day out of a thirty-day month?	4	287	509	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1404.288	1405.635	Dou_wentao		native	That's right, and males?	4	288	510	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1405.635	1406.594	Dou_wentao		native		4	289	511	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1405.635	1406.594	Xu_zidong	male	native	So that's how it is.	4	289	512	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1406.594	1407.372	Dou_wentao		native	Yes, you ask her.	4	290	513	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1406.594	1407.372	Chen_fangyuan	female	native	Uh.	4	290	514	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1407.372	1408.121	Dou_wentao		native	How could she know? She	4	291	515	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1408.121	1408.570	Dou_wentao		native	ought to know.	4	292	516	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1408.121	1408.570	Chen_fangyuan	female	native	No, it's	4	292	517	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1408.570	1412.119	Chen_fangyuan	female	native	like this: in the past we said there was an ovulation period, and some calculated dates based on this,	4	293	518	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1412.119	1412.762	Chen_fangyuan	female	native	or whatever.	4	294	519	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1412.119	1412.762	Xu_zidong	male	native	Mm.	4	294	520	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1412.762	1415.712	Chen_fangyuan	female	native	Actually, later some other people thought this ovulation date isn't necessarily accurate.	4	295	521	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1416.221	1416.864	Chen_fangyuan	female	native	That is, we	4	295	523	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1416.864	1417.343	Chen_fangyuan	female	native	generally say...	4	296	524	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1416.864	1417.343	Xu_zidong	male	native	There's only	4	296	525	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1417.343	1418.720	Xu_zidong	male	native	one day when it's effective?	4	297	526	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1418.720	1422.403	Dou_wentao		native	Right, and this day is very difficult to calculate. This, as	4	298	527	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1422.403	1423.002	Dou_wentao		native	sperms...	4	299	528	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1422.403	1423.002	Xu_zidong	male	native	Don't	4	299	529	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1423.002	1423.990	Xu_zidong	male	native	mislead women.	4	300	530	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1423.990	1429.080	Dou_wentao		native	This is -- this is -- there are books that prove this, ah, it takes up to two days after the sperm comes out --	4	301	531	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1429.858	1431.894	Dou_wentao		native	it has to wait two days before it can arrive	4	301	533	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1431.894	1432.691	Dou_wentao		native	at a fairly...	4	302	534	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1431.894	1432.691	Xu_zidong	male	native	Happens to run into that date.	4	302	535	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1432.691	1432.960	Xu_zidong	male	native		4	303	536	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1432.960	1437.571	Dou_wentao		native	...suitable condition for conception, and most people calculate by the periods, right?	4	304	537	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1437.571	1444.743	Dou_wentao		native	But female menstruation is very rarely at the same time each month, ah, that mechanical, really accurate,	4	304	538	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1444.743	1447.240	Dou_wentao		native	and it is affected by mood, or whatever.	4	304	539	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1447.240	1454.247	Dou_wentao		native	So, this is -- this is -- this is the female strategy. This way, they can choose males, you know? Males, you can't work out what time I'm ovulating, right?	4	304	540	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1454.247	1459.965	Dou_wentao		native	But as a male, you also want to have a corresponding strategy. How do I ensure that the child you give birth to is mine?	4	304	541	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1459.965	1463.826	Dou_wentao		native	It is best, ah, I do it with you at weekly intervals,	4	304	542	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1463.826	1464.036	Dou_wentao		native	eh,	4	305	543	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1464.036	1465.832	Dou_wentao		native	so as to guarantee, ah, a probability,	4	306	544	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1465.832	1466.312	Dou_wentao		native		4	307	545	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1465.832	1466.312	Xu_zidong	male	native	Unmistakable.	4	307	546	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1466.312	1469.187	Dou_wentao		native	and make sure I often have my sperms...	4	308	547	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1469.187	1470.093	Chen_fangyuan	female	native	Guaranteed quantity.	4	309	548	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1470.093	1471.411	Dou_wentao		native	...left, left in...	4	310	549	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1470.093	1471.411	Xu_zidong	male	native	Standing on guard there.	4	310	550	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1471.411	1472.601	Dou_wentao		native	...your body. There's a time guarantee.	4	311	551	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1472.601	1473.267	Xu_zidong	male	native	This is...	4	312	552	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1472.601	1473.267	Chen_fangyuan	female	native	Uh-huh.	4	312	553	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1473.267	1474.017	Xu_zidong	male	native	...placing a sentinel,	4	313	554	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1473.267	1474.017	Dou_wentao		native	So,	4	313	555	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1474.017	1475.873	Xu_zidong	male	native	and regularly replacing the sentinel.	4	314	556	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1475.873	1480.155	Dou_wentao		native	Right, so you shouldn't dislike the routine business or whatever between husband and wife. You dislike it, but this is decided by instinct.	4	315	557	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1480.155	1486.173	Dou_wentao		native	Whether you're willing or not, every weekend you just have to do the routine business. Let's have a commercial break.	4	315	558	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1486.173	1488.538	Dou_wentao		native	This is Behind the Headlines, see you after commercials.	4	315	559	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1488.538	1489.819	Xu_zidong	male	native	Cheng Fangyuan has been grimacing to hear this.	4	316	560	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1584.377	1585.613	Dou_wentao		native	Oh, dear. As soon as we start talking about sperm, Professor Xu	6	318	562	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1585.613	1586.019	Dou_wentao		native	really gets into it.	6	319	563	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1585.613	1586.019	Xu_zidong	male	native	Oh, in	6	319	564	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1586.019	1595.001	Xu_zidong	male	native	science, I don't understand, but culturally I have an association, which is, actually, ah, men, ah, worry that their own, uh, things, and --	6	320	565	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1595.001	1595.750	Xu_zidong	male	native	what kind...	6	321	566	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1595.001	1595.750	Dou_wentao		native	What things?	6	321	567	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1595.750	1600.241	Xu_zidong	male	native	that their own things, uh, will be mistaken by people.	6	322	568	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1600.241	1600.680	Dou_wentao		native	Mm.	6	323	569	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1600.680	1602.786	Xu_zidong	male	native	This anxiety is an eternal anxiety for men.	6	324	570	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1602.786	1603.115	Dou_wentao		native	That's right.	6	325	571	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1603.115	1603.444	Dou_wentao		native		6	326	572	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1603.115	1603.444	Xu_zidong	male	native	So	6	326	573	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1603.444	1608.025	Xu_zidong	male	native	it's a foundation of all our modern society. You know, in the most primitive times, men would -- for example,	6	327	574	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1608.743	1611.592	Xu_zidong	male	native	a man gets aroused, and after he's done this thing with a woman,	6	327	576	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1611.592	1616.780	Xu_zidong	male	native	the rest of the time, the thing he cares about most in his day is that this woman shouldn't get together with another man --	6	327	577	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1616.780	1619.466	Xu_zidong	male	native	shouldn't (()) with another -- shouldn't let other sperm enter.	6	327	578	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1619.466	1619.616	Chen_fangyuan	female	native	Right.	6	328	579	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1619.616	1619.872	Dou_wentao		native	Right.	6	329	580	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1619.872	1624.107	Xu_zidong	male	native	To achieve this, all civilized human males did three things.	6	330	581	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1624.796	1626.802	Xu_zidong	male	native	First, they shut the woman up,	6	330	583	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1626.802	1627.400	Xu_zidong	male	native	not letting her...	6	331	584	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1626.802	1627.400	Dou_wentao		native	Guarding.	6	331	585	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1627.400	1627.820	Xu_zidong	male	native	...go out.	6	332	586	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1627.820	1628.389	Dou_wentao		native	Uh-huh.	6	333	587	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1628.389	1630.245	Xu_zidong	male	native	For many years it was like this, that's why there were things in the back gardens.	6	334	588	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1630.245	1630.843	Xu_zidong	male	native		6	335	589	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1630.245	1630.843	Dou_wentao		native	Mm.	6	335	590	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1630.843	1634.703	Xu_zidong	male	native	Second, they used other things to exchange for her freedom.	6	336	591	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1634.703	1638.389	Xu_zidong	male	native	So, I give you a bit more boar meat, and you don't do it with other people.	6	336	592	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1638.389	1638.748	Dou_wentao		native	Uh-huh.	6	337	593	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1638.389	1638.748	Chen_fangyuan	female	native	Uh-huh.	6	337	594	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1638.748	1642.349	Xu_zidong	male	native	Right up to the present day it's still like this, isn't it? I give you LV, you don't do it with other people.	6	338	595	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1642.349	1642.887	Chen_fangyuan	female	native	Right, right.	6	339	596	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1642.887	1648.979	Xu_zidong	male	native	Third, the most basic method is education and brainwashing, brainwash this woman, so after -- that is,	6	340	597	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1648.979	1652.961	Xu_zidong	male	native	after you've been with me, it's shameful to let other men enter again.	6	340	598	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1652.961	1653.320	Chen_fangyuan	female	native	Mm.	6	341	599	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1653.320	1653.560	Dou_wentao		native	Ah.	6	342	600	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1653.560	1654.997	Xu_zidong	male	native	That wouldn't be a good woman.	6	343	601	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1655.731	1658.314	Xu_zidong	male	native	Nowadays, although the first two methods still exist,	6	343	603	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1658.314	1658.486	Dou_wentao		native	Uh-huh.	6	344	604	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1658.486	1660.207	Xu_zidong	male	native	they've been destroyed conceptually.	6	345	605	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1660.207	1667.482	Xu_zidong	male	native	But with the third one, men have been most successful. They have inculcated women for a very long time, making women think one is good,	6	345	606	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1667.482	1668.107	Dou_wentao		native	Right, right, right.	6	346	607	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1668.107	1671.195	Xu_zidong	male	native	one for one entire life is good. Actually it's men trying to stop...	6	347	608	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1671.195	1671.435	Chen_fangyuan	female	native	Right.	6	348	609	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1671.435	1671.764	Xu_zidong	male	native	...this...	6	349	610	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1671.764	1672.280	Dou_wentao		native	Right.	6	350	611	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1672.280	1673.471	Dou_wentao		native	I think it's...	6	351	612	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1672.280	1673.471	Xu_zidong	male	native	...use of wrong sperm.	6	351	613	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1673.471	1675.426	Dou_wentao		native	...it's usually all you intellectuals on this track.	6	352	614	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1675.426	1676.824	Dou_wentao		native	{laugh}	6	352	615	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1676.824	1677.603	Dou_wentao		native	Hey, aren't you good at...	6	353	616	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1676.824	1677.603	Xu_zidong	male	native	It's this group that is good at brainwashing.	6	353	617	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1677.603	1677.932	Dou_wentao		native	...brainwashing?	6	354	618	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1677.932	1679.040	Xu_zidong	male	native	Hey, this -- this isn't --	6	355	619	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1679.040	1685.837	Dou_wentao		native	Hey, Fangyuan, do you -- do you think that when you were young, had you looked at the world through ignorant eyes -- wow -- while a very learned man brainwashed you?	6	356	620	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1686.765	1687.274	Chen_fangyuan	female	native	Yes!	6	357	622	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1687.274	1689.121	Dou_wentao		native	He did, he definitely did.	6	358	623	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1689.121	1696.444	Chen_fangyuan	female	native	No, I think this kind of thing is for a kind of -- for example, worship of knowledge, ah, a kind of curiosity for this kind of learning, ah, for some unknown worlds, or whatever.	6	359	624	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1696.444	1699.797	Chen_fangyuan	female	native	You would -- would -- would definitely be attracted by these things.	6	359	625	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1699.797	1700.067	Dou_wentao		native	Oh.	6	360	626	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1700.067	1700.307	Chen_fangyuan	female	native	Right.	6	361	627	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1700.307	1703.211	Dou_wentao		native	Would you fall in love because of your worship of knowledge?	6	362	628	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.211	1703.570	Chen_fangyuan	female	native	Yes.	6	363	629	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.570	1703.990	Xu_zidong	male	native	Ha.	6	364	630	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.990	1704.289	Dou_wentao		native		6	365	631	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1703.990	1704.289	Chen_fangyuan	female	native	Yes.	6	365	632	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1704.289	1704.888	Dou_wentao		native	Many women	6	366	633	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1704.888	1705.247	Dou_wentao		native	have said this...	6	367	634	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1704.888	1705.247	Chen_fangyuan	female	native	Right.	6	367	635	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1705.247	1705.906	Dou_wentao		native	worshiping him.	6	368	636	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1705.906	1708.996	Chen_fangyuan	female	native	Right, right. I think this seems to be common among many women,	6	369	637	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1708.996	1714.978	Chen_fangyuan	female	native	that is, I -- I can't -- his level cannot be below mine, or even the same as mine. It's best if his level is above mine.	6	369	638	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1715.726	1716.355	Chen_fangyuan	female	native	This is the case with many girls.	6	369	640	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1716.355	1716.577	Chen_fangyuan	female	native		6	370	641	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1716.355	1716.577	Xu_zidong	male	native	Now	6	370	642	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1716.577	1718.972	Xu_zidong	male	native	they've all found that they've been fooled by sperm wars.	6	371	643	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1718.972	1719.541	Dou_wentao		native	Right.	6	372	644	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1719.541	1721.487	Dou_wentao		native	This is -- this is...	6	373	645	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1719.541	1721.487	Xu_zidong	male	native	They've all been fooled by sperm wars.	6	373	646	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1721.487	1725.319	Dou_wentao		native	...the role of genes. This is -- because you have to choose the best seed, the most	6	374	647	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.319	1725.916	Dou_wentao		native	outstanding seed.	6	375	648	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.319	1725.916	Xu_zidong	male	native	Right.	6	375	649	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.916	1728.072	Xu_zidong	male	native	Subconsciously it's for children.	6	376	650	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1725.916	1728.072	Chen_fangyuan	female	native	It's true, it's true, there's false impression.	6	376	651	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1728.072	1731.665	Chen_fangyuan	female	native	When you look up to a person, when you find out he's not all that, you'll be very disappointed.	6	377	652	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1731.665	1735.782	Dou_wentao		native	Right. That's what frustrates a man. Yet, instinctively he will continue to pretend.	6	378	653	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1899.689	1902.598	Shen_xing	female	native	Hello, everyone. Welcome to today's EntStorm. This is Shen Xing.	8	380	655	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1902.598	1903.335	Yuchi-linjia	male	native	This is Yuchi.	8	381	656	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1903.335	1906.400	Shen_xing	female	native	Just now we saw two small -- small cartoon characters moving back and forth, right?	8	382	657	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1906.400	1906.730	Shen_xing	female	native		8	383	658	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1906.400	1906.730	Yuchi-linjia	male	native	Yeah.	8	383	659	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1906.730	1911.490	Shen_xing	female	native	Then it was a big head, wearing a little skirt underneath. I think it was really cute, and shouldn't be considered a spoof.	8	384	660	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1911.490	1914.395	Yuchi-linjia	male	native	Right, right, right. For you, it absolutely was a spoof.	8	385	661	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1914.395	1917.786	Yuchi-linjia	male	native	It made you uglier. For me it was absolutely a beautification. It gave me a face-lift.	8	385	662	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1917.786	1924.333	Yuchi-linjia	male	native	Many of our friends know, ah, that a lot of the media called 2006 an important year. It was called the first year of spoof.	8	385	663	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1924.333	1929.816	Shen_xing	female	native	So, today our BBS discussion topic is -- that is, the hot topic for our EntStorm program today, uh, is	8	386	664	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1929.816	1935.397	Shen_xing	female	native	spoof yesterday, today and tomorrow. I feel as though we've said everything about spoofs in their current incarnation, uh.	8	386	665	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1935.397	1936.809	Yuchi-linjia	male	native	What were spoofs like in the past?	8	387	666	report	
+PHOENIX_BEHINDHL_CMN_20070112_052801	0	1936.809	1939.140	Yuchi-linjia	male	native	Let's recall the earliest spoofs.	8	387	667	report	

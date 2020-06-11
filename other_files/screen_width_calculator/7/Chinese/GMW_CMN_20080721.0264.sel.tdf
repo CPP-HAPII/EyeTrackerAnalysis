@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080721.0264	0	800.0	900.0	speaker	unknown	unknown	早晨8时,记者在北京市公安局公安交通管理局指挥中心看到,今天北京市区各条道路可谓“一路畅通”,各环线主路上所有车速都比平时有所提升,有些路段行车时速甚至能保持在七八十公里的状态。	0	0	0		
+GMW_CMN_20080721.0264	0	1200.0	1300.0	speaker	unknown	unknown	上午9时,记者在平时较为拥堵的双井桥、崇文门路口等路段看到,过往车辆基本都能以接近限速的时速行驶,没有发生任何拥堵情况。	0	0	0		
+GMW_CMN_20080721.0264	0	4000.0	4100.0	speaker	unknown	unknown	奥运交通指挥部、警车带道队、大型清障救援小分队、涉外涉奥事故处置小分队、科技系统保障小分队依次进行了职能展示。	0	0	0		
+GMW_CMN_20080721.0264	0	5000.0	5100.0	speaker	unknown	unknown	北京市民戴先生家住朝阳区北苑路嘉铭桐城小区,每天开车到西城区鼓楼外大街上班,大约用半小时时间,“单双号限行”措施执行后,他决定改乘公交出行,“乘公交车上班要用一个小时左右时间,每天可能要早起一些,但我对北京的限行措施很支持,对自己能为北京‘绿色奥运’贡献一份力量,感到很欣慰。”	0	0	0		
+GMW_CMN_20080721.0264	0	5700.0	5800.0	speaker	unknown	unknown	据了解,北京市社情民意调查中心对奥运期间单双号限行的问题的一项调查显示,94.8%的被访者支持奥运期间单双号限行这一规定,54.6%的被访市民将选择公共交通工具出行。	0	0	0		

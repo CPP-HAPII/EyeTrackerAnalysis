@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0002.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	待遇工时谈不拢 德工会发动邮政及运输业罢工	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社柏林十九日电	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	德国服务业统一工会与德国邮政集团管理阶层的第四回合谈判于昨晚破裂后,工会今天呼吁该集团员工从五月二日开始无限期罢工。	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	服务业统一工会表示,罢工细节将在下周末之前定案。	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	德国邮政人事部门主管索埃勒稍早发表声明说,如果工会不再反对增加工时的话,该集团已经准备好继续谈判。	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	索埃勒表示,工会必须让步以维持集团竞争力,但是工会发言人伊瑟梅尔指管理阶层的态度是「蓄意挑起冲突」。	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	工会也要求加薪百分之七,并保证雇用德国邮政十三万三千名员工至二零一一年。	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	德国邮政则提议未来两年加薪百分之五点五及就业保证,但是员工每周工时必须增加半小时。	0	0	0		statement
+AFP_CMN_20080420.0002.sgm	0	3600.000	3900.000	TEXT1	unknown	unkown	服务业统一工会也呼吁巴士、地铁及电车修理场在内的柏林运输系统,还有汽车加油及清洁员工在周末罢工。	0	0	0		statement

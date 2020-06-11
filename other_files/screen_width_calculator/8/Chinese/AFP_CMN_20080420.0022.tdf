@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0022.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	艾斯托利尔网赛　费德瑞本季首度挤进决赛	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社葡萄牙艾斯托利尔十九日电	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	世界排名第一的瑞士网球好手费德瑞,明天将带着生涯对战九胜零败的纪录,进入艾斯托利尔网球公开赛与俄罗斯选手戴维登柯的决赛,寻求二零零八年个人首座冠军奖杯。	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	1500.000	1700.000	TEXT1	unknown	unkown	头号种子费德瑞说起他那世界排名第四的对手时表示:「我知道尼可拉((戴维登柯))的危险。」	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	「我几次赢他都有点幸运,去年在罗兰盖洛斯球场的四强赛相当接近,我知道他有多么、多么棒,因此我对我的纪录非常骄傲。」	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	2400.000	2800.000	TEXT1	unknown	unkown	目前接受新聘西班牙籍教练伊格拉指导的费德瑞,今天费了一番功夫才以二比六,七比五,六比一淘汰世界排名一百零四的德国选手格美迈尔,本季首度挤进决赛。	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	费德瑞从去年十一月的名人杯男网年终八强赛后, 就没拿过冠军,他今天与首度打进四强的格美迈尔交手时,先失一盘后急起直追,最后九局有八局获胜。	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	3500.000	3800.000	TEXT1	unknown	unkown	稍早以两个六比二轻取法国选手席尔拉的戴维登柯,则已连赢十一场,其中包括本月稍早在新力易利信网赛封王。	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	4000.000	4200.000	TEXT1	unknown	unkown	戴维登柯说,他已准备好与费德瑞交手,「我喜欢比赛不利于我的时候」。	0	0	0		statement

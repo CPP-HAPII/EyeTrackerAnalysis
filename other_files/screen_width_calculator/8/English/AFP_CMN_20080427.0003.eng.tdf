@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	England Sees Panic-Buying of Petrol in Wake of Oil Refinery Strike and North Sea Pipeline Closure	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	GRANGEMOUTH, Scotland, 27th (AFP)	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	Workers at Grangemouth Refinery, one of Britain's biggest oil refineries, began a two-day strike today, forcing the closure of a major North Sea pipeline and triggering panic-buying of petrol by consumers.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	A British Petroleum operator said more than 1200 workers at the Grangemouth Refinery west of Edinburgh began the walkout at 6:00 a.m., while the neighbouring Forties pipeline was shut down at about the same time.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2000.000	2150.000	TEXT1	unknown	unkown	The pipeline brings more than 700,000 barrels of crude oil ashore every day and supplies around 40 percent of Britain's oil and gas, plus international markets.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2150.000	2400.000	TEXT1	unknown	unkown	The pipeline cannot function without electricity and steam from Grangemouth.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2600.000	2700.000	TEXT1	unknown	unkown	The union-led walkout arose from a row over pensions. Refinery staff and families held a demonstration today outside the refinery.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	2700.000	2900.000	TEXT1	unknown	unkown	Once the strike is over, it may take weeks to resume normal operations.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	3100.000	3200.000	TEXT1	unknown	unkown	Britain's main opposition party, the Conservative Party, has warned the strike will hit world oil prices.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	The ruling Labour Party urged all sectors of society to remain calm and said Britain had enough stocks to last through the strike.	0	0	0		statement
+AFP_CMN_20080427.0003.sgm	0	3600.000	3900.000	TEXT1	unknown	unkown	Despite several assurance by government officials that if everybody keeps calm there will be enough supply, many people are still rushing to the gas stations to stock up on gas, particularly in Scotland and the north of England.	0	0	0		statement

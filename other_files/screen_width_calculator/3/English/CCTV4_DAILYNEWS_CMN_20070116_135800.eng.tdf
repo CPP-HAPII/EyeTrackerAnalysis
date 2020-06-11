@@ -1,0 +1,212 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 117.771, 131.80500000000001, 200.857, 259.36700000000002, 274.197, 378.48599999999999, 476.608, 537.423, 626.31600000000003, 706.34500000000003, 718.21000000000004, 743.27099999999996, 767.23099999999999, 852.45699999999999, 919.60000000000002, 982.21699999999998, 9999999.0]
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	0.000	1.302	speaker#1	male	native	We beat a retreat.	0	0	0	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	2.216	7.640	speaker#1	male	native	I remember, I didn't know how many days, how many nights we ran, in the end we fled to the south, ((pw)),	0	0	2	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	8.194	8.533	speaker#1	male	native	((pw)).	0	0	4	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	8.533	11.643	speaker#1	male	native	Originally, we, we headed southward, fleeing south.	0	0	5	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	11.643	17.234	speaker#1	male	native	As a result, it turns out that, coming from the south, in our sight were armored cars, as well as tanks were arriving in a dense cloud of smoke.	0	0	6	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	17.747	19.647	speaker#1	male	native	Subsequently, teacher Gu fled hurriedly.	0	0	8	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	20.194	27.861	speaker#1	male	native	We just ran up the hilltop on the left; in the end we were thinking about heading toward the summit, and just as we reached the top, as we climbed over the hill,	0	0	10	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	28.410	29.401	speaker#1	male	native	the other side of the hills, ah,	0	0	12	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	31.856	32.904	speaker#1	male	native	a sea of flames was there.	0	0	14	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	33.682	36.852	speaker#1	male	native	The villages, ah, had all been burned by the Japanese.	0	0	16	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	38.173	40.475	speaker#1	male	native	So, we saw that we had no way out, and came right back.	0	0	18	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	43.521	47.256	speaker#2	male	native	It was then that Cao Mengjun realized the direction of the breakout was wrong.	0	1	20	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	47.772	51.422	speaker#2	male	native	After asking someone and clarifying the surrounding situation, he decided to change the direction of the breakout,	0	1	22	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	51.956	54.910	speaker#2	male	native	toward the west, making our breakout toward the Shangqiu region, Henan.	0	1	24	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	55.919	57.890	speaker#2	male	native	But, Cao Mengjun hadn't expected that,	0	1	26	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	58.437	63.211	speaker#2	male	native	the direction of their breakout was the exact direction of the incoming attack of the main Japanese forces.	0	1	28	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	64.267	65.908	speaker#2	male	native	After the Japanese forces occupied Xuzhou,	0	1	30	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	66.419	71.424	speaker#2	male	native	they discovered 600,000 Chinese troops breaking out through the siege, beating a retreat to the Henan hinterland,	0	1	32	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	71.424	74.791	speaker#2	male	native	so they continued to pursue and attack in the direction of Kaifeng and Zhengzhou.	0	1	33	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	77.655	80.572	speaker#2	male	native	When Cao Menjun realized Japanese forces were coming up from behind,	0	1	35	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	81.138	87.703	speaker#2	male	native	they hastily disguised themselves as civilians and led the children to intermingle with the refugees fleeing to the Zhumadian region.	0	1	37	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	93.147	97.335	speaker#2	male	native	Not long after setting up the Wartime Childcare Committee, the battle of Xuzhou broke out in full scale.	0	1	39	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	97.335	100.600	speaker#2	male	native	Thousands upon thousands of children from Xuzhou were swallowed up by the flames of war.	0	1	40	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	101.220	106.533	speaker#2	male	native	The Childcare Committee immediately sent people to rescue them, but the children that were rescued were plunged into the Japanese army's heavy siege.	0	1	42	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	107.089	112.249	speaker#2	male	native	The experience of breaking out for eight days and nights, even to this day, has still made the children that were then rescued agitated.	0	1	44	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	113.752	117.771	speaker#2	male	native	Please watch Discovery's next episode of the large-scale documentary, Refugee Children.	0	1	46	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	131.805	133.649	Sun_jinghan	female	native	Hello everyone, welcome to this time of the news.	2	3	48	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	134.215	136.585	Sun_jinghan	female	native	The latest data released by the People's Bank of China shows that	2	3	50	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	136.585	141.070	Sun_jinghan	female	native	in 2006, China's foreign exchange reserves balance has broken through the one trillion U.S. dollars mark,	2	3	51	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	141.070	143.835	Sun_jinghan	female	native	reaching 1.0663 trillion U.S. dollars.	2	3	52	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	143.835	149.089	Sun_jinghan	female	native	An increase of more than 30% over the same time last year, thereby making China the country with the largest foreign exchange reserves in the world.	2	3	53	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	150.676	155.833	speaker#3	male	native	The latest data released by the central bank show that last year, China's foreign exchange reserves reached 1.0663 trillion U.S. dollars,	2	4	55	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	155.833	159.029	speaker#3	male	native	and foreign exchange reserves for the whole year increased by 247.3 billion U.S. dollars.	2	4	56	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	159.029	161.343	speaker#3	male	native	Monthly statements issued at the same time by the central bank show that	2	4	57	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	161.343	165.013	speaker#3	male	native	at the end of October last year, China's foreign reserves broke through one trillion U.S. dollars,	2	4	58	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	165.013	167.685	speaker#3	male	native	to reach 1.009626 trillion U.S. dollars.	2	4	59	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	167.685	169.504	speaker#3	male	native	Foreign exchange reserves charts from previous years show that,	2	4	60	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	169.504	173.566	speaker#3	male	native	before 1979, China's foreign exchange reserves were never more than one billion U.S. dollars,	2	4	61	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	173.566	175.560	speaker#3	male	native	and were even negative during several years.	2	4	62	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	175.560	179.482	speaker#3	male	native	However, with the high-speed growth of the Chinese economy, foreign exchange reserves started to increase rapidly,	2	4	63	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	179.482	183.764	speaker#3	male	native	especially in the past six years when the foreign exchange reserves have been in a state of accelerated expansion,	2	4	64	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	183.764	187.623	speaker#3	male	native	China's foreign exchange reserves have grown from zero to trillions of dollars in just 26 years.	2	4	65	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	188.177	192.177	speaker#3	male	native	People in the industry believe that expanded trade surpluses, a substantial increase in direct foreign investment,	2	4	67	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	192.177	195.755	speaker#3	male	native	and appreciation of the Renminbi are expected to lead to hot money flowing into China.	2	4	68	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	195.755	198.810	speaker#3	male	native	This is the main reason behind the sizeable growth of China's foreign exchange reserves in recent years.	2	4	69	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	200.857	205.825	Sun_jinghan	female	native	On the 16th, the People's Bank of China and the Hong Kong Economic Development and Management Bureau signed a supplementary memorandum on cooperation.	3	5	71	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	205.825	211.063	Sun_jinghan	female	native	This means that the matter of Mainland financial institutions issuing RMB financial bonds in Hong Kong can soon be put into effect.	3	5	72	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	212.761	217.741	speaker#3	male	native	Signing the memorandum on the 16th was central bank governor Zhou Xiaochuan and Hong Kong Monetary Authority Chief Executive Joseph Yam.	3	6	74	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	217.741	223.116	speaker#3	male	native	Seven days ago, the State Council agreed to provide arrangements to Hong Kong banks handling Renminbi transactions, including consolidation and clearing,	3	6	75	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	223.116	226.903	speaker#3	male	native	and further expansion of Mainland financial institutions issuing RMB financial bonds in Hong Kong.	3	6	76	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	226.903	230.286	speaker#3	male	native	The memorandum signed on the 16th was mainly to supplement this newly-added operation.	3	6	77	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	230.286	234.359	speaker#3	male	native	People in the industry believe that launching of this service will not only help in the orderly inverse flow of Renminbi in Hong Kong,	3	6	78	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	234.359	237.472	speaker#3	male	native	but more importantly will strengthen Hong Kong's position as an international financial center.	3	6	79	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	238.511	242.839	speaker#4	male	native	Of all the cities and all the countries in the world, there is not one city capable of	3	7	81	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	243.407	246.576	speaker#4	male	native	functioning like simultaneously clearing US dollars, Euros, Hong Kong dollars and Renminbi.	3	7	83	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	247.104	252.276	speaker#4	male	native	Hong Kong is the first city able to carry out, simultaneously carry out instant clearing in four types of currencies.	3	7	85	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	252.849	257.892	speaker#4	male	native	In this way, er, its financial center infrastructure is improved all the more.	3	7	87	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	259.367	260.898	Sun_jinghan	female	native	Let's take a look at a news item from the Xinhua News Agency.	4	8	89	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	260.898	267.562	Sun_jinghan	female	native	The first echelon of officers in China's second contingent of peacekeeping forces to go to Sudan, er, left Henan Xinzheng International Airport for their tour of duty on the 16th,	4	8	90	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	267.562	273.508	Sun_jinghan	female	native	replacing the first contingent of peacekeeping forces for Sudan. The other peacekeeping personnel will complete their tour of duty this month.	4	8	91	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	274.197	278.932	Sun_jinghan	female	native	Weather news. Affected by severely cold weather from the south, starting on the early morning of the 16th,	5	9	93	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	278.932	284.646	Sun_jinghan	female	native	heavy snow that has rarely been seen in the last 10 years fell in China's Hubei, Hunan, Anhui, Guizhou, Chongqing and other areas.	5	9	94	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	284.646	288.271	Sun_jinghan	female	native	Traffic and use of electricity by citizens was strained in Wuhan and other cities.	5	9	95	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	288.271	290.896	Sun_jinghan	female	native	Heavy snow has also caused some trains to be delayed at Wuchang station.	5	9	96	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	292.846	297.106	speaker#5	female	native	According to local people, the present heavy snowfall in Wuhan has rarely been seen in the last 10 years.	5	10	98	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	297.106	303.650	speaker#5	female	native	Snow cover in the Wuhan Jiangxia district is more than 10 centimeters, and in some city districts snow cover is even up to 13 centimeters, which falls into the category of a snowstorm.	5	10	99	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	303.650	308.738	speaker#5	female	native	Outdoor temperatures dropped to around 0 degrees, and the 16th became Wuhan's coldest day since the beginning of winter.	5	10	100	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	309.275	312.548	speaker#5	female	native	The drop in temperature also caused the load on Hubei's power supply to climb continually.	5	10	102	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	312.548	315.836	speaker#5	female	native	At present, electricity rationing has already begun in the western region of Hubei.	5	10	103	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	315.836	319.391	speaker#5	female	native	Heavy snow also caused some trains on the Beijing-Guangzhou line to be delayed on the Wuhan section,	5	10	104	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	319.391	324.065	speaker#5	female	native	but thanks to timely relief, no passengers were held up at the Wuchang and Hankou stations.	5	10	105	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	324.565	329.549	speaker#5	female	native	The Department of Road and Passenger Transport also promptly put its rainy and snowy weather contingency plans into motion to ensure smooth journeys for travelers.	5	10	107	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	330.207	334.340	speaker#6	female	native	Er, if delayed departure occurs, we will first broadcast it, that is, inform passengers.	5	11	109	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	334.340	336.885	speaker#6	female	native	Then, that, that is to allow passengers, passengers to be psychologically prepared.	5	11	110	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	336.885	342.035	speaker#6	female	native	And if the, uh, bus actually can't make it, we will also handle, uh, fee transfer procedures.	5	11	111	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	342.035	345.848	speaker#5	female	native	In parts of Wuxi, Chongqing snow cover is more than ten centimeters deep,	5	12	112	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	345.848	350.179	speaker#5	female	native	and Tongling, Wuhu, Anqing and some other places in Anhui, snow cover was also over five centimeters.	5	12	113	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	350.179	352.768	speaker#5	female	native	The city of Tongling issued a yellow snow alert,	5	12	114	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	352.768	358.596	speaker#5	female	native	and on the Yangtze River Bridge in Tongling traffic police took to the road to direct passing vehicles and dispatched guide vehicles to guide traffic over the bridge.	5	12	115	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	359.173	365.777	speaker#5	female	native	In Guiyang, Kaiyang, Weining and some other places in Guizhou, large areas of freezing rain in the early morning of the 16th inconvenienced people traveling.	5	12	117	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	365.777	370.777	speaker#5	female	native	In the morning, the local highway and traffic management departments closed down a number of expressways too difficult to transit,	5	12	118	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	370.777	373.750	speaker#5	female	native	and turned back or diverted held-up vehicles.	5	12	119	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	373.750	376.883	speaker#5	female	native	Not until the afternoon did the closed sections finally begin to open to traffic.	5	12	120	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	378.486	384.528	Sun_jinghan	female	native	BOC chairman Liu Qi regards security for the 2008 Olympics as a considerably quite difficult item of work.	6	13	122	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	384.528	388.779	Sun_jinghan	female	native	In August of this year, 26 Olympic trial competitions will be held, converged on Beijing.	6	13	123	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	388.779	391.562	Sun_jinghan	female	native	Liu Qi considers this a training session for Olympic security.	6	13	124	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	393.829	398.688	speaker#3	male	native	While attending the Beijing Olympic Security Coordination Group work meeting on the afternoon of the 16th, BOC chairman Liu Qi	6	14	126	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	398.688	400.358	speaker#3	male	native	spoke candidly of the tremendous pressure of security work.	6	14	127	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	400.858	406.373	speaker#3	male	native	Liu Qi disclosed related figures; during the course of the Olympic Games, dozens of heads of state, and athletes from more than 200 countries and regions,	6	14	129	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	406.373	409.680	speaker#3	male	native	more than 30,000 journalists, and tens of thousands of tourists will assemble in Beijing.	6	14	130	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	409.680	415.369	speaker#3	male	native	And Beijing itself also has a population of 17 million, so guaranteeing that the Olympic Games proceed safely has become a top priority.	6	14	131	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	415.995	423.097	speaker#3	male	native	Based on security requirements, in 2008 all the competition venues will, according to degree of attention paid to the competition, fierceness of opposition and the number of spectators,	6	14	133	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	423.097	425.519	speaker#3	male	native	be divided into 4 levels: A, B, C, D.	6	14	134	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	425.519	428.518	speaker#3	male	native	Relatively intensive matches, like soccer, are Level A;	6	14	135	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	428.518	431.178	speaker#3	male	native	swimming and other high-profile competitions are Level B.	6	14	136	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	431.178	436.208	speaker#3	male	native	Police will decide who takes responsibility for security checks, volunteers and security guards based on the level of the venue.	6	14	137	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	436.208	440.939	speaker#3	male	native	If it is a D-level venue, security will be accomplished mainly by security guards and volunteers.	6	14	138	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	441.628	443.320	Liu_qi	male	native	At present we have it all on paper,	6	15	140	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	444.289	451.649	Liu_qi	male	native	but we can only see if our people, our skills, and our system are good or not when trial competitions begin this year.	6	15	142	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	452.916	454.712	Liu_qi	male	native	Improving our confidence and competence.	6	15	144	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	454.712	457.538	speaker#3	male	native	Assuming chief security duties are the Beijing Police;	6	16	145	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	457.538	462.522	speaker#3	male	native	they said that this year they will improve venue security systems, strengthen anti-riot control and police force training.	6	16	146	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	463.096	466.543	speaker#3	male	native	Chinese Public Security Minister Zhou Yongkang has made strict demands.	6	16	148	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	467.430	469.682	Zhou_yongkang	male	native	Everybody needs to devote themselves body and soul,	6	17	150	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	472.497	474.449	Zhou_yongkang	male	native	and shoulder this heavy responsibility.	6	17	152	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	476.608	479.777	Sun_jinghan	female	native	The court will have started its fifth session on the case of state affairs confidential expenses this Friday.	7	18	154	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	479.777	483.279	Sun_jinghan	female	native	The Taipei District Court has already issued a summons as requested by the Taiwan police,	7	18	155	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	483.279	488.216	Sun_jinghan	female	native	summoning Secretary-General of Chen Shui-bian's Office, Mark Chen, and other staff, five people in total, to appear in court.	7	18	156	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	488.216	491.404	Sun_jinghan	female	native	On the afternoon of the 16th, inside sources at Chen Shui-bian's office said that	7	18	157	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	491.404	495.551	Sun_jinghan	female	native	the five, including Mark Chen, will all appear in court this Friday.	7	18	158	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	495.551	500.523	Sun_jinghan	female	native	It also marks the first time on record that the incumbent secretary-general at Chen Shui-bian's is to testify in court.	7	18	159	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	502.617	506.969	speaker#7	female	native	Currently, Taiwanese prosecutors have summoned in all, Mark Chen and four other staff from Chen Shui-bian's office.	7	19	161	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	506.969	513.055	speaker#7	female	native	The purpose of the summons is to find out whether these people ever had contact with the so-called confidential diplomatic documents or events,	7	19	162	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	513.055	516.526	speaker#7	female	native	and at the same time invite them to explain the processes relating to confidential documents in Cheng Shui-bian's office.	7	19	163	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	517.196	522.628	speaker#7	female	native	Although on the morning of the 16th an official from Chen Shui-bian's office expressed that whether or not Mark Chen would appear in court was still in the process of consideration,	7	19	165	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	522.628	526.285	speaker#7	female	native	on the afternoon of the 16th, insiders at Chen Shui-bian's office said that	7	19	166	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	526.285	530.764	speaker#7	female	native	those summoned to testify will all appear in court at the appointed time, which of course also includes Mark Chen.	7	19	167	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	530.764	535.319	speaker#7	female	native	This also marks the first time on record that the incumbent secretary-general of Chen Shui's office will appear in court to testify.	7	19	168	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	537.423	543.287	Sun_jinghan	female	native	Following the uproar caused by Ma Ying-jeou's special expenses, members of the KMT Integrity Committee launched an investigation into whether the use of special expenses was illegal.	8	20	170	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	543.287	548.227	Sun_jinghan	female	native	Earlier news said that the Integrity Committee, er, will announce its preliminary investigation results before the 17th.	8	20	171	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	548.227	554.934	Sun_jinghan	female	native	However, according to Taiwanese media reports on the 15th, to avoid influencing the judicial inquiry, the Integrity Committee has decided to hold off publicizing the results.	8	20	172	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	556.581	559.065	speaker#5	female	native	KMT Secretary-General Wu Den-yih said on the 15th that	8	21	174	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	559.065	565.459	speaker#5	female	native	members of the KMT Integrity Committee decided to postpone publishing results of the investigation into Ma Ying-jeou's special expenses, based chiefly on two considerations.	8	21	175	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	566.204	570.017	Wu_dunyi	male	native	On the one hand is that the party's internal Integrity Committee investigation	8	22	177	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	570.765	572.968	Wu_dunyi	male	native	is yet to be completely finalized.	8	22	179	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	573.562	580.363	Wu_dunyi	male	native	So, we still can't really say, er, it is a question of whether to pick today, or tomorrow, or whatever day to publicize.	8	22	181	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	580.932	583.857	Wu_dunyi	male	native	Besides, there's an idea that also considers, if	8	22	183	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	584.508	588.319	Wu_dunyi	male	native	if, compared to the prosecutor's indictment or non-indictment,	8	22	185	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	589.489	591.208	Wu_dunyi	male	native	it is released +earlier,	8	22	187	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	592.020	593.849	Wu_dunyi	male	native	then would it be considered to be	8	22	189	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	594.474	598.387	Wu_dunyi	male	native	deliberately to, to, to steer ah, or to influence	8	22	191	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	599.046	600.680	Wu_dunyi	male	native	uh, the prosecutors' handling.	8	22	193	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	601.501	603.264	speaker#5	female	native	To our understanding, in November of last year,	8	23	195	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	603.264	610.393	speaker#5	female	native	the then Taipei Mayor and Chairman of the Kuomintang, Ma Ying-jeou, was questioned on problems existing in the use of special mayoral expenses.	8	23	196	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	610.393	613.013	speaker#5	female	native	To this end, Taiwan's investigation agencies had already commenced investigations,	8	23	197	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	613.013	617.219	speaker#5	female	native	and the Kuomintang's internal Integrity Committee also set up a six-member project team to carry out investigations.	8	23	198	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	617.219	620.391	speaker#5	female	native	After a period of over one month, there has now been a preliminary conclusion,	8	23	199	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	620.391	624.599	speaker#5	female	native	however, the KMT hopes to take further action after investigative departments have reached a conclusion.	8	23	200	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	626.316	630.988	Sun_jinghan	female	native	Archaeologists at the Tang Dynasty Qianling Mausoleum in Shaanxi province have recently carried out trial excavations at the tomb of Wu Zetian.	9	24	202	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	630.988	634.982	Sun_jinghan	female	native	The site layout of the underground palace at Wu Zetian's tomb is gradually exposing its true features.	9	24	203	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	634.982	638.686	Sun_jinghan	female	native	Consequently, some people are speculating that before long, er, Qianling may be excavated.	9	24	204	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	639.214	642.848	Sun_jinghan	female	native	In connection, the concerned person in charge at the Shaanxi Provincial Qianling Mausoleum Museum clearly stated that,	9	24	206	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	642.848	648.741	Sun_jinghan	female	native	for the moment, the Qianling Mausoleum will not be excavated, the government deems preservation of Qianling a priority, and the policy of no excavation at the moment has not changed.	9	24	207	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	651.820	655.254	speaker#3	male	native	The Tang Dynasty Qianling Mausoleum, located 80 kilometers northwest of Xi'an, in Qian County,	9	25	209	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	655.254	659.699	speaker#3	male	native	is the combined mausoleums of Tang Gaozong, Li Zhi, and the great Zhou empress Wu Zetian.	9	25	210	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	659.699	662.468	speaker#3	male	native	It is the only combined mausoleum in China housing two emperors.	9	25	211	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	662.468	667.483	speaker#3	male	native	It is also the only imperial mausoleum from the Tang Dynasty that hasn't been raided, and is praised as the crown of Tang mausoleums.	9	25	212	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	668.264	671.233	speaker#3	male	native	With respect to speculations about the rare cultural relics buried at Qianling, they reach 500 tons,	9	25	214	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	671.233	677.256	speaker#3	male	native	and archeologists say that, at the time of Tang Gaozong's burial, the value of the burial objects was a third of the entire country's revenue.	9	25	215	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	677.765	683.950	speaker#3	male	native	More than 20 years later, Wu Zetian passed away and her son once again had one-third of the entire country's silver, gold, and jewels follow her into Qianling.	9	25	217	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	684.489	688.646	speaker#3	male	native	If, on top of common burial objects like gold and silver valuables, calligraphy, paintings, silk and damask,	9	25	219	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	688.646	694.618	speaker#3	male	native	adding Qianling's stone gates, sarcophagi and other artifacts, it is possible that the cultural relics of Qianling will weigh up to 500 tons.	9	25	220	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	695.165	701.824	speaker#3	male	native	At the same time, many experts also conjecture that the top national treasure, the preface to the Orchid Pavilion by the 'sage of calligraphy' Wang Xizhi, is also likely just to be buried at Qianling.	9	25	222	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	702.476	706.345	speaker#3	male	native	Archeologists say that, thus far, no traces that Qianling has been robbed have been found.	9	25	224	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	718.210	720.179	Sun_jinghan	female	native	Welcome back to continue watching the news, everyone.	11	27	226	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	720.179	725.357	Sun_jinghan	female	native	In Xinhua News Agency news, a train derailment accident occurred in the U.S. state of Kentucky on the 16th.	11	27	227	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	725.357	726.324	Sun_jinghan	female	native	More than ten,	11	27	228	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	726.878	730.690	Sun_jinghan	female	native	uh, tanker and train cars ran off the rails, causing a major fire,	11	27	230	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	730.690	732.722	Sun_jinghan	female	native	but at present there have been no reports of casualties.	11	27	231	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	732.722	735.581	Sun_jinghan	female	native	Affected by the accident, a nearby highway has been closed off,	11	27	232	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	735.581	739.241	Sun_jinghan	female	native	and some schools, residences and businesses were required to urgently evacuate.	11	27	233	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	739.241	741.554	Sun_jinghan	female	native	The cause of the accident is currently under investigation.	11	27	234	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	743.271	747.083	Sun_jinghan	female	native	At the regular press conference on the 16th, Chinese Foreign Ministry spokesman Liu Jianchao said that	12	28	236	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	747.083	753.560	Sun_jinghan	female	native	China welcomes the U.S. Assistant Secretary of State and head of the United States delegation to the six-party talks, Hill, to visit Beijing soon.	12	28	237	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	753.560	757.966	Sun_jinghan	female	native	Currently, the two sides are still discussing the specific dates and schedule of the visit.	12	28	238	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	758.532	765.126	Sun_jinghan	female	native	During Hill's visit, Chinese Vice Foreign Minister and head of the Chinese delegation to the six-party talks, Wu Dawei, is likely to meet with him.	12	28	240	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	767.231	771.296	Sun_jinghan	female	native	On the 16th, Iraqi police said that, near a university east of the capital of Baghdad,	13	29	242	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	771.296	774.288	Sun_jinghan	female	native	another car bomb explosion occurred in the afternoon.	13	29	243	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	774.288	778.147	Sun_jinghan	female	native	At the moment, it has resulted in at least 65 people dead and 132 injured.	13	29	244	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	779.048	783.221	Sun_jinghan	female	native	Well, in U.S. President Bush's new Iraq policy, announced on the 10th of this month,	13	29	246	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	783.221	786.588	Sun_jinghan	female	native	the dispatch of additional U.S. troops to Iraq was a main item.	13	29	247	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	787.098	790.083	Sun_jinghan	female	native	On the 15th, this plan for additional troops was formally put into action.	13	29	249	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	790.083	793.174	Sun_jinghan	female	native	The first unit of U.S. troops arrived in the Iraqi capital, Baghdad, on the same day.	13	29	250	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	793.174	800.330	Sun_jinghan	female	native	According to the Bush administration's plan to send additional troops, there will be a total of 21,500 American soldiers sent to Iraq in batches.	13	29	251	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	800.940	801.906	Sun_jinghan	female	native	On the very same day,	13	29	253	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	802.424	805.430	Sun_jinghan	female	native	the U.S. military commander in Iraq, Casey, told the media that	13	29	255	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	805.430	811.071	Sun_jinghan	female	native	sending more troops will not be able to ensure final victory; moreover, the impact of sending more troops will not be felt very soon.	13	29	256	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	813.082	821.110	Sun_jinghan	female	native	Just as the U.S. continues to garrison Iraq, uh, the Commissioner of the U.N. Human Rights Mission in Iraq, Magazzeni, told the media in Baghdad on the 16th that,	13	29	258	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	821.110	828.898	Sun_jinghan	female	native	according to statistics, there were a total of 34,452 Iraqi civilians killed last year, and more than 36,000 injured.	13	29	259	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	829.407	833.296	Sun_jinghan	female	native	This figure is much higher than the figures previously released by Iraqi officials.	13	29	261	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	833.296	837.328	Sun_jinghan	female	native	Magazzeni accused the Iraqi government of being incapable of ensuring security.	13	29	262	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	837.328	842.398	Sun_jinghan	female	native	He pointed out that some Iraqi police and servicemen have been involved in violent attacks.	13	29	263	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	842.398	845.931	Sun_jinghan	female	native	And, at the same time, uh, violence in Iraq is still intensifying.	13	29	264	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	845.931	851.500	Sun_jinghan	female	native	Just on the 16th, there was another bomb blast incident in Baghdad, killing four people and injuring ten.	13	29	265	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	852.457	854.326	Sun_jinghan	female	native	Let's turn our attention to Iran.	14	30	267	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	854.326	858.590	Sun_jinghan	female	native	Iran announced on the 15th that it is pressing on with the installation of at least 3,000 centrifuges.	14	30	268	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	858.590	861.949	Sun_jinghan	female	native	The news once again triggered the international community's concern regarding the Iran nuclear issue.	14	30	269	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	861.949	864.934	Sun_jinghan	female	native	On the 16th, Iranian President Ahmadinejad reiterated that	14	30	270	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	864.934	870.991	Sun_jinghan	female	native	Iran's nuclear activities are for peaceful purposes. At the same time, he questioned the true intentions of U.S. intervention in Middle East affairs.	14	30	271	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	872.048	887.036	Yierhamu	male	native		14	31	273	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	887.036	891.396	speaker#5	female	native	Ilham said that Iran's nuclear program has been monitored by the International Atomic Energy Agency all along,	14	32	274	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	891.396	894.790	speaker#5	female	native	and for the moment there is no plan to withdraw from the Nuclear Non-Proliferation Treaty.	14	32	275	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	894.790	900.290	speaker#5	female	native	However, if Western countries attempt to create obstacles to Iran's nuclear program, Iran's position will change.	14	32	276	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	900.873	906.048	speaker#5	female	native	Iranian officials have repeatedly indicated that they will eventually set up 60,000 centrifuges for the sake of their own nuclear program.	14	32	278	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	906.677	913.234	speaker#5	female	native	However, the Associated Press believes Iran's latest stand just confirms that the Iraqi nuclear program has encountered technological troubles during its course.	14	32	280	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	913.234	917.836	speaker#5	female	native	Because, according to the plan, these 3,000 centrifuges should have been installed at the end of last year.	14	32	281	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	919.600	925.313	Sun_jinghan	female	native	The Associated Press, quoting a report from Spain's El Pais, said that lately Cuban leader Castro's condition has increasingly worsened.	15	33	283	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	925.313	930.390	Sun_jinghan	female	native	However, Castro's eldest son pointed out that his father's condition has improved and he is gradually getting better.	15	33	284	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	931.877	934.127	speaker#5	female	native	On the 15th, a report in Spain's El Pais said that,	15	34	286	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	934.127	939.791	speaker#5	female	native	since being hospitalized last July, Fidel Castro has undergone three stomach surgeries.	15	34	287	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	939.791	944.009	speaker#5	female	native	A suture infection occurred, causing peritonitis and making his condition extremely serious.	15	34	288	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	944.560	947.998	speaker#5	female	native	The El Pais report said they obtained this news from a Madrid hospital.	15	34	290	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	947.998	952.842	speaker#5	female	native	At the end of last year, a doctor from this hospital went to Cuba to perform a diagnosis on Castro.	15	34	291	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	953.408	959.791	speaker#5	female	native	However, Castro's eldest son, Fidel Castro Diaz-Balart, said during a visit to Chile on the 13th,	15	34	293	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	959.791	965.767	speaker#5	female	native	that his father's physical condition was getting better and better, his mental state was also extremely good, that he was in a very optimistic mood, and he was currently recovering.	15	34	294	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	966.498	971.092	speaker#5	female	native	Castro has not appeared in public since undergoing surgery for gastrointestinal bleeding last year,	15	34	296	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	971.092	976.169	speaker#5	female	native	nor did he attend his 80th birthday celebration, and rumors about the severity of his illness have continually surfaced.	15	34	297	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	978.292	981.000	Sun_jinghan	female	native	That's it for the news this time, thank you for watching.	15	35	299	report	
+CCTV4_DAILYNEWS_CMN_20070116_135800	0	981.000	982.217	Sun_jinghan	female	native	I am Jing Han. Goodbye!	15	35	300	report	

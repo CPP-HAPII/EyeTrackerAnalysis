@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120399-9944670	0	100.0	200.0	speaker	unknown	unknown	碳纤维 20:47:23你的版本是不是9.51.04	0	0	0		
+cmn-NG-31-120399-9944670	0	700.0	800.0	speaker	unknown	unknown	碳纤维 20:48:32你的意思左右要对称？	0	0	0		
+cmn-NG-31-120399-9944670	0	1300.0	1400.0	speaker	unknown	unknown	不了情 20:51:47＝＝碳纤维 20:51:49本来是有差别的	0	0	0		
+cmn-NG-31-120399-9944670	0	1800.0	1900.0	speaker	unknown	unknown	碳纤维 20:55:49而且，受力看起来看明确、建模也更简单	0	0	0		
+cmn-NG-31-120399-9944670	0	2300.0	2400.0	speaker	unknown	unknown	碳纤维 22:25:38你的这个问题，我再查一下，看看在RM中的形心高度差别大不大	0	0	0		
+cmn-NG-31-120399-9944670	0	2600.0	2700.0	speaker	unknown	unknown	碳纤维 22:41:46也就是说，在RM中的形心是一条直线上的	0	0	0		
+cmn-NG-31-120399-9944670	0	2800.0	2900.0	speaker	unknown	unknown	不了情 22:42:34但我按Gp中的宽度变量值划分主梁各部分时	0	0	0		
+cmn-NG-31-120399-9944670	0	3300.0	3400.0	speaker	unknown	unknown	碳纤维 22:44:34计算中包括beta角有没有注意到？	0	0	0		
+cmn-NG-31-120399-9944670	0	3700.0	3800.0	speaker	unknown	unknown	碳纤维 22:45:21最后的主惯性轴是斜的<5.jpg>	0	0	0		

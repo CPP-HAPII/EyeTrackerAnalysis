@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10742466	0	0.0	100.0	speaker	unknown	unknown	雄鹿队解雇主教练小K	0	0	0		
+cmn-WL-8-89278-10742466	0	200.0	300.0	speaker	unknown	unknown	《密尔沃基哨兵报报道》，雄鹿队主帅小K教练今天被球队正式解雇。	0	0	0		
+cmn-WL-8-89278-10742466	0	600.0	700.0	speaker	unknown	unknown	雄鹿官网截屏：K帅下课！	0	0	0		
+cmn-WL-8-89278-10742466	0	700.0	800.0	speaker	unknown	unknown	“小K是个好人，他为雄鹿队尽心尽力，”哈蒙德说，“不过有时候尽管做出了努力但结果也不是和我们预期的一样。	0	0	0		
+cmn-WL-8-89278-10742466	0	1100.0	1200.0	speaker	unknown	unknown	本赛季结束时雄鹿有很多重要的球员因伤只能在场边观战，包括大前锋 易建联 ，后卫莫-威廉姆斯和查理- 贝尔 。	0	0	0		
+cmn-WL-8-89278-10742466	0	1200.0	1300.0	speaker	unknown	unknown	球员们今天来到训练馆收拾自己的行李为夏天的休息做准备，随后球队将召开会议，也许会向球员宣布小K教练被解雇的消息。	0	0	0		
+cmn-WL-8-89278-10742466	0	2200.0	2300.0	speaker	unknown	unknown	尽管新总经理哈蒙德上任伊始曾表示“小K教练未必会走人”，但只过了一周不到。	0	0	0		
+cmn-WL-8-89278-10742466	0	2900.0	3000.0	speaker	unknown	unknown	必定离队者：维拉纽瓦、西蒙斯、加祖里奇、沃斯库尔	0	0	0		
+cmn-WL-8-89278-10742466	0	3400.0	3500.0	speaker	unknown	unknown	因为你很难找到像这么一位攻击力十足，且 价格 低廉的球员。	0	0	0		
+cmn-WL-8-89278-10742466	0	3900.0	4000.0	speaker	unknown	unknown	因此他离队的可能性同时为：零。	0	0	0		
+cmn-WL-8-89278-10742466	0	4000.0	4100.0	speaker	unknown	unknown	前景未明者：里德、莫-威廉姆斯、鲁芬、艾维、梅森	0	0	0		
+cmn-WL-8-89278-10742466	0	4100.0	4200.0	speaker	unknown	unknown	小莫原本是哈蒙德钦定核心团的一员，但由于塞申斯火箭般地崛起，他是否能够留队成为了一个迷团。	0	0	0		
+cmn-WL-8-89278-10742466	0	4300.0	4400.0	speaker	unknown	unknown	因此在联盟各队普遍缺乏控卫的情况下，交易小莫并非难事。	0	0	0		
+cmn-WL-8-89278-10742466	0	4400.0	4500.0	speaker	unknown	unknown	当然是否真的送走小莫，要看哈蒙德对塞申斯抱有多大的信心。	0	0	0		
+cmn-WL-8-89278-10742466	0	4700.0	4800.0	speaker	unknown	unknown	但若不下定决心把里德送走，雄鹿的前景将依然黯淡，因此哈蒙德只能想方设法“忽悠”，以争取送走这位大佛。	0	0	0		
+cmn-WL-8-89278-10742466	0	5700.0	5800.0	speaker	unknown	unknown	(本文来源：网易体育专稿 作者：LEON)	0	0	0		

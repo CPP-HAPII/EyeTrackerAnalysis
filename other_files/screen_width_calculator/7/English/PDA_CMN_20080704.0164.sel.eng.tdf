@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080704.0164	0	2000.0	2100.0	speaker	unknown	unknown	But we made up our mind, bit the bullet, and persisted in pushing on.	0	0	0		

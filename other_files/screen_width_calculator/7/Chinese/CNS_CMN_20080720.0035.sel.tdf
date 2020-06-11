@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0035	0	0.0	100.0	speaker	unknown	unknown	全球经济萧条波及西班牙 危机蔓延华人各行各业	0	0	0		
+CNS_CMN_20080720.0035	0	400.0	500.0	speaker	unknown	unknown	经济危机严重波及华商	0	0	0		
+CNS_CMN_20080720.0035	0	1800.0	1900.0	speaker	unknown	unknown	危机蔓延华人各行各业	0	0	0		
+CNS_CMN_20080720.0035	0	1900.0	2000.0	speaker	unknown	unknown	经济危机开始之初，在旅西华人从事的主要行业如建筑装修，百货批发与零售，餐馆酒吧等行业中，似乎只有建筑装修业灾难深重，水深火热。	0	0	0		
+CNS_CMN_20080720.0035	0	2200.0	2300.0	speaker	unknown	unknown	经济危机给社会带来的连锁反应主要体现在食品、燃料、运费涨价和失业者增多等现象上。	0	0	0		
+CNS_CMN_20080720.0035	0	2600.0	2700.0	speaker	unknown	unknown	面对如此两难困境，许多中餐馆老板是一筹莫展。	0	0	0		
+CNS_CMN_20080720.0035	0	4000.0	4100.0	speaker	unknown	unknown	现在，这些人不是失业，就是工作不稳定，虽然还努力坚持自己的习惯，但买的量越来越少，还经常欠钱，押居留护照什么的。	0	0	0		
+CNS_CMN_20080720.0035	0	4100.0	4200.0	speaker	unknown	unknown	现在，由于欠钱太多，这位老板不愿赊了，而对方也不敢来买东西，看见他都绕道走。	0	0	0		

@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080418.0046.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	某炮兵团实行帮建问责制成效明显	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-18 06:18:31   来源：解放军报第2版	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报兰州4月15日电　王运启、特约通讯员王广利报道：昨天上午，兰州军区某炮兵团交班会刚一结束，16名机关干部便打起背包住到了挂钩帮建的所在连队。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	该团政委李卫国感慨道：“自从实行挂钩帮建责任制以来，‘甩手掌柜’式的蹲点干部少了，帮建责任心强了。”	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1200.000	1237.500	TEXT1	unknown	unkown	以往，这个团机关干部蹲点帮建有“走过场”现象，有的名为蹲点帮建，到营连转一转、看一看；	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1237.500	1275.000	TEXT1	unknown	unkown	有的不是沉下去帮助理思路、支实招，而是把心思用在写材料争彩头上。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	如此造成了机关蹲点帮建实际效果不明显。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	团党委分析认为，出现上述现象的根本原因在于，蹲点帮建责任不明确，帮和不帮一个样，帮好帮坏一个样。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	由此，蹲点帮建问责制应运而生。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	他们规定：机关干部下连帮建，必须明确任务目标，谁帮建谁负责，任务目标实现不了的，要追究责任。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1587.500	1600.000	TEXT1	unknown	unkown	兑现奖惩，将帮建效果与蹲点干部的晋职晋衔挂钩，单位评不上先进，对口帮建的机关干部不能评为先进。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	责任驱动效果显著。	0	0	0		statement
+PLA_CMN_20080418.0046.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	侦察股长张建军、干部股长宋少涛，去年各自承担了一个连队的帮建任务，年底这两个连队分别跨入先进行列，他们也被评为先进个人。	0	0	0		statement

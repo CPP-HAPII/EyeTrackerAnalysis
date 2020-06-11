@@ -1,0 +1,20 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'report', None]
+;;MM sectionBoundaries	[0.0, 254.72800000000001, 524.21299999999997, 528.09500000000003, 550.33000000000004, 557.54600000000005, 580.68700000000001, 606.94899999999996, 659.24800000000005, 672.54200000000003, 1384.982, 1432.922, 1899.6579999999999, 1905.5999999999999, 1944.8389999999999, 1998.067, 2270.7280000000001, 9999999.0]
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	330.583	337.026	Li_Xiao_Meng	female	native	这 {laugh} 这 {laugh} 那你让它走走我们看看吧,好不好,这你们俩自己做的是吗	1	9	16	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	345.789	353.633	Li_Xiao_Meng	female	native	{laugh} 有点失败,怎么失败了,嗯	1	13	24	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	353.633	371.526	Yu_Hong_Fei	male	native	还是有点, {laugh}	1	13	27	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	390.851	411.783	Li_Xiao_Meng	female	native	{laugh} ,你知道还有什么差距吗,嗯	1	15	30	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	485.641	498.839	Mao_Ming	male	native	现在是从卫星里面,我们要把它展开要 (()) ,对对,对对对,是	1	20	43	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	498.839	524.213	Li_Xiao_Meng	female	native	现在这是在干什么呢,很神奇哈,哦,哦还做揖是吗,谢谢你,嗯, {laugh}	1	20	44	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	528.095	545.345	Li_Xiao_Meng	female	native	呃举双手致意,这登月的时候不会真有这动作吧 {laugh} ,嗯,它能鼓掌吗	3	22	47	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	528.095	545.345	Mao_Ming	male	native	也想给大家挥挥手,给大家挥挥手,对对对,没有,不需要这个动作,这个是给大家致意一下,嗯,不能, {laugh}	3	22	48	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	812.006	831.431	Li_Xiao_Meng	female	native	{laugh} 嗯	9	40	88	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	847.094	854.429	Li_Xiao_Meng	female	native	别的优势没了, {laugh}	9	40	94	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	1096.875	1105.438	Li_Xiao_Meng	female	native	{laugh} 哦,可调的这是一个	9	45	129	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	1096.875	1105.438	Su_Bo	male	native	对,您说得非常对,非常专业, {laugh} 我们呃根据整车的需要来去选择它的宽度和它的厚度啊	9	45	130	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	1134.545	1147.533	Su_Bo	male	native	是,嗯 {cough}	9	47	134	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	1450.162	1460.877	Mao_Ming	male	native	这就你说的这就是第三个问题了,那怎么呃通过障碍,通过比较高的这那样的这样障碍 (()) ,这个我们可以根据设计的要求,可以随便	11	52	165	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	1660.093	1684.357	Mao_Ming	male	native	(()) 呃,当然我们有知识产权保护,呃我们也是非常渴望我们把我们设计思想拿出来跟航天部门,还跟一些高校我们来分享,呃集全国人民的智慧,来把我们的月球的二期工程来做好	11	54	193	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	1877.724	1887.478	Ma_Fu_Bo	male	native	复杂, {cough} ,搞	11	63	216	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080328_202701	0	2248.026	2254.432	speaker#9	male	native	要充分发挥残疾人组织作用,加强残疾人专职,专业和志愿者队伍建设	15	85	261	report	statement

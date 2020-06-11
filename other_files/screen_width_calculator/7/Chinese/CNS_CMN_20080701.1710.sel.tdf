@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1710	0	0.0	100.0	speaker	unknown	unknown	社保基金去年炒股赚千亿 业内誉为最成功投资者	0	0	0		
+CNS_CMN_20080701.1710	0	400.0	500.0	speaker	unknown	unknown	因此，社保基金被业内人士誉为去年“最成功”投资者。	0	0	0		
+CNS_CMN_20080701.1710	0	1900.0	2000.0	speaker	unknown	unknown	据上市公司一季报显示，今年一季度，社保基金仓位变化不大，体现了长线资金稳定的投资风格。	0	0	0		

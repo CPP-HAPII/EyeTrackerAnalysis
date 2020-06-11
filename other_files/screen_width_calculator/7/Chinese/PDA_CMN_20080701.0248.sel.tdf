@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080701.0248	0	0.0	100.0	speaker	unknown	unknown	集体问责一票否决 承德节能减排与政绩考核挂钩	0	0	0		
+PDA_CMN_20080701.0248	0	600.0	700.0	speaker	unknown	unknown	实施节能减排“22221”工程，除全省节能减排“双三十”示范工程包括的重点县和重点企业之外，又选择宽城和双滦2个县区、钢铁和食品加工2个行业、围场镇等20个乡镇、国电滦河发电厂等20家企业及天宝矿业公司等100家矿山，作为该市节能减排和环境整治的重点，同时出台了实施意见，计划到2010年底，化学需氧量排放总量控制在3.28万吨以内，二氧化硫排放总量控制在9.43万吨以内。	0	0	0		
+PDA_CMN_20080701.0248	0	800.0	900.0	speaker	unknown	unknown	该市制订了一系列激励政策和监督考核责任制，对"22221"工程涉及的县区和乡镇的新、扩、改与节能减排有关的项目按市重点项目对待，在项目审批、征用土地等方面予以支持，各级污染治理和资源节约专项资金向工程重点倾斜。	0	0	0		

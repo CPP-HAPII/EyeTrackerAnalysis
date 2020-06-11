@@ -1,0 +1,45 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'filler', u'report', u'filler', u'report', u'report', None]
+;;MM sectionBoundaries	[0.0, 107.59, 230.66399999999999, 589.35299999999995, 661.49000000000001, 1568.5309999999999, 2140.6469999999999, 2434.3879999999999, 8182.7650000000003, 8621.4969999999994, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	434.957	442.007	speaker#1	male	native	好,非常感谢泉灵给我们带来了报导,相信随着今天下午这个直播的这种进程呢泉灵还随时会把这方面内容呢给我们带来	2	10	29	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	908.187	931.355	Zhang_Guo_Qing	male	native	这个 {cough} 应该讲是这样说的,这个零三年的时候呢这个提出机构改革的时候啊,我们国家呢其实我们可以回过头来看,我们已经经过了一些风风雨雨,对吧,包括这个金融的这个呃风暴啊等等这些风风雨雨,那么与此同时我们国内的这个发展也有了这个一个很大的发展,有了空前的积累,人们对很多问题的理解又有了进一步的深化	4	19	73	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	1003.670	1027.287	Zhang_Guo_Qing	male	native	{cough} 我个人看法呢可以从两个--两个方面来看,一个从国内来讲,我刚才说过了,我们经过三十年的发展,我们其实应该有了历史性的进步,对很多问题的理解我们已经达到了一个相当的程度,我们现在有-有一定的自或有-有相当的自信,我们可以来建立具有中国特色的许多东西,那这个东西我们可能变得越来越自信,越来越有把握	4	19	83	filler	
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	1761.105	1763.366	speaker#1	male	native	好,感谢泉灵给我们带来的报导	5	31	148	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	1794.368	1819.904	Zhang_Guo_Qing	male	native	几个 {cough} ,这是十七大报告里头这个呃呃原则规定,那这个关于经济基础跟上层建筑这种匹配关系呀,这个在呃十六大和十七大的这个报告里都已经呃重复过很多次了,也-也就是讲,这个在这期的呃关于深化行政管理体制改革的意见里面还有一句话,我不知道呃您是不是有留意过没有	5	32	150	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	2096.000	2111.144	Zhang_Guo_Qing	male	native	我们就突然发现,在这个十七大的报告里面,这个我们突然发现这种在十七大报告里面,其实有一个经典的一个--一个表述,就是发展依靠人民,这那 (()) 那句话,第最后的一句话呢也全体人民享受改革的成果呀	5	38	167	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	2281.960	2299.738	speaker#13	male	native	我这期望的话呢,在政府在各级这个 (()) 具有这-这执行公立的方面啊,应该是尽快地实行电子化政府和网上办公啊,这是一个节能减排,你去这个办事的时间少,短啦,这个车自然用得少了,就减排少	6	45	177	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	2675.919	2678.237	speaker#1	male	native	好,感谢泉灵给我们带来的报导	7	55	202	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	2990.851	3018.085	speaker#1	male	native	农业部,林业局,他要花 (()) 门难进	7	66	223	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	3075.112	3086.675	Zhang_Guo_Qing	male	native	是, {cough} 国际上的话有些时候会用一个指---一个指数,这是一个软指数,就是国民的这种幸福成幸福指数,幸福指数可以用来衡量刚才我们讨论这个问题,你是一个心里感受	7	66	232	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	3586.194	3604.157	Zhang_Guo_Qing	male	native	这是--这是--这是这些年来西方这个发达国家的这个呃-呃一条重要的经验,太专业了反倒分不清了,因为你越分他几乎是一个无限可分的一个--一个一-一-一-一个状态,那么因此采取一个相对的一个宽放的这样一个结构方式,可能更有利于分工的明确	7	73	274	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	3636.939	3650.526	Zhang_Guo_Qing	male	native	这个我想呢在这个十七大报告里头有一个非常明确的一个--一个--一个--一个--一个逻辑结构,前面 (()) 了你说的这个问题,其实在十七大报告里已经有一个预测的一个--一个--一个应对方法	7	73	278	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	3675.993	3698.023	Zhang_Guo_Qing	male	native	这一次十七大报告用非常明确的语言对这一点做了一个解说,是,对我们过去说所谓五大--五大监督系统嘛,五大监督系统 (()) 一个合力	7	73	282	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	3832.037	3849.222	Zhang_Guo_Qing	male	native	这个 {cough} 执行顺畅,执行的这个低效,甚至在某些条件下是无效,那么甚至在某些特定的情况下可以出现反效,这是在我们国家最近几年呃应该讲是一种大家不愿意看见的一种行政现象,的确是普遍存在的	7	73	298	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4050.684	4086.249	Zhang_Guo_Qing	male	native	我给你举个例子吧,像这个 {cough} 这个中国的这个矿难,这个全中国人民关注,全世界也都在关注,这个问题其实是久拖不决,那除了他有非常复杂的原因,但是有一个问题,其实在过去的这个政策讨论的时候或者是在媒体的这个议论当中,我其实也发表过那类似的意见	7	73	318	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4121.887	4143.019	Zhang_Guo_Qing	male	native	所以在新的时期里,我们做这样一个前所未有的这样一个伟业,我们做这样一个规模庞大的这个内涵深刻的这一次行政管理体制改革,那他一定是需要方方面面都应该形成一个共识, {cough} 那么在共识的基础之下,共同来处理,那么这个问题我想才能够最后达到我们所期望的那个目标	7	73	324	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4167.714	4190.852	speaker#1	male	native	但是他不去呢又很难,因为的确有很多的这种矿难,因为国家局没有去,这个盖子就揭不开,很多的事情就被显显地就给覆盖了,你比如说我曾经问过当时的这个安监总局的一个副局长,山西的 (()) 矿难,我问他你是怎么知道这个消息的,他说我是在网上知道的	7	74	327	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4409.823	4413.900	speaker#1	male	native	好,非常感谢泉玲给我们带来的这个内容方面的介绍,谢谢	7	77	343	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4454.639	4475.409	Zhang_Guo_Qing	male	native	这个 {cough} 宏观部门这个应该这么来理解,是以我个人的看法,这个国家发改委呢是一个中国当局的说法叫司法宏观调控部门之一,那地位有多重要,他是不言而喻的,但是在这个若干年的这个过去若干年的实践当中,我们可以注确实可以注意到一个现象	7	78	347	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4501.449	4518.812	Zhang_Guo_Qing	male	native	嗯, {cough} 这是讲了发改委,那另外几个部门的这个协调问题啊,啊这个财政部,央行等等,他们这几个,对,呃职能变化,所以机构的名称没有变,但是他的职能发生变化,就是其中有一条我想的话可能就是他们部门之间协调问题	7	80	352	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4561.903	4601.809	Zhang_Guo_Qing	male	native	那我个人的推测的话,在这种强调协调机制的背后,应该在上升一-一个层面,我个人的推测,那么在此之---在此之上,应该会有一个国务院的这个主要领导的分工可能也会有一种适当的一种调整来应对刚才我们讨论的这种变化,比如说你这个宏观协调,很大的可能性需要有一个主管的总理呃副总理来统管这件事情,否则他形不成这种 {cough} 强有力的这种协调机制,是的	7	80	358	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4670.951	4678.490	Zhang_Guo_Qing	male	native	{cough} 这个中国的这个能源供应问题啊,用我个人的理解,应该是一个极其复杂的问题	7	82	365	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	4724.543	4742.142	speaker#1	male	native	对,他叫高层次意思协调机构,意思呢就来讨论重大事项,协调呢能把几个相关部门能起码在我这是统了,同时又是高层次的,让他具有一定的这种权-权-权威的	7	83	370	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	5316.415	5337.715	Zhang_Guo_Qing	male	native	{cough} 是	7	96	420	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	5564.584	5568.411	speaker#1	male	native	好,非常感谢泉灵给我们带来的现场的报道,谢谢	7	101	439	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	5594.680	5628.696	Zhang_Guo_Qing	male	native	{cough} ,环境这个保护问题呀,最近的呃几年当中我们都知道是一个重大的政策议题,而这个重大的政府议题的这个提出来以后,那么我们屡屡提出了许多重要的政府目标,但是这个这些政策目标的这个实现的过程,这个包括政府,也包括中国的各阶层的百姓,大概都不大能够满意,离我们所想象的这样一个啊,或者我们所要求的这样一个呃程度应该讲距离还是不小的	7	103	443	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6168.428	6193.103	speaker#1	male	native	嗯, (())	7	108	484	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6219.478	6251.299	Zhang_Guo_Qing	male	native	这个 {cough} 这个以中央的呃这执政里,执政的这样一个目标来讲,我个人的看法他前面我已经说到这样一个意思,就是现在要建立五行政府,其实我们要干什么,我们就是要建立五行政府	7	108	489	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6330.311	6362.012	speaker#1	male	native	细化了,明确,就像这个住房与城乡建设部 {laugh} ,刚才您非常明确,嗯,嗯,没错,没错	7	108	498	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6362.012	6379.281	Zhang_Guo_Qing	male	native	是 {cough}	7	108	501	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6420.252	6439.408	Zhang_Guo_Qing	male	native	这个 {cough} 他说的是两个部门,我也觉得是应该讲就是两个两-两类的部门,一类动了,一类没动,没动的他也存在一个进一步转变职能,在这个党的文件里头十七大报告里面明确提出来政府职能转变,还不到位,那这个政府的这个干预过多,这次明确提出来的问题	7	110	505	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6502.285	6508.326	speaker#1	male	native	最后一句话,我刚才就说,更加有效地提供公共产品, {laugh} 您刚才不是用了这个词吗	7	112	510	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6567.228	6589.508	Zhang_Guo_Qing	male	native	{cough} 这段这个表述应该讲是对啊过去几年政府在不断地总结经验,这个社会也在这个不断地反思这些问题,结合到一起应该讲是一个很好地汇聚明智,汇聚这个哦呃政府的呃各级各地政府的公务员的这个意见的这样一个经典的一个--一个--一个--一个重要的一段表述吧	7	113	517	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6589.508	6613.843	Zhang_Guo_Qing	male	native	那这一段表述里头的话呢是把可能出现的问题,事先已经做了一个啊原则性的一个叙述 {cough} 国土资源,是	7	113	519	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6769.366	6798.919	speaker#22	male	native	嗯,呃,我来自湖北,国务院的机构改革方案是改革开放的决定,也是政治体制改革的重要内容,更重要的是,政府实行了自身的转-转型,呃作为我作为代表来讲的话,对国务院机构改革的方案,是特别期盼和希望的, (())	7	116	534	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	6954.252	6956.138	speaker#1	male	native	好,感谢泉灵给我们带来的报导	7	121	548	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	7261.811	7277.763	speaker#1	male	native	张教授,这球踢您这来了 {laugh}	7	125	573	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	7513.530	7529.476	speaker#1	male	native	估计他还是争取能快的时候他还要快,因为接下来工作还是要 (()) ,对,无限期,没错	7	127	595	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	7946.686	7963.716	Zhang_Quan_ling	female	native	那么管办,管办分离,对吧, (()) 那么只有这样呢才能提高我们这个政府部门的效率,这否则的话很多事情啊你如果管得太细,管得太多,那么自己很辛苦,很累,而且呢有些事情啊很难办好	7	133	633	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	7978.291	8008.271	speaker#27	male	native	{laugh} 呃具体什么时间,我说了不算,但是我期待呃两个这个问题要进一步深化,一个是形成真正的大能源机构,这对于我们国家形成这个强有力的能源发展战略,维持国民经济的持续呃可持续发展是非常至关重要的	7	134	638	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	8060.732	8063.906	speaker#1	male	native	好,感谢泉灵给我们带来的报导	7	135	643	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080311_122701	0	8363.042	8387.243	speaker#30	male	native	但是呢这个我们也注意到这个政府体制改革实际上我们也是 (()) 啦,但改革总的方向来看是朝着减少部门这个精简人员,提高效率这方向在前进,但是我们的这个管理成本,管理成绩,呃管理的细节呃一来是感觉到还是比较复杂还是比较多的,也比较高的,社会对此议论也比较大	8	142	664	report	statement

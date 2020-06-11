@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080408.0196	0	200.0	300.0	speaker	unknown	unknown	Xinhua News Agency, April 8. To ensure the market supply of staple farm products and stabilize commodity prices, Jiangxi has begun to improve its reserve system of grains, oil and meat. In principle, the scale of grain reserves of the whole province should not be less than 1.25 billion kilograms.	0	0	0		

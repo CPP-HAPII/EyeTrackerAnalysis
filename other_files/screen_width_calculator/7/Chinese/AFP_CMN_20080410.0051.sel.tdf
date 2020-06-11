@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080410.0051	0	0.0	1000.0	speaker	unknown	unknown	艾尔顿强帮希拉蕊站台募款 250万美元进帐	0	0	0		
+AFP_CMN_20080410.0051	0	0.0	1000.0	speaker	unknown	unknown	柯林顿站台募款,一个晚上共募得二百五十万美元,对声势下跌、募款落后的希拉蕊,不无小补。	0	0	0		

@@ -1,0 +1,55 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 29.638000000000002, 74.984999999999999, 80.069000000000003, 101.718, 112.64, 261.97000000000003, 362.786, 455.18799999999999, 515.49699999999996, 598.26099999999997, 656.13199999999995, 695.38099999999997, 777.54700000000003, 886.505, 951.745, 1032.3389999999999, 1195.0999999999999, 1304.9349999999999, 1379.623, 1385.28, 9999999.0]
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	29.638	41.174	speaker#1	male	native	被誉为乌蒙铁军的成都军区驻滇某炮兵团在坚持和发展团队基本经验的同时,用党的创新理论指导实践推动工作,部队全面建设又好又快发展	1	1	1	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	61.174	74.985	speaker#2	female	native	解放军第四医院二十年如一日坚持为青海省塔尔寺的僧侣询诊看病,把深厚的军民情谊融入到医疗实践中,让民族团结之花绽放在青藏高原	1	4	4	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	74.985	80.069	speaker#4	female	native	下面请看详细内容	2	5	6	filler	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	112.64	135.703	speaker#1	male	native	今年春节刚过,这个团奉命支援贵州灾后电网恢复重建任务,官兵辗转云贵两省实施千里机动,部队先后出动人员一万五千多人次,动用车辆一千多台次,累计行程三万六千多公里,按期完成了施工任务,并且安全无事故,乌蒙铁军在冰天雪地再次经受了检验	5	8	9	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	135.703	150.481	speaker#5	male	native	呃应该说是我们坚持从愿支军,长期抓国风养成的结果,也是我们把抓部队的安全稳定和全面建设有机统一的结果	5	9	10	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	150.481	161.646	speaker#1	male	native	十年前这个团成为全军学习的新进典型后,他们在接受殊荣体味辉煌的同时,更多的是思索着在新形势新情况下如何继续发展	5	10	11	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	161.646	174.035	speaker#1	male	native	为此,他们按照从严治军的要求科学统筹,对照条令条例逐向清理团队制定的管理规定,废除了统一理光头,饭前搞奖评等十五项不合理的土规定	5	10	12	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	174.035	185.04	speaker#1	male	native	取消了涉及信息化建设,农副业生产等八个方面的十多个高指标,并对法规和制度进行疏理归类,汇编成口袋书印发全团官兵	5	10	13	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	185.04	193.175	speaker#6	male	native	有了这本书啊,我们 (()) 了上至团首长下至我们战士等 (()) 制度规定行为规范	5	11	14	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	193.175	208.438	speaker#1	male	native	在此基础上,炮兵团牢固树立大管理观念,从二零零一年开始他们实行对官兵每月上一堂理论辅导课,一堂人生指导课,一堂法制教育课,和每季度一次刑事报告会的三课一会制度	5	12	15	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	222.324	234.931	speaker#5	male	native	真正实现了由强化规范到自觉养成,由个人习惯到全团的统一,由一日职工到常年的坚持	5	13	17	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	234.931	261.97	speaker#1	male	native	为确保部队训练战备生活有序,他们不断加强正规化建设和管理,营区达到了节约化规范化,数字化,人性化,生态化的标准,部队先后执行急难险重任务五十多次,参加上次组织的野战化训练活动三十多次,没有发生一起行政责任事故和案件,先后七次被总部成都军区和集团军评为全面建设先进单位	5	14	18	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	261.97	269.748	speaker#4	female	native	国务委员兼国防部长梁光烈今天在钓鱼台国宾馆拜会了来访的汤加国王图普武士	6	15	19	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	269.748	295.797	speaker#1	male	native	梁光烈说,中汤两国建交十年来两国在政治,经贸,农业教育等领域进行着富有成效的交流和合作,当前两军关系不断取得新的进展,高层互访不断,人员培训等领域的交流保持了良好势头,中方对两军关系的发展即予高度评价,愿与汤方共同努力不断拓展两军交往的领域,深化两军务实性交流与合作	6	16	20	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	309.989	316.211	speaker#3	male	native	国务委员兼国防部长梁光烈上将今天会见了马来西亚空军司令阿兹暂上将一行	6	17	22	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	362.786	370.488	speaker#4	female	native	近年以来,各部队在军事训练中积极探索复杂电磁环境下夜战夜训的规律,努力提升部队训练的质量	7	19	25	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	370.488	386.259	speaker#2	female	native	新疆军区某防空团组织了一场夜间复杂电磁环境下的演练,从排兵布阵到夜间行军,从战场情况搜索到实弹射击,官兵们在无光条件下运用各种革新器材进行了精确打击	7	20	26	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	386.259	405.897	speaker#2	female	native	同时部队把着力点放在挖掘防空兵装备前能和战法训法的研究上,运用信息技术手段,突出防空兵群火力运用 (()) ,夜间空地对抗等二十多个重难点课目的训练,不断提高部队指挥协同能力和整体技战术水平	7	20	27	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	429.675	455.188	speaker#2	female	native	海军某驱逐舰支队组织了一次舰艇编队海上夜间火炮攻击训练,同时,他们重点强化舰艇夜间导交区与 (()) 快速航度,夜间应急机动分析,编队夜间紧急防空反空 (()) 等战术技术演练,在这次编队夜间火炮击火射击中,他们取得了命中率百分之九十八的好成绩	7	22	29	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	455.188	464.853	speaker#3	male	native	北京军区在旅团以下部队广泛开展五小群众性大练兵活动,进一步提高全区部队基层干部骨干组训能力和士兵的综合素质	8	23	30	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	489.754	515.497	speaker#7	male	native	大家都说啊,五小练兵活动是小活动大练兵,他充分发掘和发挥了官兵在训练中的积极性,主动性和创造性,在比武竟赛中,上至旅团长下至普通一兵,人人参与,官教兵兵教官,兵兵互教,使军事训练始终充满了生机和活力	8	25	32	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	545.652	560.815	speaker#2	female	native	组织新老潜艇的干部换岗锻炼交流待职,到教练室模拟渔雷攻击到大风大浪中练战法训法,提高了艇长的谋略和指挥能力,使潜艇指挥员由单一型向复合型升级	9	27	35	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	560.815	570.212	speaker#8	male	native	新装备到过的体验队出海训练的时候把新装备没有到过的艇一起带上,这样一艘艇就可以训练出几艘的人员	9	28	36	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	570.212	580.775	speaker#2	female	native	此外他们还先后派技术干部外出培训,使百分之八十五的潜艇技术干部和业务长精技术懂战术,并取得了三十多项科研成果	9	29	37	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	580.775	598.261	speaker#2	female	native	在此基础上他们不断给潜艇士官创造学习条件,大大缩短了官兵与新装备的磨合期,支队百分之八十的潜艇士官获得了专业技术能手证书,实现了由简单形象智能型,业余型向专业型的升级	9	29	38	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	598.261	608.68	speaker#3	male	native	空军某雷达站五级士官张道明潜心钻研雷达维修保障技能,十七年间排除雷达故障一千多起,被官兵誉为雷达神医	10	30	39	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	656.132	664.402	speaker#4	female	native	四月十三号发生在云南香格里拉县境内被扑灭的山火又发生复燃, (()) 军分区迅速组织官兵前往抢险	11	32	43	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	664.402	674.431	speaker#1	male	native	由于起火地点位于海拔三千七百多米的风口位置,封住火势迅速向新县洛集乡和东县金子沟两个方向蔓延	11	33	44	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	695.381	704.483	speaker#3	male	native	清明前后,各部队抓住春季植树的大好时机,开展义务植树活动,为绿化驻地环境造福第二故乡做出积极贡献	12	34	46	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	723.729	736.418	speaker#2	female	native	在亚洲最大的人工森林公园,国家重点旅游景点长春净月潭,由驻长春市部队参建的生态林已经成为集防护功能和景观效益为一体的绿色植物园	12	35	48	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	759.826	777.547	speaker#2	female	native	今年初的雨雪冰冻灾害使广西南宁的植被受到了不同程度的影响和破坏,为了保护驻地生态环境武警广西总队组织官兵在清理和救治冻死冻伤树林的同时,还广泛开展我为绿城添新绿义务植树活动	12	35	50	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	777.547	795.385	speaker#4	female	native	海南建省办经济特区二十年来,军第双方坚持国防建设和经济建设协调发展的方针,实现了地方经济社会建设与部队建设比翼齐飞协调发展,昔日的南国边垂今朝成为岛富兵强的南海明珠	13	36	51	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	843.623	853.577	speaker#2	female	native	部队积极扶助海南的贫困山区,援建了十余所希望小学,历次抗击重大自然实害,官兵们总是冲在最前面	13	37	54	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	874.685	886.505	speaker#2	female	native	全省二十二个市县区都出台了一系列操作性较强的拥军优属政策,在军队转业干部和随军家属安置等方面即予大力支持	13	37	56	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	886.505	896.745	speaker#3	male	native	中国第三批赴苏丹维和工程兵大队在非洲大陆履行使命的同时注重加强与其它国家维和作战部队的协作,不断提高安全防卫能力	14	38	57	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	896.745	910.092	speaker#9	male	native	这里是中国第三批赴苏丹维和工程兵大队 (()) 营区,在我身后这支由中国与肯尼亚维和军呃共同组成的几位小组将护送我维和干兵展开今天的工程作业	14	39	58	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	910.092	925.252	speaker#2	female	native	由于中国维和部队展开的工程作业地点远离驻地,安全保障能力弱,为了加强施工中的作业安全,这个大队与肯尼亚维和步兵连取得联系,在肯尼亚维和军人的武装保护下展开施工作业	14	40	59	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	925.252	938.143	speaker#2	female	native	赶往施工地点的过程中,中肯两国维和军人高度警惕,在通过一辆爆炸不久的车辆时,中国维和工兵指挥官灵活处置,顺利抵达位于丛林中的施工地点	14	40	60	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	938.143	951.745	speaker#10	male	native	我们中国维和工程兵部队,作为联合国工程支援部队只有通过 (()) 维和作战部队加强协作,才能确保自身安全	14	41	61	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	951.745	964.943	speaker#4	female	native	解放军第四医院二十年如一日坚持为青海省塔尔寺的僧侣巡诊看病,把身后的居民情谊融入到医疗实践中,让民族团结之花绽放在青藏高原	15	42	62	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1019.141	1032.339	speaker#12	male	native	我们深入塔尔寺对广大众僧进行 (()) 体检,其目的主要是增加众僧健康体魄,加深与军侣渔水之情	15	46	66	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1032.339	1034.788	speaker#4	female	native	接下来请看一组简讯	16	47	67	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1034.788	1054.07	speaker#1	male	native	记者日前在沈阳军区装备财务工作会议上了解到,沈阳军区着眼做好应急作战装备准备,在装备财务保障中全力创新推行阳光预算机制,探索建立维修计划,经费物资,事业任务,落实责任,机校考评五位一体的装备经费物资管控模式	16	48	68	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1054.07	1080.835	speaker#2	female	native	兰州军区政治部机关支援甘肃定西地区临桃县经济社会建设启动仪式,今天在临桃县举行,这一活动是兰州军区支援地方经济建设的一项具体举措,他们将通过改建一所希望小学,援建一批农家书屋,组织一次电影放映月活动,捐赠一批计算机等工作,逐步探索出一条军队支援地方社会建设的路子	16	49	69	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1141.402	1158.671	speaker#2	female	native	今天北京军区机关和驻京直属单位的二百名驾驶员首批拿到了军郊运输部门审验合格的驾驶证,据了解今年驾驶本年审所使用的安全环保标志将区别于境外部队,确保奥运之年的行车安全	16	53	73	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1158.671	1173.639	speaker#1	male	native	日前西藏军区后勤部某综合仓库官兵来到驻地山南责当镇乃东孤老院,为孤寡老人送温暖献爱心,官兵帮助他们打扫卫生看病送药,使孤寡老人感受到人民子弟兵亲人般的真情厚爱	16	54	74	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1195.1	1198.573	speaker#3	male	native	下面请关注今天的媒体集粹	17	56	76	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1236.256	1249.507	speaker#1	male	native	日前在中俄边境最大的 (()) 湖新坎湖我军首位 (()) 飞行器驾驶员沈阳军区某巡逻艇大队四级士官张勇开始在新坎湖上正式执行边防巡逻任务	17	57	79	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1260.542	1271.225	speaker#1	male	native	国际方面,俄罗斯外长拉夫罗夫十四号在墨斯哥说,俄罗斯呼吁同美国,欧洲,日本以及其它相关国家组建联合导弹防御系统	17	57	81	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1304.935	1307.384	speaker#3	male	native	下面继续关注国际方面消息	18	58	84	report	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1379.623	1385.28	speaker#3	male	native	明天同一时间再见	19	61	88	filler	statement
+CCTV7_MILITARYNEWS1_CMN_20080416_100502	0	1379.623	1385.28	speaker#4	female	native	感谢您收看今天的军事报道,再见	19	61	89	filler	statement

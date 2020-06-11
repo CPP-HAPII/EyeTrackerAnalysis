@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2428	0	300.0	400.0	speaker	unknown	unknown	置换要交折旧费	0	0	0		
+CNS_CMN_20080717.2428	0	800.0	900.0	speaker	unknown	unknown	互联网上质疑商家售后服务的声音也此起彼伏:“大品牌,小脾气!”一位腾讯网友如此表示,“有钱人还能折腾得起,没钱没闲的小市民要是遇上这种事该怎么办?”	0	0	0		
+CNS_CMN_20080717.2428	0	1100.0	1200.0	speaker	unknown	unknown	宝马公司深表歉意遗憾	0	0	0		
+CNS_CMN_20080717.2428	0	2000.0	2100.0	speaker	unknown	unknown	有网友提出了这样的疑问:“消费者该如何维权?	0	0	0		
+CNS_CMN_20080717.2428	0	2100.0	2200.0	speaker	unknown	unknown	在车子、房子等大件消费品交易上,我们国家是否需要另立一些法规来规范?”	0	0	0		

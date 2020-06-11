@@ -1,0 +1,347 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 128.12200000000001, 176.02000000000001, 242.34, 307.79700000000003, 437.49700000000001, 538.61800000000005, 639.35299999999995, 660.83500000000004, 824.85400000000004, 995.68299999999999, 1082.066, 1131.144, 1207.2170000000001, 1228.6849999999999, 1247.761, 1273.1220000000001, 1302.492, 1337.3989999999999, 1465.1199999999999, 1551.952, 1628.441, 1654.1289999999999, 1673.069, 1742.01, 1750.1199999999999, 9999999.0]
+CCTV4_NEWS3_CMN_20070111_075800	0	128.122	132.075	speaker#1	female	native	Chinese State President Hu Jintao said during a meeting with Israeli Prime Minister Olmert that	1	1	1	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	132.075	137.228	speaker#1	female	native	the Chinese side was willing to work hard together with the Israeli side to push forward the healthy and steady development of Sino-Israeli relations.	1	1	2	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	138.166	142.446	speaker#1	female	native	The central parity rate of the renminbi against the US dollar has broken through the 7.80 barrier for the first time.	1	1	4	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	142.446	145.540	speaker#1	female	native	Professionals said that the exchange rate of the renminbi still has some room to appreciate,	1	1	5	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	145.540	148.587	speaker#1	female	native	but from a money-management perspective, there is no urgent need to sell off the US dollar.	1	1	6	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	149.540	155.900	speaker#1	female	native	The State Council has authorized an expansion of the range of renminbi services in Hong Kong: mainland financial institutions can issue renminbi bonds in Hong Kong.	1	1	8	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	157.009	162.165	speaker#1	female	native	As the views of the "blue" and "green" elected representatives are incompatible, they have got into a scuffle, with the eruption of another brawl in the Taiwan legislature.	1	1	10	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	163.040	165.993	speaker#1	female	native	US President Bush has announced an adjustment of policy towards Iraq.	1	1	12	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	165.993	171.885	speaker#1	female	native	The Chinese Ministry of Foreign Affairs said that the Chinese side believes that only by properly empowering Iraqis to rule Iraq could Iraq work its way out of its current predicament.	1	1	13	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	176.020	177.395	Ye_yingchun	female	native	Hello, and welcome to China News.	2	2	15	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	177.395	179.379	Ye_yingchun	female	native	Coming up are the detailed reports of this edition of the program.	2	2	16	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	179.379	184.567	Ye_yingchun	female	native	On the afternoon of the 11th, Chinese State President Hu Jintao held a meeting with Israeli Prime Minister Olmert in the Great Hall of the People.	2	2	17	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	184.567	185.255	Ye_yingchun	female	native	Let's take a look at this report.	2	2	18	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	187.341	191.201	speaker#1	female	native	Hu Jintao said that this year marks the 15th anniversary of the establishment of diplomatic relations between China and Israel.	2	3	20	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	191.201	193.576	speaker#1	female	native	Over 15 years Sino-Israeli relations have continually developed.	2	3	21	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	193.576	199.020	speaker#1	female	native	The cooperation between the two sides in the fields of economics and trade, science and technology, agriculture, culture, education and so on has achieved a positive result.	2	3	22	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	199.739	202.270	speaker#1	female	native	When talking about the situation in the Middle East region, Hu Jintao said that	2	3	24	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	202.270	206.098	speaker#1	female	native	resolving the Middle East issue at an early date and achieving a sustained peace in the Middle East	2	3	25	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	206.098	210.254	speaker#1	female	native	is a pressing aspiration of the peoples of all the countries in the region and a common expectation of the international community.	2	3	26	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	210.957	213.895	speaker#1	female	native	We hope that all the parties concerned will set peaceful co-existence as their objective,	2	3	28	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	213.895	217.457	speaker#1	female	native	adopt the method of dialogue and consultations, in accordance with the spirit of mutual understanding and mutual accommodation and	2	3	29	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	217.457	220.926	speaker#1	female	native	on the basis of the relevant UN resolutions and the principle of exchanging land for peace,	2	3	30	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	220.926	223.660	speaker#1	female	native	continue to work hard for the resolution of the Middle East issue at an early date.	2	3	31	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	224.363	230.769	speaker#1	female	native	China is willing to continue to play a constructive role together with the international community for a comprehensive, just and sustained resolution of the Middle East issue.	2	3	33	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	231.488	236.566	speaker#1	female	native	Olmert said that the Israeli side appreciated the impartial position held by the Chinese side in the Middle East issue and other regional issues,	2	3	35	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	236.566	240.909	speaker#1	female	native	and hoped that the Chinese side would continue to make vigorous efforts to promote the resolution of related issues.	2	3	36	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	242.340	248.465	Ye_yingchun	female	native	In the past two days, Chinese State President Hu Jintao and Premier of the State Council Wen Jiabao separately met with visiting Israeli Prime Minister Olmert.	3	4	38	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	248.465	250.997	Ye_yingchun	female	native	On the 11th, Liu Jianchao, the spokesman for the Chinese Ministry of Foreign Affairs, said that	3	4	39	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	250.997	257.168	Ye_yingchun	female	native	China supported Israel and Palestine in realizing peaceful co-existence and common development between the two ethnic groups and the two states.	3	4	40	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	259.012	265.152	speaker#1	female	native	Liu Jianchao said that the Chinese leaders and visiting Olmert exchanged views on the Middle East and the Iran nuclear issue.	3	5	42	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	265.152	270.589	speaker#1	female	native	The Chinese side supports Israel and Palestine in realizing peaceful co-existence and common development between the two ethnic groups and the two states,	3	5	43	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	270.589	274.502	speaker#1	female	native	and hopes that Israel, Syria, and Lebanon will establish mutual trust and resume peace talks.	3	5	44	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	274.502	279.955	speaker#1	female	native	History and the present both prove that the Middle East issue cannot be resolved by military force, which can only deepen mutual estrangement and enmity.	3	5	45	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	280.565	283.518	Liu_jianchao	male	native	Prime Minister Olmert, ah, also said that the Israeli side was willing, ah,	3	6	47	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	283.518	286.893	Liu_jianchao	male	native	um, to resolve the Middle East issue by peaceful talks,	3	6	48	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	287.628	291.519	Liu_jianchao	male	native	um, on the basis of peaceful co-existence between two states.	3	6	50	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	292.113	298.581	Liu_jianchao	male	native	At the same time, uh, the Israeli side also appreciates the constructive role played by the Chinese side over a long period to resolve the Middle East issue, ah,	3	6	52	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	298.581	302.065	Liu_jianchao	male	native	and hopes that the Chinese side, ah, can play a greater role.	3	6	53	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	302.065	306.065	Liu_jianchao	male	native	So it is also willing, ah, to maintain consultations with the Chinese side, ah, on the Middle East issue.	3	6	54	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	307.797	312.657	Ye_yingchun	female	native	The renminbi's central parity rate against the US dollar broke through the 7.80:1 barrier today for the first time.	4	7	56	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	312.657	316.047	Ye_yingchun	female	native	According to the analysis of professionals, the renminbi still has some space to rise further,	4	7	57	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	316.047	319.516	Ye_yingchun	female	native	but, from the perspective of money management, there is no urgent need to sell off the US dollar.	4	7	58	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	321.266	328.813	speaker#2	male	native	On the 11th, the central parity rate of the US dollar against the renminbi at the Bank of China and also on the foreign-exchange market was 1 US dollar to 7.7977 yuan.	4	8	60	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	328.813	333.750	speaker#2	male	native	Currently, calculated according to 1 US dollar, since the reform of the Chinese exchange rate in July 2005,	4	8	61	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	333.750	336.094	speaker#2	male	native	the renminbi has already appreciated by almost five mao.	4	8	62	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	337.001	341.986	speaker#3	male	native	As the European and American, um, economies, uh, are still growing relatively steadily at present,	4	9	64	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	341.986	344.345	speaker#3	male	native	so, as far as China is concerned,	4	9	65	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	344.345	348.923	speaker#3	male	native	income items on this year's, ah, current accounts, ah, will probably, ah, not see too large a fluctuation.	4	9	66	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	348.923	354.143	speaker#3	male	native	The momentum of steady appreciation of the renminbi against the US dollar, ah, is still likely to continue this year.	4	9	67	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	354.800	360.061	speaker#2	male	native	According to the analysis of industry insiders, the main impetus behind the appreciation of the renminbi has come from the surplus on Sino-US trade and the inflow of a large amount of foreign funds.	4	10	69	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	360.690	366.862	speaker#2	male	native	In July 2005, China instituted a reform of the renminbi exchange rate mechanism, replacing the fixed exchange rate by a floating exchange rate.	4	10	71	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	366.862	370.378	speaker#2	male	native	It no longer pegged it to the US dollar but rather uses a basket of currencies including the euro as reference.	4	10	72	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	370.378	373.909	speaker#2	male	native	The goal of this adjustment was to realize free convertibility, a freely floating exchange rate.	4	10	73	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	374.550	376.566	speaker#3	male	native	The appreciation, ah, of the renminbi against the US dollar,	4	11	75	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	376.566	379.941	speaker#3	male	native	should be said to be within expectations, ah, and, ah, it has been extremely steady.	4	11	76	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	379.941	385.003	speaker#3	male	native	So, now it seems that both its extent and the speed are, um, within a containable range.	4	11	77	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	385.660	390.832	speaker#2	male	native	Experts have pointed out that the appreciation of the renminbi will probably cause the prices of some export businesses' products to rise, increasing the competitive pressures on them,	4	12	79	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	390.832	396.114	speaker#2	male	native	but, on the other hand, the appreciation of the renminbi will also lower costs for Chinese enterprises importing energy and raw materials.	4	12	80	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	396.114	401.130	speaker#2	male	native	With regard to ordinary people, their expenditure while studying or traveling abroad will hopefully decrease somewhat.	4	12	81	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	402.177	405.381	speaker#2	male	native	Spurred on by the appreciation of the renminbi, as of 4:00 p.m. on the 11th	4	12	83	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	405.381	409.881	speaker#2	male	native	corresponding changes had taken place in the wire remittance and cash rates of the renminbi against the Hong Kong dollar.	4	12	84	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	409.881	414.990	speaker#2	male	native	Of these, the renminbi's wire remittance rate against the Hong Kong dollar was 100.25:99.45,	4	12	85	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	414.990	418.506	speaker#2	male	native	and the cash rate was 100.30:99.20.	4	12	86	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	418.506	422.044	speaker#2	male	native	This was the first time in 13 years that the exchange rate of the renminbi had exceeded that of the Hong Kong dollar.	4	12	87	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	423.294	427.497	speaker#2	male	native	Experts noted that, although there is still room this year for a further rise in the renminbi's exchange rate against the US dollar,	4	12	89	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	427.497	431.591	speaker#2	male	native	foreign-exchange financial planning products are extremely plentiful. and trading methods are also extremely flexible,	4	12	90	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	431.591	434.138	speaker#2	male	native	Therefore there is no urgent need to sell off any US dollars you are holding.	4	12	91	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	434.138	436.185	speaker#2	male	native	Wang Jianbin reporting from Beijing for CCTV.	4	12	92	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	437.497	440.653	Ye_yingchun	female	native	Yesterday, the State Council agreed to expand the range of renminbi services in Hong Kong.	5	13	94	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	440.653	445.497	Ye_yingchun	female	native	Following authorization, mainland financial institutions can issue renminbi bonds in Hong Kong.	5	13	95	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	445.497	450.732	Ye_yingchun	female	native	This will further increase avenues for renminbi held by Hong Kong residents and businesses to flow back to the mainland,	5	13	96	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	450.732	453.748	Ye_yingchun	female	native	and strengthen the position of Hong Kong as an international financial center.	5	13	97	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	455.248	461.404	speaker#1	female	native	The People's Bank of China will further expand the scope of providing platform and clearing arrangements for Hong Kong banks conducting renminbi business.	5	14	99	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	461.404	463.358	speaker#1	female	native	Someone in Hong Kong financial circles has said that	5	14	100	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	463.358	469.014	speaker#1	female	native	the mainland's granting permission to domestic financial institutions to issue renminbi bonds in Hong Kong is a milestone in Hong Kong's financial development.	5	14	101	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	469.014	471.545	speaker#1	female	native	After a +real time renminbi payment system has been set up,	5	14	102	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	471.545	478.419	speaker#1	female	native	Hong Kong will lead the world in simultaneously having real time payment systems in place for four currencies: the renminbi, the Hong Kong dollar, the US dollar, and the euro.	5	14	103	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	479.106	489.230	speaker#4	male	native	(())	5	15	105	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	489.230	490.449	speaker#1	female	native	He also said that	5	16	106	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	490.449	495.262	speaker#1	female	native	although the amount of renminbi bonds issued by mainland financial institutions in Hong Kong will be restricted,	5	16	107	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	495.262	499.074	speaker#1	female	native	the rollout of renminbi bonds will cause renminbi deposits to increase to some extent.	5	16	108	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	499.646	502.277	speaker#1	female	native	Although the specific timing of the rollout of these services has not been determined,	5	16	110	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	502.277	507.073	speaker#1	female	native	people from all walks of life in Hong Kong believe that the newly-added renminbi services will help to expand business opportunities for Hong Kong banks,	5	16	111	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	507.073	510.027	speaker#1	female	native	and could further promote the circulation of funds between the mainland and Hong Kong.	5	16	112	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	510.027	523.447	speaker#5	male	native	(())	5	17	113	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	523.447	527.103	speaker#1	female	native	In 2004 Hong Kong banks began to offer renminbi deposit services.	5	18	114	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	527.103	530.869	speaker#1	female	native	As of now, almost all retail banks have participated in the relevant line of business.	5	18	115	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	530.869	532.837	speaker#1	female	native	By November 2006,	5	18	116	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	532.837	537.337	speaker#1	female	native	the total value of Hong Kong's renminbi deposits had already exceeded 22 billion yuan.	5	18	117	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	538.618	543.258	Ye_yingchun	female	native	This afternoon HKSAR Chief Executive Donald Tsang attended a Legislative Council question-and-answer session.	6	19	119	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	543.258	546.617	Ye_yingchun	female	native	He said that the performance of the Hong Kong economy last year came as a pleasant surprise.	6	19	120	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	546.617	551.055	Ye_yingchun	female	native	It is estimated that Hong Kong's GDP in 2006 increased by more than 6.5%.	6	19	121	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	551.055	554.727	Ye_yingchun	female	native	The unemployment rate set a new low record of 4.4%.	6	19	122	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	554.727	558.430	Ye_yingchun	female	native	He believes that the next few years will be a key period for Hong Kong's development.	6	19	123	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	562.032	565.595	speaker#1	female	native	Donald Tsang pointed out that the world economy has already entered an era of globalized competition.	6	20	125	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	565.595	570.454	speaker#1	female	native	Hong Kong is not only competing with cities within the region for the position of financial, shipping and distribution, and tourism center,	6	20	126	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	570.454	572.673	speaker#1	female	native	it is at the same time also competing with other international cities.	6	20	127	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	572.673	575.157	speaker#1	female	native	It needs to struggle for an advantage, not only in hardware, but also in software,	6	20	128	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	575.157	577.485	speaker#1	female	native	for example, talented workers, the attractiveness of life in the city, etc.	6	20	129	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	578.101	582.486	speaker#1	female	native	In terms of capital construction, he emphasized that he would go all out to press for the beginning of construction work on the Hong Kong-Zhuhai-Macao bridge,	6	20	131	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	582.486	585.033	speaker#1	female	native	and to maintain Hong Kong's advantages as the region's distribution center.	6	20	132	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	585.783	591.361	speaker#1	female	native	In terms of air transport, he hoped to solve the problem of ((a reduction)) in aviation and air transport and increase the handling capacity of Hong Kong's new airport.	6	20	134	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	591.361	596.408	speaker#1	female	native	In order to consolidate Hong Kong's position as a business and information center that connects the mainland market with international enterprises,	6	20	135	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	596.408	601.267	speaker#1	female	native	the HKSAR government will vigorously promote conference and exhibition services to attract business visitors.	6	20	136	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	602.032	603.595	speaker#1	female	native	In addition, Donald Tsang said that	6	20	138	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	603.595	605.782	speaker#1	female	native	he would be a responsible candidate for the position of chief executive,	6	20	139	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	605.782	608.188	speaker#1	female	native	and would accomplish the vision that he has set out.	6	20	140	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	609.078	612.484	Zeng_yinquan	male	native	(())	6	21	142	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	613.818	616.490	Zeng_yinquan	male	native	(())	6	21	144	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	617.318	619.928	Zeng_yinquan	male	native	(())	6	21	146	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	620.834	623.646	Zeng_yinquan	male	native	(())	6	21	148	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	624.490	628.068	Zeng_yinquan	male	native	(())	6	21	150	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	628.068	630.865	Zeng_yinquan	male	native	I will achieve what I have set out.	6	21	151	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	639.353	643.556	speaker#1	female	native	With the convening of a series of ASEAN summit meetings at hand, the Philippine police have strengthened measures to guarantee security.	7	22	153	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	644.196	646.461	speaker#1	female	native	As sales of oranges in the central part of Taiwan are stagnating owing to a bumper harvest,	7	22	155	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	646.461	650.211	speaker#1	female	native	the mainland has activated an urgent purchasing mechanism to help Taiwanese fruit farmers overcome their predicament.	7	22	156	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	650.799	654.289	speaker#1	female	native	A small meteorite from outer space has smashed through the roof of an American family's home.	7	22	158	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	654.289	657.023	speaker#1	female	native	Experts have concluded that it is worth at least 10 million US dollars.	7	22	159	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	657.023	659.085	speaker#1	female	native	Please stay tuned to China News.	7	22	160	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	660.835	661.835	Ye_yingchun	female	native	Welcome to the rest of the program.	8	23	162	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	661.835	669.484	Ye_yingchun	female	native	On January 11, Foreign Minister Li Zhaoxing attended a China-ASEAN meeting of foreign ministers and a working luncheon for the foreign ministers of ASEAN, China, Japan, and South Korea in Cebu in the Philippines.	8	23	163	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	669.484	670.351	Ye_yingchun	female	native	Let's take a look at the report.	8	23	164	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	672.194	673.804	speaker#1	female	native	At the China-ASEAN meeting of foreign ministers,	8	24	166	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	673.804	676.476	speaker#1	female	native	Li Zhaoxing and the foreign ministers of the various ASEAN countries gave a positive evaluation to	8	24	167	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	676.476	679.898	speaker#1	female	native	the fresh progress that has been made over the past year in friendly cooperation between China and ASEAN.	8	24	168	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	679.898	685.851	speaker#1	female	native	They believe that the successful holding of the China-ASEAN commemorative summit has consolidated and heightened the strategic partner relationship between China and ASEAN.	8	24	169	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	686.476	693.478	speaker#1	female	native	The two sides agreed to work side by side to implement the consensus reached by the leaders at this year's summit and the proposals put forward in the joint communiqué.	8	24	171	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	693.478	698.726	speaker#1	female	native	Further strengthen mutual political trust, deepen the economic and trade relationship, and expand cooperation in the field of non-traditional security.	8	24	172	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	698.726	700.606	speaker#1	female	native	Promote social and cultural exchanges,	8	24	173	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	700.606	705.070	speaker#1	female	native	seek the interests of the people of both sides, and contribute to peace, stability, and prosperity in the region.	8	24	174	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	705.758	709.507	speaker#1	female	native	Li Zhaoxing reiterated that China supports the ASEAN community and its integration.	8	24	176	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	710.585	714.632	speaker#1	female	native	On the same day, Li Zhaoxing also attended a working luncheon for the foreign ministers of ASEAN, China, Japan, and South Korea,	8	24	178	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	714.632	717.789	speaker#1	female	native	and met with South Korean Minister of Foreign Affairs and Trade Song Min-soon.	8	24	179	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	719.352	723.885	Ye_yingchun	female	native	Just as the ASEAN series of summit meetings is about to be convened, a series of linked explosions took place in the south of the Philippines,	8	25	181	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	723.885	727.323	Ye_yingchun	female	native	sounding a warning for ensuring security at this summit.	8	25	182	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	727.323	735.292	Ye_yingchun	female	native	Apart from the summit meeting of the 10 ASEAN nations, this series of ASEAN summit meetings also includes the Second ASEAN -- East Asia summit and a series of summit meetings between ASEAN and its dialogue partners.	8	25	183	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	735.292	741.824	Ye_yingchun	female	native	This chain of summit meetings means that Cebu will welcome the heads of approximately 20 countries in the next few days.	8	25	184	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	741.824	746.012	Ye_yingchun	female	native	In order to ensure that the summit meetings are held smoothly, the Philippine police have strengthened security measures,	8	25	185	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	746.012	748.481	Ye_yingchun	female	native	to dispel the impression created by the explosions.	8	25	186	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	748.481	752.090	Ye_yingchun	female	native	Next, let's take a look at the report sent back by ((Wang Yuguo,)) a reporter with this station who has gone to the Philippines for coverage.	8	25	187	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	753.575	757.153	Wang_yuguo	male	native	After arriving on Cebu island in the central Philippines at 7:00 p.m. on January 10,	8	26	189	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	757.153	761.153	Wang_yuguo	male	native	we felt that the atmosphere was more tense than it was the first time we came here a month ago.	8	26	190	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	761.153	766.684	Wang_yuguo	male	native	On the morning of the 11th, while filming Foreign Minister Li Zhaoxing attending a meeting of the foreign ministers of ASEAN, China, Japan, and South Korea,	8	26	191	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	767.278	772.059	Wang_yuguo	male	native	the hosts only permitted one photographer and one videographer from their own country to enter the conference hall,	8	26	193	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	772.059	775.481	Wang_yuguo	male	native	and photographers and videographers from other countries were all held outside.	8	26	194	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	775.481	783.621	Wang_yuguo	male	native	Outside the doors of the Shangri-La hotel conference venue was a beach by the seaside, and you could see not far off in the gulf a naval patrol vessel on duty.	8	26	195	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	784.355	790.058	Wang_yuguo	male	native	In the afternoon, when we arrived at the press center, we discovered that they had also added permit-scanning equipment next to the security checkpoint.	8	26	197	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	790.714	793.557	Wang_yuguo	male	native	The Philippine government is currently employing an army, navy, air force, and police force	8	26	199	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	793.557	798.775	Wang_yuguo	male	native	of more than 15,000 strong to ensure the security of Cebu island, the venue of the ASEAN and East Asia summits.	8	26	200	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	799.447	806.057	Wang_yuguo	male	native	Analysts have pointed out that previous terrorist attacks that have taken place within the borders of the Philippines have all occurred when security has not been tight.	8	26	202	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	806.057	810.682	Wang_yuguo	male	native	Therefore, during the current summit meetings, the security of Cebu island should be more or less guaranteed.	8	26	203	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	810.682	813.698	Wang_yuguo	male	native	Meanwhile, some media are concerned about the security of Manila.	8	26	204	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	813.698	820.135	Wang_yuguo	male	native	They believe that terrorist organizations may take advantage of low security during President Arroyo's absence from Manila to make attacks or feints.	8	26	205	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	820.135	823.588	Wang_yuguo	male	native	Therefore, measures to strengthen security in Manila cannot be neglected, either.	8	26	206	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	824.854	825.886	Ye_yingchun	female	native	Okay, let's move on to another report.	9	27	208	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	825.886	829.965	Ye_yingchun	female	native	On the evening of the 10th local time, US President Bush delivered a nationwide televised speech	9	27	209	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	829.965	833.043	Ye_yingchun	female	native	announcing an adjustment of the US government's policy towards Iraq,	9	27	210	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	833.043	836.715	Ye_yingchun	female	native	including the dispatch of more than 21,000 more soldiers to Iraq	9	27	211	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	836.715	843.793	Ye_yingchun	female	native	and a demand that the Iraqi government assume more responsibility as soon as possible, as well as seeking support from US allies in the Middle East.	9	27	212	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	845.640	848.968	speaker#1	female	native	In his speech, Bush admitted that there had been mistakes in the past in military tactics in Iraq and	9	28	214	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	848.968	852.108	speaker#1	female	native	they had not been able to concentrate sufficient armed forces at a very early point to control the situation in Iraq.	9	28	215	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	852.108	854.717	speaker#1	female	native	He said that he was willing to bear the responsibility for all the slips.	9	28	216	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	854.717	860.373	speaker#1	female	native	Bush emphasized that for the US to withdraw its troops from Iraq now would lead to the collapse of the Iraqi government and the division of the country.	9	28	217	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	860.373	865.701	speaker#1	female	native	At this crucial moment, the US could only first send more troops to help Iraq control the chaotic situation,	9	28	218	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	865.701	867.327	speaker#1	female	native	before withdrawing troops smoothly at a later date.	9	28	219	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	868.030	872.592	speaker#1	female	native	Therefore the US was sending an additional 5 brigades, altogether around +17,500 soldiers, to Baghdad,	9	28	221	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	872.592	875.045	speaker#1	female	native	and 4,000 additional troops would be sent to al-Anbar province.	9	28	222	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	875.045	878.779	speaker#1	female	native	Bush also said that US aid to Iraq was not open-ended	9	28	223	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	878.779	881.935	speaker#1	female	native	and the US would set some targets that the Iraqi government had to reach.	9	28	224	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	881.935	888.184	speaker#1	female	native	As regards foreign affairs, Bush said that he would seek the support and cooperation of allies in the Middle East to jointly stabilize the situation in Iraq.	9	28	225	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	888.184	893.730	speaker#1	female	native	Bush said that even if the above-mentioned new policy proved effective, it would still be impossible to immediately end the violent conflict in Iraq.	9	28	226	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	893.730	895.871	speaker#1	female	native	For the sake of the US global counter-terrorist endeavor,	9	28	227	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	895.871	899.433	speaker#1	female	native	the American people needed to be more patient as regards the Iraq issue.	9	28	228	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	899.433	903.058	speaker#1	female	native	White House officials had previously said that as part of the new policy towards Iraq,	9	28	229	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	903.058	907.137	speaker#1	female	native	Bush would also ask Congress in February for the allocation of 6.8 billion US dollars of funds	9	28	230	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	907.137	910.762	speaker#1	female	native	to be used for the plan to send more troops to Iraq and increase aid for reconstruction.	9	28	231	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	912.152	915.730	Ye_yingchun	female	native	On the evening of the 10th, after US President Bush announced an adjustment in his policy towards Iraq,	9	29	233	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	915.730	920.558	Ye_yingchun	female	native	the majority Democratic Party legislators in the US Congress and some Republican Party legislators both expressed	9	29	234	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	920.558	922.933	Ye_yingchun	female	native	opposition to Bush's plan to send more troops to Iraq.	9	29	235	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	923.855	927.949	speaker#1	female	native	House Speaker Pelosi from the Democratic Party, House Majority leader, (()),	9	30	237	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	927.949	933.481	speaker#1	female	native	Senate Majority leader, +Reid, and the Senate Majority whip, Durbin, issued a joint statement on the same day saying that	9	30	238	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	933.481	937.138	speaker#1	female	native	the Iraqi government needs to understand that US commitments are not open-ended,	9	30	239	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	937.138	939.466	speaker#1	female	native	and that sending more troops at this time could only send out the wrong signals.	9	30	240	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	940.137	943.637	speaker#1	female	native	The statement said that the correct way of adjusting the Iraq policy should include	9	30	242	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	943.637	947.028	speaker#1	female	native	handing more security obligations over to the Iraqi government as quickly as possible	9	30	243	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	947.028	952.794	speaker#1	female	native	and taking steps to withdraw troops in four to six months, as well as strengthening diplomatic efforts in the Middle East region and internationally.	9	30	244	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	952.794	968.324	speaker#6	male	native	(())	9	31	245	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	969.012	976.605	speaker#1	female	native	Democratic +Senator Edward Kennedy and the Democratic Party member, Hilary Clinton, who hopes to take part in the 2008 presidential election, also expressed their opposition to sending more troops.	9	32	247	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	976.605	982.668	speaker#1	female	native	Furthermore, in Bush's own Republican Party there are currently at least five senators who publicly oppose Bush's plan to send more troops.	9	32	248	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	982.668	987.152	speaker#1	female	native	According to American public opinion, Bush's new policy towards Iraq runs counter to the will of the people	9	32	249	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	987.152	991.745	speaker#1	female	native	and will put him and the Democrat-controlled Congress increasingly at odds on the Iraq issue,	9	32	250	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	991.745	994.308	speaker#1	female	native	and will also make him lose the support of several Republican legislators.	9	32	251	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	995.683	1001.574	Ye_yingchun	female	native	Bush's new policy of sending more troops has also provoked a wave of vocal opposition among the American people.	10	33	253	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1001.574	1006.543	Ye_yingchun	female	native	Meanwhile, the Iraqi people, the beneficiaries of this policy in Bush's eyes, are also not buying this new plan to increase troop numbers.	10	33	254	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1007.856	1009.950	speaker#1	female	native	Just as Bush was delivering his televised speech,	10	34	256	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1009.950	1015.012	speaker#1	female	native	dozens of opponents gathered outside the White House, shouting the slogans "Stop the war now" and "Bring the troops home."	10	34	257	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1015.012	1016.794	speaker#1	female	native	They are against the continuing dispatch of troops to Iraq.	10	34	258	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1017.405	1019.921	speaker#1	female	native	Many of the demonstrators are family members of US soldiers stationed in Iraq.	10	34	260	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1019.921	1024.577	speaker#1	female	native	To them, the plan to increase troops means more separations and more deaths, which is unacceptable.	10	34	261	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1025.190	1028.378	speaker#1	female	native	Teresa Smith's husband is currently on active service in Iraq,	10	34	263	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1028.378	1031.144	speaker#1	female	native	leaving her alone at home to look after three young children.	10	34	264	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1031.144	1033.862	speaker#1	female	native	Her husband was originally set to return to the US in October this year,	10	34	265	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1033.862	1037.425	speaker#1	female	native	but Bush's new policy has made their family reunion vanish into thin air.	10	34	266	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1038.535	1048.052	speaker#7	female	native	(())	10	35	268	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1048.959	1050.599	speaker#1	female	native	As far as the vast majority of the American people are concerned,	10	36	270	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1050.599	1055.224	speaker#1	female	native	although they don't go as far as demonstrating in front of the White House, they can't help uttering a few words of criticism in front of the reporters' cameras.	10	36	271	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1056.256	1060.913	speaker#8	female	native	(())	10	37	273	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1060.913	1065.913	speaker#1	female	native	And the Iraqi people are definitely not grateful either, and many are expressing doubts about Bush's plan to increase troops.	10	38	274	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1065.913	1072.923	speaker#9	female	nonnative	(())	10	39	275	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1072.923	1079.735	speaker#10	male	nonnative	(())	10	40	276	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1082.066	1084.722	Ye_yingchun	female	native	With regard to the US government's new policy of sending more troops to Iraq,	11	41	278	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1084.722	1089.996	Ye_yingchun	female	native	Liu Jianchao, the spokesman of China's Ministry of Foreign Affairs, said on the 11th that China has followed the changes in the Iraq situation all along.	11	41	279	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1089.996	1094.746	Ye_yingchun	female	native	China believes that only when Iraqis are empowered to rule Iraq could Iraq work its way out of its current predicament.	11	41	280	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1096.533	1101.315	speaker#1	female	native	Liu Jianchao said that Iraq had experienced a long period of upheaval, and that the reconstruction work faced many difficulties.	11	42	282	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1101.315	1106.049	speaker#1	female	native	Any changes in the situation in Iraq will have a very large impact on this region's security and stability.	11	42	283	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1107.721	1111.175	Liu_jianchao	male	native	To finally achieve peace and stability in Iraq,	11	43	285	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1111.175	1114.472	Liu_jianchao	male	native	to finally give the Iraqi people a peaceful and tranquil life,	11	43	286	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1114.472	1120.124	Liu_jianchao	male	native	then, ultimately, we still have to rely, ah, on Iraqi people ruling Iraq. This will make it possible to effect reconciliation in Iraq, ah,	11	43	287	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1120.124	1126.910	Liu_jianchao	male	native	and to turn Iraq into a democratic, um, free Iraq that also protects human rights and develops the economy.	11	43	288	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1126.910	1129.519	Liu_jianchao	male	native	So I think this will indeed be the ultimate way out.	11	43	289	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1131.144	1135.347	Ye_yingchun	female	native	On the 10th, the Belarusian government announced that it was eliminating tariffs on Russian oil transiting through its territory.	12	44	291	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1135.347	1140.331	Ye_yingchun	female	native	This symbolizes a turn for the better in the Russian-Belarusian oil dispute that has been followed with intense interest over the past few years.	12	44	292	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1140.331	1146.737	Ye_yingchun	female	native	On the 11th, +Russia completely restored oil supplies through the Friendship Pipeline to Belarus and European countries.	12	44	293	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1148.123	1151.717	speaker#1	female	native	Grigoriev, the vice-president of Russia's Transneft Corporation, confirmed that	12	45	295	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1151.717	1154.123	speaker#1	female	native	at around 8:30 a.m. on the 11th local time,	12	45	296	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1154.717	1161.608	speaker#1	female	native	Russia had fully restored to normal the supply of oil through Belarusian territory via the Friendship Pipeline to Germany as well as several East European countries.	12	45	298	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1161.608	1166.264	speaker#1	female	native	On the 10th, Russian President Putin and Belarusian President Lukashenko held a telephone conversation.	12	45	299	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1166.264	1168.529	speaker#1	female	native	The two sides arrived at a consensus on settling this dispute,	12	45	300	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1168.529	1174.763	speaker#1	female	native	and requested the two countries' prime ministers to put forward concrete proposals for the solution of all disputes before the 12th, and submit them to the heads of state of the two countries for deliberation.	12	45	301	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1174.763	1178.185	speaker#1	female	native	A spokesperson for Poland's Friendship Pipeline operating company confirmed that	12	45	302	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1178.185	1186.200	speaker#1	female	native	at around 21:30 on the evening of the 10th local time, Russian oil supplies to destinations within Poland through the Friendship Pipeline on Russian and Belarusian territories had been resumed.	12	45	303	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1186.200	1196.295	speaker#11	male	nonnative	(())	12	46	304	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1197.061	1203.436	speaker#1	female	native	At present the issue of most concern to the Belarusian side is whether Russia will agree to no longer levy an export tariff on oil exports to Belarus.	12	47	306	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1203.436	1206.139	speaker#1	female	native	This will be the core issue for future bilateral negotiations.	12	47	307	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1207.217	1209.279	Ye_yingchun	female	native	Let's take a look at a set of other news stories.	13	48	309	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1210.529	1214.497	speaker#1	female	native	On the 10th, Venezuelan President Chavez, who has won the re-election, took the oath of office for a six-year term.	13	49	311	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1214.497	1221.138	speaker#1	female	native	Chavez said that in his new term he would push forward the establishment of a new socialist political, economic and social model in Venezuela,	13	49	312	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1221.138	1223.857	speaker#1	female	native	as one of the moves to accelerate the realization of socialism.	13	49	313	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1223.857	1227.466	speaker#1	female	native	Chavez announced recently that he would nationalize electric power and telecommunications companies.	13	49	314	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1228.685	1233.217	speaker#1	female	native	On the 10th, Kazakh President Nazarbayev officially appointed Masimov as the government's prime minister.	14	50	316	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1233.217	1234.873	speaker#1	female	native	Nazarbayev said that	14	50	317	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1234.873	1237.482	speaker#1	female	native	the core task of the new government would be to draw up a development plan	14	50	318	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1237.482	1242.029	speaker#1	female	native	to advance Kazakhstan into the ranks of the world's 50 most competitive countries.	14	50	319	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1242.029	1246.464	speaker#1	female	native	Masimov, currently 41 years of age, has previously served as transport minister and adviser to the president, among other posts.	14	50	320	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1247.761	1253.012	speaker#1	female	native	Over the past few days, persistent rains in the southeast of Brazil and central Peru have turned floods in the two regions into disasters.	15	51	322	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1253.012	1257.387	speaker#1	female	native	At present, the number of people who have died as a result of floods and debris flows in the two countries has already reached 52.	15	51	323	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1257.965	1261.684	speaker#1	female	native	In Brazil, the flood water in (()) city district has been as deep as two meters,	15	51	325	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1261.684	1266.372	speaker#1	female	native	and in Peru floods have left 4,500 people homeless and have destroyed thousands of hectares of farmland.	15	51	326	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1266.372	1271.747	speaker#1	female	native	Owing to persistent rain in upstream areas, there is also the danger that floods will break out in the middle and lower reaches of the Amazon River.	15	51	327	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1273.122	1278.684	speaker#1	female	native	Recently, a mysterious misshapen rock appeared out of the blue and smashed through the roof of an American family's house in the state of New Jersey.	16	52	329	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1278.684	1282.012	speaker#1	female	native	The misshapen rock seems to be metal, because it can attract a magnet.	16	52	330	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1282.012	1286.074	speaker#1	female	native	Tests by experts have concluded that it is a small meteorite from outer space.	16	52	331	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1286.074	1291.168	speaker#1	female	native	Although its size is very small, it is said that in the eyes of collectors it is worth at least 10 million US dollars.	16	52	332	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1291.168	1295.401	speaker#1	female	native	According to US law, this family has the ownership rights to this meteorite.	16	52	333	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1302.492	1307.320	Ye_yingchun	female	native	Some Taiwan-related news: in response to sluggish sales of oranges in central Taiwan owing to a bumper harvest,	17	53	335	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1307.320	1313.835	Ye_yingchun	female	native	KMT Chairman Ma Ying-jeou promised to assist with selling oranges to the mainland during his informal discussions with farmers in Yunlin county on January 11.	17	53	336	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1313.835	1317.273	Ye_yingchun	female	native	To this, He Shizhong, the director of the economic bureau of the central government's Taiwan Affairs Office, said that	17	53	337	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1317.273	1323.836	Ye_yingchun	female	native	through the KMT-CPC exchange platform the KMT had asked the mainland to help by making a purchase and had obtained a positive response from the mainland.	17	53	338	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1323.836	1326.211	Ye_yingchun	female	native	The mainland has already activated an urgent purchasing mechanism.	17	53	339	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1326.211	1333.117	Ye_yingchun	female	native	Arrangements will be made over the next few days for mainland enterprises to discuss specific purchases with Taiwanese suppliers such as Yunlin County Agricultural Association and the Fruit and Vegetable Marketing Company	17	53	340	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1333.117	1336.008	Ye_yingchun	female	native	in order to help Taiwan's fruit farmers get through their current difficulties.	17	53	341	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1337.399	1342.414	Ye_yingchun	female	native	Tomorrow, the fourth court session will be held in the state affairs fund case, with Chen Shui-bian's wife among the four suspects.	18	54	343	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1342.414	1349.555	Ye_yingchun	female	native	Prosecutor Chang Hsi-huai, who previously had lost control of emotions under the excessive pressure of smears, said that he would definitely appear in court	18	54	344	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1349.555	1351.774	Ye_yingchun	female	native	and take on the main role as public prosecutor.	18	54	345	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1351.774	1355.243	Ye_yingchun	female	native	Meanwhile, the main defendant in the state affairs fund case, Chen Shui-bian's wife, Wu Shu-chen,	18	54	346	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1355.243	1360.798	Ye_yingchun	female	native	continued to excuse herself from the court trial citing health problems for the third time. Let's take a look at the report.	18	54	347	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1362.564	1366.493	speaker#12	male	native	The complexion of prosecutor Chang Hsi-huai, who has just finished +recuperating from an illness, appears to be good.	18	55	349	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1366.493	1370.806	speaker#12	male	native	While talking, he indicated that he has made ample preparations for the court session on the 12th.	18	55	350	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1370.806	1372.806	Zhang_xihuai	male	native	My fellow schoolmate, Chen Shui-bian, has done quite a good job, ah,	18	56	351	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1372.806	1376.587	Zhang_xihuai	male	native	but after the baton of investigation is handed over to the prosecution, how can I,	18	56	352	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1377.321	1380.508	Zhang_xihuai	male	native	starting from reasonable doubts, progress to convince the judge beyond doubt	18	56	354	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1380.508	1382.899	Zhang_xihuai	male	native	or get a guilty verdict? This is the first thing I must do.	18	56	355	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1383.696	1387.243	speaker#12	male	native	Chang Hsi-huai said that regardless of whether Wu Shu-chen would appear in court for the fourth session or not,	18	57	357	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1387.243	1390.837	speaker#12	male	native	he had already held a meeting on January 5 to discuss the case with the investigating prosecutor, Chen Jui-jen.	18	57	358	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1390.837	1396.959	speaker#12	male	native	He emphasized that he would adhere to fairness and justice, which would not be changed as a result of rumors and slanders by the outside world.	18	57	359	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1396.959	1400.557	speaker#12	male	native	In contrast to Chang Hsi-huai's way of bravely facing the rumors and continuing to attend court,	18	57	360	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1400.557	1406.478	speaker#12	male	native	Wu Shu-chen, as the main suspect in the state affairs fund case, has however chosen to continue hiding at home and not attend court to be questioned.	18	57	361	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1406.478	1410.868	speaker#12	male	native	According to the medical certificate issued by the National Taiwan University Hospital, which is responsible for treating Wu Shu-chen,	18	57	362	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1410.868	1415.478	speaker#12	male	native	although Wu Shu-chen has already left the hospital and her frame of mind has clearly taken a turn for the better due to the birth of her granddaughter,	18	57	363	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1415.478	1418.291	speaker#12	male	native	her blood pressure is still not stable, and so it is still inconvenient for her to appear in court.	18	57	364	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1419.088	1420.791	speaker#12	male	native	The Taiwanese media have analyzed this, saying that	18	57	366	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1420.791	1425.167	speaker#12	male	native	Wu Shu-chen's repeated failure to appear in court has made it impossible for the court to get the details of the case straight from the person concerned.	18	57	367	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1425.167	1429.151	speaker#12	male	native	On the other hand, in order to investigate whether the state affairs fund was used legitimately, the court	18	57	368	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1429.151	1432.245	speaker#12	male	native	has twice demanded that Chen Shui-bian's office provide related materials,	18	57	369	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1432.245	1435.698	speaker#12	male	native	but Chen Shui-bian has claimed that they were used in the so-called six top-secret diplomatic missions,	18	57	370	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1435.698	1437.995	speaker#12	male	native	and has refused to provide them on the grounds that he could not make them public.	18	57	371	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1437.995	1443.058	speaker#12	male	native	In addition Chen Shui-bian has let it be known that it is not that he is not telling the truth, but that there are some things that he cannot talk about, cannot talk about until his death.	18	57	372	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1443.058	1445.761	speaker#12	male	native	This means that the key evidence cannot see the light of day,	18	57	373	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1445.761	1451.855	speaker#12	male	native	This has also given the defense lawyer ((Ku Li-hsiung)) a reason to indulge in the sophistry that there cannot be a court session in the absence of both the person concerned and the evidence.	18	57	374	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1451.855	1457.012	speaker#12	male	native	Whether Chang Hsi-huai can break through ((Ku Li-hsiung's)) line of defense at tomorrow's court hearing, whether he can get past the dispute over whether there ought to be a hearing,	18	57	375	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1457.012	1460.605	speaker#12	male	native	will depend on the intelligence of the public prosecutor and the persuasiveness of the evidence at hand.	18	57	376	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1461.261	1463.729	speaker#12	male	native	Ying Jie and Yue Biao reporting from Taiwan for CCTV.	18	57	378	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1465.120	1468.589	Ye_yingchun	female	native	On the 11th, another violent incident took place in Taiwan's legislative body.	19	58	380	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1468.589	1476.000	Ye_yingchun	female	native	A brawl erupted between the KMT elected representative Chen Chao-Jung and the DPP elected representative Chen Hsien-chung over a difference of opinion, with both sides sustaining injuries.	19	58	381	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1477.091	1480.173	speaker#1	female	native	On the morning of the 11th, the Taiwanese legislative body was discussing some proposal to unfreeze the budget.	19	59	383	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1480.173	1486.607	speaker#1	female	native	A scuffle erupted between the KMT elected representative Chen Chao-Jung and the DPP elected representative Chen Hsien-chung over one discordant remark, with the scene descending into chaos.	19	59	384	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1497.504	1501.379	speaker#1	female	native	The staff on the spot forcibly pulled them apart, but the two sides were still consumed with anger.	19	60	387	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1501.379	1505.458	speaker#13	male	native	(()) no more arguing, no more arguing.	19	61	388	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1505.458	1509.822	speaker#14	male	native	(())	19	62	389	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1509.822	1510.962	speaker#15	male	native	(())	19	63	390	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1510.962	1513.228	speaker#14	male	native	(())	19	64	391	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1513.228	1518.384	speaker#1	female	native	The result was that the two people both sustained injuries, with Chen Chao-jung's eyes red and swollen, and the corners of Chen Hsien-chung's mouth being injured.	19	65	392	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1518.384	1519.993	speaker#1	female	native	The discussion was also shelved.	19	65	393	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1519.993	1525.774	speaker#1	female	native	The Taiwanese media report that this sort of fiery scene is not rare in the Taiwanese legislature as well as other bodies discussing official business.	19	65	394	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1525.774	1528.758	speaker#1	female	native	Among these incidents, the most serious took place in October the year before last year.	19	65	395	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1528.758	1533.039	speaker#1	female	native	The Taiwanese legislature was examining a draft organic law on the National Communications Commission.	19	65	396	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1533.039	1539.711	speaker#1	female	native	As the blue and green elected representatives had a difference of opinion, they began to throw punches and kicks, getting themselves into a bloody brawl in the assembly hall, and forcing the suspension of the meeting.	19	65	397	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1539.711	1543.742	speaker#1	female	native	This sort of incident has occurred, not only in the Taiwanese legislature, but also in the Taipei city council.	19	65	398	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1543.742	1546.945	speaker#1	female	native	Likewise, it was owing to a difference of opinion between the blue and green legislators that a scuffle erupted.	19	65	399	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1546.945	1549.929	speaker#1	female	native	In the chaos some people even got their wigs pulled off.	19	65	400	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1551.952	1552.812	Ye_yingchun	female	native	Let's move on to some other news.	20	66	402	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1552.812	1558.499	Ye_yingchun	female	native	The Yangtze River international shipping forum is being held today in Wuhan, with the development of shipping along internal rivers as the main topic.	20	66	403	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1558.499	1559.921	Ye_yingchun	female	native	Reporters at the forum found out that	20	66	404	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1559.921	1566.406	Ye_yingchun	female	native	China plans to invest 15 billion yuan in funds by 2010 to drive the construction of the Yangtze River "golden waterway."	20	66	405	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1567.750	1571.469	Lei_peng	male	native	The main route of the Yangtze River connects together more than 41% of China's total economy.	20	67	407	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1571.469	1573.406	Lei_peng	male	native	In order to adapt to the rapid development of the economy,	20	67	408	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1573.406	1579.641	Lei_peng	male	native	China plans over the next few years to invest 15 billion yuan in funds to drive the construction of this "golden waterway," the Yangtze River.	20	67	409	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1580.766	1583.453	speaker#17	male	native	With the aid of the "golden waterway," the Yangtze River,	20	68	411	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1584.328	1591.530	speaker#17	male	native	the eastern China region can strengthen economic activity with China's central and western regions.	20	68	413	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1592.780	1598.234	Lei_peng	male	native	Over the next few years, China will accelerate the implementation of six large projects, including lane dredging on the Yangtze River and the Three Gorges transport capacity expansion.	20	69	415	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1598.234	1602.796	Lei_peng	male	native	It is estimated that by 2010, water transport volumes along the main route of the Yangtze River will reach 1.3 billion tons,	20	69	416	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1602.796	1605.358	Lei_peng	male	native	the foreign trade freight volume will reach 450 million tons,	20	69	417	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1605.358	1609.389	Lei_peng	male	native	and port container handling capacity will increase by approximately four times compared with 2006.	20	69	418	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1609.389	1614.558	Lei_peng	male	native	The main idea is to drive the construction of the Yangtze River as a "golden waterway," deepen the lower reaches, make the middle reaches smoother, and extend the upper reaches.	20	69	419	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1614.558	1618.510	Lei_peng	male	native	In other words, it is to increase the deep-water levels in the downstream areas and extend water routes in upstream areas.	20	69	420	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1618.510	1624.706	Lei_peng	male	native	We should also be able to ensure the navigability in the dry season of areas in the middle reaches, like Yichang and Wuhan, and bring into play their role as distribution arteries.	20	69	421	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1624.706	1627.300	Lei_peng	male	native	((Lei Peng)) reporting from Wuhan, Hubei, for CCTV.	20	69	422	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1628.441	1630.988	Ye_yingchun	female	native	Okay, more news items. Let's skim through a set of news briefs.	21	70	424	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1632.113	1634.160	speaker#1	female	native	Officials in China's Ministry of Civil Affairs said on the 11th that	21	71	426	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1634.160	1638.972	speaker#1	female	native	in 2006 China had experienced serious natural calamities, with great losses to the people's lives and property.	21	71	427	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1638.972	1644.800	speaker#1	female	native	With the positive development of disaster relief work, the Ministry of Civil Affairs and the Ministry of Finance had increased the level of central disaster relief subsidies,	21	71	428	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1644.800	1649.050	speaker#1	female	native	and had altogether provided 5.102 billion yuan in livelihood and relief subsidy payments to disaster victims.	21	71	429	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1649.050	1653.082	speaker#1	female	native	During the winter, the basic livelihood of people suffering disasters can be guaranteed relatively well.	21	71	430	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1654.129	1659.442	speaker#1	female	native	Interviews and specialized examinations for the 2007 recruitment of China's government civil servants will be conducted successively starting on the 12th.	22	72	432	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1659.442	1662.184	speaker#1	female	native	The interview work will be completed by February 15.	22	72	433	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1662.184	1668.533	speaker#1	female	native	In 2007, more than 530,000 people in China have entered themselves for examinations for 12,724 positions in the state's 89 departments.	22	72	434	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1668.533	1671.299	speaker#1	female	native	The ratio of applicants and recruits is about 42:1.	22	72	435	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1673.069	1676.960	speaker#1	female	native	Starting from this year, a project replacing wood with coal will be implemented in the Great Xing'an Mountain region.	23	73	437	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1676.960	1682.226	speaker#1	female	native	It is planned that the residential consumption of wood will be eliminated within three years to maximize the protection of the ecological environment.	23	73	438	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1682.226	1686.523	speaker#1	female	native	Currently, nearly 5.3 million yuan has been allocated and earmarked for coal-use subsidies	23	73	439	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1686.523	1689.585	speaker#1	female	native	to ensure that families on minimum livelihood insurance benefits can smoothly purchase coal to last the severe winter.	23	73	440	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1742.010	1743.455	Ye_yingchun	female	native	Okay. That's all for this segment of the news.	24	74	442	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1743.455	1746.870	Ye_yingchun	female	native	Coming up next is Focus Today hosted by Lu Jian. Please stay tuned.	24	74	443	report	
+CCTV4_NEWS3_CMN_20070111_075800	0	1746.870	1750.120	Ye_yingchun	female	native	Thank you for watching this edition of China News. This is Ye Yingchun. See you next time.	24	74	444	report	

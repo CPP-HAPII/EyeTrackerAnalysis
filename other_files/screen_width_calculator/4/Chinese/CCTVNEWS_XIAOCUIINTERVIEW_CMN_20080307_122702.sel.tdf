@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'report', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'report', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 58.335999999999999, 68.587000000000003, 74.923000000000002, 121.706, 155.14699999999999, 359.72899999999998, 366.25999999999999, 376.14999999999998, 387.16399999999999, 518.71500000000003, 522.82399999999996, 788.33399999999995, 873.05499999999995, 1342.972, 1397.229, 1903.682, 1945.279, 2262.3200000000002, 2269.9549999999999, 2331.0880000000002, 2336.4099999999999, 2471.5999999999999, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	162.148	166.196	Xu_Shou_Sheng	male	native	{laugh} 也许我还没发觉	5	21	28	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	448.073	449.292	Duan_Ying_Li	male	native	大篷车 {laugh}	9	51	74	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	642.519	644.832	Xu_Shou_Sheng	male	native	{laugh} 那还不行	11	71	104	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	1225.349	1233.350	Cui_Yong_Yuan	male	native	省长我插一句啊,其实西部招商引资的这个条件啊不如东部,是吧,没-没有港口,也没有地理优势	13	99	149	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	1284.343	1289.686	Xu_Shou_Sheng	male	native	兰州拉面,对,还有手抓羊肉 {laugh} ,它是绿色食品	13	109	164	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	1459.978	1485.741	Li_Ju_Zhong	male	native	呃国家环保总局去年七-七月是中旬啊,我陪我们市上领导到国家环保总局汇报我们流域限批工作进展的情况,当时国家环保总局领导也说,你按时不能解限,完不成任务,你必须以后引咎辞职	15	127	202	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	1662.847	1665.911	Yuan_Zhan_Ting	male	native	那没有,那绝对没有 {laugh}	15	151	236	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	1962.247	1974.435	Li_Pei_Xing	male	native	我们是白银市的最大的企业,也是我们甘肃省呃有色金属工业支柱的企业,我们主要现在生产铜铝铅锌	17	176	280	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080307_122702	0	2322.207	2323.712	Cui_Yong_Yuan	male	native	这是演讲台啊/. (())	19	199	318	filler	

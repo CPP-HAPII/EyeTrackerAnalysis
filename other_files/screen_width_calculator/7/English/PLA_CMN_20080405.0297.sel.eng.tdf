@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080405.0297	0	1100.0	1200.0	speaker	unknown	unknown	At present, she is relying on her pension of 14,000 rubles (about 600 U.S. dollars) each month. It is a little bit compared to the high prices in St. Petersburg, but she still lives a decent life.	0	0	0		

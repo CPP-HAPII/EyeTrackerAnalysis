@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0006.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Olympic Torch Arrives in South Korea	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	SEOUL, 27th (AFP)	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	South Korean and Chinese officials have said that the Beijing Olympic torch arrived early this morning in South Korea and that it entered Seoul under tight police protection.	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	The chartered flight carrying the Olympic torch arrived early this morning at 12:58 a.m. Seoul local time (11:58 p.m. on the 26th, Taiwan time) at Incheon Airport after having flown from Japan.	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	1900.000	2250.000	TEXT1	unknown	unkown	An alliance of 63 human-rights, religious and conservative groups said several thousand people would participate in a demonstration.	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	2250.000	2425.000	TEXT1	unknown	unkown	Approximately 8300 police were deployed along the 24-kilometer-long torch-relay route from the Olympic Park to the city hall.	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	2425.000	2600.000	TEXT1	unknown	unkown	The torch relay will run from 2 o'clock this afternoon until 7 o'clock this evening.	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	An official from the South Korean National Police Agency said, "The people attempting to block the torch relay will be arrested and severely punished."	0	0	0		statement
+AFP_CMN_20080427.0006.sgm	0	3200.000	3300.000	TEXT1	unknown	unkown	The torch is scheduled to proceed to North Korea this evening.	0	0	0		statement

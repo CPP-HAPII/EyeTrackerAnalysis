@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0935	0	800.0	900.0	speaker	unknown	unknown	同时，奥运交通指挥部、警车带道队、大型清障救援小分队、涉外涉奥事故处置小分队、科技系统保障小分队依次进行了形象展示。	0	0	0		

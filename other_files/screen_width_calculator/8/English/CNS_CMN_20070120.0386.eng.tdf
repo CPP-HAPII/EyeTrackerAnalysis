@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070120.0386	0	10010.000	10019.900				China to Promote Fair Competition between Chinese and Foreign-funded Financial Companies and Continue to Facilitate Cooperation with Hong Kong and Macao	0	0	0		
+CNS_CMN_20070120.0386	0	20010.000	20019.900				January 20, 2007 20:05	0	0	0		
+CNS_CMN_20070120.0386	0	30010.000	30019.900				Starting from December 11, 2006, China would fully open the financial sector to foreign investment in accordance with China's WTO accession commitments.	0	0	0		
+CNS_CMN_20070120.0386	0	30020.000	30029.900				China News Service, Photo by Hai Niu	0	0	0		
+CNS_CMN_20070120.0386	0	40010.000	40019.900				Chinanews, January 20 The Chinese government held a national financial work conference in Beijing from January 19-20.	0	0	0		
+CNS_CMN_20070120.0386	0	40020.000	40029.900				Wen Jiabao, permanent member of the Political Bureau of the CPC Central Committee and the premier of the State Council, stressed in his keynote speech at the meeting that efforts must be made to actively and steadily push for the opening up of the financial sector to the outside world.	0	0	0		
+CNS_CMN_20070120.0386	0	50010.000	50019.900				Wen Jiabao urged to focus on optimization of the framework for opening up the financial sector while steadily advancing the opening up of capital markets to the outside world.	0	0	0		
+CNS_CMN_20070120.0386	0	60010.000	60019.900				He noted that we should facilitate fair competition between domestic and foreign financial institutions.	0	0	0		
+CNS_CMN_20070120.0386	0	60020.000	60029.900				At the same time we should continue to advance financial collaboration between the mainland, Hong Kong, and Macao.	0	0	0		
+CNS_CMN_20070120.0386	0	70010.000	70019.900				In his speech Wen Jiabao also called for enhancing the oversight capability of the financial sector, strengthening the internal management of financial companies, and ensuring financial stability and security.	0	0	0		
+CNS_CMN_20070120.0386	0	70020.000	70029.900				We should perfect oversight system mechanisms at financial branch institutions and strengthen coordination and cooperation in supervision.	0	0	0		
+CNS_CMN_20070120.0386	0	70030.000	70039.900				Strengthen financial regulatory measures, fortify financial law enforcement, reinforce the effective monitoring and control of cross-border short-term capital flow, speculative capital in particular, expand the force combating money laundering, and continue to deepen reorganization and standardization of the financial system.	0	0	0		
+CNS_CMN_20070120.0386	0	80010.000	80019.900				The main tasks of this conference were summing up financial work of recent years, analyzing the current financial situation, unifying thoughts and understanding, and making overall arrangements for financial work in the upcoming period.	0	0	0		

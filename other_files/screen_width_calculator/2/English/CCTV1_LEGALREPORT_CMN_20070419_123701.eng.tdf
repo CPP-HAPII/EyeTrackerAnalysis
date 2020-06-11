@@ -1,0 +1,183 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 216.27000000000001, 256.97399999999999, 913.47299999999996, 929.17700000000002, 1251.2159999999999, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	216.270	219.660	speaker#1	male	native	The beloved one just fell right under my own wheels,	1	1	1	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	219.660	223.191	Xia_wenhua	male	native	I cannot imagine running over one of my own.	1	2	2	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	224.297	226.562	speaker#2	female	native	(())	1	3	4	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	228.211	234.648	speaker#1	male	native	Passion and law, crime and punishment, how to resolve this contradiction, how to compensate this loss?	1	4	6	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	236.477	239.477	speaker#1	male	native	Legal Report features the balance of family love.	1	4	9	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	256.974	259.974	speaker#3	female	native	Hello everyone, this is Legal Report, welcome to our program today.	2	5	11	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	259.974	262.865	speaker#3	female	native	Before we start our program, let us first watch this video clip.	2	5	12	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	264.897	277.632	speaker#3	female	native	This is a trial scene in the People's Court of Jinjiang City of Fujian Province in early March of this year, the defendant is 29-year-old Xia Wenhua, the plaintiffs are Xia Wenhua's older brother and sister-in-law; also present in court is an insurance company in Quanzhou city.	2	5	14	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	277.632	281.882	speaker#3	female	native	Why were these three parties appearing in the same court?	2	5	17	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	281.882	286.148	speaker#3	female	native	What kind of relationship existed among them; what kind of story happened?	2	5	18	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	286.976	289.148	speaker#4	female	native	The story needs to start from the Xia family:	2	6	20	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	289.148	291.648	speaker#4	female	native	Xia Wenhua and his family were all from Sichuan;	2	6	21	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	291.648	298.945	speaker#4	female	native	five years ago the whole family came to Jinjiang City of Fujian Province and their livelihood was sustained by transporting goods with trucks.	2	6	22	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	299.633	304.930	speaker#4	female	native	The family rented two rooms in the downstairs corner of this building on the outskirts of Jinjiang, and resided there.	2	6	25	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	305.727	311.680	speaker#4	female	native	Although the room is simple and a bit crowded, the whole family lived quite happily there.	2	6	27	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	311.680	319.279	speaker#4	female	native	Especially after the older brother and his wife gave birth to their little daughter, Xia Xinyu, in 2004, which brought much more joy to the entire family.	2	6	28	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	319.878	322.071	speaker#5	female	native	Ah, this picture, when was this, taken?	2	7	31	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	321.013	323.353	speaker#2	female	native	uh, It was taken in the summer.	2	8	33	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	324.244	325.104	speaker#5	female	native	Summer, taken in the summer?	2	11	37	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	325.104	326.823	speaker#2	female	native	Ah, it was taken when it was almost summer.	2	12	38	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	326.823	327.480	speaker#5	female	native	Uh-huh.	2	13	39	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	327.480	329.152	speaker#2	female	native	(()) This is also another one.	2	14	40	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	329.949	331.965	speaker#2	female	native	This is also, also the video.	2	14	42	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	335.653	336.619	speaker#5	female	native	What was she doing there?	2	15	44	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	336.619	340.884	speaker#2	female	native	This was when she was eating, she had nothing to do and played with her uncle.	2	16	45	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	342.680	347.681	speaker#4	female	native	Among all family members, Xia Wenhua was the closest to his niece, little Xinyu; they felt the deepest for one another.	2	17	47	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	347.681	351.134	speaker#4	female	native	Xia Wenhua's favoritism also fell upon his little niece who was only three years old.	2	17	48	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	352.446	357.664	speaker#5	female	native	He would buy her whatever she wanted to eat and wear, +she was like his own daughter, she even slept with him.	2	18	50	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	357.664	360.101	Xia_wenhua	male	native	(()) sensible, right.	2	19	52	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	361.656	364.402	Xia_wenhua	male	native	(()) also liked her personality.	2	19	54	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	364.402	369.324	speaker#4	female	native	Xia Wenhua's care and love for little niece Xinyu even exceeded those of his older brother and sister-in-law;	2	20	55	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	369.324	377.746	speaker#4	female	native	however, a recent incident happened to this family unexpectedly, and changed the destinies of Xia Wenhua and his niece, Xia Xinyu, from then on.	2	20	56	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	379.613	388.535	speaker#6	male	native	(()) the stove in that kitchen was cooking on that high (()), he saw that it was raining, he went to collect, went over to that side (()), went to a simple kitchen.	2	21	59	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	389.473	396.473	speaker#4	female	native	As the two rooms rented by the Xia family were a bit crowded, the landlord agreed for them to build a small kitchen on the side.	2	22	61	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	397.082	404.396	speaker#4	female	native	In the evening of December 16, 2006, Xia Wenhua was driving the family-owned truck, going to buy some sand from a nearby sand field.	2	22	64	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	404.396	408.224	speaker#4	female	native	At that time, the little niece kept badgering him to take her along.	2	22	67	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	408.224	411.568	speaker#4	female	native	Going along was also Xia Wenhua's mother.	2	22	68	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	412.908	425.737	speaker#2	female	native	At that time, it was ((pw)), stopped, stopped, above us (()) were these things and those, (()) (()) we didn't get the best one, got the good one, (()) not the best.	2	23	70	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	427.313	433.313	speaker#4	female	native	After the truck stopped fully at the sand field, Xia Wenhua stepped out of the cab to clear the junk from the cargo area, preparing to load the sand.	2	24	74	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	433.313	435.625	speaker#4	female	native	Xia's mother was going to take a look also.	2	24	76	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	435.625	440.360	speaker#4	female	native	At this time, little Xinyu, who was sitting in the cabin, wanted to get off to urinate.	2	24	77	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	441.939	444.470	speaker#2	female	native	I carried her up, after I carried her up I went to take care of the sand.	2	25	79	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	445.688	449.423	speaker#4	female	native	At that time, Xia Wenhua also finished clearing the container, and returned to the cabin.	2	26	81	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	449.423	453.439	speaker#4	female	native	He got ready to start the truck and drove it to the sand pile to load the sand.	2	26	82	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	454.603	458.603	Xia_wenhua	male	native	(()) We thought, (()) usually it was my mom carrying her.	2	27	84	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	460.494	469.822	speaker#4	female	native	And at this time, Xia Wenhua didn't know that, his mother took little Xinyu off the truck and went away to see the sand, leaving little Xinyu alone not so far away beside the truck.	2	28	86	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	469.822	474.510	speaker#4	female	native	It was about 1 a.m., the truck was shrouded in darkness.	2	28	89	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	482.974	490.917	Xia_wenhua	male	native	I went to drive, I, I didn't think of it, I thought she was there, just like that, didn't think to ask at that time.	2	29	91	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	493.324	499.244	Xia_wenhua	male	native	(()) Right, it jolted.	2	29	95	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	497.416	498.150	speaker#5	female	native	It jolted.	2	30	97	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	499.244	501.915	Xia_wenhua	male	native	How come I felt the bump? I wondered what has happened.	2	31	99	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	501.915	504.633	Xia_wenhua	male	native	My mother cried and yelled at the back.	2	31	100	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	506.383	515.585	speaker#4	female	native	The truck was running on the smooth sand field, and all of a sudden something made it jolt, Xia Wenhua, who was in the cab, had an ominous feeling in his heart immediately;	2	32	102	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	515.585	520.383	speaker#4	female	native	what exactly had happened under the truck, why was his mother crying down there?	2	32	106	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	520.383	531.025	speaker#2	female	native	I heard the sound, the noise, the noise of the brake, I actually ran to the front, that is run to, uh, that side to take a look. (()) I had no idea when I looked, and saw what had happened.	2	33	107	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	531.025	532.121	speaker#2	female	native	I saw that,	2	34	111	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	531.025	532.121	speaker#5	female	native	What did I see?	2	34	110	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	532.121	536.059	speaker#2	female	native	I started to scream, I saw (()) was, was underneath, was pinned there.	2	35	112	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	538.043	540.293	speaker#4	female	native	Xia Wenhua stopped quickly and ran down.	2	36	114	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	540.293	546.152	speaker#4	female	native	Then he saw his most beloved little niece, Xinyu, had been run over by his own wheels.	2	36	115	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	547.009	552.322	Xia_wenhua	male	native	We panicked at that time, I dialed 110, 112, which one (()) should I dial?	2	37	117	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	552.322	556.674	Xia_wenhua	male	native	I was not able to speak clearly when I called, then I asked the owner of the sand field to make the call for me.	2	37	118	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	557.455	560.814	Xia_wenhua	male	native	I held her up and said we would try our best to rescue her.	2	37	120	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	560.814	562.002	speaker#2	female	native	(()) I picked her up.	2	38	121	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	562.002	567.643	speaker#2	female	native	He said (()) I saw him pick up, (()) I heard him yelling and calling, yelling and crying.	2	38	122	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	569.346	573.314	speaker#2	female	native	(()) Don't fall asleep, don't fall asleep, are you hurting? (())	2	38	125	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	573.314	575.798	speaker#2	female	native	(()) He also asked her, are you hurting.	2	38	126	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	578.514	585.546	speaker#4	female	native	This is the sand field where the accident happened to little Xinyu that night; one of the workers of the sand field witnessed the moment of tragedy.	2	39	128	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	586.843	594.552	speaker#7	male	native	When the little child finished urinating, after she did that she ran to the front of the truck, then she ran (()) from under the wheel to the front of the truck.	2	40	131	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	594.552	595.006	speaker#5	female	native	Oh!	2	41	133	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	595.006	601.646	speaker#7	male	native	Then, then didn't, uh, didn't see, nobody saw the child (()) play, uh, she just ran to the front of the truck.	2	42	134	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	601.646	604.707	speaker#7	male	native	The guy didn't know, it was that, that old lady carried her down.	2	42	137	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	604.707	607.332	speaker#5	female	native	Oh, where was that old lady at this time?	2	43	138	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	607.332	613.613	speaker#7	male	native	That old lady, uh, she was uh, at the side (()) maybe not paying attention.	2	44	139	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	613.613	614.138	speaker#5	female	native	Ah.	2	45	141	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	613.613	614.644	speaker#7	male	native	Did not notice.	2	45	140	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	614.644	621.067	speaker#3	female	native	Unfortunately, little Xinyu stopped breathing on the way to the emergency room of the hospital.	2	47	143	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	621.067	634.660	speaker#3	female	native	Thinking of his little niece who died under his own wheels, Xia Wenhua felt the stabbing in his heart every time he thought of that; there was only one word to describe his feelings -- that was cold.	2	47	144	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	635.227	644.431	Xia_wenhua	male	native	Thinking of that, when the accident happened, (()) whole body was cold, just like that.	2	48	147	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	644.431	645.868	speaker#5	female	native	Cold, because of being afraid?	2	49	152	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	646.946	650.368	Xia_wenhua	male	native	I can't imagine that I ran my ((pw)), I ran over the one of my own.	2	50	154	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	650.368	651.197	speaker#5	female	native	Right.	2	51	155	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	651.197	652.134	Xia_wenhua	male	native	Can't imagine.	2	52	156	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	653.774	662.868	speaker#4	female	native	Xia Wenhua said that he could not forgive himself all his life, and the departure of little Xinyu also made her parents, that is Xia Wehhua's older brother and sister-in-law, crazed with grief.	2	53	158	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	663.790	671.915	speaker#4	female	native	When the reporter came to Xia's household, it was already three months after the accident, little Xinyu's mother has not yet extricated herself from the loss of her daughter.	2	53	161	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	679.822	682.119	speaker#2	female	native	No more at all can I think of it.	2	54	164	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	684.593	694.432	speaker#2	female	native	It's like (()) who doesn't eat in the house, nobody taught her, there was one time, (()) mommy, you eat.	2	54	166	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	702.386	706.073	speaker#2	female	native	Now, where to find (()) daughter.	2	54	169	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	709.422	711.070	speaker#2	female	native	I can't find no matter what.	2	54	171	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	717.519	724.927	speaker#4	female	native	Little Xinyu left, even more unexpected for the family was that, Xia Wenhua did not come back after he surrendered himself to the public security department.	2	55	173	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	724.927	731.403	speaker#4	female	native	He was detained on the suspicion of a traffic accident crime, and the Xia's didn't know what kind of misfortune was lying ahead of them.	2	55	174	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	732.106	743.903	speaker#4	female	native	After the accident, the whole family was caught in a conflict; on the one hand, they missed the departed little Xinyu, and on the other, they were concerned about the threatening legal punishment faced by Xia Wenhua.	2	55	176	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	745.778	757.278	speaker#8		native	Anyway, we have been treating him nicely, I felt that we were nice (()) accident like that, I think, if the little girl is in, in heaven, she might as well forgive her youngest uncle, this (()) this is a good result.	2	56	180	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	758.175	759.644	speaker#5	female	native	Can you forgive your son?	2	57	183	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	760.285	762.274	speaker#8		native	Of course I want to forgive my son.	2	58	185	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	763.696	765.337	speaker#8		native	I still forgive my son.	2	58	187	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	765.337	768.902	speaker#3	female	native	My own son crushed my own granddaughter.	2	59	188	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	768.902	783.463	speaker#3	female	native	This incident has caused Xia Wenhua's mother heart-rending grief, but she repeatedly stressed to reporters, the dead one cannot be brought back to life, after such a thing happened, if my own son is held responsible for this, she felt that it was too unworthy of it.	2	59	189	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	783.463	794.447	speaker#3	female	native	Although she felt sorry for little Xinyu when she thought of that, but Xia Wenhua's mother said, if the spirit of little Xinyu knows about this in heaven, she probably would understand.	2	59	195	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	795.166	800.749	speaker#4	female	native	Then, little Xinyu's parents, who are Xia Wenhua's older brother and sister-in-law, can they forgive Xia Wenhua?	2	60	200	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	804.260	809.041	speaker#2	female	native	Definitely, he now, what can he do now?	2	61	204	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	809.760	812.276	speaker#2	female	native	He can't, can't raise the dead to life again.	2	61	206	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	814.265	817.265	speaker#2	female	native	If it could be exchanged, her uncle would be willing to exchange for her.	2	61	208	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	817.265	819.093	speaker#2	female	native	Everybody in our household would be willing to do that.	2	61	209	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	820.437	823.515	speaker#2	female	native	But this is something we cannot do, we can't exchange.	2	61	211	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	825.437	829.797	speaker#4	female	native	The entire family has forgiven Xia Wenhua while they were grieving the loss of one of their dear ones.	2	62	213	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	829.797	834.188	speaker#4	female	native	This made Xia Wenhua, who was in the detention house, feel more self-blamed and guilty.	2	62	214	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	835.359	836.688	Xia_wenhua	male	native	I felt that I have treated her unfairly.	2	63	216	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	838.485	842.446	Xia_wenhua	male	native	I didn't let her go around this world.	2	63	218	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	853.592	859.218	speaker#4	female	native	In early March of this year, Xia Wenhua was prosecuted for the traffic accident and brought to court.	2	64	222	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	859.218	863.531	speaker#4	female	native	While the court was handling the case, the Xia family submitted a joint request.	2	64	223	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	863.531	875.984	speaker#4	female	native	They wrote in the request: We believe that the departure of the niece is the biggest punishment for Xia Wenhua. This is the unanimous request of our family, from the young to the old, that you would be lenient with Xia Wenhua, give him a chance to repent.	2	64	224	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	878.884	889.619	speaker#3	female	native	Since the whole family has forgiven Xia Wenhua, why do we have the scene where Xia Wenhua's older brother and sister-in-law, Xia Wenhua and the insurance company are all appearing in court at the same time?	2	65	228	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	889.619	892.431	speaker#3	female	native	It is because Xia Wenhua had full coverage for his truck.	2	65	231	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	892.431	905.041	speaker#3	female	native	That means if the car had any accident, he would get compensation from the insurance company, so the Xia family took Xia Wenhua to court, and the criminal case is collateral with civil compensation.	2	65	232	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	905.041	911.770	speaker#3	female	native	And that insurance company becomes the third party of the lawsuit; that's why we had that scene at the beginning of the program.	2	65	235	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	913.473	921.724	speaker#1	male	native	A traffic accident brought the family to meet in court, the kinship becomes the dilemma in the insurance claims.	3	66	237	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	923.568	927.240	speaker#1	male	native	Balance of family love, we now come back to Legal Report.	3	66	241	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	929.177	940.854	speaker#4	female	native	In the trial, the Xia family brought out that the full coverage for the truck Xia Wenhua had had, includes the compensation to victims of a traffic accident which is so-called third-party liability insurance.	4	67	243	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	940.854	945.951	speaker#4	female	native	Now, the insurance company should pay relevant insurance compensation in accordance with the contractual agreement;	4	67	247	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	945.951	948.576	speaker#4	female	native	then how did the insurance company respond to that?	4	67	248	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	950.451	967.044	speaker#9	male	native	According to their usual habit, uh, and on that day, the incident occurred at around one o'clock in the morning, and they still took (()) with them, in fact, they are basically living together; therefore, we think that ((she)) should be considered as a family member, not a third party,	4	68	250	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	967.825	984.062	speaker#4	female	native	the insurance company responded. Considering that there may be some conflicts or other reasons among the family members, which caused behavior that cheats the insurance, so it is specifically stipulated in insurance laws that for the insurer and family members of privately owned vehicles, the insurance company is not responsible for third-party liability insurance.	4	69	255	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	984.062	990.202	speaker#4	female	native	In this incident, the victim, Xia Xinyu, was the niece of Xia Wenhua, and could be counted as one of the family members.	4	69	259	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	990.202	994.541	speaker#4	female	native	Therefore, the insurance company would not compensate for Xia Wenhua's killing his niece in the accident.	4	69	260	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	995.080	998.514	speaker#4	female	native	The Xia's found this argument of the insurance company unacceptable.	4	69	262	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	999.302	1005.354	speaker#10	male	native	This is not I, not I, I try to reason it away, this is we, all about us, we are one family, but we (()) are not really counted as one household?	4	70	264	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1005.354	1010.417	speaker#10	male	native	This, we are not even registered as one household, how can you say, (()) is outside, how can you say we are one family.	4	70	266	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1011.448	1022.948	speaker#4	female	native	Xia Wenhua's older brother said, Xia Wenhua and the little niece were only relatives, they cannot be counted to be members of the same household, it is not justifiable for the insurance company not to be willing to compensate on the grounds of family membership.	4	71	268	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1023.588	1029.222	speaker#10	male	native	I think, uh, every time he bought things, uh, that was true, but how can (()) this is not possible to say that we are of the same household.	4	72	273	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1029.222	1033.597	speaker#3	female	native	Today, we have invited Professor Li Dongfang of Chinese University of Political Science and Law as our guest to the studio.	4	73	275	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1033.597	1037.550	speaker#3	female	native	Professor Li, we have now seen that the contradictions are very obvious.	4	73	276	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1037.550	1052.758	speaker#3	female	native	For the insurance company, they have been emphasizing that, uh, the driver and the dead are relatives, uh, the deceased cannot be regarded as the third party as specified in the insurance contract; is it tenable in law? Right.	4	73	277	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1052.758	1056.379	Li_dongfang	male	native	In this third-party liability insurance, there are always some escape clauses.	4	74	282	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1056.379	1056.817	Li_dongfang	male	native	Ah.	4	75	285	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1056.379	1056.817	speaker#3	female	native	Right.	4	75	284	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1056.817	1062.861	Li_dongfang	male	native	In fact, it excludes the family of the policy holder, uh, or vehicle owner, or driver, from the policy.	4	76	286	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1059.193	1059.490	speaker#3	female	native	OK.	4	77	287	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1062.861	1063.201	speaker#3	female	native	Right.	4	79	289	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1063.201	1063.542	Li_dongfang	male	native	Uh.	4	80	290	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1063.201	1063.542	speaker#3	female	native	Yes.	4	80	291	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1063.542	1066.654	Li_dongfang	male	native	This is to prevent moral hazard.	4	81	292	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1066.654	1068.685	Li_dongfang	male	native	How do you define family members?	4	81	293	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1068.685	1072.904	Li_dongfang	male	native	This insurance law does not clearly impose a definition for that.	4	81	294	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1072.904	1077.552	speaker#3	female	native	Uh, because for members of the family, we have a definition of, uh, both narrow and broad	4	82	295	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1077.552	1077.982	Li_dongfang	male	native	senses.	4	83	297	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1077.552	1077.982	speaker#3	female	native	Right.	4	83	298	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1077.982	1089.104	Li_dongfang	male	native	Right. If it is not clearly agreed in the insurance contract, There will be a difference, for such a difference, uh, this judicial or arbitrating body would, uh, conduct a ruling.	4	84	299	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1081.294	1081.595	speaker#3	female	native	Yes.	4	85	301	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1081.595	1081.986	speaker#3	female	native	Yes, yes.	4	86	302	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1089.104	1095.307	speaker#3	female	native	Ultimately, will the court support the argument of the Xia's or the view of the insurance company?	4	88	305	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1096.385	1103.073	speaker#4	female	native	On March 23 of this year, Jinjiang people's court of Fujian Province had reached a verdict on Xia Wenhua's traffic accident on the first trial.	4	89	307	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1104.436	1121.098	speaker#11	male	native	According to relevant stipulations in the laws of the People's Republic of China, it is decided as follows: defendant Xia Wenhua has committed a crime in the traffic accident, and is thus condemned to imprisonment of eight months, and the sentence is suspended for a year.	4	90	310	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1122.598	1129.910	speaker#4	female	native	At the same time, the court judged that this insurance company in Quanzhou would pay a total of 200,000 Yuan to compensate for Xia Xinyu's death and funeral expenses.	4	91	316	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1129.910	1148.561	speaker#12	male	native	the 30th item of the Insurance Act, uh, stipulates that if the insurer (()) disputes the insurance contract provision as policy holder or beneficiary, the arbitration body of the court should rule and judge this case by interpreting the policy at the benefits of insurer.	4	92	318	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1149.374	1153.000	speaker#5	female	native	So you reach a (()) on this basis.	4	93	327	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1153.000	1153.906	speaker#12	male	native	A judgment.	4	94	329	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1153.000	1153.906	speaker#5	female	native	That's correct.	4	94	328	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1153.906	1160.485	speaker#3	female	native	So in this case today, at the end, what is the concept behind the court's judgment?	4	95	330	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1160.485	1165.654	Li_dongfang	male	native	That is, for consumers and insurance companies, there is a difference between the strong and weak,	4	96	332	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1163.884	1164.384	speaker#3	female	native	OK.	4	97	333	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1165.654	1166.076	speaker#3	female	native	right.	4	99	335	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1166.076	1168.763	Li_dongfang	male	native	This insurance company, uh, it is the operator;	4	100	336	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1168.763	1181.231	Li_dongfang	male	native	in comparison, for the consumer, whether on professional knowledge, uh, in information, or in their capability to prove, etc., he is in a weak position, the legislation, uh, is a special protection for him,	4	100	337	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1173.195	1173.700	speaker#3	female	native	um,	4	101	340	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1181.231	1181.476	speaker#3	female	native	OK.	4	103	343	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1181.476	1186.960	Li_dongfang	male	native	Therefore, when there is divergence in the interpretations, it must be done in favor of the consumer.	4	104	344	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1186.960	1188.679	speaker#3	female	native	So let's think about it;	4	105	347	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1188.679	1191.773	speaker#3	female	native	uh, many of us deal with insurance companies.	4	105	348	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1191.773	1194.662	speaker#3	female	native	Just before the insurance is taken, they would tell you all the beautiful things.	4	105	349	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1195.201	1207.977	speaker#3	female	native	Uh, once there is a problem with the claims, insurance companies will come up with one thing after another regarding text and their regulations; as much as possible, they would try to minimize the claims that they are responsible for.	4	105	351	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1207.977	1211.785	speaker#3	female	native	Is there anything that needs to be improved and promoted in this?	4	105	354	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1211.785	1220.342	Li_dongfang	male	native	Yes. Uh, since insurance, uh, tries to dissolve risks with the financial strength gathered from many people, one of its most fundamental characteristics is the involvement of a lot of people.	4	106	355	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1220.342	1220.603	speaker#3	female	native	OK.	4	107	357	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1220.603	1225.325	Li_dongfang	male	native	If you have more consumers staying away from you, this obviously is not conducive to the insurance industry.	4	108	358	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1222.670	1222.887	speaker#3	female	native	Right.	4	109	359	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1225.325	1238.758	speaker#3	female	native	Therefore, the service level of an insurance company, including its level of credibility, to some extent reflects the progress of social civilization, including the soundness of the economic security system.	4	111	361	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1238.758	1246.325	speaker#3	female	native	We buy insurance for our own security; the credibility of the insurance industry is the fundamental foundation on which it can stand in society.	4	111	361	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1246.325	1249.341	speaker#3	female	native	Thank you for watching today's program, and thank you, Professor Li, for participating in this live discussion.	4	111	367	report	
+CCTV1_LEGALREPORT_CMN_20070419_123701	0	1249.341	1251.216	speaker#3	female	native	Tomorrow at the same time, we'll see you again on Legal Report.	4	111	368	report	

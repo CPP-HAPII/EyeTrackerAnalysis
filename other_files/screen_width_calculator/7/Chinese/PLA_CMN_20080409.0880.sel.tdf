@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080409.0880	0	1300.0	1400.0	speaker	unknown	unknown	谈及北京奥运会主体育场“鸟巢”和受到众多好评的国家游泳中心“水立方”等奥运场馆时，阿勒萨尼遗憾没有机会到现场去参观和考察。	0	0	0		

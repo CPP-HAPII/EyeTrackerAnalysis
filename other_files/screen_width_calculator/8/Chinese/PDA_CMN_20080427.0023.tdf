@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0023.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	阿根廷央行大量抛售美元遏制比索贬值	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	阿根廷中央银行２６日发表公告称，为应对阿根廷金融市场出现的美元抢购风潮，阿央行２５日在市场上抛售了３亿美元外汇储备，创下该行近６年来单日抛售美元的最高纪录。	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	阿根廷央行官员称，阿政府经济部长职位易人引起了民众和投资者对经济政策的担忧，他们纷纷抢购美元，造成阿根廷货币比索对美元汇率跌至２００３年１月以来最低水平。	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	由于事先准备不足，阿根廷一些银行出现美元库存不足的情况，更加剧了民众的恐慌情绪。	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	为此，阿根廷央行紧急入市干预，在２５日外汇市场开市不到一个小时内就抛出１亿美元外汇，此后又分批抛售美元以稳定汇率。	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	截至当天汇市闭市，阿央行共抛售３亿美元外汇。	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	阿根廷央行制定的目标是，短期内要将美元对比索汇率稳定在１比３．２０左右。	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	经济学家警告说，目前阿根廷宏观经济基本面良好，但是政府经济政策不明朗，尤其是遏制通货膨胀措施不力。	0	0	0		statement
+PDA_CMN_20080427.0023.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	如果政府不能在短期内稳定市场，很可能加速比索贬值，在金融市场造成剧烈震荡，引发大量外资抽逃。（宋洁云 冯俊扬）	0	0	0		statement

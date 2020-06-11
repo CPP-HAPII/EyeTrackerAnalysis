@@ -1,0 +1,34 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 270.76100000000002, 711.05799999999999, 728.94299999999998, 1320.4169999999999, 1337.749, 3067.973, 3087.2809999999999, 3418.5549999999998, 9999999.0]
+VOA_STRAITSTALK_CMN_20080414_210500	0	207.242	215.715	Ning_Xin	female	native	一列用鲜花装饰的孟加拉国列车今天离开了达卡戒备森严的 (()) 车站,驶向加尔各答	0	0	26	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	262.527	266.868	Ning_Xin	female	native	新加坡 (()) 和台北股市也有下跌	0	0	34	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	494.710	503.125	speaker#3	male	native	本笃十六世是在三年前当选教皇的,在那之前,他被称作是 (())	1	11	66	nontrans	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	511.748	523.276	speaker#3	male	native	在那之后,分析家们表示他的形象开始软化,特别是在他写了许多重要的 (()) 之后, (()) 也就是写给信徒们,强调基督的希望和爱的信件	1	11	68	nontrans	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	525.401	533.066	speaker#5	male	native	他的 (()) 里没有责怪的意思,他的信都是非常激励人心的,神慈爱这是再也基本也不过的了	1	12	70	nontrans	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	606.323	613.539	speaker#6	female	native	在 (()) 时他就说过,不要再有暴力,不要再有流血,让他们停止他吧	1	18	82	nontrans	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	613.539	625.240	speaker#3	male	native	很多美国天主教徒因为近年来许多神父性侵害 (()) 的事件,而使他们的信仰受到动摇,据估计,天主教会花了约十五亿美金与性侵害被害人达成和解	1	19	83	nontrans	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1078.325	1096.189	speaker#8	female	native	他们的对于国际问题的看法呃非常不同,比如说和呃这一个新教派啊,或者是呃 (()) 教会的人呢不一样,所以呢这个呢就是主要的一个美国的天主教徒他们想要听的	3	30	127	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1353.950	1366.936	speaker#9	male	native	呃你好,大卫艾克曼先生你好,呃时代 (()) 这个周刊呢据我所知是一个很好的杂志,虽然我至今无缘看到你的杂志	5	38	153	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1366.936	1380.502	speaker#9	male	native	呃关于宗教问题我觉得最近西方,也就是美国 {cough} 把这个宗教似乎描绘的太美妙了,但是我们所接受的 (()) 来看宗教	5	38	155	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1380.502	1392.322	speaker#9	male	native	在中时期的时候,宗教天主教是很不光彩的,他压制了布鲁罗这个 (()) ,还有 (())	5	38	157	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1392.322	1400.851	speaker#9	male	native	现在似乎给他这个 (()) ,但是这毕竟是天主教会的耻辱,这不能够抹杀吧	5	38	159	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1400.851	1418.149	speaker#9	male	native	呃我觉得现在 (()) 自由,应该你们美国的罗这个总统 (()) , {cough} 就这个华盛顿,还有 (()) 林肯先生,我们中国的孙中山这都是令人吃惊的人物	5	38	161	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1418.149	1426.755	speaker#9	male	native	但是呢讲到宗教,我们中国的这个佛教 (()) ,呃至于讲到伊斯兰教给人--给人是更不敢沟通了	5	38	163	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1440.688	1442.814	speaker#13	male	native	喂	5	40	168	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1442.814	1463.053	speaker#13	male	native	呃我可以讲那个这个那个呃那个什么我们四川那个 (()) 呃反正都说要交六百块钱来,每-每家每户,还有每个人交六百块	5	40	170	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1475.375	1496.954	speaker#14	male	native	呃你好,我想谈一下就是说呃法轮功的问题,因为在这次的不管是西藏骚乱,还是那个奥运火炬传递啊等等,呃都没有看见法轮功他们出来抗议,或者是呃 (()) 呃这个事情	5	42	174	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1541.927	1566.969	speaker#15	male	native	呃至于这次这个教皇这个本笃十六世到美国访问,我认为呃到美国访问和这个中国的关系我就觉得,呃这个美国是一个以基督教文化为主题的一个社会,这个教皇本笃访问这个美国呃也可以从侧面 (()) 现在这个教会他是一种全球化	5	44	182	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1839.847	1841.566	speaker#16	male	native	(()) 你好	5	50	208	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1841.566	1868.241	speaker#16	male	native	我觉得那个呃这个本笃 (()) 本笃朋友啊来美呀,跟那个布什先生我觉得应该都要谈一些各呃私人的一个问题,因为这个他是一个宗教及宗教者,呃宗教都一般都不-不是不太涉及政治,而只关心民生的基础	5	50	210	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	1945.631	1957.812	speaker#18	male	native	如果说哪个 (()) 说现在头三年到头五年,我国的教堂宗那个宗教可以说是哪个人都是信仰都是自由的,我国政府根本就没有任何对教堂进行控制	5	54	223	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	2125.735	2146.839	Fan_Dong_Ning	female	native	我想继续这个问题再请教你哦,那你刚刚提到这个主教任命权的问题,当然是目前中共跟梵蒂冈的一个很大的一个分歧,不过我们其实看到去年北京爱国教会的主教被重新任命的时候,虽然是中共任命的这个 (()) 神父,不过那时候梵蒂冈好像回应并没有非常的激烈,还是审慎的来欢迎这位主教的一个呃上任哦	5	57	236	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	2732.199	2733.777	speaker#22	male	native	{cough} 呃你好	5	70	286	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	2770.946	2782.647	speaker#22	male	native	所以从这个角度来讲呢,我觉得可能就是你说刚才那位呃专家讲就是回归到一个就是老百姓,普通老百姓真正信仰什么的问题 (()) ,我想可能这个很重要	5	70	294	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	2863.110	2885.080	speaker#8	female	native	但是谈到教皇的这一次访问,很有趣的一点就是教皇知道美国是一个非常宗教性很强的一个国家,不光是这个百分这二十五的天主教徒,还有百分这二十四的呃佛印教派,还有呢可能是百分之, (()) 大概百分之七十,或者百分之八十左右的这个美国人说,他们自是基督徒	5	72	302	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	2903.230	2923.793	Fan_Dong_Ning	female	native	那时间还剩下两三分钟哦,最后一个最后一个问题大概请教你,就是说看整个教皇跟美国之间关系,历史的发展哦,我们看这一次教皇访美的重要性,过去的保罗二世他跟雷根总统也好,美国的前任总统也好,他们好像是 (()) 在一个当时的全球呃架构之下是反共的	5	73	304	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	3234.231	3256.558	speaker#12	male	native	第一修正案确实是美国自由的 (()) ,他保障宗教自由,言论自由,出版自由,以及集会自由,也就是说公民有集会权,他还保证 (()) 自由,公民可以就我们国家的法律,或者其他他们不喜欢的事情进行抗议	7	88	339	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	3309.376	3315.509	speaker#10	male	native	每一件展品都展现出来来自不同地方的记者所拥有的报复	7	91	347	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	3315.509	3324.023	speaker#10	male	native	以 (()) 和愉悦的形式交换可靠的咨询,并且通过提供背景材料,帮助了解这个咨询的重要性	7	91	348	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	3324.023	3329.514	speaker#10	male	native	新闻博物馆展品陈列的设计者 (()) 说	7	91	349	report	statement
+VOA_STRAITSTALK_CMN_20080414_210500	0	3337.754	3351.358	speaker#10	male	native	一系列时间线索记录了广播电视 (()) 和互联网新闻发展的重要的里程碑,除了历史展品,参观者还可以通过几十种互动展示项目,参与电视报道	7	93	351	report	statement

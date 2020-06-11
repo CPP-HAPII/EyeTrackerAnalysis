@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1703	0	200.0	300.0	speaker	unknown	unknown	中新网7月2日电 据美国媒体报道，环法冠军阿姆斯特朗的黄金搭档——自行车名将辛卡皮，日前入选美国奥运自行车队。	0	0	0		
+CNS_CMN_20080702.1703	0	500.0	600.0	speaker	unknown	unknown	但是，辛卡皮也有属于自己的纪录，他是第一位参加5届奥运会的美国自行车手。	0	0	0		
+CNS_CMN_20080702.1703	0	700.0	800.0	speaker	unknown	unknown	我从来没想到过能参加5次奥运会的比赛。	0	0	0		

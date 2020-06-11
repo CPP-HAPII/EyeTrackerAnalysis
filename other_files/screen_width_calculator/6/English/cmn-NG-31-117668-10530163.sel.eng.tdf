@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117668-10530163	0	0.0	100.0	speaker	unknown	unknown	The wpi driver in 7.0rc2 is very unstable, ah...	0	0	0		
+cmn-NG-31-117668-10530163	0	100.0	200.0	speaker	unknown	unknown	Does 8-current support T61 hibernation?	0	0	0		

@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 64.689999999999998, 738.38, 872.63800000000003, 1365.5640000000001, 1460.777, 1547.3330000000001, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	176.872	189.801	Zhang_Su_Qing	female	nonnative	想领那个 (()) ,丧葬费呀,都需要这个火化证明,呃退休证,呃那个医-医疗证,呃死亡证明嘛,可是别的证都在我这儿,就这一个证	1	6	13	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	296.455	302.169	Wang_Zhen	female	native	电话打来是 (()) ,过年好吧	1	16	28	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	391.798	412.470	speaker#1	female	native	在于占京生命的最后几个月啊,他曾经去探望过几次,每次都看到张素青在那儿忙前忙后的悉心照料,还觉得这个保姆不错,挺用心的,可是现在呢王珍的看法变了,他觉得张素青这个做保姆的啊用心用得过分了	1	23	42	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	577.881	589.846	Zhang_Su_Qing	female	nonnative	(()) ,呃再说你也跟了我吃了不少苦, (())	1	33	61	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	1035.900	1045.744	speaker#6	male	nonnative	(()) ,脑子也不糊涂,可清楚的很, (())	3	50	93	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	1045.744	1050.229	speaker#7	male	native	办结婚证 (()) 是老于的这个心愿	3	51	94	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	1088.227	1097.618	speaker#2	female	native	在两年多的时间里,身体虚弱的于占京生活几乎不能自理,看病,抓药,洗衣做饭都是张素青来操持	3	55	99	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	1137.329	1147.414	speaker#2	female	native	就这样,两个人建立了恋爱关系,在后来的时间里,他们多次有过办理结婚登记的想法,但是一直没有如愿以偿	3	57	104	report	statement
+CCTV2_ECONOMYANDLAW_CMN_20080329_202815	0	1467.699	1490.511	speaker#8	male	native	本案中这个双方这个呃夫妻关系应当属于这个合法的夫妻关系,这个遗嘱应当属于有效遗嘱,呃 (()) 本案进行判决的时候,应当依照我国继承法的相关规定,按照这个遗嘱继承遗嘱继承进行判决	5	72	130	report	statement

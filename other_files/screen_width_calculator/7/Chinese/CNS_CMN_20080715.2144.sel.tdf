@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2144	0	0.0	100.0	speaker	unknown	unknown	齐鲁晚报:愿“一把手”接访成为制度	0	0	0		
+CNS_CMN_20080715.2144	0	1500.0	1600.0	speaker	unknown	unknown	除了“一把手”接访督办之外，其他各职能部门，也应该尽快加强对信访工作的效能制度建设，形成制度化的解决群众信访问题的长效机制。	0	0	0		

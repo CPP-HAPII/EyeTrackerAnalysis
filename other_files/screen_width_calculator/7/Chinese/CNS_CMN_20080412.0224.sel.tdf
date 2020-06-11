@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080412.0224	0	0.0	100.0	speaker	unknown	unknown	专职人大代表试点值得鼓励	0	0	0		
+CNS_CMN_20080412.0224	0	1200.0	1300.0	speaker	unknown	unknown	专职人大代表的背后，关涉一系列的制度变革，有太多的障碍待突破，有大量的技术细节需斟酌，真可谓牵一发而动全身。	0	0	0		
+CNS_CMN_20080412.0224	0	1400.0	1500.0	speaker	unknown	unknown	专职人大代表列入公务员编制，这就给当下的公务员招录管理体制一个难题。	0	0	0		
+CNS_CMN_20080412.0224	0	1500.0	1600.0	speaker	unknown	unknown	专职人大代表的薪金标准该如何核定，若把人大代表等同于普通公务员，这既不合乎法理，也无法给代表履职以良好的物质支持。	0	0	0		
+CNS_CMN_20080412.0224	0	1700.0	1800.0	speaker	unknown	unknown	专职人大代表也需要人大机关方方面面的制度为之变革。	0	0	0		

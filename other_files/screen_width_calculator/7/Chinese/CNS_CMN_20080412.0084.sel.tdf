@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080412.0084	0	400.0	500.0	speaker	unknown	unknown	克利斯坦森在巴林接受电话访问说：“台风号通过船桥间通信发出标准询问，但没有获得响应，台风号因此发射信号弹。”	0	0	0		
+CNS_CMN_20080412.0084	0	700.0	800.0	speaker	unknown	unknown	据报道，“其中一艘伊朗船只来到距离海军船舰仅两百码处，导致台风号船上船员发射警示用信号弹”。	0	0	0		

@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070131.0354	0	10010.000	10019.900				North Korea Proposes Holding More Events to Further National Reconciliation and Unity	0	0	0		
+PDA_CMN_20070131.0354	0	20010.000	20019.900				January 31, 2007 08:52	0	0	0		
+PDA_CMN_20070131.0354	0	30010.000	30019.900				On June 14, 2006, a delegation from North Korea arrived in Kwangju in South Korea.	0	0	0		
+PDA_CMN_20070131.0354	0	30020.000	30029.900				On that day, about 150 North Korean delegates arrived in South Korea to take part in a "June 15 National Reunification Festival" in joint celebration of the sixth anniversary of the release of the North-South Joint Declaration.	0	0	0		
+PDA_CMN_20070131.0354	0	30030.000	30039.900				North Korea's supreme leader, Kim Jong-il, and the then South Korean president, Kim Dae-jung, signed a historic North-South Joint Declaration in Pyongyang on June 15, 2000.	0	0	0		
+PDA_CMN_20070131.0354	0	30040.000	30049.900				Released by the Xinhua News Agency	0	0	0		
+PDA_CMN_20070131.0354	0	40010.000	40019.900				Xinhua News Agency, Pyongyang, January 30 (Correspondents Gao Haorong and Xia Yu) On the 30th the North Side Committee of the Joint National Committee for Implementing the June 15 Joint Declaration proposed holding more events this year to further reconciliation and unity in the Korean nation and promote the cause of the independent reunification of the Korean peninsula.	0	0	0		
+PDA_CMN_20070131.0354	0	50010.000	50019.900				According to a report by the Korean Central News Agency, the committee held a meeting on that day and proposed holding an event in Pyongyang on June 15 this year to commemorate the seventh anniversary of the release of the North-South Joint Declaration as well as holding an event in South Korea on August 15 with the aim of promoting reunification.	0	0	0		
+PDA_CMN_20070131.0354	0	50020.000	50029.900				The meeting also proposed that all social classes and social organizations in North Korea and South Korea hold a variety of events at the locations agreed on by the two sides to promote reunification.	0	0	0		
+PDA_CMN_20070131.0354	0	60010.000	60019.900				The meeting considered that the whole nation had made "great achievements" in promoting the cause of reunification last year and that solidarity between North Korea, South Korea and overseas Koreans "had been further strengthened," and that contacts and cooperation between non-governmental organizations were "becoming increasingly brisk."	0	0	0		
+PDA_CMN_20070131.0354	0	70010.000	70019.900				North Korea's supreme leader, Kim Jong-il, and the then South Korean president, Kim Dae-jung, signed the North-South Joint Declaration in Pyongyang on June 15, 2000.	0	0	0		
+PDA_CMN_20070131.0354	0	70020.000	70029.900				Following the release of this declaration, relations between North and South Korea. were greatly eased.	0	0	0		

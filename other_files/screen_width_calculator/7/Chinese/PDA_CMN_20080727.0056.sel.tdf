@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080727.0056	0	2100.0	2200.0	speaker	unknown	unknown	1980年，温州的章华妹领取了中国第一张“个体工商户营业执照”，成为改革开放后第一个合法的个体户。	0	0	0		
+PDA_CMN_20080727.0056	0	2600.0	2700.0	speaker	unknown	unknown	*首次大规模放开小商品价格	0	0	0		
+PDA_CMN_20080727.0056	0	2700.0	2800.0	speaker	unknown	unknown	1982年9月16日，国务院决定将160种小商品的价格放开，实行市场调节。	0	0	0		
+PDA_CMN_20080727.0056	0	2800.0	2900.0	speaker	unknown	unknown	*第一台每秒运算上亿次的巨型计算机	0	0	0		
+PDA_CMN_20080727.0056	0	2900.0	3000.0	speaker	unknown	unknown	1983年12月，我国第一台每秒运算一亿次以上的“银河”巨型计算机，由国防科技大学计算机研究所研制成功，它填补了国内巨型计算机的空白。	0	0	0		

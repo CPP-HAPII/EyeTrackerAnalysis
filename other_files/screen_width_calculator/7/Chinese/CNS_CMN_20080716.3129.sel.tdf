@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.3129	0	300.0	400.0	speaker	unknown	unknown	“沈阳地区8座220千伏变电站、75座66千伏变电站全停。”辽宁电力调度中心管理系统告警，主任闵德靖操起电话向省电力公司汇报……10分钟后，全省进入大面积停电1级应急状态。	0	0	0		
+CNS_CMN_20080716.3129	0	500.0	600.0	speaker	unknown	unknown	当日上午，辽宁省以沈阳作为事故区域，举办了迄今为止规模最大、范围最广、针对性最强的电力应急联合演练，涉及全省10余个行业，30多家单位。	0	0	0		
+CNS_CMN_20080716.3129	0	1000.0	1100.0	speaker	unknown	unknown	交警迅速赶到方型广场，雨中一度阻塞的交通渐渐顺畅；沈阳站内，公安人员赶到现场进行人工安检，客运人员在检票口、售票口疏导客流，备用电源启动后，照明灯、信号灯重新亮起；证券公司大屏幕瞬间消失，备用电源启动，股民们再次看见了跳跃的数字；矿井内，1000多名矿工正有序撤离……	0	0	0		
+CNS_CMN_20080716.3129	0	1400.0	1500.0	speaker	unknown	unknown	10时20分，沈阳市政府召开新闻发布会：沈阳地区损失负荷达事故前54%，达到大面积停电事故1级启动条件。	0	0	0		
+CNS_CMN_20080716.3129	0	2300.0	2400.0	speaker	unknown	unknown	*床边要放一支小手电筒、客厅或厨房也须放一盏应急灯或存放一些蜡烛，以备停电应急之需。	0	0	0		
+CNS_CMN_20080716.3129	0	2400.0	2500.0	speaker	unknown	unknown	*要经常检查手电筒和应急灯的电池是否充足，备用一些电池。	0	0	0		

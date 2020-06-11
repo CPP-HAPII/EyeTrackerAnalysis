@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	泰国总理萨玛保证不会减少稻米出口	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社曼谷二十七日电	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	泰国总理萨玛今天保证 ,泰国将不会减少稻米出口,萨玛发表这些谈话时,亚洲人主食的稻米价格持续上涨正引发缺粮的忧虑。	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	1400.000	1500.000	TEXT1	unknown	unkown	萨玛在每周全国电视谈话指出,泰国有充足的稻米供应。	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	泰国是世界最大的稻米出口国。	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	1800.000	2000.000	TEXT1	unknown	unkown	萨玛说:「泰国将不会宣布禁止稻米出口,禁止稻米出口将会破坏泰国的名声。」	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	2200.000	2500.000	TEXT1	unknown	unkown	萨玛解释说,泰国农民如今正在种植两年中的第五期稻作,以确保他们能够满足市场的需求,传统上,泰国农民每年种植两次稻米。	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	萨玛说:「我们现在种植稻米时,不像过去每三个月到四个月才能收成。	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	如今我们每天都有稻米收成,我们将不会遇到稻米短缺问题。」	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	3200.000	3500.000	TEXT1	unknown	unkown	在主要稻米出口国越南与印度为了满足国内需求而禁止出口稻米后,国际市场如今对泰国稻米的需求大为增加。	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	3700.000	4000.000	TEXT1	unknown	unkown	泰国稻米出口商协会最近发表的价格调查显示,主要出口稻米帕苏塔尼香米二十三日的出口价格为每吨九百九十八美元,大约比一个月前上涨百分之三十五。	0	0	0		statement

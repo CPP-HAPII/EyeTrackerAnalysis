@@ -1,0 +1,476 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 139.12, 161.714, 273.42000000000002, 390.10899999999998, 490.245, 584.43600000000004, 598.09199999999998, 645.51199999999994, 722.15200000000004, 802.46400000000006, 923.47900000000004, 936.58900000000006, 1054.691, 1187.577, 1303.6400000000001, 1415.9059999999999, 1552.0309999999999, 1565.124, 1624.6420000000001, 1714.6849999999999, 1910.79, 1984.461, 1998.8219999999999, 2078.5309999999999, 2157.8049999999998, 2211.0540000000001, 2223.4490000000001, 2290.509, 2369.107, 2381.9349999999999, 2496.5189999999998, 2579.0790000000002, 2635.7060000000001, 2665.1840000000002, 9999999.0]
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	139.120	142.605	Wu_xiaoli	female	native	North Korean Foreign Minister Paek Nam-sun died; officials have not revealed the cause of his death.	1	1	1	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	144.933	148.371	Wu_xiaoli	female	native	Indonesian authorities have yet to find any trace of the passenger plane that went missing two days ago.	1	1	3	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	150.777	155.402	Wu_xiaoli	female	native	The KMT passes draft resolution on KMT-PFP alliance, but the PFP is not optimistic about the merger.	1	1	5	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	161.714	163.792	Wu_xiaoli	female	native	Hello, dear viewers. This is Current Events Express.	2	2	7	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	163.792	168.339	Wu_xiaoli	female	native	This is Wu Xiaoli reporting for you around the world on Phoenix Satellite TV Chinese Channel, InfoNews, European Channel, and American Channel.	2	2	8	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	168.980	173.495	Wu_xiaoli	female	native	The Korean Central News Agency has reported today that North Korea's foreign minister Paek Nam-sun has died.	2	2	10	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	173.495	176.339	Wu_xiaoli	female	native	Leader Kim Jong-il has sent a wreath to the funeral home.	2	2	11	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	176.339	181.307	Wu_xiaoli	female	native	But the report did not explain at what time or for what cause Paek Nam-sun had died.	2	2	12	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	181.307	185.479	Wu_xiaoli	female	native	But according to reports from Xinhua News Agency, Paek Nam-sun died of an illness yesterday.	2	2	13	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	185.479	188.995	Wu_xiaoli	female	native	Because most of the power in North Korea is controlled by Kim Jong-il,	2	2	14	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	188.995	193.167	Wu_xiaoli	female	native	observers believe that no major changes will occur in the country's foreign policy.	2	2	15	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	194.807	201.855	speaker#1	female	native	When the Korean Central News Agency reported the news of the death of Paek Nam-sun, it simply said that leader Kim Jong-il had sent a wreath to Paek Nam-sun's funeral home,	2	3	17	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	201.855	203.699	speaker#1	female	native	and expressed condolences on his death.	2	3	18	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	203.699	206.949	speaker#1	female	native	But it did not mention the time of Paek Nam-sun's death or the cause of death.	2	3	19	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	206.949	212.605	speaker#1	female	native	There was a report earlier saying that Paek Nam-sun was suffering from a kidney disease, and recently his health had been getting gradually worse.	2	3	20	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	212.605	216.230	speaker#1	female	native	North Korean authorities did not reveal who would be replacing the foreign minister in his job,	2	3	21	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	216.230	220.589	speaker#1	female	native	but analysts say that power in North Korea is highly concentrated in the hands of Kim Jong-il,	2	3	22	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	220.589	224.449	speaker#1	female	native	and foreign policy is also decided by him. The foreign minister does not have very much real power,	2	3	23	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	224.449	228.449	speaker#1	female	native	so whoever takes over, there will not be too much of a change in North Korea's foreign policy.	2	3	24	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	228.449	231.433	speaker#1	female	native	Since Paek Nam-sun became foreign minister in 1998,	2	3	25	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	231.433	235.105	speaker#1	female	native	relations between North Korea and western nations such as the USA and UK have been extremely strained.	2	3	26	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	235.105	239.183	speaker#1	female	native	Paek Nam-sun warned the USA in a speech at the United Nations in 1999 that	2	3	27	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	239.183	243.465	speaker#1	female	native	any threat or military provocation would incur serious consequences.	2	3	28	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	243.465	248.997	speaker#1	female	native	He said that North Korea, faced with the USA and other hostile nations, lacked the strength to preserve its sovereignty,	2	3	29	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	248.997	253.810	speaker#1	female	native	so North Korea had no choice but to increase the strength of its national defenses and to develop its military strength,	2	3	30	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	253.810	257.357	speaker#1	female	native	even if the Korean people had to tighten their belts.	2	3	31	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	257.357	261.794	speaker#1	female	native	Since the 9/11 incident in the USA, relations between North Korea and the USA have been deteriorating continuously.	2	3	32	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	261.794	265.154	speaker#1	female	native	Yet, during consecutive years of natural disasters, North Korea still wants to develop a nuclear plan,	2	3	33	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	265.154	270.201	speaker#1	female	native	and conducted a nuclear test last year. This has been consistent with the basic position that Paek Nam-sun proposed that year.	2	3	34	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	270.201	271.795	speaker#1	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	2	3	35	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	273.420	279.889	Wu_xiaoli	female	native	For developments related to the death of North Korean Foreign Minister Paek Nam-sun, we'll go now to Xinhua News Agency's Seoul-based correspondent Mr. Li Zhengyu.	3	4	37	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	280.686	281.483	Wu_xiaoli	female	native	Hello, Mr. Li.	3	4	39	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	281.983	282.702	Li_zhengyu	male	native	Hello.	3	5	41	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	282.702	288.124	Wu_xiaoli	female	native	Is there any new information from South Korean authorities on the death of North Korean Foreign Minister Paek Nam-sun? And what are they most concerned about?	3	6	42	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	288.859	289.796	Li_zhengyu	male	native	Uh, all right.	3	7	44	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	289.796	294.343	Li_zhengyu	male	native	So, since the news of the death of Paek Nam-sun came through a KCNA report,	3	7	45	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	294.343	297.984	Li_zhengyu	male	native	the main media in South Korea have been doing extensive follow-up reports.	3	7	46	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	297.984	303.781	Li_zhengyu	male	native	And the media have noted that ever since, ever since 1998, Paek Nam-sun had been ((pw)) -- had been North Korea's foreign minister --	3	7	47	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	303.781	306.719	Li_zhengyu	male	native	had been one of the leaders in North Korea's diplomacy,	3	7	48	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	306.719	309.328	Li_zhengyu	male	native	and was also an expert responsible for South Korea-related affairs.	3	7	49	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	309.328	314.875	Li_zhengyu	male	native	In the 1990s he ((pw)) took part in many inter-governmental talks between South Korea and North Korea.	3	7	50	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	314.875	321.266	Li_zhengyu	male	native	So, in 1984 he even transferred some, uh, aid supplies to South Korea as a Red Cross representative.	3	7	51	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	321.266	325.438	Li_zhengyu	male	native	So, all of the South Korean media and South Korean officials had a deep impression of him,	3	7	52	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	325.438	328.344	Li_zhengyu	male	native	and their assessment of him is also quite good and positive.	3	7	53	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	328.344	335.953	Li_zhengyu	male	native	But so far the South Korean government has not yet had a formal official response to the death of Paek Nam-sun.	3	7	54	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	335.953	341.641	Li_zhengyu	male	native	The South Korean Ministry of Unification has said that the South Korean government does not yet have an, uh, official response,	3	7	55	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	341.641	344.891	Li_zhengyu	male	native	and has not made any decisions such as whether to send a telegram of condolence.	3	7	56	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	344.891	351.001	Li_zhengyu	male	native	So, now that Paek Nam-sun has died, South Korea is currently most concerned about whether there will be any changes in North Korea's foreign policy.	3	7	57	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	351.001	352.907	Li_zhengyu	male	native	South Korea's Yonhap News Agency thinks that	3	7	58	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	352.907	359.486	Li_zhengyu	male	native	after the death of Paek Nam-sun, there won't be too much of a major change in North Korea's policy towards South Korea or its major foreign policy direction.	3	7	59	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	359.486	362.268	Li_zhengyu	male	native	So, an official at South Korea's Ministry of Unification has also said that	3	7	60	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	362.268	366.159	Li_zhengyu	male	native	the death of Paek Nam-sun will not have a great impact on relations between North and South Korea.	3	7	61	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	366.159	371.330	Li_zhengyu	male	native	So, the South Korean media are now still concerned about who will take Paek Nam-sun's position after his death.	3	7	62	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	371.330	378.018	Li_zhengyu	male	native	Well, some of the media think that the current North Korean Ministry of Foreign Affairs vice minister Kang Sok-ju is a strong contender.	3	7	63	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	378.018	385.640	Li_zhengyu	male	native	But some people also say that in the current situation, uh, predicting who will take the position of North Korean foreign minister, uh, is still very difficult.	3	7	64	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	386.405	387.015	Wu_xiaoli	female	native	Okay.	3	8	66	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	386.405	387.015	Li_zhengyu	male	native	Xiaoli.	3	8	67	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	387.015	389.046	Wu_xiaoli	female	native	Thank you very much, Zhengyu, for that report from Seoul.	3	9	68	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	390.109	393.202	Wu_xiaoli	female	native	In related news, relations between Japan and North Korea have always been very tense.	4	10	70	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	393.202	399.406	Wu_xiaoli	female	native	In recent years the two sides have been involved in ongoing diplomatic tussling over issues such as the North Korea nuclear program and the abduction of Japanese hostages.	4	10	71	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	399.406	403.374	Wu_xiaoli	female	native	As to how Japan is reacting to the death of North Korean foreign minister Paek Nam-sun,	4	10	72	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	403.374	407.859	Wu_xiaoli	female	native	we'll now go straight away to ((Fu Zhuhui)), Phoenix Satellite TV's correspondent in Tokyo.	4	10	73	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	407.859	408.781	Wu_xiaoli	female	native	Hello, ((Zhuhui.))	4	10	74	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	409.516	410.407	Fu_zhuhui	female	native	Hello, Xiaoli.	4	11	76	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	410.407	413.141	Wu_xiaoli	female	native	What kind of response has the Japanese government had to the death of Paek Nam-sun?	4	12	77	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	413.907	419.454	Fu_zhuhui	female	native	Right, because today -- I think mainly because, uh, Japan is still having its New Year holiday,	4	13	79	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	419.454	423.282	Fu_zhuhui	female	native	so, about this news -- it wasn't till the afternoon, uh, that it broke,	4	13	80	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	423.282	426.250	Fu_zhuhui	female	native	so, uh, it was carried in a very low-key way.	4	13	81	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	426.250	431.219	Fu_zhuhui	female	native	It felt like they were all, uh, quoting, uh, some reports from the Korean Central News Agency.	4	13	82	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	431.219	436.573	Fu_zhuhui	female	native	So, but what was different was that the Japanese government still regards this official as rather important,	4	13	83	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	436.573	443.026	Fu_zhuhui	female	native	because in the past -- uh, two years ago -- he helped with some of Japan's, uh, kidnapping issues, uh,	4	13	84	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	443.026	451.479	Fu_zhuhui	female	native	for example, he acted as a go-between for one hostage who, uh, met with her husband in Indonesia after she had, uh, returned to Japan.	4	13	85	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	451.479	453.979	Fu_zhuhui	female	native	So, they specifically, uh, mentioned this point.	4	13	86	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	453.979	457.838	Fu_zhuhui	female	native	So, another aspect -- uh, some reports also say that	4	13	87	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	457.838	464.931	Fu_zhuhui	female	native	actually this occasion of his death may not have very much of an impact on some of North Korea's foreign relations.	4	13	88	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	464.931	469.962	Fu_zhuhui	female	native	Because their analysis says that no matter whether on the nuclear issue or in foreign relations,	4	13	89	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	469.962	474.650	Fu_zhuhui	female	native	uh, this official didn't actually hold absolute real power,	4	13	90	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	474.650	481.151	Fu_zhuhui	female	native	uh, so the real power is all held by, uh, Kang Sok-ju, uh, the advisor to, uh, Kim Jong-il.	4	13	91	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	481.151	484.901	Fu_zhuhui	female	native	Of course they are also very interested in who the next, uh, foreign minister will be.	4	13	92	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	484.901	486.089	Fu_zhuhui	female	native	Uh, yes. Xiaoli.	4	13	93	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	486.089	488.105	Wu_xiaoli	female	native	Okay, thank you very much, Zhuhui, for that report from Tokyo.	4	14	94	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	490.245	495.558	Wu_xiaoli	female	native	Paek Nam-sun, who became North Korea's foreign minister in 1998, was a senior North Korean diplomat.	5	15	96	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	495.558	501.449	Wu_xiaoli	female	native	The last time he appeared in public at an international event was at the ASEAN foreign ministers meeting in Kuala Lumpur last July.	5	15	97	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	501.449	504.574	Wu_xiaoli	female	native	Next we'll learn together about Paek Nam-sun's life.	5	15	98	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	505.871	510.996	speaker#1	female	native	Paek Nam-sun was born in 1929 in North Korea's North Hamgyeong Province, and graduated from Pyongyang's Kim Il-sung University.	5	16	100	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	510.996	514.543	speaker#1	female	native	In 1968 he became the deputy head of the Korean Workers' Party department of international affairs,	5	16	101	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	514.543	516.996	speaker#1	female	native	and from this time began to be involved in North Korea's foreign affairs.	5	16	102	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	516.996	521.355	speaker#1	female	native	In the 1970s he attended Red Cross Society talks between North and South Korea.	5	16	103	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	521.355	525.402	speaker#1	female	native	From 1974 to 1979 he was North Korea's ambassador to Poland.	5	16	104	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	525.402	529.746	speaker#1	female	native	After Paek Nam-sun was elected to be North Korea's foreign minister in 1998, he visited China many times.	5	16	105	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	529.746	533.340	speaker#1	female	native	Recently in June 2006 he visited China for eight days,	5	16	106	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	533.340	537.043	speaker#1	female	native	and met with Wen Jiabao, premier of China's State Council, and State Councilor Tang Jiaxuan.	5	16	107	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	537.043	542.231	speaker#1	female	native	Paek Nam-sun's time as foreign minister was exactly the time when the North Korea nuclear issue was attracting attention from all sides.	5	16	108	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	542.231	546.622	speaker#1	female	native	In 2002 Paek Nam-sun had a brief meeting with US Secretary of State Powell,	5	16	109	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	546.622	549.590	speaker#1	female	native	which was the first time the foreign ministers of the two countries had met since 2000.	5	16	110	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	549.590	554.840	speaker#1	female	native	Paek Nam-sun hoped to open a dialogue with the USA, but he requested that the US end its hostile attitude towards North Korea.	5	16	111	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	554.840	561.589	speaker#1	female	native	Paek Nam-sun also named and criticized Japan at an ASEAN forum in July 2005 for spreading seeds of mistrust in Asia.	5	16	112	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	562.128	567.513	speaker#1	female	native	In recent years Paek Nam-sun handed over the work of the six-party talks to Deputy Foreign Minister Kim Kye-gwan to handle, because of problems with his health.	5	16	114	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	567.513	573.435	speaker#1	female	native	The last time he appeared in public was in July 2006 at the ASEAN foreign ministers meeting in Kuala Lumpur.	5	16	115	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	573.435	577.701	speaker#1	female	native	The interpretation among observers is that Paek Nam-sun's death will not produce a profound impact on North Korea's foreign policy, because the important powers in North Korea are held by the leader Kim Jong-il.	5	16	116	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	577.701	582.076	speaker#1	female	native		5	16	117	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	582.076	583.811	speaker#1	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	5	16	118	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	584.436	585.795	Wu_xiaoli	female	native	Coming up next is International Special Line.	6	17	120	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	585.795	589.186	Wu_xiaoli	female	native	Twelve more survivors are saved after the sinking of a ferry in Indonesia.	6	17	121	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	593.233	598.092	Wu_xiaoli	female	native	The Thai military again alleges that the Bangkok bombings were the work of people from the former regime.	6	17	123	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	645.512	647.699	Wu_xiaoli	female	native	Welcome back to Current Events Express. This is International Special Line.	8	19	125	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	648.934	654.873	Wu_xiaoli	female	native	Since the disappearance of a plane carrying 102 passengers on Monday in Indonesia, authorities have not been able to find any trace of the passenger plane.	8	19	127	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	654.873	657.154	Wu_xiaoli	female	native	Rescue workers today enlarged the search area.	8	19	128	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	657.154	662.373	Wu_xiaoli	female	native	The families of those missing are shocked and angry about the mistaken information given out previously by the Indonesian government,	8	19	129	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	662.373	665.139	Wu_xiaoli	female	native	but they are still hoping that their loved ones can survive the disaster.	8	19	130	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	666.654	671.982	speaker#2	male	native	Indonesian rescue services searched for more than ten hours in a wet and slippery mountainous region, but did not find any leads.	8	20	132	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	671.982	677.107	speaker#2	male	native	Authorities have ordered that the search area be expanded to the ocean, and have proceeded with a comprehensive air, land, and sea search.	8	20	133	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	677.107	682.373	speaker#2	male	native	The Boeing 737 passenger plane, carrying 102 passengers, lost contact with the air traffic control tower on Monday.	8	20	134	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	682.373	685.935	speaker#2	male	native	The Ministry of Transport at one point said that the plane had crashed, with twelve survivors,	8	20	135	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	685.935	688.669	speaker#2	male	native	but later it changed its story and said that they had not yet found the passenger plane.	8	20	136	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	688.669	690.903	speaker#2	male	native	Indonesian authorities have apologized for this.	8	20	137	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	690.903	693.762	speaker#2	male	native	It has now been confirmed that there were three US citizens on the plane,	8	20	138	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	693.762	696.434	speaker#2	male	native	but it is not yet clear whether there were any other foreign passengers.	8	20	139	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	696.434	700.684	speaker#2	male	native	The USA's National Transportation Safety Board has sent a back-up team which is expected to arrive on Friday.	8	20	140	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	701.231	705.262	speaker#2	male	native	And the families of the passengers and crew are continuing to wait for news of their loved ones,	8	20	142	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	705.262	707.949	speaker#2	male	native	hoping that their family members can survive the disaster and return safely.	8	20	143	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	707.949	712.996	speaker#2	male	native	They all say they feel extremely disappointed, shocked, and angry about the authorities' release of incorrect information.	8	20	144	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	712.996	718.543	speaker#2	male	native	They accuse the government of playing with the worry and anxiety of families about their loved ones, and cast doubt on the honesty of the officials.	8	20	145	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	718.543	720.418	speaker#2	male	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	8	20	146	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	722.152	728.793	Wu_xiaoli	female	native	In related news, with respect to the ferry sinking incident that occurred last Friday in Indonesia, rescue workers found another twelve survivors today,	9	21	148	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	728.793	731.465	Wu_xiaoli	female	native	but there are still about 400 people unaccounted for.	9	21	149	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	733.043	737.355	speaker#3	female	native	The twelve survivors are all male, and include one six-year-old boy.	9	22	151	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	737.355	746.121	speaker#3	female	native	After drifting in the sea for more than four days, they climbed onto an unmanned oil platform in the sea waters 200 kilometers from where the ferry sank off Central Java Province.	9	22	152	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	746.121	748.043	speaker#3	female	native	They were discovered by rescue workers on Wednesday.	9	22	153	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	748.043	753.418	speaker#3	female	native	The twelve people were very weak and have been taken to a Surabaya hospital for check-ups and treatment.	9	22	154	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	753.418	758.246	speaker#3	female	native	In addition, rescue workers have discovered some survivors in lifeboats floating on the sea.	9	22	155	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	758.246	761.481	speaker#3	female	native	But they have been unable to bring them back to land because the wind and waves are too strong.	9	22	156	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	761.481	764.297	speaker#3	female	native	At the moment they can only drop food and drinking water to them from the air.	9	22	157	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	765.046	766.403	speaker#3	female	native	A survivor says that	9	22	159	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	766.403	770.903	speaker#3	female	native	the sinking of the ferry was quite fast, and that many people went into the sea trapped inside the boat.	9	22	160	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	770.903	777.216	speaker#3	female	native	Also, many people crowded onto the lifeboats and died after they were not rescued for days. Large numbers of dead bodies have been thrown into the sea.	9	22	161	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	777.216	781.435	speaker#3	female	native	The authorities so far have found only twelve bodies, and some of the dead have started to be buried.	9	22	162	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	781.435	785.622	speaker#3	female	native	Large numbers of the families and friends of those missing continue to inquire about their loved ones at the docks and hospitals.	9	22	163	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	785.622	790.684	speaker#3	female	native	The ferry sank in the waves of a storm on the way from Borneo to Surabaya last Friday.	9	22	164	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	790.684	796.778	speaker#3	female	native	At least 212 of the 628 people on board have been saved so far, but about 400 people are unaccounted for.	9	22	165	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	796.778	798.777	speaker#3	female	native	The search and rescue is still underway.	9	22	166	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	799.346	801.105	speaker#3	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	9	22	168	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	802.464	809.339	Wu_xiaoli	female	native	The East Asian Heads of State/Government Summit, which was originally due to be held in December last year, will reconvene from January 10-15 in Cebu, the Philippines.	10	23	170	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	809.339	813.058	Wu_xiaoli	female	native	The leaders of 16 Asian countries have confirmed that they will attend the summit.	10	23	171	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	813.058	818.277	Wu_xiaoli	female	native	The Philippine military has said that at the moment there is no intelligence suggesting that the security of the summit will be threatened.	10	23	172	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	818.277	821.793	Wu_xiaoli	female	native	As well as the leaders of the ten ASEAN member nations, the leaders of China, Japan, South Korea, Australia, New Zealand, and India will attend the summit.	10	23	173	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	821.793	825.949	Wu_xiaoli	female	native		10	23	174	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	825.949	827.730	Wu_xiaoli	female	native	Next we will take a look at a group of international news briefs.	10	23	175	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	829.558	833.730	speaker#1	female	native	After the series of bombings that occurred in Bangkok on +New Year's Eve, security remained tight on Wednesday.	10	24	177	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	833.730	836.995	speaker#1	female	native	Former Prime Minister Thaksin denied being involved in the series of bombings.	10	24	178	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	836.995	840.355	speaker#1	female	native	But Thailand's military council on Wednesday again insisted that	10	24	179	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	840.355	843.838	speaker#1	female	native	the incident was the work of political and military personnel loyal to Thaksin,	10	24	180	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	843.838	845.568	speaker#1	female	native	and that their objective was to overturn the current government.	10	24	181	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	846.138	853.618	speaker#1	female	native	Hasina, the leader of the seventeen-party alliance that is one of Bangladesh's main opposition groups, said on Wednesday that she would boycott the general election to be held on the 22nd.	10	24	183	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	853.618	860.695	speaker#1	female	native	She criticized the temporary government for taking sides with the political party led by former Prime Minister Zia, making it impossible for the election to be held under fair and just conditions.	10	24	184	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	860.821	865.196	speaker#1	female	native	Nugee, the chief spokesperson for the NATO forces in Afghanistan, admitted on Wednesday that	10	24	186	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	865.196	869.352	speaker#1	female	native	the killing of innocent civilians in previous military actions was wrong,	10	24	187	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	869.352	875.080	speaker#1	female	native	and said that their top priority for 2007 was to prevent the harming of innocent civilians in military actions.	10	24	188	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	875.679	879.821	speaker#1	female	native	Iraqi authorities found another 45 dead bodies of civilians on Tuesday in Baghdad.	10	24	190	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	879.821	884.478	speaker#1	female	native	The dead had all been shot to death. It is believed they are the victims in sectarian conflicts.	10	24	191	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	884.478	889.665	speaker#1	female	native	When they were discovered, most had been tied up and blindfolded and had marks showing they had been abused.	10	24	192	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	890.243	895.728	speaker#1	female	native	The state funeral of former US President Ford continued to be held in his home state of Michigan on Wednesday.	10	24	194	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	895.728	897.947	speaker#1	female	native	As the final part of the state funeral,	10	24	195	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	897.947	905.588	speaker#1	female	native	Ford's coffin will be displayed at the Ford Presidential Library in Michigan for the public to pay their last respects. Soon he will be officially buried.	10	24	196	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	906.182	909.979	speaker#1	female	native	Cold winds blowing in the east of India have caused the deaths of at least 27 people.	10	24	198	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	909.979	913.869	speaker#1	female	native	Homeless people have been warming themselves by burning garbage and waste.	10	24	199	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	913.869	918.510	speaker#1	female	native	Because the government has not provided any aid for homeless campers, many people have frozen to death.	10	24	200	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	918.510	922.041	speaker#1	female	native	The meteorological department predicts that soon the temperature will drop even further.	10	24	201	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	922.041	923.479	speaker#1	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	10	24	202	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	924.573	926.010	Wu_xiaoli	female	native	Coming up next we will look at cross-Strait news.	11	25	204	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	926.010	930.651	Wu_xiaoli	female	native	Chen Shui-bian is planning to transit through the USA again, and observers believe that the conditions will not be any better than last year.	11	25	205	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	933.104	936.589	Wu_xiaoli	female	native	Cheng Siwei says that this year's two congresses will consider a property rights law.	11	25	207	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1054.691	1056.800	Wu_xiaoli	female	native	Welcome back to Current Events Express. Let's look at cross-Strait news.	13	27	209	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1058.097	1065.347	Wu_xiaoli	female	native	Taiwanese media are reporting that Chen Shui-bian may make a request to the United States to transit through in January in order to attend the inauguration ceremony of the president of Nicaragua.	13	27	211	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1065.347	1069.269	Wu_xiaoli	female	native	US government departments were on holiday on Tuesday, and have made no comment on the issue for the time being.	13	27	212	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1069.269	1074.160	Wu_xiaoli	female	native	But Taiwan's representative in the USA, David Lee, is speeding up consultation with the US side on the transit plan.	13	27	213	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1074.160	1076.660	Wu_xiaoli	female	native	Some US experts on the cross-Strait issues believe that	13	27	214	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1076.660	1081.707	Wu_xiaoli	female	native	the conditions for this transit by Chen Shui-bian will not be much better than his transit through Guam last year.	13	27	215	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1083.254	1087.917	Mo_naiqian	female	native	Chen Shui-bian hopes to transit through the USA on his way to Nicaragua to attend the inauguration ceremony of the new president on January 10.	13	28	217	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1087.917	1091.479	Mo_naiqian	female	native	Taiwanese representatives in the USA began discussions with the US side in December last year,	13	28	218	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1091.479	1094.089	Mo_naiqian	female	native	but the US authorities have kept delaying, and have not given a clear response.	13	28	219	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1094.089	1098.354	Mo_naiqian	female	native	On Tuesday, David Lee, Taiwan's representative in the USA, had originally planned to attend a Spring Festival media press conference,	13	28	220	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1098.354	1101.760	Mo_naiqian	female	native	but left in a hurry to press negotiations with the US authorities on the transit arrangements.	13	28	221	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1101.760	1107.168	Mo_naiqian	female	native	Only Yao Chia-wen, head of the Examination Yuan, in Washington to attend the funeral of President Ford, attended the press conference.	13	28	222	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1107.168	1111.543	Mo_naiqian	female	native	On Tuesday the US State Department made no comment on Chen Shui-bian's application to transit through the USA.	13	28	223	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1111.543	1115.949	Mo_naiqian	female	native	But since Chen Shui-bian stopped the operations of the National Unification Council despite American opposition in February last year,	13	28	224	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1115.949	1119.965	Mo_naiqian	female	native	senior levels of the Bush administration gave an order that Chen Shui-bian's transits should all be dealt with coolly.	13	28	225	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1119.965	1126.434	Mo_naiqian	female	native	In May last year, when Chen Shui-bian visited Central and South America, the US only agreed to allow Chen Shui-bian to transit through Hawaii and Alaska.	13	28	226	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1126.434	1129.496	Mo_naiqian	female	native	Chen Shui-bian refused to accept this, but was also unable to find suitable transit points.	13	28	227	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1129.496	1132.559	Mo_naiqian	female	native	In the end his charter plane circled in the air in a very embarrassing manner.	13	28	228	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1132.559	1137.466	Mo_naiqian	female	native	In September of the same year, when Chen Shui-bian visited the South Pacific, the US also only allowed him to transit through Guam on the return trip.	13	28	229	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1137.466	1140.356	Mo_naiqian	female	native	Moreover, he could only stop for refueling, with no arrangements to spend the night,	13	28	230	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1140.356	1142.669	Mo_naiqian	female	native	and public events such as news conferences were not allowed.	13	28	231	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1142.669	1149.779	Mo_naiqian	female	native	On Tuesday, US experts on the cross-Strait issues thought that a pattern had been established whereby the US allowed Chen Shui-bian only to transit, and did not allow him to make political appearances,	13	28	232	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1149.779	1151.514	Mo_naiqian	female	native	and that this year there would not be too much of a change.	13	28	233	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1151.514	1155.498	Mo_naiqian	female	native	If Chen Shui-bian's application for transit this time is not for Guam, Hawaii or Alaska,	13	28	234	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1155.498	1159.014	Mo_naiqian	female	native	then it is for Los Angeles or Miami, which are more on the way to Central America.	13	28	235	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1159.014	1165.795	Mo_naiqian	female	native	It is highly unlikely that the US will agree to let Chen Shui-bian transit through points where US politicians or overseas Chinese are concentrated such as New York or San Francisco.	13	28	236	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1165.795	1173.077	Mo_naiqian	female	native	Ortega, the new Nicaraguan president, broke off diplomatic relations with Taiwan and resumed diplomatic relations with the mainland when he was president of Nicaragua 21 years ago.	13	28	237	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1173.077	1176.546	Mo_naiqian	female	native	Most people believe that the future resumption of Chinese-Nicaraguan diplomatic relations is the way things are heading.	13	28	238	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1176.546	1183.733	Mo_naiqian	female	native	And because of this, Chen Shui-bian hopes to attend Ortega's inauguration ceremony in person to do all he can to fend off the crisis of breaking off diplomatic relations.	13	28	239	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1183.733	1185.811	Mo_naiqian	female	native	Mo Naiqian reporting from Washington for Phoenix Satellite TV.	13	28	240	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1187.577	1193.186	Wu_xiaoli	female	native	The KMT Central Standing Committee today passed a draft agreement on a KMT-PFP alliance, agreeing to set up a system for cooperation between the two parties.	14	29	242	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1193.186	1198.218	Wu_xiaoli	female	native	It is hoped that in the legislature elections at the end of this year they can together select the candidates with the greatest hopes of winning the election.	14	29	243	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1198.218	1202.249	Wu_xiaoli	female	native	But the PFP believes that the difficulties facing a merger of the two parties are extremely great.	14	29	244	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1203.999	1210.577	Kong_fanling	female	native	Now that there is a preliminary blueprint for the KMT-PFP cooperation, the KMT Central Standing Committee meeting on the 3rd completed the internal integration of the KMT in the light of a draft agreement on the KMT-PFP alliance.	14	30	246	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1210.577	1215.718	Kong_fanling	female	native	In order to bring together the forces of the pan-blues, the KMT and PFP have decided to develop a more stable partisan alliance,	14	30	247	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1215.718	1222.611	Kong_fanling	female	native	and to increase cooperation on all aspects of policy, the Legislative Yuan and elections, even going further in jointly selecting candidates for the legislature elections at the end of the year.	14	30	248	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1223.228	1233.198	speaker#5	male	native	The KMT and PFP have agreed to use a nomination system to select the candidates with the greatest chances of victory in the single-district parliamentary elections at the end of 2007.	14	31	250	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1233.797	1240.328	speaker#5	male	native	In addition, the two parties will propose policy directions on major issues, and work hard for the general election in 2008.	14	31	252	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1240.328	1246.937	Kong_fanling	female	native	This text has been amended five times, and the KMT stressed that they retained a good-will and optimistic attitude towards alliances.	14	32	253	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1246.937	1249.437	Kong_fanling	female	native	But the PFP thought there would be great difficulties in merging.	14	32	254	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1249.437	1256.192	speaker#5	male	native	I'm not saying that a KMT-PFP alliance is absorbing the PFP, destroying it.	14	33	255	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1256.192	1262.953	speaker#5	male	native	And to form a KMT-PFP alliance, we can't -- as the so-called pan-blues are now explicitly, uh -- the PFP should abandon everything and just, just return to the KMT, and	14	33	256	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1262.953	1266.781	speaker#5	male	native	[then become a user of some system in the KMT.] I don't think this is right.	14	33	257	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1266.781	1269.956	speaker#6	male	native	That's an issue for the KMT's internal integration.	14	34	258	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1270.639	1275.983	speaker#6	male	native	Now, the PFP here, we've actually been forming our platform for a long time, and we've waited for a long time.	14	34	260	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1275.983	1282.968	speaker#6	male	native	And the KMT here, if it can come to a consensus internally, then the two platforms can actually start to, ah, talk.	14	34	261	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1282.968	1286.890	Kong_fanling	female	native	KMT Chairman Ma Ying-jeou has said that green-blue reconciliation is more important than the issue of KMT-CPC cooperation,	14	35	262	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1286.890	1290.031	Kong_fanling	female	native	and was even willing to act as an intermediary to help the DPP connect with the mainland.	14	35	263	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1290.031	1293.250	Kong_fanling	female	native	This statement has been jokingly called "Ma's revisionism" by the media.	14	35	264	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1293.250	1297.187	Kong_fanling	female	native	But Ma Ying-jeou explained twice on the 3rd that there is no such thing as the so-called Ma's revisionism.	14	35	265	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1297.187	1300.312	Kong_fanling	female	native	His position had always been the same; he had never revised his position.	14	35	266	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1300.312	1302.031	Kong_fanling	female	native	Kong Fanling reporting from Taipei for Phoenix Satellite TV.	14	35	267	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1303.640	1311.046	Wu_xiaoli	female	native	Cheng Siwei, vice chairman of the Standing Committee of China's National People's Congress, has appeared as a guest on this station's Shenzhou Q&A program and talked about his legendary experiences.	15	36	269	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1311.046	1318.546	Wu_xiaoli	female	native	Cheng Siwei also gave his view on whether the property rights law that has received so much attention will be passed by the two congresses this year.	15	36	270	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1319.765	1324.140	Zhou_yan	female	native	In the interview, Cheng Siwei first mentioned three major turning points in his life.	15	37	272	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1324.140	1328.186	Zhou_yan	female	native	The first turning point was when he returned alone from Hong Kong to the mainland to fulfill his dream of dedicating himself to his country.	15	37	273	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1328.186	1331.749	Zhou_yan	female	native	The second turning point was going to the USA to study management and to broaden his research horizons.	15	37	274	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1331.749	1336.156	Zhou_yan	female	native	The third turning point was being elected as the chairman of the China Democratic National Construction Association and stepping onto the political stage.	15	37	275	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1336.156	1339.196	Cheng_siwei	male	native	These three are the three major turning points in my life.	15	38	276	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1339.196	1346.360	Cheng_siwei	male	native	At all of these -- these three turning points I needed to have courage, needed -- these were all a new challenge.	15	38	277	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1346.360	1351.641	Cheng_siwei	male	native	So I'm also very happy that I made the right choice at these three key turning points.	15	38	278	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1351.641	1361.093	Zhou_yan	female	native	Cheng Siwei said frankly that from when he returned alone to the mainland at age sixteen to take part in the building of the New China to his present diligent work in an important position among the national leader at over 70 years of age,	15	39	279	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1361.093	1367.859	Zhou_yan	female	native	he has always fulfilled his dream of dedicating himself to his country, and has personally witnessed the close relations between the democratic parties and the CPC in their cooperation.	15	39	280	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1367.859	1374.469	Zhou_yan	female	native	Cheng Siwei also disclosed his judgment on whether the property rights law that has received so much attention will be passed by the two congresses in 2007.	15	39	281	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1375.077	1381.624	Cheng_siwei	male	native	After the property rights law is considered this time, ah -- this is already the seventh time it's been considered,	15	40	283	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1381.624	1386.281	Cheng_siwei	male	native	and we see this consideration of it as extremely important -- after it is considered this time, it will be up to the standing committee --	15	40	284	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1386.281	1392.266	Cheng_siwei	male	native	up to the committee chairman's meeting to decide whether or not to take a vote and pass it at a standing committee meeting --	15	40	285	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1393.016	1400.703	Cheng_siwei	male	native	send it to the, uh, fifth plenary meeting of the tenth Congress for consideration and passing.	15	40	287	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1401.406	1407.234	Zhou_yan	female	native	Also, Cheng Siwei also expressed two hopes: to do more charity work and to teach after his retirement.	15	41	289	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1407.234	1412.015	Zhou_yan	female	native	The detailed content of the interview will be broadcast on Shenzhou Q&A on January 6.	15	41	290	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1412.015	1414.015	Zhou_yan	female	native	Zhou Yan reporting from Beijing for Phoenix Satellite TV.	15	41	291	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1415.906	1423.093	Wu_xiaoli	female	native	At about one o'clock on Wednesday afternoon in Shazui Village, Futian District, Shenzhen, three boys were playing with an unknown object by the side of the road.	16	42	293	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1423.093	1424.969	Wu_xiaoli	female	native	The object suddenly exploded.	16	42	294	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1424.969	1429.391	Wu_xiaoli	female	native	Two of the boys were seriously injured. They were taken to hospital, but died after emergency treatment proved ineffective.	16	42	295	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1429.391	1434.188	Wu_xiaoli	female	native	Another boy is at hospital undergoing emergency treatment now. His life is not in danger.	16	42	296	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1435.625	1440.094	Shen_yu	female	native	These are the two holes left by the explosion of the unknown object in the flowerbeds at the side of the road in Shazui Village, Futian, Shenzhen.	16	43	298	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1440.094	1444.907	Shen_yu	female	native	The rear window of a small van about a meter away from the explosion was also completely smashed. It also left a hole like this.	16	43	299	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1444.907	1448.173	Shen_yu	female	native	The vehicles closest to the explosion have been towed away because they were seriously damaged.	16	43	300	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1448.908	1454.846	Shen_yu	female	native	It is now completely dark, and although the explosion occurred several hours ago, the residents at the scene of the explosion are still very flustered when talking about the incident.	16	43	302	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1454.846	1456.393	Shen_yu	female	native	Did you hear the noise?	16	43	303	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1456.393	1457.425	speaker#7	male	native	The noise was very loud.	16	44	304	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1458.347	1459.691	Shen_yu	female	native	What was the noise like, ah, at the time?	16	45	306	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1459.691	1464.893	speaker#7	male	native	It was like (()) like the noise of cannon -- big cannon -- in our hometown: boom! This kind of a noise.	16	46	307	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1464.893	1466.065	Shen_yu	female	native	How many times did it make this	16	47	308	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1466.065	1466.534	Shen_yu	female	native	sound?	16	48	309	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1466.065	1466.534	speaker#7	male	native	Just one --	16	48	310	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1466.534	1467.206	speaker#7	male	native	one sound.	16	49	311	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1467.206	1468.128	Shen_yu	female	native	Once?	16	50	312	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1468.128	1468.722	speaker#7	male	native	Once.	16	51	313	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1468.722	1470.876	Shen_yu	female	native	Was there any smell? At the time did you...	16	52	314	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1470.876	1471.313	speaker#7	male	native	We --	16	53	315	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1470.876	1471.313	Shen_yu	female	native	...smell it here?	16	53	316	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1471.313	1475.015	speaker#6	male	native	When we ran over from there they were (()).	16	54	317	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1475.015	1478.749	speaker#6	male	native	The two boys and his mother were hugging him, hugging the three like this.	16	54	318	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1478.749	1483.499	speaker#6	male	native	There was also one child (()) crying (()) had just gone.	16	54	319	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1483.499	1487.581	Shen_yu	female	native	The Shenzhen Public Security Bureau held a press conference after the explosion occurred and made a brief statement.	16	55	320	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1488.180	1491.913	speaker#8	male	native	So at about ten past one, ah, this afternoon,	16	56	322	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1492.696	1501.877	speaker#8	male	native	that is, three boys were playing with an unknown object beside +Yifang Road in Futian Village -- Shazui Village, Futian, Shenzhen.	16	56	324	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1502.565	1506.065	speaker#8	male	native	While they were playing, this object suddenly exploded.	16	56	326	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1506.877	1513.192	speaker#8	male	native	Two of the boys were seriously injured. They were taken to hospital, but the emergency treatment was unable to save them.	16	56	328	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1513.854	1515.920	speaker#8	male	native	The other one was slightly injured,	16	56	330	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1516.838	1520.767	speaker#8	male	native	and is now in hospital receiving treatment.	16	56	332	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1520.767	1522.454	Shen_yu	female	native	The Shenzhen police also said that	16	57	333	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1522.454	1524.985	Shen_yu	female	native	this incident was an accident, and there was no human action involved.	16	57	334	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1525.875	1529.922	Shen_yu	female	native	It is said that the three boys who were killed or injured in the explosion all live in Shazui Village.	16	57	336	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1529.922	1536.594	Shen_yu	female	native	After the explosion happened, the two boys, who were five and eight years old, respectively, were brought to this neighborhood clinic, about 150 meters from the site of the explosion, for emergency treatment.	16	57	337	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1536.594	1538.719	Shen_yu	female	native	Because of the seriousness of their injuries, they died after the emergency treatment was unable to save them.	16	57	338	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1538.719	1541.219	Shen_yu	female	native	By the time reporters had rushed here the police were inside taking photographs.	16	57	339	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1541.219	1546.079	Shen_yu	female	native	The other nine-year-old boy was taken to another hospital five minutes from the site of the explosion for emergency treatment,	16	57	340	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1546.079	1548.954	Shen_yu	female	native	and he has now been sent to Shenzhen No. 2 People's Hospital for treatment.	16	57	341	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1548.954	1551.313	Shen_yu	female	native	Shen Yu and Liu Haiyan reporting from Shenzhen for Phoenix Satellite TV.	16	57	342	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1552.031	1553.406	Wu_xiaoli	female	native	Next coming up is Focus on Hong Kong and Macao.	17	58	344	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1553.406	1558.656	Wu_xiaoli	female	native	It has been claimed that the Taiwan Securicor man who recently robbed his own company has fled to Hong Kong; the Security Bureau refuses to comment.	17	58	345	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1559.812	1565.124	Wu_xiaoli	female	native	Hong Kong's +Sing Pao Daily News has been fined 4,200 HK dollars for late payment of salaries; +Sing Pao Daily News staff say they are not satisfied.	17	58	347	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1624.642	1626.892	Wu_xiaoli	female	native	Welcome back to Current Events Express. This is Focus on Hong Kong and Macao.	19	60	349	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1628.423	1633.875	Wu_xiaoli	female	native	The (()) robbery of a cash delivery vehicle in history took place yesterday in Taiwan (()) NT$56 million.	19	60	351	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1633.875	1640.328	Wu_xiaoli	female	native	The Taiwanese police say that a Securicor employee escorting the cash delivery vehicle, who was suspected of robbing his own company, had fled to Hong Kong after the crime came to light.	19	60	352	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1640.328	1645.047	Wu_xiaoli	female	native	But the Hong Kong Security Bureau has refused to comment on related issues, based on a longstanding principle.	19	60	353	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1646.672	1653.344	Wei_yingyin	female	native	Concerning the claim by the Taiwan Police that the Securicor staff member involved took a plane to Hong Kong at lunchtime on the 2nd, a spokesperson for the Hong Kong Security Bureau	19	61	355	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1653.344	1656.656	Wei_yingyin	female	native	said that he would not answer questions about an individual's Hong Kong entry/exit record.	19	61	356	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1656.656	1661.109	Wei_yingyin	female	native	If the Taiwan police needed to ask for assistance, they would contact Hong Kong through Interpol.	19	61	357	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1661.109	1664.249	Wei_yingyin	female	native	And the Hong Kong police also said that they would not comment on individual incidents.	19	61	358	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1664.828	1668.186	Wei_yingyin	female	native	The biggest ever robbery of a cash delivery vehicle in Taiwan took place on the 2nd,	19	61	360	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1668.186	1670.265	Wei_yingyin	female	native	with NT$56 million stolen.	19	61	361	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1670.749	1676.624	Wei_yingyin	female	native	A Group 4 Securicor cash delivery vehicle was discovered by the side of the road by members of the public in Taipei at about three o'clock in the afternoon	19	61	363	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1676.624	1678.764	Wei_yingyin	female	native	with its alarm sounding. They then called the police.	19	61	364	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1678.764	1683.660	Wei_yingyin	female	native	An enormous sum of NT$56 million in the vehicle, originally intended for transfer to the Bank of Taiwan on Baoqing Road, had vanished.	19	61	365	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1684.199	1690.950	Wei_yingyin	female	native	The Securicor employee who had been locked inside the vehicle claimed that the other Securicor worker had drugged his breakfast to knock him out, then stolen the cash.	19	61	367	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1691.518	1696.561	Wei_yingyin	female	native	The name of the Securicor employee involved is Lee Han-yang. He is 45, and has previously been involved in cons.	19	61	369	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1696.561	1699.982	Wei_yingyin	female	native	It is suspected that he made the reckless move because of his large credit card debts.	19	61	370	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1699.982	1706.810	Wei_yingyin	female	native	However there are many questions in this case. Group 4 Securicor, which suffered the incident, had lost contact with the cash delivery vehicle for several hours, yet did not call the police.	19	61	371	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1706.810	1710.857	Wei_yingyin	female	native	The company has suffered three robberies by its own employees in the last nine years.	19	61	372	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1711.435	1713.482	Wei_yingyin	female	native	Wei Yingyin reporting from Hong Kong for Phoenix Satellite TV.	19	61	374	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1726.663	1732.527	Wu_xiaoli	female	native	According to the disclosure by the Taiwanese police, the suspect in Taiwan's biggest robbery of a cash delivery vehicle has fled to Hong Kong,	20	63	377	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1732.527	1735.918	Wu_xiaoli	female	native	and there are signs indicating that the prime suspect might well flee again to the mainland.	20	63	378	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1735.918	1739.199	Wu_xiaoli	female	native	How will this case, which may involve the three territories on both sides of the Strait, develop?	20	63	379	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1739.199	1741.791	Wu_xiaoli	female	native	We have invited current events commentator Mr. He Liangliang onto the program.	20	63	380	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1742.434	1743.059	Wu_xiaoli	female	native	Hello, Mr. He.	20	63	382	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1743.059	1743.652	He_liangliang	male	native	Hello.	20	64	383	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1743.652	1747.929	Wu_xiaoli	female	native	The suspect in the Taiwanese cash delivery vehicle robbery has taken a plane and secretly fled to Hong Kong.	20	65	384	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1747.929	1750.636	Wu_xiaoli	female	native	But the Hong Kong Security Bureau refuses to comment on individual cases.	20	65	385	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1750.636	1754.933	Wu_xiaoli	female	native	Please interpret Hong Kong's official response and how this case might develop.	20	65	386	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1754.933	1760.370	He_liangliang	male	native	Uh, the prime suspect in this case of robbery from the suspect's own company is named Lee Han-yang.	20	66	387	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1760.370	1768.135	He_liangliang	male	native	It can be said that this case is being trumpeted in the media in Taiwan today, because this is the biggest that's ever happened in Taiwan -- it's NT$56 million,	20	66	388	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1768.135	1770.728	He_liangliang	male	native	which is about 14 million renminbi or HK dollars.	20	66	389	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1770.728	1773.057	He_liangliang	male	native	It really is a ((pw)) -- startling, ah, figure.	20	66	390	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1773.057	1779.292	He_liangliang	male	native	So currently the case is like this: what we can be sure of from the flurry of follow-up reports in the Taiwanese media today is that at lunchtime yesterday, Lee Han-yang --	20	66	391	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1779.292	1782.621	He_liangliang	male	native	that is, an hour after he committed the crime -- obviously he'd prepared.	20	66	392	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1782.621	1786.933	He_liangliang	male	native	Then via ((pw)) -- then he fled to Hong Kong via the airport.	20	66	393	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1786.933	1791.604	He_liangliang	male	native	So, also the question is where did this great sum of money of his go?	20	66	394	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1791.604	1797.698	He_liangliang	male	native	According to follow-up reports in the Taiwanese media, most likely the money has been transferred to the mainland through an underground bank,	20	66	395	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1797.698	1799.433	He_liangliang	male	native	because Lee Han-yang's younger brother is in the mainland.	20	66	396	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1799.433	1806.152	He_liangliang	male	native	So the word in Taiwan -- the conclusion in the Taiwanese media is that it is very likely that Lee Han-yang wants to go to mainland China via Hong Kong.	20	66	397	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1806.152	1808.308	He_liangliang	male	native	So, for one thing, he has a younger brother that he can rely on;	20	66	398	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1808.308	1811.761	He_liangliang	male	native	for another, there's no way he could use this huge sum of money in Taiwan.	20	66	399	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1811.761	1814.480	He_liangliang	male	native	If he has sent the money to the mainland,	20	66	400	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1814.480	1817.323	He_liangliang	male	native	then obviously he is hoping that he will be able to use the money on the mainland.	20	66	401	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1817.323	1823.151	He_liangliang	male	native	So, now the questions arise: first the Hong Kong Security Bureau today made the same statement about this case that they always make. It's called "no comment."	20	66	402	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1823.151	1825.370	He_liangliang	male	native	But there are two possibilities with this "no comment."	20	66	403	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1825.370	1828.870	He_liangliang	male	native	First, the Hong Kong police actually also have no idea about Lee Han-yang's whereabouts,	20	66	404	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1828.870	1832.511	He_liangliang	male	native	because this case was only exposed today by the Taiwanese media.	20	66	405	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1832.511	1835.229	He_liangliang	male	native	Lee Han-yang had already arrived in Hong Kong from Taipei yesterday.	20	66	406	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1835.229	1840.386	He_liangliang	male	native	So if Lee Han-yang had already gotten to the mainland from Hong Kong, then there is nothing that the Hong Kong Security Bureau can do.	20	66	407	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1840.386	1846.933	He_liangliang	male	native	So the second possibility is that Lee Han-yang is still in Hong Kong now, and the Hong Kong Security Bureau, that is, the Hong Kong police, have also identified his whereabouts,	20	66	408	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1846.933	1852.495	He_liangliang	male	native	and at the same time have perhaps contacted the Taiwanese police and the mainland police -- that is, both sides of the Strait.	20	66	409	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1852.495	1861.995	He_liangliang	male	native	Particularly if Lee Han-yang is transiting through Hong Kong -- because he's sure to go into the mainland -- generally speaking, it can possibly be -- no matter whether it's by air, uh, that is by plane, or by land --	20	66	410	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1861.995	1864.448	He_liangliang	male	native	then border control will definitely have a record.	20	66	411	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1864.995	1866.651	He_liangliang	male	native	So now another question arises:	20	66	413	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1866.651	1869.697	He_liangliang	male	native	if Lee Han-yang really has fled to mainland China,	20	66	414	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1869.697	1872.806	He_liangliang	male	native	then I am sure that the mainland police will get hold of the related information,	20	66	415	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1872.806	1878.525	He_liangliang	male	native	because a huge sum of money like this being sent to mainland China through an underground bank would actually be quite easy to track down.	20	66	416	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1878.525	1881.791	He_liangliang	male	native	So, the next question is if Lee Han-yang has fled to mainland China,	20	66	417	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1881.791	1884.151	He_liangliang	male	native	and the mainland police have identified his whereabouts,	20	66	418	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1884.151	1887.400	He_liangliang	male	native	will the Taiwanese police ask the mainland police for assistance?	20	66	419	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1887.400	1889.791	He_liangliang	male	native	And ((pw)), if -- after they make this kind of request,	20	66	420	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1889.791	1898.885	He_liangliang	male	native	I judge that based on this kind of cooperation between the police on both sides of the Strait, although there is no agreement, both sides have worked together in the past, the mainland police are likely --	20	66	421	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1898.885	1900.260	He_liangliang	male	native	so it's -- it's also very likely.	20	66	422	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1900.260	1902.776	He_liangliang	male	native	So what will the further developments in the future be like?	20	66	423	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1902.776	1905.276	He_liangliang	male	native	I think that needs the news media to continue to follow it up.	20	66	424	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1905.276	1906.010	He_liangliang	male	native	Xiaoli.	20	66	425	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1906.010	1908.400	Wu_xiaoli	female	native	Okay, thank you very much, Mr. He Liangliang, for your analysis and comments.	20	67	426	nontrans	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1910.790	1919.462	Wu_xiaoli	female	native	A judgment was given in the case of unpaid staff wages at the +Sing Pao Daily News, a long-established Hong Kong newspaper with 67 years of history, at Hong Kong's Eastern Magistrate's Court today.	21	68	428	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1919.462	1924.024	Wu_xiaoli	female	native	The +Sing Pao Daily News admitted eleven charges, and was fined 4,200 HK dollars.	21	68	429	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1924.024	1927.414	Wu_xiaoli	female	native	Many +Sing Pao staff members said they were not satisfied with this judgment.	21	68	430	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1928.742	1932.180	Zhang_lingyun	female	native	Hong Kong's +Sing Pao cut about thirty staff before the New Year.	21	69	432	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1932.180	1934.634	Zhang_lingyun	female	native	Because they were not satisfied with the compensation arrangements, more than ten of them	21	69	433	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1934.634	1938.508	Zhang_lingyun	female	native	had arranged to meet with the owners at the Labour Department on Wednesday afternoon for mediation,	21	69	434	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1938.508	1940.555	Zhang_lingyun	female	native	but the owners never appeared.	21	69	435	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1940.555	1946.414	Zhang_lingyun	female	native	The staff who have already been laid off say that in the past two years the newspaper was continually late in paying salaries.	21	69	436	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1946.414	1950.445	Zhang_lingyun	female	native	Even now it still owes the salaries for November and December of last year.	21	69	437	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1950.445	1955.992	Zhang_lingyun	female	native	And of the staff now working, those who have not received their salaries for last November make up three quarters.	21	69	438	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1955.992	1959.163	Zhang_lingyun	female	native	They could not accept the court's judgment on the non-payment of salaries by the +Sing Pao Daily News.	21	69	439	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1959.163	1962.648	Zhang_lingyun	female	native	They think that a fine of 4,200 HK dollars is not enough to be a deterrent.	21	69	440	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1962.648	1970.930	Zhang_lingyun	female	native	The +Sing Pao Daily News is accused of owing a total of 81,000 HK dollars in wages between February and May last year to three members of staff: a journalist, an editor and a human resources manager.	21	69	441	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1970.930	1975.320	Zhang_lingyun	female	native	The judge said that during the period when the wages were owed, the +Sing Pao Daily News had done its best to pay all of the sum owed,	21	69	442	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1975.320	1979.164	Zhang_lingyun	female	native	and that the salaries owed were connected to accounts problems brought about by the replacement of the old management level by a new one,	21	69	443	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1979.164	1981.024	Zhang_lingyun	female	native	so a relatively small fine was given.	21	69	444	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1981.024	1983.508	Zhang_lingyun	female	native	Zhang Lingyun reporting from Hong Kong for Phoenix Satellite TV.	21	69	445	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1984.461	1986.540	Wu_xiaoli	female	native	In the next segment we will look at financial and science news.	22	70	447	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1986.540	1990.930	Wu_xiaoli	female	native	The Chinese Academy of Sciences predicts that China's trade friction situation will be as serious as ever this year.	22	70	448	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	1993.462	1998.822	Wu_xiaoli	female	native	South Korea uses a robot pregnant woman capable of simulating childbirth to train medical students to deliver babies.	22	70	450	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2078.531	2081.046	Wu_xiaoli	female	native	Welcome back to Current Events express. Let's look at financial news.	24	72	452	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2082.140	2085.265	Wu_xiaoli	female	native	A report from the Chinese Academy of Sciences' Center for Forecasting Science predicts that	24	72	454	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2085.265	2088.093	Wu_xiaoli	female	native	China's trade friction situation will be as serious as ever this year.	24	72	455	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2088.093	2093.327	Wu_xiaoli	female	native	It predicts that China will remain a trade friction hotspot throughout the next several years.	24	72	456	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2094.733	2099.459	speaker#9	female	native	The report, entitled "Analysis and predictions for the import and export situation in China 2007," says that	24	73	458	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2099.459	2104.522	speaker#9	female	native	for a period of a time China's exports will display continued fast growth.	24	73	459	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2104.522	2114.507	speaker#9	female	native	Trade frictions that arise in China's traditionally strong industries, such as the color TV, clothing, shoe and headwear industries will still be the most important among trade frictions between China and developed nations.	24	73	460	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2114.507	2118.273	speaker#9	female	native	But in the long term there will be a decline in trade frictions.	24	73	461	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2118.273	2120.695	speaker#9	female	native	Also, China's emerging strong industries,	24	73	462	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2120.695	2127.788	speaker#9	female	native	such as steel, automobiles, communications equipment and chemical products, will become the new hotspots in China's trade frictions with developed nations.	24	73	463	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2127.788	2131.053	speaker#9	female	native	Developed nations will find it easier to take trade protection measures.	24	73	464	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2131.053	2134.475	speaker#9	female	native	Wang Shouyang, head of the Chinese Academy of Sciences' Center for Forecasting Science, said that	24	73	465	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2134.475	2138.835	speaker#9	female	native	the likelihood of trade disputes involving China occurring in a third country would grow.	24	73	466	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2138.835	2144.867	speaker#9	female	native	Faced with trade frictions, China should actively take appropriate measures; accelerate reform and innovation in its systems;	24	73	467	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2144.867	2150.633	speaker#9	female	native	perfect an economic system that was in line with the regulations of the World Trade Organization as quickly as possible; work to transform economic structures;	24	73	468	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2150.633	2154.695	speaker#9	female	native	and change from an export-oriented economy to an economic model that lays equal emphasis on internal and external demand.	24	73	469	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2154.695	2156.273	speaker#9	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	24	73	470	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2157.805	2159.493	Wu_xiaoli	female	native	Next let's look at a set of financial news briefs.	25	74	472	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2160.884	2165.368	speaker#10	female	native	China's Ministry of Agriculture has proposed a development target for China's agricultural product processing industry in the period of the 11th five-year plan.	25	75	474	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2165.368	2169.040	speaker#10	female	native	It is to strive for an annual growth rate of 12%,	25	75	475	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2169.040	2174.118	speaker#10	female	native	with the output value of the agricultural product processing industry expected to top RMB seven trillion by 2010.	25	75	476	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2174.821	2178.227	speaker#10	female	native	Cao Xinyu, vice chairman of the China Chamber of Commerce for Import and Export of Textiles, said that	25	75	478	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2178.227	2180.930	speaker#10	female	native	although Europe and the US had imposed limits on imports of textiles from China,	25	75	479	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2180.930	2186.746	speaker#10	female	native	he predicted that exports of textiles would still rise this year by 15% to 161 billion US dollars.	25	75	480	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2187.285	2191.367	speaker#10	female	native	In 2006, the accumulated volume of goods handled by Shanghai Port was 537 million metric tons,	25	75	482	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2191.367	2194.710	speaker#10	female	native	and the container volume handled was 21.71 million TEUs,	25	75	483	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2194.710	2198.742	speaker#10	female	native	up 21.2% and 20.1% year-on-year, respectively.	25	75	484	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2198.742	2200.845	speaker#10	female	native	By volume of cargo handled, it remained no. 1 in the world.	25	75	485	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2201.384	2205.460	speaker#10	female	native	The Thai stock market fell by 3% on the first day of trading this year after the long holiday.	25	75	487	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2205.460	2208.779	speaker#10	female	native	Investors were worried that the series of explosions would damage tourists' confidence.	25	75	488	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2209.318	2211.054	speaker#10	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	25	75	490	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2223.449	2225.683	Wu_xiaoli	female	native	Because of continually declining birthrates in South Korea,	27	77	492	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2225.683	2228.901	Wu_xiaoli	female	native	medical students have fewer and fewer chances to practice delivering babies.	27	77	493	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2228.901	2234.448	Wu_xiaoli	female	native	So recently some universities have taken the lead in using a robot capable of simulating childbirth to train students in delivering babies.	27	77	494	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2235.870	2239.120	speaker#10	female	native	The birthing process with the robot pregnant women is exactly the same as for real people.	27	78	496	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2239.120	2243.979	speaker#10	female	native	The fetus's head emerges first from the mother's body, and with the medical student's help it slowly leaves the mother's body.	27	78	497	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2243.979	2246.761	speaker#10	female	native	After the infant is born it is then given a check-up.	27	78	498	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2246.761	2251.979	speaker#10	female	native	If there are blue lights on its face or hands, this indicates that there is something wrong with it, and it must have medical treatment immediately.	27	78	499	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2252.495	2257.401	speaker#10	female	native	Kyung Hee University Medical School in Seoul was the first college in South Korea to introduce the robot pregnant women.	27	78	501	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2257.401	2262.654	speaker#10	female	native	Professors say that one of the benefits of the robots is that it can give the students training in dealing with various problems that arise during childbirth.	27	78	502	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2263.237	2266.994	speaker#10	female	native	And the students think that, along with classroom theory, practicing the process is also extremely important,	27	78	504	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2266.994	2269.400	speaker#10	female	native	and the robot pregnant women are ideal for giving them that opportunity.	27	78	505	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2269.400	2272.150	speaker#10	female	native	The birthrate in South Korea is the lowest of any developed nation.	27	78	506	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2272.150	2275.071	speaker#10	female	native	Each woman gives birth to just 1.08 children on average.	27	78	507	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2275.071	2277.774	speaker#10	female	native	This means that there are fewer and fewer opportunities for medical students to practice.	27	78	508	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2277.774	2281.587	speaker#10	female	native	This university had to buy this machine from the USA for 20,000 US dollars.	27	78	509	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2281.587	2287.040	speaker#10	female	native	The robots might be able to provide training in delivering babies, but South Korea still must face the problem of an aging population.	27	78	510	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2287.040	2288.806	speaker#10	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	27	78	511	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2290.509	2293.634	Wu_xiaoli	female	native	The European Space Agency has started a new space program.	28	79	513	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2293.634	2299.978	Wu_xiaoli	female	native	The COROT satellite that has just been launched into space will use high powered telescopes outside the Earth's atmosphere	28	79	514	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2299.978	2305.916	Wu_xiaoli	female	native	to search for small planets similar to the Earth in the area of the constellation Orion 1,500 light years away.	28	79	515	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2307.291	2312.682	Sun_yong	male	native	The French-made COROT satellite that has just been launched is equipped with an extremely high-functioning telescope.	28	80	517	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2312.682	2317.229	Sun_yong	male	native	It will monitor the constellation Orion and the Milky Way from an altitude of 900 kilometers above the earth,	28	80	518	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2317.229	2322.432	Sun_yong	male	native	and can use the refraction of bright spots during the revolution of stars to observe 120,000 stars.	28	80	519	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2323.151	2355.310	speaker#11	male	native	(())	28	81	521	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2355.310	2360.966	Sun_yong	male	native	The COROT satellite was launched into space on a Russian rocket from the Baikonur cosmodrome in Kazakhstan.	28	82	522	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2360.966	2365.907	Sun_yong	male	native	Scientists hope that this mission will help them to find out the chances of life existing in space.	28	82	523	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2366.446	2368.169	Sun_yong	male	native	Sun Yong reporting from the UK for Phoenix Satellite TV.	28	82	525	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2369.107	2370.248	Wu_xiaoli	female	native	Coming up next is A Snapshot of Society.	29	83	527	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2370.919	2376.591	Wu_xiaoli	female	native	A fake news website claimed that the noose used to hang Saddam was for auction on eBay; some people believed it was true.	29	83	529	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2377.607	2381.935	Wu_xiaoli	female	native	We go again together to have a look at the major cosplay exhibition being held in Tokyo, Japan.	29	83	531	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2496.519	2498.847	Wu_xiaoli	female	native	Welcome back to Current Events Express. This is A Snapshot of Society.	31	85	533	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2500.003	2505.378	Wu_xiaoli	female	native	After Saddam, the former president of Iraq, was executed, a fake news website in the USA said as a joke on Sunday that	31	85	535	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2505.378	2510.597	Wu_xiaoli	female	native	someone had put the noose used to hang Saddam that day on the eBay website for auction.	31	85	536	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2510.597	2514.534	Wu_xiaoli	female	native	And many Chinese news providers took this to be true, and flocked to carry the report.	31	85	537	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2516.002	2518.721	speaker#12	female	native	Several Chinese Internet news providers reported in succession on Wednesday that	31	86	539	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2518.721	2524.032	speaker#12	female	native	the noose used last week to execute Iraq's former president Saddam had been put up for auction on eBay.	31	86	540	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2524.032	2527.798	speaker#12	female	native	After the news came out, it spread very fast on the Internet.	31	86	541	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2528.423	2531.032	speaker#12	female	native	As part of this, Xinhuanet reprinted the story from mainland media that	31	86	543	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2531.032	2534.731	speaker#12	female	native	the noose from Saddam's execution was being auctioned on the Internet for 200,000 US dollars.	31	86	544	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2535.300	2538.063	speaker#12	female	native	China Economic Net also reprinted a report from a mainland newspaper, saying that	31	86	546	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2538.063	2543.054	speaker#12	female	native	if it was bought along with the matching sash used on the day of the execution, the price was 250,000 US dollars.	31	86	547	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2543.683	2547.922	speaker#12	female	native	Nan Meng Daily quoted the US media as saying that related ads stressed that	31	86	549	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2547.922	2551.288	speaker#12	female	native	the noose on auction had been confirmed by the executioners and several eyewitnesses.	31	86	550	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2551.856	2554.188	speaker#12	female	native	CRI Online reprinted a mainland media report that	31	86	552	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2554.188	2558.563	speaker#12	female	native	the auction would finish on February 2 this year, but no-one had made a bid as yet.	31	86	553	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2559.282	2561.642	speaker#12	female	native	But it was originally just a spoof report.	31	86	555	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2561.642	2566.985	speaker#12	female	native	The news was first put on the American fake news website (()) on the 31st of last month,	31	86	556	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2566.985	2568.887	speaker#12	female	native	and (()) means "to fool."	31	86	557	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2569.456	2576.235	speaker#12	female	native	And below the relevant article it stated that the above article is satire, a work of parody and entirely fictitious.	31	86	559	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2576.782	2578.376	speaker#12	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	31	86	561	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2579.079	2581.193	Wu_xiaoli	female	native	Making jokes about dead people is never a good thing.	32	87	563	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2581.881	2590.877	Wu_xiaoli	female	native	To celebrate the traditional half Kumbh Mela, millions of Hindus started to gather in the northern part of India from every corner of the world today to wash in the River Ganges.	32	87	565	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2590.877	2593.752	Wu_xiaoli	female	native	This is part of the biggest religious festival in the world.	32	87	566	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2595.221	2599.112	speaker#10	female	native	Hindus rushing from every corner of the world smeared on greasepaint and stripped naked.	32	88	568	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2599.112	2605.018	speaker#10	female	native	The reason was to bathe in the River Ganges on the most auspicious day, to wash away their sins as preparation for their reincarnation in the next life.	32	88	569	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2605.018	2609.690	speaker#10	female	native	The authorities calculate that in the next six weeks 70 million believers will be arriving,	32	88	570	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2609.690	2612.377	speaker#10	female	native	and the most crowded time will be in ((pw)) and late January.	32	88	571	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2613.065	2617.971	speaker#10	female	native	The Indian government is spending 163 million US dollars on providing basic amenities for the bathing event.	32	88	573	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2617.971	2621.999	speaker#10	female	native	To prevent anyone from carrying out a terror attack, it has especially arranged a bomb squad.	32	88	574	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2622.718	2627.409	speaker#10	female	native	According to Hindu traditions, the great Kumbh Mela is held in turn at India's four sacred places every twelve years.	32	88	576	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2627.409	2629.846	speaker#10	female	native	And there is also another half Kumbh Mela every six years.	32	88	577	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2629.846	2632.143	speaker#10	female	native	The one held this year is a half Kumbg Mela.	32	88	578	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2632.143	2633.893	speaker#10	female	native	This comprehensive report has been brought to you by Phoenix Satellite TV.	32	88	579	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2635.706	2638.706	Wu_xiaoli	female	native	Cosplay is a new kind of culture that has sprung up in the last few years.	33	89	581	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2638.706	2646.456	Wu_xiaoli	female	native	What it usually means is dressing up as some characters from cartoons, anime or electronic games by putting on special costumes.	33	89	582	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2646.456	2653.940	Wu_xiaoli	female	native	Recently 300,000 cartoon and anime fans took part in a major cosplay convention at a cartoon and anime exhibition in Tokyo, Japan.	33	89	583	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2653.940	2656.799	Wu_xiaoli	female	native	At the end of the program, let's go and have a look together.	33	89	584	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2658.362	2661.871	Wu_xiaoli	female	native	This is Current Events Express on January 3, 2007.	33	89	586	report	
+PHOENIX_ASIANJRNL_CMN_20070103_075800	0	2661.871	2665.184	Wu_xiaoli	female	native	This is Wu Xiaoli wishing you peace, joy, and a happy New Year from Hong Kong.	33	89	587	report	

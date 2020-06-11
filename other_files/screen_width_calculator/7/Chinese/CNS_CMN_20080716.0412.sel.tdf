@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.0412	0	700.0	800.0	speaker	unknown	unknown	电磁脉冲(EMP)泛指迅速变化的电磁场在空间的传播，在核爆炸、闪电、太阳黑子及电器火花等状况下都能产生。	0	0	0		
+CNS_CMN_20080716.0412	0	2500.0	2600.0	speaker	unknown	unknown	众所周知，隐形武器的秘密在于靠吸波材料吸收电磁波，从而减少反射从而降低暴露概率。	0	0	0		
+CNS_CMN_20080716.0412	0	2600.0	2700.0	speaker	unknown	unknown	普通雷达发射的电磁波因能量弱可以被吸收，但电磁脉冲武器的能量密度极大，瞬间就能使隐形目标的温度急剧上升从而“原形毕露”。	0	0	0		
+CNS_CMN_20080716.0412	0	2700.0	2800.0	speaker	unknown	unknown	各军事强国“矛与盾并重”	0	0	0		

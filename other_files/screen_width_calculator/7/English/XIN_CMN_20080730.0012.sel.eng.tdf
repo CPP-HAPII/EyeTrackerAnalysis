@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080730.0012	0	0.0	100.0	speaker	unknown	unknown	AAA073033 (Received by the composite section of the International Department). Korea conducted large-scale military exercises in Dokdo.	0	0	0		
+XIN_CMN_20080730.0012	0	300.0	400.0	speaker	unknown	unknown	Korean Air Force sent combat aircrafts, including F-15K, to take part in the exercise that day.	0	0	0		
+XIN_CMN_20080730.0012	0	400.0	500.0	speaker	unknown	unknown	It is reported that the exercise assumed that Korea's early warning radar discovered an unidentified vessel approaching Dokdo. Korea first warned the unidentified vessel through AWACS, then it dispatched F-15K fighter jets and others to conduct armed warnings and expulsion.	0	0	0		

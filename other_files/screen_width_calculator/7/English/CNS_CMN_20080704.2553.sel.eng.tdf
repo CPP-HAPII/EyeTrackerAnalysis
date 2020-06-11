@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.2553	0	200.0	300.0	speaker	unknown	unknown	China News Service, July 4. According to a report of Macao Daily, Guangdong tightened the control over travel to Macao through changes to the "monthly visa", giving rise to the assumption that the Central Government would regulate and control the gambling industry.	0	0	0		
+CNS_CMN_20080704.2553	0	300.0	400.0	speaker	unknown	unknown	But data shows that the gambling revenues of Macao in the month were not "shaken" and chalked up a year-on-year increase of nearly 70% to 9.78 billion yuan. Instead, the retail and hotel industries were affected.	0	0	0		
+CNS_CMN_20080704.2553	0	400.0	500.0	speaker	unknown	unknown	When the summer vacation starts, free travel again changes back to the "two-month visa".	0	0	0		

@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080423.0353	0	400.0	500.0	speaker	unknown	unknown	中新网4月23日电 美国民主党总统参选人希拉里和奥巴马在选举中打的你死我活，最近更接受世界摔角娱乐(WWE)邀请，在其很受欢迎的电视节目《肉搏星期一晚》(Monday Night Raw)中亮相，尝试平息久未解决的选战。	0	0	0		
+CNS_CMN_20080423.0353	0	600.0	700.0	speaker	unknown	unknown	据香港《文汇报》23日报道，对于摔角迷来说可能会感到失望，因为两人不会真的出拳肉搏。	0	0	0		
+CNS_CMN_20080423.0353	0	700.0	800.0	speaker	unknown	unknown	他们拒绝亲身与另一人同场，所以在宾州初选前夕，两人拍下讲话片段在节目中播出，就连共和党参选人麦凯恩也要把讲话加进去。	0	0	0		
+CNS_CMN_20080423.0353	0	800.0	900.0	speaker	unknown	unknown	希拉里让支持者称呼她为“希-罗”，列举她的政纲，以及答应成为“一个会为你上擂台的总统”。	0	0	0		
+CNS_CMN_20080423.0353	0	1000.0	1100.0	speaker	unknown	unknown	最后站着的人可能只是一位女性。”	0	0	0		
+CNS_CMN_20080423.0353	0	1100.0	1200.0	speaker	unknown	unknown	奥巴马向那些华盛顿的既得利益者发出警告，他借用前WWE冠军“The Rock”的名言，露齿笑说：“你知道奥巴马会做什么吗？”麦凯恩则警告二人要在大选中对他小心，因为“麦凯恩后劲凌厉”。	0	0	0		

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0026.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	肯亚总统与反对党领袖达成筹组联合政府协议	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社奈洛比十二日电	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	政治与外交消息人士说 ,肯亚总统吉巴基与即将成为总理的反对党领袖欧丁嘉已达成组织联合政府的协议,新内阁名单将在明天宣布。	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	接近两位领袖的消息人士说:「两位领袖今天举行谈判,并且同意组成新的联合内阁,内阁名单将在明天大约中午的时候公布。」	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	2000.000	2100.000	TEXT1	unknown	unkown	一名西方外交界人士已证实双方达成这项协议。	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	2300.000	2400.000	TEXT1	unknown	unkown	肯亚去年十二月的选举结果曾引争议和暴力事件,并且造成至少一千五百人丧生,数十万人无家可归。	0	0	0		statement
+AFP_CMN_20080413.0026.sgm	0	2400.000	2700.000	TEXT1	unknown	unkown	政府和反对党后来在今年二月签订权力共享协议,以结束冲突。	0	0	0		statement

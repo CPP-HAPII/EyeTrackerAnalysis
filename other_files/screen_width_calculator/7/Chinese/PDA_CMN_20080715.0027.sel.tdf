@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080715.0027	0	400.0	500.0	speaker	unknown	unknown	第十七届中央纪委第二次全会提出，国有企业领导人员不准利用职务上的便利通过同业经营或关联交易为本人或特定关系人谋取利益，不准相互为对方及其配偶、子女和其他特定关系人从事营利性经营活动提供便利条件，不准在企业资产整合、引入战略投资者等过程中利用职权牟取私利等廉洁自律“七项要求”。	0	0	0		

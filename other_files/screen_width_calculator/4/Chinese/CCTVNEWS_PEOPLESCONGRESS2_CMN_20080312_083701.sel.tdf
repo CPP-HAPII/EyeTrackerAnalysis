@@ -1,0 +1,24 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'filler', None]
+;;MM sectionBoundaries	[0.0, 199.86199999999999, 567.673, 1542.1210000000001, 1803.452, 1856.251, 2423.1109999999999, 2658.6970000000001, 3180.306, 3247.3980000000001, 3605.087, 3646.5810000000001, 3733.7710000000002, 3739.6990000000001, 8393.9060000000009, 8401.7600000000002, 10493.725, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	282.541	311.145	speaker#1	male	native	嗯,肯定没有刘翔快啦 {laugh} ,嗯,嗯,嗯	1	2	10	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	449.138	459.997	speaker#1	male	native	{laugh} ,嗯	1	5	20	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	494.593	514.625	speaker#1	male	native	嗯,好,泉灵我也不多耽误你的时间,是不是跑在前头就可以占个好位置啊, {laugh} 好,那现在你就进入会场吧,到时候有最新消息我们再联络,嗯,泉灵呆会见,嗯	1	5	26	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	707.915	731.377	speaker#1	male	native	嗯,对 {laugh}	2	10	47	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	1513.257	1525.570	Wu_Jian_Ming	male	native	你看关于这个所谓陈水扁搞的是什么入联公投,美国多次明确地反对,因为这-这美国讲话是从他利益出发,这个地方发生动荡,影响美国的利益 {cough}	2	19	119	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	1856.251	1857.173	Wu_Jian_Ming	male	native	你好 {cough}	5	23	126	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	1866.059	1868.634	Zhang_Quan_Ling	female	native	喂	5	25	128	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	2033.643	2036.409	speaker#1	male	native	嗯,好,谢谢泉灵的报导	5	31	147	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	2236.470	2255.264	Wu_Jian_Ming	male	native	第三发展中国家,发展中国家是我们外交的基础,对外关系的基础,你看,过去五年中亚哦中和从亚洲发展国家,非洲,拉丁美洲,大幅度往前进展,我刚才举的中国和东盟关系的例子,非洲也是这样	5	32	167	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	3101.208	3115.669	speaker#1	male	native	嗯,对 (())	7	40	254	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	3422.377	3441.161	speaker#1	male	native	{laugh} 嗯	9	44	291	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	3474.049	3495.959	speaker#1	male	native	所以当胡锦涛主席提出这个和谐世界的理念的时候一下子得到世界各国的一种拥护,嗯,和为贵 {laugh} 嗯,嗯	9	44	297	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	3495.959	3512.231	Wu_Jian_Ming	male	native	你不要小看这几个字啊,这个理念跟有些这个--这个--这个--这个西文世界有些理念不大一样的,他那个非常突出是二元对立类,啊我为认同,你一味 (()) 一端,那么认同要消灭一端	9	44	300	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	4562.052	4569.830	speaker#9	male	native	好,下一个问题,请第三排那位,对,就是这位先生 {cough}	13	77	362	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	4749.950	4760.827	speaker#9	male	native	好,下一个问题,哦先那边第十排那位日本记者, {cough}	13	86	372	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	6085.863	6097.073	speaker#9	male	native	这边的,呃这位男士,这边呃对对,这个这个,后面 (())	13	124	438	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	8801.231	8807.016	speaker#9	male	native	好,下一个问题,请那个美联社记者, {cough}	15	204	575	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	9645.243	9650.423	speaker#9	male	native	好,下一个问题,请这位第四排的女士, {cough}	15	235	615	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	10556.680	10572.742	speaker#1	male	native	嗯,嗯 {laugh} 嗯,嗯,嗯,嗯,嗯	16	272	678	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	10620.072	10633.936	Wu_Jian_Ming	male	native	这个--这个变化我想对二十一世纪的国际关系会有很大的影响,所以杨外长今天花了比较多的时间来谈这个问题,我看他的 (()) 很清楚,你这发达国家,因为造成这样一种状况,主要是发达国家造成的	16	272	687	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080312_083701	0	10633.936	10648.341	speaker#1	male	native	{laugh} 对,嗯,要节食的话你不能说我们饿肚子 {laugh}	16	272	688	filler	statement

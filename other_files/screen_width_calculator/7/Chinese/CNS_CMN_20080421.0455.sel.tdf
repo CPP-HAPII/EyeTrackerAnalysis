@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080421.0455	0	500.0	600.0	speaker	unknown	unknown	4月20日，新华社、《人民日报》分别发表题为“建设好国家是表达爱国热情的最好方式”、“爱国主义如何更有力”的文章，陈情“合法有序地表达爱国意愿，以做好本职工作和刻苦学习的实际行动，维护一个有利于中国和平发展的环境”。	0	0	0		
+CNS_CMN_20080421.0455	0	1000.0	1100.0	speaker	unknown	unknown	最理智才最有力量，无理性则无前提。	0	0	0		
+CNS_CMN_20080421.0455	0	1500.0	1600.0	speaker	unknown	unknown	中国如何在这样一个利益纠葛、意识形态多元的世界中自处，如何在各种压力甚至是在“挑剔”中健康成长，如何更加理性和智慧地表达自身和平发展之良愿，如何在坚定地传达与捍卫自身基本价值、维护民族的尊严与利益的同时，也恰如其分地表达自身的诉求与立场，已是现实考验。	0	0	0		

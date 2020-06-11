@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.0205	0	900.0	1000.0	speaker	unknown	unknown	之后，杨又先后窜至10楼、11楼和21楼，在几个不同的房间内趁民警不备，用匕首刺伤5名民警。	0	0	0		

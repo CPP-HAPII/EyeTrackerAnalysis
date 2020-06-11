@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.1541	0	200.0	300.0	speaker	unknown	unknown	秦岭巍峨壮国威，冲天一啸震长空。	0	0	0		
+CNS_CMN_20080715.1541	0	2600.0	2700.0	speaker	unknown	unknown	一次检查，值班的军代表发现一台发动机燃油导管漏油。	0	0	0		
+CNS_CMN_20080715.1541	0	2800.0	2900.0	speaker	unknown	unknown	隐患虽排除了，但更多的疑问在他心中产生：油管为什么漏油？	0	0	0		
+CNS_CMN_20080715.1541	0	3600.0	3700.0	speaker	unknown	unknown	为此，他们推出了故障归零的“六联单”制度：凡是遇到故障，不能就事论事，必须认真研究故障特征，让故障单位、承制车间、设计部门、质检部门、军代表等同时查找原因，共同进行整改。	0	0	0		
+CNS_CMN_20080715.1541	0	4900.0	5000.0	speaker	unknown	unknown	近年来，他们先后研制了发动机智能辅助诊断系统、发动机虚拟维修系统，同时为每台发动机建立了“健康档案”，实现了对发动机全系统全寿命管理。	0	0	0		

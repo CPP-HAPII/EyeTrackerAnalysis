@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 206.14699999999999, 247.32300000000001, 252.15100000000001, 336.22699999999998, 347.024, 377.02800000000002, 386.28399999999999, 592.95299999999997, 617.95299999999997, 635.60299999999995, 639.58699999999999, 642.08600000000001, 645.024, 821.74000000000001, 826.98900000000003, 858.34199999999998, 863.37400000000002, 896.39400000000001, 1106.6120000000001, 1117.5039999999999, 1123.9280000000001, 1155.442, 1161.52, 1444.519, 1450.98, 1764.72, 1769.2049999999999, 1943.7719999999999, 9999999.0]
+CCTVNEWS_PEOPLEINNEWS_CMN_20080331_202701	0	461.577	463.280	Zheng_Yue_Qi	male	native	就是根据他们更好的形式去(())	7	19	41	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080331_202701	0	496.855	501.899	Zheng_Yue_Qi	male	native	那么这种选择呢,应该讲他有呃几个过程,(())	7	31	57	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080331_202701	0	734.845	740.452	Liu_Hai_Bin	male	native	当时我就感到很奇怪,为什么到直播室呢,是不是要录下来给给这个评委看啊	13	58	101	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080331_202701	0	740.452	752.619	Li_Xiao_Meng	female	native	你通过新闻媒体你才知道它这个是(())	13	59	103	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080331_202701	0	1541.085	1545.725	Zheng_Yue_Qi	male	native	因为选了你刚才讲的,选了这个人是不是他们认为也认为(())	25	161	284	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080331_202701	0	1561.275	1569.775	Zheng_Yue_Qi	male	native	那(()),就是我们感到就是我们在工作当中也感到啊,就是呃一公开啊,就透明,一透明呢,就公正	25	161	287	filler	statement
+CCTVNEWS_PEOPLEINNEWS_CMN_20080331_202701	0	1652.401	1658.635	Zheng_Yue_Qi	male	native	(())这些问题,我想它给我们完善这块的工作提出了更多的更高的要求	25	165	301	filler	statement

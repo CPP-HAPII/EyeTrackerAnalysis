@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Thai Prime Minister Samak Pledges Not to Cut Rice Exports	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	AFP on the 27th, Bangkok	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Thai Prime Minister Samak pledged today that Thailand will not cut rice exports. While Samak was making this remark, the continuous rise in prices of rice, a staple food for Asian people, is triggering concerns of food shortage.	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	1400.000	1500.000	TEXT1	unknown	unkown	Samak noted in his weekly national televised address that Thailand has a plentiful supply of rice.	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	Thailand is the largest rice exporter in the world.	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	1800.000	2000.000	TEXT1	unknown	unkown	Samak said: "Thailand will not announce a ban on rice exports. Banning rice exports will destroy Thailand's reputation."	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	2200.000	2500.000	TEXT1	unknown	unkown	Samak explained that Thai farmers are now planting the fifth crop in two years to ensure that they can meet the market demands. Traditionally, Thai farmers plant two crops each year.	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	Samak said: "When we grow rice now, it is not like in the past when it was harvested every three to four months.	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	Nowadays we have rice harvested every day; we will not encounter a problem of rice shortage."	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	3200.000	3500.000	TEXT1	unknown	unkown	At present, international market demand for Thai rice has dramatically increased after Vietnam and India, chief rice exporting countries, banned rice exports to meet their domestic demands.	0	0	0		statement
+AFP_CMN_20080427.0015.sgm	0	3700.000	4000.000	TEXT1	unknown	unkown	The price survey recently published by the Thai Rice Exporters Association shows that the price of Pathumthani fragrant rice, a main rice export, was at 998 US dollars per tonne for export on the 23rd, up about 35% from a month ago.	0	0	0		statement

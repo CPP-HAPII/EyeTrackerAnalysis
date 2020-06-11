@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080423.0212.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	澳大利亚干旱 全球粮食短缺	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	人民网4月23日讯 南半球最大的大米工厂――德尼利昆工厂曾经加工的谷物能够满足两千万人每天的需求量，而长达6年的干旱使澳大利亚的谷物大量减产。	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	澳大利亚大米产量的锐减是过去三个月米价翻倍的重要原因。	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	而粮价的上涨使世界上最大的出口商出口受到严格的限制	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	这次干旱对稻米的影响已经对世界产生了巨大的冲击，这也是迄今为止导致粮价猛增的一个原因。	0	0	0		statement
+PDA_CMN_20080423.0212.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	很多科学家认为这是全球气候升温开始影响粮食产量的最早征兆。（胡琴）	0	0	0		statement

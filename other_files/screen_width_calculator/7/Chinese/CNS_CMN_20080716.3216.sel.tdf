@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.3216	0	300.0	400.0	speaker	unknown	unknown	青年的机遇与责任”精英论坛，召集约500位专业年轻才俊齐集会展，一起窥探国家改革开放的经验及启示，认识内地经济发展轨迹及对香港的影响。	0	0	0		

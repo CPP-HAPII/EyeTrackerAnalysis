@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 70.503, 554.65099999999995, 839.61199999999997, 931.85000000000002, 1619.962, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080329_073002	0	109.647	123.693	speaker#2	male	native	那有些形式的部分其实就我们觉得是比较其次的, (()) 应该是注重实职的部分,就是典礼的呃一个部分呵,我们定的简单,隆重跟朴素这三个原则	1	3	4	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080329_073002	0	305.320	315.380	speaker#4	male	native	(()) 是呃台湾邮政,实际上华理上呢它没有经过法定程序呀,它还是叫做中华邮政	1	11	16	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080329_073002	0	505.101	518.634	speaker#3	female	native	国民党在台湾地区领导人选举中大胜之后,桃园县就传出了 (()) 在五二零之后重新开放的消息,而日前呢台北中正纪念堂也宣布将会在这个月底恢复原样	1	21	29	report	statement

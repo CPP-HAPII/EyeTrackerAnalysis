@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.3029	0	300.0	400.0	speaker	unknown	unknown	面对全人类共同的危机，“中国诱因论”该收场了，燃眉之急是共议对策，而不是转嫁矛盾、推卸责任。	0	0	0		
+CNS_CMN_20080715.3029	0	700.0	800.0	speaker	unknown	unknown	在这个关乎全人类命运的重大问题面前，某些西方发达国家的政要或媒体非但没有反省自身的问题，反而抛出种种令人难以置信的怪论，将原因归咎于中国、印度等发展中国家。	0	0	0		
+CNS_CMN_20080715.3029	0	900.0	1000.0	speaker	unknown	unknown	上周在日本，出席G8峰会的中国国家主席胡锦涛指出，“将粮价上涨归咎于发展中大国是极其不负责任的”，给了这些怪论有力回击。	0	0	0		
+CNS_CMN_20080715.3029	0	1800.0	1900.0	speaker	unknown	unknown	不难看出，抛出这种怪论显然是在混淆视听，推卸发达国家自身的责任。	0	0	0		
+CNS_CMN_20080715.3029	0	2200.0	2300.0	speaker	unknown	unknown	面对全人类共同的危机，“中国诱因论”该收场了，燃眉之急是共议对策，而不是转嫁矛盾、推卸责任。	0	0	0		

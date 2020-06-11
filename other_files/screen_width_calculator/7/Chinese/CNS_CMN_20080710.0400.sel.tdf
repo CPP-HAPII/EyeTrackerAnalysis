@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.0400	0	2100.0	2200.0	speaker	unknown	unknown	发展中国家要在可持续发展框架内，积极采取减缓和适应气候变化的政策措施，为应对气候变化作出力所能及的贡献。	0	0	0		
+CNS_CMN_20080710.0400	0	3100.0	3200.0	speaker	unknown	unknown	我们应该推动完善全球环境基金等现有资金机制，尽快落实适应基金下的活动，为发展中国家适应气候变化提供新的额外的资金支持。	0	0	0		

@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080406.0060.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	武警黄金五支队丰富一线官兵文化生活	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-06 06:20:02   来源：解放军报第1版	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报讯	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	950.000	975.000	TEXT1	unknown	unkown	战立斋、康洁报道：武警黄金五支队矿区作业点驻扎在偏远的大山深处，自然环境恶劣。	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	975.000	987.500	TEXT1	unknown	unkown	3年来，他们累计投资60多万元为矿区作业点通电、安装卫星电视接收器、建起篮球场和文化活动室，并配齐了电视机、棋盘箱、乐器箱、锣鼓箱、图书箱等文体器材。	0	0	0		statement
+PLA_CMN_20080406.0060.sgm	0	987.500	1000.000	TEXT1	unknown	unkown	他们还结合矿区作业实际制定了文化活动计划，建立文化活动组织，定期开展文化活动，丰富官兵文化生活。	0	0	0		statement

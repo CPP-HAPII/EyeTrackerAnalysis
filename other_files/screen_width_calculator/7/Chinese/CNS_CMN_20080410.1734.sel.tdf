@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.1734	0	500.0	600.0	speaker	unknown	unknown	此前曾有消息说，球王马拉多纳被确定为布宜诺斯艾利斯火炬接力第一棒，不过目前仍无定论。	0	0	0		

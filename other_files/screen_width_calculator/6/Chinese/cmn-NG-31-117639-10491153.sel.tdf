@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117639-10491153	0	0.0	100.0	speaker	unknown	unknown	装了win2k pro。	0	0	0		
+cmn-NG-31-117639-10491153	0	200.0	300.0	speaker	unknown	unknown	装了以后显示是sp4，但一样不支持2cpu，给了256m，但一进系统就被吃掉一办多。	0	0	0		
+cmn-NG-31-117639-10491153	0	500.0	600.0	speaker	unknown	unknown	居然运行QQ的时候提示我，我已经登录最大数了。。。。一看内存只有6m左右了。	0	0	0		

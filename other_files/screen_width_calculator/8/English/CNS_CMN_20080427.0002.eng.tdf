@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0002.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Thirty-six Prisoners in Brazil Succeed in Tunneling Their Way out of a Prison; Officials Call it a Collusion with Prison Guards	0	0	0		statement
+CNS_CMN_20080427.0002.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008, 20:38, Source: Xinhuanet.com - Comment	0	0	0		statement
+CNS_CMN_20080427.0002.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Thirty-six prisoners in a prison in Brazil's northeast state of Paraiba dug a six-meter-long tunnel and succeeded in escaping from the prison on the 26th.	0	0	0		statement
+CNS_CMN_20080427.0002.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	Pedro Adalson, director of the Penitentiary Administration of Paraiba state, said that the prison authorities have so far captured only one escaped prisoner and the relevant department is carrying out a special manhunt in the city of Campina Grande, where the prison was located, as well as its surrounding areas.	0	0	0		statement
+CNS_CMN_20080427.0002.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Adalson said that this escape from the prison was completely due to the prison's negligence because there were 64 prison guards on duty when the prisoners made their escape.	0	0	0		statement
+CNS_CMN_20080427.0002.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	At the same time he believed that those prisoners might have colluded with the prison guards.	0	0	0		statement
+CNS_CMN_20080427.0002.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	It was learned that this prison could accommodate only 400 prisoners, but like other prisons in Brazil, it was seriously overcrowded, with the current number of prisoners detained here reaching 1,081 people. (Correspondents Zhao Yan and Chen Weihua)	0	0	0		statement

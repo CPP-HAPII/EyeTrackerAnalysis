@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.1420	0	1000.0	1100.0	speaker	unknown	unknown	新世纪的出国留学者，自费出国打工赚钱，“小皇帝”开始体会到生存艰辛，形成自己的人生观和价值观。	0	0	0		
+CNS_CMN_20080725.1420	0	2300.0	2400.0	speaker	unknown	unknown	回国后，万成拒绝了父母为其安排的好工作，到了一家网络公司做业务员。	0	0	0		

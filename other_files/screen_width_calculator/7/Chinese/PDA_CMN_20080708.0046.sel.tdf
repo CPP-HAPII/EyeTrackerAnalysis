@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080708.0046	0	600.0	700.0	speaker	unknown	unknown	今年2月26日，泰国选举委员会经调查认定，荣育在清莱府参选下议员时，召集当地10名村长，协商收买村民选票，并发给每人2万铢作为前期活动经费。	0	0	0		

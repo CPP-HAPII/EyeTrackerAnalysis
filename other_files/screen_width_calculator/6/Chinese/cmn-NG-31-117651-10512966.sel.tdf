@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10512966	0	300.0	400.0	speaker	unknown	unknown	公元前594年鲁国正式宣布实行“初税亩”，不久其它各国纷纷仿效，中国的农业生产从劳役地租制步入实物地租制，所有制变革到位，封建经济主体确立。	0	0	0		
+cmn-NG-31-117651-10512966	0	600.0	700.0	speaker	unknown	unknown	“下贫则上贫，下富则上富”，“百姓虚（穷）而府（官）库满，夫（我）是之谓（认为）国蹶（国家受挫伤）”，“不知节用裕民则民贫，民贫则田瘠（瘦弱）以秽（脏乱），田瘠以秽则出实（收获）不半；上（官）虽好（多）取侵夺，犹（最终）将寡获也”，“上好功则国贫，上好利则国贫，士大夫众则国贫……”等等。	0	0	0		
+cmn-NG-31-117651-10512966	0	900.0	1000.0	speaker	unknown	unknown	荀子的《富国》篇中写道“厚（高）刀布（钱）之敛，以夺之财；重田野之税，以夺人食；苛关市（关税）之征，以难其事”，说明当时苛刻的管理使劳动者负担很重，对国家稳定和生产发展不利。	0	0	0		
+cmn-NG-31-117651-10512966	0	1000.0	1100.0	speaker	unknown	unknown	对此，荀子提出要藏富于民“轻田野之税，平（低）关市之征，省商贾之数，罕（少）兴力役，无（不）夺农时，如是则国富矣。	0	0	0		
+cmn-NG-31-117651-10512966	0	1100.0	1200.0	speaker	unknown	unknown	夫是之谓以政裕民。”还提出各级官员要“节用裕民”“开源节流”，他早就认识到人民的富裕与国家强弱有直接关系。	0	0	0		

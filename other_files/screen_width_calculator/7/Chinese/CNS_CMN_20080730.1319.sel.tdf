@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.1319	0	0.0	100.0	speaker	unknown	unknown	国美低价拍得三联商社9%股权 三联强调商标归属	0	0	0		
+CNS_CMN_20080730.1319	0	300.0	400.0	speaker	unknown	unknown	昨日，记者从济南拍卖现场获悉，国美关联公司最终以5.94元/股起拍价竞得了三联商社9.02%股权，如能如期缴款，国美将持股19.7%成为三联商社的绝对控股股东。	0	0	0		
+CNS_CMN_20080730.1319	0	700.0	800.0	speaker	unknown	unknown	昨日上午十时，济南三联商社股权拍卖现场只出现两位竞买者。	0	0	0		
+CNS_CMN_20080730.1319	0	2700.0	2800.0	speaker	unknown	unknown	在何种时机、以何种方式实现两者的共同发展要视具体情况而定。”业内人士分析，此种态度隐射国美欲得三联商标所有权，必须接受三联集团高管，这使得进行实质性重组依旧困难。	0	0	0		

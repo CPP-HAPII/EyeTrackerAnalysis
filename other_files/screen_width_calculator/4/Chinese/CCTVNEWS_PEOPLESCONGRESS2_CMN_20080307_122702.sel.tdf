@@ -1,0 +1,94 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 45.146999999999998, 1109.7550000000001, 1119.4259999999999, 1395.152, 1425.5730000000001, 1479.606, 1500.9449999999999, 3627.587, 3643.4409999999998, 4105.9059999999999, 4113.5209999999997, 4601.607, 4611.9059999999999, 5935.3710000000001, 5965.5129999999999, 8314.2919999999995, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	358.704	388.240	Zhang_Li	male	native	第二道线呢我觉得是不是这样看,就是那在那些个不是基本的,但他也是公共教育服务,他能够应该体现一个规则的公平,体现一个政府投入的责任,然后使得大家在竞争这样一个非基本的公共教育呃的时候呢有一个起跑线,能够大家都觉得哎 (()) ,哎对,哎对对对,对对,是这样的	1	9	43	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	689.092	709.688	Bai_Yan_Song	male	native	呃这一次呢跟包括在十七大的时候也-也有哈,这种这个团组的开放呢格外的让媒体感兴趣,也近距离的能去触摸他们在说什么,想什么,甚至来如何争论甚至是有点吵架哈,有的这个地方反映了这种热度,哎你观察到的开放的这个特点是什么	1	16	85	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	883.248	891.546	Bai_Yan_Song	male	native	好,等下一次连线的时候再听你有关下午开放团组的时候和教育有关的这个采访,好谢谢泉灵	1	18	101	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	928.874	939.373	Zhang_Li	male	native	呃所以在这个全国人大在这个义务教育立法这个问题上没有呃新的修订之前,恐怕这个时间表不能随便的 (()) ,哎-哎对对,九年义务教育	1	22	107	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	980.662	995.710	Zhang_Li	male	native	这个我们要-要呃从这个国情的实际 (()) ,哎对,有自己的节奏,呃是这样,因为他呃一旦成立义务教育,他有三个最显著的特征	1	22	117	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1154.951	1168.191	speaker#7	female	native	农村义务教育经费保障机制改革,农村学校 (()) 建设,一项将教育惠民举措的实施也让长期关注这一问题,多次提出有关建议意见的代表委员倍感欣慰	3	30	142	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1250.547	1255.864	speaker#7	female	native	所有贫困生都享受到国家助学金, (()) 实习等优惠政策	3	36	153	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1275.017	1296.901	speaker#14	male	native	为下步职业教育要持续稳定的发展,或者是科学的发展,我认为很重要的一部分工作就是一是加强这个职业教育的条件 (()) ,尤其是实训实习基地建设,其二呢就是双师型教师队伍的建设	3	39	157	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1446.622	1462.387	Cui_Yong_Yuan	male	native	你-你看说到伤心的时候他们也会流眼泪,说到生气的时候他们也想拍桌子,说到难过的时候他们也皱眉头,这不跟普通老百姓一模一样,呃看着--看着她们那样的表情我就放松下来了	5	46	166	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1465.590	1479.606	Cui_Yong_Yuan	male	native	如果我能做到采访高官跟采访普通老百姓一模一样,不光大家看我的行为举止一模一样,我自己的心态也是一模一样啊,我觉得这个可能才算成功的	5	46	168	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1562.994	1578.157	Zhang_Li	male	native	因为 {cough} 从呃二零零三年国务院召开全国农村教育工作会,明确提出来要给中西部地区的贫困生两免一补,然后就这么多年来一直推	7	51	182	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1578.157	1593.026	Bai_Yan_Song	male	native	(()) ,又免了	7	52	184	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1665.124	1685.334	Bai_Yan_Song	male	native	我说看过去这五年我们的这个义务教育这个基础,尤其是不分城乡这种,当然对于农村是更加关注的,但是整个这是一套九年义务教育的基础夯实,我说举另外一个例子就可以印证他,当希望工程逐渐在人们的视线当中淡出的时候,其实就在证明义务教育的这个基础比较 (())	7	53	195	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1775.037	1791.295	Zhang_Li	male	native	那么还有一部分呢是属于想上中职,但是他这个呃没有足够的条件,比如说他是贫困生,然后整个的 (()) 哎保障跟不上,所以他呢也是等于望着中职学校的门口他进不去	7	54	215	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1869.655	1888.414	Zhang_Li	male	native	所以这个一-一拉一推的话,中职现在呈现出一个很好的势头,包括刚才谈到职业教育不能摆脱不能摆开那个高职啊,啊我们现在高职这个增长也很快,对吧,所以这个中职和高职呢都走入了一个呃这个 (()) ,哎历史上非常好的一个时期	7	54	229	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1930.774	1941.211	Bai_Yan_Song	male	native	(()) ,对	7	56	236	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1966.507	1988.760	Zhang_Li	male	native	现在就是呃中小城市的这样一个呃整个的本地化的人才其实我们也研究很久了,他好像不完全是一个行政的手段,或者行政或命令一下子就一定要, (()) ,就行了,因为他这人才市场啊,或者叫人力资源的市场基本上就是全球全国一体化了	7	58	241	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	1988.760	1998.510	Zhang_Li	male	native	所以 (()) ,哪一些地方他的这个工资给的高,他哪-哪些地方他就有个竞争力,或者说是人呢往那边去的这样一个趋向就比较高	7	58	243	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	2062.122	2075.225	Zhang_Li	male	native	当然你要说从劳务输出这个--这个角度来讲呢,就他受到了呃最基本的九年义务教育,然后又受到了这种职业教育的培训,然后他把劳务输出到沿海地区,也-也是无可厚非的	7	60	259	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	2364.435	2401.100	speaker#22	male	native	我看了一下,四川省的 (()) 经费大概是 (()) 三千块钱左右,全国的省的 (()) 经费除了沿海一代,比如说上海,广东,哎这些个比较发达的省份,他们的这个经费比较高以外,西部地区都差不多,大概也就是两千五到三千 (()) 经费,这一个 (()) 的话哎比教育部所属的九八五,二幺幺的院校和教育部所属的院校的话大概一半的比例,差一半,甚至一半还不到	7	64	288	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	2650.012	2659.744	speaker#23	male	native	但是呢在中等职业教育 (()) 看,我倒个人觉得可能重点还不在于示范性院校建设,而在于薄弱型学校的建设问题	7	65	313	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	2695.642	2709.517	speaker#24	female	native	而且教英文呢他念~A啊~B,~C呢念, (()) 所以--所以就这种英语教师你说怎么能教出来合格的人才哈	7	66	315	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	2845.166	2859.008	Zhang_Li	male	native	呃但是呢中职呢主要受到高中阶段的学龄人口数的下降的影响,所以呢据差不多两千万水平, (()) 已经对,差不多是一个稳定的平台的	7	69	332	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	2845.166	2859.008	Bai_Yan_Song	male	native	嗯,两千万是这个中-中职,可能 (()) ,嗯	7	69	333	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3000.085	3017.908	Cao_Xuan_Yi	female	native	呃我们的那个网友留言呢就暂时先说到这儿,但是最后呢还有一位职业学校毕业的网友呢有问题想问我们演播室的嘉宾张主任,他说他在找工作的过程中发现啊很多单位只要本科和研究生,而且国家呢不是也在大力发展职业教育吗	7	73	348	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3129.338	3139.494	Zhang_Li	male	native	这个现在啊已经是随着市场经济越来越发达,越来越完善,他这个这样一个企业的经营者或者管理者不会 (()) 对对对	7	77	364	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3150.374	3157.250	Bai_Yan_Song	male	native	考虑是跟我这个行业,跟我的这个现在所拥有的这个 (()) 相对应的这种更容易找到工作	7	78	370	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3207.737	3222.463	Zhang_Li	male	native	还有这个跟那个企业联合来办学啊等等一些 (()) ,都在做 (()) ,对对	7	79	376	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3207.737	3222.463	Bai_Yan_Song	male	native	嗯,对我看后两则其实是在这个这两年的时候,无论是从教育部门的负责人,包括一些职业学校的这个办学者都格外强调,,订单是生产跟企业的这种合作	7	79	377	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3283.250	3286.850	speaker#25	female	native	一是想不到老区也通了路高速公路	7	81	385	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3785.698	3805.119	Zhang_Li	male	native	第二呢我倒是觉得呃在这个高等学校练好内功的这方面,呃在深化整个高等学校的这种自身的教学改革,课程改革这些方面呢其实政府和高等学校都付出了很大的 (()) ,哎	9	91	439	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3805.119	3807.572	Zhang_Li	male	native	(()) ,对对对	9	91	441	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3826.777	3842.763	Zhang_Li	male	native	可以说现在的这个呃一般的通用知识,或者 (()) 这个叫做这种基础学科,或者是这种基础课教学和专业课教学这方面呢精品课程的这个建设已经呃有了非常好的基础	9	91	447	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3855.673	3868.749	Zhang_Li	male	native	所以特别是这个每五年要对所有的刚才你提到了评估一次,就使得原来资源不够的是吧, (()) 呃显得这个有点欠缺的这些学校他就一个压力	9	91	451	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3868.749	3881.129	Zhang_Li	male	native	啊当地政府也有压力,比如说那个省级政府他觉得他对这个省属的大学当中如果在这个问题上不达标的话,他怎么向这个全国 (()) ,对对对	9	91	453	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3911.574	3929.486	Zhang_Li	male	native	嗯,对对, (()) 得以弥补,对,是这样的,嗯	9	91	461	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3911.574	3929.486	Bai_Yan_Song	male	native	我是注意到好多这个尤其地方这种高效在涉及到因为马上要来评估了的时候,明显当地政府加大了这种投资的力度,使他一些过去的欠账啊, (()) 得以--得以弥补,明显教学环境是得以改善,这就是一个内功的一个重要的 (())	9	91	462	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	3929.486	3937.799	Bai_Yan_Song	male	native	你怎么看免费 (()) 就是这个师范--师范生开始免费教育,尤其从去年开始进行更大范围的试点	9	91	464	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4000.645	4017.610	Zhang_Li	male	native	这一万人呢不仅是免除他的这个整个的学费,而且还给他的生活费,而且他要将来要有一个承诺,要有多少年限啊来做-做老师,所以我觉得这是总理亲自过问,亲自关心的, (())	9	91	471	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4000.645	4017.610	Bai_Yan_Song	male	native	嗯,来做老师,嗯,而且亲自进校园 (())	9	91	472	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4115.458	4121.444	Li_Xiao_Meng	female	native	知道我要来是吗 {laugh} ,这么整齐呀,平常都这么整齐吗	11	95	488	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4126.843	4129.546	speaker#63	female	native	我叫罗莎,我来自内蒙古的 (())	11	97	493	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4148.038	4163.709	speaker#62	female	native	呃其实我挺喜欢这个学校的,我 (()) ,呃如果不上这个--这个免费师范生班的话,他可以选择留在北京,也可以回去,但是如果选择了免费师范生班就一定要回到生源地嘛	11	106	503	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4317.698	4332.466	speaker#63	female	native	我没有确切的说是看过,呃 (()) 选择这个--这个职业,但是我感觉和他们几个可能有点不一样,就是因为我们家可以说老师比较多吧,所以说对我的影响	11	112	543	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4338.082	4356.603	Li_Xiao_Meng	female	native	嗯,嗯, (())	11	112	550	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4363.355	4375.331	Li_Xiao_Meng	female	native	呃因为你想全国那么多师范的大学,我可能选择别的学校,而不一定比如说选择 (()) 五所那个教育部直属的,有免费师范生政策的这个学校	11	112	554	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4718.604	4727.144	Hu_Zhi_Feng	female	native	包括今年寒假我们做的那个调查,他们的那个调查问卷刚刚 (()) ,好, (()) 前两天刚刚给我,我觉得挺兴奋的哈	13	123	610	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4756.968	4766.803	Li_Xiao_Meng	female	native	一个学生做了这么厚 (()) ,嗯	13	123	623	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	4828.812	4841.125	speaker#66	female	native	呃决定把这个名额呢呃主要是投向这个中西部的地区,呃可能有十-十多个省投了这个招生名额	13	124	646	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5086.733	5092.952	Zhang_Li	male	native	所以现在有很多地方呢叫做先免了,后面那个缺口 (()) ,对,还没有补上	13	129	683	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5204.183	5241.880	Bai_Yan_Song	male	native	(()) ,嗯,象征性,对,嗯,对,嗯,没错,这是一个综合的这种 (()) 去考虑,因为,没有一个好的教师队伍怎么可能有一个好的学生的未来	13	129	704	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5271.774	5276.930	speaker#34	male	native	呃这个是在成都的近郊,是我们的是 (())	13	132	710	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5331.146	5345.381	speaker#34	male	native	那么是农民啊通过土地整理跟 (()) 之后,那么科学和合理的就是说是利用,就是积极建设用地和住宅 (()) ,住宅地,那么建设的农民新区	13	132	728	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5385.226	5396.328	speaker#34	male	native	那么这个校舍钱呢主要在 (()) 是市-市级财政跟各个区市县的财政,两级财政共同努力, 么是投入进行建设的	13	132	740	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5513.497	5521.697	Zhang_Li	male	native	呃我觉得现在这个问题呢已经 (()) 呃完全解决,但是从政策上是这么说	13	134	762	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5634.856	5653.647	Zhang_Li	male	native	对,对,我知道, (())	13	134	786	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5720.917	5730.558	speaker#35	female	native	不少代表委员提出,地方各级政府必须在义务教育投入方面树立教育优先的绿色 (()) ,真正确保教育经费投入	13	136	801	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5736.001	5745.114	speaker#35	female	native	中国改革报报道,张智勇代表提出应该建立新的教师工资保障机制,简单说就是谁出台政策 (())	13	136	803	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5825.338	5829.379	speaker#35	female	native	工人日报关注职业教育,核实 (())	13	136	814	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5901.056	5906.089	speaker#36	female	native	摄像机更是没问题,一直录着就是了,回去再检能用的	13	137	823	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	5989.401	5996.148	Bai_Yan_Song	male	native	(()) 网的网友国家能不能将学龄前教育的费用降低,能不能将义务教育从九年延长到十二年	15	139	831	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6050.515	6059.616	Zhang_Li	male	native	高考这个呃按照这个 (())	15	140	838	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6082.801	6090.678	Bai_Yan_Song	male	native	(()) ,嗯	15	140	847	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6217.539	6233.863	Hou_Jia	female	native	在这里呢就是人们所说的 (()) ,这个 (()) 呢是继续教育和职业培训的英文缩写,在这里已经有三十五年的历史了,他的最大的特色在于他所开设的上百种课程呢几乎涵盖了澳大利亚社会各个行业所需要的技术人员	15	142	866	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6233.863	6238.812	Hou_Jia	female	native	换句话说如果你想在这里做飞行员,那么你就应该进入 (()) 学院学习	15	142	867	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6238.812	6244.592	Hou_Jia	female	native	如果你想在澳大利亚呢成为一个农场的管理者,那么 (()) 也能提供相关的课程培训	15	142	868	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6244.592	6254.992	Hou_Jia	female	native	有些报道曾经介绍说啊这个 (()) 就相当于把中国的职高技校呃高等专业学校和综合起来的一个综合体	15	142	869	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6254.992	6261.593	Hou_Jia	female	native	但是实际上他跟这样的一个综合的一个最大区别在于呢 (()) 的所有老师都同时就职于各个行业	15	142	870	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6261.593	6267.408	Hou_Jia	female	native	呃与此同时呢 (()) 课程每年将随着各个行业的不同需求有所改变	15	142	871	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6267.408	6274.281	Hou_Jia	female	native	那么在 (()) 就读的学生所取得的资-资格认定证书呢也必须得到各个行业的认可	15	142	872	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6274.281	6283.473	Hou_Jia	female	native	这个 (()) 的课程呢是从几周的强化班一直到半年不等,这样的课程设置本身呢也反映出了各个行业的需求	15	142	873	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6283.473	6290.991	Hou_Jia	female	native	呃除了与就业和这个技能相关连之外呢,这个 (()) 本身设置呢还跟高等教育直接有承接的关系	15	142	874	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6290.991	6302.665	Hou_Jia	female	native	换句话说这个 (()) 呢他是以分级考试为-为核心的一种课程设置,在完成相关课程的学生呢同时也就取得了大学相关课程的学分	15	142	875	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6302.665	6307.238	Hou_Jia	female	native	那么在 (()) 取得成绩越优异呢,学生累计的学分也就越高	15	142	876	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6338.240	6350.432	Hou_Jia	female	native	呃中国驻悉尼教育所呢还介绍说呢两天前这里的 (()) 刚刚与上海是签订了相关的协议,从两千零八年起到二零一零年共为世博会培养十八万人	15	142	881	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	6473.181	6478.790	speaker#39	female	native	香港的职业学校每年都会给学生安排很多学术交流和参加专业比赛的机会	15	150	898	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7041.786	7048.548	Zhang_Li	male	native	嗯,你看他那 (()) 和那个美国的那些也完全不太一样是吧,还有美国的,还有德国的双元制嗯	15	164	971	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7129.548	7147.933	speaker#49	male	native	分均学费就每个人的评价学费与这个人均的~GTP去比较,我们国家是呃达到了二零零四年是达到了百分之四十六	15	167	982	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7343.837	7351.456	speaker#52	female	native	就没有真正的 (()) ,到底就是从我们的教育制度上,我们到底怎么真正把创新来培养真正的 (()) 没有真正的破题	15	170	1000	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7623.514	7639.319	speaker#57	male	native	但是我想我们不能把自己的优势丢掉,我有时候我很担心愉快学习, (()) ,这个将来怎么办,而且这个呢说老实话不容易得到社会和家长的认同	15	175	1022	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7663.208	7665.166	speaker#57	male	native	但是不能讲是没哟负担的	15	175	1025	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7705.454	7712.604	speaker#58	male	native	不是说政府不支持,师资力量因为留不住,你 (()) ,你保不住农村是师资力量	15	176	1029	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7733.204	7739.282	speaker#59	male	native	就拿我们 (()) 来讲,每年考出去大学生四千余人,回乡的不到百分之八	15	177	1032	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7739.282	7749.278	speaker#59	male	native	而农村呢孩子也不愿意读职校,读职业学校,从学生家长,社会都认为上职校都是成绩不好的差等生	15	177	1033	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7749.278	7758.568	speaker#59	male	native	同时外国现有的高等教育包括 (()) ,高等院校都在培养城市需要的人才,很少考虑培养农村所需要的人才	15	177	1034	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7758.568	7764.571	speaker#59	male	native	这种教育模式下的农村中学毕业生普遍欠缺农业科教技术知识和劳动积累	15	177	1035	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7767.249	7785.326	speaker#59	male	native	建议,对农村职业学校,学生实行义务教育,保证农村学生上得了职业学校,学得了职业技能,鼓励高校,面向三农,开设农业专-专业课程,试验机构,行政全社会职业教育的打网络	15	177	1037	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	7810.096	7822.536	speaker#60	male	native	{laugh} ,这个问题呢我呢也不完全同意,这个一方面呢来呢就是说实际上在过去五年我们中国的高等教育啊取得了一个跨越式的发展	15	180	1040	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	8180.257	8204.346	Zhang_Li	male	native	所以越来越多的家庭都希望自己的子女能够受到更好的这个高等教育,所以这样一种从这个高考来这个 (()) ,对他这个等于这种传递到这种基础教育阶段这种择校呢这个在各个地方,特别是城镇地区就显像的非常突出	15	186	1083	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	8222.251	8240.932	Zhang_Li	male	native	并不是说把他们全都消消下去,而是把着一些个这些薄弱学校让他带起来,是吧,就是手拉手给他带起来,让他的校长,教师能够轮换啊,能够让他这个在这个整个的小生初啊这个问题上不至于那个呃显得那么 (()) ,对对对	15	186	1087	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080307_122702	0	8308.543	8314.292	Bai_Yan_Song	male	native	好感谢你支持我们的节目,谢谢你,也感谢你的收看观众朋友,好,再见	15	186	1102	report	statement

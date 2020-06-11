@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-17-99467-10730423	0	400.0	500.0	speaker	unknown	unknown	表示反对的是老板——雇佣别人的人，表示拥护的是高级经理人——被别人雇佣的人，一方代表资方，一方代表劳方，很自然地站在自己的立场为自己辩护起来了。	0	0	0		
+cmn-WL-17-99467-10730423	0	500.0	600.0	speaker	unknown	unknown	双方都一二三四，滔滔不绝，振振有词。	0	0	0		
+cmn-WL-17-99467-10730423	0	700.0	800.0	speaker	unknown	unknown	《劳动合同法》的真正问题是，政府没有承担应当承担的责任，把担子都压到雇主上，然后羊毛出在羊身上，最后其实归根结底，都压到雇员身上了！	0	0	0		
+cmn-WL-17-99467-10730423	0	1000.0	1100.0	speaker	unknown	unknown	但为什么要让企业花这么大的代价去承担这种社会性的义务呢？	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080702.0588	0	700.0	800.0	speaker	unknown	unknown	“一百多年前，青岛是一个饱受列强欺凌的小渔村，先后被德国人和日本人占领，成为帝国主义的殖民地……”	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121897-9956425	0	0.0	100.0	speaker	unknown	unknown	Check this webpage "Netizens Ask Baidu Three Questions -- Let you know how mean, shameless, and sinister baidu is"	0	0	0		

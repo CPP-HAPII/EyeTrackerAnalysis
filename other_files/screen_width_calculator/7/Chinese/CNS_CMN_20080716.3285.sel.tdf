@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.3285	0	600.0	700.0	speaker	unknown	unknown	另一则是：武汉一位低分考生因不经意的乐于助人的行为，被新加坡政府理工学院录取，并同时获得20万元人民币的奖学金。	0	0	0		
+CNS_CMN_20080716.3285	0	700.0	800.0	speaker	unknown	unknown	经媒体调查，新加坡政府所属的全部5所理工学院都否认录取此考生(7月15日《京华时报》、今日本报A13版)。	0	0	0		
+CNS_CMN_20080716.3285	0	1300.0	1400.0	speaker	unknown	unknown	按照舆论学的理论，传闻之所以会引起人们的关注，原因除了信息不对称造成的认知模糊外，还在于传闻所包含的信息对人们的价值观念，对人们的意愿产生了冲击——要么是符合民意期待，激起了人们的共鸣；要么是违背了民意期待，引起了人们的集体反感。	0	0	0		

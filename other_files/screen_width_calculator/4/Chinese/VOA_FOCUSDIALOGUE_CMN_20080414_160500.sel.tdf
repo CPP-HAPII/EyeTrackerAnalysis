@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 197.32499999999999, 204.44, 402.851, 407.14499999999998, 680.41300000000001, 878.58900000000006, 885.89400000000001, 1067.5229999999999, 1076.086, 1417.633, 1424.3399999999999, 1429.4000000000001, 1752.347, 9999999.0]
+VOA_FOCUSDIALOGUE_CMN_20080414_160500	0	236.828	249.206	speaker#1	female	native	奥巴马本月早些时候在旧金山出席一个私人聚会时对支持者说,失业和其他经济问题导致很多美国选民感到 (()) 和懊丧	2	7	28	report	statement
+VOA_FOCUSDIALOGUE_CMN_20080414_160500	0	270.339	279.214	speaker#2	female	native	一列用鲜花装饰的孟加拉国列车今天离开达卡戒备森严的 (()) 车站,驶向加尔各答	2	8	32	report	statement

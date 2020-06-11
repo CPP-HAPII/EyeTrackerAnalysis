@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.2915	0	0.0	100.0	speaker	unknown	unknown	二炮某部用水桶替代实弹训练 节约40万科研经费	0	0	0		

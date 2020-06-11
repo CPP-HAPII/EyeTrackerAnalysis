@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070117.0189	0	10010.000	10019.900				Canadian Businessman to Secure the Purchase of Marseille	0	0	0		
+PLA_CMN_20070117.0189	0	20010.000	20019.900				(Source: Xinhua News Agency Report, Time of Release: 2007-01-17 11:38)	0	0	0		
+PLA_CMN_20070117.0189	0	30010.000	30019.900				Xinhua News Agency, Paris, January 16, Special Sports Wire Canadian businessman Jack Kachkar announced on the 16th that he had made a bid to Ligue 1 club Marseille to buy the club. The specific amount of the purchase was not disclosed.	0	0	0		
+PLA_CMN_20070117.0189	0	40010.000	40019.900				Forty-three-year-old Kachkar is CEO of Inyx (inyx), a pharmaceutical company. The company has over 570 employees in North America and Europe.	0	0	0		
+PLA_CMN_20070117.0189	0	40020.000	40029.900				An AFP report says that Kachkar has bid between 100 million and 150 million euros to Marseille's biggest shareholder, former chairman Robert Louis-Dreyfus, to buy all of his shares.	0	0	0		
+PLA_CMN_20070117.0189	0	50010.000	50019.900				Kachkar said in a statement released on the 16th: "I hope to join forces and work with all of the players and managers at Marseille, and to turn Marseille once again into a dynasty in European soccer." The statement also added that this purchase would be completed in February.	0	0	0		
+PLA_CMN_20070117.0189	0	60010.000	60019.900				Louis-Dreyfus invested 200 million euros in December 1996 to become the owner of Marseille.	0	0	0		
+PLA_CMN_20070117.0189	0	60020.000	60029.900				Marseille have yet to win any championship titles.	0	0	0		
+PLA_CMN_20070117.0189	0	60030.000	60039.900				According to a spokesperson who declined to be named, Dreyfus has set a price of at least 100 million euros on his shares.	0	0	0		
+PLA_CMN_20070117.0189	0	70010.000	70019.900				Marseille beat AC Milan 1-0 in the final of the 1993 European Champion's League, becoming the only French club to have ever won the championship at the European Champion's League.	0	0	0		
+PLA_CMN_20070117.0189	0	70020.000	70029.900				But since Marseille were demoted to Ligue 2 in the summer of 1993 because of a match-fixing scandal, they have never again achieved a top result.	0	0	0		
+PLA_CMN_20070117.0189	0	70030.000	70039.900				(End)	0	0	0		

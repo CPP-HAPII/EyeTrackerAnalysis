@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.1296	0	700.0	800.0	speaker	unknown	unknown	不过罗马的反击也非常犀利，第29分钟罗马队中场断球小曼奇尼突破，被后卫布朗放倒，主裁判毫不犹豫吹罚点球，但德罗西的点球竟然打飞。	0	0	0		
+CNS_CMN_20080410.1296	0	800.0	900.0	speaker	unknown	unknown	上半场双方均无建树，0-0的比分保持到了上半场结束。	0	0	0		

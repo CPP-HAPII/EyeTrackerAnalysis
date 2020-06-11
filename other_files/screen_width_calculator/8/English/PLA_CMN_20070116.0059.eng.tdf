@@ -1,0 +1,35 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070116.0059	0	10010.000	10019.900				Experience of Guangzhou Military Region Artillery in Stepping up Camouflage Equipment Training	0	0	0		
+PLA_CMN_20070116.0059	0	20010.000	20019.900				Tang Qingsong, Special correspondent Yang Zhiwu (Source: PLA Daily 11th edition, Dispatch time: January 16, 2007 07:24)	0	0	0		
+PLA_CMN_20070116.0059	0	30010.000	30019.900				'Tiger Company' Defeated in Five Minutes	0	0	0		
+PLA_CMN_20070116.0059	0	40010.000	40019.900				Intentions to kill lurked on every side of the comprehensive tactical exercise ground of a Guangzhou military region unit.	0	0	0		
+PLA_CMN_20070116.0059	0	40020.000	40029.900				A field maneuver exercise was quietly launched.	0	0	0		
+PLA_CMN_20070116.0059	0	50010.000	50019.900				The officers and soldiers of the First Missile Company that is usually named the Tiger Company got into their hiding position a long time ago and were waiting for the order to attack.	0	0	0		
+PLA_CMN_20070116.0059	0	50020.000	50029.900				Under careful camouflage of the officers and soldiers, the modern anti-tank missile-launching vehicle furnished by the company merged into the green forests.	0	0	0		
+PLA_CMN_20070116.0059	0	60010.000	60019.900				Suddenly, 'enemy' shells whizzed by as if they had eyes.	0	0	0		
+PLA_CMN_20070116.0059	0	60020.000	60029.900				The entire position was thick with gun smoke and recurring noise of explosion broke out.	0	0	0		
+PLA_CMN_20070116.0059	0	60030.000	60039.900				In less than five minutes, the company received the notification from the exercise assessment team, "Your company has been badly beaten by enemy artilleries!"	0	0	0		
+PLA_CMN_20070116.0059	0	70010.000	70019.900				Defeated?	0	0	0		
+PLA_CMN_20070116.0059	0	70020.000	70029.900				The officers and soldiers of the Tiger Company could not understand at all.	0	0	0		
+PLA_CMN_20070116.0059	0	70030.000	70039.900				Everyone had worked hard to do a good job in the camouflage: Thick tree branches and camouflage nets muffled up the equipment. It was even difficult to discover if one passed right beside it without paying attention.	0	0	0		
+PLA_CMN_20070116.0059	0	80010.000	80019.900				However, the criticisms of the assessment team suddenly made them dumbfounded: Why were the newly issued 'fake' gears such as the distortion concealment equipment not used?	0	0	0		
+PLA_CMN_20070116.0059	0	90010.000	90019.900				This question stumped the officers and soldiers of the Tiger Company.	0	0	0		
+PLA_CMN_20070116.0059	0	90020.000	90029.900				Without the interference of the fake equipment to confuse the spurious with the genuine, naturally, enemy's unmanned scout could easily find their hiding place.	0	0	0		
+PLA_CMN_20070116.0059	0	100010.000	100019.900				'Fake' Gears That Should be Overlooked	0	0	0		
+PLA_CMN_20070116.0059	0	110010.000	110019.900				A 'disastrous defeat' that made an indelible impression enabled the officers and soldiers of the First Company of the brigade to understand: In order to have good camouflage training under modern high-tech conditions, one can never be satisfied with traditional camouflage techniques but to use fake gears to their full capabilities.	0	0	0		
+PLA_CMN_20070116.0059	0	120010.000	120019.900				In face of the defeat of the Tiger Company, the brigade leaders also experienced the deplorable consequences caused by the neglect of camouflage equipment.	0	0	0		
+PLA_CMN_20070116.0059	0	120020.000	120029.900				Embarrassing scenes replayed before their eyes one after another:	0	0	0		
+PLA_CMN_20070116.0059	0	130010.000	130019.900				- The issuance of new simulation camouflage equipment such as the distortion concealment equipment and fake targets was indeed very 'impressive' in the inspection by the senior officers and they scored full points.	0	0	0		
+PLA_CMN_20070116.0059	0	130020.000	130029.900				However, once the inspection team left, they were all returned to the storage to 'sleep'.	0	0	0		
+PLA_CMN_20070116.0059	0	140010.000	140019.900				- Some officers and soldiers felt that the camouflage equipment did not worth much and did not maintain and upkeep it properly. As a result, human-caused damages such as scraped paint and bump damages made the fake equipment actually become fake equipment.	0	0	0		
+PLA_CMN_20070116.0059	0	150010.000	150019.900				- In the assessment of the camouflage course conducted by the brigade's organ, the reviewers still used the 'outdated' evaluation standard: If it is unable to be seen, then it passes but if it is able to be seen, then it fails.	0	0	0		
+PLA_CMN_20070116.0059	0	160010.000	160019.900				In the wrap-up meeting, Brigadier Liu Dingkang had profound reflections, "When we engage in concealment and deception, not only do we need to trick ordinary people, we also need to overcome advanced reconnaissance measures of strong enemies. We should never use self-deceiving gimmicks. Putting 'fake equipment' to good use is also the 'magic weapon' to conquer the enemies.	0	0	0		
+PLA_CMN_20070116.0059	0	170010.000	170019.900				Makes all Attempts to Treat 'Fake' as Real	0	0	0		
+PLA_CMN_20070116.0059	0	180010.000	180019.900				As a result, a training upsurge in 'conducting good camouflage equipment training and treating 'fake' shows as real' quickly emerged within the brigade.	0	0	0		
+PLA_CMN_20070116.0059	0	180020.000	180029.900				The brigade specially invited experts to personally teach the officers and soldiers how to properly maintain and use the camouflage equipment. Meanwhile, it also cancelled the one-sided target of solely pursuing good equipment conditions.	0	0	0		
+PLA_CMN_20070116.0059	0	190010.000	190019.900				The brigade also stepped up efforts in tackling various camouflage equipment strategies and tactics.	0	0	0		
+PLA_CMN_20070116.0059	0	190020.000	190029.900				Based on the characteristics and laws of reconnaissance and surveillance in high-tech battles, they invented a computer-assisted decision-making system that can both design camouflage plans for targets under various backgrounds including different seasons and topographies and provide numerous assisted decisions in camouflage under complex battle situation.	0	0	0		
+PLA_CMN_20070116.0059	0	190030.000	190039.900				The article titled How to Utilize Distortion and Variant Techniques to Conceal the Real and Show the Fake under High-Tech Conditions written by the brigade's armament department was published in an authoritative magazine.	0	0	0		
+PLA_CMN_20070116.0059	0	200010.000	200019.900				At the same time, the brigade has launched solid camouflage equipment training. It holds a concealment and camouflage equipment drill with the entire staff and all equipment once a month. The fake vehicles and fake artilleries that were locked up in the storage before are once again driven into the drill ground.	0	0	0		

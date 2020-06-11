@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080418.0049.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	武警黑龙江总队网络文化扮靓边关	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-18 06:18:31   来源：解放军报第2版	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报哈尔滨4月15日电	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	950.000	975.000	TEXT1	unknown	unkown	特约通讯员方文雍、郝长波报道：今天上午，武警黑龙江总队抚远县中队官兵怀着喜悦的心情，聚集在中队刚刚建成运行的“网络文化室”学习娱乐。	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	至此，“网络文化室”在这个总队所属的19个边境中队全部建成并运行。	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	这个总队所属驻边境线中队，大都驻地偏远，自然条件艰苦，信息化建设比较滞后。	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	对此，总队党委在年初召开的第一次党委会上，决定把解决好基层边远地区部队信息化建设问题，作为新年度的一项重点工作。	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	为做好这项工作，该总队派出工作小组，深入基层单位调研论证，听取基层官兵意见。	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	在此基础上，他们研究确定了在基层中队建设集教育、娱乐、学习等功能于一体的基层中队“网络文化室”建设方案，投入百万元，购买了200多套由服务器、电脑、投影仪、扫描仪等器材组成的网络设备，仅用3个多月时间就全部开通运行。	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	记者在武警抚远县中队看到，官兵轻点鼠标，各种信息尽收眼底。	0	0	0		statement
+PLA_CMN_20080418.0049.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	中队指导员杨立冬说：“有了‘网络文化室’，官兵们学习更方便，生活更丰富。”	0	0	0		statement

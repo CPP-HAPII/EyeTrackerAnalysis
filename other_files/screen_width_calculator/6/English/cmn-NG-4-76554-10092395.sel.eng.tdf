@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76554-10092395	0	300.0	400.0	speaker	unknown	unknown	Big Head Zheng Zhi Reserves a Seat	0	0	0		
+cmn-NG-4-76554-10092395	0	1000.0	1100.0	speaker	unknown	unknown	In the 40-person list of the national Olympic team, Zheng Zhi, who currently plays for Charlton, pops on the list. As the hottest Chinese player now, there should not be any surprise that Zheng Zhi will appear in the games of the Beijing Olympics. As a result, ZZ has already acquired a seat in the center forward position.	0	0	0		
+cmn-NG-4-76554-10092395	0	1100.0	1200.0	speaker	unknown	unknown	Through the list, the victory or defeat in the PK between Zheng Zhi and Shao Jiayi is indeed very obvious already.	0	0	0		

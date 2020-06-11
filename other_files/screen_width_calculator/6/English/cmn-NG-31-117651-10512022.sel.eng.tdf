@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10512022	0	700.0	800.0	speaker	unknown	unknown	On that portrait shines the light of dawn that scientific socialism definitely will revive in China.	0	0	0		
+cmn-NG-31-117651-10512022	0	800.0	900.0	speaker	unknown	unknown	In order to counterattack the show of the anti-China clowns and in order to safeguard the dignity of the Chinese people, you have gone to the trouble of taking this trip and have shouted angrily for the sake of truth and justice!	0	0	0		
+cmn-NG-31-117651-10512022	0	1100.0	1200.0	speaker	unknown	unknown	It was as if I was hearing you were shouting: Down with imperialism!	0	0	0		
+cmn-NG-31-117651-10512022	0	1200.0	1300.0	speaker	unknown	unknown	Down with all reactionaries!	0	0	0		
+cmn-NG-31-117651-10512022	0	1300.0	1400.0	speaker	unknown	unknown	Long live the great Chinese people!	0	0	0		
+cmn-NG-31-117651-10512022	0	1400.0	1500.0	speaker	unknown	unknown	Long live the great Mao Zedong Thought!	0	0	0		
+cmn-NG-31-117651-10512022	0	1500.0	1600.0	speaker	unknown	unknown	Learn from you!	0	0	0		
+cmn-NG-31-117651-10512022	0	1600.0	1700.0	speaker	unknown	unknown	Salute to you!	0	0	0		
+cmn-NG-31-117651-10512022	0	1700.0	1800.0	speaker	unknown	unknown	The People are proud of you!	0	0	0		
+cmn-NG-31-117651-10512022	0	1800.0	1900.0	speaker	unknown	unknown	You are the pride of the people!	0	0	0		

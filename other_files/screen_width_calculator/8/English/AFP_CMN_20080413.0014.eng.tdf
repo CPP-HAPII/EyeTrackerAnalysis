@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0014.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Australia Names Bryce First Female Governor-General	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Sydney (AFP), 13th.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	900.000	1050.000	TEXT1	unknown	unkown	Today, Australian Prime Minister Kevin Rudd nominated Queensland state's governor, Ms. Bryce as Australia's next Governor-General.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	1050.000	1200.000	TEXT1	unknown	unkown	She will be the first female Governor-General to act as the British Queen's representative in Australia.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	In a statement Rudd said: "I am very happy to announce, under my recommendation as Prime Minister of Australia, the queen has agreed that the honorable Bryce will be Australia's next Governor General."	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	Ms. Bryce was appointed Queensland state's governor in July of 2003.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	She will replace Governor-General Jeffery who will retire in September of this year, taking up post as Australia's new Governor-General.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	Kevin Rudd said that Ms. Bryce did an excellent job serving the country.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2450.000	2700.000	TEXT1	unknown	unkown	Ms. Bryce, with a background as a lawyer and an academic, previously served as Federal Sex Discrimination Commissioner.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2900.000	2950.000	TEXT1	unknown	unkown	+Jeffery is a veteran of the Vietnam War and served as Australia's Governor-General for five years.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	2950.000	3200.000	TEXT1	unknown	unkown	He welcomes the appointment of Ms. Bryce.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	3200.000	3600.000	TEXT1	unknown	unkown	Although the Governor-General position is mostly symbolic, if a majority party does not emerge in the parliament after an election, the Australian Governor-General has the power to appoint a Prime Minister. The Governor-General also has the power to dismiss the Prime Minister if members of the parliament lose confidence in them or they do something illegal.	0	0	0		statement
+AFP_CMN_20080413.0014.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	Although the Governor General is nominally the commander-in-chief of Australia's armed forces, in reality they only provide advice to the government.	0	0	0		statement

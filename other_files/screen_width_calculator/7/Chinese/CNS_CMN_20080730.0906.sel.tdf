@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.0906	0	200.0	300.0	speaker	unknown	unknown	中新网7月30日电 据铁道部网站消息，6月，18位铁路局长、18位铁路局党委书记共添乘机车209趟，发现各类安全隐患900多个。	0	0	0		
+CNS_CMN_20080730.0906	0	1200.0	1300.0	speaker	unknown	unknown	武汉铁路局局长余卓民针对添乘发现非提速线路防洪安全隐患较多的现象，要求相关部门加固处理路堑、路基边坡发生溜塌的地段，对线路两侧水沟等进行全面清理，确保通畅。	0	0	0		

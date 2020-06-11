@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080720.0062	0	200.0	300.0	speaker	unknown	unknown	新华网布宜诺斯艾利斯７月１９日电（记者宋洁云 冯俊扬）阿根廷《民族报》１９日报道说，正在阿根廷访问的立陶宛总统瓦尔达斯・阿达姆库斯表示，立陶宛愿在必要情况下允许	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0043	0	100.0	200.0	speaker	unknown	unknown	Xinhua News Agency, Beijing, July 8 (Reporters: Lin Liping and Rong Yan) On the 8th, Foreign Ministry Spokesman Qin Gang announced at a regular press conference that a series of important advances had been made in the Six-Party Talks thanks to the concerted efforts of all parties.	0	0	0		

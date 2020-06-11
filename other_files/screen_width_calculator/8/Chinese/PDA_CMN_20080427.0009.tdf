@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0009.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	江丙坤在上海表示：直航将使两岸经济互利双赢	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	中新社上海四月二十五日电 ((记者 许晓青))中国	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	1200.000	1600.000	TEXT1	unknown	unkown	国民党副主席江丙坤今日在此间表示：两岸若实现直航，不仅将增加两岸互动的机会，更能使两岸经济互利双赢。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	江丙坤是在与中共上海市委常委杨晓渡会面时作上述表述的。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	今日晚间，杨晓渡在此间兴国宾馆会见了中国国民党副主席江丙坤一行。杨晓渡代表正在北京的中共上海市委书记俞正声向江丙坤一行到访表示欢迎。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	2400.000	3100.000	TEXT1	unknown	unkown	会见时，江丙坤说，此行大陆主要是听取台商意见，听听他们对于今后两岸发展的期待，了解大家都在关心什么。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	3300.000	3650.000	TEXT1	unknown	unkown	江丙坤说，两岸经贸交流不仅对台商有帮助，最关键的是对台湾经济有很大的帮助。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	3650.000	4000.000	TEXT1	unknown	unkown	他说，大陆观光客若能够到台湾来，预期将对台湾的消费有很大帮助，从香港、澳门等例子来看，大陆观光客的购买力很强。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	4200.000	4250.000	TEXT1	unknown	unkown	谈及两岸直航话题，江丙坤说，直航有利民间投资，因为可节省成本。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	4250.000	4300.000	TEXT1	unknown	unkown	他还说，直航可促成台湾建成规划中的“亚太营运中心”。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	4500.000	4550.000	TEXT1	unknown	unkown	杨晓渡说，上海与台湾地缘相近、人缘相亲，在上海建设现代化国际大都市的进程中，台商作出了很多贡献。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	4550.000	4600.000	TEXT1	unknown	unkown	他表示，未来上海将继续推动沪台之间的各项交流。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	4800.000	4900.000	TEXT1	unknown	unkown	杨晓渡还说，希望江丙坤副主席对上海的建设和发展多提建设性的意见和建议。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	5100.000	5150.000	TEXT1	unknown	unkown	据悉，江丙坤此行是受中国国民党中央委托，前来大陆上海等地看望台商。	0	0	0		statement
+PDA_CMN_20080427.0009.sgm	0	5150.000	5200.000	TEXT1	unknown	unkown	今后几天，江丙坤还将赴苏州((昆山))、厦门、深圳、东莞等地。	0	0	0		statement

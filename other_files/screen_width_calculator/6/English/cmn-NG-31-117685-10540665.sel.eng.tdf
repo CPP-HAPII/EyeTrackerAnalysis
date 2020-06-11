@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10540665	0	500.0	600.0	speaker	unknown	unknown	*Normal Shut Down*	0	0	0		
+cmn-NG-31-117685-10540665	0	900.0	1000.0	speaker	unknown	unknown	If you are really unwilling to turn off the power source, you can shut down the Internet connection through the firewall or other ways while you are not using the Internet.	0	0	0		
+cmn-NG-31-117685-10540665	0	1000.0	1100.0	speaker	unknown	unknown	*Use Firewall and Anti-Spyware*	0	0	0		
+cmn-NG-31-117685-10540665	0	1300.0	1400.0	speaker	unknown	unknown	Firewall - Firewall is like a guard who stands at the door of your computer or private network.	0	0	0		
+cmn-NG-31-117685-10540665	0	1700.0	1800.0	speaker	unknown	unknown	Firewall and anti-spyware are useful weapons to fight hackers and spy programs.	0	0	0		
+cmn-NG-31-117685-10540665	0	1900.0	2000.0	speaker	unknown	unknown	Moreover, since majority of the anti-spyware products are sold together with firewall software or anti-virus software, they are very easy to find.	0	0	0		
+cmn-NG-31-117685-10540665	0	2200.0	2300.0	speaker	unknown	unknown	*Remember to Update Your Programs*	0	0	0		
+cmn-NG-31-117685-10540665	0	2800.0	2900.0	speaker	unknown	unknown	*Do Less of Useless Work*	0	0	0		
+cmn-NG-31-117685-10540665	0	2900.0	3000.0	speaker	unknown	unknown	We often see articles explaining how we should delete contents of cookies on the computer every day. However, the computer is still easy to open to attack because it is not protected by real anti-spyware.	0	0	0		
+cmn-NG-31-117685-10540665	0	3000.0	3100.0	speaker	unknown	unknown	Unless a cookie has tracking feature, it is relatively harmless.	0	0	0		
+cmn-NG-31-117685-10540665	0	3100.0	3200.0	speaker	unknown	unknown	On the contrary, we should focus on the truly important aspect: choose an actual anti-spyware.	0	0	0		
+cmn-NG-31-117685-10540665	0	3400.0	3500.0	speaker	unknown	unknown	*Beware of Free Anti-Spyware*	0	0	0		
+cmn-NG-31-117685-10540665	0	3900.0	4000.0	speaker	unknown	unknown	*Beware of Your Mail*	0	0	0		
+cmn-NG-31-117685-10540665	0	4800.0	4900.0	speaker	unknown	unknown	Thank you for your reply!	0	0	0		

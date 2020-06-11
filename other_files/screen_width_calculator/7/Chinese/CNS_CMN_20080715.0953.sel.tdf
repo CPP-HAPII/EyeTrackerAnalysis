@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.0953	0	900.0	1000.0	speaker	unknown	unknown	冈山县中国学友会会长王雪松说:“冈山县仓敷市内发生交通事故而失去意识的中国留学生吕燕玲(30岁)，刚到日本当地的医院住院治疗，罗田广总领事赶来慰问看望，并为她的治疗和保险出了很多的力。”	0	0	0		
+CNS_CMN_20080715.0953	0	1400.0	1500.0	speaker	unknown	unknown	罗田广总领事和大阪府知事桥下彻的友谊，使得桥下彻成了中国迷，15日早晨9点，桥下彻知事就提前到了灵堂为他这位最尊敬的老朋友送行。	0	0	0		
+CNS_CMN_20080715.0953	0	1700.0	1800.0	speaker	unknown	unknown	崔天凯大使安慰每一位悲痛欲绝的吊唁者，他对大家说：“罗田广总领事虽然离开了我们，可是他的亲民爱民为民热情服务的精神将永远留在我们驻使领馆的工作之中。”(黑濑道子)	0	0	0		

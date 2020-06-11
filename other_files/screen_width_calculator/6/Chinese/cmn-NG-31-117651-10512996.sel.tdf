@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10512996	0	600.0	700.0	speaker	unknown	unknown	因此，从去年以来，就不断有官员出来针对通胀发表言论，但综观这些言论，要麽是为自己的失职和无能辩护，要麽是一些没有可行性的空话和废话，要麽是板子打错，开错药方，留下无数笑柄。	0	0	0		
+cmn-NG-31-117651-10512996	0	700.0	800.0	speaker	unknown	unknown	最新亮相的是国家统计局局长谢伏瞻。	0	0	0		
+cmn-NG-31-117651-10512996	0	900.0	1000.0	speaker	unknown	unknown	但出人意料的是，这位谢局长竟然不出手则已，一出手便语惊四座，令人对其刮目相看。	0	0	0		
+cmn-NG-31-117651-10512996	0	1100.0	1200.0	speaker	unknown	unknown	话说到这＿G，谢局长还没有错，面对国际、国内通胀形势，有效抑制物价过快上涨确属当务之急。	0	0	0		
+cmn-NG-31-117651-10512996	0	1300.0	1400.0	speaker	unknown	unknown	按照谢局长的逻辑，当前的通胀是务工收入增长太快、太高所致，而且，谢局长还特指农民工务工收入过快上涨。	0	0	0		
+cmn-NG-31-117651-10512996	0	2200.0	2300.0	speaker	unknown	unknown	中国有十亿农民，却只有十八亿亩耕地，每人平均不到二亩耕地。	0	0	0		

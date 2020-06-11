@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Bird Flu Kills Egyptian Teen, 21 Dead in All	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	CAIRO, the 5th (AFP)	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	Egypt's health ministry says a teen died today from the H5N1 bird flu virus,the 21st person in Egypt to succumb to the H5N1 virus since the fatal virus was discovered here in 2006.	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	Health ministry official Sayyed told the state MENA that Ibrahim, 19, from the Nile Delta province of Beheira, died in hospital.	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	2000.000	2300.000	TEXT1	unknown	unkown	"The teen had been taken to a hospital in the Mediterranean city of Alexandria on the 3rd after experiencing high fever and shortness of breath," Sayyed said."He had had contact with infected poultry."	0	0	0		statement
+AFP_CMN_20080406.0003.sgm	0	2500.000	2700.000	TEXT1	unknown	unkown	Ibrahim was the 48th reported case of human bird flu in Egypt.	0	0	0		statement

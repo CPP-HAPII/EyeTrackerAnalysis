@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080721.0072	0	0.0	100.0	speaker	unknown	unknown	(cip)aaa072139（请国际部综合室处理）英国首相表示将阻止伊朗研制核武器	0	0	0		

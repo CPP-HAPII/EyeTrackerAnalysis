@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.0418	0	800.0	900.0	speaker	unknown	unknown	“但如果要持之以恒，前提就是社会必须保持凝聚力和稳定，那些成功者必须心生回馈社会的意愿。	0	0	0		
+CNS_CMN_20080709.0418	0	900.0	1000.0	speaker	unknown	unknown	他们从社会取之越多，就越应肩负回馈社会责任。”	0	0	0		
+CNS_CMN_20080709.0418	0	1400.0	1500.0	speaker	unknown	unknown	李显龙透露，本地公益机构(IPC)去年所获得的捐赠就增加了百分之五十至八亿二千万新加坡元。	0	0	0		

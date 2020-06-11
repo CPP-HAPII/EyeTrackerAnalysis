@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080717.0634	0	200.0	300.0	speaker	unknown	unknown	新华社西宁７月１６日奥运专电题：环湖赛进入“中盘”	0	0	0		
+PLA_CMN_20080717.0634	0	600.0	700.0	speaker	unknown	unknown	前六个赛段各有两个典型的爬坡赛段和平路赛段。	0	0	0		
+PLA_CMN_20080717.0634	0	900.0	1000.0	speaker	unknown	unknown	前六个赛段中，象征个人总成绩第一的黄色领骑衫两度易主，一度雄踞车队排名榜首的丹麦国家队跌出前三，“爬山王”头把交椅也在１６日换了主人。	0	0	0		
+PLA_CMN_20080717.0634	0	1200.0	1300.0	speaker	unknown	unknown	前六个赛段过后，个人总成绩排名前十位选手间的差距并没有拉开，人人都有穿上黄衫的机会。	0	0	0		
+PLA_CMN_20080717.0634	0	1600.0	1700.0	speaker	unknown	unknown	这名意大利老将开赛以来排名一直稳居前十，而他去年就是后来居上，完成逆转。	0	0	0		

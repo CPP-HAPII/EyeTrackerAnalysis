@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080414.0337	0	1100.0	1200.0	speaker	unknown	unknown	Mohtaj said, "The explosion was not caused by a bomb planted in advance." Mohtaz did not issue more details.	0	0	0		

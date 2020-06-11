@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080415.0247	0	1100.0	1200.0	speaker	unknown	unknown	二思怂恿暴力是要跟谁闹别扭？	0	0	0		
+CNS_CMN_20080415.0247	0	2300.0	2400.0	speaker	unknown	unknown	今天中国的西藏，在摆脱政教合一的农奴制度以后，正大踏步走向现代社会。	0	0	0		
+CNS_CMN_20080415.0247	0	3000.0	3100.0	speaker	unknown	unknown	达赖集团不愿看到西藏的现代化进程，企图恢复旧的农奴制，对西藏经济社会发展的每一个进步，甚至修通青藏铁路都大加攻击，还恶意诽谤各兄弟民族对西藏的无私援助，千方百计挑起矛盾。	0	0	0		
+CNS_CMN_20080415.0247	0	3300.0	3400.0	speaker	unknown	unknown	农奴制度的苦难，岂容重演；政教合一的黑暗，岂容再生？	0	0	0		
+CNS_CMN_20080415.0247	0	3500.0	3600.0	speaker	unknown	unknown	尘埃落定有三思，更莫忘：第一世达赖喇嘛的老师——宗喀巴大师早就告诫：“汝莫杀生命，众生于命极护惜”！	0	0	0		

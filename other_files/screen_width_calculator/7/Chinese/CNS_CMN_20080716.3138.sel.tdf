@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.3138	0	1700.0	1800.0	speaker	unknown	unknown	香港特区政府当前正在落实的两件大事，不仅遂了民愿，也兼顾全局，是利国利民的两件实事。	0	0	0		

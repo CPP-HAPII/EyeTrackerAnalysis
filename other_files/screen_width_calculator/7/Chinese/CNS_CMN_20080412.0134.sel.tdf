@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080412.0134	0	1300.0	1400.0	speaker	unknown	unknown	发生于全国各地的大大小小社保基金案，其深层次一个原因即在于政府做了不该做的事：在世界银行推荐的“多支柱”养老保险模式中，个人账户的资金来源具有强制性，也就是个人必须参加，但个人账户的产权则完全属于个人。	0	0	0		

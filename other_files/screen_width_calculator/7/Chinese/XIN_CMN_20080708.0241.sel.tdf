@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0241	0	400.0	500.0	speaker	unknown	unknown	作为原北京大学旧址，北大红楼是“五四”运动的发祥地，新文化运动的营垒，马克思主义在中国最早传播的地方。	0	0	0		

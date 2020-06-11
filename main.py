@@ -14,6 +14,7 @@ import core.combine_csv as combine_csv
 import core.split_extra as split_extra
 import core.compare_order_by_fixation as compare_order_by_fixation
 import core.compare_order_by_click as compare_order_by_click
+import core.compare_by_relevance as compare_by_relevance
 import core.calculate_switch as calculate_switch
 
 import pandas as pd
@@ -23,7 +24,7 @@ import sys
 import json
 import os
 
-valid_commands = ["process_all", "process_one_user", "combine_csv", "split_extra", "compare_order_fixation", "compare_order_click", "switch_penalty", "drop_total", "median_split"]
+valid_commands = ["process_all", "process_one_user", "combine_csv", "split_extra", "compare_order_fixation", "compare_order_click", "switch_penalty", "drop_total", "median_split", "compare_by_relevance"]
 
 # Start the command line arguments
 s = "Various functions to calculate things relating to eye gaze, such as saccade calculations or\n\
@@ -82,6 +83,11 @@ parser_new_split = subparsers.add_parser(valid_commands[8], help="Assign user di
 parser_new_split.add_argument("path_to_folder", help="The path to user_study_data folder",
     metavar="path_to_user_study_folder")
 
+# Create parser for the compare_by_relevance command
+parser_compare_by_relevance = subparsers.add_parser(valid_commands[9], help="compare_by_relevance")
+parser_compare_by_relevance.add_argument("path_to_file", help="The path to combined relevance result file",
+    metavar="path_to_file")
+
 # Compile all the command line parser and subparsers
 args = parser.parse_args()
 
@@ -119,7 +125,7 @@ def process_one_user(folder_name):
     combine_per_page.combine(path_to_collapsed_fixation_file, path_to_collapsed_blink_file, path_to_combined_page_file, path_to_task_file)    
     combine_per_aoipage.combine(path_to_combined_AOI_file, path_to_combined_page_file, path_to_combined_AOIpage_file)
 
-# Process all users at once
+# Process all users in the user_study_data folder at once, folder must contains "User", and "NAH" are ignored
 if args.command_name == valid_commands[0]:
     root = args.path_to_folder
     dirlist = [item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item))]
@@ -130,30 +136,31 @@ if args.command_name == valid_commands[0]:
         folder_name = args.path_to_folder + x + "/"
         process_one_user(folder_name)        
 
-# Process one user
+# Process one user at a time
 if args.command_name == valid_commands[1]:
     process_one_user(args.path_to_folder)
 
-# Combine all csv files
+# Combine all csv files that was processed in each user folder, folder must contains "User", and "NAH" are ignored
 if args.command_name == valid_commands[2]:
     combine_csv.combine_csv(args.path_to_folder)
 
-# Split Extra column
+# Split Extra column, used for Weka
 if args.command_name == valid_commands[3]:
     split_extra.process_csv(args.path_to_file)
 
-# Calculate order result by fixation
+# Calculate fixation time by order
 if args.command_name == valid_commands[4]:
     compare_order_by_fixation.compare_order_by_fixation(args.path_to_file)
 
-# Calculate order result by click
+# Compare click time by order results produced in analysis_results/comparison_results/by_order/
 if args.command_name == valid_commands[5]:
     compare_order_by_click.compare_order_by_click(args.path_to_file)
 
-# Calculate switch penalty
+# Calculate switch penalty from click time, results produced in analysis_results/comparison_results/by_switch/
 if args.command_name == valid_commands[6]:
     calculate_switch.calculate_switch_prep(args.path_to_file)
 
+# Remove features containing the name "tota" from the csv files
 if args.command_name == valid_commands[7]:
     input_file = args.path_to_file
     pd_dataframe = pd.read_csv(input_file, sep=",", index_col=False)
@@ -161,36 +168,39 @@ if args.command_name == valid_commands[7]:
     pd_dataframe = pd_dataframe[cols]
     pd_dataframe.to_csv(input_file, index=False)
 
+# Modify three-way-split prediction results into median-split based on self, test, cefr, and paper
 if args.command_name == valid_commands[8]:
     root = args.path_to_folder + "original"
     dirlist = [item for item in os.listdir(root) if os.path.isfile(os.path.join(root, item))]
     
-    low_chinese_self_median = [5385,1338,671]
-    high_chinese_self_median = [3545,132,1586,2068,2591]
-    low_chinese_test_median = [5385,1338,671]
-    high_chinese_test_median = [3545,132,1586,2068,2591]
-    low_chinese_cefr_median = [5385,1338,671,2591]
-    high_chinese_cefr_median = [3545,132,1586,2068]
-    low_chinese_paper_median = [5385,1338,671,2591]
-    high_chinese_paper_median = [3545,132,1586,2068]
+    median_split_df = pd.read_csv("user_study_data/users_median_split.csv", sep=",", index_col=False)
 
-    low_spanish_self_median = [5890,2899,6673,7734,6515,6965,1855,1699,2934,452,6853,1572,2929]
-    high_spanish_self_median = [2128,2156,5492,3816,4799,5689]
-    low_spanish_test_median = [5890,2899,7734,6515,3816,1855,1699,452,1572,2929]
-    high_spanish_test_median = [2128,2156,5492,6673,6965,2934,4799,5689,6853]
-    low_spanish_cefr_median = [5890,2899,1855,1699,452,1572,2929,6965]
-    high_spanish_cefr_median = [2128,2156,6515,5492,6673,2934,4799,5689,6853,7734,3816]
-    low_spanish_paper_median = [5890,2899,1855,1699,452,1572,2929,6965]
-    high_spanish_paper_median = [2128,2156,6515,5492,6673,2934,4799,5689,6853,7734,3816]
+    low_chinese_self_median = median_split_df["lcs"].tolist()
+    high_chinese_self_median = median_split_df["hcs"].tolist()
+    low_chinese_test_median = median_split_df["lct"].tolist()
+    high_chinese_test_median = median_split_df["hct"].tolist()
+    low_chinese_cefr_median = median_split_df["lcc"].tolist()
+    high_chinese_cefr_median = median_split_df["hcc"].tolist()
+    low_chinese_paper_median = median_split_df["lcp"].tolist()
+    high_chinese_paper_median = median_split_df["hcp"].tolist()
 
-    low_english_self_median = [3545,132,1586,6515,2591,671]
-    high_english_self_median = [5890,2128,2156,5492,2899,6673,7734,2068,5385,6965,1338,3816,1855,1699,2934,4799,5689,452,6853,1572,2929]
-    low_english_test_median = [3545,132,1586,2591,671,2156,5492,2899,2068,1338,3816,5689,2929]
-    high_english_test_median = [5890,2128,6673,7734,5385,6965,1855,1699,2934,4799,452,6853,1572,6515]
-    low_english_cefr_median = [3545,132,1586,6515,2591,671,6965,3816,4799,5689,6853]
-    high_english_cefr_median = [5890,2128,2156,5492,2899,6673,7734,2068,5385,1338,1855,1699,2934,452,1572,2929]
-    low_english_paper_median = [3545,1586,2591,671,6853]
-    high_english_paper_median = [5890,2128,2156,5492,2899,6673,7734,2068,5385,1338,1855,1699,2934,452,1572,2929,132,6965,6515,3816,4799,5689]
+    low_spanish_self_median = median_split_df["lss"].tolist()
+    high_spanish_self_median = median_split_df["lss"].tolist()
+    low_spanish_test_median = median_split_df["lss"].tolist()
+    high_spanish_test_median = median_split_df["lss"].tolist()
+    low_spanish_cefr_median = median_split_df["lss"].tolist()
+    high_spanish_cefr_median = median_split_df["lss"].tolist()
+    low_spanish_paper_median = median_split_df["lss"].tolist()
+    high_spanish_paper_median = median_split_df["lss"].tolist()
+
+    low_english_self_median = median_split_df["les"].tolist()
+    high_english_self_median = median_split_df["les"].tolist()
+    low_english_test_median = median_split_df["les"].tolist()
+    high_english_test_median = median_split_df["les"].tolist()
+    low_english_cefr_median = median_split_df["les"].tolist()
+    high_english_cefr_median = median_split_df["les"].tolist()
+    low_english_paper_median = median_split_df["les"].tolist()
+    high_english_paper_median = median_split_df["les"].tolist()
 
     for item in dirlist:
         self_median_list = []
@@ -352,4 +362,8 @@ if args.command_name == valid_commands[8]:
 
             df["Paper Median"] = paper_median_list
             name = item.replace("english", "english median paper")
-            df.to_csv(args.path_to_folder + "/medianpaper/" + name, index=False) 
+            df.to_csv(args.path_to_folder + "/medianpaper/" + name, index=False)
+
+# Compare click time by relevance, results produced in analysis_results/comparison_results/by_relevance/
+if args.command_name == valid_commands[9]:
+    compare_by_relevance.compare_by_relevance(args.path_to_file)

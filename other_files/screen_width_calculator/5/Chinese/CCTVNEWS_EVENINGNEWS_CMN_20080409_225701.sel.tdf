@@ -1,0 +1,85 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'filler', u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'report', u'report', u'report', u'report', None]
+;;MM sectionBoundaries	[0.0, 194.21700000000001, 318.66699999999997, 324.43000000000001, 366.346, 374.23399999999998, 511.505, 563.06700000000001, 572.16099999999994, 614.83100000000002, 648.89800000000002, 692.75699999999995, 736.25099999999998, 877.17700000000002, 1026.865, 1106.4490000000001, 1209.6369999999999, 9999999.0]
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	194.217	196.091	speaker#1	male	native	各位好,欢迎收看新闻	1	1	1	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	224.759	232.647	speaker#2	male	native	四月的海南蓝天丽日,椰风海韵,到处展现出勃勃生机	1	2	3	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	232.647	236.478	speaker#2	male	native	今年是海南建省办经济特区二十周年	1	2	4	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	236.478	246.296	speaker#2	male	native	七号下午,胡锦涛专程前往海南省博物馆,参观正在这里举办的海南建省办经济特区二十周年成就展	1	2	5	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	246.296	257.193	speaker#2	male	native	成就展上,一组组数据,一幅幅图片,一件件实物,一个个模型,生动展示了海南二十年走过的不平凡历程	1	2	6	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	257.193	263.645	speaker#2	male	native	总书记兴致勃勃地观看展览,认真听取介绍,不时询问有关情况	1	2	7	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	306.465	318.667	Hu_Jin_Tao	male	native	首先我代表党中央国务院对各位劳模表示诚实的问候和崇高的敬意	1	3	12	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	334.963	345.449	Hu_Jin_Tao	male	native	在这些成就当中,凝聚着劳动模范们的心血和汗水	3	5	15	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	345.449	357.893	Hu_Jin_Tao	male	native	同志们你们辛勤工作,艰苦创业,拼搏奉献,在平凡的岗位上干出了不平凡的业绩	3	5	16	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	357.893	366.346	Hu_Jin_Tao	male	native	你们是海南改革开放和现代化建设的功臣,党和人民感谢你们	3	5	17	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	374.234	381.156	speaker#2	male	native	胡锦涛希望劳模珍惜荣誉,再接再厉,创造新业绩,争取新光荣	5	7	19	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	381.156	394.735	speaker#2	male	native	希望广大干部群众认真学习劳模事迹,大力弘扬劳模精神,积极投身到海南各项建设事业中去,奋力夺取全面建设小康社会新胜利	5	7	20	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	394.735	403.516	speaker#2	male	native	位于海南省西北部的国家级开发区洋浦经济开发区,是海南改革开放一个夺目的亮点	5	7	21	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	403.516	407.391	speaker#2	male	native	十二年前,胡锦涛曾来到洋浦经济开发区考察	5	7	22	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	407.391	414.399	speaker#2	male	native	八号上午,总书记再次踏上这片热土,实地了解开发区的建设情况	5	7	23	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	429.306	434.618	speaker#2	male	native	胡锦涛顶着烈日走上引桥,认真察看输油设施	5	7	25	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	434.618	442.602	speaker#2	male	native	管道直径有多大,卸油能力每小时多少吨,已累计接卸多少原油,总书记问得十分详细	5	7	26	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	442.602	452.473	speaker#2	male	native	当了解到这个码头每小时能卸油六千至九千吨,是目前全国最大的原油码头之一时,胡锦涛十分满意	5	7	27	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	452.473	456.395	speaker#2	male	native	随后,胡锦涛又来到洋浦港码头考察	5	7	28	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	456.395	467.0	speaker#2	male	native	于一九九零年开港的洋浦港是海南省天然条件最好的深水港,二零零七年港口吞吐量达到四百二十七万吨	5	7	29	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	476.077	481.061	speaker#2	male	native	胡锦涛走到干部职工中,仔细询问港口的生产情况	5	7	31	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	494.779	501.368	speaker#2	male	native	海南热带农业资源丰富,是全国重要的热带高效农业生产基地。	5	7	33	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	501.368	511.505	speaker#2	male	native	在乐东黎族自治县尖峰镇山道村田洋瓜菜基地,胡锦涛走到黎族农民黄正光夫妇面前同他们聊了起来	5	7	34	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	511.505	513.373	Hu_Jin_Tao	male	native	豆角今年收成怎么样	6	8	35	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	513.373	515.929	Huang_Zheng_Guang	male	native	今年还是价钱很好	6	9	36	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	515.929	517.534	Hu_Jin_Tao	male	native	价钱很好	6	10	37	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	515.929	517.534	Huang_Zheng_Guang	male	native	嗯	6	10	38	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	520.732	537.795	Hu_Jin_Tao	male	native	嗯,嗯	6	10	41	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	520.732	537.795	Huang_Zheng_Guang	male	native	我们呃困难还是有一点,那就是现在呢物价上涨,我们老百姓呢种的就主要是这个肥料,呃价钱不稳定, (()) ,也是很困难的, (())	6	10	42	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	556.955	563.067	Hu_Jin_Tao	male	native	为了不给农民增加这个负担,呃中央定了就拿出一笔资金来补给农民	6	10	45	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	572.161	591.108	speaker#2	male	native	在尖峰镇凤田香蕉种植基地,胡锦涛同香蕉专业户黎吉东攀谈起来,详细了解他创立的香蕉专业公司通过吸收村民以土地和劳力等形式入股、带动全村脱贫致富的情况,对他的这一做法给予了肯定	8	12	48	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	591.108	601.233	speaker#2	male	native	三亚市凤凰镇槟榔村是一个黎族村庄,这里家家庭院里都种着槟榔树,槟榔成了村里农民收入的主要来源	8	12	49	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	605.483	614.831	speaker#2	male	native	在村委会,胡锦涛听取了槟榔村发展情况的介绍,并通过农村科技服务幺幺零详细了解农产品销售情况	8	12	51	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	614.831	617.626	Hu_Jin_Tao	male	native	幺幺零咨询台嘛	9	13	52	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	617.626	618.724	speaker#5	male	native	是	9	14	53	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	618.724	634.905	Hu_Jin_Tao	male	native	我想请教你一个问题,今年在南方一些地方发生冰冻雨雪灾害的时候,省委省政府号召海南的农民群众抢种了一批蔬菜	9	15	54	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	634.905	641.994	Hu_Jin_Tao	male	native	现在这一批蔬菜都已经接近成熟了,这些蔬菜往哪些地方销比较合适	9	15	55	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	641.994	648.898	speaker#5	male	native	就是北京的 (()) ,还有广州的广州市场,呃还有湖南	9	16	56	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	648.898	658.165	speaker#2	male	native	随后,胡锦涛走进村合作医疗卫生室,同医护人员和正在接受治疗的村民交谈,询问村卫生室为村民服务的情况	10	17	57	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	658.165	663.817	speaker#2	male	native	卫生室墙上张贴着槟榔村新型农村合作医疗情况公示表等	10	17	58	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	663.817	672.755	speaker#2	male	native	看到公示的内容很详尽,了解到百分之九十八点五的村民参加了新型农村合作医疗,总书记十分赞许	10	17	59	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	692.757	708.9	Hu_Jin_Tao	male	native	现在呢我们税不交了,啊这个孩子上学不要交钱了,这个呃有了合作医疗,呃政府呢还加大了对农村的这个--这个水呀,电呀,路啊, (()) 加大了对这些的投-投资	11	18	63	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	708.9	716.876	Hu_Jin_Tao	male	native	那目的就是什么呢,目的就是我们 (()) 使得这个呃农民群众这个生产条件,生活条件能够得到改善	11	18	64	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	716.876	722.007	Hu_Jin_Tao	male	native	呃这样的话呢就可以更好的啊脱贫致富,奔小康	11	19	65	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	716.876	722.007	speaker#6	male	native	对	11	19	66	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	722.007	736.251	Hu_Jin_Tao	male	native	不,你们应该说希望中央啊的政策要变,要变得越来越好, (()) {laugh}	11	19	67	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	722.007	736.251	speaker#6	male	native	党的政策永远不变,我们老百姓就放心了, (()) {laugh}	11	19	68	filler	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	753.188	759.204	speaker#2	male	native	良好的生态环境,是海南发展的突出优势和长期依托	12	20	70	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	759.204	769.884	speaker#2	male	native	海口市白沙门污水处理厂是海南省一个重点环保工程,经过这里处理的污水出水水质主要指标达到国家排放标准	12	20	71	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	769.884	779.588	speaker#2	male	native	每年产出的一点八万吨污泥全部外销用作农业制肥底料,产出的沼气全部用于发电	12	20	72	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	779.588	790.806	speaker#2	male	native	在这家污水处理厂的中心控制室,胡锦涛饶有兴致地与企业负责人就生态环境保护和污水处理的有关问题讨论起来	12	20	73	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	790.806	808.312	speaker#2	male	native	总书记强调,海南一定要按照建设生态文明,基本形成节约能源资源和保护生态环境的产业结构,增长方式,消费模式的要求,坚持把建设生态文明,保护生态环境,放在经济社会发展的首要位置	12	20	74	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	858.909	877.177	speaker#2	male	native	考察期间,胡锦涛在中共中央政治局委员,中央军委副主席郭伯雄等陪同下,视察了海军驻三亚部队,检查了部队装备和设施建设情况,听取了有关工作汇报,亲切会见了海军驻三亚部队师以上干部	12	20	78	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	877.177	880.099	speaker#1	male	native	来看其他时政要闻	13	21	79	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	880.099	886.446	speaker#9	male	native	吴邦国四月九号在人民大会堂会见了哈萨克斯坦总理马西莫夫	13	22	80	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	886.446	894.568	speaker#9	male	native	温家宝四月九号在人民大会堂主持仪式,欢迎哈萨克斯坦总理马西莫夫访华,并与马西莫夫举行会谈	13	22	81	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	902.255	913.428	speaker#9	male	native	全国社会治安综合治理工作会议四月七号至九号在广州召开,周永康出席会议并强调,不断推动社会治安综合治理工作取得新发展	13	22	83	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	918.992	933.258	speaker#7	female	native	温家宝首先对国际奥委会和罗格本人为发展奥林匹克运动,增进世界各国、各地区人民间的相互了解和友谊所作的重要贡献表示赞赏,感谢他们对北京奥运会筹办工作给予的宝贵支持	13	23	85	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	938.398	941.008	speaker#7	female	native	目前奥运圣火正在全球传递	13	23	87	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	941.008	948.54	speaker#7	female	native	奥运圣火是和平,友谊,进步和光明的象征,代表着人类对美好未来的共同追求和祈盼	13	23	88	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	948.54	952.509	speaker#7	female	native	我们坚信,属于全人类的奥运圣火是不会熄灭的	13	23	89	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	984.493	994.446	speaker#7	female	native	罗格希望奥运火炬境外传递活动能够平安顺利地进行下去,相信中国政府有能力妥善解决当前出现的一些问题	13	23	93	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	994.446	1001.087	speaker#2	male	native	汤加国王乔治图普五世今天晚上乘飞机抵达三亚凤凰国际机场	13	24	94	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1001.087	1007.149	speaker#2	male	native	图普五世是应国家主席胡锦涛的邀请,从今天开始对我国进行国事访问的	13	24	95	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1013.26	1020.865	speaker#2	male	native	明天下午,国家主席胡锦涛将在三亚为图普五世举行欢迎仪式和正式会谈	13	24	97	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1020.865	1026.865	speaker#2	male	native	两国元首将就双边关系和共同关心的国际地区问题深入交换意见	13	24	98	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1026.865	1032.937	speaker#1	male	native	博鳌亚洲论坛二零零八年年会将于十一号至十三号在海南博鳌举行	14	25	99	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1039.89	1050.215	speaker#10	female	native	作为密切关注全球热点和亚洲发展的一个地区性论坛组织,博鳌亚洲论坛今年的话题力求从变革和绿色两个方面寻求突破	14	26	101	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1059.761	1092.511	Long_Yong_Tu	male	native	大家都想听一听啊中国的声音,因为中国对这个当前的国际经济形势怎么看,啊中国对这个已经经过了改革开放三十周年,经过这三十年,中国还会啊走什么样的道路,中国对这个全球经济也好,对亚洲经济也好,对亚洲区域经济合作也好,会有些什么新的方法,新的倡议,新的看法,所以大家还是非常期盼的,就是希望能够听到中国的声音和中国权威的声音	14	27	103	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1092.511	1102.448	speaker#10	female	native	据介绍,国家主席胡锦涛将在十二号开幕大会上发表主旨演讲,共有十位外国首脑也将应邀出席论坛年会开幕式	14	28	104	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1102.448	1106.449	speaker#10	female	native	本届论坛与会代表将达到一千五百人左右	14	28	105	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1117.543	1127.884	speaker#9	male	native	向巴平措介绍说,截止到昨天的统计,三幺四打砸抢烧事件给西藏人民造成的财产损失达到两亿八千多万元	15	30	107	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1142.95	1146.668	speaker#9	male	native	目前,拉萨市的生产生活秩序已恢复正常	15	30	109	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1146.668	1161.809	speaker#9	male	native	向巴平措在回答关于寺庙里的僧侣参与打砸抢烧事件的提问时说,寺庙里面绝大多数人没有参与打砸抢烧暴力犯罪活动,但是确有一部分不仅参与了,而且是挑头闹事	15	30	110	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1161.809	1173.591	speaker#9	male	native	中共中央统战部副部长斯塔在回答记者提问时指出,从一九七九年到现在为止,达赖喇嘛方面先后派出了二十多批代表和参观团回国参观	15	30	111	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1173.591	1178.669	speaker#9	male	native	中央有关部门就他们关心的一些问题,都做过深入的交谈	15	30	112	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1178.669	1194.075	speaker#9	male	native	二零零二年以来,达赖的私人代表先后六次与中央有关部门负责同志接触,但是接触商谈没有取得进展,最根本的原因就在于达赖喇嘛方面没有诚意,始终没有停止分裂国家的活动	15	30	113	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1209.637	1211.934	speaker#1	male	native	来看一组时政方面的消息	16	31	115	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1211.934	1222.203	speaker#10	female	native	中国哈萨克斯坦高层商务论坛今天在北京召开,国务院副总理王岐山与哈萨克斯坦总理马西莫夫出席论坛并发表演讲	16	32	116	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1222.203	1234.531	speaker#10	female	native	王岐山指出,当前中哈经济都处于快速发展时期,双边经贸合作潜力巨大,中国愿继续全面深化中哈互利合作,不断丰富两国战略伙伴关系内涵	16	32	117	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1242.343	1246.827	speaker#10	female	native	二扩大合作,互利共赢,拓宽合作领域,提高合作水平	16	32	119	report	statement
+CCTVNEWS_EVENINGNEWS_CMN_20080409_225701	0	1246.827	1255.561	speaker#10	female	native	三扎实推进,力求实效,在加强能源合作的同时,积极推动非能源领域合作,尽快启动一批经济技术合作项目	16	32	120	report	statement

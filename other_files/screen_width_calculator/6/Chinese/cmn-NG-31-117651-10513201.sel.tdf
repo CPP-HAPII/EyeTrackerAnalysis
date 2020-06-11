@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10513201	0	800.0	900.0	speaker	unknown	unknown	曾其毅副局长如果不说这个话，老百姓怎么能知道，那些当官的，居然会有这样的观点？	0	0	0		
+cmn-NG-31-117651-10513201	0	1300.0	1400.0	speaker	unknown	unknown	卫生官员，不是最应该知悉眼下广大老百姓“就医难”状况吗？	0	0	0		
+cmn-NG-31-117651-10513201	0	1600.0	1700.0	speaker	unknown	unknown	曾其毅副局长如果不说这个话，老百姓怎么能知道，中国的医疗改革为什么只是干打大雷，不下小雨？	0	0	0		
+cmn-NG-31-117651-10513201	0	1700.0	1800.0	speaker	unknown	unknown	既然“走遍全世界，中国看病最不贵”，老百姓病看了，却花最少的钱，善莫大焉，有什么改变现有美好医疗制度的必要呢？	0	0	0		
+cmn-NG-31-117651-10513201	0	2200.0	2300.0	speaker	unknown	unknown	用曾副局长的逻辑，就当给自己的自行车内胎补一次漏气吧，才值几个钱啊！	0	0	0		
+cmn-NG-31-117651-10513201	0	3000.0	3100.0	speaker	unknown	unknown	这使我想起一贯不合时宜的鲁迅，几十年前曾问过这样刻薄和十分不地道的酸话——纽约的石油大王，哪能体会北京捡煤核老太太的苦处？	0	0	0		
+cmn-NG-31-117651-10513201	0	3100.0	3200.0	speaker	unknown	unknown	如今那些看病无需花自家钱的卫生官，自然也是很厌烦看病“只花小钱”却牢骚满腹的小百姓的——已经让你们“看病最不贵”了，难道，你们还想住贵宾病房或高干病房不成？	0	0	0		

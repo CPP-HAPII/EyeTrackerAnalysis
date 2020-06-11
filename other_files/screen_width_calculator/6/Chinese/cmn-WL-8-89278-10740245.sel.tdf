@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10740245	0	100.0	200.0	speaker	unknown	unknown	08月21日 10:39 经济参考报 正文内容 begin google_ad_section_start 内容模块：单图 begin	0	0	0		
+cmn-WL-8-89278-10740245	0	200.0	300.0	speaker	unknown	unknown	内容模块：单图 end	0	0	0		
+cmn-WL-8-89278-10740245	0	300.0	400.0	speaker	unknown	unknown	本报东京电 日本中央银行——日本银行20日发布月度经济评估报告，将其对目前日本经济形势的判断概括为“疲软”，而其上个月的判断为“进一步放缓”。	0	0	0		
+cmn-WL-8-89278-10740245	0	400.0	500.0	speaker	unknown	unknown	这是日本央行10年来首次对经济形势作出“疲软”的判断。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080422.1218	0	1300.0	1400.0	speaker	unknown	unknown	与地铁里情况相似，记者在14路、70路、37路等多趟公交车上以及西直门地下公交换乘大厅里同样难觅“烟踪”。	0	0	0		

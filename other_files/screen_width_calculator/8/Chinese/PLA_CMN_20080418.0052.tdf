@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080418.0052.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	南京政治学院增强学员军事体能素质	0	0	0		statement
+PLA_CMN_20080418.0052.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-18 06:18:31   来源：解放军报第2版	0	0	0		statement
+PLA_CMN_20080418.0052.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报南京4月15日电	0	0	0		statement
+PLA_CMN_20080418.0052.sgm	0	950.000	975.000	TEXT1	unknown	unkown	魏锦文、张永祥报道：4月上旬，南京政治学院组织学员分批赴南京市奥体中心进行游泳训练。	0	0	0		statement
+PLA_CMN_20080418.0052.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	该院注重加强学员的军事体能和综合技能训练，不断增强学员军事体能素质。	0	0	0		statement
+PLA_CMN_20080418.0052.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	为严格落实《中国人民解放军军人体能标准》，该院积极部署体能训练各阶段工作，开展中长跑、俯卧撑、400米障碍等必训和选训体能课目训练，打牢体能基础。	0	0	0		statement
+PLA_CMN_20080418.0052.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	同时，将军体课教员分配到学员队，负责指导学员科学、健康、有效地实施训练。	0	0	0		statement
+PLA_CMN_20080418.0052.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	据悉，游泳训练结束后，该院还将组织学员进行汽车驾驶等课目训练。	0	0	0		statement

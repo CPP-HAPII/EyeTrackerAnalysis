@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76811-10074401	0	0.0	100.0	speaker	unknown	unknown	What materials do you all use for flat fielding calibration?	0	0	0		
+cmn-NG-4-76811-10074401	0	200.0	300.0	speaker	unknown	unknown	After researching for a long while, I found most amateurs use the sky before dark as flat field. Has anyone tried anything else such as white paper??	0	0	0		

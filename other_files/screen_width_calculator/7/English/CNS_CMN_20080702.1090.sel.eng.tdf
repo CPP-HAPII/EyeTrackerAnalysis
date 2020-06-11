@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1090	0	0.0	100.0	speaker	unknown	unknown	Change thinking and optimize configuration: increasing oil and power prices to force enterprises to see opportunity in crisis	0	0	0		
+CNS_CMN_20080702.1090	0	1100.0	1200.0	speaker	unknown	unknown	Compared with electricity price, the increase of diesel oil is even more of a headache for Wei Xiaojian.	0	0	0		
+CNS_CMN_20080702.1090	0	1200.0	1300.0	speaker	unknown	unknown	Wei is deputy general manager of Shenhui Logistic Group, one of the top logistic enterprises of China.	0	0	0		
+CNS_CMN_20080702.1090	0	1600.0	1700.0	speaker	unknown	unknown	In Jinjiang City of Fujian Province, which is a production base of shoes, hats and garments, the price has gone up 10% since the beginning of the year for shoe materials and 15%20% for textile fabrics, plus a rise of nearly 20% in manpower cost.	0	0	0		
+CNS_CMN_20080702.1090	0	2000.0	2100.0	speaker	unknown	unknown	A staff member of Huaneng Fuzhou Power Plant noted that, regardless of the markup of electricity price this time, the price increase of domestic electricity coal still makes it hard to eradicate the high cost of power generating enterprises.	0	0	0		

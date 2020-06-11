@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080729.0032	0	300.0	400.0	speaker	unknown	unknown	石窟被盗现场，左边的墙壁空荡荡的	0	0	0		
+GMW_CMN_20080729.0032	0	500.0	600.0	speaker	unknown	unknown	被盗前壁《药师菩萨像》	0	0	0		
+GMW_CMN_20080729.0032	0	800.0	900.0	speaker	unknown	unknown	被盗画作是临摹作品源自敦煌藏经洞唐代绢画	0	0	0		
+GMW_CMN_20080729.0032	0	2000.0	2100.0	speaker	unknown	unknown	他表示，《药师菩萨像》丢失时间是在7月15日到7月23日之间。	0	0	0		
+GMW_CMN_20080729.0032	0	2200.0	2300.0	speaker	unknown	unknown	猜测	0	0	0		
+GMW_CMN_20080729.0032	0	3300.0	3400.0	speaker	unknown	unknown	“再难我也要坚持下去，我母亲在失去意识前最后的话，就是要求我，不要因为她的病停止这件事，用治病的钱，提供给西南师大的志愿者们做经费，要坚持下去。”常嘉煌表示，目前自己人在北京，等回到敦煌就会想办法加强保安措施，他说：“这是用石窟这种古老的艺术形式，进行现代的艺术创作和探索，是对敦煌石窟艺术的传承。”	0	0	0		
+GMW_CMN_20080729.0032	0	3900.0	4000.0	speaker	unknown	unknown	石窟志愿者在创作	0	0	0		

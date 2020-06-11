@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080706.0745	0	1200.0	1300.0	speaker	unknown	unknown	该纪念钞背面主景图案为古希腊雕塑“掷铁饼者”、运动员群像图案及“2008”字样。	0	0	0		
+CNS_CMN_20080706.0745	0	2200.0	2300.0	speaker	unknown	unknown	透光观察可见清晰的北京2008年奥林匹克运动会主会场——国家体育场图案，其上方为具有明暗渐变效果的面额数字水印“10”，下方为“第29届奥林匹克运动会”字样。	0	0	0		
+CNS_CMN_20080706.0745	0	2300.0	2400.0	speaker	unknown	unknown	(三)全息定位镂空标识。	0	0	0		
+CNS_CMN_20080706.0745	0	2500.0	2600.0	speaker	unknown	unknown	标识主景图案为古希腊雕塑“掷铁饼者”，上方为面额数字“10”、下方为“2008”。	0	0	0		
+CNS_CMN_20080706.0745	0	2700.0	2800.0	speaker	unknown	unknown	透光观察，可见镂空文字“BEIJING 2008”、“29”字样。	0	0	0		
+CNS_CMN_20080706.0745	0	3000.0	3100.0	speaker	unknown	unknown	冠字号码前四位为上边红色与下边黑色接线，后五位为上边黑色与下边红色接线。	0	0	0		
+CNS_CMN_20080706.0745	0	3200.0	3300.0	speaker	unknown	unknown	位于正面主景右方，平视时，可见“★”、“10”等图案。	0	0	0		
+CNS_CMN_20080706.0745	0	3500.0	3600.0	speaker	unknown	unknown	(七)光变全息开窗安全线。	0	0	0		
+CNS_CMN_20080706.0745	0	3600.0	3700.0	speaker	unknown	unknown	票面背面左侧有5.5毫米宽光变全息开窗安全线，安全线两侧有缩微文字“BEIJING 2008”，中间有全息图案“10”。	0	0	0		
+CNS_CMN_20080706.0745	0	3900.0	4000.0	speaker	unknown	unknown	票面正、背面胶印图案中有 “BEIJING 2008”、“10”及“同一个世界 同一个梦想”字样的胶印缩微文字。	0	0	0		

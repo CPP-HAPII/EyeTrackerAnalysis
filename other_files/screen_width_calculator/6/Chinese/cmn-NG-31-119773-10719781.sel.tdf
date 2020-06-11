@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-119773-10719781	0	0.0	100.0	speaker	unknown	unknown	轻松修改网卡MAC地址 ARP命令来绑定IP和MAC地址	0	0	0		
+cmn-NG-31-119773-10719781	0	200.0	300.0	speaker	unknown	unknown	ARP命令来绑定IP和MAC地址格式为：ARP -s IP MAC例如：ARP -s 192.168.0.8 00-0D-60-C3-05-34	0	0	0		
+cmn-NG-31-119773-10719781	0	300.0	400.0	speaker	unknown	unknown	技巧：轻松修改网卡MAC地址	0	0	0		
+cmn-NG-31-119773-10719781	0	900.0	1000.0	speaker	unknown	unknown	序确定这个MAC地址是有效的，就会将这个MAC地址编程入其硬件寄存器中，而忽略网卡固有的MAC地址。	0	0	0		
+cmn-NG-31-119773-10719781	0	1000.0	1100.0	speaker	unknown	unknown	我们通过手工修改Windows的	0	0	0		
+cmn-NG-31-119773-10719781	0	1200.0	1300.0	speaker	unknown	unknown	在Winodws 98下运行Windows的注册表编辑器，展开"HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Class\Net"	0	0	0		
+cmn-NG-31-119773-10719781	0	1800.0	1900.0	speaker	unknown	unknown	输入你想指定的新的MAC地址值。	0	0	0		
+cmn-NG-31-119773-10719781	0	2600.0	2700.0	speaker	unknown	unknown	这样，我们就成功地修改了网卡的MAC地址，重新启动计算机即可。	0	0	0		
+cmn-NG-31-119773-10719781	0	2900.0	3000.0	speaker	unknown	unknown	大部分的网卡都可以通过在控制面板中修改网卡属性来更改其MAC地址，笔者的3COM 3C905B-TX和RTL8139芯片的网卡都可以这样	0	0	0		
+cmn-NG-31-119773-10719781	0	3100.0	3200.0	speaker	unknown	unknown	在"设备管理器中"，右键点击需要修改MAC地址的网卡图标，并选择"属性/高级"选项卡。	0	0	0		
+cmn-NG-31-119773-10719781	0	3300.0	3400.0	speaker	unknown	unknown	作"Network Address"或其他相类似名字的的项目，点击它，在右侧"值"的下方，输入要指定的MAC地址值。	0	0	0		
+cmn-NG-31-119773-10719781	0	3500.0	3600.0	speaker	unknown	unknown	进制数字或字母，不要在其间输入"-"。	0	0	0		
+cmn-NG-31-119773-10719781	0	3800.0	3900.0	speaker	unknown	unknown	假如用户使用的是RealTek公司的RTL8139A/B/C/D系列芯片的网卡，有一种更简单的方法修改MAC地址。	0	0	0		
+cmn-NG-31-119773-10719781	0	4000.0	4100.0	speaker	unknown	unknown	PG8139软件可以直接修改RTL8139系列网卡的MAC地址，甚至可以让每次启动后网卡的MAC地址都不相同。	0	0	0		
+cmn-NG-31-119773-10719781	0	4600.0	4700.0	speaker	unknown	unknown	如果提示"Programming EEPROM issuccessful"则说明更改成功。	0	0	0		
+cmn-NG-31-119773-10719781	0	5300.0	5400.0	speaker	unknown	unknown	另外，还有一种极端的办法，通过烧录网卡的EEPROM来达到克隆MAC地址的目的。	0	0	0		
+cmn-NG-31-119773-10719781	0	5700.0	5800.0	speaker	unknown	unknown	如果是Windows2000/XP的用户，则可以使用免费MAC地址修改软件SMAC。	0	0	0		
+cmn-NG-31-119773-10719781	0	6000.0	6100.0	speaker	unknown	unknown	选定要修改的网卡后，在列表框下方的六个输入框中输入新的MAC地址后，点击右侧的"Update MAC(修改MAC地址)"，	0	0	0		

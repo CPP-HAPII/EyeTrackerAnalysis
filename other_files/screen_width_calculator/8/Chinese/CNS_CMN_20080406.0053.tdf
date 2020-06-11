@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080406.0053.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	关系恶化 朝韩能否在奥运开幕式联合入场布疑云	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月06日 21:41 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月6日电	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	韩国奥委会秘书长金翔宇6日表示，虽然朝韩曾在此前的奥运会开幕式上联合入场，但由于两国政府间关系近日恶化，目前尚无法确定能否在北京奥运会的开幕式上再度联合入场。	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	从2000年悉尼奥运会起，朝韩已经在冬夏连续4届奥运会的开幕式上实现了联合入场。	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	不过，近日朝鲜官方媒体称韩国当选总统李明博为“逆贼”，引发了两国之间的外交冲突。	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	这也使得两国在北京奥运会上的联合入场充满悬念。	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	由于本月初朝鲜宣布中止朝韩政府间对话，金翔宇推测称“朝鲜方面的相关部门在政府表态前可能难以采取行动”。	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	共同社报道称，朝鲜体育指导委员会委员长朴学先近日出任朝鲜奥委会主席。	0	0	0		statement
+CNS_CMN_20080406.0053.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	金翔宇透露称，他当天在北京召开的国家奥委会联合会((ANOC))会议上首次与朴学先会面，“虽然打了招呼，对方却抱有很大敌意。我方提出希望对话，但被以繁忙的理由拒绝”。	0	0	0		statement

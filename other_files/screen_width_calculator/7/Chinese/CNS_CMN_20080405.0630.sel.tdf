@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080405.0630	0	1300.0	1400.0	speaker	unknown	unknown	常丁求告诉记者：在以往的评估体系中，航线飞得越精准、速度控制越规范分数越高。	0	0	0		

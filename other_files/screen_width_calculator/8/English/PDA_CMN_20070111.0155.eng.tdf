@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070111.0155	0	10010.000	10019.900				Russia, Belarus Compromise, Energy Dispute Possible to Resolve	0	0	0		
+PDA_CMN_20070111.0155	0	20010.000	20019.900				January 11, 2007 08:56	0	0	0		
+PDA_CMN_20070111.0155	0	30010.000	30019.900				Global Online. According to a report by the Lenta News Network, Russian President Putin and Belarus President Lukashenko held a telephone conversation on January 10. The two sides made concessions on the energy dispute that will result in the early resolution of the transport of Russian oil to Europe via Belarus.	0	0	0		
+PDA_CMN_20070111.0155	0	30020.000	30029.900				After the telephone conversation, the two Presidents entrusted their respective Prime Ministers to work out proposals to resolve the energy dispute between the two nations and to submit the proposals to the two Presidents for review before January 12.	0	0	0		
+PDA_CMN_20070111.0155	0	40010.000	40019.900				Russia did not make their position known on the compromise reached between Russia and Belarus. They only indicated that during the telephone conversation, Putin and Lukashenko exchanged opinions on issues including Russia-Belarus economic and energy cooperation, as well as transit of Russian oil to Europe via Belarus.	0	0	0		
+PDA_CMN_20070111.0155	0	50010.000	50019.900				Belarus had imposed a transit tax on Russian oil transported to Europe via Belarus since January 1. Russia refused to pay the transit tax. After that, Belarus illegally siphoned off oil from the Druzhba pipeline.	0	0	0		
+PDA_CMN_20070111.0155	0	50020.000	50029.900				On January 8, the Transneft stopped oil supply to the Druzhba pipeline, thus cutting off Russian oil supply to Europe.	0	0	0		
+PDA_CMN_20070111.0155	0	60010.000	60019.900				Russian Minister for Economic Development and Trade German Gref stated that only when Belarus cancels the transit fee on Russian oil can the negotiations between the two nations resume.	0	0	0		
+PDA_CMN_20070111.0155	0	60020.000	60029.900				(Gu Li)	0	0	0		

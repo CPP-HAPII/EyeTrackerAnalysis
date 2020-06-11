@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2312	0	500.0	600.0	speaker	unknown	unknown	事件发生后，当地警方根据群众举报，立即组织警力赶到事发现场展开调查、立案侦查，并于二十七日下午在芜湖市南陵县境内将准备外逃的非法捡矿组织者之一、犯罪嫌疑人余某抓获。	0	0	0		

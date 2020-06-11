@@ -1,0 +1,720 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 109.321, 845.88400000000001, 866.13, 1809.24, 1920.3409999999999, 9999999.0]
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	109.321	111.806	Lu_jian	male	native	Hello, everyone. Welcome to Focus Today live.	1	1	1	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	111.806	115.524	Lu_jian	male	native	US President Bush delivered a televised speech this morning Beijing time,	1	1	2	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	115.524	117.712	Lu_jian	male	native	announcing his new Iraq policy.	1	1	3	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	117.712	120.040	Lu_jian	male	native	Well, in fact, uh, just as many media reports said,	1	1	4	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	120.040	123.571	Lu_jian	male	native	his new Iraq policy is nothing but old wine in a new bottle.	1	1	5	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	123.571	127.227	Lu_jian	male	native	As a matter of fact, most of the content is also expected by the media.	1	1	6	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	127.227	133.180	Lu_jian	male	native	So, exactly what effect and impact will this new Iraq policy have on the Iraq situation?	1	1	7	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	133.180	136.445	Lu_jian	male	native	So today we've invited two honorable guests to analyze them together.	1	1	8	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	136.445	139.023	Lu_jian	male	native	So, first, regarding how to get out of the Iraq predicament, uh,	1	1	9	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	139.023	140.804	Lu_jian	male	native	what kind of answer did Bush give?	1	1	10	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	140.804	143.132	Lu_jian	male	native	Let's first look at this, uh, speech of his.	1	1	11	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	146.236	149.251	Lu_jian	male	native	Actually, there are a few main key points in his speech this time.	1	1	13	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	149.251	152.938	Lu_jian	male	native	With regard to the military, he will send approximately 21,500 additional soldiers to Iraq.	1	1	14	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	152.938	155.813	Lu_jian	male	native	Politically, he will push for reconciliation of political factions in Iraq.	1	1	15	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	155.813	159.391	Lu_jian	male	native	Economically, he will provide 1 billion US dollars in aid to Iraq.	1	1	16	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	159.391	161.484	Lu_jian	male	native	So, there are several aspects.	1	1	17	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	161.484	163.986	Lu_jian	male	native	Uh, whether the plan to send more troops	1	1	18	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	164.704	167.515	Lu_jian	male	native	will pass the Democrat-controlled Congress and then be implemented,	1	1	20	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	167.515	170.626	Lu_jian	male	native	and also what effect its implementation will have on the Iraq situation,	1	1	21	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	171.135	175.819	Lu_jian	male	native	the two honorable guests today will discuss this topic together with us. Please, uh -- let me introduce today's honorable guests.	1	1	23	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	175.819	179.429	Lu_jian	male	native	One is Mr. Jin Canrong, deputy dean of the School of International Studies of Renmin University of China. Hello.	1	1	24	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	179.429	184.413	Lu_jian	male	native	And the other is Mr. Yu Wanli, associate professor from the School of International Studies of Peking University. Ah, welcome to you two.	1	1	25	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	184.413	189.990	Lu_jian	male	native	So, before we start the program, uh, let's first learn about the relevant information about this increase of troops via a background video clip.	1	1	26	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	196.124	198.359	speaker#1	female	native	Before announcing the new Iraq policy,	1	2	28	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	198.359	200.687	speaker#1	female	native	Bush made a major personnel reshuffle.	1	2	29	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	200.687	203.656	speaker#1	female	native	On January 4 White House spokesperson Snow confirmed that	1	2	30	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	203.656	208.874	speaker#1	female	native	Bush's legal advisor Ms. Harriet Miers had handed in her letter of resignation this day.	1	2	31	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	208.874	210.921	speaker#1	female	native	The White House is selecting her replacement.	1	2	32	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	211.546	214.702	speaker#1	female	native	On the morning of January 5, at the White House Bush officially nominated	1	2	34	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	214.702	219.905	speaker#1	female	native	current Director of National Intelligence Negroponte as deputy secretary of state.	1	2	35	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	219.905	227.608	speaker#1	female	native	At the same time he also nominated retired Vice Admiral Mike McConnell, former director of the National Security Agency, to take over Negroponte's post	1	2	36	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	227.608	230.451	speaker#1	female	native	to be in charge of overseeing all sixteen intelligence agencies in the US.	1	2	37	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	231.513	233.373	speaker#1	female	native	Later that day, Bush also announced	1	2	39	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	233.373	237.795	speaker#1	female	native	his nomination of George Casey, current top commander of the US military in Iraq, to replace	1	2	40	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	237.795	242.185	speaker#1	female	native	retiring Peter Schoomaker as chief of staff of the US army;	1	2	41	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	242.904	246.233	speaker#1	female	native	his nomination of the current commander of the Army Combined Arms Center,	1	2	43	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	246.233	251.343	speaker#1	female	native	Lieutenant General David Petraeus, to replace George Casey as top commander of the US military in Iraq;	1	2	44	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	251.968	256.969	speaker#1	female	native	and his nomination of Admiral William Fallon, the US commander in the Pacific, to replace retiring	1	2	46	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	256.969	262.672	speaker#1	female	native	John Abizaid as head of the US Central Command responsible for US military affairs in the Middle East.	1	2	47	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	263.703	265.061	speaker#1	female	native	Apart from military commanders,	1	2	49	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	265.061	267.311	speaker#1	female	native	US civilian officers in Iraq will also be reshuffled.	1	2	50	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	267.311	276.764	speaker#1	female	native	Bush intends to nominate US Ambassador to Iraq Zalmay Khalilzad to replace John Bolton, who had resigned a month ago, to be the permanent US representative at the UN.	1	2	51	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	276.764	282.594	speaker#1	female	native	And Khalilzad will be replaced by Ryan Crocker, currently the US ambassador to Pakistan.	1	2	52	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	283.219	284.626	speaker#1	female	native	After the above personnel reshuffle,	1	2	54	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	284.626	286.798	speaker#1	female	native	in addition to the previous change of the defense secretary,	1	2	55	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	286.798	288.205	speaker#1	female	native	with the exception of Secretary of State Rice,	1	2	56	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	288.205	292.034	speaker#1	female	native	the important figures in the national defense, intelligence, and diplomatic systems in the Bush administration	1	2	57	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	292.034	294.893	speaker#1	female	native	have all been replaced with new faces within a short period of time.	1	2	58	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	297.331	300.425	Lu_jian	male	native	Uh, so just as what we saw in the background video clip just now, in order	1	3	60	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	300.425	303.706	Lu_jian	male	native	to release the new Iraq policy, it seems that	1	3	61	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	303.706	305.137	Lu_jian	male	native	with the exception of Rice -- we also mentioned just now --	1	3	62	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	305.137	308.840	Lu_jian	male	native	the entire government departments of national defense, ah, and intelligence, ah, have almost been reshuffled completely.	1	3	63	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	308.840	311.512	Lu_jian	male	native	Well, in fact, the replacement of two persons among them, uh,	1	3	64	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	311.512	314.480	Lu_jian	male	native	should be said to be directly related to Iraq.	1	3	65	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	314.480	317.323	Lu_jian	male	native	For example, one is the former top commander in Iraq.	1	3	66	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	317.323	320.167	Lu_jian	male	native	Uh, George Casey, the top commander of the US military in Iraq, has been replaced.	1	3	67	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	320.167	323.260	Lu_jian	male	native	And the other is, uh, in charge of the Middle East affairs in the Pacific,	1	3	68	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	323.260	326.651	Lu_jian	male	native	uh, Central, uh, Central Command, that is, um, Abizaid of the Central Command.	1	3	69	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	326.651	329.182	Lu_jian	male	native	Well, these two people were said to be opposed to	1	3	70	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	329.182	330.963	Lu_jian	male	native	Bush's plan to send more troops to Iraq	1	3	71	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	330.963	332.967	Lu_jian	male	native	and were replaced this time because of that. Is that so?	1	3	72	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	333.517	336.822	Jin_canrong	male	native	Uh, the American media usually believe that today,	1	4	74	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	336.822	338.541	Jin_canrong	male	native	before Bush releases the new policy,	1	4	75	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	338.541	341.182	Jin_canrong	male	native	this series of personnel reshuffle, ah,	1	4	76	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	341.182	344.573	Jin_canrong	male	native	is mainly to clear the way for the release of this new policy.	1	4	77	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	344.573	344.885	Lu_jian	male	native	Uh-huh.	1	5	78	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	344.885	347.885	Jin_canrong	male	native	So, uh, from this perspective,	1	6	79	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	347.885	351.870	Jin_canrong	male	native	he indeed hopes to replace them with some people more loyal to him,	1	6	80	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	351.870	355.557	Jin_canrong	male	native	um, some people who are more resolute in carrying out this new policy.	1	6	81	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	355.557	358.151	Jin_canrong	male	native	So this personnel ((pw)) reshuffle,	1	6	82	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	358.151	361.916	Jin_canrong	male	native	uh, I think, is indeed mainly connected with this new policy.	1	6	83	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	361.916	362.619	Lu_jian	male	native	Uh-huh.	1	7	84	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	362.619	363.323	Yu_wanli	male	native	In addition,	1	8	85	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	362.619	363.323	Lu_jian	male	native	So,	1	8	86	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	363.323	363.683	Yu_wanli	male	native	in addition,	1	9	87	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	363.323	363.683	Lu_jian	male	native	Uh-huh.	1	9	88	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	363.683	366.276	Yu_wanli	male	native	that is to say, this, uh, these new people	1	10	89	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	366.276	369.698	Yu_wanli	male	native	have all fought in the battles in Iraq or dealt with Middle East affairs.	1	10	90	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	369.698	372.870	Yu_wanli	male	native	Among them, Fallon, in particular,	1	10	91	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	372.870	376.886	Yu_wanli	male	native	is thought, that is, relatively universally thought to be a rather experienced, um, um, general.	1	10	92	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	376.886	377.559	Lu_jian	male	native	Right.	1	11	93	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	377.559	379.184	Yu_wanli	male	native	This is helpful to pushing for his policy.	1	12	94	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	379.184	381.216	Lu_jian	male	native	Uh, this time it is Fallon who	1	13	95	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	381.216	383.626	Lu_jian	male	native	has replaced Abizaid of the Central Command.	1	13	96	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	383.626	383.955	Yu_wanli	male	native	Right.	1	14	97	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	383.955	386.748	Lu_jian	male	native	Uh, in the past in 1991 he participated in Operation Desert Storm.	1	15	98	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	386.748	389.149	Lu_jian	male	native	So he is surely very familiar with Iraq.	1	15	99	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	389.149	389.508	Yu_wanli	male	native	Uh-huh.	1	16	100	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	389.508	393.992	Lu_jian	male	native	So, in addition, uh, this Petraeus who serves as, uh, the top commander of the US military in Iraq,	1	17	101	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	393.992	397.461	Lu_jian	male	native	this is also because he was the commander of the elite division, that is, the 101st Division,	1	17	102	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	397.461	397.893	Yu_wanli	male	native	Right.	1	18	103	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	397.461	397.893	Lu_jian	male	native	uh,	1	18	104	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	397.893	400.439	Yu_wanli	male	native	the 101st Airborne Division.	1	18	105	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	397.893	400.439	Lu_jian	male	native	He fought before and this time.	1	18	106	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	400.439	403.595	Lu_jian	male	native	Right. So these two people are very familiar with the Iraq situation.	1	19	107	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	403.595	407.798	Lu_jian	male	native	Uh, so judging from Bush's speech this time, it's obvious that he will surely send more troops.	1	19	108	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	407.798	411.532	Lu_jian	male	native	And this personnel reshuffle, uh, is also obviously to serve the increase of troops.	1	19	109	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	411.532	415.705	Lu_jian	male	native	Well, in his televised speech Bush also provided a reason for his increase of troops.	1	19	110	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	415.705	417.158	Lu_jian	male	native	Let's see how Bush talked about it.	1	19	111	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	423.632	489.194	Bush	male	native	(())	1	20	113	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	489.194	493.554	Lu_jian	male	native	Eh, so in his speech Bush actually mentioned and gave the reason why he wanted to increase troops.	1	21	114	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	493.554	498.336	Lu_jian	male	native	That is, the main reason that the Iraq situation has not been brought under control is because not enough soldiers were deployed in 2006.	1	21	115	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	498.336	500.477	Lu_jian	male	native	That's why he wants to add more than 20,000 people.	1	21	116	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	500.477	501.867	Lu_jian	male	native	Can this reason hold water?	1	21	117	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	501.867	503.539	Jin_canrong	male	native	Actually it couldn't.	1	22	118	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	503.539	507.732	Jin_canrong	male	native	That is, in fact, uh, after this (()) this speech was made, there was a commentary.	1	22	119	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	507.732	508.092	Lu_jian	male	native	Uh-huh.	1	23	120	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	508.092	509.695	Jin_canrong	male	native	It says that from June to October last year, ah,	1	24	121	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	509.695	511.961	Jin_canrong	male	native	the US provided 10,000 troops to Baghdad,	1	24	122	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	511.961	514.867	Jin_canrong	male	native	um, and carried out an operation called Operation Forward Together.	1	24	123	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	514.867	515.211	Lu_jian	male	native	Right.	1	25	124	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	515.211	516.274	Jin_canrong	male	native	It resulted in little effect.	1	26	125	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	516.274	519.649	Jin_canrong	male	native	So this situation itself is, ah, extremely complex.	1	26	126	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	519.649	522.014	Jin_canrong	male	native	So sending more troops alone is sure not to solve the problem.	1	26	127	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	522.014	522.253	Lu_jian	male	native	Uh-huh.	1	27	128	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	522.253	523.806	Jin_canrong	male	native	So I think it is like this, that is to say,	1	28	129	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	523.806	527.744	Jin_canrong	male	native	he has actually proved another judgment that we had originally made that	1	28	130	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	527.744	532.994	Jin_canrong	male	native	the overall direction of his policy is not to negate his entire previous Iraq policy.	1	28	131	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	532.994	533.447	Lu_jian	male	native	Uh-huh.	1	29	132	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	533.447	534.884	Jin_canrong	male	native	Right? But,	1	30	133	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	533.447	534.884	Lu_jian	male	native	but this time he admitted his mistakes.	1	30	134	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	534.884	537.869	Lu_jian	male	native	Because many US media headlines today also said that Bush admitted his mistakes.	1	31	135	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	537.869	539.401	Lu_jian	male	native	We just saw he said in his speech that...	1	32	136	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	537.869	539.401	Jin_canrong	male	native	Right, right, right.	1	32	137	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	539.401	540.401	Lu_jian	male	native	...the responsibility is mainly mine.	1	33	138	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	540.401	543.526	Lu_jian	male	native	We have made this mistake.	1	34	139	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	540.401	543.526	Jin_canrong	male	native	Right, right. But I think he was admitting the mistakes technically.	1	34	140	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	543.526	544.166	Jin_canrong	male	native	He was saying that	1	35	141	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	543.526	544.166	Lu_jian	male	native	Uh-huh.	1	35	142	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	544.166	546.401	Jin_canrong	male	native	I did not increase the troops in 2006.	1	36	143	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	546.401	547.620	Jin_canrong	male	native	Then I made the mistake.	1	36	144	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	547.620	551.933	Jin_canrong	male	native	He was actually saying that if this mistake was pursued, uh, it was going to be big, right?	1	36	145	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	551.933	554.480	Jin_canrong	male	native	So first of all whether we should enter Iraq was an issue.	1	36	146	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	554.480	559.341	Lu_jian	male	native	So he actually found an issue that was not being paid much attention to and acknowledged his mistake for that.	1	37	147	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	554.480	559.341	Jin_canrong	male	native	A technical reason.	1	37	148	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	559.341	561.136	Yu_wanli	male	native	I was looking at him, that is, thinking about this remark of his.	1	38	149	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	561.136	562.027	Yu_wanli	male	native	That is, he acknowledged the mistakes.	1	39	150	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	561.136	562.027	Lu_jian	male	native	Uh-huh.	1	39	151	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	562.027	562.980	Yu_wanli	male	native	But he did not acknowledge defeat.	1	40	152	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	562.980	563.761	Lu_jian	male	native	Uh-huh.	1	41	153	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	563.761	566.074	Yu_wanli	male	native	He wouldn't acknowledge he has failed in Iraq even now.	1	42	154	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	566.074	570.824	Lu_jian	male	native	Furthermore he did not want to mention it. That is, his acknowledgment of the mistakes this time is not to acknowledge that his entire Iraq policy was wrong,	1	43	155	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	566.074	570.824	Jin_canrong	male	native	(())	1	43	156	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	570.824	572.027	Lu_jian	male	native	but rather he took up a...	1	43	157	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	570.824	572.027	Jin_canrong	male	native	Yes, yes, yes.	1	43	158	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	572.027	573.471	Lu_jian	male	native	...a technical issue and acknowledged his mistake about it.	1	43	159	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	572.027	573.471	Jin_canrong	male	native	Technicality	1	43	160	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	573.471	574.953	Jin_canrong	male	native	Right, right, right, right, right, right. That's right.	1	44	161	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	574.953	577.781	Lu_jian	male	native	So this should not be considered as acknowledging the mistake.	1	45	162	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	574.953	577.781	Yu_wanli	male	native	So he still wants, still wants to insist on or	1	45	163	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	577.781	579.968	Yu_wanli	male	native	realize his hope and dream of victory.	1	46	164	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	579.968	580.624	Lu_jian	male	native	Uh-huh.	1	47	165	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	580.624	582.281	Lu_jian	male	native	In fact regarding this increase of troops, ah,	1	47	166	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	582.281	585.109	Lu_jian	male	native	there has been some discussion in the US, too.	1	47	167	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	585.109	587.874	Lu_jian	male	native	But why did the plan to increase troops eventually prevail?	1	47	168	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	588.936	592.393	Jin_canrong	male	native	Eh, it is like this. That is, I think if the general direction is determined, ah,	1	48	170	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	592.393	593.436	Jin_canrong	male	native	that is, I will not acknowledge my mistakes,	1	48	171	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	593.436	597.358	Jin_canrong	male	native	and will continue to stick to my original policy,	1	48	172	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	597.358	598.421	Jin_canrong	male	native	eh, to say it frankly, oh,	1	48	173	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	598.421	600.233	Jin_canrong	male	native	increasing the force of military strike	1	48	174	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	600.233	602.733	Jin_canrong	male	native	so as to somewhat stabilize the current situation,	1	48	175	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	602.733	604.671	Jin_canrong	male	native	I think, is his only option.	1	48	176	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	604.671	607.562	Jin_canrong	male	native	Well, in fact, judging from the internal situation in Iraq, uh,	1	48	177	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	607.562	610.155	Jin_canrong	male	native	there is indeed, ah, no organized armed force --	1	48	178	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	610.155	612.374	Jin_canrong	male	native	none of them is able to fight the US military head-on.	1	48	179	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	612.374	612.780	Lu_jian	male	native	Uh-huh.	1	49	180	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	612.780	615.499	Jin_canrong	male	native	So, by increasing this military deployment,	1	50	181	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	615.499	619.827	Jin_canrong	male	native	um, launching offensives, I believe he can achieve certain military effects.	1	50	182	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	619.827	620.588	Jin_canrong	male	native	There is no problem about that.	1	50	183	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	620.588	621.101	Lu_jian	male	native	Uh-huh.	1	51	184	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	621.101	622.592	Jin_canrong	male	native	Then, especially in the Baghdad area,	1	52	185	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	622.592	625.467	Jin_canrong	male	native	this time his 21,500 people, ah,	1	52	186	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	625.467	625.796	Lu_jian	male	native	Uh-huh.	1	53	187	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	625.796	627.874	Jin_canrong	male	native	will be mainly concentrated in Baghdad.	1	54	188	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	627.874	629.733	Lu_jian	male	native	That is, 17,000 people will be sent to Baghdad.	1	55	189	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	629.733	630.077	Jin_canrong	male	native	Right.	1	56	190	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	630.077	632.202	Lu_jian	male	native	Additional 4,000 people will be dispatched to the Anbar province.	1	57	191	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	630.077	632.202	Jin_canrong	male	native	Forty-five million.	1	57	192	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	632.202	633.874	Jin_canrong	male	native	So, in this region,	1	58	193	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	633.874	637.595	Jin_canrong	male	native	that is, the region that the media constantly, in fact, focus their reports on daily, he will,	1	58	194	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	637.595	637.874	Lu_jian	male	native	Uh-huh.	1	59	195	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	637.874	639.499	Jin_canrong	male	native	he will gain some time of peace.	1	60	196	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	639.499	641.702	Jin_canrong	male	native	It is also achievable technically.	1	60	197	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	641.702	642.077	Lu_jian	male	native	Uh-huh.	1	61	198	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	642.077	643.999	Jin_canrong	male	native	So after he has achieved such an effect,	1	62	199	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	643.999	645.254	Jin_canrong	male	native	he can go promote and demonstrate it, ah,	1	62	200	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	645.254	645.593	Lu_jian	male	native	Uh-huh.	1	63	201	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	645.593	647.421	Jin_canrong	male	native	to promote and demonstrate, ah, the political reconstruction.	1	64	202	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	647.421	651.046	Jin_canrong	male	native	So he can, um, achieve some other political effects through this.	1	64	203	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	651.046	656.640	Lu_jian	male	native	However, his new Iraq policy and some of the recommendations proposed earlier by the Baker report do not seem to be --	1	65	204	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	656.640	657.968	Lu_jian	male	native	they are actually inconsistent.	1	65	205	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	657.968	662.344	Lu_jian	male	native	Ah, in other words, we can say he actually did not listen to the recommendations of those veterans like Baker. For instance,	1	65	206	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	662.344	666.216	Lu_jian	male	native	among others, he mentioned, that is, uh, seeking the support of the allies in the Middle East,	1	65	207	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	666.216	667.778	Lu_jian	male	native	and gave warnings to Iran and Syria.	1	65	208	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	667.778	669.560	Lu_jian	male	native	In fact he did not do as Baker suggested, said that	1	65	209	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	669.560	672.076	Lu_jian	male	native	they should, uh, seek the assistance of Iran or Syria.	1	65	210	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	672.076	677.560	Yu_wanli	male	native	I think that this, this completely shows that he has chosen an entirely different road from what it was suggested by the Baker report.	1	66	211	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	677.560	677.809	Lu_jian	male	native	Uh-huh.	1	67	212	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	677.809	681.559	Yu_wanli	male	native	The Baker report actually wants to proceed from the purpose of stabilizing Iraq.	1	68	213	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	681.559	684.643	Yu_wanli	male	native	So my top strategic goal is stability.	1	68	214	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	684.643	685.062	Lu_jian	male	native	Uh-huh.	1	69	215	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	685.062	687.341	Yu_wanli	male	native	It's to resolve, resolve the current Iraq problem. But,	1	70	216	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	687.341	690.919	Yu_wanli	male	native	Bush's current policy is actually still a kind of	1	70	217	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	690.919	692.308	Yu_wanli	male	native	((pw)) that is, a policy of winning the victory.	1	70	218	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	692.308	692.667	Lu_jian	male	native	Uh-huh.	1	71	219	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	692.667	693.842	Yu_wanli	male	native	I want to win this war,	1	72	220	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	693.842	695.248	Yu_wanli	male	native	to realize what I have set in the beginning...	1	72	221	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	695.248	695.904	Lu_jian	male	native	Then, his so-called...	1	73	222	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	695.248	695.904	Yu_wanli	male	native	...as strategic goal.	1	73	223	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	695.904	697.591	Lu_jian	male	native	...seeking the support of the allies in the Middle East --	1	74	224	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	697.591	700.680	Lu_jian	male	native	Who can now help him resolve these Iraqi issues?	1	74	225	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	700.680	706.586	Jin_canrong	male	native	Uh, in fact I think, uh, this day today, the speech we had today at 9:00 a.m. our Beijing time, this morning, uh,	1	75	226	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	706.586	710.149	Jin_canrong	male	native	uh, in the literal sense, it is a somewhat balanced report.	1	75	227	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	710.149	712.587	Jin_canrong	male	native	But the media said they were following the 21,500	1	75	228	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	712.587	713.383	Jin_canrong	male	native	additional troops, ah.	1	76	229	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	712.587	713.383	Lu_jian	male	native	Right.	1	76	230	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	713.383	715.226	Jin_canrong	male	native	But this report itself is still rather balanced.	1	77	231	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	715.226	717.728	Jin_canrong	male	native	It includes, uh, the military increase of troops,	1	77	232	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	717.728	718.243	Lu_jian	male	native	Right.	1	78	233	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	717.728	718.243	Jin_canrong	male	native	ah,	1	78	234	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	718.243	719.915	Jin_canrong	male	native	then the increase of the force of military strikes,	1	79	235	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	719.915	722.258	Jin_canrong	male	native	and includes political reconstruction, uh, you saw just now	1	79	236	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	722.258	724.742	Jin_canrong	male	native	that bulletin board on that TV channel has already shown,	1	79	237	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	724.742	724.984	Lu_jian	male	native	Uh-huh.	1	80	238	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	724.984	727.045	Jin_canrong	male	native	there are military, economic, political, and several other aspects, aren't there?	1	81	239	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	727.045	727.451	Lu_jian	male	native	Right.	1	82	240	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	727.451	730.232	Jin_canrong	male	native	So I see that at least he is calling on Iraq itself, ah,	1	83	241	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	730.232	732.841	Jin_canrong	male	native	to accelerate easing the sectarian conflicts,	1	83	242	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	732.841	733.140	Lu_jian	male	native	Uh-huh.	1	84	243	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	733.140	735.343	Jin_canrong	male	native	attract more Sunnis to join in,	1	85	244	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	735.343	738.468	Jin_canrong	male	native	and then distribute oil revenues more reasonably.	1	85	245	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	738.468	741.728	Jin_canrong	male	native	In addition, there was originally a framework, but it had not been implemented.	1	85	246	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	741.728	742.028	Lu_jian	male	native	Uh-huh.	1	86	247	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	742.028	743.533	Jin_canrong	male	native	So, what else is there additionally, uh?	1	87	248	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	743.533	747.986	Jin_canrong	male	native	There was also that, that is, to pardon some of the former Baath Party members.	1	87	249	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	747.986	748.345	Lu_jian	male	native	Uh-huh.	1	88	250	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	748.345	750.706	Jin_canrong	male	native	So he has a series of internal moves,	1	89	251	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	750.706	755.022	Jin_canrong	male	native	military moves, political moves, and then one more, that is to say, diplomatic moves.	1	89	252	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	755.022	758.331	Jin_canrong	male	native	It, however, it mainly mentioned, um, Turkey,	1	89	253	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	758.331	762.159	Jin_canrong	male	native	and is full of hostility toward, um, Syria and, um, Iran, instead.	1	89	254	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	762.159	766.890	Jin_canrong	male	native	He believes, that is to say, they should ((pw)) unite with the Iraqi government as well as the Turkish government,	1	89	255	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	766.890	767.249	Lu_jian	male	native	Uh-huh.	1	90	256	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	767.249	770.642	Jin_canrong	male	native	to stem the border infiltration by Iran and Syria.	1	91	257	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	770.642	775.392	Jin_canrong	male	native	That obviously shows that he is not treating these two countries as cooperative partners and is wary of them.	1	92	258	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	770.642	775.392	Lu_jian	male	native	But the role Turkey can play may just be	1	92	259	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	775.392	777.064	Lu_jian	male	native	some effects on Kurdish people in Iraq.	1	93	260	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	777.064	778.048	Jin_canrong	male	native	Not necessarily, not necessarily.	1	94	261	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	778.048	781.892	Jin_canrong	male	native	The Kurds in Iraq, uh, happen to have conflicts with the Turkish government.	1	94	262	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	781.892	786.839	Lu_jian	male	native	So if he seeks current external Turkish forces to help him resolve the current Iraq issue,	1	95	263	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	786.839	789.410	Lu_jian	male	native	the effect may not be as great as the effects Iran and Syria have.	1	96	264	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	786.839	789.410	Yu_wanli	male	native	Right, right, right, right.	1	96	265	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	789.410	792.389	Yu_wanli	male	native	In other words, if you want to resolve the root problem, you may still have to depend on Iran and Syria.	1	97	266	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	792.389	792.748	Lu_jian	male	native	Uh-huh.	1	98	267	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	792.748	796.754	Yu_wanli	male	native	That is to say, Turkey, ah, or including Saudi Arabia, can only resolve some superficial problems.	1	99	268	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	796.754	800.355	Lu_jian	male	native	But right now Bush obviously does not seem to have the intention of seeking any assistance from Iran and	1	100	269	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	800.355	802.871	Lu_jian	male	native	Syria. He does not want to.	1	101	270	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	800.355	802.871	Yu_wanli	male	native	Right, right. We also noticed that today he --	1	101	271	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	802.871	804.309	Yu_wanli	male	native	Another piece of news is that	1	102	272	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	804.309	806.184	Yu_wanli	male	native	Bush has decided to send another aircraft carrier...	1	102	273	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	806.184	811.011	Lu_jian	male	native	Right, sending another aircraft carrier and then also deploying Patriot missiles. In addition he will share intelligence with his ally nations.	1	103	274	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	811.011	812.074	Yu_wanli	male	native	Right, right, right, right.	1	104	275	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	812.074	813.699	Lu_jian	male	native	Is this directed at the Iraq issue?	1	105	276	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	813.699	814.511	Yu_wanli	male	native	I don't think so.	1	106	277	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	814.511	817.168	Yu_wanli	male	native	This is obviously directed at another issue.	1	106	278	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	817.168	818.496	Yu_wanli	male	native	It's the Iran nuclear issue.	1	106	279	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	818.496	818.964	Lu_jian	male	native	Uh-huh.	1	107	280	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	818.964	821.558	Yu_wanli	male	native	So, from today's speech, ah, I --	1	108	281	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	821.558	824.894	Yu_wanli	male	native	we have an overall, general impression that he is indeed becoming more hard-line.	1	108	282	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	824.894	825.360	Lu_jian	male	native	Uh-huh.	1	109	283	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	825.360	827.136	Yu_wanli	male	native	Previously, more than a month ago,	1	110	284	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	827.136	830.058	Yu_wanli	male	native	there was this assumption that the Iraq policy would be adjusted toward more flexibility.	1	110	285	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	830.058	830.480	Lu_jian	male	native	Uh-huh.	1	111	286	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	830.480	832.839	Yu_wanli	male	native	Um, more relaxed, now it seems, ah,	1	112	287	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	832.839	835.011	Yu_wanli	male	native	many media predictions were wrong.	1	112	288	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	835.011	837.401	Yu_wanli	male	native	His general direction still tends to be hard-line.	1	112	289	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	837.401	838.119	Lu_jian	male	native	Still tends to be hard-line.	1	113	290	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	838.119	841.139	Lu_jian	male	native	So whether Bush's more hard-line plan of increasing troops,	1	113	291	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	841.139	844.681	Lu_jian	male	native	this new Iraq policy, can resolve the current Iraq predicament, uh,	1	113	292	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	844.681	845.884	Lu_jian	male	native	we'll continue with our talk in a minute.	1	113	293	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	866.130	869.213	Lu_jian	male	native	Well, right now there is a piece of news saying that if it is done according to this plan of increasing troops,	3	115	295	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	869.213	871.927	Lu_jian	male	native	it is likely that the 82nd Airborne Division currently stationed in Kuwait,	3	115	296	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	871.927	876.068	Lu_jian	male	native	which is one of the elite US military units during the Iraq war,	3	115	297	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	876.068	878.834	Lu_jian	male	native	may be dispatched to enter Iraq first,	3	115	298	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	878.834	881.224	Lu_jian	male	native	uh, as the first batch of reinforcement troops.	3	115	299	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	881.224	884.505	Lu_jian	male	native	Their enemy, uh, may be the Shiite Mahdi Army.	3	115	300	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	884.505	889.318	Lu_jian	male	native	So what we are seeing on this big screen are likely the future opponents,	3	115	301	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	889.318	891.786	Lu_jian	male	native	ah, Iraq's Mahdi Army and the US 82nd Airborne Division.	3	115	302	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	891.786	895.489	Lu_jian	male	native	Uh, actually the Mahdi Army is, uh, also Sadr's armed force.	3	115	303	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	895.489	899.129	Lu_jian	male	native	Uh, will this be the main opponent of the US military in the future?	3	115	304	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	899.817	900.771	Yu_wanli	male	native	I don't think so.	3	116	306	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	900.771	901.083	Yu_wanli	male	native	That is to say,	3	117	307	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	900.771	901.083	Lu_jian	male	native	Uh-huh.	3	117	308	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	901.083	902.582	Yu_wanli	male	native	it may not be the main opponent.	3	118	309	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	902.582	904.660	Yu_wanli	male	native	Because the additional troops this time are mainly concentrated in Baghdad.	3	118	310	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	904.660	907.144	Yu_wanli	male	native	Well, the Baghdad region is not this --	3	118	311	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	907.144	910.488	Yu_wanli	male	native	but Sadr City should be in Baghdad.	3	119	312	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	907.144	910.488	Jin_canrong	male	native	It is just, just (())	3	119	313	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	910.488	911.754	Jin_canrong	male	native	or we can only say this way,	3	120	314	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	911.754	913.819	Jin_canrong	male	native	that is, the US military has a lot of opponents there.	3	120	315	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	913.819	914.118	Lu_jian	male	native	Uh-huh.	3	121	316	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	914.118	918.035	Jin_canrong	male	native	That is to say, we can see the so-called international terrorists going inside from abroad.	3	122	317	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	918.035	920.160	Jin_canrong	male	native	Now Zarqawi was one of their representatives.	3	122	318	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	920.160	922.910	Jin_canrong	male	native	Sunnis are probably just a triangle, Sunni Triangle.	3	122	319	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	922.910	923.739	Lu_jian	male	native	Right.	3	123	320	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	922.910	923.739	Jin_canrong	male	native	Then,	3	123	321	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	923.739	925.707	Jin_canrong	male	native	There are some disgruntled, um, some Shiites.	3	124	322	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	925.707	929.411	Jin_canrong	male	native	These are either Shiites or disgruntled Baath members.	3	124	323	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	929.411	930.521	Jin_canrong	male	native	This is also one of them.	3	124	324	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	930.521	934.270	Jin_canrong	male	native	Then, there are those relatively extremist forces among Shiites.	3	124	325	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	934.270	936.036	Jin_canrong	male	native	So it has a lot of opponents.	3	124	326	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	936.036	940.364	Jin_canrong	male	native	So Sadr's armed force, uh, should be said to be one of the relatively prominent forces among Shiites.	3	124	327	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	940.364	943.177	Jin_canrong	male	native	Well, it has 35 members in the parliament.	3	124	328	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	943.177	943.536	Lu_jian	male	native	Right.	3	125	329	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	943.536	945.708	Jin_canrong	male	native	So we can only say, that is,	3	126	330	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	945.708	947.864	Jin_canrong	male	native	it may be one of the US opponents.	3	126	331	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	947.864	950.630	Lu_jian	male	native	But the Pentagon --	3	127	332	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	947.864	950.630	Jin_canrong	male	native	In fact, ((pw)) whether it is surely an opponent...	3	127	333	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	950.630	953.636	Lu_jian	male	native	...I think there is a US military report by the Pentagon...	3	127	334	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	950.630	953.636	Jin_canrong	male	native	...we still need to see.	3	127	335	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	953.636	957.693	Lu_jian	male	native	... which says that +Sadr and his Mahdi Army are the greatest threat to the stability in Iraq.	3	128	336	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	957.693	960.849	Lu_jian	male	native	And the Shiite armed force is harder to control than anti-American armed forces.	3	128	337	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	960.849	962.599	Lu_jian	male	native	If according to this report,	3	128	338	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	962.599	964.443	Lu_jian	male	native	will it mean that the US military actually must,	3	128	339	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	964.443	967.615	Lu_jian	male	native	must treat Sadr's armed force as the greatest enemy after it enters -- send more troops there?	3	128	340	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	967.615	970.278	Yu_wanli	male	native	At this point of time, we can only say it is likely.	3	129	341	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	967.615	970.278	Jin_canrong	male	native	(()) confirmed.	3	129	342	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	970.278	970.569	Jin_canrong	male	native	Right.	3	130	343	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	970.569	973.867	Yu_wanli	male	native	From what you just now -- after the US military enters, it still has to take on the responsibility for security.	3	131	344	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	973.867	974.351	Lu_jian	male	native	Uh-huh.	3	132	345	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	974.351	975.335	Yu_wanli	male	native	That is, it needs stability.	3	133	346	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	975.335	979.191	Lu_jian	male	native	It must immediately fight a battle or wipe out someone.	3	134	347	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	975.335	979.191	Yu_wanli	male	native	Right, right. It is not a task of war,	3	134	348	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	979.191	981.503	Yu_wanli	male	native	that kind of, that kind of operation where we have clearly defined enemies.	3	135	349	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	981.503	985.222	Lu_jian	male	native	So through the third increase of troops, is it possible to	3	136	350	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	985.222	988.940	Lu_jian	male	native	stabilize the Iraq situation? At present we may not be able to come to a conclusion.	3	136	351	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	988.940	991.245	Lu_jian	male	native	However, judging from the effects of the previous two increases of troops,	3	136	352	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	991.245	993.472	Lu_jian	male	native	we may derive some inspiration. Let's take a look together.	3	136	353	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1000.538	1002.070	speaker#1	female	native	In December 2004,	3	137	355	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1002.070	1004.805	speaker#1	female	native	the US sent additional 12,000 soldiers to Iraq.	3	137	356	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1004.805	1007.055	speaker#1	female	native	The goal was to	3	137	357	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1007.055	1009.665	speaker#1	female	native	continue imposing pressure on the anti-American forces in Iraq after the Fallujah battle,	3	137	358	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1009.665	1012.603	speaker#1	female	native	while ensuring security prior to and during the elections.	3	137	359	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1013.228	1016.321	speaker#1	female	native	After the increase of troops, the total number of US troops in Iraq reached 150,000,	3	137	361	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1016.321	1021.821	speaker#1	female	native	exceeding the peak of 148,000 in 2003 when Bush announced the ending of major combat in Iraq.	3	137	362	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1021.821	1023.680	speaker#1	female	native	But as the general elections were approaching,	3	137	363	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1023.680	1026.714	speaker#1	female	native	the anti-American armed forces in Iraq seemed to have also increased their speed of creating chaos.	3	137	364	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1026.714	1030.136	speaker#1	female	native	Anti-American violence had not only not decreased because of the increase of US troops,	3	137	365	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1030.136	1031.402	speaker#1	female	native	but rather increased sharply.	3	137	366	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1032.199	1034.121	speaker#1	female	native	On May 31, 2006,	3	137	368	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1034.121	1039.199	speaker#1	female	native	the US Department of Defense again announced that it would send additional 3,500 troops to the Al Anbar province in western Iraq	3	137	369	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1039.199	1042.246	speaker#1	female	native	to assist the local US military in cracking down anti-American armed forces and stabilizing the situation.	3	137	370	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1042.246	1045.558	speaker#1	female	native	Though the Pentagon claimed that sending more troops was just a temporary measure,	3	137	371	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1045.558	1050.589	speaker#1	female	native	the facts demonstrated that this increase of troops means that the US is getting more and more bogged down in the Iraq quagmire.	3	137	372	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1051.308	1054.090	speaker#1	female	native	The US Washington Post reported at the end of last November that	3	137	374	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1054.090	1059.074	speaker#1	female	native	an internal assessment report on the security situation in the Al Anbar province by the US Marine Corps confirmed that	3	137	375	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1059.074	1062.101	speaker#1	female	native	the US military was not only unable to defeat the insurgents in that province,	3	137	376	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1062.101	1065.772	speaker#1	female	native	but also was unable to eliminate the growing influence of al Qaeda in the area.	3	137	377	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1067.584	1071.274	Lu_jian	male	native	So just as this video clip said, in fact previously there was an increase of troops in 2004,	3	138	379	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1071.274	1072.760	Lu_jian	male	native	and an increase of troops in 2006.	3	138	380	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1072.760	1075.542	Lu_jian	male	native	Furthermore the additional troops were precisely sent to the Al Anbar province in May 2006.	3	138	381	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1075.542	1077.307	Lu_jian	male	native	But just as what was said in the short video,	3	138	382	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1077.307	1081.284	Lu_jian	male	native	in fact the increase of troops at that time not only failed to play the role of wiping out the anti-American armed forces,	3	138	383	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1081.284	1085.737	Lu_jian	male	native	rather, furthermore, it instead made this al Qaeda force somewhat grow in strength.	3	138	384	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1085.737	1088.972	Lu_jian	male	native	So if we are looking at this effect, then can the increase of troops this time	3	138	385	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1088.972	1091.847	Lu_jian	male	native	play the role of stabilizing the Iraq situation?	3	138	386	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1091.847	1093.804	Jin_canrong	male	native	It's like this. That is to say, there are two problems here.	3	139	387	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1093.804	1098.304	Jin_canrong	male	native	The first one is that everyone has this consensus, that is, the Iraq issue is, uh, fundamentally, always a military issue.	3	139	388	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1098.304	1098.679	Lu_jian	male	native	Uh-huh.	3	140	389	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1098.679	1100.429	Jin_canrong	male	native	Right? So this time after his task of increasing troops	3	141	390	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1100.429	1103.493	Jin_canrong	male	native	was announced, not only Democrats were opposed,	3	141	391	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1103.493	1105.634	Jin_canrong	male	native	even some Republicans were hesitant.	3	141	392	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1105.634	1108.430	Jin_canrong	male	native	Right? Then some military figures were rather opposed.	3	141	393	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1108.430	1110.867	Jin_canrong	male	native	Well, the military figures were worried that this issue, that is to say, if	3	141	394	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1110.867	1114.508	Jin_canrong	male	native	we depend on increasing troops to resolve the problem, and still fail to resolve the problem after the increase of troops,	3	141	395	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1114.508	1116.409	Jin_canrong	male	native	then the US military will become a scapegoat.	3	141	396	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1116.409	1116.708	Lu_jian	male	native	Uh-huh.	3	142	397	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1116.708	1119.056	Jin_canrong	male	native	So it would want to clarify one point.	3	143	398	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1119.056	1121.369	Jin_canrong	male	native	That is, the root of this issue actually involves political,	3	143	399	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1121.369	1123.557	Jin_canrong	male	native	even social, as well as many complex reasons.	3	143	400	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1123.557	1125.338	Jin_canrong	male	native	The military is just one --	3	143	401	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1125.338	1128.297	Jin_canrong	male	native	one part of the means, and of course it is also an indispensable means.	3	143	402	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1128.297	1129.969	Jin_canrong	male	native	So I think that depending on this alone...	3	144	403	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1128.297	1129.969	Yu_wanli	male	native	I think that from...	3	144	404	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1129.969	1130.719	Jin_canrong	male	native	...it is limited.	3	145	405	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1130.719	1132.812	Yu_wanli	male	native	...I think that from the purely military perspective,	3	146	406	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1132.812	1136.140	Yu_wanli	male	native	the US military is currently not carrying out a combat mission in Iraq,	3	146	407	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1136.140	1139.047	Yu_wanli	male	native	as we just said, it is a mission for maintaining security and order.	3	146	408	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1139.047	1141.547	Yu_wanli	male	native	It is in charge of everything, even including combating crimes such as petty theft.	3	146	409	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1141.547	1146.812	Yu_wanli	male	native	So if there is no political regime in Iraq, that is, in a state of anarchy,	3	146	410	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1146.812	1150.390	Yu_wanli	male	native	with this strength of the US military, additional 25,000 troops are far from enough.	3	146	411	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1150.390	1151.256	Yu_wanli	male	native	It won't make a difference at all.	3	146	412	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1151.256	1151.547	Lu_jian	male	native	Uh-huh.	3	147	413	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1151.547	1153.681	Lu_jian	male	native	But these things	3	148	414	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1151.547	1153.681	Jin_canrong	male	native	may be like this, that is to say,	3	148	415	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1153.681	1155.947	Jin_canrong	male	native	if we say it is purely carrying out the task of maintaining security, it is not correct either. That is to say,	3	149	416	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1155.947	1157.165	Jin_canrong	male	native	it is still carrying out a certain amount of combat task.	3	149	417	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1157.165	1158.881	Jin_canrong	male	native	But it's got an elusive opponent.	3	149	418	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1158.881	1161.272	Lu_jian	male	native	But the key issue is just this point that you, you've made that	3	150	419	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1158.881	1161.272	Jin_canrong	male	native		3	150	420	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1161.272	1164.521	Lu_jian	male	native	the US military in Iraq currently does not seem to have a well-defined enemy.	3	151	421	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1164.521	1165.584	Jin_canrong	male	native	Right, right, right.	3	152	422	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1164.521	1165.584	Lu_jian	male	native	It is not like	3	152	423	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1165.584	1167.100	Lu_jian	male	native	when they started the Iraq war at the very beginning,	3	153	424	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1167.100	1168.143	Lu_jian	male	native	the opponent was Saddam,	3	153	425	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1168.143	1168.971	Lu_jian	male	native	very clearly.	3	154	426	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1168.143	1168.971	Jin_canrong	male	native	Right, right, right, right.	3	154	427	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1168.971	1171.080	Lu_jian	male	native	Now, according to this Pentagon report, can you say,	3	155	428	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1171.080	1172.174	Lu_jian	male	native	can you say it is the Mahdi Army?	3	155	429	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1172.174	1175.683	Lu_jian	male	native	The Mahdi Army, now Sadr, some of them have even become legalized. This is point one.	3	155	430	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1175.683	1179.636	Jin_canrong	male	native	He is a legislator, ah, and he has 35, 35 people.	3	156	431	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1175.683	1179.636	Lu_jian	male	native	That's right, ah; can you say they are its enemy?	3	156	432	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1179.636	1182.542	Lu_jian	male	native	It seems that they cannot directly tackle the Mahdi Army either.	3	157	433	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1182.542	1184.120	Jin_canrong	male	native	Right, right, right, right.	3	158	434	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1182.542	1184.120	Lu_jian	male	native	So given such a situation,	3	158	435	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1184.120	1185.386	Lu_jian	male	native	who is its enemy?	3	159	436	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1185.386	1186.332	Lu_jian	male	native	What role can it play?	3	159	437	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1186.332	1189.072	Yu_wanli	male	native	I think that the US military will face two, two dilemmas.	3	160	438	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1189.072	1192.088	Yu_wanli	male	native	The first involves its mission and the number of its troops.	3	160	439	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1192.088	1193.650	Yu_wanli	male	native	This is a dilemma.	3	160	440	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1193.650	1193.923	Lu_jian	male	native	Uh-huh.	3	161	441	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1193.923	1195.095	Yu_wanli	male	native	The second dilemma involves its task, that is to say,	3	162	442	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1195.095	1196.595	Yu_wanli	male	native	I need to deal with these problems,	3	162	443	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1196.595	1198.485	Yu_wanli	male	native	but there will be the cost of casualties that I have to assume.	3	162	444	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1198.485	1198.985	Lu_jian	male	native	Uh-huh.	3	163	445	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1198.985	1200.204	Yu_wanli	male	native	There is again a dilemma here.	3	164	446	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1200.204	1202.032	Yu_wanli	male	native	So if it increases troops this time --	3	164	447	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1202.032	1205.657	Yu_wanli	male	native	there was a piece of old news that in the past the US military, in order to reduce its casualties,	3	164	448	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1205.657	1206.876	Yu_wanli	male	native	would withdraw as soon as it finished fighting,	3	164	449	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1206.876	1210.204	Yu_wanli	male	native	leaving Iraq's own forces to take over. As a result, the anti-American armed forces came back again.	3	164	450	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1210.204	1210.539	Lu_jian	male	native	Right.	3	165	451	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1210.539	1213.130	Yu_wanli	male	native	So this time they intend to divide it into nine strategic areas.	3	166	452	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1213.130	1213.520	Yu_wanli	male	native	I...	3	167	453	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1213.130	1213.520	Lu_jian	male	native	Uh-huh.	3	167	454	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1213.520	1214.648	Yu_wanli	male	native	...I will not leave after I finish fighting.	3	168	455	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1214.648	1217.117	Yu_wanli	male	native	I will be here and clean up this place thoroughly.	3	168	456	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1217.117	1220.118	Yu_wanli	male	native	Well, this way, it means it will assume a lot of this kind of, this kind of --	3	168	457	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1220.118	1222.493	Yu_wanli	male	native	this kind of casualties resulting from fighting against the anti-American armed forces will sharply increase.	3	168	458	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1222.493	1225.774	Jin_canrong	male	native	In addition I've noticed that there is also a request in this report, that is, it requests that the Iraqi government	3	169	459	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1225.774	1227.602	Jin_canrong	male	native	propose a clear assumption of responsibility.	3	169	460	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1227.602	1227.915	Lu_jian	male	native	Uh-huh.	3	170	461	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1227.915	1230.915	Jin_canrong	male	native	The responsibilities it assumes include many things we just mentioned, like the reconciliation among religious factions,	3	171	462	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1230.915	1232.306	Jin_canrong	male	native	pardoning that	3	171	463	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1232.306	1232.836	Jin_canrong	male	native	Baath Party...	3	172	464	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1232.306	1232.836	Lu_jian	male	native	Right.	3	172	465	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1232.836	1233.759	Jin_canrong	male	native	...members, of course they include all these.	3	173	466	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1233.759	1236.463	Jin_canrong	male	native	There is one more, uh, it says that in November this year, uh,	3	173	467	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1236.463	1239.713	Jin_canrong	male	native	the Iraqi government will be able to accept -- take over	3	173	468	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1239.713	1242.181	Jin_canrong	male	native	the task of maintaining social order, the task of maintaining security for 18 provinces.	3	174	469	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1239.713	1242.181	Lu_jian	male	native	Right, right, right.	3	174	470	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1242.181	1243.096	Jin_canrong	male	native	At present it is three provinces, right?	3	175	471	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1243.096	1243.455	Lu_jian	male	native	Yeah.	3	176	472	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1243.455	1244.509	Jin_canrong	male	native	It will be expanded to 18 provinces.	3	177	473	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1244.509	1247.322	Jin_canrong	male	native	So this time, ah, I think they will go for a fight,	3	177	474	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1247.322	1248.619	Jin_canrong	male	native	and at the same time while they are fighting, uh,	3	177	475	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1248.619	1251.338	Jin_canrong	male	native	they may have a greater task in training the Iraqi army.	3	177	476	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1251.338	1251.689	Lu_jian	male	native	Uh-huh.	3	178	477	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1251.689	1254.478	Jin_canrong	male	native	Then after they finish, they will let the Iraqis go to the frontlines.	3	179	478	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1254.478	1256.415	Jin_canrong	male	native	This resembles somewhat something in the history,	3	179	479	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1256.415	1258.493	Jin_canrong	male	native	the Guam doctrine that Nixon talked about.	3	179	480	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1258.493	1260.915	Jin_canrong	male	native	That is to say, using Asians to fight against Asians.	3	179	481	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1260.915	1262.290	Jin_canrong	male	native	The Americans will just provide arms in the rear.	3	179	482	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1262.290	1262.618	Lu_jian	male	native	Uh-huh.	3	180	483	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1262.618	1265.133	Jin_canrong	male	native	Another point is ((pw)) it returns to the traditional strategy.	3	181	484	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1265.133	1266.743	Jin_canrong	male	native	Well, I think that the US military, ah,	3	181	485	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1266.743	1269.321	Jin_canrong	male	native	historically the US military is indeed not very good at fighting guerrilla warfare.	3	181	486	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1269.321	1271.774	Jin_canrong	male	native	So -- that is, it is excellent at fighting regular wars.	3	181	487	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1271.774	1273.961	Jin_canrong	male	native	It is indeed not very competent at guerrilla warfare.	3	181	488	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1273.961	1275.915	Jin_canrong	male	native	This is the characteristic of a country's military.	3	181	489	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1275.915	1279.571	Lu_jian	male	native	However, the two persons newly deployed to Iraq in charge of	3	182	490	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1279.571	1283.259	Lu_jian	male	native	the military affairs that we just talked about should have some experience,	3	182	491	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1283.259	1285.509	Lu_jian	male	native	especially this one, Petraeus, uh,	3	182	492	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1285.509	1287.540	Lu_jian	male	native	who has fought this Iraq war.	3	182	493	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1287.540	1290.493	Lu_jian	male	native	He should be very familiar with Iraq.	3	182	494	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1290.493	1291.853	Lu_jian	male	native	To Iraq, this will --	3	182	495	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1291.853	1294.102	Yu_wanli	male	native	these things, uh, to be frank, ah, it is hard to say,	3	183	496	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1294.102	1297.274	Yu_wanli	male	native	because, you see, whether in the first Gulf war, ah, or this time,	3	183	497	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1297.274	1300.524	Yu_wanli	male	native	on the first military front of regular war,	3	183	498	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1300.524	1302.587	Yu_wanli	male	native	the US military indeed did an excellent job.	3	183	499	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1302.587	1302.953	Lu_jian	male	native	Uh-huh.	3	184	500	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1302.953	1304.860	Yu_wanli	male	native	But, um, that is,	3	185	501	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1304.860	1308.750	Yu_wanli	male	native	uh, since the US military entered Baghdad on April 9, 2003,	3	185	502	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1308.750	1309.140	Lu_jian	male	native	Uh-huh.	3	186	503	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1309.140	1310.936	Yu_wanli	male	native	its later performance, ah, has not been as good.	3	187	504	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1310.936	1313.482	Yu_wanli	male	native	Later, that is to say, it did not have a regular opponent.	3	187	505	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1313.482	1314.747	Yu_wanli	male	native	They were all roadside bombs.	3	187	506	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1314.747	1315.310	Lu_jian	male	native	Uh-huh.	3	188	507	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1315.310	1318.325	Yu_wanli	male	native	The US military has never been good at this ((pw)) this kind of warfare.	3	189	508	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1318.325	1321.716	Yu_wanli	male	native	In fact, uh, after the mid-term election last year, ah,	3	189	509	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1321.716	1324.372	Yu_wanli	male	native	Vice President Cheney once complained to the media,	3	189	510	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1324.372	1329.747	Yu_wanli	male	native	saying that our US military is a -- if it is having a fair competition with another military,	3	189	511	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1329.747	1334.184	Yu_wanli	male	native	we will be invincible. Later that famous commentator from the New York Times,	3	189	512	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1334.184	1335.778	Yu_wanli	male	native	(()), made fun of this.	3	189	513	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1335.778	1338.012	Yu_wanli	male	native	He said that war is a matter of life and death;	3	189	514	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1338.012	1340.732	Yu_wanli	male	native	who will have a fair competition with you; there is no fair competition;	3	189	515	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1340.732	1342.263	Yu_wanli	male	native	all kinds of means can be employed.	3	189	516	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1342.263	1345.100	Yu_wanli	male	native	So, that is, this American military has a special feature.	3	189	517	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1345.100	1346.725	Yu_wanli	male	native	That is, it is indeed very good at fighting regular wars,	3	189	518	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1346.725	1349.085	Yu_wanli	male	native	but dealing with this kind of strange guerrilla warfare, ah...	3	189	519	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1349.085	1351.179	Lu_jian	male	native	But what is a regular war now?	3	190	520	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1349.085	1351.179	Jin_canrong	male	native	...is not its strong point.	3	190	521	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1351.179	1353.085	Lu_jian	male	native	For example, current wars are not like wars in ancient times,	3	191	522	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1353.085	1356.663	Lu_jian	male	native	when there had to be lineups on both sides before an order was announced by the sounding of a bugle.	3	192	523	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1353.085	1356.663	Yu_wanli	male	native	Right, right, right, right.	3	192	524	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1356.663	1358.023	Lu_jian	male	native	No such wars any more.	3	193	525	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1358.023	1359.757	Lu_jian	male	native	Uh, in addition, that is,	3	193	526	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1359.757	1361.345	Lu_jian	male	native	apart from these issues,	3	193	527	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1361.345	1363.470	Lu_jian	male	native	that is, Bush also mentioned in his speech this time that	3	193	528	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1363.470	1367.189	Lu_jian	male	native	he would ask Congress for a further allocation of 6.8 billion US dollars.	3	193	529	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1367.189	1371.173	Lu_jian	male	native	Uh, in fact his plan of increasing troops has already been sent to Congress.	3	193	530	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1371.173	1374.439	Lu_jian	male	native	Furthermore, Congress said that it may further review his plan of increasing troops.	3	193	531	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1374.439	1378.006	Lu_jian	male	native	So right now how will Congress react to this matter of his?	3	193	532	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1378.006	1381.241	Lu_jian	male	native	Let's first hear how members of Congress are talking about it.	3	193	533	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1386.857	1419.724	speaker#2	male	native	(())	3	194	535	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1419.724	1424.239	Lu_jian	male	native	Hey, as we've seen just now, several senators are all saying they will block the troop surge.	3	195	536	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1424.239	1426.427	Lu_jian	male	native	Uh, in addition I also saw a piece of news that	3	195	537	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1426.427	1429.161	Lu_jian	male	native	the current House speaker, that is, this female Speaker Pelosi	3	195	538	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1429.161	1431.646	Lu_jian	male	native	and several key figures in Congress,	3	195	539	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1431.646	1433.114	Lu_jian	male	native	they issued a joint statement.	3	195	540	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1433.114	1436.551	Lu_jian	male	native	That is, let's not talk about first whether the 6.8 billion US dollars will be approved or not;	3	195	541	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1436.551	1440.030	Lu_jian	male	native	that is, they said in this joint statement that they should exercise their oversight right over next few days	3	195	542	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1440.030	1442.129	Lu_jian	male	native	to review this new policy of Bush's.	3	195	543	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1442.847	1445.613	Lu_jian	male	native	Does Congress still have the right, say, to veto this new policy	3	195	545	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1445.613	1448.628	Lu_jian	male	native	or, or does it have the capacity to block this policy?	3	195	546	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1448.628	1453.128	Jin_canrong	male	native	Congress works like this, uh, that is to say, uh, legally it has the capacity,	3	196	547	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1453.128	1453.503	Lu_jian	male	native	Uh-huh.	3	197	548	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1453.503	1455.065	Jin_canrong	male	native	this capacity is the power of the purse.	3	198	549	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1455.065	1455.378	Lu_jian	male	native	Uh-huh.	3	199	550	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1455.378	1459.096	Jin_canrong	male	native	Ah, that is, it can refuse to allocate funding, right? This is its power.	3	200	551	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1459.096	1463.383	Jin_canrong	male	native	But it actually may not be able to exercise this power in reality.	3	200	552	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1463.383	1463.773	Lu_jian	male	native	Uh-huh.	3	201	553	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1463.773	1465.658	Jin_canrong	male	native	That is, this weapon of its is not very easy to use.	3	202	554	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1465.658	1468.564	Jin_canrong	male	native	Usually there are two reasons, that is, one, uh, that is to say,	3	202	555	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1468.564	1471.532	Jin_canrong	male	native	uh, last year, ah, the Bush administration	3	202	556	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1471.532	1474.438	Jin_canrong	male	native	had already asked for an allocation of 70 billion US dollars for this war.	3	202	557	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1474.438	1474.734	Lu_jian	male	native	Right.	3	203	558	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1474.734	1476.453	Jin_canrong	male	native	There was some money left from last year.	3	204	559	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1474.734	1476.453	Lu_jian	male	native	That money has already been approved.	3	204	560	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1476.453	1477.467	Jin_canrong	male	native	Yeah, it was already approved.	3	205	561	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1477.467	1477.732	Jin_canrong	male	native	Because...	3	206	562	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1477.467	1477.732	Lu_jian	male	native	Right.	3	206	563	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1477.732	1478.922	Jin_canrong	male	native	...if he wants to use that money, uh,	3	207	564	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1478.922	1481.527	Jin_canrong	male	native	there is no legal barrier for him. He can sidestep +it.	3	207	565	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1481.527	1483.891	Jin_canrong	male	native	In addition, that is, the American people as a nation have this characteristic, ah,	3	207	566	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1483.891	1487.406	Jin_canrong	male	native	that is, during the war time, if the president really decides to go to war,	3	207	567	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1487.406	1489.140	Jin_canrong	male	native	no senator,	3	207	568	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1489.140	1492.328	Jin_canrong	male	native	while the war is going on,	3	207	569	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1492.328	1494.687	Jin_canrong	male	native	dares to cut the supplies for his own soldiers.	3	207	570	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1494.687	1496.344	Jin_canrong	male	native	That would be committing a political suicide.	3	207	571	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1496.344	1498.985	Jin_canrong	male	native	So in fact, given its political culture, uh,	3	207	572	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1498.985	1500.735	Jin_canrong	male	native	+it can say something as a threat;	3	207	573	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1500.735	1502.875	Lu_jian	male	native	politically I can say I am opposed,	3	208	574	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1502.875	1504.188	Lu_jian	male	native	ah, opposed to the increase of troops and can block the troop surge,	3	208	575	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1504.188	1506.313	Lu_jian	male	native	yet by the time of actual voting, +it may not necessarily do it.	3	208	576	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1506.313	1508.204	Yu_wanli	male	native	Right, right, right.	3	209	577	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1506.313	1508.204	Yu_wanli	male	native	Another point is that this	3	209	578	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1508.204	1510.438	Yu_wanli	male	native	Democratic Party has just taken control of Congress.	3	210	579	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1510.438	1513.688	Yu_wanli	male	native	Its goal is set at the presidential election in 2008.	3	210	580	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1513.688	1513.906	Lu_jian	male	native	Uh-huh.	3	211	581	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1513.906	1517.453	Yu_wanli	male	native	So the Iraq situation is not something that anyone can easily resolve.	3	212	582	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1517.453	1520.641	Yu_wanli	male	native	You, Bush, cannot resolve it; the Republican Party cannot resolve it now either.	3	212	583	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1520.641	1520.951	Lu_jian	male	native	Uh-huh.	3	213	584	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1520.951	1522.611	Yu_wanli	male	native	So in the future 2008 general election,	3	214	585	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1522.611	1526.251	Yu_wanli	male	native	he will say something to please voters, probably in opposition to sending more troops.	3	214	586	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1526.251	1528.496	Yu_wanli	male	native	However, he will not dare to get too much involved in this issue.	3	214	587	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1528.496	1528.795	Lu_jian	male	native	Uh-huh.	3	215	588	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1528.795	1531.375	Yu_wanli	male	native	Because once he is too deeply involved, for instance, if the supplies are cut off,	3	216	589	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1532.015	1536.499	Yu_wanli	male	native	if the supplies to the US military are cut off, then if this war fails, the responsibility will rest with the Democratic Party.	3	216	591	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1536.499	1537.203	Yu_wanli	male	native	So	3	217	592	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1536.499	1537.203	Lu_jian	male	native		3	217	593	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1537.203	1538.452	Yu_wanli	male	native	they will shun this responsibility.	3	218	594	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1538.452	1540.936	Lu_jian	male	native	Well, now let's talk about this allocation of 6.8 billion US dollars again.	3	219	595	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1540.936	1543.951	Lu_jian	male	native	Ah, Bush said that in order to send more troops now, 6.8 billion US dollars of funding is needed.	3	219	596	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1543.951	1546.748	Lu_jian	male	native	So is it possible that the Democratic Party will smoothly approve it?	3	219	597	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1546.748	1548.975	Jin_canrong	male	native	Let me explain, this 6.8 billion US dollars is divided into two parts.	3	220	598	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1548.975	1550.450	Jin_canrong	male	native	One part, 1.2 billion dollars, is earmarked for reconstruction.	3	220	599	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1550.450	1550.747	Lu_jian	male	native	Right.	3	221	600	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1550.747	1554.263	Jin_canrong	male	native	Another part, 5.6 billion US dollars, is for military expenditure.	3	222	601	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1554.263	1554.595	Lu_jian	male	native	Right.	3	223	602	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1554.595	1556.189	Jin_canrong	male	native	I think that with regard to this military expenditure, ah,	3	224	603	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1556.189	1558.517	Jin_canrong	male	native	the Democratic senators will find it hard to cut it off.	3	224	604	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1558.517	1558.839	Lu_jian	male	native	Uh-huh.	3	225	605	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1558.839	1564.589	Jin_canrong	male	native	But for this 1.2 billion US dollars reconstruction fund, uh, it may very well say it will review it out of procedural reasons,	3	226	606	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1564.589	1569.214	Jin_canrong	male	native	anti-corruption reasons and so on. It is likely that it will make some moves.	3	226	607	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1569.214	1571.990	Lu_jian	male	native	Attaching, attaching more conditions.	3	227	608	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1569.214	1571.990	Jin_canrong	male	native	Because this is true, hey,	3	227	609	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1571.990	1575.131	Jin_canrong	male	native	it is true, that is to say, because there was a previous scandal, that is, the Halliburton company,	3	228	610	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1575.131	1576.491	Jin_canrong	male	native	the company where, um, Vice President Cheney...	3	229	611	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1575.131	1576.491	Lu_jian	male	native	Right.	3	229	612	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1576.491	1577.881	Jin_canrong	male	native	...served as president, ah,	3	230	613	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1577.881	1579.631	Jin_canrong	male	native	got a large sum of money.	3	230	614	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1579.631	1582.162	Jin_canrong	male	native	But now the audit results --	3	230	615	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1582.162	1584.522	Jin_canrong	male	native	this is the US government's fund for reconstruction --	3	230	616	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1584.522	1587.084	Jin_canrong	male	native	approximately 10% was used on Iraqi people.	3	230	617	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1587.084	1591.084	Jin_canrong	male	native	90% vanished; not even a receipt can be found now.	3	231	618	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1587.084	1591.084	Lu_jian	male	native	Look, where is the money?	3	231	619	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1591.084	1591.264	Lu_jian	male	native	Right.	3	232	620	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1591.264	1593.405	Jin_canrong	male	native	So they have reasons for review. Therefore, uh,	3	233	621	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1593.405	1598.155	Jin_canrong	male	native	It is possible that they may take some actions on part of the funding, in particular the 1.2 billion US dollars for reconstruction.	3	233	622	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1598.155	1600.139	Lu_jian	male	native	But, uh, actually you two talked about these just now,	3	234	623	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1600.139	1602.545	Lu_jian	male	native	even if this 6.8 billion US dollars is not given to Bush,	3	234	624	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1602.545	1604.514	Lu_jian	male	native	the seventy-plus billion US dollars that Bush asked for and obtained last year	3	234	625	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1604.514	1606.155	Lu_jian	male	native	is enough to support his own plan of sending more troops.	3	234	626	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1606.155	1606.577	Lu_jian	male	native	Right?	3	235	627	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1606.155	1606.577	Jin_canrong	male	native	Right.	3	235	628	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1606.577	1609.827	Lu_jian	male	native	So this plan to send more troops will actually not be affected at all.	3	236	629	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1609.827	1613.877	Lu_jian	male	native	Well, but from the joint statement this time, that is, the joint statement by Pelosi,	3	236	630	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1613.877	1617.709	Lu_jian	male	native	uh, and others, we find there are a few key remarks.	3	236	631	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1617.709	1620.303	Lu_jian	male	native	For example, the correct approach to adjusting the Iraq politics should include	3	236	632	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1620.303	1623.053	Lu_jian	male	native	transferring more security responsibilities to the Iraqi government as soon as possible.	3	236	633	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1623.053	1625.069	Lu_jian	male	native	In addition it proposed a timetable for military withdrawal.	3	236	634	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1625.069	1627.006	Lu_jian	male	native	That is, the military should start to pull out within four to six months.	3	236	635	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1627.006	1630.506	Lu_jian	male	native	Also, there should be more diplomatic efforts internationally and in the Middle East.	3	236	636	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1630.506	1632.459	Lu_jian	male	native	Does this mean that the Democratic Party,	3	236	637	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1632.459	1636.146	Lu_jian	male	native	after winning the mid-term election, has got their own way of thinking with regard to the future of the Iraq issue?	3	236	638	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1636.896	1639.047	Jin_canrong	male	native	It is hard to say at this point that it has already had its own way of thinking,	3	237	640	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1639.047	1641.093	Jin_canrong	male	native	because this tough Iraq issue, ah, to be frank, ah,	3	237	641	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1641.093	1642.905	Jin_canrong	male	native	is an issue only a god can resolve.	3	237	642	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1642.905	1644.233	Jin_canrong	male	native	No mortals can resolve it.	3	237	643	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1644.233	1647.842	Jin_canrong	male	native	Well, uh, but at this time, they must say something, ah,	3	237	644	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1647.842	1649.264	Jin_canrong	male	native	that is, I have a different option from yours.	3	237	645	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1649.264	1651.545	Jin_canrong	male	native	No matter it works or not, I have to say something different.	3	237	646	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1651.545	1653.420	Jin_canrong	male	native	This is the sure outcome of partisan politics.	3	237	647	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1653.420	1656.873	Yu_wanli	male	native	They said they must strengthen the Iraqi government's ability, and Bush has also adopted this.	3	238	648	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1656.873	1658.311	Yu_wanli	male	native	So this is the same for the two times.	3	238	649	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1658.311	1663.094	Yu_wanli	male	native	But there is one point, that is, Bush, Bush is resolutely opposed to the military pullout.	3	239	650	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1658.311	1663.094	Lu_jian	male	native	The issue of the military pullout within four to six months.	3	239	651	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1663.094	1666.313	Jin_canrong	male	native	This is more of an attitude rather than a feasible policy.	3	240	652	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1666.313	1669.235	Lu_jian	male	native	But just now you two have also talked about, uh,	3	241	653	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1669.235	1673.142	Lu_jian	male	native	that is, in fact the Democratic Party may be now still mainly making plans for the 2008 election.	3	241	654	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1673.142	1675.111	Lu_jian	male	native	So, but before 2008, will they	3	241	655	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1675.111	1678.455	Lu_jian	male	native	consider, that is to say, making some real moves on the Iraq issue?	3	241	656	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1678.455	1681.908	Lu_jian	male	native	For example, putting their own plan of withdrawing the military	3	241	657	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1681.908	1683.231	Lu_jian	male	native	into action or whatever.	3	241	658	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1683.231	1685.575	Jin_canrong	male	native	I think it is like this. At present the Democratic Party is somewhat in a dilemma.	3	242	659	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1685.575	1688.372	Jin_canrong	male	native	After winning the mid-term election, ah --	3	242	660	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1688.372	1690.591	Jin_canrong	male	native	what is Congress? The general public gives you the power of Congress,	3	242	661	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1690.591	1692.685	Jin_canrong	male	native	so they are also obligated now to	3	242	662	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1692.685	1696.216	Jin_canrong	male	native	make their contribution to resolving the Iraq issue.	3	242	663	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1696.216	1699.638	Jin_canrong	male	native	But on the other hand, as Xiao Yu said just now, that is to say, if they	3	242	664	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1699.638	1703.393	Jin_canrong	male	native	get too deeply involved, then they would be dragged into a bottomless abyss,	3	242	665	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1703.393	1706.143	Jin_canrong	male	native	and then it would make them suffer after winning the presidency in 2008.	3	242	666	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1706.143	1708.533	Jin_canrong	male	native	So to be frank, right now, ah, it isn't having a good time either.	3	242	667	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1708.533	1710.220	Jin_canrong	male	native	So it can only just say,	3	242	668	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1710.220	1711.813	Jin_canrong	male	native	only just say that you are not doing it right, oh,	3	242	669	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1711.813	1713.141	Jin_canrong	male	native	it will have to say something,	3	242	670	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1713.141	1715.063	Jin_canrong	male	native	but if you really want the Democratic Party to come up with a solution,	3	242	671	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1715.063	1716.110	Jin_canrong	male	native	it does not have any solution either.	3	242	672	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1716.110	1719.923	Yu_wanli	male	native	Moreover, the Democratic Party's current agenda is still focused on domestic,	3	243	673	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1719.923	1723.048	Yu_wanli	male	native	domestic issues, people's livelihood, and how to explain these issues.	3	243	674	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1723.048	1726.111	Yu_wanli	male	native	So it may very likely have some exchange deal with the Republican Party on this issue.	3	243	675	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1726.111	1726.517	Lu_jian	male	native	Uh-huh.	3	244	676	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1726.517	1730.237	Lu_jian	male	native	If at the end -- due to the short time frame of our program -- if you two are asked to make a prediction at the end,	3	244	677	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1730.237	1732.674	Lu_jian	male	native	that is, now that the plan to increase troops -- the new Iraq plan -- has been unveiled,	3	244	678	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1732.674	1735.018	Lu_jian	male	native	within a short period of time, for example, over the next few months,	3	244	679	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1735.018	1737.112	Lu_jian	male	native	is the Iraq situation going to be better?	3	244	680	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1737.112	1739.674	Jin_canrong	male	native	I think it is like this. That is to say, in the Baghdad region, ah,	3	245	681	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1739.674	1741.924	Jin_canrong	male	native	the security situation is likely to improve.	3	245	682	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1741.924	1745.283	Jin_canrong	male	native	But, uh, with regard to the long-term solution to this issue,	3	245	683	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1745.283	1748.143	Jin_canrong	male	native	uh, whether it is going to be of any substantial help, there is still no answer at this point.	3	245	684	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1748.143	1748.518	Lu_jian	male	native	Uh-huh.	3	246	685	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1748.518	1751.173	Yu_wanli	male	native	That is to say, after the continued increase of troops and the US military pullout,	3	247	686	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1751.173	1752.985	Yu_wanli	male	native	what situation will Iraq be in?	3	247	687	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1752.985	1755.657	Yu_wanli	male	native	Right now nobody, nobody has any sure answer.	3	247	688	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1755.657	1759.595	Lu_jian	male	native	Uh-huh. In fact it may still be hard to tell for the next few months.	3	248	689	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1759.595	1760.704	Lu_jian	male	native	Like just now,	3	248	690	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1760.704	1762.673	Lu_jian	male	native	Mr. Jin also mentioned that Baghdad may temporarily have...	3	249	691	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1760.704	1762.673	Yu_wanli	male	native	(())...	3	249	692	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1762.673	1763.313	Lu_jian	male	native	...some...	3	249	693	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1762.673	1763.313	Yu_wanli	male	native	...there are also	3	249	694	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1763.313	1765.610	Yu_wanli	male	native	some people who are commenting that the increase of troops is a tactical adjustment,	3	250	695	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1765.610	1766.356	Yu_wanli	male	native	not a strategic adjustment.	3	250	696	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1766.356	1766.610	Lu_jian	male	native	Uh-huh.	3	251	697	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1766.610	1767.907	Yu_wanli	male	native	Or in our Chinese expression,	3	252	698	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1767.907	1769.350	Yu_wanli	male	native	it is an approach that treats symptoms but do not cure the disease.	3	253	699	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1767.907	1769.350	Lu_jian	male	native	Right.	3	253	700	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1769.350	1773.662	Lu_jian	male	native	In particular, with this kind of increase of troops, if you want to deal with the huge number of	3	254	701	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1773.662	1777.475	Lu_jian	male	native	kidnappings, murders, explosions, etc that exist in Iraq at present, you may still find it very difficult.	3	254	702	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1777.475	1781.396	Lu_jian	male	native	Thank you very much, our two honorable guests, and also thank you, our dear viewers, for watching this edition of Focus Today.	3	254	703	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1781.396	1781.880	Lu_jian	male	native	Good-bye.	3	254	704	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1809.240	1810.256	speaker#3	female	native	Good evening, dear viewers.	4	255	706	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1810.256	1812.897	speaker#3	female	native	Today, as an extensive overcast and rainy weather is staging a comeback,	4	255	707	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1812.897	1817.959	speaker#3	female	native	this week's continuous rise in temperature and sunny weather in the Huanghuai and the Jianghuai regions, and the region south of the Yangtze River have finally come to an end.	4	255	708	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1817.959	1821.943	speaker#3	female	native	In particular, in the Jianghuai region and the northern part of the region south of the Yangtze River including Wuhan and Changsha,	4	255	709	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1821.943	1825.411	speaker#3	female	native	afternoon temperatures in many places have dropped to a single digit.	4	255	710	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1825.411	1826.989	speaker#3	female	native	It is getting overcast and cold.	4	255	711	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1826.989	1830.864	speaker#3	female	native	It is expected that between tonight to tomorrow the southern region will see more overcast and rainy weather.	4	255	712	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1830.864	1834.207	speaker#3	female	native	For example, Zhejiang and Shanghai will soon share the overcast and rainy weather.	4	255	713	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1834.207	1836.660	speaker#3	female	native	Furthermore, as temperatures continue to drop,	4	255	714	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1836.660	1839.066	speaker#3	female	native	more and more places in the southern region will see snow.	4	255	715	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1839.066	1842.003	speaker#3	female	native	For example, areas in Hubei, Anhui, and Jiangsu, in particular,	4	255	716	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1842.003	1845.675	speaker#3	female	native	will often see sleet and light snow in the coming three days.	4	255	717	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1845.675	1849.753	speaker#3	female	native	In comparison, there is little snow in the northern region and the weather appears to be sunny and dry.	4	255	718	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1849.753	1851.465	speaker#3	female	native	Let's check out the city weather forecasts together.	4	255	719	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1853.152	1855.652	speaker#3	female	native	Beijing, sunny, 6 degrees below zero to 4 degrees Celsius.	4	255	721	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1855.652	1858.605	speaker#3	female	native	Harbin, sunny, 20 degrees below zero to 10 degrees below zero.	4	255	722	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1858.605	1861.779	speaker#3	female	native	Xi'an, overcast changing to mostly cloudy, 2 degrees below zero to 4 degrees.	4	255	723	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1861.779	1864.294	speaker#3	female	native	Jinan, mostly cloudy changing to sunny, 6 degrees below zero to 3 degrees.	4	255	724	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1864.294	1866.888	speaker#3	female	native	Zhengzhou, cloudy, 3 degrees below zero to 4 degrees.	4	255	725	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1867.528	1869.325	speaker#3	female	native	Shanghai, light rain, 6 to 8 degrees.	4	255	727	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1870.325	1871.982	speaker#3	female	native	Changsha, light rain, 4 to 6 degrees.	4	255	729	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1873.138	1875.361	speaker#3	female	native	Fuzhou, showers, 11 to 15 degrees.	4	255	731	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1875.990	1878.232	speaker#3	female	native	Taipei, overcast changing to mostly cloudy, 16 to 21 degrees.	4	255	733	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1878.921	1881.216	speaker#3	female	native	Guangzhou, light rain changing to overcast, 12 to 17 degrees.	4	255	735	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1881.216	1883.951	speaker#3	female	native	Dalian, sunny, 7 degrees below zero to 1 degree below zero.	4	255	736	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1884.550	1886.153	speaker#3	female	native	Wuxi, light rain, 3 to 6 degrees.	4	255	738	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1887.278	1889.872	speaker#3	female	native	Liaocheng, mostly cloudy changing to sunny, 8 degrees below zero to 2 degrees.	4	255	740	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1889.872	1892.214	speaker#3	female	native	Bangkok, mostly cloudy, 24 to 32 degrees.	4	255	741	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1893.112	1895.091	speaker#3	female	native	New Delhi, sunny, 3 to 18 degrees.	4	255	743	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1895.825	1897.903	speaker#3	female	native	Seoul, sunny, 2 degrees below zero to 4 degrees.	4	255	745	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1898.606	1900.449	speaker#3	female	native	Tokyo, mostly cloudy, 4 to 11 degrees.	4	255	747	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1901.449	1903.480	speaker#3	female	native	London, mostly cloudy, 11 to 13 degrees.	4	255	749	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1904.277	1906.465	speaker#3	female	native	Moscow, showers changing to overcast, 2 to 6 degrees.	4	255	751	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1907.184	1909.606	speaker#3	female	native	Paris, showers changing to mostly cloudy, 10 to 13 degrees.	4	255	753	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1909.606	1912.144	speaker#3	female	native	Vienna, light rain, 11 to 15 degrees.	4	255	754	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1912.867	1914.388	speaker#3	female	native	New York, mostly cloudy, 4 to 8 degrees.	4	255	756	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1915.466	1917.419	speaker#3	female	native	Seattle, mostly cloudy, 4 to 7 degrees.	4	255	758	report	
+CCTV4_TDYFOCUS_CMN_20070111_082801	0	1918.419	1920.341	speaker#3	female	native	Washington, mostly cloudy, 2 to 7 degrees.	4	255	760	report	

@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070108.0193	0	10010.000	10019.900				More than 1 in 5 Czech Citizens Have Taken Drugs	0	0	0		
+PDA_CMN_20070108.0193	0	20010.000	20019.900				January 8, 2007 10:21	0	0	0		
+PDA_CMN_20070108.0193	0	30010.000	30019.900				Xinhua News Agency, Prague, January 7 (Correspondent Ding Yi) According to a report in the Czech newspaper Právo on the 6th, a sample survey by the Czech Institute of Health Information and Statistics shows that 22.3% of Czechs have taken drugs, and drug users are becoming younger every day.	0	0	0		
+PDA_CMN_20070108.0193	0	40010.000	40019.900				The survey showed that marijuana is the drug most frequently taken by Czechs, and among young people the proportion of drug users is getting higher and higher.	0	0	0		
+PDA_CMN_20070108.0193	0	40020.000	40029.900				Among young people between the ages of 18 and 24, 40% have taken drugs.	0	0	0		
+PDA_CMN_20070108.0193	0	40030.000	40039.900				Around 50% of Czech students took marijuana before the age of 13.	0	0	0		
+PDA_CMN_20070108.0193	0	40040.000	40049.900				Czech schools have now become among the easiest places to get hold of drugs.	0	0	0		
+PDA_CMN_20070108.0193	0	50010.000	50019.900				The survey also showed that the distribution of drug users is correlated with their educational level.	0	0	0		
+PDA_CMN_20070108.0193	0	50020.000	50029.900				Most drug users have either only studied to primary school or middle school level or are unemployed, while there is little drug abuse among those with university-level education, married people and people with steady employment.	0	0	0		
+PDA_CMN_20070108.0193	0	60010.000	60019.900				Even though the Czech Republic formulated a national five-year anti-drug strategy in 2004, the situation for the fight against drug abuse remains extremely grim.	0	0	0		
+PDA_CMN_20070108.0193	0	60020.000	60029.900				Therefore, experts have called on the government and related bodies to continue stepping up their anti-drug efforts and mobilize the resources of the whole of society to actively take part in this campaign so as to contain the further spread of drug abuse.	0	0	0		

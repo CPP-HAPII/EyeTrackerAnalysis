@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.1197	0	0.0	100.0	speaker	unknown	unknown	股市频坐"过山车" 券商建议:股民需准备打持久战	0	0	0		
+CNS_CMN_20080716.1197	0	300.0	400.0	speaker	unknown	unknown	受外围股市低迷影响，今日沪综指开盘跌25.55点,行业板块尽墨，两市一度超过1300家个股在飘绿。	0	0	0		
+CNS_CMN_20080716.1197	0	1000.0	1100.0	speaker	unknown	unknown	中信证券认为在国内外形势没有明朗的情况下，A股市场将维持低位震荡走势，但持久战究竟有多长，这还要取决于美国次债危机，国际大宗商品价格，以及从紧的货币政策等因素。	0	0	0		
+CNS_CMN_20080716.1197	0	1100.0	1200.0	speaker	unknown	unknown	而持久战也必然会加大投资盈利的艰难性。	0	0	0		

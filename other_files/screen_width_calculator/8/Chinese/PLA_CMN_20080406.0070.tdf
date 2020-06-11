@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080406.0070.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	某部官兵连夜扑灭一起山火	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-06 06:20:02   来源：解放军报第1版	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	900.000	950.000	TEXT1	unknown	unkown	“兴城市华山镇发生山火，请求你部紧急救援”。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	4月4日晚10时，接到地方政府的求援电话后，该部迅速启动应急行动预案，紧急出动180余名官兵赶往50余公里外的事发地扑救山火。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	部队到达火灾现场时，火势正不断蔓延，离村庄最近处只有20余米，情况危急。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	在部队长阎欣的指挥下，官兵迅速铲开一条隔离带，保证村民的安全。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	随后，官兵克服天黑路险、山高林密等困难，不顾疲劳，连夜奋战，逐渐控制了火势。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	今天凌晨4时，天渐渐亮了。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	参战官兵发扬顽强战斗作风，在火场拉网式向前推进，扑灭火源，排查每一寸土地上的着火点，不放过一个隐情。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	7时，山火终于被彻底扑灭。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	据介绍，该部多次参与驻地抢险救灾，受到驻地群众称赞。	0	0	0		statement
+PLA_CMN_20080406.0070.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	2006年6月，该部驻地遭遇50年一遇的洪水，官兵救出了460多名群众；去年3月，在一场50多年罕见的暴雪中，官兵除雪救灾，帮助群众重建家园。	0	0	0		statement

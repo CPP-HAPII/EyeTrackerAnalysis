@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080418.0008.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	A German Survey Indicates One Third of Germany's Youths Have Hostility toward Foreigners	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 18, 2008	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	900.000	950.000	TEXT1	unknown	unkown	According to a report on the 17th in the Süddeutsche Zeitung, a study by Germany's Internal Affairs Minister's Council indicated that one third of 9-year-old children in Germany believe that there are too many foreigners in Germany.	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	And one thirteenth of Germany's youths have engaged in criminal behavior linked with right-wing ideology.	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	This negativity and hostility toward foreigners is growing among German youths.	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	According to the latest survey, roughly one third of German middle school students "very much agree" that there are too many foreigners in Germany, and another one third of the students "rather agree" with this view.	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	In middle school, one fifth of 9-year-old children have hostile feelings toward "Islam."	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	In addition, about one thirteenth of Germany's youths have engaged in criminal behavior of right-wing ideological nature, such as painting graffiti on the walls of Nazi swastikas or vandalizing foreigners' property.	0	0	0		statement
+PDA_CMN_20080418.0008.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	The report was of the opinion that the reason such a situation could emerge among Germany's youths was that children in this age range are very easily influenced by outside thoughts. They will imitate the opinions and positions of others without thinking.	0	0	0		statement

@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.2643	0	200.0	300.0	speaker	unknown	unknown	“越南近来的经济波动，很难说它是‘经济危机’或是‘金融危机’，无非是金融市场上有一些动荡。”中国社会科学院世界经济与政治研究所国际金融研究所副所长张斌说。	0	0	0		
+CNS_CMN_20080715.2643	0	300.0	400.0	speaker	unknown	unknown	金融动荡未酿成经济危机	0	0	0		
+CNS_CMN_20080715.2643	0	1300.0	1400.0	speaker	unknown	unknown	从6月20日至7月4日，越南VN指数上涨了20%。	0	0	0		
+CNS_CMN_20080715.2643	0	1600.0	1700.0	speaker	unknown	unknown	早在6月24日，中国国务院发展研究中心亚非研究所所长谷源洋，就曾在《中国社会科学院院报》上撰文指出，“越南宏观经济形势确实是出现了问题”，但是“目前有些指标已处于暂时稳定状态。	0	0	0		
+CNS_CMN_20080715.2643	0	1700.0	1800.0	speaker	unknown	unknown	因此，不能说越南业已发生了金融危机，出现了社会经济危机”。	0	0	0		
+CNS_CMN_20080715.2643	0	2600.0	2700.0	speaker	unknown	unknown	把越南“经济危机”与11年前那场风卷残云般袭击亚洲的金融危机相提并论，一下子就刺激了公众敏感的神经。	0	0	0		
+CNS_CMN_20080715.2643	0	3400.0	3500.0	speaker	unknown	unknown	5月份，通胀率达到1992年以来从未有过的25.2%，楼市较去年下跌了50%，股市综合指数已从去年最高的1170点狂泻至400点以下。	0	0	0		
+CNS_CMN_20080715.2643	0	3700.0	3800.0	speaker	unknown	unknown	此外，越南的贸易赤字达到144亿美元，外债超过240亿美元——占国民生产总值的30.2%。	0	0	0		
+CNS_CMN_20080715.2643	0	4600.0	4700.0	speaker	unknown	unknown	5月份，越南的CPI指数攀升到25.2%。	0	0	0		
+CNS_CMN_20080715.2643	0	4800.0	4900.0	speaker	unknown	unknown	小阮是北京一所高校的留学生，来自这次越南“经济危机”的“风暴眼”河内。	0	0	0		
+CNS_CMN_20080715.2643	0	5000.0	5100.0	speaker	unknown	unknown	虽然一直与国内亲友们保持着联系，小阮却没有从亲友们那里得到越南经济危机四伏的信号。	0	0	0		
+CNS_CMN_20080715.2643	0	5700.0	5800.0	speaker	unknown	unknown	在河内，过去大学生出行的交通工具主要是摩托车，现在很多大学生都改坐公交，或是骑自行车。	0	0	0		

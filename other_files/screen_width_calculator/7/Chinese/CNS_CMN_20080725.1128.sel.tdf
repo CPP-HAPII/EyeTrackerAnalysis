@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.1128	0	0.0	100.0	speaker	unknown	unknown	券商：蓝筹股价值显现 QFII再度出手抄底	0	0	0		
+CNS_CMN_20080725.1128	0	600.0	700.0	speaker	unknown	unknown	笔者分析认为，在上证综指3300点时就意欲抄底的QFII，如今可能再次展开了买入行动。	0	0	0		
+CNS_CMN_20080725.1128	0	700.0	800.0	speaker	unknown	unknown	从QFII资金流向来看，上周前四个交易日QFII资金净买入并不多，每个席位大约两三亿元。	0	0	0		
+CNS_CMN_20080725.1128	0	800.0	900.0	speaker	unknown	unknown	而从本周的TOPVIEW数据可以发现，中金上海陆家嘴环路营业部QFII席位本周前三个交易日共买入7.6亿元，卖出4.7亿元，而本周一该席位涉及买入金额近20亿元，卖出金额也将近20亿元。	0	0	0		
+CNS_CMN_20080725.1128	0	1000.0	1100.0	speaker	unknown	unknown	据笔者不完全统计，近期买入股票较多的除中信证券自营席位外，中金上海陆家嘴环路营业部、高华证券北京金融大街营业部、申万上海新昌路营业部等QFII席位紧随其后。	0	0	0		
+CNS_CMN_20080725.1128	0	1200.0	1300.0	speaker	unknown	unknown	不过，QFII的首次抄底并不成功，其后A股一路下行。	0	0	0		
+CNS_CMN_20080725.1128	0	1300.0	1400.0	speaker	unknown	unknown	在这一期间，QFII席位未出现明显资金净流出。	0	0	0		
+CNS_CMN_20080725.1128	0	1400.0	1500.0	speaker	unknown	unknown	如今，QFII再度抄底能否成功，值得认真观察。	0	0	0		
+CNS_CMN_20080725.1128	0	1500.0	1600.0	speaker	unknown	unknown	QFII一直保持高仓位的持续买进A股策略值得深思。	0	0	0		
+CNS_CMN_20080725.1128	0	1900.0	2000.0	speaker	unknown	unknown	笔者认为，从目前A股市场整体市场环境及估值因素考虑，低价大盘蓝筹股特别是经过连续调整、基本面仍然看好的品种可以成为稳健型投资者的首选。	0	0	0		
+CNS_CMN_20080725.1128	0	2000.0	2100.0	speaker	unknown	unknown	(康洪涛 国元证券)	0	0	0		

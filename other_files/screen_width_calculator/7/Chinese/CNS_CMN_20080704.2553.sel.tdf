@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.2553	0	200.0	300.0	speaker	unknown	unknown	中新网7月4日电 据澳门日报报道，6月广东收紧赴澳门自由行至“一月一签”，市场随即联想到中央要调控赌业。	0	0	0		
+CNS_CMN_20080704.2553	0	300.0	400.0	speaker	unknown	unknown	但数据显示，澳门当月赌收未被“动摇”，同比仍激增近70%至97.8亿，反而零售、酒店业首当其冲。	0	0	0		
+CNS_CMN_20080704.2553	0	400.0	500.0	speaker	unknown	unknown	踏入暑假，自由行再收紧为“两月一签”。	0	0	0		

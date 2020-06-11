@@ -1,0 +1,573 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 8.4629999999999992, 230.02500000000001, 881.49900000000002, 952.54700000000003, 1813.4960000000001, 1921.7370000000001, 9999999.0]
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	0.563	2.001	Ye_yingchun	female	native	OK, that's all for this session of news;	0	0	1	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	2.001	4.032	Ye_yingchun	female	native	later, we will have Today's Focus hosted by Wang Shilin.	0	0	2	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	4.032	7.026	Ye_yingchun	female	native	Welcome to stay tuned with us, thank you for watching this China News,	0	0	3	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	7.026	8.463	Ye_yingchun	female	native	I am Ye Yingchun, goodbye.	0	0	4	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	230.025	233.877	Wang_shilin	male	native	Hello everyone, welcome to a special program of Today's Focus: "Concerns About 2007."	2	2	6	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	234.476	237.759	Wang_shilin	male	native	The focus of today's program is our neighbor, Russia.	2	2	8	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	237.759	239.884	Wang_shilin	male	native	We have invited two experts to our studio,	2	2	9	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	239.884	242.806	Wang_shilin	male	native	and they will help us answer our concerns regarding Russia one by one.	2	2	10	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	242.806	244.415	Wang_shilin	male	native	The two experts are:	2	2	11	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	245.087	248.587	Wang_shilin	male	native	The vice-president of the China Institute of Contemporary International Relations, Mr. Ji Chiye. Hello.	2	2	13	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	248.587	253.728	Wang_shilin	male	native	The other one is the secretary-general of Chinese, Russian, Central Asian, and Eastern European Studies, Mr. Zheng Yu. Hello.	2	2	14	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	253.728	255.822	Wang_shilin	male	native	Welcome to you both for joining us on our program in the studio.	2	2	15	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	255.822	260.494	Wang_shilin	male	native	Today, we will begin our program from an, uh, art exhibition.	2	2	16	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	260.494	265.556	Wang_shilin	male	native	We now can see this painting on our big screen;	2	2	17	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	265.556	267.869	Wang_shilin	male	native	uh, this art exhibition is a children's painting exhibition,	2	2	18	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	267.869	271.900	Wang_shilin	male	native	because, uh, last summer, on the eve of Russia Day,	2	2	19	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	271.900	277.207	Wang_shilin	male	native	uh, many schools in Russia invited the elementary school students to describe in their paintings,	2	2	20	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	277.207	279.588	Wang_shilin	male	native	uh, to describe what Putin is like in their minds.	2	2	21	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	279.588	284.931	Wang_shilin	male	native	This first picture was painted by a little girl, Dashake Rachel.	2	2	22	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	284.931	289.213	Wang_shilin	male	native	The scene she painted, uh, was Putin's delivery of the, uh, New Year message.	2	2	23	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	289.752	291.493	Wang_shilin	male	native	From this picture, we can see	2	2	25	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	291.493	294.977	Wang_shilin	male	native	Putin's confidence, which is also one aspect of Putin's personality.	2	2	26	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	295.618	296.712	Wang_shilin	male	native	Now we come to the next picture.	2	2	28	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	296.712	300.712	Wang_shilin	male	native	This picture is, uh, drawn by a boy whose name is Boris.	2	2	29	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	300.712	304.228	Wang_shilin	male	native	We see that Putin is walking his dog by the beach.	2	2	30	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	304.228	308.009	Wang_shilin	male	native	Through this picture, Putin is portrayed as an ordinary person,	2	2	31	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	308.009	309.524	Wang_shilin	male	native	and he has extraordinary affinity.	2	2	32	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	309.524	313.822	Wang_shilin	male	native	The next one is painted by Dennis, uh, Typolev.	2	2	33	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	313.822	316.832	Wang_shilin	male	native	Putin was dropped into the enemy's rear area as a scout;	2	2	34	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	316.832	319.369	Wang_shilin	male	native	this reminds us about some of Putin's military characteristics.	2	2	35	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	319.369	322.587	Wang_shilin	male	native	For instance, he once went to Chechnya in a fighter plane, etc.	2	2	36	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	322.587	327.901	Wang_shilin	male	native	The next one is drawn by a boy named, uh, Sashateluo Karimov,	2	2	37	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	327.901	330.916	Wang_shilin	male	native	which says that Putin was once like Boris, uh, indeed, uh,	2	2	38	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	330.916	332.713	Wang_shilin	male	native	sometimes Putin is very quiet,	2	2	39	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	332.713	334.745	Wang_shilin	male	native	because of his past, uh, this, past situation,	2	2	40	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	334.745	337.932	Wang_shilin	male	native	uh, but you can also see his bold side.	2	2	41	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	338.466	342.966	Wang_shilin	male	native	The last picture is painted by a little boy, Imran Mahmutov,	2	2	43	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	342.966	345.076	Wang_shilin	male	native	depicting Putin as a Judo champion.	2	2	44	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	345.076	349.904	Wang_shilin	male	native	From this, we can see that Putin is also a person full of energy.	2	2	45	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	349.904	355.060	Wang_shilin	male	native	Uh, through these several pictures, basically, we can actually describe the	2	2	46	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	355.060	356.857	Wang_shilin	male	native	characteristics of Putin's personality.	2	2	47	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	356.857	359.966	Wang_shilin	male	native	So, as you both are Russian experts, according to you,	2	2	48	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	359.966	362.419	Wang_shilin	male	native	what is Putin like in your mind?	2	2	49	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	363.154	366.088	Ji_zhiye	male	native	Uh, the president in the eyes of the children	2	3	51	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	366.088	366.776	Wang_shilin	male	native	is the most real.	2	4	52	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	366.088	366.776	Ji_zhiye	male	native	Uh.	2	4	53	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	366.776	367.444	Ji_zhiye	male	native	Most authentic.	2	5	54	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	367.444	368.178	Wang_shilin	male	native	Most authentic.	2	6	55	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	368.178	370.787	Ji_zhiye	male	native	And my personal feeling toward Putin is also,	2	7	56	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	370.787	373.381	Ji_zhiye	male	native	that he is indeed a very strong president.	2	7	57	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	373.381	374.147	Wang_shilin	male	native	OK.	2	8	58	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	374.147	377.304	Ji_zhiye	male	native	During his ministry in these, these last seven years,	2	9	59	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	377.304	377.804	Wang_shilin	male	native	OK.	2	10	60	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	377.804	381.054	Ji_zhiye	male	native	he has controlled the entire political and economic situation very tightly.	2	11	61	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	381.054	385.085	Ji_zhiye	male	native	Ah, the entire country is moving toward the direction of authority centralization.	2	11	62	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	385.085	388.897	Ji_zhiye	male	native	Uh, the economy is moving toward a centralized development.	2	11	63	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	388.897	391.428	Ji_zhiye	male	native	This is a very strong president;	2	11	64	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	391.428	395.138	Ji_zhiye	male	native	within the entire political situation, his control is still very strong in every aspect.	2	11	65	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	396.154	398.615	Ji_zhiye	male	native	In addition, he has strong affinity.	2	11	67	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	399.334	402.169	Ji_zhiye	male	native	As a president, he must have affinity.	2	11	69	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	402.169	405.138	Ji_zhiye	male	native	He owns dogs and raises horses,	2	11	70	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	405.138	405.890	Wang_shilin	male	native	Right.	2	12	71	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	405.890	407.356	Ji_zhiye	male	native	everybody knows that.	2	13	72	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	407.356	407.818	Wang_shilin	male	native	Right.	2	14	73	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	407.818	410.895	Ji_zhiye	male	native	And then, he had his two daughters, he has a very good relationship with his daughters.	2	15	74	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	410.895	412.207	Ji_zhiye	male	native	Very harmonious, right.	2	16	75	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	410.895	412.207	Wang_shilin	male	native	A good father.	2	16	76	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	412.207	413.348	Ji_zhiye	male	native	An image of a good father.	2	17	77	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	413.348	415.385	Ji_zhiye	male	native	He also has a good relationship with his wife.	2	17	78	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	415.385	416.260	Wang_shilin	male	native	An image of a good husband.	2	18	79	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	415.385	416.260	Ji_zhiye	male	native	Therefore, uh,	2	18	80	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	416.260	419.135	Ji_zhiye	male	native	as a president, this kind of affinity is very important.	2	19	81	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	419.775	422.554	Ji_zhiye	male	native	And when others look at this affinity, the first thing is to look at your family.	2	19	83	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	422.554	422.991	Wang_shilin	male	native	Uh-huh.	2	20	84	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	422.991	425.038	Ji_zhiye	male	native	But, as a president,	2	21	85	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	425.038	428.215	Ji_zhiye	male	native	there is also a strong manly charm;	2	21	86	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	428.874	429.898	Ji_zhiye	male	native	this is also rare.	2	21	88	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	429.898	433.304	Ji_zhiye	male	native	Oh, you just mentioned that he flew, uh, in a plane,	2	21	89	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	433.304	433.961	Ji_zhiye	male	native	a fighter plane.	2	21	90	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	433.961	434.336	Wang_shilin	male	native	Right.	2	22	91	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	434.336	435.867	Ji_zhiye	male	native	He was also in a submarine,	2	23	92	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	435.867	436.367	Wang_shilin	male	native	Yes.	2	24	93	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	436.367	437.398	Ji_zhiye	male	native	was on board a submarine.	2	25	94	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	437.398	437.804	Wang_shilin	male	native	Right.	2	26	95	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	437.804	441.345	Ji_zhiye	male	native	Uh, he even sat in the seat of the co-pilot, personally	2	27	96	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	441.345	443.705	Ji_zhiye	male	native	sat as a co-pilot, uh, participated in the steering.	2	28	97	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	441.345	443.705	Wang_shilin	male	native	Participated in the steering.	2	28	98	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	443.705	446.143	Wang_shilin	male	native	You can say that he is a controlling person.	2	29	99	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	443.705	446.143	Ji_zhiye	male	native	So he is, right.	2	29	100	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	446.143	447.565	Wang_shilin	male	native	Um, a person	2	30	101	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	447.565	448.033	Wang_shilin	male	native	with affinity.	2	31	102	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	447.565	448.033	Ji_zhiye	male	native	Right.	2	31	103	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	448.033	449.486	Wang_shilin	male	native	In short, he is a charismatic person.	2	32	104	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	449.486	449.845	Ji_zhiye	male	native	Yes.	2	33	105	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	449.845	451.142	Wang_shilin	male	native	Well, secretary Zheng, what is your view?	2	34	106	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	451.142	454.048	Zheng_yu	male	native	Uh, I think if anything needs to be added,	2	35	107	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	454.048	456.173	Zheng_yu	male	native	it should be said that he	2	35	108	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	456.173	460.157	Zheng_yu	male	native	uh, when he is compared to previous uh, Soviet Union, uh, Russian leaders, um,	2	35	109	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	460.157	462.954	Zheng_yu	male	native	we should say that he has worked longer overseas,	2	35	110	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	462.954	466.142	Zheng_yu	male	native	so he has more understanding about the Western world, uh, the foreign world.	2	35	111	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	466.142	471.361	Zheng_yu	male	native	Um, for example, he is just like Gorbachev, who is a law school graduate of Moscow State University,	2	35	112	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	471.954	478.438	Zheng_yu	male	native	and this, this, this Putin, uh, is a law school graduate of Leningrad University.	2	35	114	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	478.438	485.391	Zheng_yu	male	native	This Leningrad, it has been a window that opened Russia to Europe,	2	35	115	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	486.063	489.376	Zheng_yu	male	native	and after he graduated, he, uh, worked for democratic Germany for eight years.	2	35	117	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	490.017	494.752	Zheng_yu	male	native	In this way, he has more understanding toward the West, toward the foreign world.	2	35	119	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	494.752	496.765	Wang_shilin	male	native	That is to say, he is a man of a very broad vision.	2	36	120	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	496.765	502.015	Zheng_yu	male	native	Yes. Just look at this person from, from his appearance, he seems to have an introverted personality,	2	37	121	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	502.015	504.640	Zheng_yu	male	native	but he also has a strong and violent side.	2	37	122	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	504.640	508.436	Zheng_yu	male	native	For instance, actually if you look at it from his political career,	2	37	123	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	508.436	512.389	Zheng_yu	male	native	in fact, it should be said that his political career began during the second Chechen War.	2	37	124	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	513.248	515.810	Zheng_yu	male	native	It is said that Putin was in this	2	37	126	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	515.810	519.622	Zheng_yu	male	native	in the summer of 1999, the Chechen terrorist operation, ah,	2	37	127	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	519.622	522.185	Zheng_yu	male	native	during the series of explosions in Moscow.	2	37	128	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	522.185	523.935	Zheng_yu	male	native	Putin said one thing,	2	37	129	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	523.935	526.904	Zheng_yu	male	native	that he could not wait to throw the terrorists into the urinal,	2	37	130	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	526.904	529.982	Zheng_yu	male	native	and urinate on them. Right?	2	37	131	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	529.982	532.623	Zheng_yu	male	native	So, this tough image of him,	2	37	132	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	532.623	536.692	Zheng_yu	male	native	won the people's support during the time when Russia was in chaos.	2	37	133	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	536.692	538.676	Wang_shilin	male	native	In other words, he is also a person with a relatively distinctive personality.	2	38	134	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	538.676	541.569	Wang_shilin	male	native	Today, we are concerned about Russia in 2007,	2	38	135	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	541.569	544.565	Wang_shilin	male	native	and of course, in 2007, Russia and Putin are inseparable,	2	38	136	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	544.565	548.331	Wang_shilin	male	native	because 2007 will be a complete year of Putin's presidency,	2	38	137	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	548.331	549.659	Wang_shilin	male	native	the final complete year.	2	38	138	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	549.659	553.956	Wang_shilin	male	native	Well, before we chat about this concern for 2007, we	2	38	139	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	553.956	554.987	Wang_shilin	male	native	have a short background video.	2	38	140	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	554.987	561.087	Wang_shilin	male	native	So let us watch together, in these last seven years, uh, what Russia was like during Putin's presidency.	2	38	141	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	561.087	562.118	Wang_shilin	male	native	Let's look at the big screen.	2	38	142	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	567.938	569.782	speaker#1	female	native	On December 31, 1999,	2	39	144	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	569.782	572.454	speaker#1	female	native	the moment before the bell of the new century rang,	2	39	145	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	572.454	576.094	speaker#1	female	native	the Russian Prime Minister at the time, Yeltsin, unexpectedly announced his resignation	2	39	146	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	576.094	578.000	speaker#1	female	native	and appointed Putin as the acting president.	2	39	147	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	578.000	583.703	speaker#1	female	native	And once an unknown name in Russia, Putin began to be known throughout the world.	2	39	148	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	586.084	588.725	speaker#1	female	native	At that time, the forces of the separatists were growing strongly in Russia,	2	39	150	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	588.725	590.459	speaker#1	female	native	and oligarchy was becoming stronger every day.	2	39	151	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	590.459	594.927	speaker#1	female	native	After Putin took office, his top priority was to establish a strong state power.	2	39	152	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	595.693	597.068	speaker#1	female	native	At the beginning of 2000,	2	39	154	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	597.068	601.675	speaker#1	female	native	Putin began to conduct criminal investigations on the economic activities of those oligarchs who didn't heed the summons.	2	39	155	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	602.225	606.527	speaker#1	female	native	And forced financial tycoons such as Gusinsky and Berezovsky into exile abroad.	2	39	157	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	607.225	608.467	speaker#1	female	native	In October 2003,	2	39	159	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	608.467	611.529	speaker#1	female	native	he put Russia's richest man, who attempted to interfere in Russia's politics,	2	39	160	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	611.529	615.044	speaker#1	female	native	Khodorkovsky, CEO of Yukos Oil Company, in jail.	2	39	161	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	615.857	619.107	speaker#1	female	native	In addition to taking a series of strong measures toward economic and political reforms,	2	39	163	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	619.107	623.576	speaker#1	female	native	in the process of safeguarding national unity, Putin also demonstrated his pragmatic and flexible style.	2	39	164	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	624.291	627.092	speaker#1	female	native	On one hand, he cracked down on the activities of the armed Chechen separatists,	2	39	166	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	627.092	630.279	speaker#1	female	native	and on the other, he intensified efforts to solve Chechnya's problem politically.	2	39	167	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	631.122	632.325	speaker#1	female	native	In March 2003,	2	39	169	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	632.325	635.169	speaker#1	female	native	Chechnya adopted an all-out referendum and passed the new constitution.	2	39	170	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	635.169	639.060	speaker#1	female	native	Chechnya's political status, which had been bothering Russia for so many years, was essentially resolved.	2	39	171	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	639.872	641.387	speaker#1	female	native	After the governing of his first term	2	39	173	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	641.387	643.840	speaker#1	female	native	the political development prospects became clear in Russia.	2	39	174	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	644.465	647.027	speaker#1	female	native	The purpose was to safeguard social development and economic revitalization,	2	39	176	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	647.027	652.089	speaker#1	female	native	a controlled democracy centered on the president's centralization in leading Russia to leave its lair and head toward stability.	2	39	177	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	653.464	655.089	speaker#1	female	native	On March 14, 2004,	2	39	179	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	655.089	656.777	speaker#1	female	native	the +presidential election was held in Russia.	2	39	180	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	656.777	661.105	speaker#1	female	native	In this election, Putin received votes as high as 70.02% above,	2	39	181	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	661.105	664.073	speaker#1	female	native	far exceeding any other presidential candidate, and was re-elected again.	2	39	182	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	664.851	667.351	speaker#1	female	native	Putin not only became a widely known public figure in Russia,	2	39	184	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	667.351	672.226	speaker#1	female	native	but it appeared to most people that only Putin could bring future and hope to Russia.	2	39	185	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	673.133	678.211	speaker#1	female	native	However, Putin was not attached to power because he was enjoying high prestige among the people.	2	39	187	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	679.086	680.898	speaker#1	female	native	On October 25, 2006,	2	39	189	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	680.898	684.257	speaker#1	female	native	in a nationwide televised dialogue with the people,	2	39	190	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	684.257	689.460	speaker#1	female	native	Russian President Putin answered the public's inquiry regarding whether he would consider amending the constitution in order to seek reelection.	2	39	191	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	689.460	710.724	Vladimir Putin	male	native	(())	2	40	192	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	710.724	713.024	Wang_shilin	male	native	OK, welcome audience friends to continue to watch our program.	2	41	193	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	713.024	715.805	Wang_shilin	male	native	After we have finished cataloging Putin's seven years of presidency,	2	41	194	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	715.805	717.899	Wang_shilin	male	native	uh, we will now bring up the first concern we have today,	2	41	195	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	717.899	720.742	Wang_shilin	male	native	that is, is Russia still far from its dream of becoming a major power country? This is our overall, uh,	2	41	196	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	720.742	723.023	Wang_shilin	male	native	our overall theme of today.	2	41	197	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	723.023	729.773	Wang_shilin	male	native	The first concern is, will Russian President Putin decide to seek reelection after 2007?	2	41	198	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	730.711	733.601	Ji_zhiye	male	native	Uh, I think he personally has already decided.	2	42	200	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	733.601	735.032	Wang_shilin	male	native	In fact, he has decided that.	2	43	201	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	733.601	735.032	Ji_zhiye	male	native	He won't.	2	43	202	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	735.032	735.532	Ji_zhiye	male	native	It's already decided.	2	44	203	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	735.532	737.093	Wang_shilin	male	native	So, this concern is non-existent.	2	45	204	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	735.532	737.093	Ji_zhiye	male	native	He will not participate, yes.	2	45	205	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	737.093	739.703	Ji_zhiye	male	native	Uh, he will not participate in the presidential election in 2008.	2	46	206	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	739.703	741.156	Wang_shilin	male	native	OK. Why are you so sure?	2	47	207	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	741.156	745.281	Ji_zhiye	male	native	Uh, well, he has personally expressed that repeatedly,	2	48	208	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	745.984	748.999	Ji_zhiye	male	native	he will not put his personal interests above the national constitution.	2	48	210	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	748.999	750.655	Ji_zhiye	male	native	Has anyone said that he could amend the constitution?	2	48	211	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	750.655	754.827	Ji_zhiye	male	native	He said this is out of the question, the constitution, uh, constitution cannot be amended at liberty.	2	48	212	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	754.827	759.530	Ji_zhiye	male	native	So coming from him, I believe he is able to do what he says.	2	48	213	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	759.530	760.046	Wang_shilin	male	native	OK.	2	49	214	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	760.046	765.452	Ji_zhiye	male	native	Eh, another thing is, in past years, from his perspective, he has actually	2	50	215	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	765.452	768.186	Ji_zhiye	male	native	left Russia with a, uh, better system;	2	50	216	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	768.186	771.483	Ji_zhiye	male	native	this is more appropriate than his remaining, uh, staying in this position.	2	50	217	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	771.483	771.952	Wang_shilin	male	native	Right.	2	51	218	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	771.952	774.699	Wang_shilin	male	native	In fact, Putin is still relatively young.	2	51	219	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	774.699	774.938	Ji_zhiye	male	native	Right.	2	52	220	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	774.938	777.484	Wang_shilin	male	native	Moreover, he has such a high support rate in the country,	2	53	221	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	777.484	780.562	Wang_shilin	male	native	so, what would his plan be for his next move in the end?	2	53	222	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	780.562	784.609	Zheng_yu	male	native	Uh, he was born on October 7, 1952,	2	54	223	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	784.609	787.297	Zheng_yu	male	native	so now he is over 50 years old, just passed his 54th birthday.	2	54	224	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	787.297	787.656	Wang_shilin	male	native	Yes.	2	55	225	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	787.656	789.875	Zheng_yu	male	native	As a leader of the country, he is right...	2	56	226	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	789.875	790.734	Wang_shilin	male	native	Right in his prime time.	2	57	227	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	789.875	790.734	Zheng_yu	male	native	(())	2	57	228	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	790.734	791.156	Wang_shilin	male	native	Yes.	2	57	229	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	790.734	791.156	Zheng_yu	male	native	((pw))	2	57	230	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	791.156	791.999	Zheng_yu	male	native	in his prime time.	2	58	231	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	791.999	796.530	Zheng_yu	male	native	However, first of all, there is an issue about the Russian constitution.	2	58	232	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	796.530	799.545	Zheng_yu	male	native	Since the regulation is, is two terms.	2	58	233	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	799.545	805.185	Zheng_yu	male	native	Two terms, from March 2000 to 2008,	2	58	234	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	805.185	806.872	Zheng_yu	male	native	that is already two terms.	2	58	235	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	806.872	810.887	Zheng_yu	male	native	From the perspective of time, if he wants to work on this matter,	2	58	236	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	810.887	813.934	Zheng_yu	male	native	he needs to call a referendum to decide on a series of legal proceedings,	2	58	237	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	813.934	815.606	Zheng_yu	male	native	and there will be public opinions at this time.	2	58	238	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	815.606	817.918	Zheng_yu	male	native	If this is not happening now	2	58	239	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	817.918	821.497	Zheng_yu	male	native	then that means Putin himself is not preparing to do so.	2	58	240	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	821.497	825.328	Ji_zhiye	male	native	OK, however...	2	59	241	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	821.497	825.328	Zheng_yu	male	native	We are now concerned about this because there are	2	59	242	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	825.328	826.469	Zheng_yu	male	native	all sorts of speculations.	2	60	243	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	826.469	827.156	Wang_shilin	male	native	Right.	2	61	244	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	827.156	830.515	Ji_zhiye	male	native	But, eh, when we look at it now, uh, that is,	2	62	245	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	830.515	831.873	Ji_zhiye	male	native	the only concern is...	2	63	246	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	830.515	831.873	Wang_shilin	male	native	Putin,	2	63	247	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	831.873	833.794	Wang_shilin	male	native	if he is no longer the president, what is he going to do?	2	64	248	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	833.794	834.341	Zheng_yu	male	native	Yes, yes, yes.	2	65	249	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	834.341	835.654	Wang_shilin	male	native	Ah, this may be a concern.	2	66	250	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	835.654	840.857	Zheng_yu	male	native	One saying is that he could organize an establishment of the Unity Party,	2	67	251	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	840.857	841.263	Wang_shilin	male	native	OK.	2	68	252	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	841.263	842.459	Zheng_yu	male	native	and he could become the party leader.	2	69	253	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	842.459	843.020	Wang_shilin	male	native	Party leader.	2	70	254	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	843.020	849.530	Zheng_yu	male	native	Then, he could become the leader of the largest party and play a political role in parliament, uh, parliament;	2	71	255	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	849.530	852.389	Zheng_yu	male	native	um, you cannot... cannot rule out this possibility.	2	71	256	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	852.389	852.795	Wang_shilin	male	native	Right.	2	72	257	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	852.795	854.217	Zheng_yu	male	native	Um, after all, he is still young.	2	73	258	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	854.217	856.451	Ji_zhiye	male	native	In other words, he may be stepping down,	2	74	259	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	856.451	859.217	Ji_zhiye	male	native	but still retain his impact in the political arena.	2	74	260	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	859.217	860.327	Wang_shilin	male	native	Still influential.	2	75	261	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	860.327	860.967	Ji_zhiye	male	native	Right.	2	76	262	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	860.327	860.967	Wang_shilin	male	native	OK.	2	76	263	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	860.967	862.717	Wang_shilin	male	native	In fact, for Putin, ah,	2	77	264	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	862.717	864.654	Wang_shilin	male	native	the support rate is very high;	2	77	265	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	864.654	867.576	Wang_shilin	male	native	although he has decided not to be the president again,	2	77	266	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	867.576	870.014	Wang_shilin	male	native	when the term expires, he will not be the president again, but,	2	77	267	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	870.014	872.389	Wang_shilin	male	native	eh, the support rate from the people is still very high.	2	77	268	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	872.389	875.982	Wang_shilin	male	native	In the end, how high is the people's support rate for Putin,	2	77	269	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	875.982	877.342	Wang_shilin	male	native	what is the extent of it?	2	77	270	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	877.342	879.920	Wang_shilin	male	native	Maybe after the following song, we will understand.	2	77	271	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	952.547	956.984	Wang_shilin	male	native	OK, we have just tackled the first mystery:	4	79	274	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	956.984	960.259	Wang_shilin	male	native	will Putin decide to seek re-election for president in 2007?	4	79	275	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	960.259	962.009	Wang_shilin	male	native	The answer is negative.	4	79	276	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	962.009	964.634	Wang_shilin	male	native	Then we have our second concern today:	4	79	277	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	964.634	968.134	Wang_shilin	male	native	how much can Russia score with its energy card?	4	79	278	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	968.134	973.736	Wang_shilin	male	native	Because we know that in 2007, Russia's energy resources will continue to make a huge contribution to Russia's economy.	4	79	279	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	974.334	978.839	Wang_shilin	male	native	But then it looks very interesting, because just before the New Year's eve of this year,	4	79	281	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	978.839	982.010	Wang_shilin	male	native	a dispute over natural gas broke out between Russia and Belarus again.	4	79	282	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	982.010	984.541	Wang_shilin	male	native	To us, it seems like history is repeating itself.	4	79	283	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	984.541	987.416	Wang_shilin	male	native	Last year, during New Year of 2006,	4	79	284	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	987.416	990.166	Wang_shilin	male	native	Russia had a similar dispute with Ukraine.	4	79	285	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	990.166	992.759	Wang_shilin	male	native	This time, it was between Russia and Belarus. What is inexplicable is	4	79	286	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	992.759	996.383	Wang_shilin	male	native	that there is a very friendly alliance between Russia and Belarus,	4	79	287	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	996.383	999.352	Wang_shilin	male	native	but why is there a problem on this issue between the two countries?	4	79	288	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	999.352	1001.227	Wang_shilin	male	native	Again, we will take a look at a background video.	4	79	289	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1009.103	1012.884	speaker#1	female	native	At the last moment when the bell will sound in the Kremlin to welcome the New Year,	4	80	291	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1013.869	1018.291	speaker#1	female	native	the dispute between Russia and Belarus over the issue of natural gas, which has lasted more than a month, has finally been resolved.	4	80	293	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1018.291	1024.025	speaker#1	female	native	Both parties finally signed contracts regarding natural gas supply and natural gas transit for the next five years.	4	80	294	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1025.057	1028.978	speaker#1	female	native	The spokesman for Gazprom said at a press conference	4	80	296	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1028.978	1034.525	speaker#1	female	native	that in 2007, Russia will export natural gas to Belarus at the price of 100 U.S. dollars per 1,000 cubic meters of gas.	4	80	297	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1035.243	1037.259	speaker#1	female	native	Starting from 2008, within the next three years,	4	80	299	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1037.259	1042.775	speaker#1	female	native	Russia will supply natural gas to Belarus at discounted prices which are at 67%,	4	80	300	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1042.775	1045.275	speaker#1	female	native	80%, and 90% of the market price, respectively,	4	80	301	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1045.275	1048.712	speaker#1	female	native	and it will eventually reached the standard price of the European markets in 2011.	4	80	302	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1049.571	1054.009	speaker#1	female	native	In addition, the two sides agreed to raise the transit fees for transporting Russian natural gas through the pipelines of Belarus' natural gas company	4	80	304	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1054.009	1058.743	speaker#1	female	native	to European countries from 0.75 U.S. dollars per 1,000 cubic meters in 2006 to	4	80	305	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1058.743	1061.462	speaker#1	female	native	1.45 U.S. dollars.	4	80	306	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1062.087	1067.571	speaker#1	female	native	The two sides also decided on the terms of payment for the Russian Gazprom to purchase 50% of the shares of the Belarusian Gas Transportation Company.	4	80	308	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1067.571	1072.337	speaker#1	female	native	Russia will pay Belarus 2.5 billion U.S. dollars in four installments by monetary means.	4	80	309	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1073.065	1075.018	speaker#1	female	native	The chairman of Gazprom, Miller, told reporters that,	4	80	311	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1075.018	1076.799	speaker#1	female	native	among all the countries of the former Soviet Union,	4	80	312	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1076.799	1079.237	speaker#1	female	native	these were already most favorable and beneficial conditions.	4	80	313	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1079.909	1083.112	speaker#1	female	native	Currently, Belarus is the only CIS country that is	4	80	315	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1083.112	1084.987	speaker#1	female	native	importing natural gas from Russia at a low cost.	4	80	316	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1084.987	1089.534	speaker#1	female	native	In 2006, Belarus imported natural gas from Russia	4	80	317	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1089.534	1091.081	speaker#1	female	native	at a price of less than 47 U.S. dollars per 1,000 cubic meters.	4	80	318	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1091.081	1093.738	speaker#1	female	native	But when the agreement was signed again by the end of the year,	4	80	319	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1093.738	1098.676	speaker#1	female	native	Russia quoted Belarus a price of 105 U.S. dollars per 1,000 cubic meters,	4	80	320	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1098.676	1101.051	speaker#1	female	native	which Belarus expressed was not acceptable.	4	80	321	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1101.051	1103.082	speaker#1	female	native	The two sides were deadlocked during the negotiation at one point.	4	80	322	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1103.082	1104.551	speaker#1	female	native	The Russians said	4	80	323	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1104.551	1106.395	speaker#1	female	native	that if both sides failed to reach an agreement,	4	80	324	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1106.395	1109.270	speaker#1	female	native	starting from January 1, 2007, Gazprom will	4	80	325	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1109.270	1111.239	speaker#1	female	native	stop supplying natural gas to Belarus.	4	80	326	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1111.895	1114.473	speaker#1	female	native	And Belarus declared that it will take retaliatory measures	4	80	328	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1114.473	1117.332	speaker#1	female	native	and close the pipelines through which the Russian natural gas travels through Belarus,	4	80	329	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1117.332	1119.426	speaker#1	female	native	preventing Russian gas from being supplied to Europe.	4	80	330	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1121.551	1122.957	speaker#1	female	native	During the last minutes of negotiations,	4	80	332	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1122.957	1126.098	speaker#1	female	native	Belarusian Premier Sidorsky flew to Moscow at once,	4	80	333	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1126.098	1129.442	speaker#1	female	native	and finally, on December 31, 2006,	4	80	334	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1129.442	1132.505	speaker#1	female	native	at 23:58 Moscow time, decided on the contract with Russia.	4	80	335	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1132.505	1134.286	speaker#1	female	native	After several rounds of bargaining,	4	80	336	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1134.286	1135.911	speaker#1	female	native	the two sides finally shook hands on a deal.	4	80	337	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1135.911	1141.271	speaker#1	female	native	At the same time, it also removed the worries from the European countries over the supply of natural gas energy triggered by this dispute.	4	80	338	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1142.740	1145.397	Wang_shilin	male	native	Uh, Professor Ji, for the Russia-Belarus gas dispute,	4	81	340	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1145.397	1147.585	Wang_shilin	male	native	who do you think is the final winner or loser?	4	81	341	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1147.585	1148.835	Ji_zhiye	male	native	Uh, both sides are winners.	4	82	342	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1148.835	1149.570	Wang_shilin	male	native	Win-wins?	4	83	343	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1149.570	1149.960	Ji_zhiye	male	native	Right.	4	84	344	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1149.960	1153.882	Ji_zhiye	male	native	Because, uh, from, uh, nobody has introduced this,	4	84	345	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1153.882	1155.288	Ji_zhiye	male	native	why did Russia raise the price of gas?	4	84	346	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1155.288	1155.663	Wang_shilin	male	native	OK.	4	85	347	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1155.663	1157.023	Ji_zhiye	male	native	That is, why were the prices of natural gas	4	86	348	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1157.023	1159.303	Ji_zhiye	male	native	raised? What is the background for this?	4	87	349	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1157.023	1159.303	Wang_shilin	male	native	The prices were raised, yes (())	4	87	350	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1159.303	1160.694	Ji_zhiye	male	native	It looks like it does not involve anything.	4	88	351	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1160.694	1164.663	Ji_zhiye	male	native	But in fact, it is very clear, that is, uh, especially last year,	4	88	352	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1164.663	1168.163	Ji_zhiye	male	native	uh, Russia signed with the United States to allow,	4	88	353	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1168.163	1170.519	Ji_zhiye	male	native	allow its entry into the WTO.	4	88	354	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1170.519	1171.925	Ji_zhiye	male	native	Uh, this agreement.	4	89	355	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1170.519	1171.925	Wang_shilin	male	native	Agreement, right.	4	89	356	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1171.925	1176.425	Ji_zhiye	male	native	Then, according to the agreement signed between Russia and Europe,	4	90	357	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1177.144	1180.676	Ji_zhiye	male	native	uh, it was required that, before 2015, Russia must	4	90	359	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1180.676	1185.126	Ji_zhiye	male	native	stabilize its domestic energy prices of natural gas and oil with the international level.	4	90	360	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1185.892	1191.079	Ji_zhiye	male	native	Therefore, for its exports to the surrounding neighbors, Russia must	4	90	362	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1191.079	1195.736	Ji_zhiye	male	native	raise the prices of its natural gas or oil to a corresponding level.	4	90	363	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1195.736	1198.392	Ji_zhiye	male	native	And everybody knows now, like Belarus,	4	90	364	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1198.392	1205.033	Ji_zhiye	male	native	the price of natural gas in 2006 was not even, 40, not even 47 U.S. dollars per 1,000 cubic meters.	4	90	365	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1205.033	1208.891	Ji_zhiye	male	native	Well, this is far below the current international level of 230 U.S. dollars, uh, such a	4	90	366	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1208.891	1209.423	Ji_zhiye	male	native	level.	4	91	367	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1208.891	1209.423	Wang_shilin	male	native	Right.	4	91	368	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1209.423	1214.939	Ji_zhiye	male	native	Um, therefore, uh, but these countries have depended on their cooperation with Russia for a long time.	4	92	369	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1215.549	1219.377	Ji_zhiye	male	native	Uh, depending on cheap, uh, energy from Russia,	4	92	371	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1220.157	1223.235	Ji_zhiye	male	native	to a large extent, the economies of these countries,	4	92	373	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1223.235	1226.735	Ji_zhiye	male	native	uh, rely on cheap energy supplies from Russia.	4	92	374	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1226.735	1227.094	Ji_zhiye	male	native	OK.	4	93	375	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1227.094	1228.985	Wang_shilin	male	native	Um, in order to maintain a rapid development.	4	94	376	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1228.985	1233.735	Wang_shilin	male	native	Ah, so now Russia wants to raise its prices, and these countries certainly cannot sustain.	4	94	377	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1233.735	1236.392	Wang_shilin	male	native	Oh, last year, Ukraine had this problem,	4	94	378	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1236.392	1238.189	Wang_shilin	male	native	and this year, Belarus has the same problem.	4	94	379	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1238.189	1242.719	Wang_shilin	male	native	Because they all have to sign their gas price contract for the coming year by the end of the current year.	4	94	380	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1242.719	1244.516	Ji_zhiye	male	native	Therefore, this will trigger the problem.	4	95	381	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1242.719	1244.516	Zheng_yu	male	native	This.	4	95	382	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1244.516	1247.188	Wang_shilin	male	native	In the course of Russian economic development, this is one of the	4	96	383	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1247.188	1247.891	Wang_shilin	male	native	steps.	4	97	384	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1247.188	1247.891	Ji_zhiye	male	native	Right.	4	97	385	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1247.891	1251.262	Zheng_yu	male	native	This is somewhat different from the background of Ukraine.	4	98	386	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1251.262	1255.934	Zheng_yu	male	native	Uh, and, and, between Belarus and Russia, there are more economic factors,	4	98	387	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1255.934	1259.731	Zheng_yu	male	native	with Ukraine, there were some political factors, and some energy	4	99	388	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1255.934	1259.731	Wang_shilin	male	native	political factors.	4	99	389	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1259.731	1261.075	Zheng_yu	male	native	It is some kind of sanction.	4	100	390	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1261.075	1263.420	Wang_shilin	male	native	Um, economic dispute was still, uh,	4	101	391	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1263.420	1264.373	Wang_shilin	male	native	the major reason.	4	102	392	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1263.420	1264.373	Ji_zhiye	male	native	Right.	4	102	393	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1264.373	1265.451	Wang_shilin	male	native	In it...	4	103	394	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1264.373	1265.451	Ji_zhiye	male	native	But in it, there is	4	103	395	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1265.451	1266.639	Ji_zhiye	male	native	another layer of reasons, that is,	4	104	396	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1266.639	1270.810	Ji_zhiye	male	native	because when we look at the results, uh, that Russia suggested,	4	104	397	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1271.466	1275.013	Ji_zhiye	male	native	uh, to increase the transportation fee.	4	104	399	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1276.231	1280.090	Ji_zhiye	male	native	Which means, Belarus could get some money back from the transportation fee,	4	104	401	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1280.090	1283.825	Ji_zhiye	male	native	and it will compensate for the increased costs of purchasing natural gas.	4	104	402	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1283.825	1286.184	Ji_zhiye	male	native	Therefore, for Belarus,	4	105	403	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1283.825	1286.184	Wang_shilin	male	native	well, they made some calculations,	4	105	404	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1286.184	1287.794	Ji_zhiye	male	native	after some estimations,	4	105	405	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1286.184	1287.794	Wang_shilin	male	native	it suited both parties.	4	105	406	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1287.794	1289.856	Zheng_yu	male	native	That is, these price hikes	4	106	407	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1289.856	1291.622	Zheng_yu	male	native	give Russia more money.	4	106	408	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1291.622	1295.810	Zheng_yu	male	native	Although the price of transportation through the pipelines had gone up, it was less.	4	106	409	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1295.810	1296.763	Zheng_yu	male	native	Russia...	4	107	410	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1295.810	1296.763	Ji_zhiye	male	native	Which means...	4	107	411	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1296.763	1299.771	Zheng_yu	male	native	That the biggest gain was the 50% of these shares.	4	108	412	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1299.771	1301.334	Zheng_yu	male	native	On the part of the pipelines,	4	108	413	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1301.334	1303.724	Zheng_yu	male	native	it can control the pipelines.	4	108	414	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1303.724	1305.490	Wang_shilin	male	native	Because the pipelines were in the hands of others.	4	109	415	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1305.490	1305.858	Zheng_yu	male	native	Right.	4	110	416	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1305.858	1306.764	Wang_shilin	male	native	Therefore, it must go	4	111	417	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1306.764	1308.170	Wang_shilin	male	native	and get it, uh, through the market approach.	4	112	418	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1306.764	1308.170	Zheng_yu	male	native	Uh, right.	4	112	419	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1308.170	1308.811	Wang_shilin	male	native	Control.	4	113	420	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1308.811	1312.904	Zheng_yu	male	native	For Russian pipelines to reach Europe, it must pass through	4	114	421	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1312.904	1314.514	Zheng_yu	male	native	Belarus and this Ukraine;	4	114	422	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1314.514	1317.873	Zheng_yu	male	native	Belarus is a country in northern Europe.	4	114	423	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1317.873	1320.154	Zheng_yu	male	native	For example, the northern part of the eastern European countries such as Germany.	4	114	424	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1320.154	1324.404	Zheng_yu	male	native	Then the Ukrainian side has the southeastern European and southern European countries.	4	114	425	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1324.404	1327.967	Wang_shilin	male	native	That means, means, uh, that means this natural gas dispute is just a symbol;	4	115	426	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1327.967	1329.669	Wang_shilin	male	native	however, through this symbol, you can see that	4	115	427	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1329.669	1333.313	Wang_shilin	male	native	in 2006, Russia had indeed continued to play this energy card.	4	115	428	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1333.313	1333.763	Zheng_yu	male	native	Right.	4	116	429	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1333.763	1334.184	Wang_shilin	male	native	Agreed?	4	117	430	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1334.184	1334.574	Zheng_yu	male	native	Right.	4	118	431	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1334.574	1337.089	Wang_shilin	male	native	Uh, in the Far East, the same card was also played.	4	119	432	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1337.089	1338.759	Wang_shilin	male	native	Therefore, in 2007,	4	120	433	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1337.089	1338.759	Zheng_yu	male	native	Eh, this...	4	120	434	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1338.759	1341.712	Wang_shilin	male	native	if they continued to play this card, can it score more for Russia,	4	121	435	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1341.712	1343.149	Wang_shilin	male	native	can it score a lot?	4	121	436	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1343.149	1344.816	Zheng_yu	male	native	Eh, it should...	4	122	437	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1344.816	1347.175	Wang_shilin	male	native	It will still play a role.	4	123	438	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1344.816	1347.175	Zheng_yu	male	native	Continue to play, and continue to, to be effective.	4	123	439	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1347.175	1350.597	Zheng_yu	male	native	Although, uh, the current oil price, uh,	4	124	440	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1350.597	1354.378	Zheng_yu	male	native	from the second half of 2006, it has been running a bit low,	4	124	441	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1354.378	1361.175	Zheng_yu	male	native	right? This year, eh, our latest news report was 57, ((pw)), 58, eh, this (())	4	124	442	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1361.175	1364.082	Zheng_yu	male	native	But, uh, uh, because of, uh, OPEC, uh,	4	124	443	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1364.082	1366.066	Zheng_yu	male	native	they still need to continue to control oil prices,	4	124	444	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1366.066	1368.238	Zheng_yu	male	native	so, uh, it is not likely to drop sharply.	4	124	445	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1368.238	1368.597	Wang_shilin	male	native	Right.	4	125	446	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1368.597	1371.957	Wang_shilin	male	native	This is the second concern that we just talked about,	4	125	447	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1371.957	1374.910	Wang_shilin	male	native	how much can Russia score with its energy card?	4	125	448	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1374.910	1377.097	Wang_shilin	male	native	Uh, in fact, by the end of the year,	4	125	449	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1377.097	1380.387	Wang_shilin	male	native	at, uh, the beginning of the year, we should pay more	4	125	450	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1380.387	1383.980	Wang_shilin	male	native	attention to how did Russia pass through 2006, our, uh,	4	125	451	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1383.980	1386.105	Wang_shilin	male	native	editor made a conclusion.	4	125	452	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1386.105	1389.777	Wang_shilin	male	native	Uh, summarized some of the achievements of Putin and Russia.	4	125	453	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1389.777	1393.027	Wang_shilin	male	native	Uh, we can see from this chart, ah, that there are four achievements:	4	125	454	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1393.027	1395.334	Wang_shilin	male	native	first, it became the rotating chair nation for the G8 for the first time,	4	125	455	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1395.334	1397.568	Wang_shilin	male	native	the rotation of chair nation in 2006 was completed.	4	125	456	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1397.568	1399.724	Wang_shilin	male	native	The second one is sustained rapid economic growth;	4	125	457	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1399.724	1402.100	Wang_shilin	male	native	actually, the GDP has exceeded 800 billion U.S. dollars.	4	125	458	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1402.100	1404.085	Wang_shilin	male	native	For Russia, this is a great achievement.	4	125	459	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1404.085	1408.741	Wang_shilin	male	native	Third, it has signed a, uh, an agreement to conclude negotiations of entering the WTO with the United States.	4	125	460	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1408.741	1411.975	Wang_shilin	male	native	The fourth one is the prevention of the continued extension of the color revolution. These are its achievements.	4	125	461	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1411.975	1414.740	Wang_shilin	male	native	Then, what are the inadequacies? Can these two experts give us a forecast?	4	125	462	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1415.771	1420.490	Ji_zhiye	male	native	Eh, Russia's first inadequacy probably is in its overall economic structure, eh,	4	126	464	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1420.490	1422.068	Ji_zhiye	male	native	there were no major changes.	4	126	465	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1422.068	1422.349	Wang_shilin	male	native	Um.	4	127	466	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1422.349	1424.006	Wang_shilin	male	native	The economic structure still needs to be adjusted.	4	127	467	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1424.006	1432.772	Ji_zhiye	male	native	Right, that means so far, the exports of its, uh, energy and resources are the major steps to stimulate its economy.	4	128	468	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1432.772	1434.788	Ji_zhiye	male	native	Then, this structure, of course, has some changes.	4	128	469	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1434.788	1438.005	Ji_zhiye	male	native	There are some changes, like the energy exports; its	4	128	470	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1438.005	1443.976	Ji_zhiye	male	native	role in boosting the economy has declined from the previous 70% to the current 35%.	4	128	471	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1443.976	1446.708	Ji_zhiye	male	native	Um, but, uh, there are others, like the chemical industry,	4	128	472	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1446.708	1448.786	Ji_zhiye	male	native	forest industry, um,	4	128	473	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1448.786	1453.114	Ji_zhiye	male	native	it is essentially an export in the form of resources.	4	128	474	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1453.114	1457.536	Ji_zhiye	male	native	Then, of course, there are things like the increase in military exports	4	128	475	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1457.536	1461.565	Ji_zhiye	male	native	and exports of military products, etc., and there are also some exports of technology products.	4	128	476	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1461.565	1462.769	Ji_zhiye	male	native	However, generally speaking,	4	128	477	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1462.769	1465.113	Ji_zhiye	male	native	Russia's industrial infrastructure	4	128	478	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1465.113	1470.186	Ji_zhiye	male	native	remains in a stage where heavy industry and resource industry are primary.	4	128	479	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1470.186	1474.076	Ji_zhiye	male	native	Well, talking about the economic problems, we immediately enter the third concern;	4	128	480	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1474.076	1475.764	Ji_zhiye	male	native	in 2007, can Russia	4	128	481	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1475.764	1478.030	Ji_zhiye	male	native	join the World Trade Organization?	4	128	482	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1478.030	1480.983	Ji_zhiye	male	native	For we know that last year,	4	128	483	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1480.983	1485.077	Ji_zhiye	male	native	Russia and the United States signed an agreement on the accession to the World Trade Organization.	4	128	484	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1485.077	1488.983	Ji_zhiye	male	native	Moreover, President Bush flew to Moscow personally to sign this agreement with President Putin.	4	128	485	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1488.983	1493.518	Ji_zhiye	male	native	So in 2007, Director Zheng, ((pw)), Secretary Zheng, can you give your prediction,	4	128	486	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1493.518	1495.580	Ji_zhiye	male	native	if this mission can be accomplished in 2007?	4	128	487	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1495.580	1497.408	Zheng_yu	male	native	Um, I look at it this way,	4	129	488	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1497.408	1500.751	Zheng_yu	male	native	uh, it should be said that after signing the accession agreement with the United States,	4	129	489	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1500.751	1502.610	Zheng_yu	male	native	the biggest obstacle has been removed.	4	129	490	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1502.610	1504.501	Zheng_yu	male	native	Of course, there are still some small countries,	4	129	491	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1504.501	1506.783	Zheng_yu	male	native	it may not be out of economic reasons,	4	129	492	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1506.783	1508.799	Zheng_yu	male	native	for example, political or diplomatic reasons,	4	129	493	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1508.799	1510.683	Zheng_yu	male	native	for example, Georgia proposed, right?	4	129	494	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1510.683	1516.401	Zheng_yu	male	native	As Russia adopted some kind of energy sanctions toward it,	4	129	495	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1516.401	1519.448	Zheng_yu	male	native	it would have to hinder Russia on the issue of the WTO,	4	129	496	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1519.448	1520.636	Zheng_yu	male	native	it may be due to these factors,	4	129	497	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1520.636	1523.354	Zheng_yu	male	native	so, uh, it's kind of difficult to state the timing accurately, uh, accurately.	4	129	498	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1523.354	1525.011	Zheng_yu	male	native	However, I want to make one point,	4	129	499	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1525.011	1527.855	Zheng_yu	male	native	that is, on the issue of Russia's joining the WTO,	4	129	500	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1527.855	1530.449	Zheng_yu	male	native	it has a completely different meaning from that of China.	4	129	501	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1531.105	1533.277	Zheng_yu	male	native	That means, with its current,	4	129	503	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1533.277	1539.085	Zheng_yu	male	native	despite other processed products that have, uh, risen in the past two years,	4	129	504	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1539.085	1541.528	Zheng_yu	male	native	but, eh, the relative weight of its energy export is still great.	4	129	505	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1541.528	1543.794	Zheng_yu	male	native	This is a rigid demand in the international market,	4	129	506	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1543.794	1546.653	Zheng_yu	male	native	it is not something you or other countries can stop through tariffs;	4	129	507	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1546.653	1550.310	Zheng_yu	male	native	in turn, after joining the WTO, its own domestic tariffs will have to be lowered.	4	129	508	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1550.310	1553.247	Zheng_yu	male	native	For instance, it has to reduce its tariff for American agricultural products by 15%.	4	129	509	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1554.138	1555.747	Zheng_yu	male	native	To it, this...	4	130	511	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1554.138	1555.747	Wang_shilin	male	native	That is...	4	130	512	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1555.747	1557.544	Zheng_yu	male	native	has a different meaning from that of China.	4	131	513	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1557.544	1559.678	Wang_shilin	male	native	Right, in short, do you feel that in 2007,	4	132	514	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1557.544	1559.678	Zheng_yu	male	native	It is not...	4	132	515	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1559.678	1564.897	Wang_shilin	male	native	that Russia's accession to the World Trade Organization, eh, is something we shouldn't worry about. Time is just not yet able to determine this.	4	132	516	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1559.678	1564.897	Zheng_yu	male	native	Not much to be concerned about, right.	4	132	517	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1564.897	1567.663	Wang_shilin	male	native	OK. We immediately enter today's fourth concern, that is:	4	133	518	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1567.663	1569.631	Wang_shilin	male	native	will the color revolution continue?	4	133	519	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1569.631	1572.631	Wang_shilin	male	native	Since, uh, several years ago, whether it was 2003,	4	133	520	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1572.631	1574.788	Wang_shilin	male	native	or 2004, Georgia and Ukraine,	4	133	521	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1574.788	1579.975	Wang_shilin	male	native	including 2005, in March 2005, the change of political powers in Kyrgyzstan,	4	133	522	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1579.975	1584.028	Wang_shilin	male	native	and the Andijan incident, etc., in Uzbekistan, uh, in 2005,	4	133	523	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1584.028	1586.341	Wang_shilin	male	native	at that time, it seemed to illustrate a feeling,	4	133	524	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1586.341	1589.201	Wang_shilin	male	native	that it was like the domino, domino tiles, it seems to be falling serially.	4	133	525	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1589.201	1591.951	Wang_shilin	male	native	But, it seemed to be so quiet last year,	4	133	526	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1591.951	1593.357	Wang_shilin	male	native	then, what will happen this year?	4	133	527	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1593.357	1596.295	Ji_zhiye	male	native	I feel that this year, uh, for instance, despite that Russia will conduct	4	134	528	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1596.295	1599.122	Ji_zhiye	male	native	the State Duma Elections by the end of this year.	4	134	529	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1599.720	1602.718	Ji_zhiye	male	native	This is also a major event in Russia's political life,	4	134	531	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1602.718	1606.098	Ji_zhiye	male	native	and a good opportunity for the opposition parties to take advantage of the situation to make trouble.	4	134	532	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1606.816	1608.655	Ji_zhiye	male	native	Uh, nevertheless, judging from the current situation,	4	134	534	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1608.655	1612.238	Ji_zhiye	male	native	uh, I'm afraid there will not be an issue of a color revolution in Russia.	4	134	535	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1612.238	1614.738	Ji_zhiye	male	native	Uh, during the end of last year,	4	134	536	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1614.738	1620.285	Ji_zhiye	male	native	uh, after Russia's Electoral Commission announced the date of its presidential election in 2008,	4	134	537	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1620.285	1625.801	Ji_zhiye	male	native	Russia's opposition party organized a so-called massive, uh, street demonstration,	4	134	538	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1625.801	1629.848	Ji_zhiye	male	native	uh, they claimed to have 4,000 to 5,000 people, but in fact, there were only 2,500 people.	4	134	539	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1629.848	1632.770	Ji_zhiye	male	native	Currently, the appeal of this opposition party is, eh, very low.	4	134	540	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1632.770	1638.208	Ji_zhiye	male	native	Then, in the State Duma, the stable seats of Russia's Unity Party are more than two-thirds,	4	134	541	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1638.896	1642.037	Ji_zhiye	male	native	um, and now a party was formed, uh, called Fair Russia;	4	134	543	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1642.037	1646.303	Ji_zhiye	male	native	in fact, it is the combination of the left-wing and the center-left wing forces together,	4	134	544	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1646.303	1647.568	Ji_zhiye	male	native	and who is the leader?	4	134	545	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1647.568	1649.475	Ji_zhiye	male	native	He is the current chairman of the upper house,	4	134	546	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1649.475	1653.413	Ji_zhiye	male	native	Mironov, he is a politician who has a very good relationship with Putin.	4	134	547	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1653.413	1658.554	Ji_zhiye	male	native	So, the entire Russian political arena is controlled by the hands of the Russian Unity Party,	4	134	548	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1658.554	1660.429	Ji_zhiye	male	native	and Fair Russia, those two political parties.	4	134	549	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1660.429	1662.981	Ji_zhiye	male	native	Therefore, I don't believe there will be	4	135	550	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1660.429	1662.981	Zheng_yu	male	native	a Color Revolutionary Party.	4	135	551	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1662.981	1665.997	Zheng_yu	male	native	It needs, needs, a, uh, a defined concept,	4	136	552	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1665.997	1670.350	Zheng_yu	male	native	not all changes in political power through democratic elections can be called a color revolution.	4	136	553	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1670.985	1674.939	Zheng_yu	male	native	There must be a, of course there is a, uh, there can be several features, because of the timing, right?	4	136	555	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1674.939	1677.212	Zheng_yu	male	native	We will not go into details, but the most important point is that	4	136	556	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1677.212	1679.174	Zheng_yu	male	native	through the changes of the regime, eh, they	4	136	557	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1679.174	1680.993	Zheng_yu	male	native	established a pro-Western regime,	4	136	558	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1680.993	1682.977	Zheng_yu	male	native	and now it seems that in Russia,	4	136	559	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1682.977	1685.930	Zheng_yu	male	native	it is unlikely that such a situation could exist.	4	136	560	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1685.930	1689.227	Zheng_yu	male	native	Um, one can say, that among the CIS countries,	4	136	561	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1689.227	1691.740	Zheng_yu	male	native	it should be said that Russia's political reform has gone the farthest;	4	136	562	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1692.430	1696.743	Zheng_yu	male	native	uh, another is the level of support received by Putin,	4	136	564	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1696.743	1702.228	Zheng_yu	male	native	the general, general public are calling for the continued implementation of Putin's policies,	4	136	565	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1702.228	1705.337	Zheng_yu	male	native	this, this has a broad, broad social base.	4	136	566	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1705.337	1708.665	Zheng_yu	male	native	Another point is that other Russian political parties,	4	136	567	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1709.383	1714.044	Zheng_yu	male	native	if they have the power, are not likely to pursue the pro-Western policy,	4	136	569	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1714.044	1717.232	Zheng_yu	male	native	because the Yeltsin era has proven that this is not in line with Russia's interests.	4	136	570	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1717.232	1722.607	Wang_shilin	male	native	To sum up the two experts' forecasts for Russia in 2007,	4	137	571	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1722.607	1726.951	Wang_shilin	male	native	well, the first concern is resolved, that Putin will not, uh, seek re-election.	4	137	572	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1726.951	1731.280	Wang_shilin	male	native	Second, in 2007, energy will continue to play an important role in Russia's economic development.	4	137	573	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1731.280	1735.009	Wang_shilin	male	native	Third, Russia will join the World Trade Organization,	4	137	574	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1735.009	1736.123	Wang_shilin	male	native	but we are not sure about the timing.	4	137	575	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1736.123	1738.358	Wang_shilin	male	native	Fourth, the color revolution will not continue.	4	137	576	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1738.358	1742.045	Wang_shilin	male	native	Lastly, while we still have a little time, I would like the two of you to introduce briefly	4	137	577	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1742.045	1745.015	Wang_shilin	male	native	anything that we haven't thought of, what Russia will look like in 2007?	4	137	578	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1745.765	1749.109	Ji_zhiye	male	native	Uh, in 2007, Russia should be a stronger Russia.	4	138	580	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1749.109	1751.203	Ji_zhiye	male	native	Its economy will continue to grow,	4	138	581	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1751.203	1754.766	Ji_zhiye	male	native	uh, and in this political environment,	4	138	582	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1755.375	1758.750	Ji_zhiye	male	native	uh, Putin's support is still the dominant force,	4	138	584	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1758.750	1761.829	Ji_zhiye	male	native	and Russian diplomacy will continue to,	4	138	585	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1761.829	1764.891	Ji_zhiye	male	native	uh, hold a strong attitude.	4	138	586	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1764.891	1769.172	Ji_zhiye	male	native	Uh, first of all, uh, it will be better to control the relations with the CIS countries,	4	138	587	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1769.172	1774.016	Ji_zhiye	male	native	then, it will continue to promote its relations with Europe, China, and countries in the Asia-Pacific.	4	138	588	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1774.016	1780.173	Wang_shilin	male	native	OK, today, we have two experts in the studio to resolve a number of questions that we have about Russia and Putin for the year of 2007.	4	139	589	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1780.173	1782.846	Wang_shilin	male	native	Thank you very much to the both of you for joining us in the studio for this program, thank you two.	4	139	590	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1782.846	1787.299	Wang_shilin	male	native	OK, audience friends, this is it for this special program of Today's Focus, "Concerns About 2007" today.	4	139	591	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1787.299	1791.346	Wang_shilin	male	native	Please join us again on this special program of Today's Focus, "Concerns About 2007," tomorrow.	4	139	592	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1791.346	1791.987	Wang_shilin	male	native	Goodbye everyone.	4	139	593	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1813.496	1814.558	speaker#2	female	native	Hello everyone,	5	140	595	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1814.558	1816.940	speaker#2	female	native	the cold air will launch its attack in the north tomorrow,	5	140	596	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1816.940	1820.284	speaker#2	female	native	east of the Northwest region, most parts of northern China, west and southern parts of the Northeast regions,	5	140	597	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1820.284	1822.331	speaker#2	female	native	and most areas around the Yellow River and the Huai He will have lower temperatures.	5	140	598	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1822.331	1824.878	speaker#2	female	native	Also, there will be more and more snowfalls in the northern areas,	5	140	599	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1824.878	1828.019	speaker#2	female	native	eastern region of Inner Mongolia and most north-eastern regions will snow.	5	140	600	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1828.019	1831.785	speaker#2	female	native	The eastern region of Inner Mongolia, Liaoning, and Jilin will see moderate to heavy snow.	5	140	601	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1831.785	1834.222	speaker#2	female	native	The arrival of cold air is not all bad,	5	140	602	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1834.222	1837.722	speaker#2	female	native	although many places in the north will be foggy tomorrow morning,	5	140	603	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1837.722	1841.879	speaker#2	female	native	but as the cold air moves eastward to the south, the fog will dissipate gradually in the afternoon.	5	140	604	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1841.879	1844.941	speaker#2	female	native	On the day after tomorrow, there will be almost no trace of fog at all.	5	140	605	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1844.941	1847.253	speaker#2	female	native	This cold air will also bring a change;	5	140	606	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1847.253	1850.690	speaker#2	female	native	tomorrow, the rain and snow in the south will be markedly decreased by it,	5	140	607	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1850.690	1853.159	speaker#2	female	native	but it is still hard for people to feel the warmth.	5	140	608	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1853.159	1857.925	speaker#2	female	native	In the morning pf the day after tomorrow, there will be more places with sub-zero minimum temperatures.	5	140	609	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1857.925	1859.691	speaker#2	female	native	Let's see the weather forecast.	5	140	610	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1861.144	1863.956	speaker#2	female	native	Beijing, fog turns cloudy, seven below zero to one degree Celsius.	5	140	612	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1863.956	1867.050	speaker#2	female	native	Harbin, sunny to cloudy, 11 below zero to two below zero.	5	140	613	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1867.050	1869.629	speaker#2	female	native	Xi'an, cloudy to sunny, two below zero to seven degrees.	5	140	614	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1869.629	1872.035	speaker#2	female	native	Jinan, fog to cloudy, six below zero to one degree below zero.	5	140	615	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1872.035	1874.473	speaker#2	female	native	Zhengzhou, cloudy to sunny, one below zero to five degrees.	5	140	616	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1874.473	1876.364	speaker#2	female	native	Shanghai, drizzle, five to nine degrees.	5	140	617	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1877.302	1879.677	speaker#2	female	native	Changsha, sleet changing to clouds, one to six degrees.	5	140	619	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1879.677	1882.114	speaker#2	female	native	Fuzhou, overcast to cloudy, ten to 16 degrees.	5	140	620	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1882.114	1884.473	speaker#2	female	native	Taipei, showers, 16 to 20 degrees.	5	140	621	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1885.145	1887.255	speaker#2	female	native	Guangzhou, overcast to cloudy, 10 to 17 degrees.	5	140	623	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1887.958	1890.427	speaker#2	female	native	Dalian, sunny to light snow, three below zero to three degrees.	5	140	625	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1890.427	1892.759	speaker#2	female	native	Wuxi, foggy to overcast, four to eight degrees.	5	140	626	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1893.462	1896.005	speaker#2	female	native	Liaocheng, foggy to overcast, six below zero to zero degrees.	5	140	628	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1896.005	1898.100	speaker#2	female	native	Bangkok, cloudy, 22 to 32 degrees.	5	140	629	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1898.710	1900.896	speaker#2	female	native	New Delhi, sunny to cloudy, six to 19 degrees.	5	140	631	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1900.896	1903.114	speaker#2	female	native	Seoul, cloudy, zero to eight degrees.	5	140	632	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1903.895	1905.958	speaker#2	female	native	Tokyo, overcast to showers, five to ten degrees.	5	140	634	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1906.723	1908.426	speaker#2	female	native	London, showers, four to 11 degrees.	5	140	636	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1909.207	1911.098	speaker#2	female	native	Moscow, drizzle, zero to three degrees.	5	140	638	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1912.019	1914.066	speaker#2	female	native	Paris, overcast to showers, four to eight degrees.	5	140	640	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1914.754	1916.584	speaker#2	female	native	Vienna, overcast to showers, two to seven degrees.	5	140	642	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1917.392	1919.035	speaker#2	female	native	New York, cloudy, five to 11 degrees.	5	140	644	report	
+CCTV4_TDYFOCUS_CMN_20070104_082800	0	1919.925	1921.737	speaker#2	female	native	Seattle, drizzle, six to nine degrees.	5	140	646	report	

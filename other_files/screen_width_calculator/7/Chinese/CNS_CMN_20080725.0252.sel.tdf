@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0252	0	900.0	1000.0	speaker	unknown	unknown	北京奥组委：对伊拉克选手不能参加奥运表示遗憾	0	0	0		

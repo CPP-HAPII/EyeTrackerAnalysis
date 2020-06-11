@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10540141	0	200.0	300.0	speaker	unknown	unknown	这是一个高级的 Windows 系统和应用程序监视工具,由优秀的 Sysinternals 开发,并且目前已并入微软旗下,可靠性自不用说.	0	0	0		
+cmn-NG-31-117685-10540141	0	300.0	400.0	speaker	unknown	unknown	此版本的 Process Monitor增加了多项重要增强功能,包括稳定性和性能改进,强大的过滤选项,修正的进程树对话框(增加了进程存活时间图表),可根据点击位置变换的右键菜单过滤条目,集成 带源代码存储的堆栈跟踪对话框,更快的堆栈跟踪,可在64-位 Windows 上加载 32-位 日志文件的能力等.	0	0	0		
+cmn-NG-31-117685-10540141	0	400.0	500.0	speaker	unknown	unknown	Process Monitor 不仅结合了 Filemon(文件监视器) 和Regmon(注册表监视器) 两个工具的功能,还具有以下一些增强:	0	0	0		

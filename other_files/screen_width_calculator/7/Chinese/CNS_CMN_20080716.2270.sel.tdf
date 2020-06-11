@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.2270	0	0.0	100.0	speaker	unknown	unknown	深交所提出中小板下半年六大监管举措	0	0	0		
+CNS_CMN_20080716.2270	0	1000.0	1100.0	speaker	unknown	unknown	通过交流与学习，与会上市公司董事长也纷纷表示，要进一步增强使命感和社会责任感，诚信为本，规范运作，同时，要抓住机遇，积极采取有效措施应对宏观环境的变化，切实保护投资者权益，为中小板的健康发展作出贡献。	0	0	0		

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10540582	0	200.0	300.0	speaker	unknown	unknown	一度沸沸扬扬的Google漏税事件目前有了最新进展，不过，此次焦点直接转向了Google中国区总裁李开复本人。	0	0	0		
+cmn-NG-31-117685-10540582	0	300.0	400.0	speaker	unknown	unknown	记者获得可靠消息，北京市税务局已对Google及李开复展开调查。	0	0	0		
+cmn-NG-31-117685-10540582	0	800.0	900.0	speaker	unknown	unknown	2005年底，李开复从微软辞职奔赴Google，引发了整个高科技界对员工忠诚问题的探讨。	0	0	0		
+cmn-NG-31-117685-10540582	0	900.0	1000.0	speaker	unknown	unknown	业内人士指出，李开复离开微软加盟Google背后主要动因在于互 联网新贵Google为李开复开出的天价薪酬。	0	0	0		
+cmn-NG-31-117685-10540582	0	1000.0	1100.0	speaker	unknown	unknown	据悉，包括股票期权和现金支付的收入在内，李开复每年"薪金"可达数千万元人民币，超过所有著名跨国公司如微软、诺基亚、西门子等公司在华总裁的待遇，成为名副 其实的"打工皇帝"。	0	0	0		
+cmn-NG-31-117685-10540582	0	1600.0	1700.0	speaker	unknown	unknown	而按照李开复级别人物的收入而言，就职Google两年以来，应缴 纳500万的税收并不为过。	0	0	0		
+cmn-NG-31-117685-10540582	0	1800.0	1900.0	speaker	unknown	unknown	2007年，Google中国被举报在2002年至2006年5年间一直存在漏税的严重问题，Go ogle公司涉嫌漏税数亿人民币。	0	0	0		
+cmn-NG-31-117685-10540582	0	1900.0	2000.0	speaker	unknown	unknown	税务部门在对Google展开调查的同时，顺带发现了李开复个人的漏税问题。	0	0	0		
+cmn-NG-31-117685-10540582	0	2100.0	2200.0	speaker	unknown	unknown	树立品牌企业，关于最近的偷税之说只是与媒体的一些相传的小道消息 ，这样的传言是没有根据，不值得信赖的。	0	0	0		

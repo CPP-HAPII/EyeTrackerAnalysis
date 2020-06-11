@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080728.0115	0	200.0	300.0	speaker	unknown	unknown	在２７日结束的两站ＷＴＡ赛事决赛中，中国女网卫冕女双冠军的最大敌人詹咏然／庄佳容（中华台北）和加里格斯／帕斯夸尔（西班牙）均获得胜利，提前吹响了北京奥运会的“集结号”。	0	0	0		
+XIN_CMN_20080728.0115	0	300.0	400.0	speaker	unknown	unknown	在洛杉矶进行的一项ＷＴＡ二级赛事里，中华台北组合詹咏然／庄佳容上演惊天逆转，以２：６、７：５和１０：４战胜一对捷克组合后，获得本赛季以来第二项冠军。	0	0	0		
+XIN_CMN_20080728.0115	0	400.0	500.0	speaker	unknown	unknown	洛杉矶公开赛是ＷＴＡ的二级赛事，詹咏然／庄佳容是本项赛事女双的头号种子。	0	0	0		
+XIN_CMN_20080728.0115	0	700.0	800.0	speaker	unknown	unknown	对手的发球很好，而且回球力量很大，因此我们一开始并不适应对手的球路，不过在第二盘我们逐渐找到了胜利的策略。”詹咏然说。	0	0	0		
+XIN_CMN_20080728.0115	0	800.0	900.0	speaker	unknown	unknown	这对台北选手目前双打排名分列第八和第九位，本赛季以来表现非常稳定，今年５月份她们还在一级赛事罗马公开赛上夺冠。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080721.0072	0	0.0	100.0	speaker	unknown	unknown	(To be processed by the General Office of the International Department) British Prime Minister says he will prevent Iran from developing nuclear weapons	0	0	0		

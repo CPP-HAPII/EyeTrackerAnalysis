@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 305.19900000000001, 538.72000000000003, 558.56700000000001, 573.80700000000002, 581.07399999999996, 674.59400000000005, 711.87, 924.81100000000004, 1053.6600000000001, 1159.0640000000001, 1170.441, 1183.3720000000001, 1191.8630000000001, 1210.7190000000001, 1325.7370000000001, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20080320_123601	0	431.623	444.016	speaker#4	male	native	就这样,老韩安心地坐在六楼住院病房门口的椅子上,妻子跟随那位白大褂下楼去了,十几分钟过去了老韩的妻子突然急匆匆地跑上楼来	1	10	11	report	statement
+CCTV1_LEGALREPORT_CMN_20080320_123601	0	453.717	460.124	Han_Xiu_Shan	male	nonnative	我还不相信,我说医生拿走以后 (()) 不会的	1	12	13	report	statement
+CCTV1_LEGALREPORT_CMN_20080320_123601	0	558.567	573.807	speaker#4	male	native	在这段录像中,大家看到了骗子模糊的身影,事后医院的保安人员反复查看了这段录像,他们发现在老韩夫妻来医院住院楼前两分钟这个骗子就开始做准备工作了	3	22	24	report	statement
+CCTV1_LEGALREPORT_CMN_20080320_123601	0	616.918	619.132	speaker#7	male	nonnative	呃她就把这个 (())	5	25	29	report	statement
+CCTV1_LEGALREPORT_CMN_20080320_123601	0	619.132	629.042	speaker#8	male	nonnative	她就问他就是你是为什么情况住院,她讲 (()) ,而且这个是这个理由是很充足的	5	26	30	report	statement
+CCTV1_LEGALREPORT_CMN_20080320_123601	0	756.415	765.851	Han_Xiu_Shan	male	nonnative	(()) 了以后,我想起你这个医院以后,我到你医院去看病以后,所发生的事情以后就是以后,应该你医院承担	7	34	39	report	statement
+CCTV1_LEGALREPORT_CMN_20080320_123601	0	1159.064	1170.441	speaker#15	female	native	我们愿意暂时就是先就是帮他垫付,就是讲呃垫付一些资金,然后到时因为本骗子落网以后还可以向骗子追偿,啊	10	59	77	filler	statement

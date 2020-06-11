@@ -1,0 +1,27 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070115.0303	0	10010.000	10019.900				China's Trap Shooting: "One Ought to Be Good at Making Something with Limited Resources"	0	0	0		
+PLA_CMN_20070115.0303	0	20010.000	20019.900				(Source: Article of Xinhua News Agency, Dispatch time: January 15, 2007 11:40)	0	0	0		
+PLA_CMN_20070115.0303	0	30010.000	30019.900				Xinhua News Agency, Guiyang, January 15, Sports special dispatch (Reporter Huang Yong). The goal is to snatch a gold medal at the 2008 Beijing Olympics. Yet, there are only less than 300 professional trap shooting players across China, thus it puts the head coach of the national trap shooting team Sun Shengwei in a rather strained circumstances in talent selection.	0	0	0		
+PLA_CMN_20070115.0303	0	40010.000	40019.900				Sun Shengwei said that currently, only approximately half of the provinces, regions, and cities in China have trap shooting teams with less than 300 professional players.	0	0	0		
+PLA_CMN_20070115.0303	0	40020.000	40029.900				As a result, he quite envies the 'big brother' - the national rifle pistol team.	0	0	0		
+PLA_CMN_20070115.0303	0	40030.000	40039.900				"A national secondary school students' rifle pistol shooting tournament in Shanghai alone had more than 400 players took part and their standards were high."	0	0	0		
+PLA_CMN_20070115.0303	0	50010.000	50019.900				While in overseas, trap is even a popular sport.	0	0	0		
+PLA_CMN_20070115.0303	0	50020.000	50029.900				Sun Shengwei stated that trap sport has been launched in Europe for over a century. Trap shooting has been listed as an official competition event since the 2nd Olympic Games.	0	0	0		
+PLA_CMN_20070115.0303	0	50030.000	50039.900				Every Italian city has a trap shooting range and competition is held every weekend.	0	0	0		
+PLA_CMN_20070115.0303	0	50040.000	50049.900				In France, there are over four hundred thousand trap club members alone.	0	0	0		
+PLA_CMN_20070115.0303	0	50050.000	50059.900				Amateur trap enthusiasts are very few in our nation.	0	0	0		
+PLA_CMN_20070115.0303	0	50060.000	50069.900				It creates huge inconvenience for talent selection for the trap team.	0	0	0		
+PLA_CMN_20070115.0303	0	60010.000	60019.900				Even so, China's trap event still maintains top standard in Asia and relatively high standard in the world.	0	0	0		
+PLA_CMN_20070115.0303	0	60020.000	60029.900				Sun Shengwei argued that in order to minimize the disadvantages brought about by the narrow talent selection range, it requires the heightening of training quality by scientific training, the effective prolonging of sports life of veteran athletes, and the acceleration of the speed for young potential athletes to become valuable.	0	0	0		
+PLA_CMN_20070115.0303	0	70010.000	70019.900				Sun Shengwei claimed that veteran players including Hu Binyuan, Qu Ridong, and Wei Ning are still maintaining high competitive standard.	0	0	0		
+PLA_CMN_20070115.0303	0	70020.000	70029.900				Among which, the standard of men's double trap athlete Hu Binyuan has stabilized. He entered the top three in all five world-class competitions in 2006. His standard is almost on a par with those of the few world top players from Russia, India, and the United Arab Emirates.	0	0	0		
+PLA_CMN_20070115.0303	0	70030.000	70039.900				In women's double trap, Wei Ning's results of this year have a slightly 'downward' trend. She missed a few chances during the additional games in the Asian Games and lost the gold medal.	0	0	0		
+PLA_CMN_20070115.0303	0	70040.000	70049.900				However, as long as the 'flaws' in her thinking and mentality can be fixed, she is still hopeful to win the gold medal in the Beijing Olympics.	0	0	0		
+PLA_CMN_20070115.0303	0	80010.000	80019.900				Young and potential players should be discovered and trained at an early stage and major competition selection system should be implemented within the team to create opportunities for young players to come to the fore.	0	0	0		
+PLA_CMN_20070115.0303	0	90010.000	90019.900				Sun Shengwei said that innovative measures should be adopted in training for the Olympics.	0	0	0		
+PLA_CMN_20070115.0303	0	90020.000	90029.900				First, dual training should be considered as drills for basic techniques. Second, the mental qualities of team members should be heightened. Certain extreme training methods should be attempted to enable athletes to have the ability to conquer extreme fear so they will fight to survive in the competitions. Third, coaches of overseas strong teams such as Russia should be invited to pass on their valuable experiences to improve the standard of domestic coaches.	0	0	0		
+PLA_CMN_20070115.0303	0	100010.000	100019.900				A base of less than 300 professional athletes is indeed too small. However, one ought to be good at making something out of limited resources.	0	0	0		
+PLA_CMN_20070115.0303	0	100020.000	100029.900				Reclaiming the gold medal in the Olympics has been the wish of the Chinese trap team since Sichuan lady Zhang Shan created the miracle of shooting 200 out of 200 targets at the Barcelona Olympics in 1992.	0	0	0		
+PLA_CMN_20070115.0303	0	100030.000	100039.900				(The end)	0	0	0		

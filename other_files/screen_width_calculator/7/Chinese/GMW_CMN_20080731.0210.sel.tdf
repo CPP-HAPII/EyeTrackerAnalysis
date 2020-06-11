@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+GMW_CMN_20080731.0210	0	700.0	800.0	speaker	unknown	unknown	某师“塔山英雄团”政委刘建军说,政治坚定根植于理论清醒,理论清醒来源于真学真信。	0	0	0		
+GMW_CMN_20080731.0210	0	1100.0	1200.0	speaker	unknown	unknown	某装甲团政委韦晓东研读了《从一个英雄到一连英雄》稿件后说:“‘李向群连’‘两个成为’的宝贵经验,是基层理论武装的成功探索。	0	0	0		

@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-118913-10719386	0	200.0	300.0	speaker	unknown	unknown	Hello!	0	0	0		
+cmn-NG-31-118913-10719386	0	1200.0	1300.0	speaker	unknown	unknown	Teacher Wang, please don't worry. I'll keep your words in my mind. One step, one footprint; one cut, one scar.	0	0	0		
+cmn-NG-31-118913-10719386	0	1600.0	1700.0	speaker	unknown	unknown	I'll definitely even the score for my Dad, and I believe you will also seek justice for my Dad. My family of six all *depend on my Dad collecting "protection fees" to make a living. Now that someone is stirring up trouble, I should also make myself known. Besides, this would cut the source of my family's income.	0	0	0		

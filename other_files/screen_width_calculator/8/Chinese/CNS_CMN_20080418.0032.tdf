@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0032.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	昆明官方声明:仇和没说“没有禁止都可以干”	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18日 14:12 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	新闻回顾：仇和动员昆明官员解放思想：没有禁止都可以干	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	中新网4月18日电 4月17日，针对近期个别媒体的一些报道问题，昆明市新闻发言人刘海发通过彩龙中国网发表声明称，仇和要求确立市场经济和科学发展的新观念绝不是个别媒体所说的“没有禁止都可以干”，并吁请个别媒体不要误读和曲解仇和的讲话。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	4月14日，为贯彻省委的部署，昆明市召开全市“解放思想、深化改革、扩大开放、科学发展”大讨论动员会，仇和书记代表市委作了动员讲话。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	声明称，新闻媒体对此作了广泛的宣传报道，为推动昆明市解放思想大讨论提供了有力的舆论支持。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	“遗憾的是，个别媒体在报道中却出现了误读和曲解，从而误导了受众”。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	声明称，昆明要超常规、跨越式发展，就必须坚定不移地解放思想。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	2450.000	2475.000	TEXT1	unknown	unkown	仇和针对经济工作，就如何冲破传统计划经济的固有习惯和重发展轻环境、重速度轻效益、重增长轻节约的片面发展观时，明确要求要确立市场经济和科学发展的新观念。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	2475.000	2500.000	TEXT1	unknown	unkown	而绝不是个别媒体所说的“没有禁止都可以干”。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	2700.000	2750.000	TEXT1	unknown	unkown	刘海发表示，昆明正面临着前所未有的发展机遇，各项改革正在有序推进。	0	0	0		statement
+CNS_CMN_20080418.0032.sgm	0	2750.000	2800.000	TEXT1	unknown	unkown	我们希望媒体一如既往地关注昆明、支持昆明。	0	0	0		statement

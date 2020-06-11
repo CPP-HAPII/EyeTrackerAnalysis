@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080715.0083	0	1500.0	1600.0	speaker	unknown	unknown	一些重大疾病、意外伤害等带来的经济负担，是当前绝大多数家庭的无法承受之重。	0	0	0		

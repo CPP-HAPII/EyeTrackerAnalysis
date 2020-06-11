@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0023.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	English Premier League - Arsenal Lags in Points, Coach Refuses to Quit	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	London (AFP), 5th.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Although England's Arsenal soccer team tied Liverpool one-one in today's Champions League match, coach Wenger still refuses to give up on the battle for the league championship.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	This tie resulted in Arsenal trailing the leading Manchester United by 5 points. It seems there is very little chance of winning the final league championship.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	+Crouch took the lead ahead of Liverpool with a goal before the end of the first half. 55 minutes in, Bendtner scored with a header, making it even. Arsenal avoided this season's first home-field defeat.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	2300.000	2350.000	TEXT1	unknown	unkown	Now, Wenger can only hope for the European Champion Cup.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	2350.000	2700.000	TEXT1	unknown	unkown	Arsenal met with Liverpool twice this month. Arsenal wasn't able to defeat Liverpool. This gave Liverpool a psychological home field advantage during their home field match with Arsenal in the European Champion Cup top-eight match on the 8th of this month.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	2900.000	3100.000	TEXT1	unknown	unkown	However, Wenger is still full of confidence at public occasions. He firmly shows that he will not give up unless Arsenal already has no way to compete for the championship.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3300.000	3400.000	TEXT1	unknown	unkown	Wenger said: "I don't know if the battle for the league championship has already concluded or not. This depends on the other teams' match results.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3400.000	3500.000	TEXT1	unknown	unkown	I previously said, we need at least 5 wins and a tie.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	In my mind this hasn't ended yet because, based on mathematical calculations, it hasn't ended yet."	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3900.000	3950.000	TEXT1	unknown	unkown	Liverpool's coach, Benitez, doesn't have the optimism of Wenger.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3950.000	4075.000	TEXT1	unknown	unkown	Benitez hinted: "I think, as for them, the difficulties are already overlapping.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	4075.000	4187.500	TEXT1	unknown	unkown	I talked with Wenger about the battle for the league championship. You cannot lose any more points now. So it's really difficult now.	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	4187.500	4400.000	TEXT1	unknown	unkown	Their sole choice is probably only the European Champion Cup. This is however dangerous for us."	0	0	0		statement

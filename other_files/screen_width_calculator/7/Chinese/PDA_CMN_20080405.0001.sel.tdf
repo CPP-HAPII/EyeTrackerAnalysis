@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080405.0001	0	500.0	600.0	speaker	unknown	unknown	南方一些工厂报告新工人人手短缺，制造业薪酬正急剧上升。	0	0	0		
+PDA_CMN_20080405.0001	0	700.0	800.0	speaker	unknown	unknown	国际金融服务公司很快就发现了这点，在金融业某些领域，中国价格与纽约或伦敦价格相去并不遥远。	0	0	0		
+PDA_CMN_20080405.0001	0	1900.0	2000.0	speaker	unknown	unknown	一位业内管理人士称，在中国只有大约３００人获得了符合监管规定的所有必要资格。	0	0	0		

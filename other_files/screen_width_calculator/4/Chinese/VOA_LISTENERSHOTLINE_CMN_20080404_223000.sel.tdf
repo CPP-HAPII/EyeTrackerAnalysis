@@ -1,0 +1,24 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 262.904, 1702.4300000000001, 9999999.0]
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	372.148	391.957	Yang_Fan	female	native	今天这个新华网上有一篇文章哈,就说今天是清明节,是新中国成立起来首次定为的法定假日,这样一个法定化假日呢,呃正与中国社会发展过程中呃越来越(())的民间清明祭祀之风构成呼应	1	1	14	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	458.578	459.831	speaker#3	male	native	喂	1	7	29	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	549.374	564.519	speaker#4	male	native	到了那一天呢,呃(())促进了这些呃这些那个把那个祭祖当成一种呃一种那那种很必做的这种事情呢,啊到了真那个那个交通秩序也很混乱	1	12	46	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	573.314	581.489	speaker#4	male	native	把大家引导到正确的这个信仰上来,信这呃信仰这个(())信耶稣信真神才是对的	1	12	49	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	709.526	711.619	Yang_Fan	female	native	啊,驴,姓驴	1	18	70	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	709.526	711.619	speaker#6	male	native	我不是(())	1	18	71	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	800.846	807.307	speaker#7	male	native	嗯,在我们这个地方,比-比(())的春节交通还-还拥堵	1	26	90	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	807.307	819.933	speaker#7	male	native	现在在车站很多人都排队买-买车票,反正比春节那-那-那些(())更加困难了,搭车出去	1	26	91	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	819.933	826.527	speaker#7	male	native	(())还是搞什么活动啊(())	1	26	92	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	836.339	841.324	speaker#7	male	native	反正没有(())	1	26	94	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	854.105	863.283	speaker#7	male	native	很多还是用那种占地为陵墓那种方法来-来(())祖先的	1	26	96	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	863.283	878.428	speaker#7	male	native	我觉得这样确实占了农-农民的很多土地耕地,这给给现在(())这种很-很麻烦的	1	26	97	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	878.428	883.431	speaker#7	male	native	(())这时候农民土地本来是不算很多了	1	27	99	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	896.017	898.600	speaker#8	male	native	喂	1	30	103	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	909.740	916.519	speaker#8	male	native	我觉得这东西都是呃这个旧的玩意,这是属于沉渣(())啊	1	31	108	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	983.479	985.273	speaker#9	male	native	喂你好,(())	1	33	118	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	1368.295	1378.492	speaker#11	male	native	啊那这个就是官官场上还要那个册封谁呀,那(())因为这是个无神论共产党为什么这样子做呢,是不是啊,自己讽刺自己	1	43	167	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	1378.492	1394.545	speaker#11	male	native	再一个比如说祭孔什么,孔子(())他是一个人哪是不是啊,你把他的那个文化呀那种那个内涵那把他继承下来是是好的,把他当成一个一个一个那个什么神去拜他,那就是(())早就变了味了嘛,是不是啊	1	43	168	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	1401.809	1410.152	speaker#12	male	native	我想那个清明节呢,这个设立这个节日我想还是可以被大陆(())接受的,因为这是个古老传统	1	48	174	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	1466.307	1481.028	speaker#13	male	native	啊这个都是东亚病夫啊搞得鬼,我们上海啊很多那个人啊,(())那个世博会啊,哎呀我们那个楼道是乌烟瘴气,门口也是的,那个(())	1	52	185	filler	statement
+VOA_LISTENERSHOTLINE_CMN_20080404_223000	0	1637.819	1654.100	speaker#15	female	native	哎,大家好,我觉得社会上的风潮和这个社会的风俗是多种多样的,呃政府做事呢应该适应这种客观的(())这种情况,不要太单调了,呃太那个单纯化	1	59	204	filler	statement

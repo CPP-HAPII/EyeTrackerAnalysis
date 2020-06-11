@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080406.0537	0	400.0	500.0	speaker	unknown	unknown	其中籍贯或住地在拉萨的有16人，但有详细地址的只有5人；另外24人籍贯在四川、甘肃，均无具体地址，只标出一个大的行政区划。	0	0	0		

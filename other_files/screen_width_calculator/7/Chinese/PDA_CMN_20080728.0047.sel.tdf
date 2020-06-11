@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080728.0047	0	200.0	300.0	speaker	unknown	unknown	２８日在上海举行的国内参展第二次联络员工作会议上，全国１５个省区市的政府代表签署了中国２０１０年上海世界博览会国内参展协议。	0	0	0		

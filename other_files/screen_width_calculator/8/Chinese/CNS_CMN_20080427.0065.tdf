@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0065.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	戴秉国与法国总统外事顾问举行会谈 达成五共识	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 19:25 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网北京4月27日电　中国国务委员戴秉国26日在此间与法国总统外事顾问雷维特举行会谈。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	双方遵照两国领导人的指示，本着正视出现的问题、排除障碍的精神，就中法关系现状及前景坦诚、深入地交换了看法。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	双方达成以下共识：	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	一、中法全面战略伙伴关系弥足珍贵，应加倍珍惜和维护。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	双方应从战略高度与长远角度看待并处理两国关系。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	当前两国关系处于关键时期，双方要做出努力，排除障碍，增进互信，推动中法关系健康顺利发展。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	二、法方坚定奉行一个中国政策，重申西藏和台湾是中国领土不可分割的一部分，西藏和台湾问题是中国的内政，支持中国和平统一大业。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	三、奥运会是全世界人民的体育和友好的盛事，与政治毫无关系，法方祝愿和支持北京奥运会取得圆满成功。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	四、法国积极评价中国在解决地区热点和全球性问题上发挥的越来越大的作用。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	中法全面战略伙伴关系可为维护世界的和平与稳定发挥更大作用。	0	0	0		statement
+CNS_CMN_20080427.0065.sgm	0	2700.000	2800.000	TEXT1	unknown	unkown	五、今年下半年，中国将举办亚欧首脑会议，法国将任欧盟轮值主席国并主办第11次中欧领导人会晤，双方愿共同努力，进一步推动中欧关系向前发展。	0	0	0		statement

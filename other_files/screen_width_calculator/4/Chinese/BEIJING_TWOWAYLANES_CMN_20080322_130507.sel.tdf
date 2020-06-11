@@ -1,0 +1,30 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'nontrans', u'filler', u'report', u'filler', u'report', u'nontrans', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'report', u'filler', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 61.628, 255.18199999999999, 328.63299999999998, 333.13999999999999, 532.94200000000001, 612.375, 962.38, 984.06100000000004, 1109.9960000000001, 1121.9480000000001, 1136.5409999999999, 1146.8, 1178.329, 1183.27, 1186.818, 1190.396, 1199.615, 1205.787, 1226.3689999999999, 1229.7929999999999, 1243.4069999999999, 1249.673, 1321.4459999999999, 1413.873, 1430.376, 1478.6120000000001, 1494.645, 1506.3050000000001, 1510.8050000000001, 1642.9259999999999, 1645.5619999999999, 1668.4259999999999, 1782.8630000000001, 1789.8, 1798.979, 1808.182, 1812.057, 1822.682, 1845.252, 1850.424, 1857.126, 1870.7829999999999, 1890.5930000000001, 1944.203, 1948.922, 2137.5839999999998, 2147.2779999999998, 2522.1999999999998, 2554.9380000000001, 2637.3609999999999, 2660.2649999999999, 2679.9499999999998, 2688.5439999999999, 2700.9870000000001, 2722.087, 2734.9050000000002, 2856.6010000000001, 9999999.0]
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	189.791	200.072	Fei_Li_Si	female	native	酸奶的话是我们就是那样(()),还有就是做吃饭那个做饭的时候也能用,我们要做肉,还要吃用那个酸奶	1	20	35	report	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	515.508	517.368	Zhu_Li_AN	male	native	{laugh}	4	68	123	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	848.607	853.279	speaker#4	male	native	炖肉它讲究是火候(()),吃它本身的味	6	94	184	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1284.486	1295.045	Fei_Li_Si	female	native	这个也是就因为他们就是去的那个地方是(()),所以可以说就是那个北方的	22	128	251	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1502.737	1506.305	speaker#1	male	native	咱们这有吗今天有带吗,(())	27	138	285	filler	question
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1545.449	1553.996	Fei_Li_Si	female	native	嗯,这个(())也可以说就是我们土耳其就一个特色	29	148	305	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1909.202	1913.634	speaker#8	female	native	呃(())一定要跟你们介绍土耳其的干果种类的	43	182	375	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1932.385	1933.977	speaker#8	female	native	这边有没有,没吃过	43	186	383	filler	question
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1950.594	1955.406	Zhu_Li_AN	male	native	(())吃得太美了	45	192	391	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1977.556	1988.722	Fei_Li_Si	female	native	(())一大堆是吧	45	197	401	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	1993.191	2004.354	Fei_Li_Si	female	native	不过那个饺子好像是没有酸奶吃的话,是对我们来说的话就好像不是土耳其饺子的(())	45	200	405	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2004.354	2008.436	Fei_Li_Si	female	native	现在是就是刚才他们拍的那个地方(())	45	201	407	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2028.425	2045.672	Fei_Li_Si	female	native	筷子能(()),做的那个越小越好必须四十那个数看你的能力以前是古代的一些现在是开玩笑说的	45	202	410	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2045.672	2050.609	speaker#1	male	native	要装的更多,就越快,是越多越快吗,能装五十个,(()),哎	45	203	412	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2061.847	2069.863	speaker#4	male	native	珍珠水饺,对,珍珠水饺,它是在这个宫廷菜里头,啊你要到(())都能吃到,也叫太后水饺	45	206	416	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2069.863	2076.926	speaker#1	male	native	(()),里面包的馅呢,是这种馅吗	45	206	419	filler	question
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2076.926	2084.004	speaker#4	male	native	包完之后,他当然用中国传统这种包法,我看刚才他那一抹一捏,嗯,(())像混沌了	45	207	420	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2084.004	2091.457	speaker#4	male	native	那咱们吃的时候就不是说一下说四十个了,那是拿着一(()),那服务员一(()),(())上几个他说吉祥话	45	208	422	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2118.061	2127.717	Fei_Li_Si	female	native	不过也有一种是那个土耳其名字是那个(()),就是来做的有一些甜点,是非常甜的	45	212	429	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2310.792	2315.495	speaker#9	male	native	为什么丰富,因为悠久的历史	47	242	481	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2337.853	2340.386	speaker#1	male	native	所以鱼是他们那边一个(())一大特色	47	245	486	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2418.575	2424.775	Fei_Li_Si	female	native	茶呢,吃饭之前吃饭的时间,吃饭后都随便(())	47	252	504	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2433.823	2451.474	Zhu_Li_AN	male	native	中国吧有时候,其实中国吃饭的过程呢,往往也是一种很热闹或者他分很多场合,有时候菜特别多的时候,往往呢是有有什么人宴请啊或者(())很这种场面,然后大家可能互相敬酒也占了一大半时间实际上	47	254	507	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2509.194	2515.251	Fei_Li_Si	female	native	对,这个也是不一样,我们是先喝汤,只不过(())	47	259	522	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2596.556	2600.540	speaker#4	male	native	我觉得是不是	49	269	541	filler	incomplete
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2818.236	2827.875	Zhu_Li_AN	male	native	一枚戒指啊,~Ok,(())	56	301	588	filler	statement
+BEIJING_TWOWAYLANES_CMN_20080322_130507	0	2830.328	2833.359	speaker#1	male	native	啊她说是多长时间,六个月以后是吧	56	303	590	filler	question

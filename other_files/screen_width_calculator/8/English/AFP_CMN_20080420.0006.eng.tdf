@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0006.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	South Korea Culls Nearly Five Million Fowl to Stop Bird Flu Outbreak from Spreading	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	AFP on the 20th, Seoul	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	South Korea's Ministry of Agriculture announced today that since the outbreak of bird flu at the beginning of this month, authorities have culled nearly five million fowl to stop the virus from spreading.	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	The Ministry of Agriculture said in a statement today that since the first case of bird flu outbreak occurred on April 1, the virus has spread to 25 farms and a total of 4.85 million chickens and ducks have been culled.	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	While H5 bird flu virus has been the culprit for these 25 cases of outbreak, the statement by the Ministry of Agriculture did not explain how many cases were caused by the highly pathogenic H5N1 virus.	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	This strain of virus may harm human life.	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	2400.000	2700.000	TEXT1	unknown	unkown	An official in charge of bird flu epidemics from the Ministry of Agriculture said: "We've not yet determined the complete figures of H5N1 virus-triggered epidemics. We must first control the epidemic before releasing any relevant information."	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	2900.000	3000.000	TEXT1	unknown	unkown	The official denied the report that attributed all of the 25 cases of outbreak to the H5N1 strain of virus.	0	0	0		statement
+AFP_CMN_20080420.0006.sgm	0	3000.000	3200.000	TEXT1	unknown	unkown	Some officials confirmed in private that at least seven cases of outbreak were caused by the H5N1 strain of virus.	0	0	0		statement

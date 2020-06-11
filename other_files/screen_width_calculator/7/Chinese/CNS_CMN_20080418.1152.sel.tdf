@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080418.1152	0	700.0	800.0	speaker	unknown	unknown	当时外界普遍猜测克鲁伊夫缺席世界杯，可能是出于对当时执政阿根廷的军队政权的愤懑。	0	0	0		
+CNS_CMN_20080418.1152	0	900.0	1000.0	speaker	unknown	unknown	他之所以坚决不参加世界杯，是因为他的恐惧。	0	0	0		
+CNS_CMN_20080418.1152	0	1000.0	1100.0	speaker	unknown	unknown	这位前巴萨主帅说到，1977年一群手持武器的人闯进了他的家，把他以及他的妻子和孩子绑在椅子上，用枪威胁他们。	0	0	0		
+CNS_CMN_20080418.1152	0	1400.0	1500.0	speaker	unknown	unknown	参加世界杯是不可能的了。”	0	0	0		

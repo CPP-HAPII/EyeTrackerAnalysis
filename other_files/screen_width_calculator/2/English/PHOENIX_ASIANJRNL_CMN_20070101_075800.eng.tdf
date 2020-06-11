@@ -1,0 +1,490 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 139.68899999999999, 161.09, 563.82500000000005, 749.46900000000005, 800.37800000000004, 837.20399999999995, 907.86099999999999, 995.23699999999997, 1069.664, 1151.848, 1182.0050000000001, 1191.4110000000001, 1205.6479999999999, 1228.242, 1239.8199999999999, 1354.1489999999999, 1466.8720000000001, 1556.6079999999999, 1654.2619999999999, 1664.9970000000001, 1755.5229999999999, 1873.316, 1930.116, 1942.4280000000001, 2013.5619999999999, 2106.634, 2134.181, 2145.6030000000001, 2156.0329999999999, 2168.1399999999999, 2227.0799999999999, 2289.4699999999998, 2300.2939999999999, 2446.2739999999999, 2510.2109999999998, 2567.7370000000001, 2637.1500000000001, 2659.5439999999999, 9999999.0]
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	139.689	144.080	Jian_fujiang	male	native	Thailand's Interim Prime Minister Surayud refers to a series of bomb attacks as politically motivated.	1	1	1	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	145.095	148.126	Jian_fujiang	male	native	The number of U.S. soldiers killed in Iraq reaches the 3,000 mark.	1	1	3	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	150.861	155.033	Jian_fujiang	male	native	North Korea's official newspapers publish a joint editorial, calling for stronger defense capabilities.	1	1	5	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	161.090	163.309	Jian_fujiang	male	native	Good evening everyone, this is Asian Journal.	2	2	7	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	163.309	167.630	Jian_fujiang	male	native	Phoenix Satellite TV Chinese Channel, InfoNews Channel, CNE Channel, North American Chinese Channel; this is Jian Fujiang, bringing you the global reports.	2	2	8	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	167.630	169.426	Jian_fujiang	male	native	We first take a look at the news from Thailand.	2	2	9	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	169.426	174.379	Jian_fujiang	male	native	Last night, which was also New Year's Eve, nine bombs exploded in a chain in Bangkok, the capital of Thailand.	2	2	10	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	174.379	178.620	Jian_fujiang	male	native	The death toll has risen to three already, and another 38 people were injured,	2	2	11	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	178.620	181.151	Jian_fujiang	male	native	and among them were nine foreigners.	2	2	12	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	181.151	186.292	Jian_fujiang	male	native	The Interim Prime Minister of Thailand, Surayud, said today that the bombings were politically motivated.	2	2	13	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	186.292	192.042	Jian_fujiang	male	native	It is likely the work of a former regime which was overturned or a political organization that stepped down earlier;	2	2	14	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	192.042	195.386	Jian_fujiang	male	native	the possibility that they were launched by southern Islamic militants is small.	2	2	15	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	195.386	201.558	Jian_fujiang	male	native	Presently, a number of countries, including China, are appealing to the people to pay attention to their safety while traveling in Thailand.	2	2	16	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	203.183	208.246	speaker#1	female	native	In Victory Square, where the most serious attack took place, traces of destruction can still be seen in the morning of New Year's Day.	2	3	18	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	208.246	210.668	speaker#1	female	native	However, calm has been largely restored to the market.	2	3	19	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	210.668	214.199	speaker#1	female	native	Investigators are tracing and looking for the bombers behind the scene,	2	3	20	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	214.199	217.168	speaker#1	female	native	but for the time being, no suspect has been arrested.	2	3	21	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	217.168	222.528	speaker#1	female	native	Although the attacks were done in ways that were similar to the usual tricks of the Islamic separatists who were active in southern Thailand,	2	3	22	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	222.528	225.934	speaker#1	female	native	the police believe that this case has little chance of being connected to them.	2	3	23	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	225.934	233.950	speaker#1	female	native	The police also stated that all eight bombs were loaded with ammonium nitrate fertilizer and put in a metal box, which was equipped with nails and axles; they were detonated by timers.	2	3	24	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	233.950	239.059	speaker#1	female	native	On Monday, Prime Minister Surayud said that the series of bomb attacks that took place in Bangkok was a political plot.	2	3	25	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	239.059	252.128	Sulayu	male	native	(())	2	4	26	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	252.128	256.987	speaker#1	female	native	He said that from the time, locations, and the types of bombs the attacker selected, it can be seen that	2	5	27	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	256.987	262.112	speaker#1	female	native	the attackers' goal was apparently to make the public panic, trying to create political instability in Thailand;	2	5	28	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	262.112	265.080	speaker#1	female	native	but currently, they are still not able to determine who did it.	2	5	29	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	265.080	269.533	speaker#1	female	native	Thaksin's lawyers said that Thaksin is now in China and is not related to the attacks.	2	5	30	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	269.533	276.002	speaker#1	female	native	However, Thai media reported that a former senior assistant of Thaksin has been summoned by the National Security Committee, which started the coup.	2	5	31	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	276.002	284.423	speaker#1	female	native	After the attacks, police beefed up security in tourist areas, including Australian, UK and some other foreign embassies over there also +advised their people to take caution regarding their personal safety,	2	5	32	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	284.423	287.657	speaker#1	female	native	and warned that there may still be a possibility of attacks in the next few days.	2	5	33	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	287.657	292.922	speaker#1	female	native	But some visitors said that unless there are more attacks, their itinerary will not change.	2	5	34	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	292.922	296.766	speaker#1	female	native	Thai police have also canceled the traditional Buddhist ceremony to be held on New Year's Day.	2	5	35	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	296.766	302.516	speaker#1	female	native	Only a few Buddhist monks and followers gathered at the Royal Plaza to pray in dedication.	2	5	36	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	302.516	304.047	speaker#1	female	native	Phoenix Satellite TV comprehensive reports.	2	5	37	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	304.609	308.390	Jian_fujiang	male	native	Because many of the explosions occurred in crowded areas such as malls and shopping areas,	2	6	39	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	308.390	312.500	Jian_fujiang	male	native	many tourist groups already there have canceled their evening tour activities.	2	6	40	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	312.500	317.094	Jian_fujiang	male	native	For the latest situation, we will now immediately contact the Vice-President of the Thai Tourist Guides Union, Mr. Liang Zhongren.	2	6	41	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	317.094	317.827	Jian_fujiang	male	native	Hello, Mr. Liang.	2	6	42	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	318.366	319.906	Liang_zhongren	male	native	Uh, hello, hello host.	2	7	44	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	319.906	326.625	Jian_fujiang	male	native	You, uh, regarding the multiple explosions that occurred in Thailand on New Year's Eve, and the incidents have led to many people feeling very worried about touring over there.	2	8	45	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	326.625	328.874	Jian_fujiang	male	native	How does the situation look right now? Could you tell us something about it?	2	8	46	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	328.874	329.384	Jian_fujiang	male	native	Has there been an obvious escalation	2	8	47	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	329.384	330.218	Sulayu	male	native	in security?	2	9	48	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	329.384	330.218	Liang_zhongren	male	native	OK.	2	9	49	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	330.624	337.331	Liang_zhongren	male	native	Ok, ok, uh, since last night's several successive explosions, after the series of explosions,	2	10	52	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	337.331	346.793	Liang_zhongren	male	native	today, we can take a walk around in different parts of Bangkok, we can see that especially department stores, uh, and also the hypermarkets, etc.,	2	10	53	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	347.541	352.191	Liang_zhongren	male	native	in previous years, it was generally extremely crowded during the New Year period.	2	10	55	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	352.191	354.565	Liang_zhongren	male	native	Well, clearly, it has been reduced today.	2	10	56	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	355.206	363.894	Liang_zhongren	male	native	And then still because this afternoon, it was rumored that suspicious explosive objects were also found in two department stores (()),	2	10	58	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	363.894	369.878	Liang_zhongren	male	native	so made the ((pw)), these people who were shopping there flee these, these department stores in a hurry.	2	10	59	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	370.691	374.930	Liang_zhongren	male	native	And also, looking at this road we passed,	2	10	61	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	375.559	382.582	Liang_zhongren	male	native	uh, what we now see are military, military servicemen, not only see; however, what we mainly see are some policemen.	2	10	63	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	382.582	382.988	Jian_fujiang	male	native	OK.	2	11	64	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	382.988	385.223	Liang_zhongren	male	native	However, we don't see apparently, say,	2	12	65	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	385.223	388.910	Liang_zhongren	male	native	stationing, these many military soldiers or many policemen,	2	12	66	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	388.910	389.050	Jian_fujiang	male	native	Right.	2	13	67	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	389.050	390.315	Liang_zhongren	male	native	we have not seen this phenomenon.	2	14	68	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	390.315	390.643	Jian_fujiang	male	native	Uh-huh.	2	15	69	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	390.643	396.885	Liang_zhongren	male	native	However, it seems that there are some ((pw)), policemen in suburban neighborhoods.	2	16	70	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	396.885	400.900	Jian_fujiang	male	native	So, what kind of impact does it have on Thailand's tourist industry, ((pw)), can you, uh,	2	17	71	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	400.900	401.209	Liang_zhongren	male	native	tell us?	2	18	72	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	400.900	401.209	Liang_zhongren	male	native	OK.	2	18	73	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	401.209	402.413	Jian_fujiang	male	native	Are our conditions good right now?	2	19	74	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	402.413	402.826	Liang_zhongren	male	native	OK,	2	20	75	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	403.515	409.663	Liang_zhongren	male	native	regarding tourism, as far as we know, there are around 100 groups from Hong Kong right now,	2	20	77	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	409.663	414.288	Liang_zhongren	male	native	and the arrangements for these 100 groups are still largely unchanged,	2	20	78	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	414.288	418.866	Liang_zhongren	male	native	so that is to say, whatever the original itineraries were, we will keep them as is.	2	20	79	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	418.866	427.913	Liang_zhongren	male	native	But for the evenings, uh, like some tourists from Hong Kong or from other places who like to visit, uh, Bangkok,	2	20	80	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	427.913	429.898	Liang_zhongren	male	native	such as the "Dragon Night Market" that we know,	2	20	81	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	429.898	430.086	Jian_fujiang	male	native	OK.	2	21	82	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	430.086	437.853	Liang_zhongren	male	native	because this Dragon Night Market is where crowds mostly gather, we have just canceled this, this tourist program.	2	22	83	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	437.853	438.306	Jian_fujiang	male	native	Right.	2	23	84	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	438.306	446.728	Liang_zhongren	male	native	Well, also according to communications between our trade unions and some other travel agencies (()) today,	2	24	85	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	446.728	450.603	Liang_zhongren	male	native	we found that many Hong Kong groups are still coming as usual,	2	24	86	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	450.603	452.186	Liang_zhongren	male	native	only that some of it,	2	24	87	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	453.104	455.712	Liang_zhongren	male	native	uh, assuming like some groups with 20 people,	2	24	89	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	455.712	455.993	Liang_zhongren	male	native	and then	2	25	90	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	455.712	455.993	Jian_fujiang	male	native	Uh huh.	2	25	91	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	455.993	459.805	Liang_zhongren	male	native	some tourists, uh, are worried about themselves,	2	26	92	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	459.805	460.290	Liang_zhongren	male	native	so	2	27	93	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	459.805	460.290	Jian_fujiang	male	native	Yes.	2	27	94	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	460.290	461.181	Liang_zhongren	male	native	they have canceled.	2	28	95	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	461.181	461.493	Liang_zhongren	male	native	Left	2	28	96	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	461.493	461.821	Jian_fujiang	male	native	OK.	2	29	97	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	461.493	461.821	Liang_zhongren	male	native	five	2	29	98	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	461.821	466.086	Liang_zhongren	male	native	or six, they would come with the group, they have not canceled.	2	30	99	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	466.086	466.648	Jian_fujiang	male	native	OK, good,	2	31	100	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	466.648	467.836	Jian_fujiang	male	native	thank you, thanks, Mr. Liang.	2	32	101	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	466.648	467.836	Liang_zhongren	male	native	OK, OK.	2	32	102	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	467.836	468.164	Liang_zhongren	male	native	Thank you.	2	33	103	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	468.164	469.710	Jian_fujiang	male	native	For giving us the latest news from Bangkok.	2	34	104	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	469.710	473.866	Jian_fujiang	male	native	Actually, Thailand is one of Hong Kong's most popular tourist sites,	2	34	105	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	473.866	483.959	Jian_fujiang	male	native	and with the series of explosion incidents happening in Bangkok, some Hong Kong people who have already signed up for a Thai tour would rather forfeit the fees they have paid, and cancel their trips to Thailand.	2	34	106	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	483.959	486.834	Jian_fujiang	male	native	However, there were also those who were not worried about safety issues, and went as planned.	2	34	107	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	488.615	490.662	Liang_hua	female	native	Although a series of explosions have occurred in Bangkok.	2	35	109	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	490.662	493.975	Liang_hua	female	native	However, flights between Hong Kong and Bangkok are not affected;	2	35	110	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	493.975	497.006	Liang_hua	female	native	a number of tour groups going to Thailand proceeded as usual.	2	35	111	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	497.006	501.006	Liang_hua	female	native	Group leaders from some travel agencies said that the schedule will be changed temporarily because of safety issues.	2	35	112	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	501.006	522.684	speaker#2	female	native	(())	2	36	113	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	522.684	527.715	Liang_hua	female	native	However, one five-day tour (()) group (()) to Thailand asked to cancel due to the safety issue.	2	37	114	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	527.715	533.731	Liang_hua	female	native	Mr. Wang and his three other friends would rather forfeit the altogether more than 20,000 yuan they paid as fees and cancel their trips.	2	37	115	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	533.731	539.210	speaker#3	male	native	(())	2	38	116	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	539.210	543.116	Liang_hua	female	native	Finally, the travel agency promised to let them keep the fees, and transferred them to other tour groups.	2	39	117	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	543.116	549.850	Liang_hua	female	native	As for the other 14 members, they started out as usual, saying that they were not too worried about their safety, and they would avoid going out alone in the evenings.	2	39	118	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	549.850	551.975	Liang_hua	female	native	Phoenix Satellite TV, Liang Hua, reporting from Hong Kong.	2	39	119	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	563.825	568.796	Jian_fujiang	male	native	A series of bomb explosions broke out in Bangkok, and the Interim Prime Minister of Thailand, +Surayud, hinted today that	3	40	121	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	568.796	571.373	Jian_fujiang	male	native	there was a political motivation behind these explosions.	3	40	122	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	571.373	574.639	Jian_fujiang	male	native	Related to this topic, we would like to ask +commentator, Mr. He Liangliang, for an analysis.	3	40	123	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	574.639	575.280	Jian_fujiang	male	native	Hello, Mr. He.	3	40	124	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	575.280	575.858	He_liangliang	male	native	Hello.	3	41	125	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	575.858	580.202	Jian_fujiang	male	native	How do you look at these chains of explosions in Thailand; were they done by the former regime, like it was implicated by +Surayud?	3	42	126	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	580.671	587.577	He_liangliang	male	native	Uh, I believe that Thai ((pw)), uh, the series of explosions occurred on New Year's Eve in Bangkok was definitely a political plot.	3	43	128	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	587.577	590.780	He_liangliang	male	native	That means, it is not an, uh, ordinary criminal ((pw)), case,	3	43	129	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	590.780	595.110	He_liangliang	male	native	but at the same time, I think it has more of the characteristic flavor of a terrorist attack.	3	43	130	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	595.110	600.094	He_liangliang	male	native	You see in Bangkok, Bangkok is a famous metropolitan city in Southeast Asia, the capital of Thailand,	3	43	131	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	600.094	602.508	He_liangliang	male	native	and there are so many tourists from domestic and overseas,	3	43	132	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	602.508	607.649	He_liangliang	male	native	especially overseas tourists, coming from the West, or from China, including those from Hong Kong.	3	43	133	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	607.649	612.665	He_liangliang	male	native	And New Year's Day is one of the most important days in the most important year for the Thai people,	3	43	134	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	612.665	615.993	He_liangliang	male	native	and since the explosions occurred in Bangkok at such a time,	3	43	135	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	615.993	620.468	He_liangliang	male	native	uh, it is not like, definitely not like an ordinary, uh, criminal offense, then who did it?	3	43	136	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	620.468	624.727	He_liangliang	male	native	Why did he have to create such a, uh, series of explosive attacks?	3	43	137	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	624.727	630.601	He_liangliang	male	native	Although the attacks did not cause significant, uh, casualties; as we have seen these last couple of days, the business situation of Bangkok is obviously desolate.	3	43	138	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	630.601	635.023	He_liangliang	male	native	For Thailand, its most important tourism industry has suffered considerable impact;	3	43	139	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	635.023	642.941	He_liangliang	male	native	as for the Thai officials, they deliberately stressed, and said that this is very possible, uh, done by these political parties which supported the former Prime Minister Thaksin,	3	43	140	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	642.941	644.488	He_liangliang	male	native	but I think that is not quite possible.	3	43	141	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	644.488	648.929	He_liangliang	male	native	Why? Because we know that in general, the political struggles in a country can be quite fierce,	3	43	142	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	648.929	656.488	He_liangliang	male	native	however, political parties normally would not use terrorist attacks to, to, uh, defeat the opposite party.	3	43	143	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	656.488	662.612	He_liangliang	male	native	Particularly like Thaksin, who had already stepped down; supposedly, these terrorist attacks were instigated by Thaksin's supporters.	3	43	144	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	662.612	665.097	He_liangliang	male	native	If it is discovered, then Thaksin will be completely finished.	3	43	145	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	665.097	668.847	He_liangliang	male	native	Had he not done it, and, because, Thaksin still would have had quite a few supporters in Thailand.	3	43	146	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	668.847	674.282	He_liangliang	male	native	His party still has some strength; they can only stage a comeback through democratic ((pw)), elections.	3	43	147	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	674.282	676.143	He_liangliang	male	native	On the other hand, we also cannot overlook that	3	43	148	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	676.143	685.018	He_liangliang	male	native	although the Thai government deliberately, uh, --, it is actually abating, uh, people's opinion of the possibility that this is related to Muslim extremists in southern Thailand,	3	43	149	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	685.018	687.737	He_liangliang	male	native	but I think this is precisely a possibility that should not be ignored.	3	43	150	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	687.737	693.721	He_liangliang	male	native	We cannot help but think of this +military coup, uh, launched in Thailand last year, by this military leader, ah,	3	43	151	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	693.721	696.487	He_liangliang	male	native	this chief of staff of ((pw)), Thailand, he, himself, is a Muslim,	3	43	152	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	696.487	702.408	He_liangliang	male	native	and because he was unsuccessful in combating, uh, the Muslims' riots in the south, he had been, uh, criticized by public opinion.	3	43	153	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	702.408	707.361	He_liangliang	male	native	Now the military government, uh, that is the interim government appointed by the military,	3	43	154	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	707.361	712.655	He_liangliang	male	native	now it was deliberately committed to reducing the possibility of southern Muslim involvement.	3	43	155	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	712.655	714.858	He_liangliang	male	native	I think that this possibility actually should not be ruled out,	3	43	156	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	714.858	721.671	He_liangliang	male	native	especially after this, uh, this Saddam having been executed; and in addition, there has been such a problem in southern Thailand.	3	43	157	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	721.671	724.952	He_liangliang	male	native	So I think there are a lot of mysteries in the bombings in Bangkok.	3	43	158	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	724.952	732.530	He_liangliang	male	native	I feel that ((pw)) Thaksin, uh, for such a politician, uh, like the former Prime Minister Thaksin, to instigate such a terrorist attack, the likelihood is very slim.	3	43	159	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	732.530	735.858	He_liangliang	male	native	Let us see whether the Thai government is able to find who the true criminal is in the end.	3	43	160	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	735.858	736.389	He_liangliang	male	native	Fujiang.	3	43	161	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	736.389	738.031	Jian_fujiang	male	native	OK, thank you, thank you, Mr. He, for your comments and analysis.	3	44	162	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	738.031	740.234	Jian_fujiang	male	native	Let's take a commercial break, and then we'll have international news after this.	3	44	163	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	740.234	744.328	Jian_fujiang	male	native	More than 400 passengers are still missing from the shipwreck in Indonesia's central island of Java.	3	44	164	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	745.469	749.469	Jian_fujiang	male	native	In spite of the ban, some Iraqi people demonstrate in the street, protesting against the execution of Saddam.	3	44	166	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	800.378	803.318	Jian_fujiang	male	native	Welcome back to Asian Journal, let's look at some international news.	5	46	168	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	803.318	810.299	Jian_fujiang	male	native	An aircraft of Indonesia's Adam Air, which operates between Java and Sulawesi, lost contact with the control center today.	5	46	169	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	810.299	815.127	Jian_fujiang	male	native	According to local radio reports, there were 96 passengers and six crew members in the aircraft at that time,	5	46	170	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	815.127	817.346	Jian_fujiang	male	native	this +includes 11 children.	5	46	171	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	817.346	823.471	Jian_fujiang	male	native	The person in charge of the airlines and Indonesia's Foreign Minister both confirmed the news that the aircraft has lost contact.	5	46	172	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	823.471	833.674	Jian_fujiang	male	native	Adam Airlines was formed in 2002; it has won the annual honor for outstanding and inexpensive routings, awarded by the Asia-+Pacific Aviation Center.	5	46	173	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	833.674	837.204	Jian_fujiang	male	native	When we have the latest information, we will bring it to you during our news reports.	5	46	174	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	837.204	845.391	Jian_fujiang	male	native	In addition, regarding the ferry that had 628 passengers on board, which sunk in a storm in Indonesia's Java Sea on the 29th of last month,	6	47	175	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	845.391	847.828	Jian_fujiang	male	native	more than 400 passengers are still missing.	6	47	176	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	847.828	852.625	Jian_fujiang	male	native	Today, rescue personnel are still searching for the whereabouts of the survivors in the area where the accident took place.	6	47	177	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	852.625	856.672	Jian_fujiang	male	native	Indonesia's Ministry of Health said that as of now, about 200 people have been rescued.	6	47	178	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	858.375	862.078	speaker#4	female	native	A few days after the ferry sank, rescuers found some survivors one after another,	6	48	180	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	862.078	865.234	speaker#4	female	native	and sent them to Nanwang of Central Java to receive treatment.	6	48	181	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	865.234	871.062	speaker#4	female	native	Although these survivors were very tired, after they went ashore, they were anxiously looking for the whereabouts of their loved ones,	6	48	182	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	871.062	875.137	speaker#4	female	native	and some of them searched for the news of their loved ones on the officially published deceased list.	6	48	183	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	875.676	878.062	speaker#4	female	native	So far, more than 400 people are still missing,	6	48	185	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	878.062	881.672	speaker#4	female	native	and although helicopters of the authorities have found survivors floating in the sea,	6	48	186	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	881.672	885.032	speaker#4	female	native	they could not rescue them immediately due to bad weather.	6	48	187	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	885.032	889.376	speaker#4	female	native	Rescuers could only drop food and water to them, hoping that these people would hang on.	6	48	188	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	889.376	892.362	speaker#4	female	native	Later, vessels will be rushed over there to rescue them.	6	48	189	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	892.841	895.704	speaker#4	female	native	There were about 628 people on the ferry that had the accident.	6	48	191	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	895.704	903.189	speaker#4	female	native	On the 29th of last month, it was sailing from Borneo island to the coastal city Kumai in the province of Central Kalimantan, but half way there, it encountered a storm and a fire was triggered,	6	48	192	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	903.189	905.424	speaker#4	female	native	it then sank into the sea near Central Java province.	6	48	193	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	905.424	907.080	speaker#4	female	native	Phoenix Satellite TV comprehensive report.	6	48	194	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	907.861	913.971	Jian_fujiang	male	native	After the execution of former Iraqi President Saddam, supporters in Iraq continue to demonstrate on the streets despite a ban.	7	49	196	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	913.971	920.471	Jian_fujiang	male	native	Meanwhile, the eldest daughter of Saddam appeared in a sit-in demonstration held in Jordan, protesting the execution of her father.	7	49	197	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	922.018	928.127	speaker#1	female	native	Saddam's eldest daughter, Raghad, unexpectedly attended a sit-in rally held by the leaders of the Jordanian opposition party in Jordan on Monday,	7	50	199	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	928.127	929.988	speaker#1	female	native	protesting the execution of Saddam.	7	50	200	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	929.988	932.410	speaker#1	female	native	During the rally, there were a large number of demonstrators shouting slogans.	7	50	201	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	932.410	936.878	speaker#1	female	native	Since the U.S. attacked Iraq in 2003, Raghad has been in exile in Jordan,	7	50	202	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	936.878	941.050	speaker#1	female	native	and during Saddam's trial, Raghad has been arranging legal defense matters.	7	50	203	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	941.050	943.519	speaker#1	female	native	She expressed gratitude to those who attended the meeting.	7	50	204	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	945.956	953.893	speaker#1	female	native	In Samarra, north of Baghdad, over two hundred supporters of Saddam took to the streets to protest the execution of Saddam, despite a curfew that was enforced.	7	50	206	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	953.893	958.143	speaker#1	female	native	They held photos of Saddam in their hands, beating drums, shooting into the sky,	7	50	207	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	958.143	961.050	speaker#1	female	native	and continually shouting anti-American slogans in support of Saddam.	7	50	208	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	961.050	966.565	speaker#1	female	native	30 km north of Samarra, in the village of Al Douri, which was the hometown of Saddam's confidant Ibrahim,	7	50	209	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	966.565	969.487	speaker#1	female	native	residents erected a tent to mourn for Saddam.	7	50	210	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	969.487	972.909	speaker#1	female	native	Some people who came to mourn vowed that they would retaliate for Saddam's death.	7	50	211	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	973.534	976.752	speaker#1	female	native	In India, hundreds of Muslim demonstrators took to the streets,	7	50	213	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	976.752	978.752	speaker#1	female	native	protesting the execution of Saddam.	7	50	214	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	978.752	981.268	speaker#1	female	native	Demonstrators prayed before the rally.	7	50	215	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	981.268	985.862	speaker#1	female	native	They accused President Bush as the murderer for the killing of Saddam, shouting anti-American slogans,	7	50	216	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	985.862	987.862	speaker#1	female	native	and burning effigies of Bush.	7	50	217	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	987.862	992.674	speaker#1	female	native	Ever since Saddam was executed, a large number of Muslims have successively taken to the streets to protest in India.	7	50	218	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	992.674	994.253	speaker#1	female	native	Phoenix Satellite TV comprehensive report.	7	50	219	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	995.237	1002.267	Jian_fujiang	male	native	Since the invasion of Iraq, the number of American soldiers killed in this war has risen to the 3,000 mark by the last day of 2006.	8	51	221	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1002.267	1007.954	Jian_fujiang	male	native	This will result in greater pressure on United States President Bush, who is looking for solutions to the situation in Iraq.	8	51	222	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1009.485	1015.563	speaker#5	female	native	In California, U.S., some anti-war activists erected crosses on the beach on Sunday, to mourn for the U.S. troops killed in Iraq.	8	52	224	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1015.563	1019.079	speaker#5	female	native	According to the latest statistical data of a website which counts the U.S. casualties in the war,	8	52	225	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1019.079	1024.688	speaker#5	female	native	since 2003, when the U.S. dispatched its troops, the number of soldiers who died in Iraq has risen to the 3,000 mark.	8	52	226	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1024.688	1029.485	speaker#5	female	native	From March 2003 to December 2006, a milestone was set for every 500 people,	8	52	227	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1029.485	1034.188	speaker#5	female	native	from the initial 500 people dying every ten months, to 500 people dying in only six months;	8	52	228	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1034.188	1037.733	speaker#5	female	native	this means that more and more soldiers died, and at a faster rate.	8	52	229	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1038.272	1041.610	speaker#5	female	native	The U.S. military said that they feel sorry for every patriot who has sacrificed,	8	52	231	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1041.610	1044.797	speaker#5	female	native	but the number of 3,000 soldiers killed in action does not have particular meaning.	8	52	232	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1044.797	1051.203	speaker#5	female	native	In Texas, Bush paid tribute to the dead, but the White House reiterated that the war against terrorists is unlikely to end in the foreseeable future.	8	52	233	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1051.203	1054.586	speaker#5	female	native	Currently, Bush is considering different proposals to handle the war in Iraq,	8	52	234	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1054.586	1057.664	speaker#5	female	native	which include a short-term surge of the military presence, in order to reverse the inferior position of the local public order.	8	52	235	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1057.664	1061.711	speaker#5	female	native	However, his Iraqi policy is getting less concordance by citizens, and the families of the soldiers in particular.	8	52	236	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1061.711	1067.445	speaker#5	female	native	Some anti-war groups threatened to use this figure as a catalyst, and force Bush to withdraw the troops as soon as possible.	8	52	237	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1067.445	1069.149	speaker#5	female	native	Phoenix Satellite TV comprehensive report.	8	52	238	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1069.664	1072.993	Jian_fujiang	male	native	In North Korea, a number of official newspapers and periodicals published a joint editorial on New Year's Day,	9	53	240	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1072.993	1077.634	Jian_fujiang	male	native	appealing that while the country is celebrating its possession of nuclear weapons, it should also strengthen its defense capabilities.	9	53	241	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1077.634	1081.665	Jian_fujiang	male	native	The Korean government, however, reiterated that it will commit to the denuclearization of the Korean Peninsula.	9	53	242	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1083.056	1091.900	speaker#1	female	native	The newspaper of the Central Organization of North Korean Workers Party, Rodong Sinmun, and two other major newspapers traditionally published a joint editorial on New Year's Day to celebrate the New Year.	9	54	244	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1091.900	1095.197	speaker#1	female	native	More than two months ago, North Korea successfully conducted nuclear tests,	9	54	245	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1095.197	1101.676	speaker#1	female	native	and the editorial says that the deterrent force of North Korea's nuclear power is a powerful force to defend the peace and security of the Northeast Asian region.	9	54	246	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1101.676	1106.567	speaker#1	female	native	It also said that all soldiers must constantly fend off an invasion by U.S. imperialists.	9	54	247	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1106.567	1113.098	speaker#1	female	native	However, this year, North Korea's New Year editorial did not ask the United States to change its hostile policy against North Korea, like in previous years.	9	54	248	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1113.098	1118.130	speaker#1	female	native	It did claim that North Korea's nuclear deterrent capability can resist the nuclear threat from its enemies,	9	54	249	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1118.130	1120.131	speaker#1	female	native	and a military attack on North Korea.	9	54	250	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1120.131	1125.491	speaker#1	female	native	The streets in the capital, Pyongyang, were dressed in many decorations to welcome the New Year and enhance the festive atmosphere.	9	54	251	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1125.491	1130.803	speaker#1	female	native	Many citizens participated in the celebrations, and laid flowers at the statue of the late supreme leader, Kim Il-sung.	9	54	252	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1130.803	1137.177	speaker#1	female	native	Some scientists said that with the positions published in the editorial of North Korea's newspaper, they will strengthen scientific research according to the direction of the editorial.	9	54	253	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1137.177	1142.051	speaker#1	female	native	In South Korea, Prime Minister Han Myeong-sook reiterated that she is committed to achieving a nuclear-free Korean Peninsula.	9	54	254	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1142.051	1146.473	speaker#1	female	native	South Korea's Minister of Foreign Affairs, Song Min-soon, departed for the United States on New Year's Day,	9	54	255	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1146.473	1149.582	speaker#1	female	native	and will discuss the North Korea nuclear issue with Secretary of State Rice and other officials.	9	54	256	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1149.582	1151.113	speaker#1	female	native	Phoenix Satellite TV comprehensive report.	9	54	257	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1151.848	1155.598	Jian_fujiang	male	native	The newly appointed Secretary-General of the United Nations, Ban Ki-moon, takes up the office today,	10	55	259	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1155.598	1158.036	Jian_fujiang	male	native	and announced two new personnel appointments.	10	55	260	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1158.036	1163.053	Jian_fujiang	male	native	Indian diplomat Vijay Nambiar will be the chief of staff for the Secretary-General of the United Nations,	10	55	261	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1163.053	1168.991	Jian_fujiang	male	native	and Haitian journalist, Ms. Michele Montas, will be the spokesperson of the United Nations.	10	55	262	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1168.991	1170.897	Jian_fujiang	male	native	Now, let's take a look at a few international bulletins.	10	55	263	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1172.756	1178.286	speaker#4	female	native	In the Vatican, Pope Benedict XVI appealed to the world on New Year's Day to achieve world peace with courage,	10	56	265	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1178.286	1181.240	speaker#4	female	native	especially in ending the long-running Israeli-Palestinian conflict.	10	56	266	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1182.005	1186.021	speaker#4	female	native	The No. 2 figure of al-Qaida, al-Zarqawi, issued a statement on the Internet on Monday,	11	57	268	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1186.021	1190.490	speaker#4	female	native	condemning the leaders of Egypt and Palestine for betraying Islam, in their assistance toward the United States and Israel.	11	57	269	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1191.411	1193.255	speaker#4	female	native	Israeli officials said on Monday	12	58	271	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1193.255	1197.896	speaker#4	female	native	that between Israel and Palestine, there is no progress in the talk about exchanging Palestinian prisoners for the abducted Israeli soldier, Shalit,	12	58	272	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1197.896	1200.303	speaker#4	female	native	because the Palestinians have insatiable demands.	12	58	273	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1200.303	1204.835	speaker#4	female	native	However, the Israeli military will relax the restrictions on the Palestinian people to go in and out of the West Bank area.	12	58	274	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1205.648	1211.273	speaker#4	female	native	On January 1, 2007, the European Union ushered in two new members: Romania and Bulgaria.	13	59	276	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1211.273	1215.664	speaker#4	female	native	The people of the two countries held respective grand celebrations during New Year's Eve.	13	59	277	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1216.492	1222.664	speaker#4	female	native	Meanwhile, starting from Monday, Slovenia, which is located in central and southern Europe, will officially use the euro as its major currency in circulation.	13	59	279	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1222.664	1225.992	speaker#4	female	native	This is the first introduction of a new EU member to use the euro.	13	59	280	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1225.992	1227.523	speaker#4	female	native	Phoenix Satellite TV comprehensive report.	13	59	281	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1228.242	1229.787	Jian_fujiang	male	native	After the commercial break, we will look at the cross-strait news.	14	60	283	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1229.787	1234.632	Jian_fujiang	male	native	Chen Shui-bian's New Year speech points out that the Su-revisionist route is non-existent in the cross-strait policies.	14	60	284	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1236.132	1239.820	Jian_fujiang	male	native	Beijing cancels the welfare system of monthly bus tickets which had been implemented for more than 50 years.	14	60	286	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1354.149	1356.399	Jian_fujiang	male	native	Welcome back to Asian Journal, we will now look at news from Taiwan.	16	62	288	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1356.399	1362.884	Jian_fujiang	male	native	In his New Year speech, Chen Shui-bian stated that the cross-strait policy will continue on the fundamental keys of active management and effective openness.	16	62	289	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1362.884	1366.103	Jian_fujiang	male	native	He stressed that the so-called Su-revisionist route is non-existent.	16	62	290	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1366.103	1370.743	Jian_fujiang	male	native	This has made his relations with Taiwan Premier Su Tseng-chang more intriguing.	16	62	291	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1372.462	1377.134	Zhan_peiqi	female	native	In the morning of the 1st, Chen Shui-bian delivered his New Year speech, vowing to maintain the principal keys of last year on cross-strait policies,	16	63	293	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1377.134	1379.525	Zhan_peiqi	female	native	that is active management and effective openness.	16	63	294	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1379.525	1385.869	Chen_shuibian	male	native	I don't think the government's cross-strait economic and trade policies would be any problem;	16	64	295	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1385.869	1393.045	Chen_shuibian	male	native	there is only one route, on which Taiwan comes first; there is only one route on Taiwan's national identity;	16	64	296	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1393.045	1396.545	Chen_shuibian	male	native	there is absolutely no such route as the so-called Su-revisionism.	16	64	297	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1396.545	1400.732	Zhan_peiqi	female	native	Taiwanese from all walks of life generally believed that the contents of Chen Shui-bian's 30-minute speech were well organized.	16	65	298	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1400.732	1403.419	Zhan_peiqi	female	native	There were not too many unexpected statements that came as surprises to all sectors.	16	65	299	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1403.419	1412.183	Zhan_peiqi	female	native	Among others, it is, instead, the so-called claim that there is no Su-revisionist route that has triggered the deep concern of the people, which has made people think whether or not it has been taken by Chen Shui-bian as the opportunity to chide Su Tseng-chang, who is advocating an open policy.	16	65	300	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1412.752	1416.559	Zhan_peiqi	female	native	The so-called Su-revisionist route means that the tone for cross-strait policies will be set by Chen Shui-bian,	16	65	302	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1416.559	1418.981	Zhan_peiqi	female	native	and they will be revised by Taiwan Premier Su Tseng-chang.	16	65	303	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1418.981	1422.637	Zhan_peiqi	female	native	When Chen Shui-bian left his office and took a trial ride on the high-speed railway, he further expressed that	16	65	304	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1422.637	1428.528	Zhan_peiqi	female	native	although he has said to delegate power to the lower levels, cross-strait military affairs are the jurisdictions of the leader.	16	65	305	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1428.528	1432.090	Zhan_peiqi	female	native	It is not possible for him to relinquish; this makes the relations between Chen and Su intensely interesting.	16	65	306	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1432.090	1435.058	speaker#6	female	native	Chen Shui-bian has slapped Su Tseng-chang in the face,	16	66	307	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1435.058	1438.776	speaker#6	female	native	and in a very direct warning, he was saying:	16	66	308	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1438.776	1444.389	speaker#6	female	native	As long as Chen Shui-bian exists, you have no chance to act independently.	16	66	309	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1445.048	1450.011	speaker#7	male	native	To a certain degree, a red line was drawn over Su's (()) open-door policy,	16	67	311	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1450.011	1451.823	speaker#7	male	native	that is to say, stop here.	16	67	312	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1451.823	1455.402	Zhan_peiqi	female	native	Some people think that Chen's brazen remarks have put his relationship with Su to the freezing point.	16	68	313	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1455.402	1458.824	Zhan_peiqi	female	native	There is also a saying that Chen Shui-bian is playing the bad guy, in order to stand up to Su Tseng-Chang.	16	68	314	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1458.824	1464.293	Zhan_peiqi	female	native	As to whether Su Tseng-chang would continue to be the premier of Taiwan, it is also a hot discussion topic in Taiwan's political arena.	16	68	315	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1464.293	1466.215	Zhan_peiqi	female	native	Phoenix Satellite TV, Zhan Peiqi reporting from Taipei.	16	68	316	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1466.872	1469.340	Jian_fujiang	male	native	Taiwan's officials held the New Year's Day flag-raising ceremony today.	17	69	318	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1469.340	1473.793	Jian_fujiang	male	native	Chairman of the Nationalist Party Ma Ying-jeou declined the official invitation, and did not present at the seats for VIPs.	17	69	319	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1473.793	1476.965	Jian_fujiang	male	native	Instead, he chose to stand with the people taking part in the ceremony.	17	69	320	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1476.965	1481.231	Jian_fujiang	male	native	When the people attending the ceremony shouted for Ma Ying-jeou to take part in Taiwan's presidential election next year,	17	69	321	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1481.231	1483.590	Jian_fujiang	male	native	he appeared embarrassed, and stopped them immediately.	17	69	322	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1485.168	1492.842	Chen_shuwan	female	native	In the early morning just after 5 a.m. on the 1st, Chairman of the Nationalist Party Ma Ying-jeou led party officers to participate in the flag-raising ceremony, which was held on Ketagalan Boulevard, in front of Chen Shui-bian's office.	17	70	324	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1492.842	1496.248	Chen_shuwan	female	native	Ma Ying-jeou attended the flag-raising ceremony no longer as the Taipei Mayor,	17	70	325	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1496.248	1500.217	Chen_shuwan	female	native	unlike last year, when he stood with Chen Shui-bian and Annette Lu in the VIP stand.	17	70	326	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1500.217	1504.920	Chen_shuwan	female	native	This year, he deliberately declined an official invitation, and chose to stand in an area for the general public.	17	70	327	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1510.766	1513.813	Chen_shuwan	female	native	But even though he chose to stand with the people, he still encountered some situations.	17	70	329	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1513.813	1519.531	Chen_shuwan	female	native	As soon as the flag-raising ceremony ended, he was immediately surrounded by shouting for Ma Ying-jeou to campaign for the presidency and for Chen to step down;	17	70	330	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1519.531	1522.421	Chen_shuwan	female	native	Ma Ying-jeou +looked embarrassed, and stopped them right away.	17	70	331	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1522.922	1526.375	Chen_shuwan	female	native	After the change of political parties in Taiwan since 2000, due to the serious confrontations between the ruling and opposition parties,	17	70	333	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1526.375	1531.015	Chen_shuwan	female	native	every year on New Year's Day, pan-blue leaders from the opposition leaders have been reluctant to participate in the flag-raising ceremony on Ketagalan Boulevard.	17	70	334	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1531.015	1536.999	Chen_shuwan	female	native	The only exception was on January 1, 2004, when before the presidential election, Lien Chan and James Soong	17	70	335	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1536.999	1541.796	Chen_shuwan	female	native	led a large number of legislators from the pan-blue camp to the flag-raising ceremony on Ketagalan Boulevard.	17	70	336	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1541.796	1544.655	Chen_shuwan	female	native	After this year's flag-raising ceremony, Ma Ying-jeou expressed that	17	70	337	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1544.655	1547.921	Chen_shuwan	female	native	participating in the ceremony is an expectation to the land and to the people,	17	70	338	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1547.921	1550.639	Chen_shuwan	female	native	and this year is a very important one for the Nationalist Party;	17	70	339	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1550.639	1554.076	Chen_shuwan	female	native	it's high time for the Nationalist Party to fulfill its task for party reform.	17	70	340	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1554.076	1555.920	Chen_shuwan	female	native	Phoenix Satellite TV, Chen Shuwan, reporting from Taipei.	17	70	341	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1556.608	1560.746	Jian_fujiang	male	native	The welfare system of monthly bus tickets which started in Beijing since 1950	18	71	343	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1560.746	1565.902	Jian_fujiang	male	native	has not only been the major reason for losses in the public transit system, but it also no longer meets current development needs.	18	71	344	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1565.902	1569.670	Jian_fujiang	male	native	So, starting today, Beijing is officially abolishing monthly bus tickets,	18	71	345	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1569.670	1574.576	Jian_fujiang	male	native	and officially entering the era of IC, uh, ((pw)), the bus IC card.	18	71	346	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1576.013	1578.216	Zhou_yan	female	native	The weather is fine on the first +day of the New Year,	18	72	348	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1578.216	1581.153	Zhou_yan	female	native	numerous Beijing residents chose to visit their friends and relatives by bus,	18	72	349	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1581.153	1586.091	Zhou_yan	female	native	because on this day, except for the buses which have the route numbers starting with "9," all the others offer tickets at 60% off;	18	72	350	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1586.091	1588.013	Zhou_yan	female	native	at the same time, the monthly tickets have been cancelled.	18	72	351	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1588.013	1595.185	Zhou_yan	female	native	A transit worker said that in her more than 10 years of work experience, she saw that the buses which used monthly tickets were extra-congested, and often caused inconvenience for her work.	18	72	352	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1595.185	1598.475	speaker#8	female	native	You also had to chase and ask them to buy a ticket, you know.	18	73	353	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1598.475	1603.858	speaker#8	female	native	Sometimes, a conductor was too busy to handle, while keeping an eye on those who was using IC cards, and at the same time, they had to see after that, uh, ((pw)), those who wanted to +buy tickets.	18	73	354	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1604.483	1609.030	Zhou_yan	female	native	Among the major cities in Mainland China, Beijing is the last one to abolish the monthly ticket,	18	74	356	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1609.030	1613.264	Zhou_yan	female	native	and about one-tenth of the population in the city has enjoyed this welfare policy.	18	74	357	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1613.264	1616.654	Zhou_yan	female	native	Six months ago, Beijing municipal started to use the unified transit card,	18	74	358	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1616.654	1621.029	Zhou_yan	female	native	and so far, more than six million tickets were sold, an average of one card per two persons.	18	74	359	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1621.029	1625.497	Zhou_yan	female	native	Although the unified card provides the basis for abolishing the monthly ticket, some people still express their anxiety.	18	74	360	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1625.497	1630.295	speaker#9	female	native	I go to just buy an IC card, and afterwards, uh, I still have to -- each month,	18	75	361	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1630.295	1632.436	speaker#9	female	native	it, since it has its fixed locations, isn't it?	18	75	362	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1632.436	1634.701	speaker#9	female	native	Sometimes it's not that convenient as it is.	18	75	363	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1634.701	1639.544	Zhou_yan	female	native	Beginning from the first day of 2007, Beijing officially said good-bye to the era of monthly bus ticket welfare;	18	76	364	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1639.544	1643.106	Zhou_yan	female	native	more and more citizens are beginning to use the IC unified card to travel,	18	76	365	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1643.106	1647.872	Zhou_yan	female	native	but the people also express their hope that the government will increase more locations for recharging the IC, uh, IC card,	18	76	366	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1647.872	1651.449	Zhou_yan	female	native	so that more and more people can use the IC card with convenience.	18	76	367	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1651.449	1653.512	Zhou_yan	female	native	Phoenix Satellite TV, Zhou Yan, reporting from Beijing.	18	76	368	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1654.262	1655.450	Jian_fujiang	male	native	We will look at news from Hong Kong and Macau later.	19	77	370	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1655.450	1657.169	Jian_fujiang	male	native	Hong Kong is starting its blanket ban on smoking today,	19	77	371	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1657.169	1659.825	Jian_fujiang	male	native	but there are still a few people who defy the law.	19	77	372	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1660.794	1664.997	Jian_fujiang	male	native	Also, Hong Kong will issue restricted passports in order to prevent syndicates that produce forged documents.	19	77	374	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1755.523	1758.101	Jian_fujiang	male	native	Welcome back to Asian Journal, we will now look at news from Hong Kong.	21	79	376	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1758.101	1760.914	Jian_fujiang	male	native	The newly revised anti-smoking legislation went into effect today.	21	79	377	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1760.914	1765.101	Jian_fujiang	male	native	Smoking in most public areas including restaurants and parks is strictly prohibited.	21	79	378	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1765.101	1768.992	Jian_fujiang	male	native	On the first day of implementing this new act, most of the public have cooperated,	21	79	379	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1768.992	1772.382	Jian_fujiang	male	native	but there are still a few people who defy the law, intentionally or unintentionally.	21	79	380	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1774.429	1777.569	Wei_yingyin	female	native	The regulation that bans smoking in all public places takes effect on New Year's Day.	21	80	382	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1777.569	1782.210	Wei_yingyin	female	native	In the parks managed by the LCSD, people can see no-smoking notices every three to five steps.	21	80	383	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1782.210	1786.851	Wei_yingyin	female	native	Many people who were relaxing in the park during the holidays agree with the no-smoking policy.	21	80	384	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1786.851	1794.845	speaker#10	male	native	(())	21	81	385	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1794.845	1798.345	Wei_yingyin	female	native	However, occasionally, you will encounter some people who cannot resist the temptation of cigarette addiction.	21	82	386	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1798.345	1801.384	Wei_yingyin	female	native	(())	21	82	387	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1801.384	1802.884	speaker#11	female	native	(())	21	83	388	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1802.884	1808.822	Wei_yingyin	female	native	Surrounded by the no-smoking warning signs, this old man only dared to toy with an unlit cigarette, back and forth.	21	84	389	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1808.822	1811.398	Wei_yingyin	female	native	(())	21	84	390	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1811.398	1812.351	speaker#12	male	native	(())	21	85	391	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1812.351	1813.179	Wei_yingyin	female	native	Not convenient,	21	86	392	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1813.179	1815.023	speaker#12	male	native	I have been smoking for 60 years.	21	87	393	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1815.023	1817.601	Wei_yingyin	female	native	Do you feel that the ban on cigarettes is very inconvenient?	21	88	394	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1817.601	1819.492	speaker#12	male	native	Definitely.	21	89	395	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1819.492	1820.710	Wei_yingyin	female	native	Certainly.	21	90	396	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1820.710	1821.460	speaker#12	male	native	Yes.	21	91	397	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1820.710	1821.460	Wei_yingyin	female	native	Uh.	21	91	398	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1821.460	1822.897	Wei_yingyin	female	native	Then what are you going to do?	21	92	399	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1822.897	1825.022	speaker#12	male	native	No way out, I just don't smoke.	21	93	400	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1825.553	1829.396	Wei_yingyin	female	native	Security in the park said that they have only seen three violators of the no-smoking regulation in the entire day,	21	94	402	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1829.396	1831.808	Wei_yingyin	female	native	and they put out the cigarette as soon as they were advised to do so.	21	94	403	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1832.377	1837.443	Wei_yingyin	female	native	In fact, according to the regulation, the park has a designated smoking area, which is less than 1% of the total area of the park,	21	94	405	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1837.443	1839.974	Wei_yingyin	female	native	but the sign is not so clear, and it's difficult to locate.	21	94	406	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1839.974	1845.145	Wei_yingyin	female	native	Following the signs, it took our camera crew more than 20 minutes to find this smoking area,	21	94	407	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1845.145	1848.207	Wei_yingyin	female	native	but if you are not familiar with the facilities of this park at all,	21	94	408	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1848.207	1850.970	Wei_yingyin	female	native	I believe it is hard to find this place called the Roof Garden.	21	94	409	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1851.539	1855.644	Wei_yingyin	female	native	Also, in order to coordinate with implementation of the new legislation, different notices are posted in restaurants,	21	94	411	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1855.644	1858.049	Wei_yingyin	female	native	reminding people not to smoke in the restaurants.	21	94	412	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1858.644	1863.582	Wei_yingyin	female	native	A person in charge of the restaurant said that there were guests who were not disciplined and needed the staff to +advise them.	21	94	414	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1863.582	1869.613	Wei_yingyin	female	native	He believes that over time, after people adapt to the new smoking legislation, and this situation will not occur again.	21	94	415	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1870.488	1872.722	Wei_yingyin	female	native	Phoenix Satellite TV, Wei Yingyin reporting from Hong Kong.	21	94	417	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1873.316	1878.597	Jian_fujiang	male	native	Meanwhile, the Hong Kong government announced today that in 2007, the electronic HKSAR passport will be introduced.	22	95	419	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1878.597	1883.471	Jian_fujiang	male	native	These are so-called biometric passports, in order to prevent the syndicates from producing forged documents.	22	95	420	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1885.221	1889.424	Zhou_jiahong	female	native	Basically, the cover's design of the Hong Kong SAR electronic passport is the same as the current passport.	22	96	422	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1889.424	1895.992	Zhou_jiahong	female	native	According to the standards set by the International Civil Aviation Organization, the back cover of the e-passports will be embedded with contact-less chips,	22	96	423	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1895.992	1899.242	Zhou_jiahong	female	native	in which the holder's personal data and appearance are stored.	22	96	424	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1899.242	1902.711	Zhou_jiahong	female	native	The personal data page will be made of polycarbonate shatterproof plastic;	22	96	425	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1902.711	1908.241	Zhou_jiahong	female	native	the holders' personal information and photographs will be printed with laser engraved technology on the personal data page;	22	96	426	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1908.241	1912.976	Zhou_jiahong	female	native	the themes of the design are Hong Kong's landmarks, Ching Ma Bridge and Hong Kong Convention and Exhibition Center,	22	96	427	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1912.976	1915.335	Zhou_jiahong	female	native	displaying the international metropolitan image of Hong Kong.	22	96	428	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1915.335	1920.600	Zhou_jiahong	female	native	The new passport uses advanced security features and sophisticated printing technology as its security functions,	22	96	429	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1920.600	1924.194	Zhou_jiahong	female	native	so as to effectively combat forged documents as well as related transnational crimes.	22	96	430	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1924.194	1928.163	Zhou_jiahong	female	native	Applications for the new passport will be received starting from February 5, 2007.	22	96	431	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1928.163	1930.116	Zhou_jiahong	female	native	Phoenix Satellite TV, Zhou Jiahong, reporting from Hong Kong.	22	96	432	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1930.116	1932.483	Jian_fujiang	male	native	Later, we will look at financial news and technology reports.	23	97	433	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1933.112	1936.834	Jian_fujiang	male	native	The industry forecasts that the housing market in Shenzhen will continue to rise steadily in 2007.	23	97	435	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	1937.584	1942.428	Jian_fujiang	male	native	There is a high-tech building in Brazil where residents can change the direction of the room by themselves.	23	97	437	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2013.562	2016.250	Jian_fujiang	male	native	Welcome back to Asian Journal, we'll first look at the financial news.	25	99	439	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2016.250	2020.093	Jian_fujiang	male	native	Entering 2007, Shenzhen's real estate industry forecasts that	25	99	440	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2020.093	2023.390	Jian_fujiang	male	native	in the New Year, there still will be room for the property market to rise steadily in Shenzhen.	25	99	441	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2025.312	2029.265	Zhang_le	female	native	Despite continued macroeconomic policies in China, Shenzhen's property market is still rising this year.	25	100	443	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2029.265	2031.672	Zhang_le	female	native	According to data published by the Shenzhen real estate industry,	25	100	444	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2031.672	2035.172	Zhang_le	female	native	in 2006, the average range of increase for the luxury residential market has reached 50%,	25	100	445	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2035.172	2037.531	Zhang_le	female	native	and the values of commodity housing rose nearly 30%;	25	100	446	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2037.531	2039.953	Zhang_le	female	native	the average sales price is 9,132 yuan.	25	100	447	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2039.953	2043.312	Zhang_le	female	native	Some people from the real estate industry have expressed that because land is scarce within Shenzhen,	25	100	448	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2043.312	2047.171	Zhang_le	female	native	the main reason for the increase in housing prices in Shenzhen is that new residential housing is reduced yearly.	25	100	449	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2047.171	2051.593	Zhang_le	female	native	At the same time, commodity housings will continue a steady growth of 5 to 10%,	25	100	450	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2051.593	2054.796	Zhang_le	female	native	and the market for luxury housing still has room to increase by 20 to 30%.	25	100	451	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2054.796	2058.468	Li_yaozhi	male	native	The economic development of Shenzhen is growing rapidly as well,	25	101	452	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2058.468	2060.999	Li_yaozhi	male	native	with very good personal income.	25	101	453	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2060.999	2068.639	Li_yaozhi	male	native	Secondly, Shenzhen is a city of migrants, a large number of people come to Shenzhen from other places, to ((pw)), to make a living, to work, here.	25	101	454	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2068.639	2072.342	Li_yaozhi	male	native	This, uh, demand for, uh, purchasing housing is getting bigger and bigger.	25	101	455	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2072.342	2073.795	Li_yaozhi	male	native	Thirdly, uh, that is,	25	101	456	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2073.795	2077.102	Li_yaozhi	male	native	now more and more people buy, uh, buy the house to be used by themselves.	25	101	457	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2077.102	2081.492	Li_yaozhi	male	native	Fourth, the rent in Shenzhen is relatively higher,	25	101	458	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2081.492	2087.664	Li_yaozhi	male	native	the percentage is about, uh, the rental return each year is about seven to eight percent.	25	101	459	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2087.664	2090.086	Zhang_le	female	native	As for the second-hand housing market, Li Yaozhi said that,	25	102	460	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2090.086	2094.226	Zhang_le	female	native	for the same reason of the scarcity of land, housing prices for second-hand houses will also see a rise of five to ten percent,	25	102	461	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2094.226	2096.258	Zhang_le	female	native	and are pushing closer to the prices of new houses.	25	102	462	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2096.258	2101.180	Zhang_le	female	native	And in 2007, it is estimated that the Mainland economy will still have an increase by a margin of 10%, coupled with the effects of the revaluation of the RMB,	25	102	463	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2101.180	2104.008	Zhang_le	female	native	and properties in Shenzhen purchased by Hong Kong people will have a certain amount of growth, too.	25	102	464	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2104.008	2106.118	Zhang_le	female	native	Phoenix Satellite TV, Zhang Le, Xu Fei, reporting from Shenzhen.	25	102	465	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2106.634	2108.399	Jian_fujiang	male	native	Let's look at some financial bulletins.	26	103	467	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2109.899	2115.931	speaker#13	female	native	An official from the Ministry of Commerce said that, in 2006, China's automobile exports reached a record of 340,000 vehicles,	26	104	469	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2115.931	2117.963	speaker#13	female	native	which is more than double the quantity from 2005,	26	104	470	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2117.963	2121.071	speaker#13	female	native	causing an increase of auto exports to more than double in two consecutive years.	26	104	471	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2121.639	2124.104	speaker#13	female	native	Vice Minister of Commerce, Wei Jianguo, said a few days ago,	26	104	473	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2124.104	2130.088	speaker#13	female	native	in the next 10 years, exports of automobiles and their parts will be planned to increase to RMB 120 billion yuan,	26	104	474	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2130.088	2133.338	speaker#13	female	native	reaching 10% of the global automobile trading volume.	26	104	475	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2134.181	2138.978	speaker#13	female	native	In Guangzhou City, the average price of new residential housing has risen to a new historical record on the last day of 2006,	27	105	477	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2138.978	2144.447	speaker#13	female	native	and reached 7,438 yuan per square meter, 5.8% higher than the price in November.	27	105	478	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2145.603	2147.290	speaker#13	female	native	A survey conducted in the Mainland indicates that	28	106	480	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2147.290	2150.533	speaker#13	female	native	Hong Kong is still the first city of choice for tourists who want to travel outside of the Mainland;	28	106	481	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2150.533	2154.251	speaker#13	female	native	the ones after are Singapore, Bali, the Maldives, and Cheju Island.	28	106	482	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2154.251	2156.033	speaker#13	female	native	Phoenix Satellite TV comprehensive report.	28	106	483	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2168.140	2171.484	Jian_fujiang	male	native	You have heard about revolving restaurants, but have you ever heard of a revolving building?	30	108	485	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2171.484	2175.266	Jian_fujiang	male	native	In Brazil, a construction company built a first-ever revolving building;	30	108	486	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2175.266	2178.079	Jian_fujiang	male	native	each floor can make a 360-degree rotation,	30	108	487	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2178.079	2183.969	Jian_fujiang	male	native	residents can rotate the dining room and living room toward the direction they prefer, be it east, south, west, or north.	30	108	488	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2185.672	2190.484	speaker#14	male	native	Seeing from the outside, this cylindrical building in Curitiba, Brazil, does not look like anything special,	30	109	490	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2190.484	2194.752	speaker#14	male	native	but actually each floor in the building can be rotated by 360 degrees independently.	30	109	491	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2195.620	2201.804	speaker#14	male	native	Except for the kitchen and bedrooms, which cannot be rotated, residents can choose to turn the living room and dining room to any direction they want.	30	109	493	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2201.804	2206.007	speaker#14	male	native	Originally, the construction company which designed this building planned to sell the residential units;	30	109	494	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2206.007	2208.179	speaker#14	male	native	when it was subsequently found that the building was so unique,	30	109	495	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2208.179	2211.744	speaker#14	male	native	they simply use the building as a model work of the company, for people to visit.	30	109	496	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2212.283	2214.226	speaker#14	male	native	According to the introduction by Moreau, who is in charge of the construction company,	30	109	498	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2214.226	2218.612	speaker#14	male	native	the idea we had in mind when designing this building was in hopes that the residents can freely select the landscape they like.	30	109	499	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2218.612	2222.393	speaker#14	male	native	He said, currently, the company is planning to build larger revolving buildings,	30	109	500	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2222.393	2224.158	speaker#14	male	native	and will put in their efforts to expand the overseas market.	30	109	501	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2224.678	2226.314	speaker#14	male	native	Phoenix Satellite TV comprehensive report.	30	109	503	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2227.080	2229.298	Jian_fujiang	male	native	Oil prices remain high, global pollution is getting serious,	31	110	505	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2229.298	2232.344	Jian_fujiang	male	native	every country is promoting the research and development of environmentally-friendly cars.	31	110	506	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2232.344	2236.063	Jian_fujiang	male	native	However, there are not too many models on the market that are really popular with the consumers.	31	110	507	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2236.063	2241.266	Jian_fujiang	male	native	Recently, two big auto manufacturers of both BMW and General Motors have energetically introduced their latest models of environmentally-friendly cars,	31	110	508	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2241.266	2242.532	Jian_fujiang	male	native	hoping that they can open up the market.	31	110	509	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2244.157	2249.188	speaker#14	male	native	A centennial motor show was held in Los Angeles, U.S.A., and BMW took the chance to introduce its new hydrogen engine car,	31	111	511	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2249.188	2252.063	speaker#14	male	native	which claims to be the world's first hydrogen-powered vehicle.	31	111	512	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2252.063	2255.313	speaker#14	male	native	Although BMW has been developing hydrogen vehicles for 25 years,	31	111	513	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2255.313	2260.079	speaker#14	male	native	this improved automobile uses the dual fuel modes, which means it uses both hydrogen and gasoline.	31	111	514	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2260.079	2262.688	speaker#14	male	native	If the driver chooses to use the hydrogen mode,	31	111	515	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2262.688	2267.486	speaker#14	male	native	the car only emits water vapor; therefore, this is the cleanest fuel, can further ((reduce)) pollution.	31	111	516	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2267.486	2270.017	speaker#14	male	native	When the hydrogen is used up, and there is no hydrogen station in the vicinity,	31	111	517	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2270.017	2272.626	speaker#14	male	native	the driver can switch to gasoline and continue with the journey, worry-free.	31	111	518	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2272.626	2277.376	speaker#14	male	native	And it can be very convenient to convert (()) the energy modes (()).	31	111	519	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2277.376	2284.954	speaker#14	male	native	(()) for the environmentally-friendly vehicles (()), the secret weapon they are introducing is the hybrid-electric vehicle which uses the socket to recharge it;	31	111	520	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2284.954	2286.608	speaker#14	male	native	this can greatly reduce gasoline consumption.	31	111	521	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2287.207	2288.845	speaker#14	male	native	Phoenix Satellite TV comprehensive report.	31	111	523	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2289.470	2290.813	Jian_fujiang	male	native	We'll look at the social silhouette later.	32	112	525	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2290.813	2294.766	Jian_fujiang	male	native	Over a million people wait to welcome the coming of 2007 in New York's Times Square,	32	112	526	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2294.766	2300.294	Jian_fujiang	male	native	Shanghai (()).	32	112	527	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2446.274	2473.154	speaker#15	male	native	(())	34	114	529	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2473.154	2485.413	speaker#15	male	native	As the weather on the New Year's night was fine, (()) people gathered at Times Square; many of them came (()),	34	114	530	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2485.413	2489.960	speaker#15	male	native	some even came to Times Square at 10 a.m. on the 31st in order to get a good spot.	34	114	531	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2489.960	2496.882	speaker#15	male	native	This year, the ones who pressed the button for the crystal ball to fall were New York City Mayor Bloomberg and some veterans from Afghanistan and Iraq.	34	114	532	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2496.882	2508.148	speaker#15	male	native	In Times Square this year (()) the ceremony (()) besides the ceremony of dropping the ball at the countdown, there was also (()), so the visitors who have been waiting for the entire evening can enjoy a happy night.	34	114	533	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2508.148	2510.211	speaker#15	male	native	Phoenix Satellite TV (()) reporting from New York.	34	114	534	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2511.195	2515.070	Jian_fujiang	male	native	This year, New Years coincided with the traditional Muslim holiday of Eid Al-Adha.	35	115	536	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2515.070	2518.945	Jian_fujiang	male	native	People from India and Pakistan celebrate the festival by slaughtering cattle and sheep.	35	115	537	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2518.945	2522.836	Jian_fujiang	male	native	However, the police of the two countries also stepped up their patrols to prevent extremists from making trouble.	35	115	538	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2524.461	2528.008	speaker#4	female	native	In Karachi, southern Pakistan, the festive atmosphere of the New Year filled the night.	35	116	540	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2528.008	2531.898	speaker#4	female	native	Although Islamic extremists warned people not to celebrate the New Year,	35	116	541	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2531.898	2533.727	speaker#4	female	native	there were still people setting off fireworks (()).	35	116	542	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2533.727	2542.165	speaker#4	female	native	According to (()) besides (()) the first (()).	35	116	543	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2542.165	2555.243	speaker#4	female	native	India's soul (()), the relatives in Zepuer (()), hoping that they will stay away from alcohol,	35	116	544	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2555.243	2565.237	speaker#4	female	native	and in the central part (()) police have strictly guarded the area (()) for extremists (()).	35	116	545	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2565.237	2567.112	speaker#4	female	native	Phoenix Satellite TV comprehensive report.	35	116	546	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2567.737	2570.034	Jian_fujiang	male	native	In order not to let their children lose from the starting point,	36	117	548	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2570.034	2574.003	Jian_fujiang	male	native	many parents in China are starting very early to pave the way for the future development of their children.	36	117	549	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2574.003	2577.566	Jian_fujiang	male	native	In Shanghai, there is a company that specializes in providing elite education to small children;	36	117	550	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2577.566	2582.471	Jian_fujiang	male	native	it is trying to teach MBA courses through simple and vivid methods.	36	117	551	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2582.471	2586.980	Jian_fujiang	male	native	Although the tuitions are frighteningly high, it still attracts many parents to come with their children (()).	36	117	552	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2589.375	2596.095	speaker#4	female	native	(()) Children between the ages of three and six learn economics that causes even adults to have headaches.	36	118	554	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2596.095	2598.544	speaker#4	female	native	From lecture (()) to astronomical, trade,	36	118	555	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2598.544	2602.309	speaker#4	female	native	the courses here are specialized in training (()) ability to communicate,	36	118	556	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2602.309	2606.152	speaker#4	female	native	it uses interactive and interesting methods to tell the children abstract economics concepts.	36	118	557	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2606.152	2611.980	speaker#4	female	native	As introduced, the MBA courses here last two years, the tuition is RMB 20,000 yuan, and there is a two-hour class each week,	36	118	558	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2611.980	2614.495	speaker#4	female	native	Although, compared with most of other courses, the cost is very high,	36	118	559	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2614.495	2617.963	speaker#4	female	native	there are still plenty of parents who favor this particular teaching method.	36	118	560	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2617.963	2620.791	speaker#4	female	native	A relaxed learning environment, the application of multimedia technology,	36	118	561	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2620.791	2624.634	speaker#4	female	native	and a young teaching force are the biggest selling points for this prodigy baby program.	36	118	562	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2624.634	2630.509	speaker#4	female	native	On its website, it clearly tells the parents that education is the most effective way to create wealth for a family.	36	118	563	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2630.509	2634.540	speaker#4	female	native	But for the children, I believe, happiness is the most important memory of childhood.	36	118	564	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2634.540	2636.337	speaker#4	female	native	Phoenix Satellite TV comprehensive reports.	36	118	565	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2637.150	2639.715	Jian_fujiang	male	native	It is getting closer to the day of the 2008 Beijing Olympic Games.	37	119	567	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2639.715	2647.357	Jian_fujiang	male	native	Hong Kong is the city that will hold the Olympic equestrian events; in order to heighten public awareness of this event, the Hong Kong Jockey Club has held a horsemanship show	37	119	568	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2647.357	2652.013	Jian_fujiang	male	native	to let everybody see an array of the graceful and skillful performances by the jockeys and horses.	37	119	569	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2652.013	2653.716	Jian_fujiang	male	native	Let's take a look at the end of this news program,	37	119	570	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2653.716	2657.559	Jian_fujiang	male	native	and thank you for joining us on this Asian Journal of January 1, 2007.	37	119	571	report	
+PHOENIX_ASIANJRNL_CMN_20070101_075800	0	2657.559	2659.544	Jian_fujiang	male	native	I am Jian Fujiang, good night, and goodbye.	37	119	572	report	

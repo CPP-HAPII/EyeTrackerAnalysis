@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0026.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Inadvertent Response to Sarkozy - British Prime Minister Brown Rules Out Boycotting the Beijing Olympics	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	London (AFP), 5th.	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Although French President Sarkozy warned that he probably won't attend the opening ceremonies of the Beijing Olympics due to the Tibet issue, British Prime Minister, Brown, still ruled out boycotting the Beijing Olympics today.	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	After attending a meeting of international center-left leaders in London, Brown told reporters: "I will attend the Olympic (opening ceremonies) just like many other people."	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	He also said: "The Dalai Lama himself said that he doesn't wish to see a boycott of the Olympics, so that's why I said, as the 2012 Olympic host country, I will attend."	0	0	0		statement
+AFP_CMN_20080406.0026.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	Brown called on the two sides of the Tibet crisis to show "restraint," and said that this crisis can only be solved through dialogue.	0	0	0		statement

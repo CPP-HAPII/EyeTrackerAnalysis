@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121113-10583226	0	0.0	100.0	speaker	unknown	unknown	刘和珍已经剔除了，卖炭翁也是反诗 Re: 中国当前的困境	0	0	0		
+cmn-NG-31-121113-10583226	0	300.0	400.0	speaker	unknown	unknown	《卖炭翁》也是反诗一首：一个没有营业执照的奸商，趁着大雪进城买炭想谋取暴利。	0	0	0		
+cmn-NG-31-121113-10583226	0	1000.0	1100.0	speaker	unknown	unknown	cn此处誓言不可撤销。	0	0	0		

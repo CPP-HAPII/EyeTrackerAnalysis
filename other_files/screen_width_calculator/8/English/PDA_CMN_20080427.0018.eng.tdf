@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0018.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Average Life-expectancy Reaches 80.24 Years as Beijing Makes Guaranteeing Public Healthcare a Priority	0	0	0		statement
+PDA_CMN_20080427.0018.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008	0	0	0		statement
+PDA_CMN_20080427.0018.sgm	0	900.000	950.000	TEXT1	unknown	unkown	BEIJING, Apr. 26, PDA	0	0	0		statement
+PDA_CMN_20080427.0018.sgm	0	950.000	975.000	TEXT1	unknown	unkown	(Reporter: Bo Jianfeng) Recently, the residents of the community of Fangzhuang in Beijing were pleasantly surprised to discover a "health gift pack" in their household mailbox.	0	0	0		statement
+PDA_CMN_20080427.0018.sgm	0	975.000	987.500	TEXT1	unknown	unkown	Upon opening it, they found inside two books and a card: the Handbook for Residents of the Capital on Preventing Contagious Illnesses, the Guide for Residents of the Capital on Healthy Eating, and a speedy reference card for Body Mass Index.	0	0	0		statement
+PDA_CMN_20080427.0018.sgm	0	987.500	993.750	TEXT1	unknown	unkown	Beijing Municipal Government has issued without charge a total of five million "Health Gift Packs" to city residents this year.	0	0	0		statement
+PDA_CMN_20080427.0018.sgm	0	993.750	996.875	TEXT1	unknown	unkown	In recent years, Beijing municipality has increased financial spending to prioritize setting up public health facilities and in strongly promoting increasing the health level of the entire population.	0	0	0		statement
+PDA_CMN_20080427.0018.sgm	0	996.875	1000.000	TEXT1	unknown	unkown	Currently, the average life-expectancy of the municipality's populations has reached 80.24 years. The rates of infant mortality and maternal mortality are at the same levels as developed nations.	0	0	0		statement

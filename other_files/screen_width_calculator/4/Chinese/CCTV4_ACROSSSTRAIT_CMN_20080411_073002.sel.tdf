@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 72.376000000000005, 76.986999999999995, 92.778000000000006, 141.07400000000001, 206.59399999999999, 274.28699999999998, 343.863, 394.33999999999997, 475.322, 550.34400000000005, 609.529, 683.62199999999996, 689.31100000000004, 882.31200000000001, 896.56600000000003, 928.952, 1618.635, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080411_073002	0	451.597	464.083	Hao_Bo_Cun	male	native	选什么 (()) ,这是海军的决定,参谋总长只是完成了作业,任何重大的军购案,最后都是要 (()) 给三军统帅决定	8	19	44	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080411_073002	0	884.562	896.566	Chen_Rui_Long	male	native	不,行政院是说有人来推荐,有很多人士 (()) ,呃行政院是秘书长说哦我们呃有接到这样一个推荐	14	40	92	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080411_073002	0	954.839	965.200	Dong_Zhi_Sen	male	native	它们每年有非常多的采购案,哦包括像过去哦大概十几年前台湾电力公司曾经发生--发生过 (()) 案,哦大概是那个四五千亿的那个预算	16	43	100	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080411_073002	0	1118.568	1133.694	Zhang_Qi_Kai	male	native	第二个是我刚刚跟大家报告过,它一共有二十三个处,哦包括它有所谓业务处,有所为电力的这个开发跟调度处,甚至是工程处,它有好几个处,所以每为什么要设七到八个副总,每个副总他本身都要管一个区块	16	46	112	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080411_073002	0	1562.402	1578.469	Dong_Zhi_Sen	male	native	那这些位子哦还掌控将来整个台湾政府里面很大的预算使用权,所以哦位子也要,钱也要,然后债务哦就是借了不少债,这些债变成将来的政府还要去归还,因为政府是一体的嘛	16	52	140	filler	statement

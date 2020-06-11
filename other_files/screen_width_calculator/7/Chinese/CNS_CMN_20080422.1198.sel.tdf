@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080422.1198	0	500.0	600.0	speaker	unknown	unknown	每年3月份之前，由于春节长假、开发企业等待银行贷款额度等原因往往是楼市的淡季，而今年3月，楼市不但“淡”，而且不乐观。	0	0	0		
+CNS_CMN_20080422.1198	0	600.0	700.0	speaker	unknown	unknown	进入4月，楼市买卖双方的观望状态已持续半年。	0	0	0		
+CNS_CMN_20080422.1198	0	1000.0	1100.0	speaker	unknown	unknown	据北京市交易管理网的数据显示，3月北京新建商品住宅签约7740套，签约面积98.7万平方米，与2月份相比签约套数增加4866套，增加了169.3%，签约面积增加64.9万平方米，增加了192.0%；同比去年3月签约套数减少20.2%，签约面积减少49.6%。	0	0	0		
+CNS_CMN_20080422.1198	0	1200.0	1300.0	speaker	unknown	unknown	据上海市房地产交易中心“网上房地产”的统计数字显示，3月份上海住宅新房成交17644套，180.33万平方米，环比2月份，签约套数增加10218套，增加137.6%，签约面积增加108.23万平方米，增加150.1%，成交面积与去年同期相比略下降4%。	0	0	0		
+CNS_CMN_20080422.1198	0	3000.0	3100.0	speaker	unknown	unknown	相反，如果各大地产商能咬牙坚持，挺过财务压力，拒绝降价，而压抑了半年之久的住房需求，逐步释放，倘若这两个因素同步显现，那么，5月楼市则有可能走出观望。	0	0	0		
+CNS_CMN_20080422.1198	0	3400.0	3500.0	speaker	unknown	unknown	2007年春节前，楼市也曾有过两个月的短暂观望，但春节过后很快强烈反弹。	0	0	0		

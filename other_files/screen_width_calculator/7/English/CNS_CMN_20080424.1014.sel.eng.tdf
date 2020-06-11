@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080424.1014	0	400.0	500.0	speaker	unknown	unknown	In 2000, he established a religious sect, Al Qiyadah Al Islamiyah. He once had forty thousand followers.	0	0	0		

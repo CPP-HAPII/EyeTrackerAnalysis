@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080707.0008	0	100.0	200.0	speaker	unknown	unknown	新华社哈拉雷７月６日电（记者李努尔）据津巴布韦《星期日邮报》６日报道，津反对党争取民主变革运动（民革运）领导人茨万吉拉伊５日拒绝参加南非总统姆贝基在津巴布韦首都哈拉雷主持的津执政党与反对党之间的调解会议。	0	0	0		
+XIN_CMN_20080707.0008	0	800.0	900.0	speaker	unknown	unknown	津巴布韦３月２９日举行独立以来首次总统、议会和地方政府联合选举。	0	0	0		

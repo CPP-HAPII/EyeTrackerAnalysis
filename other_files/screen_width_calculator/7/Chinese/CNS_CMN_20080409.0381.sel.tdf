@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080409.0381	0	200.0	300.0	speaker	unknown	unknown	自3月13日佟大为在自己的博客中曝光将于今年结婚之后，其具体婚期也成为娱乐圈的猜想。	0	0	0		
+CNS_CMN_20080409.0381	0	300.0	400.0	speaker	unknown	unknown	4月6日，买红妹博客上快嘴泄密：佟大为好事将近，将在17日于万达广场的索菲特大酒店举行婚礼。	0	0	0		
+CNS_CMN_20080409.0381	0	400.0	500.0	speaker	unknown	unknown	买红妹昨日向本报记者证实博客内容属实，佟大为经纪人小麦则回短信表示婚礼会低调进行，但公司不回应是否属实。	0	0	0		
+CNS_CMN_20080409.0381	0	500.0	600.0	speaker	unknown	unknown	据记者了解，目前佟大为正忙于拍高希希的新戏。	0	0	0		
+CNS_CMN_20080409.0381	0	600.0	700.0	speaker	unknown	unknown	一向快人快语的孙楠的太太买红妹是在博客上“泄露”了这个秘密。	0	0	0		
+CNS_CMN_20080409.0381	0	1100.0	1200.0	speaker	unknown	unknown	而为佟大为夫妇拍摄时尚封面的摄影师竟在关悦化妆换衣时发现她的肚子已经隆起，并估计已经怀孕三四个月。	0	0	0		
+CNS_CMN_20080409.0381	0	1300.0	1400.0	speaker	unknown	unknown	对此，一些圈内友人也出面力挺，佟大为的好友傅淼则表示：“大为一直都很喜欢孩子，就算怀孕了也不奇怪呀。”。	0	0	0		

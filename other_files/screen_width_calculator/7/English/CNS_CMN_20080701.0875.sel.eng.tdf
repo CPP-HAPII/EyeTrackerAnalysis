@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.0875	0	300.0	400.0	speaker	unknown	unknown	The mid-year net values of 408 funds (excluding QDII funds) of 59 funds management companies were released today.	0	0	0		
+CNS_CMN_20080701.0875	0	600.0	700.0	speaker	unknown	unknown	However, as of June 30 this year, fund shares (not including QDII) managed by fund companies had reached 2.167 trillion shares, an increase of 42 billion shares compared with that at the beginning of the year.	0	0	0		

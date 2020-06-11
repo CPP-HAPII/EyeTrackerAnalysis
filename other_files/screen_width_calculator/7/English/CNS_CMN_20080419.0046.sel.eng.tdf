@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080419.0046	0	2000.0	2100.0	speaker	unknown	unknown	Of them, Section 6 in the explanation about admission under Provision 5 on Page 9 deals precisely with the accommodation given to children of senior managers in the financial industry by adding 10 points for their application submission and admission.	0	0	0		

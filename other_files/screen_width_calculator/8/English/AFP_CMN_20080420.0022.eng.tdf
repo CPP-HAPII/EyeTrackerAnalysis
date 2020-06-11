@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0022.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Federer Struggles into His First Final This Season at Estoril Open	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	AFP on the 19th, Estoril, Portugal	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	Swiss tennis master Federer, the world number one, will carry a 9-0 career record into tomorrow's final against Russian player Davydenko at the Estoril Open, seeking to win his first personal championship cup of 2008.	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	1500.000	1700.000	TEXT1	unknown	unkown	Top seed Federer said of his world number four rival: "I know the danger of Nikolay (Davydenko)."	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	1900.000	2200.000	TEXT1	unknown	unkown	"I've had several lucky wins against him. It was pretty close at the Roland Garros court in the semi-final last year. I know what a great, great player he is. That's why I'm very proud of my record."	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	2400.000	2800.000	TEXT1	unknown	unkown	Federer, currently being coached by newly-hired Spanish coach Higueras, struggled today to eliminate Germany's world number 104 Gremelmayr 2-6, 7-5, 6-1 to win himself a spot in his first final this season.	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	Since the Masters Cup in November of last year, Federer has not won any championship. Today when playing against Gremelmayr who was playing in his first semi-final, he lost the first set and then quickly picked up his momentum, winning eight of the last nine matches.	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	3500.000	3800.000	TEXT1	unknown	unkown	Davydenko, who earlier beat French player Serra 6-2 easily twice, has won 11 matches in a row including the crown at the Sony Ericsson tennis tournament earlier this month.	0	0	0		statement
+AFP_CMN_20080420.0022.sgm	0	4000.000	4200.000	TEXT1	unknown	unkown	Davydenko said, he was ready to play against Federer, and "I like it when the match is against me."	0	0	0		statement

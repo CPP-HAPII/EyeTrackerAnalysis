@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117651-10508924	0	300.0	400.0	speaker	unknown	unknown	据中国新闻网记者陈静7月6日报道，袭警案犯罪嫌疑人杨佳请上海名江律师事务所主任谢有明律师提供法律帮助。	0	0	0		
+cmn-NG-31-117651-10508924	0	500.0	600.0	speaker	unknown	unknown	查上海市闸北区人民政府网站，2008年1月8日的《闸北区人民政府关于组建上海市闸北区人民政府第三届法律顾问团的通知》公告谢有明（名江律师事务所主任）为第三届法律顾问团的成员。	0	0	0		
+cmn-NG-31-117651-10508924	0	900.0	1000.0	speaker	unknown	unknown	警方理应知道谢有明律师是闸北区人民政府法律顾问还安排，令人怀疑警方有安排“自己人”伪装公正之嫌。	0	0	0		

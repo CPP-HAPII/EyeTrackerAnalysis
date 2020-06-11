@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080709.0051	0	0.0	100.0	speaker	unknown	unknown	布希胡锦涛在G8高峰会外谈台湾等问题	0	0	0		
+AFP_CMN_20080709.0051	0	1400.0	1500.0	speaker	unknown	unknown	如果您能帮我取得入场券,我会很感激。」	0	0	0		

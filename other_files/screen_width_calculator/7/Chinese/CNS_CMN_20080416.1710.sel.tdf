@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080416.1710	0	0.0	100.0	speaker	unknown	unknown	啤酒业涨声起 金威啤酒深圳每瓶涨0.2—0.3元	0	0	0		
+CNS_CMN_20080416.1710	0	200.0	300.0	speaker	unknown	unknown	啤酒行业的涨价风波近来可谓愈演愈烈。	0	0	0		
+CNS_CMN_20080416.1710	0	300.0	400.0	speaker	unknown	unknown	继青啤、燕京之后，金威啤酒也终于忍不住开始在深圳提高了产品价格，每瓶涨幅0.2—0.3元。	0	0	0		
+CNS_CMN_20080416.1710	0	400.0	500.0	speaker	unknown	unknown	不过与青啤、燕京有所不同的是，此次提价的原因除了原材料成本的上涨所致外，去年斥资8亿新建工厂也是致使金威必须靠提价来缓解经营压力的关键因素，而此次提价，也被公司视为寻求市场突破的一次机会。	0	0	0		
+CNS_CMN_20080416.1710	0	1200.0	1300.0	speaker	unknown	unknown	据悉，金威啤酒作为一区域品牌，在华南市场占有一定优势，其在深圳市场拥有70%以上的份额，在广东市场，则占到了20%的市场份额，仅次于珠江啤酒。	0	0	0		
+CNS_CMN_20080416.1710	0	1600.0	1700.0	speaker	unknown	unknown	“啤酒行业的出路，其一是规模，所谓行业洗盘资本为王，规模到了一定程度后自然就能降低单位产量的啤酒成本；其二是销售渠道，包括品牌营造。”	0	0	0		
+CNS_CMN_20080416.1710	0	1800.0	1900.0	speaker	unknown	unknown	国海证券研究院刘金沪分析，受原材料价格暴涨的影响，目前大部分啤酒厂商的确都需要提价，否则就扛不下去了，因为即使是青啤、燕京、华润雪花三大巨头的主要财务指标也很一般，更不用说是金威这个以区域市场为主的品牌了。	0	0	0		
+CNS_CMN_20080416.1710	0	1900.0	2000.0	speaker	unknown	unknown	该分析师认为，目前啤酒行业竞争已基本饱和，还没有开发的领域已不是很多，行业还处于洗牌的过程中，至于谁能特别明显地胜出，实现超额收益，可能还没这么快，三大巨头与地方诸侯之间的战火还要延续很多年，金威想全面挑战三大巨头还较难。	0	0	0		
+CNS_CMN_20080416.1710	0	2000.0	2100.0	speaker	unknown	unknown	青啤：并无专门举动针对金威	0	0	0		

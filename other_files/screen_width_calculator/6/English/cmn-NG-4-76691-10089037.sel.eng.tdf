@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76691-10089037	0	100.0	200.0	speaker	unknown	unknown	(1) In April when spring brought flowers some mosquitoes, flies, insects, and gnats took wing, buzzing	0	0	0		
+cmn-NG-4-76691-10089037	0	400.0	500.0	speaker	unknown	unknown	(2) Adventurers once went to the snow mountain in search of that black box yet were reduced to slaves among a pride of lions it was a red flag that kindled hope in their eyes they longed for freedom, they turned over and tossed the black box far away	0	0	0		
+cmn-NG-4-76691-10089037	0	900.0	1000.0	speaker	unknown	unknown	They shouted and wanted to go home free but didn't know where he wanted to go so this spring they flew to the peninsula buzzing like evil moths, swarming toward the light of fire	0	0	0		
+cmn-NG-4-76691-10089037	0	1400.0	1500.0	speaker	unknown	unknown	Under the running flames, red flags were in full bloom somebody heard the roaring of the dragon across a thousand miles high up on the peninsula	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.2623	0	200.0	300.0	speaker	unknown	unknown	中新网7月9日电 昨天，“日月同喜，喜传天下——双喜世纪婚礼”，在北京钓鱼台国宾馆正式启动。	0	0	0		

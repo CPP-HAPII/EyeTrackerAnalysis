@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 56.880000000000003, 134.048, 138.851, 370.56799999999998, 397.89400000000001, 403.76499999999999, 888.18200000000002, 892.86000000000001, 908.12699999999995, 922.04899999999998, 930.50400000000002, 935.90999999999997, 1283.415, 1288.8209999999999, 1637.4459999999999, 1758.037, 2477.3470000000002, 9999999.0]
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080306_122702	0	123.220	128.033	Cui_Yong_Yuan	male	native	(()),嗯,嗯	1	6	17	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080306_122702	0	268.970	282.579	Cui_Yong_Yuan	male	native	这个现在呢我们坐在这个城市的演播室里谈房价,实际上呃很多地方的这个民办教师代课教师还在谈自己的工资,谈-谈温饱呢	3	17	37	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080306_122702	0	1121.300	1128.300	Chen_Li_Chun	male	native	大学生嘛,大中专一-一-一共可能是呃大概嘛是四十个左右	12	85	160	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080306_122702	0	1152.252	1153.737	Cui_Yong_Yuan	male	native	你喜欢这个职业是吧	12	90	167	filler	question
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080306_122702	0	1235.841	1246.200	Cui_Yong_Yuan	male	native	这个我们今天请了两位观察员,一位是教育学者杨东平,一位是三联生活周刊的记者李鸿谷啊,欢迎他们,啊	12	115	196	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080306_122702	0	1392.284	1396.143	Cui_Yong_Yuan	male	native	我想问问两位观察员有没有问题要问一下黄副市长	14	143	242	filler	statement
+CCTVNEWS_XIAOCUIINTERVIEW_CMN_20080306_122702	0	2285.846	2294.557	Cui_Yong_Yuan	male	native	这是以前财政没有给这教育这个二十个亿补贴的时候哈,那这个重庆政府拿那二十个亿干什么去了	16	217	365	filler	question

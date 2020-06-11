@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080423.0005	0	0.0	1000.0	speaker	unknown	unknown	Brent North Sea crude for June delivery hit a session high of 116.75/b dollars and closed up $1.52/b at the historial high of $115.95.	0	0	0		

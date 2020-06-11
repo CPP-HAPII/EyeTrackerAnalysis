@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080430.0519	0	900.0	1000.0	speaker	unknown	unknown	这一民调于上周展开，恰好在法国电视1台(TF1)和法国2台(France 2)24日晚利用黄金时段直播萨科齐接受5位记者采访前。	0	0	0		
+CNS_CMN_20080430.0519	0	2300.0	2400.0	speaker	unknown	unknown	法国著名女影星茱莉叶·比诺什显然抱有和大多数法国民众一样的情绪，她在28日接受《你》月刊采访时直言不讳地对萨科齐提出了批评。	0	0	0		

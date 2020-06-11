@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117656-10519393	0	200.0	300.0	speaker	unknown	unknown	--[1;33m* source:.	0	0	0		
+cmn-NG-31-117656-10519393	0	300.0	400.0	speaker	unknown	unknown	tdqs BBS http://bbs.tju.	0	0	0		

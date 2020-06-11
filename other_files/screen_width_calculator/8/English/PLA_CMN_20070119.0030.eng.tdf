@@ -1,0 +1,28 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070119.0030	0	10010.000	10019.900				Wang Yuyang's 216th Medical Visit to a Mountain Village	0	0	0		
+PLA_CMN_20070119.0030	0	20010.000	20019.900				Lu Xusheng and Special Staff Correspondent Cheng Wenxiang (Source: PLA Daily, Page 2, Time of Release: 2007-01-19 06:13)	0	0	0		
+PLA_CMN_20070119.0030	0	30010.000	30019.900				In the winter's third nine-day period, cold wind was piercing the bone.	0	0	0		
+PLA_CMN_20070119.0030	0	30020.000	30029.900				Wang Yuyang, who has received a retirement directive, decided to pay one more medical visit to folks in the area where the unit is stationed.	0	0	0		
+PLA_CMN_20070119.0030	0	30030.000	30039.900				This writer went with him upon hearing the news.	0	0	0		
+PLA_CMN_20070119.0030	0	40010.000	40019.900				Wang Yuyang was formerly director of a clinic in a certain Beijing Military Command unit. The army unit is stationed in a well-known impoverished mountain area in northern Hebei.	0	0	0		
+PLA_CMN_20070119.0030	0	40020.000	40029.900				Over these past years, from starting as an ordinary military doctor to serving as director of the clinic, he never changed his habit of using holidays and weekends to make medical visits.	0	0	0		
+PLA_CMN_20070119.0030	0	40030.000	40039.900				Before the retirement directive was announced, Wang Yuyang had already made a total of 215 medical visits in the area where the unit is stationed, treating more than 10,000 cases and saving more than 200 patients in critical condition.	0	0	0		
+PLA_CMN_20070119.0030	0	50010.000	50019.900				Carrying on his back a medical kit with a red cross, Wang Yuyang crushed the snow as he "crunched" toward Shangshidong Village.	0	0	0		
+PLA_CMN_20070119.0030	0	50020.000	50029.900				We followed behind him, struggling for breath.	0	0	0		
+PLA_CMN_20070119.0030	0	60010.000	60019.900				As soon as we entered the village, villager Fang Haijun ran up to Wang Yuyang, out of breath, saying "Hurry up ... hurry and save my wife...."	0	0	0		
+PLA_CMN_20070119.0030	0	60020.000	60029.900				It turned out that Fang Haijun's wife was in labor at home, with a placental abruption ...	0	0	0		
+PLA_CMN_20070119.0030	0	70010.000	70019.900				Wang Yuyang immediately rushed inside Fang Haijun's home. A series of emergency measures was quickly commenced -- sterilization, stopping the bleeding, giving oxygen, and providing an infusion.	0	0	0		
+PLA_CMN_20070119.0030	0	70020.000	70029.900				When the condition of the woman in labor changed from dangerous to safe, Wang Yuyang wiped sweat from his forehead, and without bothering to drink a sip of water, started for other homes of his old patients in the village.	0	0	0		
+PLA_CMN_20070119.0030	0	80010.000	80019.900				Unexpectedly, a short while later we heard Fang Haijun's urgent shout: "The baby is dying!" Wang Yuyang immediately turned around and ran back.	0	0	0		
+PLA_CMN_20070119.0030	0	80020.000	80029.900				When he determined that the baby was choking on phlegm in its throat, he decisively bent down and gave mouth-to-mouth.	0	0	0		
+PLA_CMN_20070119.0030	0	80030.000	80039.900				In time, the baby uttered a loud cry, and its face slowly turned pink.	0	0	0		
+PLA_CMN_20070119.0030	0	80040.000	80049.900				At this time, Wang Yuyang was coughing himself out of breath.	0	0	0		
+PLA_CMN_20070119.0030	0	90010.000	90019.900				Wang Yuyang never eats meals at the villagers' homes.	0	0	0		
+PLA_CMN_20070119.0030	0	90020.000	90029.900				On this day for lunch, we greatly enjoyed eating together with Wang Yuyang. Each person had two pieces of bread, a jug of water, and a packet of preserved vegetables.	0	0	0		
+PLA_CMN_20070119.0030	0	100010.000	100019.900				On the way back, this writer asked Wang Yuyang whether he was tired. Passionately, he spoke about something that happened in March last year. He was hospitalized for treatment on his neck, and when the people in the area heard about it, 13 villager representatives took a special train trip to visit him.	0	0	0		
+PLA_CMN_20070119.0030	0	100020.000	100029.900				These villagers, who normally went without even meat and eggs, bought cereal, walnut power, and other nutritional supplements.	0	0	0		
+PLA_CMN_20070119.0030	0	100030.000	100039.900				Wang Yuyang said that whenever he thinks of these things, he feels warm at heart.	0	0	0		
+PLA_CMN_20070119.0030	0	110010.000	110019.900				After returning to the unit clinic, Wang Yuyang opened his "medical visit log" and recorded that day's details: Uncle Wang's asthma had not emerged for a week; Granny Li's arthritis did not respond very much to the painkilling cream; and Uncle Zhao's lower back pain was much better than last time...	0	0	0		
+PLA_CMN_20070119.0030	0	120010.000	120019.900				(Staff Report, Shijiazhuang, January 17)	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.0148	0	3300.0	3400.0	speaker	unknown	unknown	安翔北路306医院路口(不含)至北辰西路两侧辅路。	0	0	0		

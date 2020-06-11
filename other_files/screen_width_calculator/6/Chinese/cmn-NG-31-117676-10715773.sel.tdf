@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117676-10715773	0	300.0	400.0	speaker	unknown	unknown	还有，有没有可能在不同的服务器上做到会话共享呢？	0	0	0		

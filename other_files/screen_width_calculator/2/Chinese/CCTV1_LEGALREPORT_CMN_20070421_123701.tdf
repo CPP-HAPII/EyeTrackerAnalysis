@@ -1,0 +1,230 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 215.44499999999999, 259.09100000000001, 665.92399999999998, 681.40800000000002, 1250.6310000000001, 9999999.0]
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	215.445	219.273	speaker#1	male	native	在德国王致和发现又有了一个王致和。	1	1	1	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	219.914	225.789	speaker#2	female	native	就是说已经有一家，这个德国的这个公司注册了，当时很意外。	1	2	3	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	226.929	229.866	speaker#1	male	native	是谁在德国注册了王致和商标，	1	3	5	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	229.866	232.194	speaker#1	male	native	他们为什么要注册这个商标？	1	3	6	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	232.194	235.663	speaker#1	male	native	北京的王致和公司又遇到怎样的尴尬？	1	3	7	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	236.304	238.944	speaker#1	male	native	今日说法为您播出。谁是王致和。	1	3	9	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	259.091	262.029	speaker#3	male	native	各位好，这里是今日说法，欢迎您进入我们今天的节目。	2	4	11	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	262.029	266.779	speaker#3	male	native	我们今天请到演播室的嘉宾是中国社会科学院的李明德教授。	2	4	12	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	266.779	270.441	speaker#3	male	native	李老师在节目开始之前，呃我们先来看一段画面，	2	4	13	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	270.441	273.950	speaker#3	male	native	涉及到我们大家都非常熟悉的一种食品。	2	4	14	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	276.746	279.559	speaker#4	male	native	王致和是著名的中华老字号，	2	5	16	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	279.559	285.086	speaker#4	male	native	北京王致和公司的主要产品，酱豆腐，臭豆腐等腐乳制品历史悠久。	2	5	17	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	287.538	290.663	speaker#3	male	native	王致和在中国是有名的百年老店，	2	6	19	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	290.663	295.788	speaker#3	male	native	没想到最近却陷入到为自己的商标打官司的怪圈儿，	2	6	20	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	295.788	297.897	speaker#3	male	native	来看一下今天的记者调查。	2	6	21	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	299.569	303.992	speaker#4	male	native	二零零六年七月，王致和公司准备正式登陆欧洲市场，	2	7	23	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	303.992	307.367	speaker#4	male	native	公司派人到欧洲各国注册自己的商标，	2	7	25	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	308.149	311.579	speaker#4	male	native	当他们来到德国专利和商标局时，吃了一惊。	2	7	27	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	313.329	316.736	speaker#2	female	native	他们这时候就被告知呢就是已经有一家，	2	8	29	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	316.736	320.971	speaker#2	female	native	这个德国的这个公司注册了，当时很意外啊。	2	8	30	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	322.502	326.190	speaker#4	male	native	原来在王致和公司来到德国之前的四个月，	2	9	32	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	326.190	328.972	speaker#4	male	native	王致和这个商标已经被注册过了。	2	9	33	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	329.722	333.941	speaker#4	male	native	是谁会在王致和公司之前抢先注册这枚商标呢？	2	9	35	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	335.925	337.565	speaker#5	male	native	(())抢注人呢在在这儿，	2	10	37	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	337.565	341.048	speaker#5	male	native	欧凯，进出口公司。	2	11	39	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	337.565	341.048	speaker#6	male	native	这上面写的是欧凯，这应该进出口公司，	2	11	38	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	341.048	342.626	speaker#5	male	native	然后地址呢是在柏林。	2	12	40	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	342.626	348.150	speaker#2	female	native	一了解呢就是这个公司它实际上经营中，经营中国商品为主的一小超市。	2	13	41	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	349.307	353.494	speaker#4	male	native	欧凯公司是德籍华裔人士开办的一家公司。	2	14	43	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	353.494	359.494	speaker#4	male	native	旗下超市销售的产品大多来自中国。 其中就包括王致和公司的产品。	2	14	44	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	360.229	363.385	speaker#4	male	native	王致和公司的所有产品上都有这样的一个商标。	2	14	47	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	364.275	367.338	speaker#4	male	native	这是欧凯公司在德国注册的那枚商标。	2	14	49	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	367.947	372.713	speaker#4	male	native	二者比较，无论是头像还是中英文的书写方式都一模一样。	2	14	51	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	373.651	377.619	speaker#4	male	native	欧凯公司先于王致和公司拥有了这枚商标的所有权，	2	14	53	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	377.619	382.492	speaker#4	male	native	这就意味着在德国王致和公司不能直接销售自己的产品，	2	14	54	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	382.492	385.882	speaker#4	male	native	否则就是违法的，这可不是一件小事儿。	2	14	55	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	387.483	407.810	speaker#7	female	nonnative	<foreign lang="unknown"> (()) </foreign>	2	15	57	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	408.622	411.732	speaker#4	male	native	记者在德国街头拍摄到的一些场景耐人寻味，	2	16	59	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	412.513	415.872	speaker#4	male	native	这里就是欧凯公司下属的一家连锁超市。	2	16	61	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	416.528	421.607	speaker#4	male	native	透过玻璃我们看到标有王致和商标的产品码放在欧凯超市里，	2	16	63	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	423.778	426.559	speaker#4	male	native	记者还从超市中买出了一些商品。	2	16	65	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	427.981	431.262	speaker#4	male	native	这些王致和腐乳显然不是欧凯公司的产品，	2	16	67	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	431.262	434.012	speaker#4	male	native	而是北京王致和集团公司出产的。	2	16	68	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	435.309	442.169	speaker#4	male	native	尽管王致和公司是商品的生产者， 现在却要听命于把持着商标权的欧凯公司，	2	16	70	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	442.169	447.559	speaker#4	male	native	面对在德国的这种尴尬，王致和公司决定派律师与欧凯公司沟通。	2	16	72	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	448.387	451.883	speaker#2	female	native	回避，他回避。我们就通过律师来找他嘛，	2	17	74	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	451.883	453.945	speaker#2	female	native	不接受，啊，他不接受沟通。	2	17	75	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	454.773	460.929	speaker#4	male	native	王致和商标在德国被抢注的事情很快传回了国内，公司上下一片不安，	2	18	77	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	460.929	468.132	speaker#4	male	native	公司员工们认为，王致和这个字号是老祖宗传下来的财富，天经地义就该是他们的。	2	18	78	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	468.132	471.460	speaker#4	male	native	怎么现在轻而易举地就归了别人呢？	2	18	79	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	473.508	477.090	speaker#8	male	native	王致和 那你你说多少年的历史了。	2	19	81	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	477.887	484.294	speaker#8	male	native	实在是这个牌子本来是中国的， 跑到外国去了， 你，这玩意儿你心里头能平复么？	2	19	85	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	484.997	489.302	speaker#9	male	native	把咱们这个国产这个名牌而倒是它给霸了去，	2	20	89	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	489.302	492.240	speaker#9	male	native	是不是这根本就不合理啊是不是？	2	20	90	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	492.865	497.490	speaker#4	male	native	王致和公司介绍，王致和老字号的历史最早要从这幅图说起。	2	21	92	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	497.490	501.631	speaker#4	male	native	这是清朝康熙年间北京延寿四街的概图，	2	21	93	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	501.631	507.162	speaker#4	male	native	三百多年前，弃文从商的王致和 在这里开办了王致和((南酱盐))。	2	21	94	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	507.162	510.772	speaker#4	male	native	王致和的字号第一次出现在北京城里。	2	21	96	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	510.772	518.896	speaker#4	male	native	可能让先人王致和不曾料到的是 三百多年后这个字号居然在万里之外的德国会引发一场纷争。	2	21	97	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	520.412	523.600	speaker#4	male	native	如今的延寿四街已经改名为延寿街，	2	21	100	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	523.600	526.022	speaker#4	male	native	有位老人从小就住在这里，	2	21	101	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	526.022	530.365	speaker#4	male	native	六十多年前，他就是靠卖王致和腐乳为生的。	2	21	102	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	531.709	533.740	speaker#10	male	native	买完了以后(())您在往外卖。	2	22	104	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	533.740	534.599	speaker#11	male	native	哎来卖的。	2	23	105	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	534.599	536.333	speaker#11	male	native	(())	2	23	106	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	536.333	538.052	speaker#10	male	native	您出门吆喝吆喝吗？	2	24	107	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	538.052	538.864	speaker#11	male	native	也吆喝啊。	2	25	108	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	538.864	539.755	speaker#10	male	native	怎么吆喝啊？	2	26	109	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	539.755	541.644	speaker#11	male	native	臭豆腐酱豆腐	2	27	110	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	541.644	542.129	speaker#10	male	native	啊？	2	28	111	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	542.129	543.551	speaker#11	male	native	王致和臭豆腐。	2	29	112	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	545.238	550.316	speaker#4	male	native	半个多世纪前老人把王致和腐乳带给了街上的四邻八舍，	2	30	114	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	550.316	554.933	speaker#4	male	native	从那时起，王致和这三个字就成为他心中的一种情结，	2	30	115	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	554.933	560.964	speaker#4	male	native	老人不明白王致和这个字号到底属于谁，居然也能成了一个问题。	2	30	116	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	563.042	563.855	speaker#11	male	native	想不到。	2	31	118	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	563.855	568.277	speaker#11	male	native	(())咱们中，咱们中国(())他那儿卖去。	2	31	119	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	568.277	570.792	speaker#11	male	native	(())对吧？	2	31	120	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	572.073	578.058	speaker#3	male	native	李老师我们现在看到王致和在德国被注册了，呃王致和公司的人都很愤怒。	2	32	122	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	578.058	582.230	speaker#3	male	native	德国那家公司抢注了王致和的商标在德国。	2	32	123	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	582.230	585.136	speaker#3	male	native	这种行为是不是违法行为。	2	32	124	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	586.042	588.995	Li_mingde	male	native	嗯，应该说是有法律的依据，	2	33	126	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	588.995	590.042	speaker#3	male	native	怎么讲？	2	34	127	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	590.042	596.554	Li_mingde	male	native	那么是这样，就是说知识产权， 包括商标权， 它有它的地域性。	2	35	128	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	594.288	594.788	speaker#3	male	native	嗯。	2	36	130	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	596.554	602.861	Li_mingde	male	native	比如说王致和 在中国注册 那么它的权利范围仅限于中国，	2	37	132	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	598.120	598.541	speaker#3	male	native	嗯。	2	38	133	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	599.502	599.908	speaker#3	male	native	嗯。	2	40	135	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	602.861	603.169	speaker#3	male	native	嗯。	2	42	137	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	603.169	604.720	Li_mingde	male	native	受到的保护也在中国。	2	43	138	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	604.720	605.376	speaker#3	male	native	嗯嗯嗯。	2	44	139	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	605.376	617.266	Li_mingde	male	native	那么别人利用 这个知识产权这样的一种地域性， 他在那个地方注册， 他就有可能 成为这个商标权利人。	2	45	140	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	610.095	610.517	speaker#3	male	native	嗯。	2	46	143	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	612.126	612.532	speaker#3	male	native	嗯。	2	48	145	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	617.266	620.563	speaker#3	male	native	我们也看到了在德国是一家公司注册了这个商标，	2	50	149	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	620.563	620.893	Li_mingde	male	native	嗯。	2	51	150	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	620.893	627.704	speaker#3	male	native	那么这个注册一旦成立之后， 王致和自己的产品 进入德国会有哪些限制？	2	52	151	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	627.704	637.033	Li_mingde	male	native	那么在这种情况下，他有权利 拒，就是说说是不让这个真正的王致和的产品，进入他的，进入德国这个国家。	2	53	155	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	637.033	637.611	speaker#3	male	native	嗯嗯嗯。	2	54	158	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	637.611	639.970	Li_mingde	male	native	他可以把这个产品挡在这个海关之外，	2	55	159	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	639.970	640.407	speaker#3	male	native	嗯嗯。	2	56	160	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	640.407	643.939	Li_mingde	male	native	甚至你进去了以后， 他可以诉你侵犯商标权。	2	57	161	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	643.939	644.705	speaker#3	male	native	嗯嗯嗯。	2	58	163	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	644.705	648.502	speaker#3	male	native	对于王致和来说， 呃以前王致和算是个小作坊，	2	58	164	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	648.502	651.033	speaker#3	male	native	现在不是小作坊，现在已经是大公司了。	2	58	166	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	651.033	657.955	speaker#3	male	native	而且王致和这个品牌包括它的商标， 也被国家工商总局认定为中国驰名商标。	2	58	167	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	657.955	665.924	speaker#3	male	native	现在就是这个商标在被德国注册之后， 实力雄厚的王致和自然不会善罢甘休。	2	58	169	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	665.924	667.690	speaker#1	male	native	商标权被侵犯，	3	59	171	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	667.690	670.596	speaker#1	male	native	王致和公司在德国诉讼维权，	3	59	172	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	670.596	673.564	speaker#1	male	native	多家老字号海外遭到抢注，	3	59	173	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	673.564	676.658	speaker#1	male	native	老字号企业又当怎样应对？	3	59	174	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	676.658	680.064	speaker#1	male	native	谁是王致和，今日说法继续播出。	3	59	175	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	681.408	686.345	speaker#12	male	native	过去工艺美院的一个专家专门搞企业形象的专家叫黄维，	4	60	177	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	686.345	693.016	speaker#12	male	native	他来给我们企业呃经过两年，两年的磨合， 然后呢搞了这个企业形象。	4	60	178	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	693.016	695.969	speaker#12	male	native	大书法家((刘丙森))写的字。	4	60	180	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	696.531	703.234	speaker#4	male	native	从一九九六年以后， 王致和公司就开始使用这套商标， 并享有商标设计的著作权。	4	61	182	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	703.859	709.328	speaker#4	male	native	而欧凯公司注册的商标与王致和的这套商标竟然完全一致，	4	61	186	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	709.328	713.608	speaker#4	male	native	王致和公司的人认为这道理走到哪儿也是讲不通的。	4	61	187	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	715.796	722.124	speaker#2	female	native	从保护这个民族工业的品牌， 保护老字号的角度出发， 我们就绝对是要据理力争的。	4	62	189	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	723.015	728.593	speaker#4	male	native	二零零六年年底，王致和公司在德国慕尼黑地方法院起诉了欧凯公司，	4	63	193	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	728.593	737.283	speaker#4	male	native	要求法院判定，欧凯公司撤销王致和商标或把商标转让给王致和公司，并且赔偿相关损失。	4	63	194	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	738.142	742.814	speaker#4	male	native	二零零七年一月，慕尼黑地方法院受理了王致和公司的诉讼申请。	4	63	196	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	744.033	746.532	speaker#5	male	native	两千零七年的 八月八号。	4	64	198	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	745.484	746.532	speaker#6	male	native	八月八号。	4	65	200	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	746.532	748.815	speaker#5	male	native	上午十一点， 十一点多。	4	66	201	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	748.815	750.035	speaker#6	male	native	十一点零十五分。	4	67	204	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	750.035	752.600	speaker#5	male	native	哎十一点十五分在五零幺法庭。	4	68	205	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	752.600	753.272	speaker#6	male	native	哦。	4	69	206	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	753.272	756.981	speaker#6	male	native	这就意味着那一天是你们正式开战的第一天。	4	69	207	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	756.981	758.398	speaker#5	male	native	对。正式交锋了。	4	70	208	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	759.616	763.006	speaker#13	male	native	中华老字号王致和商标去年在德国被抢注，	4	71	210	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	763.006	766.538	speaker#13	male	native	王致和集团决定通过诉讼追讨商标权，	4	71	211	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	766.538	769.400	speaker#13	male	native	这是中华老字号第一次走出国门。	4	71	212	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	770.962	778.009	speaker#4	male	native	二零零七年一月底， 中央电视台报道了王致和公司为夺回商标权而在德国提起诉讼的新闻。	4	72	214	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	778.009	780.587	speaker#4	male	native	全球华人对此都十分关注，	4	72	216	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	780.587	783.431	speaker#4	male	native	但是这场官司打赢并不容易。	4	72	217	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	784.853	786.775	speaker#5	male	native	法官呢就是在德国法庭，	4	73	219	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	786.775	787.947	speaker#5	male	native	法官是德国人，	4	73	220	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	787.947	794.650	speaker#5	male	native	他不了解这个王致和知名度， 也不知道到底欧凯是不是有这样的一个恶意。	4	73	221	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	795.337	801.790	speaker#4	male	native	另外在慕尼黑法院立案后， 欧凯公司的回应似乎也暗示着这场法律纠纷的复杂性。	4	74	224	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	804.603	807.290	speaker#14	female	native	他们认为你们是恶意抢注，您同意这一说法吗？	4	75	227	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	807.290	808.411	speaker#15	male	native	不同意，不同意。	4	76	228	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	808.411	809.973	speaker#14	female	native	呃为什么不同意。	4	77	230	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	808.411	809.973	speaker#15	male	native	无稽之谈。	4	77	229	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	811.036	813.817	speaker#4	male	native	这份法律文书是欧凯公司的答辩意见，	4	78	233	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	813.817	822.786	speaker#4	male	native	他们强调根据德国的法律， 王致和商标只要在德国没有注册过， 那么欧凯公司注册这一商标就是合法行为。	4	78	234	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	824.370	842.227	speaker#16	male	nonnative	<foreign lang="unknown"> (()) </foreign>	4	79	238	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	843.664	847.945	speaker#4	male	native	王致和公司却认为虽然欧凯公司的注册程序看似没有问题，	4	80	240	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	847.945	852.179	speaker#4	male	native	北京王致和公司也从未在德国注册过王致和这个商标，	4	80	241	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	852.179	855.554	speaker#4	male	native	但是王致和商标在中国是驰名商标，	4	80	242	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	855.554	860.351	speaker#4	male	native	根据德国法律，欧凯公司注册这种商标其动机是值得怀疑的。	4	80	243	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	860.351	864.226	speaker#4	male	native	对于这个观点德国商标和专利局的官员予以了肯定。	4	80	244	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	866.132	886.252	speaker#16	male	nonnative	<foreign lang="unknown"> (()) </foreign>	4	81	246	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	886.846	897.426	speaker#4	male	native	王致和公司进一步指出， 虽然王致和商标在德国不算驰名商标， 但是在德国生活的华人，很少有不知道王致和这个品牌的。	4	82	248	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	898.160	899.645	speaker#17	female	native	知道王致和这个商标吗？	4	83	252	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	899.645	900.239	speaker#18	male	native	知道。	4	84	253	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	900.239	901.802	speaker#19	female	native	应该都知道。	4	85	254	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	901.802	904.396	speaker#19	female	native	估计至少百百分之八九十以上吧。	4	85	255	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	905.083	910.240	speaker#4	male	native	更何况欧凯公司自己的超市也在出售着王致和公司的产品。	4	86	257	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	910.240	912.959	speaker#4	male	native	他们显然知道王致和商标的知名度。	4	86	258	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	914.318	929.192	speaker#20	male	native	<foreign lang="unknown"> (()) </foreign>	4	87	260	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	929.926	941.301	speaker#20	male	native	<foreign lang="unknown"> (()) </foreign>	4	87	262	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	942.020	953.788	speaker#3	male	native	李老师在这个案子里面我们也看到了德国那家公司对于王致和这个商标的注册啊， 既包括了王致和这三个字，同时也包括了涉及到这个商标的所有图案。	4	88	264	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	953.788	956.554	speaker#3	male	native	那么这种行为从法律上来讲应该怎么界定？	4	88	266	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	957.273	959.101	Li_mingde	male	native	应该是具有恶意，	4	89	268	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	960.117	972.084	Li_mingde	male	native	那么按照这个巴黎公约的规定， 还有世界贸易组织知识产权协议的规定， 就是说被注册的驰名商标， 其他成员国也应当给予保护。	4	89	270	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	968.443	968.818	speaker#3	male	native	嗯。	4	90	273	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	972.084	972.522	speaker#3	male	native	嗯。	4	92	275	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	972.522	978.193	Li_mingde	male	native	那么其次呢就是涉及到这个案子， 那么其实还有另外一个著作权的问题，	4	93	276	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	974.928	975.381	speaker#3	male	native	嗯。	4	94	277	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	979.037	983.208	Li_mingde	male	native	我们说任何一个商标，有可能首先是一部作品，	4	95	280	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	983.208	983.583	speaker#3	male	native	对。	4	96	281	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	983.583	996.432	Li_mingde	male	native	那么所以说在这种情况之下， 他尽管注册了商标， 但是我们这个官司要去打的话， 就除了从这个驰名商标， 未注册驰名商标这个角度 去打。	4	97	282	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	987.396	987.864	speaker#3	male	native	嗯嗯。	4	98	284	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	995.760	996.432	speaker#3	male	native	嗯嗯。	4	100	289	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	996.432	999.810	Li_mingde	male	native	还可以从这个版权的角度 去主张。	4	101	290	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	998.816	999.191	speaker#3	male	native	嗯。	4	102	291	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	999.810	1000.263	speaker#3	male	native	嗯。	4	104	293	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1000.263	1005.247	speaker#3	male	native	王致和公司为了自己商标的权利，打算把这场官司打到底。	4	104	294	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1005.247	1008.934	speaker#3	male	native	我们也和大家一起关注呃这个具体的个案。	4	104	295	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1008.934	1017.284	speaker#3	male	native	不过这些年像王致和这样的中华老字号，老品牌，呃被其他国家抢注的不在少数。	4	104	296	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1017.284	1022.065	speaker#3	male	native	我们记者在采访的时候，也尽可能地针对这些情况进行了了解。	4	104	297	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1025.181	1027.775	speaker#4	male	native	这是国家商业联合会提供的一份资料，	4	105	299	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1027.775	1032.135	speaker#4	male	native	上面归纳了近年来老字号商标在海外遭抢注的大体情况。	4	105	300	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1032.792	1036.222	speaker#4	male	native	在加拿大桂发祥十八街，六必居被抢注，	4	105	302	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1036.222	1040.488	speaker#4	male	native	在日本狗不理，同仁堂，杜康，一得阁遭抢注。	4	105	303	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1040.488	1043.269	speaker#4	male	native	在欧洲，红星，王致和遭抢注。	4	105	304	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1046.381	1049.725	speaker#21	male	native	就是目前我们已经掌握的大概这么不到二十家。	4	106	306	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1050.647	1055.146	speaker#4	male	native	其中桂发祥十八街在加拿大遭抢注的案件很有典型意义，	4	107	308	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1055.146	1058.819	speaker#4	male	native	桂发祥公司生产的麻花是天津的特色糕点，	4	107	309	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1058.819	1064.466	speaker#4	male	native	桂发祥十八街的字号已经有了上百年的历史，是我国著名的老字号之一。	4	107	310	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1065.153	1071.935	speaker#4	male	native	四年前，桂发祥公司偶然发现一家公司在加拿大注册了桂发祥十八街这个商标。	4	107	312	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1071.935	1077.575	speaker#4	male	native	令人惊讶的是注册这个商标的公司名字就叫中华老字号公司。	4	107	313	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1079.341	1083.169	speaker#21	male	native	像类似我们桂发祥，冠生园，六必居他都有注册。	4	108	315	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1084.622	1087.544	speaker#4	male	native	中华老字号公司是一家加拿大的企业，	4	109	317	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1087.544	1093.154	speaker#4	male	native	他们的主营业务居然就是明目张胆地在加拿大抢注中华老字号。	4	109	318	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1093.154	1098.685	speaker#4	male	native	面对这种行为，桂发祥公司向加拿大商标注册局提出了异议。	4	109	319	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1099.841	1106.389	speaker#21	male	native	二零三年十月份， 这个加拿大商标局呃它搞一个答辩，	4	110	321	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1107.045	1110.795	speaker#21	male	native	答辩的这个在加拿大注册的这个企业，	4	110	324	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1110.795	1114.733	speaker#21	male	native	呃老字号注册公司呢，他没有去，	4	110	325	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1115.389	1117.608	speaker#21	male	native	加拿大商标局视为他弃权。	4	110	327	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1118.389	1124.889	speaker#21	male	native	所以在这种情况下呢， 我们就注册了我们正式的桂发祥这商标。	4	110	329	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1125.577	1129.687	speaker#4	male	native	桂发祥公司通过法律途径赢回了本就属于自己的商标。	4	111	332	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1129.687	1136.781	speaker#4	male	native	但是像桂发祥，王致和一样， 拿起法律武器保护自己权利的老字号企业并不多见。	4	111	333	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1136.781	1140.263	speaker#4	male	native	大多数的老字号企业选择了沉默应对，	4	111	335	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1140.263	1142.716	speaker#4	male	native	有的甚至放弃了某些国家的市场。	4	111	336	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1143.901	1148.728	speaker#22	male	native	有些就觉得我现在的在国内市场为主，我并不想涉及那个市场，	4	112	338	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1148.728	1153.763	speaker#22	male	native	所以这样呢你去注册注册有一部分企业，甚至居多企业目前是这种想法。	4	112	339	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1154.419	1160.247	speaker#4	male	native	王洋认为，随着我国国力的增强， 中华老字号也逐渐为世界所认知和熟悉，	4	113	341	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1160.247	1174.342	speaker#4	male	native	当老字号的品牌影响力在国际上不断扩大的时候， 某些商人也会看中老字号拥有的商机。 设法从中谋利，因此老字号企业应当极早树立知识产权的保护意识。	4	113	343	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1177.131	1181.647	speaker#22	male	native	已经或者发展在国际市场这个发展当中的道路应该是不平坦的，	4	114	347	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1181.647	1187.522	speaker#22	male	native	应该以现在有这个意识去把你的商标在海外去注册了，	4	114	348	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1187.522	1190.975	speaker#22	male	native	这样的话呢有意识地来保护你的支持产权。	4	114	349	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1190.975	1197.600	speaker#3	male	native	李老师像这种国内的老字号， 呃在国外被注册的事情这些年真是不少见，	4	115	350	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1197.600	1203.647	speaker#3	male	native	而有些企业呢是努力维权， 但是有些企业呢还真就是不闻不问了。	4	115	352	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1203.647	1217.991	Li_mingde	male	native	你究竟是花一小笔钱 雇人走这个程序 把 它注册下来好， 还是说别人抢注了你的， 你自己产品进不去你丧失了一个市场好？	4	116	354	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1210.296	1210.655	speaker#3	male	native	嗯。	4	117	358	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1217.991	1218.601	speaker#3	male	native	嗯嗯嗯。	4	119	363	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1218.601	1221.523	Li_mingde	male	native	这个里头要有一个呃平衡选择。	4	120	364	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1221.523	1222.132	speaker#3	male	native	嗯嗯嗯。	4	121	365	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1222.132	1225.850	Li_mingde	male	native	所以说就我个人来看，我们还是应该去做。	4	122	366	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1225.850	1226.285	speaker#3	male	native	嗯嗯。	4	123	367	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1226.285	1229.287	Li_mingde	male	native	应该去花费这样的时间和精力。	4	124	368	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1229.287	1233.771	speaker#3	male	native	我们今天的这个个案呢，就算是给企业提个醒吧，	4	125	369	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1233.771	1239.568	speaker#3	male	native	可能很多企业需要仔细地反思一下，自己究竟应该为自己的商标做些什么？	4	125	370	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1239.568	1245.599	speaker#3	male	native	好让自己在未来的世界经济格局当中，能够扮演应该扮演的角色。	4	125	371	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1245.599	1248.756	speaker#3	male	native	感谢您收看今天的节目，感谢李老师参与现场讨论。	4	125	372	report	
+CCTV1_LEGALREPORT_CMN_20070421_123701	0	1248.756	1250.631	speaker#3	male	native	明天同一时间今日说法再见。	4	125	373	report	

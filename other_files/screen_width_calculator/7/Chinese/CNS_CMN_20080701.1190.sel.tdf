@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.1190	0	1500.0	1600.0	speaker	unknown	unknown	世界上著名的反美斗士──委内瑞拉、朝鲜、古巴、白俄罗斯等均与伊朗找到了共同语言。	0	0	0		

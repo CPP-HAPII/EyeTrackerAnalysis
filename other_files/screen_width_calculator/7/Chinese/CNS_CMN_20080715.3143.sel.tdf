@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080715.3143	0	200.0	300.0	speaker	unknown	unknown	昨天，河南明韬实业有限公司工作人员田某向本报反映，称他找新密曲梁服装城负责人肖某讨要工程管理款时，肖某竟指示司机用自己的奔驰车将其撞伤。	0	0	0		
+CNS_CMN_20080715.3143	0	300.0	400.0	speaker	unknown	unknown	记者对此事采访时，奔驰轿车车主肖某称，当时田某等几个人拦着他的车不让走，并且趴在他的车上，不得已才这样做的。	0	0	0		
+CNS_CMN_20080715.3143	0	700.0	800.0	speaker	unknown	unknown	田某认为，他代表公司合法讨要工程管理款，身为新密市人大代表的肖某却示意司机用车将自己撞伤，他实在接受不了这个事实。	0	0	0		
+CNS_CMN_20080715.3143	0	800.0	900.0	speaker	unknown	unknown	昨天下午，记者拨通了新密曲梁服装城负责人肖某的手机，他表示自己目前在浙江，10天后才能回来。	0	0	0		
+CNS_CMN_20080715.3143	0	1000.0	1100.0	speaker	unknown	unknown	肖某认可了自己是新密市人大代表的身份以及和明韬实业有限公司签订合同的事实。	0	0	0		
+CNS_CMN_20080715.3143	0	1100.0	1200.0	speaker	unknown	unknown	谈到为何不按合同结算款项以及不退还保证金的问题，肖某说，由于明韬公司管理的工程质量有问题，所以就不结算款项还要扣留对方保证金。	0	0	0		
+CNS_CMN_20080715.3143	0	1200.0	1300.0	speaker	unknown	unknown	对这种说法，明韬公司的田某表示，如果肖某认为工程质量有问题，可以找有关质检部门进行鉴定，但是肖某一直不肯这样做。	0	0	0		
+CNS_CMN_20080715.3143	0	1300.0	1400.0	speaker	unknown	unknown	按照有关规定，工程竣工6个月就必须交由质检部门进行检验，“我们希望肖某进行质量检验”。	0	0	0		
+CNS_CMN_20080715.3143	0	1400.0	1500.0	speaker	unknown	unknown	记者从新密市人大证实了肖某新密市人大代表的身份。	0	0	0		

@@ -1,0 +1,103 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', u'report', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 46.792999999999999, 101.747, 151.785, 334.05700000000002, 744.851, 914.10299999999995, 2744.2730000000001, 2790.7739999999999, 3547.5590000000002, 3574.777, 3925.0819999999999, 4038.2249999999999, 4530.4440000000004, 5167.5940000000001, 5473.0280000000002, 5581.6310000000003, 5987.1499999999996, 6468.29, 6838.5240000000003, 7157.4089999999997, 7410.2250000000004, 9999999.0]
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	119.934	127.263	Zheng_Gong_Cheng	male	native	就是由我们过去逐步的改革和调整,实验,到 (()) 前面建立这个制度的关键时期	2	4	11	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	140.561	144.645	Zheng_Gong_Cheng	male	native	这是社会保障 (()) 目标就是公平两个字	2	5	15	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	189.389	192.646	speaker#4	female	native	农民工养老保险办法也将尽快出台	3	7	24	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	375.679	382.461	Zheng_Gong_Cheng	male	native	如果 (()) 全国统筹的层面,那就是这个制度是全国统一的,正像政府是责问制的也是管理本位	4	12	46	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	440.982	452.507	Zheng_Gong_Cheng	male	native	从你参加工作, (()) 社会养老保险费开始,一直到你退休领取养老金,到你死亡为止,所以他有 (()) ,这个制度是 (())	4	15	58	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	665.216	678.739	Zheng_Gong_Cheng	male	native	就从整个社会就业的情况来看呢,应该令零八年应该有所减缓,啊这是我的判断,因为我们上呃前面的五年嘛 (()) 比较大,有关的政策还是产生发挥这个作用	4	24	95	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	852.910	865.480	Jie_Mei_Meng	female	native	因为我从小的愿望就想当个裁剪老师,猛一来头一学期特别困难,等到第二学期就有点希望了, (()) ,因为这个就业想好把握了	5	37	125	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	877.416	892.030	speaker#12	male	native	今年他说外地企业由劳动用工协议, (()) 两万五千人,下一月我们学员毕业以后都可以 (()) 企业里边去工作	5	39	127	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	892.030	903.796	speaker#12	male	native	在 (()) 时间我们有对每个人签订务工安置协议书,有什么困难可以给我们打电话,我们终身给你们做好维权服务	5	39	128	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	1335.685	1355.715	Chang_Ting	female	native	呃这位网友他说我在国外留学过,感觉国外的中专技校或者职业教育毕业后的学生,能够很好的就业,而且很对口,在咱们国家就不行,大学生 (()) ,找不到工作,职业学校也没人报,但是呢另一方面工厂用高薪的聘请成熟技工却还招不到人	6	74	195	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	1450.033	1458.253	Bai_Yan_Song	male	native	高了 {laugh} ,对	6	77	209	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	1588.432	1606.172	Zheng_Gong_Cheng	male	native	一个就是我们的社会保障,你不要让人进了机关事业单位,生老病死都有保障,福利的 (()) 很高,我到了民营企业我到了落后地区,我整个的福利保障我对未来的这种安全预期他处在不确定的状态	6	81	229	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	1606.172	1609.838	Zheng_Gong_Cheng	male	native	自然的,对, (()) ,嗯	6	81	231	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	1609.838	1616.153	Zheng_Gong_Cheng	male	native	所以在制度安排上呢我想一个是公平就业 (()) 大的力气	6	81	233	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	1798.932	1808.603	speaker#17	male	native	(()) 跟我说了一个数据,他对这个大学毕业生到他企业里面,能够留住的只有百分之 (()) ,百分之九十是要跳槽	6	89	257	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	2089.485	2093.061	Zheng_Gong_Cheng	male	native	{laugh} 对	6	97	285	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	2093.061	2109.322	Zheng_Gong_Cheng	male	native	但是他不能够作为我们国家劳动力供大于求,就业岗位 (()) 跟不上劳动者的需求这样一个根本性的格局没有改变,所以就业难还依然是我们的主要面	6	98	286	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	2194.211	2206.002	Zheng_Gong_Cheng	male	native	呃这个也是动态啊,就是我们现在 (()) 解决的现在的招工难,将来还会,这个结构性的矛盾呢在呃应该说在很多国家都存在	6	100	300	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	2521.753	2525.707	Cai_Da_Feng	male	native	他的 (()) 呃实际存在的问题和表现方式都不太一样	6	116	341	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	2674.648	2684.234	Cai_Da_Feng	male	native	如果没有这样的 (()) 的话,呃问题可能不会这么早的发现,而且解决问题的方式呢就很难保证是很科学	6	122	359	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3169.278	3177.745	Zheng_Gong_Cheng	male	native	养老保险因为涉及到人的一生,涉及到安度晚年,嗯, (())	8	132	408	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3169.278	3177.745	Bai_Yan_Song	male	native	每人离不开,每个人贯穿一生,到晚年,医疗 (())	8	132	409	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3199.498	3205.959	Bai_Yan_Song	male	native	如果单纯从数字上来看中央财政五年累计补助养老保险专项资金三千二百九十五亿也都很大	8	133	415	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3219.352	3233.277	Zheng_Gong_Cheng	male	native	呃在我们的养老保险制度中间有两大难点,一大难点呢就是参加养老保险的人对整个劳动力队伍,或者是 (()) 劳动年龄的人口,我估计了一下大概也就是百分之二十	8	134	417	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3240.981	3248.680	Zheng_Gong_Cheng	male	native	所以我经常讲的因此这两个百分之二十来说明我们国家的养老保险的覆盖面是非常 (())	8	134	419	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3269.990	3278.023	Zheng_Gong_Cheng	male	native	从零五年开始,刚刚政府实际上是实惠于民, (()) 企业职工的退休老人也分享国家发展成果	8	135	426	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3278.023	3291.211	Zheng_Gong_Cheng	male	native	所以连续三年提高了养老金的标准,但是涨的依然不够,所以从去年中央又决定,从今年开始再连续三年提高企业职工的养老金这个 (())	8	135	428	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3294.320	3298.587	Zheng_Gong_Cheng	male	native	明年呢有可能计划 (()) 一百一十块,后年是每人一百二十块	8	135	432	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3445.988	3454.317	Zheng_Gong_Cheng	male	native	因为他们响应党和政府的号召,少生了孩子 {laugh} ,所以最大的后顾之忧就是老年怎么办	8	135	466	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3574.777	3583.610	speaker#25	female	native	(()) ,我是企业,嗯	10	139	486	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3646.704	3662.393	speaker#27	female	native	谁知道,不是提倡那个就说从今年一月一号也给企业职工涨工资嘛,连续三年嘛,我赞成 {laugh} ,虽然我事业单位的,但是人企业单位有点比较低,所以连续三年给他们调整,我觉得应该	10	140	512	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3662.393	3667.501	Li_Xiao_Meng	female	native	{laugh} 那看着别人涨了自己没涨啊,者涨到幅度小啊	10	140	513	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3662.393	3667.501	speaker#27	female	native	{laugh} (())	10	140	514	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3667.501	3673.861	speaker#27	female	native	我们也会涨, (()) 北京市不是给那个生活补贴嘛, (())	10	140	516	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3686.654	3696.441	speaker#27	female	native	那,嗯,高级工程师,原来科技大毕业的, (()) 我觉得应该给他们涨,我们支持 {laugh} , (()) 事业单位没这么说	10	140	522	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3705.340	3710.605	Li_Xiao_Meng	female	native	但是对于两种保险制度不一样 (())	10	140	529	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3719.716	3722.979	Li_Xiao_Meng	female	native	{laugh}	10	141	537	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3719.716	3722.979	speaker#26	male	native	呃还行吧,就是比较笨一点 {laugh}	10	141	538	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3754.156	3757.702	speaker#26	male	native	不是说了连涨三年嘛现在 {laugh}	10	141	556	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3757.702	3763.549	Li_Xiao_Meng	female	native	{laugh} ,呃你老伴也退休了吧	10	141	557	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3757.702	3763.549	speaker#26	male	native	报纸上,电视上说,你们老宣传嘛 {laugh}	10	141	558	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3789.032	3807.102	Li_Xiao_Meng	female	native	嗯, {laugh}	10	141	573	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3807.102	3817.533	Li_Xiao_Meng	female	native	那你爱人会在这方面开导--开导,安慰--安慰你吗 {laugh} ,嗯	10	141	575	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	3959.937	3964.015	speaker#30	female	native	(()) 袁大爷是家住北京和平里社区的一位退休工人	11	147	605	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4092.714	4100.559	Zheng_Gong_Cheng	male	native	所以国家就针对这样一种局面呢就要采取 (()) 个人帐户这样一种有利的推进的措施	12	153	622	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4102.061	4105.295	Zheng_Gong_Cheng	male	native	否则我们的制度模式他的 (()) 就可能要出现问题的	12	155	624	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4144.488	4153.911	Zheng_Gong_Cheng	male	native	如果我为自己节约的一部分是个空的,那我这个制度的目标就落空了,所以现在是必须要 (()) ,要加快 (()) 这个个人账户	12	155	634	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4202.960	4213.402	Zheng_Gong_Cheng	male	native	(()) 嗯对对对,他会--他会 (()) ,甚至呃致使这个矛盾啊可能激化,也会损害公平	12	155	648	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4202.960	4213.402	Bai_Yan_Song	male	native	有的时候在一家那种不平衡 (()) ,嗯	12	155	649	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4263.955	4274.142	Zheng_Gong_Cheng	male	native	对于养老保障的关注啊你刚谈到不仅是关切到老年人,关心着我们自己甚至关切到子孙后代,因为他涉及到 (()) 负担的公平的问题	12	155	660	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4284.767	4300.948	Zheng_Gong_Cheng	male	native	因为我们的寿命是越来越长,将来我们退休之后的养老的时间也越来越长,所需要耗费的成本也越来越高,这个呢他是要经过长期的积累 (()) ,再加上我们现在的制度安排是垄断结合	12	155	664	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4309.355	4319.858	Zheng_Gong_Cheng	male	native	所以年轻一点加入进去啊,其实对他的养老是更-更加有保障,就是这种保障的力度会更大,保障的 (()) 会更高可以这样讲	12	155	668	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4497.661	4512.302	Bai_Yan_Song	male	native	就像这个也是探索了这么多年之后,新农合慢慢有了一定的眉目,哎 (()) 中央出一点,地方政府出一点,个人出一点,哎最后这个雪球可能就越轨越大,当然这也是在很多的模式当中在向前走的	12	156	706	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4534.477	4544.984	speaker#33	male	native	在这五年里面啊,我最乐意见到的是我国 (()) 的一大群,我们的农民没有被遗忘,得到了照顾	13	158	714	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4582.461	4596.896	speaker#34	female	native	(()) 尤其是反映了农民工的心声,农民工的愿望,农民工的实际困难,农民的期盼	13	159	720	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4610.165	4615.947	speaker#34	female	native	现在农民工养老的保险存在问题不少,比如说参保 (())	13	159	723	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4676.278	4688.855	speaker#35	male	native	我还知道我们今年在人民跟的社会养老保险 (()) 方面,一是国家要解决公共财政的问题,因为现在 (()) 社会养老保险的 (())	13	160	732	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4696.355	4703.995	speaker#35	male	native	允许他们了解一是将他们了解是养老保险的支付和 (())	13	160	734	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4703.995	4713.315	speaker#36	male	native	我在来开会之前呢我们也做过很多的这个农民的这个调查,农民说呢 (()) 现在这个五年国家的政策对我们农民是够好的了	13	161	735	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4713.315	4731.835	speaker#36	male	native	那么现在呢我们有一个要求,他说现在啊我这个 (()) 五年之后,到 (()) 以后呢,我的这个劳动力就该丧失了,可能我就不可能再去--再去劳动了,所以生活呢就没有什么保障	13	161	736	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4731.835	4738.225	speaker#36	male	native	虽然我们这个--这个精神呢 (()) ,我们不能忘了这些老年人	13	161	737	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4738.225	4745.872	speaker#36	male	native	(()) ,够他来-来进行一些补助	13	161	738	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4745.872	4754.991	speaker#36	male	native	(()) 农村的计划生育,现在这个搞计划者要以后呢,基本都是两-两个青年人养四个老人	13	161	739	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4761.834	4772.444	speaker#36	male	native	虽然我们这个就是 (()) ,要求这个就是把这个农民的老人 (()) 国家的社会保障,呃 (())	13	161	742	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4772.444	4776.303	speaker#37	female	native	要建立一个 (()) 农民的生活保障机制	13	162	743	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4776.303	4787.538	speaker#37	female	native	呃建议政府能够出台 (()) 农民生活待遇的强制措施和他的一个法规	13	162	744	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4796.191	4807.547	speaker#38	male	native	据有关资料统计啊,农民医疗费用如果达到 (()) 收入百分之七十的就可能因病致贫	13	163	746	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4819.579	4831.924	speaker#38	male	native	据我们 (()) 调查,在农村的低保户中,也有百分之三十左右家庭是因病致贫的	13	163	749	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4882.167	4904.612	speaker#39	male	native	(()) 全国这个城镇医疗这个卫生改革的试点,那么呢今年就把这也是农村居民啊他的医保这个试点,但是呢核心的问题在卫生方面,往往他贫困家庭呢主要的研究呢就是因病致贫的问题	13	164	753	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4913.109	4936.477	speaker#39	male	native	今年呢我们想出台一个政策,这个政策呢就是呃我们在这个每年财政拿一块资金,就学习借鉴人珠海的经验,就搞一个统一的救助资金,以后呢每年干部捐款就搞一次,不像过去啊经常 (())	13	164	755	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4985.323	4990.719	speaker#40	female	native	平均呢呃一所学校只有九十个 (())	13	165	759	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	4990.719	4996.335	speaker#40	female	native	这个都是我-我前两天从教育部统计 {laugh} 的这个正好这个数字	13	165	760	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5112.626	5128.524	speaker#41	male	native	那么像是政府的采购,啊在同等的条件下面呢也应该优先啊安排呢采购残疾人的福利性这个企业产品,或者是残疾人在福利企业的 (())	13	166	773	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5618.208	5626.100	Bai_Yan_Song	male	native	咱们先说农民工,农民工现在今年我-我们在做节目的时候看到了一个新的情况,在过年之前,当然那雨雪冰冻天气还没来呢	16	177	826	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5705.375	5728.384	Zheng_Gong_Cheng	male	native	也许我十年以后,五年以后才来这里,我不如现在把它退出来,拿到手上是最保险的是吧,我-我觉得他的心里预期啊就是,个是制度问题,一个是心里预期问题造成 (()) ,哎对对对	16	179	837	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5784.708	5795.738	Zheng_Gong_Cheng	male	native	所以虽然退保呢我-我感觉到啊一个是使我们这个制度他丧失了心声的力量, (()) 带来了负面的影响	16	179	855	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5795.738	5810.401	Zheng_Gong_Cheng	male	native	第一个呢更重要的是损害了我们农民工的权益,啊你比方说我们现在按照我们现在的规定,你参加养老保险要缴费要一十五年,你就达到这个领取养老金的最低的年限标准,嗯	16	179	857	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5810.401	5823.610	Zheng_Gong_Cheng	male	native	你如果在深圳打了五年工,交了五年保险费,你如果退保,一是说你那个五年就没有记录,白干了,就是你将来 (()) ,嗯对对对,损害你将来长期的养老金	16	179	859	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5845.642	5855.019	Zheng_Gong_Cheng	male	native	这个好-好比像身份证啊,就是我们有一个 (()) ,因为他制度是分割的这个卡在某种程度上也是他的有效性也是不高的了	16	179	865	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5917.685	5922.733	Zheng_Gong_Cheng	male	native	我们有过调查啊农民工在省里边 (()) 大概要占到百分之六十几	16	179	881	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	5970.424	5974.713	Zheng_Gong_Cheng	male	native	甚至我-我甚至主张要 (()) 就是	16	179	891	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6103.472	6121.632	speaker#47	male	native	所以我觉得作为一个政府,作为二零零八年的整体工作安排的用了这么多的数据,表示了我们的政府是要求大家来对他考核的,是要求大家来对他监督的,而且这些数据的完成能够不能够 (()) 我们政府发挥他的效率和作用	17	183	906	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6121.632	6147.005	speaker#47	male	native	刚才我们有个委员就是关于这个社会保障终身制这个方面,啊我也是有这么一个想法,有个建议能不能够像这有些西方国家实现一个社会保险卡,啊终身制的,全终身他可以随身携带的,你走到哪可以带到哪儿,不管你在任何地方,任何时候, (()) 卡号,可以--可以让你整个社保可以享受终身	17	183	907	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6239.148	6246.958	speaker#49	male	native	就是说作为一个社会保障的这种养老体系,是-是我们劳动部门应该是说政府的一种强制的 (()) 养老体系	17	185	916	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6431.822	6452.078	speaker#53	female	native	那怎么去干呢 {cough} ,政-政府应该在政策上给予优惠,比方说捐赠,凡是捐赠慈善的教育的,或者是文化的,一致免税	17	189	931	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6646.314	6650.785	Bai_Yan_Song	male	native	好谢谢常婷,郑教授这个球又踢回来了 {laugh}	18	192	948	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6646.314	6650.785	Zheng_Gong_Cheng	male	native	{laugh} 这个	18	192	949	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6667.789	6692.398	Zheng_Gong_Cheng	male	native	呃为什么呢因为我们是各个地区是建立的是各个地区的医疗保险制度啊,这一个地区的人到另外一个地方的人去就医,呃应该说他-他的责任啊,他的风险啊是很难以控制的,再加上医疗服务系统,什么以-以药养医啊, (()) 这个--这个价格油价虚高的现象啊都存在啊,所以确实有很多的困难	18	193	952	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6701.907	6718.850	Zheng_Gong_Cheng	male	native	那么什么办法实质上要多管齐下,一点呢应该有相应的规则,要有序,不是说我这个人我在北京呢留到上海去了,我随便到上海哪个医院生病了就能看病,那就是一种无序的状态这个医疗保险的基金可能就 (())	18	195	956	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6726.942	6736.590	Zheng_Gong_Cheng	male	native	第二点,就是要还是要加大基础设施,就是我讲的就是农村的乡村卫生啊,事业的发展,城市的社区的 (())	18	195	958	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6736.590	6747.732	Zheng_Gong_Cheng	male	native	因为这种 (()) 密切联系 (()) 医疗设施往往价格是比较低廉的是吧,这个他的是我们政府应该加大力气要抓的	18	195	959	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6762.223	6779.183	Zheng_Gong_Cheng	male	native	特别地应该切断以药养医, (()) 医药之间的这种利益的链条,如果我到哪个地方就医,医生只开我必要的药方,做必要的检验,那有什么不可以的呢是吧,所以他是一个多管齐下的功能	18	196	962	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6796.095	6806.688	Zheng_Gong_Cheng	male	native	所以由城市到农村的转移,我觉得应该鼓励,由发达地区的人到落后地区去这个异地养老啊 (()) 他应该去可以鼓励就是	18	196	966	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	6981.422	6988.998	speaker#30	female	native	目前养老保险还不能全国漫游,养老保险转移难已经成为众多劳动者的心病	19	200	990	report	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	7201.297	7233.808	Zheng_Gong_Cheng	male	native	但是我们还需要承认的呢就是政府当然他有主导的责任,但是同时也要承认的就是个人也肩负着很大的责任, (()) ,对	20	203	1018	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	7267.161	7277.896	Zheng_Gong_Cheng	male	native	啊这就是政府在分担了你的责任,社会在分担你的责任,雇主 (()) 所用人单位在分担你的责任,这是一个缴费的这么一个责任	20	203	1026	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	7284.124	7295.476	Zheng_Gong_Cheng	male	native	你要想确保你的生活质量,你还要有自己另外的想办法,你比方说我们的养老金,过去我们的退休金他基本上跟工作差不多嘛, (()) 百分之九十啊	20	203	1030	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	7309.305	7326.401	Zheng_Gong_Cheng	male	native	这个老年生活质量怎么办呢,他就一定很低,在这种情景下怎么办,常在国际上, (()) 就是雇主要你自己再交费,再建一个这样的年金,在总理的政府工作报告里面也谈到了一句话,就是要规范企业年金	20	203	1036	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	7344.303	7358.798	Zheng_Gong_Cheng	male	native	这样你的生活质量 (()) ,嗯,对,多所以我们说我们中国的这个社会保障制度啊,我们讲的多层次,就是他不是一个层次	20	203	1040	filler	statement
+CCTVNEWS_PEOPLESCONGRESS2_CMN_20080309_122701	0	7378.571	7386.441	Zheng_Gong_Cheng	male	native	但是怎么样提高我们的生活 (()) ,增加我们的这个安全感和安全性,确实需要有规划,嗯	20	203	1044	filler	statement

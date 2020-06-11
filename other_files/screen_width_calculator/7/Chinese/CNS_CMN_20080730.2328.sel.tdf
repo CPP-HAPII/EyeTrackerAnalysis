@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.2328	0	1700.0	1800.0	speaker	unknown	unknown	进入高架候车大厅，首先跃入眼帘的，是一块为旅客提供列车时刻及相关旅行信息服务的大型LED显示屏，和进入机场时大家一抬头就能看见的航班大屏幕类似。	0	0	0		
+CNS_CMN_20080730.2328	0	2100.0	2200.0	speaker	unknown	unknown	通透一体的大厅由南到北依次分布有京津城际、京沪高速、普速三大候车区域，与站台层13站台24股道一一对应。	0	0	0		
+CNS_CMN_20080730.2328	0	2600.0	2700.0	speaker	unknown	unknown	同时，候车大厅、站台层、地下换乘大厅三层由111部直、扶梯连接为一体。	0	0	0		
+CNS_CMN_20080730.2328	0	3000.0	3100.0	speaker	unknown	unknown	列车车门与站台地面无缝衔接	0	0	0		
+CNS_CMN_20080730.2328	0	3200.0	3300.0	speaker	unknown	unknown	据了解，中铁六局承担的北京南站铁道工程主要包括：13个站台24条到发线，由南向北分为京津城际车场(4个站台7线)、京沪高速车场(6个站台12线)及普速兼市郊车场(3个站台5线)。	0	0	0		
+CNS_CMN_20080730.2328	0	3300.0	3400.0	speaker	unknown	unknown	中铁六局的相关负责人告诉记者，北京南站旅客站台高度均按高出轨面1.25米设计，站台边缘至相邻线路中心的距离，采用1.75米。	0	0	0		
+CNS_CMN_20080730.2328	0	3400.0	3500.0	speaker	unknown	unknown	京津城际车场、京沪高速车场站台长度为450米，站台宽度均为11.5米。	0	0	0		
+CNS_CMN_20080730.2328	0	3500.0	3600.0	speaker	unknown	unknown	记者看到，干净整洁的站台面比老火车站的站台要宽敞通透得多。	0	0	0		
+CNS_CMN_20080730.2328	0	3600.0	3700.0	speaker	unknown	unknown	更为人性化的是，黄色的盲道砖铺设更加明显，列车车门处地面与站台地面几乎“无缝衔接”，人们可以轻松上下车。	0	0	0		
+CNS_CMN_20080730.2328	0	5000.0	5100.0	speaker	unknown	unknown	新开线路3条(北京南站临线、72路、529路)，调整2条(652路、路特5路)，这些公交车将使新南站与周边主要客流集散点、地铁五号线及南中轴快速公交实现衔接换乘。	0	0	0		

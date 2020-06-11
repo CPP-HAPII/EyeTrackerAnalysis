@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-118383-9939459	0	200.0	300.0	speaker	unknown	unknown	国际商业数据调研组织专业提供：	0	0	0		
+cmn-NG-31-118383-9939459	0	600.0	700.0	speaker	unknown	unknown	敬请莅临： http://www.ms-cn.org	0	0	0		

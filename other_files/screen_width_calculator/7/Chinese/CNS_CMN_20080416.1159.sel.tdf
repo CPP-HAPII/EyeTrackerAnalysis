@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080416.1159	0	0.0	100.0	speaker	unknown	unknown	统计局发言人：完成全年CPI调控目标压力很大	0	0	0		

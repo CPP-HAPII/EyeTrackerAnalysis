@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-112643-10467320	0	100.0	200.0	speaker	unknown	unknown	*[原创]无论怎样，主流民意支持政府平息*西藏*事件。	0	0	0		
+cmn-NG-31-112643-10467320	0	700.0	800.0	speaker	unknown	unknown	凯迪右右们（注意：我没有称之为右粪）需要思考的是，为什么这么曲高和寡？	0	0	0		
+cmn-NG-31-112643-10467320	0	4000.0	4100.0	speaker	unknown	unknown	会那么容易妥协吗~ 现在国内论坛的民意能公正真实吗 看过网易的就已经明白了上万的支持是怎么来的！	0	0	0		
+cmn-NG-31-112643-10467320	0	4100.0	4200.0	speaker	unknown	unknown	为什么我点不了反对？	0	0	0		

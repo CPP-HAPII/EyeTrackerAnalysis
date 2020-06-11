@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0016.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	海盗释放西班牙渔船 传赎金达120万美元	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社奈洛比二十七日电	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	一位海运官员今天说 ,一艘在索马利亚海岸外被劫持六天的西班牙渔船,在付出一百二十万美元赎金后已经被海盗释放。	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	1300.000	1600.000	TEXT1	unknown	unkown	「海员协助计画」肯亚分部人员马万古拉发表声明 说:「付出一百二十万美元赎金后,西班牙渔船Playa de Badio号已经获释。」	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	这艘渔船于昨天释获,目前正在一艘西班牙巡防舰的护送下驶往塞席尔,预料将在二十九日停泊维多利亚港。	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	西班牙媒体昨天报导,海盗要求一百万欧元((一百五十五万美元))的赎金,谈判是在伦敦的一家旅馆进行。	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	2800.000	3100.000	TEXT1	unknown	unkown	西班牙政府表示,政府与绑匪「并没有正式接触」 ,但不排除渔船的船东与海盗直接接触的可能,这艘渔船的船东来自西班牙北部的巴斯克地区。	0	0	0		statement
+AFP_CMN_20080427.0016.sgm	0	3300.000	3500.000	TEXT1	unknown	unkown	这艘七十六公尺长的西班牙拖网渔船,在索马利亚外海捕捉鲔鱼时,被武装海盗挟持。	0	0	0		statement

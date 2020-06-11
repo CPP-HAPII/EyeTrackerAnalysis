@@ -1,0 +1,664 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 63.313000000000002, 257.12299999999999, 464.86200000000002, 1045.2539999999999, 1131.357, 1712.0889999999999, 1778.356, 1921.4670000000001, 9999999.0]
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	63.313	67.703	Xu_gehui	female	native	Uh, so from the 2000 Sydney Olympic Games and the 2004 Athens Olympic	1	1	1	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	67.703	68.009	Xu_gehui	female	native	Games,	1	2	2	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	67.703	68.009	Speaker#1	male	native	Right.	1	2	3	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	68.530	74.559	Xu_gehui	female	native	after watching their opening and closing ceremonies, do you have confidence in 2008 and even 2010?	1	3	5	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	75.740	81.173	Speaker#1	male	native	Uh, I'll be director-in-chief for the opening ceremony of the China National Games of Minorities next year.	1	4	7	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	81.173	83.741	Speaker#1	male	native	Athletes of minority ethnic groups are also a special group,	1	4	8	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	84.520	88.766	Speaker#1	male	native	and uh, I increasingly believe I can do it well,	1	4	10	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	88.766	95.044	Speaker#1	male	native	uh, although when we do this, we'll have much more restrictions than um David Atkins,	1	4	11	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	95.044	95.785	Xu_gehui	female	native	Uh-huh.	1	5	12	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	95.785	102.364	Speaker#1	male	native	uh from our sense of national pride, sense of national responsibility, and from the binding on us of the society.	1	6	13	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	102.904	104.977	Speaker#1	male	native	and especially from our funds.	1	6	15	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	105.698	106.019	Speaker#1	male	native	Uh,	1	6	17	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	106.019	106.940	Speaker#1	male	native	David told me,	1	6	18	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	107.521	110.316	Speaker#1	male	native	he said, I'm truly grateful to Emir, ((grateful to)) the king.	1	6	20	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	110.316	111.067	Xu_gehui	female	native	Yes, uh-huh.	1	7	21	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	111.067	115.242	Speaker#1	male	native	In my creation over the past more than one year, on the question of funds,	1	8	22	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	116.003	118.437	Speaker#1	male	native	I didn't have to think about it for one second.	1	8	24	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	119.448	124.675	Xu_gehui	female	native	As we know, the opening and closing ceremonies for the Doha ((pw)), uh Doha Asian Games cost 0.28 billion US dollars in total.	1	9	26	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	125.186	130.593	Speaker#1	male	native	0.28 billion US dollars were used for the evening show of the opening and closing ceremonies, rather than building the gymnasium.	1	10	28	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	131.545	135.902	Speaker#1	male	native	It is said the opening ceremony of our Olympic Games has only 0.25 billion Renminbi.	1	10	30	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	137.695	139.006	Speaker#1	male	native	It is said ah, as I heard.	1	10	32	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	139.006	142.513	Speaker#1	male	native	The difference is not a little.	1	10	33	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	143.154	151.124	Speaker#1	male	native	The high-tech thing ah, fellow students, you don't know that steel passages were laid out in the space over the, the Doha open stadium.	1	10	35	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	152.066	156.222	Speaker#1	male	native	A huge prop can be attached to each of the steel passages anytime to fly over you.	1	10	37	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	157.634	163.518	Speaker#1	male	native	In addition uh, their craftwork was exquisite, fearing no TV, uh video camera close-ups.	1	10	39	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	164.043	164.854	Speaker#1	male	native	They can withstand trials.	1	10	41	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	164.854	165.385	Xu_gehui	female	native	Uh-huh.	1	11	42	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	165.385	168.370	Speaker#1	male	native	Eh, you can walk around the prop, it's a piece of art.	1	12	43	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	169.312	171.836	Speaker#1	male	native	If we do it, basically look at the front.	1	12	45	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	172.938	174.240	Speaker#1	male	native	You can't even look at the sides.	1	12	47	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	174.761	175.973	Speaker#1	male	native	Maybe there's someone hiding behind	1	12	49	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	175.973	178.858	Speaker#1	male	native	((my goodness))	1	13	50	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	175.973	178.858	Xu_gehui	female	native		1	13	51	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	178.858	179.329	Speaker#1	male	native	There are	1	13	52	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	178.858	179.329	Xu_gehui	female	native	Uh-huh.	1	13	53	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	179.329	182.413	Speaker#1	male	native	so many differences. I have a deep feeling, deep feeling, alas.	1	14	54	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	182.413	183.244	Speaker#1	male	native	I really hope	1	14	55	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	183.244	183.765	Xu_gehui	female	native	Uh-huh.	1	15	56	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	183.244	183.765	Speaker#1	male	native	our	1	15	57	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	183.765	189.392	Speaker#1	male	native	Olympic team can bring something that represents both the nation and thoughts, rather than merely national tints.	1	16	58	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	189.392	190.253	Xu_gehui	female	native	Um-hum.	1	17	59	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	190.253	199.215	Xu_gehui	female	native	We have a special request at the end of the ((pw)) program, that is to ask Director Qin to write his blessings to the 2008 Olympics on our heart.	1	17	60	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	199.215	208.565	Xu_gehui	female	native	As you can see, we have an Olympic tree here. From the first edition of the program this year uh, the guests on each edition of the program have written their blessings on this heart.	1	17	61	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	208.565	210.122	Xu_gehui	female	native	Then we'll hang it on the tree,	1	17	62	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	210.653	213.437	Xu_gehui	female	native	to let the tree grow with the heart.	1	17	64	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	213.437	233.990	Xu_gehui	female	native	Alright. Let's hang it ((pw)), together on the tree.	1	17	65	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	233.990	234.650	Speaker#1	male	native	Alright.	1	18	66	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	235.172	239.407	Xu_gehui	female	native	Director Qin writes, 2008, China blesses the whole world.	1	19	68	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	240.891	242.971	Xu_gehui	female	native	(())	1	19	70	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	245.449	246.020	Speaker#1	male	native	Just hang it here.	1	20	72	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	246.020	246.932	Xu_gehui	female	native	Ah, ok.	1	21	73	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	249.932	255.991	Xu_gehui	female	native	Alright. Thanks again to Director Qin for sharing his story with us, and thanks to all the fellow students. Thank you everyone, thank you, thanks, thank you.	1	21	75	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	255.991	257.123	Speaker#1	male	native	Ah, thank you Xu Gehui.	1	22	76	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	464.862	466.795	Dou_wentao	male	native	Behind the Headlines, hello everyone.	3	24	78	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	466.795	468.137	Dou_wentao	male	native	Yingzi, eh.	3	25	79	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	466.795	468.137	Ying_zi	female	native	Hello.	3	25	80	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	468.137	468.637	Dou_wentao	male	native	Mr. Wang.	3	26	81	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	468.637	469.131	Ying_zi	female	native	Hello, Mr. Wang.	3	27	82	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	469.131	471.614	Dou_wentao	male	native	There's been trouble again in your circle, Mr. Wang.	3	28	83	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	472.122	473.909	Dou_wentao	male	native	Two movie makers are engaged in a quarrel.	3	28	85	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	473.909	474.315	Dou_wentao	male	native	two,	3	29	86	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	473.909	474.315	Wang_bin	male	native	Yeah.	3	29	87	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	474.315	475.747	Dou_wentao	male	native	Jia Zhangke and Zhang Weiping.	3	30	88	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	475.747	476.037	Wang_bin	male	native	Right.	3	31	89	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	476.037	478.030	Dou_wentao	male	native	Good heavens, I see four-letter-words are,	3	32	90	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	478.030	479.722	Dou_wentao	male	native	are uttered.	3	33	91	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	478.030	479.722	Wang_bin	male	native	Uh-huh, right, right. Uh, I, I	3	33	92	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	479.722	483.248	Wang_bin	male	native	watched it. The one who first uttered a four-letter word seemed to be Jia Zhangke.	3	34	93	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	483.248	487.925	Wang_bin	male	native	Um according to newspaper reports, at a university, he first said, not a four-letter word at first.	3	34	94	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	487.925	491.681	Wang_bin	male	native	The first sentence was not, didn't seem, the first sentence didn't contain foul words. Rather, what he said was in an age that worships gold,	3	34	95	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	492.522	493.881	Wang_bin	male	native	don't forget good people.	3	34	97	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	493.881	496.033	Dou_wentao	male	native	What I want is, I don't want the color	3	35	98	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	496.033	497.385	Wang_bin	male	native	Uh, uh.	3	36	99	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	496.033	497.385	Dou_wentao	male	native	of gold, but I want	3	36	100	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	497.385	497.976	Dou_wentao	male	native	the dignity of	3	37	101	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	497.976	499.198	Dou_wentao	male	native	a good man, en.	3	38	102	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	497.976	499.198	Wang_bin	male	native	Right, yeah, right, right, right, right, right.	3	38	103	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	499.198	500.821	Wang_bin	male	native	This seemed to be a speech at the Peking University.	3	39	104	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	500.821	501.220	Wang_bin	male	native	The remark	3	39	105	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	501.220	501.782	Wang_bin	male	native	was right.	3	40	106	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	501.220	501.782	Dou_wentao	male	native	Ah.	3	40	107	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	501.782	505.617	Wang_bin	male	native	Anyway, it was quite literary and full of ultimate care for the living creatures.	3	41	108	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	505.617	506.101	Dou_wentao	male	native	Uh-huh.	3	42	109	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	506.101	508.671	Wang_bin	male	native	When you hear it, your soul ((pw)), can't help being touched by it.	3	43	110	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	508.671	509.833	Wang_bin	male	native	Next, someone	3	43	111	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	510.354	512.777	Wang_bin	male	native	maybe asked something not quite appropriate.	3	43	113	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	512.777	519.115	Wang_bin	male	native	The um media report said that Jia Zhangke suddenly showed a little anger and said things like, I'm very I, fuck,	3	43	114	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	519.115	524.963	Wang_bin	male	native	He used a, um fuck and also asshole. Later, um, um uh our Zhang, Zhang Weiping, Director Zhang's words also used a	3	43	115	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	524.963	525.926	Wang_bin	male	native	um fuck,	3	43	116	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	525.926	526.990	Wang_bin	male	native	ah, and probably also asshole.	3	44	117	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	525.926	526.990	Dou_wentao	male	native	Yeah, ah, ah, ah, ah.	3	44	118	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	526.990	531.062	Wang_bin	male	native	Uh fuck, it's a, I thought I fuckin asked for his investment blah blah blah, roughly the idea is like this.	3	45	119	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	531.062	531.473	Dou_wentao	male	native	Um-hum.	3	46	120	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	531.062	531.473	Wang_bin	male	native	That is	3	46	121	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	531.473	533.064	Wang_bin	male	native	I also mean I look down upon him.	3	47	122	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	533.064	533.725	Dou_wentao	male	native		3	48	123	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	533.064	533.725	Wang_bin	male	native	Yes.	3	48	124	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	533.725	537.280	Wang_bin	male	native	These were said early on, and seem to have dragged, uh right.	3	49	125	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	537.280	542.228	Wang_bin	male	native	He also said then, I have intentionally let the Still Life um to challenge (()).	3	49	126	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	542.228	545.133	Wang_bin	male	native	Uh if that is the case, he had sacrificed himself for the love of art.	3	49	127	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	545.714	546.906	Dou_wentao	male	native	Sacrifice for the love of art?	3	50	129	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	545.714	546.906	Wang_bin	male	native	What do you think, uh sacrifice for the love of art.	3	50	130	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	546.906	550.781	Dou_wentao	male	native	I think the age now ah is an age of sayings. Do you think so?	3	51	131	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	550.781	551.162	Wang_bin	male	native	Uh-huh.	3	52	132	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	551.162	555.989	Dou_wentao	male	native	People ya you don't, or the press has filtered that out. What	3	53	133	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	555.989	556.741	Dou_wentao	male	native	environment you were in	3	54	134	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	555.989	556.741	Wang_bin	male	native	Uh-huh.	3	54	135	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	556.741	561.959	Dou_wentao	male	native	and who you are interacting with, nobody cares about the context. What is remembered is the saying.	3	55	136	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	561.959	565.935	Dou_wentao	male	native	For example, I can remember a lot of sayings. Zhang Yimou said, young directors shouldn't criticize peers.	3	55	137	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	565.935	566.546	Wang_bin	male	native	Uh-huh.	3	56	138	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	565.935	566.546	Dou_wentao	male	native	Or	3	56	139	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	566.546	569.180	Dou_wentao	male	native	his failure is not a result of our existence.	3	57	140	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	569.771	575.339	Dou_wentao	male	native	You see, I've memorized them all, including the, the remark of Jia Zhangke. I find it an age saturated with sayings.	3	57	142	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	575.339	581.048	Wang_bin	male	native	I really don't get why people in the film circle can't be united? Why can't it be similar to the Hong Kong film community?	3	58	143	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	581.048	582.210	Wang_bin	male	native	The Hong Kong film community, you, you see,	3	58	144	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	582.210	583.071	Dou_wentao	male	native	It's true.	3	59	145	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	582.210	583.071	Wang_bin	male	native	several events that	3	59	146	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	583.071	584.703	Wang_bin	male	native	make you feel very excited. Why?	3	60	147	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	584.703	590.607	Wang_bin	male	native	You alone, Jackie Chan, as long as uh ((pw)) several people ((pw)) raise their arms and shout in indignation,	3	60	148	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	590.607	590.847	Dou_wentao	male	native	Uh-huh.	3	61	149	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	590.847	592.791	Wang_bin	male	native	everyone in the Hong Kong film circle would show their support.	3	62	150	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	593.392	594.874	Wang_bin	male	native	People would cry out together.	3	62	152	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	595.425	597.017	Wang_bin	male	native	Such a phenomenon just doesn't appear among us.	3	62	154	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	597.017	603.210	Dou_wentao	male	native	I think la, instead once um, I remember Xu Jinglei saying Han Han is in another	3	63	155	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	603.210	603.776	Dou_wentao	male	native	quarrel with someone.	3	64	156	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	603.210	603.776	Ying_zi	female	native	Uh-huh.	3	64	157	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	603.776	608.648	Dou_wentao	male	native	She said then, as a woman, I really don't understand why these men are so aggressive.	3	65	158	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	608.648	608.875	Ying_zi	female	native	Uh-huh.	3	66	159	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	608.875	611.337	Dou_wentao	male	native	In fact ah, while I'm a man, I don't understand either,	3	67	160	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	611.337	617.646	Dou_wentao	male	native	because I'm ah very mild-tempered, which I recently found is a major hurdle in my work.	3	67	161	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	617.646	617.946	Wang_bin	male	native	Uh-huh.	3	68	162	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	617.946	618.607	Dou_wentao	male	native	Do you know?	3	69	163	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	618.607	619.468	Dou_wentao	male	native	Why is that?	3	69	164	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	619.468	623.403	Dou_wentao	male	native	Working in the talk-show industry, there's a saying that shout whenever there's an indignation.	3	69	165	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	623.964	628.411	Dou_wentao	male	native	Whenever you have an indignant feeling, (()) feeling, you can only have strength when it is vented.	3	69	167	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	628.411	628.692	Wang_bin	male	native	Uh-huh.	3	70	168	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	628.692	634.189	Dou_wentao	male	native	However, I often find ah, my mind is too peaceful. You see no one has seen me losing my temper in our team.	3	71	169	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	634.189	637.283	Wang_bin	male	native	This is a good thing ah. It means you are on a lofty level, where nothing can	3	72	170	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	637.283	638.125	Wang_bin	male	native	irritate you.	3	73	171	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	637.283	638.125	Ying_zi	female	native	Uh-huh.	3	73	172	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	638.125	641.509	Dou_wentao	male	native	Right, it can be said either that way or totally shameless.	3	74	173	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	638.125	641.509	Wang_bin	male	native	This is definitely a virtue. Yes, uh-huh, uh-huh.	3	74	174	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	641.509	642.961	Ying_zi	female	native	What you do is called rectification	3	75	175	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	641.509	642.961	Dou_wentao	male	native	Do you know?	3	75	176	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	642.961	643.982	Dou_wentao	male	native	I'd like to ask you, Yingzi.	3	76	177	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	643.982	644.287	Ying_zi	female	native	Yes.	3	77	178	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	644.287	647.837	Dou_wentao	male	native	Would you quarrel like a shrew?	3	78	179	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	647.837	652.174	Ying_zi	female	native	I tell you, for the entire '06, China gave me the feeling that every industry and every trade, not only the film and television circle,	3	79	180	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	652.174	652.424	Ying_zi	female	native	say	3	80	181	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	652.174	652.424	Wang_bin	male	native	Uh-huh.	3	80	182	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	652.424	656.611	Ying_zi	female	native	where Yimou, say, uh, Zhangke cursed, every industry was cursing,	3	81	183	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	656.611	660.196	Ying_zi	female	native	the literature community and the blog community, with everything being cursed.	3	81	184	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	660.196	665.604	Ying_zi	female	native	And I have to consider myself recently, because I have a blog in Sina, which is put in celebrity blogs.	3	81	185	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	665.604	667.502	Ying_zi	female	native	It has been a whole month since I updated it last month,	3	81	186	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	667.502	669.673	Ying_zi	female	native	because I'm not very interested in it recently,	3	81	187	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	669.673	674.882	Ying_zi	female	native	as I find uh, those who rank top in blogs	3	81	188	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	674.882	684.165	Ying_zi	female	native	to tell you the truth, most of them, a good portion of them, instead of playing the role of communicating as blogs used to be, or being a mood diary you write to yourself,	3	81	189	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	684.165	689.717	Ying_zi	female	native	rather we used to say Lei Feng is, Lei Feng is absolutely a good comrade, absolutely a kind and well-intentioned person.	3	81	190	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	689.717	694.714	Ying_zi	female	native	But we are talking about a phenomenon, where the Lei Feng's diary is a public diary open for the public to read.	3	81	191	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	694.714	695.595	Ying_zi	female	native	The top-ranking blogs	3	81	192	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	696.165	702.985	Ying_zi	female	native	are no more than doing, uh doing one thing, which is discussing some topics, or saying some words, or uttering some sayings to attract eyeballs.	3	81	194	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	702.985	706.340	Ying_zi	female	native	You know, and they are very experienced and very adroit at it.	3	81	195	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	706.340	706.831	Dou_wentao	male	native	And	3	82	196	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	706.831	707.642	Dou_wentao	male	native	he is ah,	3	83	197	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	706.831	707.642	Ying_zi	female	native	like what,	3	83	198	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	707.642	708.633	Ying_zi	female	native	people who can attract.	3	84	199	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	708.633	715.504	Dou_wentao	male	native	He manipulates this, you know? That is you shouldn't, you shouldn't think the sayings, the sayings are picked by the media.	3	85	200	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	715.504	716.286	Wang_bin	male	native	Right.	3	86	201	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	715.504	716.286	Dou_wentao	male	native	Do you know?	3	86	202	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	716.286	721.234	Dou_wentao	male	native	It, you should know the kind of ((pw)), the one, put your hand down first, I'm talking to you about the invisible hand.	3	87	203	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	721.234	723.447	Dou_wentao	male	native	Behind it is an invisible hand.	3	87	204	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	723.447	729.025	Dou_wentao	male	native	That is what is called a noisy age, actually in my idea, is a choice.	3	87	205	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	729.025	732.931	Dou_wentao	male	native	There are many problems in the world, where two thirds of the people suffer. Why aren't they taken care of?	3	87	206	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	732.931	741.634	Dou_wentao	male	native	But, but these are picked. A friend of mine told me one day, don't be silly, this is called senseless economy, you know?	3	87	207	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	741.634	745.249	Dou_wentao	male	native	Once the hit rate goes up, how much money will roll back and forth.	3	87	208	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	745.249	749.986	Dou_wentao	male	native	I put it in a nutshell then. I said this was nothing different than the house price in Beijing, namely bubble economy.	3	87	209	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	749.986	754.282	Dou_wentao	male	native	The bubble economy, that is, alas, your see, I have deep feelings as a media man.	3	87	210	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	754.282	764.797	Dou_wentao	male	native	In the past year, what a big chunk of time and energy I spent on watching this rubbish and messy stuff, day and night every Monday to Friday.	3	87	211	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	764.797	772.243	Dou_wentao	male	native	Alas, you simply feel your, your um life, I tell you, each netizen, are your time and your energy part of the national wealth?	3	87	212	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	772.243	772.669	Wang_bin	male	native	Right.	3	88	213	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	772.669	778.144	Dou_wentao	male	native	As a nation, you develop such an economy. Think about your past, and you would feel the rubbish stuff you are discussing and those	3	89	214	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	778.144	778.657	Ying_zi	female	native	gossips	3	90	215	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	778.144	778.657	Dou_wentao	male	native	Uh-huh.	3	90	216	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	778.657	778.838	Wang_bin	male	native	Uh-huh.	3	91	217	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	778.838	780.681	Dou_wentao	male	native	are not worth so much	3	92	218	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	780.681	781.432	Dou_wentao	male	native	time.	3	93	219	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	780.681	781.432	Wang_bin	male	native	There is an	3	93	220	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	781.432	787.211	Wang_bin	male	native	American writer, Faulkner, who is also a Nobel laureate. He has a book, the name of which can best summarize the age today.	3	94	221	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	787.211	790.265	Wang_bin	male	native	You just mentioned a word, noise, and his are the Sound and the Fury.	3	94	222	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	790.265	790.756	Ying_zi	female	native	Uh-huh.	3	95	223	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	791.277	796.425	Wang_bin	male	native	Sound and fury can totally summarize our age today, the age today that we, we encounter.	3	96	225	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	796.425	799.790	Dou_wentao	male	native	So uh, is it just because the science of loudness?	3	97	226	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	799.790	801.623	Dou_wentao	male	native	Because the society is not quiet and	3	97	227	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	801.623	803.314	Wang_bin	male	native	Uh-huh, right. Uh-huh, right.	3	98	228	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	801.623	803.314	Dou_wentao	male	native	too noisy,	3	98	229	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	803.314	804.545	Dou_wentao	male	native	you have to shout	3	99	230	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	804.545	805.349	Wang_bin	male	native	Right, right.	3	100	231	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	804.545	805.349	Dou_wentao	male	native	louder than others,	3	100	232	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	805.349	807.061	Dou_wentao	male	native	and shout and curse in dirtier words.	3	101	233	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	807.061	807.562	Wang_bin	male	native	Right.	3	102	234	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	807.061	807.562	Ying_zi	female	native	Right!	3	102	235	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	807.562	808.663	Dou_wentao	male	native	However our, the	3	103	236	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	807.562	808.663	Wang_bin	male	native	Uh, and	3	103	237	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	808.663	810.386	Wang_bin	male	native	keep challenging other's moral bottom line.	3	104	238	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	810.386	810.997	Dou_wentao	male	native	Uh, right.	3	105	239	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	810.997	811.314	Wang_bin	male	native	Alas.	3	106	240	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	811.314	812.046	Dou_wentao	male	native	Only if you do this,	3	107	241	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	811.314	812.046	Wang_bin	male	native	Uh-huh.	3	107	242	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	812.046	815.874	Dou_wentao	male	native	can you. So don't Chinese like, like to talk loudly with a high volume ah.	3	108	243	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	815.874	816.452	Ying_zi	female	native	This is totally	3	109	244	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	815.874	816.452	Dou_wentao	male	native	Uh-huh.	3	109	245	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	816.452	820.191	Dou_wentao	male	native	because everybody has a loud voice and high volume, and so I must all the more	3	110	246	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	820.191	820.632	Dou_wentao	male	native	I,	3	111	247	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	820.191	820.632	Ying_zi	female	native	But those	3	111	248	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	820.632	825.601	Ying_zi	female	native	adroit at this in blogs do not only attract others' attention, but they have, I also feel they	3	112	249	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	825.601	826.763	Ying_zi	female	native	are purposefully inviting others to	3	113	250	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	825.601	826.763	Wang_bin	male	native	provoking, provoking.	3	113	251	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	826.763	827.926	Ying_zi	female	native	curse, inviting others to	3	114	252	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	827.926	828.256	Ying_zi	female	native	curse them.	3	115	253	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	827.926	828.256	Wang_bin	male	native	Right.	3	115	254	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	828.256	829.627	Dou_wentao	male	native	Just curse, I feel it quite interesting.	3	116	255	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	829.627	835.927	Dou_wentao	male	native	Actually, I'm not so biased against foul words, but I feel ah sometimes I wonder if their rages are real or fake.	3	116	256	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	836.528	838.150	Dou_wentao	male	native	You see no motives here?	3	116	258	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	838.150	841.475	Dou_wentao	male	native	((pw)), for example in Taiwan, do you know? Some legislative councilors'	3	116	259	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	841.475	841.856	Dou_wentao	male	native	fights	3	117	260	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	841.475	841.856	Wang_bin	male	native	Uh-huh.	3	117	261	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	841.856	842.682	Dou_wentao	male	native	are designed.	3	118	262	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	842.682	842.868	Wang_bin	male	native	Right.	3	119	263	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	842.868	844.340	Dou_wentao	male	native	Those are designed, are conspiracies.	3	120	264	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	844.340	847.284	Dou_wentao	male	native	That is I such and such, just hit me, hit me when it's time. When you see that on TV,	3	120	265	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	847.284	847.414	Wang_bin	male	native	Uh-huh.	3	121	266	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	847.414	848.846	Dou_wentao	male	native	I've done such and such for the voters.	3	122	267	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	848.846	854.505	Dou_wentao	male	native	You ((pw)), but in such a situation, for instance I don't even believe the society.	3	122	268	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	854.505	859.232	Dou_wentao	male	native	Somebody published a novel a while ago, Brothers by uh Yu, Yu Hua.	3	122	269	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	859.232	859.502	Wang_bin	male	native	Uh-huh.	3	123	270	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	859.502	861.846	Dou_wentao	male	native	I saw in the newspaper that two critics scolded him.	3	124	271	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	861.846	863.634	Dou_wentao	male	native	Of course, he was very sincere,	3	124	272	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	863.634	864.230	Dou_wentao	male	native	perhaps.	3	125	273	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	863.634	864.230	Wang_bin	male	native	Uh-huh.	3	125	274	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	864.230	867.976	Dou_wentao	male	native	However, as I am an ultra-skeptic, I would think they are cappers.	3	126	275	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	867.976	868.206	Wang_bin	male	native	Uh-huh.	3	127	276	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	868.817	869.208	Dou_wentao	male	native	Do you know?	3	128	278	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	869.208	869.559	Wang_bin	male	native	Right.	3	129	279	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	869.208	869.559	Dou_wentao	male	native	He would	3	129	280	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	869.559	870.892	Wang_bin	male	native	((pw)), ((pw)), no, the Internet age	3	130	281	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	869.559	870.892	Ying_zi	female	native	Terrible.	3	130	282	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	870.892	874.697	Wang_bin	male	native	has indeed entered into um, such a that is, fake, fake noise.	3	131	283	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	874.697	874.978	Ying_zi	female	native	Uh-huh.	3	132	284	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	874.978	880.675	Wang_bin	male	native	You talked about the real estate just now. One of my, my, one of my friends told me, he is the editor-in-chief of a very large fashion magazine.	3	133	285	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	880.675	883.420	Wang_bin	male	native	He said once he ran into a real estate bigwig.	3	133	286	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	883.420	886.755	Wang_bin	male	native	That is the big shot in the real estate, is very, very famous. He said, said you um	3	133	287	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	886.755	890.761	Wang_bin	male	native	said you um, um, um Xiaoxue ah, he said, you don't have to work that diligently.	3	133	288	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	890.761	893.625	Wang_bin	male	native	It's totally unnecessary for you to rack your brains for the magazine, he said, you know	3	133	289	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	893.625	895.598	Wang_bin	male	native	the circulation does not increase because of this.	3	133	290	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	895.598	896.450	Dou_wentao	male	native	Uh-huh.	3	134	291	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	895.598	896.450	Wang_bin	male	native	What advertising agents	3	134	292	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	896.450	897.672	Wang_bin	male	native	give. What does it depend upon?	3	135	293	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	898.363	898.834	Wang_bin	male	native	Uh.	3	135	295	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	899.955	904.400	Wang_bin	male	native	(()) You even keep on creating all sorts of disputes and keep your exposure in the media so that they carry your stories all the time.	3	135	297	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	904.400	906.465	Wang_bin	male	native	When your magazine sells well, the advertising agents will invest in you.	3	135	298	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	906.465	909.570	Ying_zi	female	native	So you asked if the rages were real or false. I would say they are real.	3	136	299	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	909.570	910.927	Ying_zi	female	native	You say, he really sells for money, the houses	3	136	300	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	910.927	912.718	Ying_zi	female	native	are really sold and the magazines are really sold.	3	137	301	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	910.927	912.718	Wang_bin	male	native	Yes, really sells for money. Like	3	137	302	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	912.718	917.170	Wang_bin	male	native	Sister Lotus's um, um, un, last time I went to Zhuhai. Zhuhai offered 100 thousand yuan to invite her,	3	138	303	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	917.695	920.158	Dou_wentao	male	native	Ah, really? Didn't Sister Lotus say she hadn't earned money?	3	139	305	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	917.695	920.158	Wang_bin	male	native	invite her to perform, yes, uh it was	3	139	306	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	920.158	921.041	Wang_bin	male	native	100 thousand yuan. When I went to	3	140	307	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	921.041	923.055	Wang_bin	male	native	Zhuhai last time, I was told Sister Lotus was also invited.	3	141	308	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	921.041	923.055	Dou_wentao	male	native	Um-hum.	3	141	309	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	923.055	923.639	Wang_bin	male	native	Many people	3	142	310	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	923.639	925.851	Wang_bin	male	native	protested, but ((pw)), but they insisted.	3	143	311	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	923.639	925.851	Ying_zi	female	native	She is close to a second-tier star.	3	143	312	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	925.851	926.128	Ying_zi	female	native	En.	3	144	313	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	926.128	932.920	Wang_bin	male	native	What is she now? You see, no matter Sister Lotus or Zhang Yu, their behaviors, regardless of the progress of the civilization of the age,	3	145	314	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	933.491	939.490	Wang_bin	male	native	it should be doubted if their behaviors themselves are, are, are morally, problematic morally.	3	145	316	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	939.490	941.483	Wang_bin	male	native	However, it is such a behavior that	3	145	317	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	942.144	945.809	Wang_bin	male	native	is able to win them big fortunes, and bring them tangible benefits.	3	145	319	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	945.809	946.440	Wang_bin	male	native	((That is to say)) people's	3	146	320	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	945.809	946.440	Dou_wentao	male	native	Right.	3	146	321	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	946.440	947.492	Wang_bin	male	native	values are put upside down.	3	147	322	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	947.492	948.142	Dou_wentao	male	native	It's true.	3	148	323	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	947.492	948.142	Wang_bin	male	native	People's	3	148	324	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	948.142	953.271	Wang_bin	male	native	values are upside down. There are even many people who create, keep challenging your um, um, um moral bottom line,	3	149	325	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	953.271	953.782	Dou_wentao	male	native	Uh-huh.	3	150	326	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	953.271	953.782	Wang_bin	male	native	Uh-huh.	3	150	327	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	953.782	955.884	Wang_bin	male	native	right, moral limit, so that they can be famous.	3	151	328	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	955.884	956.411	Ying_zi	female	native	Right.	3	152	329	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	955.884	956.411	Dou_wentao	male	native	This, this,	3	152	330	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	956.411	956.885	Dou_wentao	male	native	this,	3	153	331	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	956.411	956.885	Wang_bin	male	native	but this	3	153	332	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	956.885	957.696	Dou_wentao	male	native	this ((pw)),	3	154	333	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	957.696	958.317	Dou_wentao	male	native	indeed	3	155	334	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	957.696	958.317	Ying_zi	female	native	So-called	3	155	335	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	958.317	958.878	Ying_zi	female	native	moral bottom line	3	156	336	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	958.878	959.148	Ying_zi	female	native	collapse.	3	157	337	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	958.878	959.148	Dou_wentao	male	native	Uh-huh.	3	157	338	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	959.148	962.898	Ying_zi	female	native	Faulkner's book was mentioned just now. You know uh, media people all know Amusing Ourselves to Death	3	158	339	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	962.898	963.739	Ying_zi	female	native	the book uh.	3	159	340	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	962.898	963.739	Dou_wentao	male	native	Yes, uh-huh.	3	159	341	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	963.739	964.420	Ying_zi	female	native	(())	3	160	342	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	965.141	970.846	Ying_zi	female	native	When gossips about the society and entertainment become the core themes of the culture of the society and are discussed everyday,	3	160	344	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	970.846	971.139	Wang_bin	male	native	Uh-huh.	3	161	345	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	970.846	971.139	Ying_zi	female	native		3	161	346	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	971.139	973.713	Ying_zi	female	native	((pw)) doomed is the society.	3	162	347	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	973.713	982.176	Dou_wentao	male	native	No, ((pw)), uh it's fine to talk about it, but it's not worth it. You can't, the problem now is, although I think it's always normal to have such stuff,	3	163	348	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	982.176	987.354	Dou_wentao	male	native	when such stuff is overwhelming, you don't know where the real	3	163	349	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	987.354	987.875	Dou_wentao	male	native	stuff	3	164	350	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	987.354	987.875	Wang_bin	male	native	Right.	3	164	351	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	987.875	988.518	Wang_bin	male	native	valuable stuff	3	165	352	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	988.518	989.337	Wang_bin	male	native	is.	3	166	353	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	988.518	989.337	Dou_wentao	male	native	Uh, where is the valuable	3	166	354	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	989.337	989.648	Dou_wentao	male	native	stuff	3	167	355	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	989.648	991.161	Dou_wentao	male	native	and which is real.	3	168	356	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	989.648	991.161	Ying_zi	female	native	You can't see, uh-huh.	3	168	357	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	991.161	997.781	Dou_wentao	male	native	You know now I feel ah it's a group, that become angry easily. Why do we say rising asthenic fire?	3	169	358	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	997.781	1000.254	Dou_wentao	male	native	You say, some phenomena can reflect, say, anchors.	3	169	359	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1000.254	1004.129	Dou_wentao	male	native	What is popular nowadays? An anchor told me the other day that some radio guy,	3	169	360	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1004.129	1005.141	Dou_wentao	male	native	for midnight heart-to-heart talks.	3	170	361	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1004.129	1005.141	Wang_bin	male	native	Uh-huh.	3	170	362	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1005.141	1005.361	Wang_bin	male	native	Uh-huh.	3	171	363	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1005.361	1006.743	Dou_wentao	male	native	The anchor is very popular.	3	172	364	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1006.743	1007.815	Dou_wentao	male	native	Why is he popular?	3	172	365	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1007.815	1011.280	Dou_wentao	male	native	Because the anchor in three sentences, that is what is funniest about him?	3	172	366	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1011.280	1014.043	Dou_wentao	male	native	When he chats with you, his anger would come	3	172	367	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1014.043	1014.698	Dou_wentao	male	native	after three sentences.	3	173	368	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1014.043	1014.698	Wang_bin	male	native	Uh-huh.	3	173	369	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1014.698	1015.325	Dou_wentao	male	native	Do you know?	3	174	370	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1015.325	1021.513	Dou_wentao	male	native	For instance, oh, I haven't been on good terms with my boy friend. Eh, why on earth is that? Why on earth is that?	3	174	371	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1021.513	1023.684	Dou_wentao	male	native	Tell me now why on earth is that!	3	174	372	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1023.684	1025.677	Dou_wentao	male	native	Alas, I won't talk to you, I won't talk to you.	3	174	373	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1025.677	1028.751	Dou_wentao	male	native	That is people calling him are basically looking for criticism.	3	174	374	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1028.751	1029.001	Wang_bin	male	native	Uh-huh.	3	175	375	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1029.001	1034.029	Dou_wentao	male	native	You know, I, I, I I heard in Shenzhen last time a radio anchor who must be mimicking the ((pw)), style.	3	176	376	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1034.029	1040.907	Dou_wentao	male	native	I only heard one sentence in the cab, from the female anchor, enough! Enough! I don't want to talk to you, just like this.	3	176	377	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1040.907	1044.103	Ying_zi	female	native	Hey! (()) Isn't it bitchy.	3	177	378	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1040.907	1044.103	Dou_wentao	male	native	Yes, let's go to the ads for a moment. Behind the Headlines,	3	177	379	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1044.103	1045.254	Dou_wentao	male	native	see you after the ads.	3	178	380	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1131.357	1135.183	Dou_wentao	male	native	You know, not only are there fights in your circle, but there are fights in our station.	5	180	382	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1135.183	1137.188	Dou_wentao	male	native	Our (()) what is called Tiger Talk.	5	180	383	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1137.188	1137.747	Dou_wentao	male	native	How furious,	5	181	384	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1137.188	1137.747	Wang_bin	male	native	Uh-huh.	5	181	385	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1137.747	1139.571	Dou_wentao	male	native	when tigers fight.	5	182	386	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1137.747	1139.571	Ying_zi	female	native	Yes, uh-huh, uh-huh, uh-huh.	5	182	387	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1139.571	1141.334	Dou_wentao	male	native	It is said in the debate about um pseudoscience,	5	183	388	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1141.334	1141.665	Ying_zi	female	native	Uh-huh.	5	184	389	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1141.665	1142.566	Dou_wentao	male	native	that is Sima Nan	5	185	390	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1142.566	1143.518	Ying_zi	female	native	I watched it, I watched it, uh-huh.	5	186	391	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1143.518	1145.331	Dou_wentao	male	native	Uh, you watched it? Yes.	5	187	392	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1143.518	1145.331	Ying_zi	female	native	I watched it, watched it, watched it, watched it.	5	187	393	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1145.331	1147.004	Dou_wentao	male	native	It was not fire, rather I could smell strong gunpowder.	5	188	394	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1147.004	1147.305	Dou_wentao	male	native	Ha.	5	189	395	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1147.004	1147.305	Ying_zi	female	native	Uh-huh.	5	189	396	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1147.305	1148.306	Dou_wentao	male	native	That is what ((pw)).	5	190	397	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1148.306	1154.104	Dou_wentao	male	native	But ah, I'm just saying these things. Sima Nan, you know I have a story with him.	5	190	398	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1154.104	1158.960	Dou_wentao	male	native	Sima Nan is quite fun. Thanks to him I um uh once ate a bulb.	5	190	399	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1158.960	1159.270	Wang_bin	male	native	Uh-huh.	5	191	400	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1159.270	1160.913	Dou_wentao	male	native	We were shooting the truths of	5	192	401	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1160.913	1162.214	Dou_wentao	male	native	magical kongfu, Sima Nan	5	193	402	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1160.913	1162.214	Ying_zi	female	native	Yes, uh-huh.	5	193	403	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1162.214	1166.741	Dou_wentao	male	native	said, now I not only I, I can eat a bulb, the anchor can also eat a bulb.	5	194	404	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1166.741	1172.504	Dou_wentao	male	native	Xu Gehui was asked to eat. Xu Gehui certainly wouldn't eat. I was the only male anchor left. That's why I ate a	5	194	405	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1172.504	1173.356	Dou_wentao	male	native	bulb together with Sima Nan.	5	195	406	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1172.504	1173.356	Wang_bin	male	native	Uh, hey.	5	195	407	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1173.356	1174.928	Ying_zi	female	native	Really? How many inches was the bulb?	5	196	408	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1173.356	1174.928	Dou_wentao	male	native		5	196	409	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1174.928	1175.559	Dou_wentao	male	native		5	197	410	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1175.559	1181.919	Wang_bin	male	native	Um, Wentao. What you said just now, that is your words before the ads have given me feelings, which means they have inspired me.	5	198	411	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1181.919	1188.579	Wang_bin	male	native	That is people nowadays, it seems many people, I can't say all of them, many people have a kind of mental state of abusing and being abused.	5	198	412	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1188.579	1189.421	Dou_wentao	male	native	Um-hum-hum.	5	199	413	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1188.579	1189.421	Wang_bin	male	native	You see	5	199	414	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1189.421	1194.820	Wang_bin	male	native	cursing, what you mentioned just now about um, um uh the ((pw)), radio broadcasts um, obviously one was a sadist and the other was a masochist.	5	200	415	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1194.820	1201.810	Wang_bin	male	native	And uh I also find, it also makes me think of the Internet cursing just now, where many people have the extreme showcase mental state of abusing and being abused.	5	200	416	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1201.810	1208.240	Wang_bin	male	native	That is they put themselves in a seemingly, you see, many words in the blogs are unrelated to them, but you see they are furious ((spontaneously))	5	200	417	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1208.240	1208.801	Ying_zi	female	native	Uh-huh.	5	201	418	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1208.240	1208.801	Wang_bin	male	native	and	5	201	419	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1208.801	1210.223	Wang_bin	male	native	condemn in such a bitter voice.	5	202	420	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1210.223	1217.814	Wang_bin	male	native	That is to say uh he would easily believe someone else is abusing him, so uh he would condemn the other party as someone abused.	5	202	421	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1217.814	1218.525	Dou_wentao	male	native	Uh-huh.	5	203	422	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1217.814	1218.525	Wang_bin	male	native	I mean	5	203	423	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1218.525	1224.174	Wang_bin	male	native	why is the extreme mental state ((pw)) becoming increasingly intense today? This is a very weird phenomenon.	5	204	424	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1224.174	1231.519	Dou_wentao	male	native	I don't know why I've always thought of two verses recently that the President once quoted, which is the reed on the wall ya	5	205	425	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1231.519	1233.591	Wang_bin	male	native	Yes, uh-huh, right.	5	206	426	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1231.519	1233.591	Dou_wentao	male	native	top-heavy, thin-stemmed and shallow of root.	5	206	427	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1233.591	1234.983	Dou_wentao	male	native	The bamboo shoot in the hills	5	207	428	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1234.983	1237.456	Dou_wentao	male	native	sharp-tongued, thick-skinned and hollow inside.	5	208	429	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1234.983	1237.456	Wang_bin	male	native	It is, hollow inside, yes.	5	208	430	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1237.456	1240.520	Dou_wentao	male	native	You know ah, that is we have an idiom which is fierce of mien but	5	209	431	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1240.520	1241.411	Dou_wentao	male	native	what of heart?	5	210	432	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1240.520	1241.411	Wang_bin	male	native	Um	5	210	433	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1241.411	1242.432	Dou_wentao	male	native	Fierce of mien but faint of heart.	5	211	434	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1242.432	1242.762	Wang_bin	male	native	Uh-huh.	5	212	435	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1242.762	1244.465	Dou_wentao	male	native	Just imagine, someone fierce of mien,	5	213	436	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1244.465	1244.856	Ying_zi	female	native	Uh-huh.	5	214	437	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1244.856	1248.900	Dou_wentao	male	native	I said rising asthenic fire, is it that you are asthenic inside?	5	215	438	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1248.900	1249.088	Wang_bin	male	native	Uh-huh.	5	216	439	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1249.088	1250.571	Dou_wentao	male	native	Why do I bring up this topic?	5	217	440	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1250.571	1261.326	Dou_wentao	male	native	For instance, recently it is said Chinese and Japanese historians are jointly conducting the um, to figure out the history and old scores of our two countries.	5	217	441	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1261.326	1262.998	Dou_wentao	male	native	In fact, it's a very good thing.	5	217	442	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1262.998	1273.839	Dou_wentao	male	native	Some people went to smash their embassy, and curse, busy smashing windows, but do you have some scholars who have figured it out carefully?	5	217	443	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1273.839	1277.492	Dou_wentao	male	native	For instance, some Japanese rightists um ha, although they are problematic with their views,	5	217	444	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1277.492	1282.860	Dou_wentao	male	native	nonetheless saying there weren't so many people in town when the Nanjing Massacre happened, he's got to find some evidence at least.	5	217	445	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1282.860	1287.277	Dou_wentao	male	native	We say over 300 thousand people were slaughtered in the Nanjing Massacre. Well,	5	217	446	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1287.938	1294.118	Dou_wentao	male	native	now what have been relied upon so far? As far as I see ah, a couple of comfort women, and then uh a roll of um	5	217	448	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1294.118	1294.348	Wang_bin	male	native	Uh-huh.	5	218	449	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1294.348	1294.718	Dou_wentao	male	native	um	5	219	450	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1294.718	1295.540	Dou_wentao	male	native	um film left by some foreigner.	5	220	451	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1294.718	1295.540	Wang_bin	male	native	Right.	5	220	452	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1295.540	1301.999	Dou_wentao	male	native	For so many years, why don't you do something tangible um, I'd say so (()) so I'd like to cite some information to you.	5	221	453	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1301.999	1306.629	Dou_wentao	male	native	That is our memory about the Nanjing Massacre has stopped at the figure, 300 thousand.	5	221	454	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1306.629	1306.848	Wang_bin	male	native	Uh-huh.	5	222	455	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1306.848	1308.368	Dou_wentao	male	native	I can't name them.	5	223	456	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1308.368	1316.531	Dou_wentao	male	native	But when you click on the URL of the Holocaust Martyrs' and Heroes' Remembrance Authority for Jews in Israel, you will find 62 million documents and files,	5	223	457	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1316.531	1320.046	Dou_wentao	male	native	nearly 270,000 pictures, and thousands of photocopied documents.	5	223	458	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1320.046	1327.737	Dou_wentao	male	native	A Jew writes in a letter, I hope someone named David Berger is remembered to have lived in this world.	5	223	459	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1327.737	1333.205	Dou_wentao	male	native	Jews do this with the aim that every victim has a name.	5	223	460	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1333.205	1333.786	Ying_zi	female	native	Yes, uh-huh.	5	224	461	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1333.786	1335.619	Dou_wentao	male	native	Each and every person's name. He ever	5	225	462	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1335.619	1336.119	Dou_wentao	male	native	lived in this world.	5	226	463	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1335.619	1336.119	Wang_bin	male	native	Our,	5	226	464	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1336.119	1339.584	Wang_bin	male	native	our age today, what is scary about it? It's the public intellectuals.	5	227	465	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1339.584	1344.202	Wang_bin	male	native	I mean, not ((pw)), there are two types of intellectuals, one type being collegiate intellectuals, who speak and write essays in colleges forever.	5	227	466	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1344.202	1347.487	Wang_bin	male	native	These are collegiate intellectuals who hiss or voice in their circle.	5	227	467	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1347.487	1352.534	Wang_bin	male	native	The other type is the public intellectuals, public intellectuals, who often write articles in public, public media.	5	227	468	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1352.534	1354.907	Wang_bin	male	native	Now, this group of intellectual elites are absent.	5	227	469	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1354.907	1360.785	Wang_bin	male	native	You just mentioned, we say a lot of average netizens or commoners are making noisy sounds.	5	227	470	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1360.785	1365.662	Wang_bin	male	native	With the noisy sounds made, the authentic and pure voices of our intellectuals are suddenly absent.	5	227	471	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1365.662	1366.483	Wang_bin	male	native	We can't hear.	5	228	472	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1365.662	1366.483	Dou_wentao	male	native	Alas.	5	228	473	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1366.483	1367.755	Wang_bin	male	native	The example you gave was perfect.	5	229	474	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1367.755	1373.774	Wang_bin	male	native	That is, say, it was discussed recently that in what they call, um, um a textbook, student's textbook, the Japanese have	5	229	475	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1373.774	1377.990	Wang_bin	male	native	um ((pw)), wiped off the crimes they committed on the Chinese.	5	229	476	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1377.990	1385.242	Wang_bin	male	native	Actually uh the fact is only, because textbooks in the US are not like those in China, which are uniform textbooks distributed to every student. Theirs are not.	5	229	477	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1385.242	1390.910	Wang_bin	male	native	Rather, it's in an individual small place, where they separately, separately, that is they independently	5	229	478	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1390.910	1397.536	Wang_bin	male	native	arrange uh so-called (()) um um materials, and then write them in the textbooks, to be used by a small number of students as supplementary textbooks.	5	229	479	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1397.536	1399.299	Wang_bin	male	native	But it's not the case here for us.	5	229	480	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1399.299	1403.055	Wang_bin	male	native	At such a juncture, there should be intellectuals standing up. Of course, the phenomenon is wrong, with the sign there.	5	229	481	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1403.055	1409.173	Wang_bin	male	native	However, you should have intellectuals standing up, like the Germans, to reveal its truth to the world and to study the phenomenon.	5	229	482	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1409.173	1410.185	Dou_wentao	male	native	Uh-huh.	5	230	483	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1409.173	1410.185	Wang_bin	male	native	There aren't now.	5	230	484	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1410.185	1412.258	Ying_zi	female	native	So, what do you think the academia are doing now?	5	231	485	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1412.258	1415.224	Ying_zi	female	native	Just now you mentioned the President's two, oops, the, the, the,	5	231	486	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1415.224	1416.865	Dou_wentao	male	native	The couplet, uh.	5	232	487	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1415.224	1416.865	Ying_zi	female	native	bamboo shoot in the hills is hollow inside.	5	232	488	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1416.865	1417.556	Wang_bin	male	native	Uh-huh.	5	233	489	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1416.865	1417.556	Ying_zi	female	native	I immediately	5	233	490	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1417.556	1422.012	Ying_zi	female	native	my eyes, you know what I was doing? A group of statues and relief sculptures appeared spontaneously at once.	5	234	491	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1422.012	1422.753	Ying_zi	female	native	Uh-huh.	5	235	492	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1422.012	1422.753	Wang_bin	male	native	That is presently	5	235	493	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1422.753	1427.059	Ying_zi	female	native	the so-called scholars and media favorites active in the media and on the Internet,	5	236	494	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1427.059	1434.560	Ying_zi	female	native	I, I can say some of their behaviors, compared with Sister Lotus or Zhang Yu, is not a little, ((pw)), no, entirely different.	5	236	495	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1434.560	1434.771	Wang_bin	male	native	Uh-huh.	5	237	496	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1434.771	1436.824	Ying_zi	female	native	Rather than being entirely different, I think they are essentially the same.	5	238	497	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1436.824	1437.365	Wang_bin	male	native	Uh-huh.	5	239	498	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1436.824	1437.365	Ying_zi	female	native	What he does	5	239	499	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1437.365	1443.373	Ying_zi	female	native	is also practically revealing something, or some point, or releasing a bomb, to let people criticize and argue, so that he is stirred up.	5	240	500	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1443.373	1448.021	Ying_zi	female	native	He then carries a bag to give commercial lectures everywhere, and then rack his brains to get onto the Forum of Various Schools of Thinkers.	5	240	501	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1448.021	1448.883	Dou_wentao	male	native	The matter she talked about	5	241	502	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1448.883	1449.494	Wang_bin	male	native	Right.	5	242	503	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1448.883	1449.494	Dou_wentao	male	native	I, I	5	242	504	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1449.494	1453.631	Dou_wentao	male	native	What has occurred to me? Recently, the Life Week talked about um Yi Zhongtian,	5	243	505	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1453.631	1453.941	Wang_bin	male	native	Uh-huh.	5	244	506	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1453.941	1456.674	Dou_wentao	male	native	Because its view is not ah that Yi Zhongtian is not good. Rather it says	5	245	507	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1456.674	1457.495	Wang_bin	male	native	Uh-huh.	5	246	508	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1456.674	1457.495	Dou_wentao	male	native	the society	5	246	509	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1457.495	1458.677	Dou_wentao	male	native	has had some types.	5	247	510	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1458.677	1459.027	Wang_bin	male	native	Uh-huh.	5	248	511	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1459.027	1466.756	Dou_wentao	male	native	However uh, it is only because these types have become popular, we will find, there is another type that should have been popular, but why not?	5	249	512	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1466.756	1469.947	Dou_wentao	male	native	For instance, what does it say uh? It says intellectuals now talk on TV,	5	249	513	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1469.947	1470.377	Dou_wentao	male	native		5	250	514	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1469.947	1470.377	Wang_bin	male	native	Uh-huh.	5	250	515	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1470.377	1471.643	Dou_wentao	male	native	It mentions a concept,	5	251	516	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1471.643	1476.820	Dou_wentao	male	native	that is a real public intellectual is a concept, which is ((dare to know)), expressed in English.	5	251	517	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1476.820	1478.362	Dou_wentao	male	native	I, the English itself is wrong.	5	251	518	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1478.362	1479.574	Dou_wentao	male	native	Dare to know.	5	252	519	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1478.362	1479.574	Ying_zi	female	native	(())	5	252	520	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1479.574	1484.370	Dou_wentao	male	native	So, nowadays generally uh, um, what do somewhat erudite people like to talk to commoners about?	5	253	521	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1484.370	1485.652	Dou_wentao	male	native	Whatever you like to know,	5	254	522	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1484.370	1485.652	Wang_bin	male	native	Yes, uh-huh.	5	254	523	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1485.652	1486.743	Dou_wentao	male	native	whatever you are happy to know.	5	255	524	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1486.743	1487.033	Wang_bin	male	native	Uh-huh.	5	256	525	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1487.033	1490.017	Dou_wentao	male	native	But there is something else called "dare to know."	5	257	526	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1490.017	1496.385	Dou_wentao	male	native	Eh, the Life Week commentary believes that, that is, say, people now like to talk nonsense, which intellectuals are actually best at.	5	257	527	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1496.385	1496.666	Wang_bin	male	native	Uh-huh.	5	258	528	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1496.666	1500.030	Dou_wentao	male	native	So, by talking nonsense, intellectuals gain both fame and money. So they will talk nonsense.	5	259	529	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1500.030	1501.580	Dou_wentao	male	native	Talking nonsense are not a derogatory term ah.	5	259	530	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1501.580	1502.161	Dou_wentao	male	native	I'm not saying it's not good.	5	260	531	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1501.580	1502.161	Wang_bin	male	native	Uh-huh.	5	260	532	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1502.161	1504.984	Dou_wentao	male	native	I mean in a diversified society, he would notice,	5	261	533	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1505.555	1507.538	Dou_wentao	male	native	((dare to know)) daring	5	261	535	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1507.538	1507.859	Wang_bin	male	native	Uh-huh.	5	262	536	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1507.859	1512.245	Dou_wentao	male	native	Therefore, I have associated it with the question of historians that I mentioned just now.	5	263	537	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1512.245	1519.165	Dou_wentao	male	native	There was also a scholar beside who told me, maybe it's not that we scholars don't understand,	5	263	538	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1519.666	1523.320	Dou_wentao	male	native	but probably the scholars dare not,	5	263	540	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1523.850	1530.629	Dou_wentao	male	native	dare not do the job and dare not speak the truth. I'm not sure if his um uh is reasonable.	5	263	542	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1530.629	1531.140	Wang_bin	male	native	I think	5	264	543	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1530.629	1531.140	Dou_wentao	male	native	Uh-huh.	5	264	544	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1531.140	1533.280	Wang_bin	male	native	if no political taboo is violated,	5	265	545	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1533.280	1539.832	Wang_bin	male	native	in such a free age as today, you see from the Internet you can see, it's not that he doesn't dare to speak in an age when everything is discussed.	5	265	546	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1539.832	1540.253	Ying_zi	female	native	Uh-huh.	5	266	547	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1540.253	1547.583	Wang_bin	male	native	Therefore, I think in today's age, our scholars, as it was said in the past during the War of Resistance Against Japan, an intellectual said, the vast China had no room for a study desk.	5	267	548	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1547.583	1553.429	Wang_bin	male	native	There's more than enough room for a study desk today. It's your heart that has no room for a ((piece)) study desk when the vast China is immersed in noises.	5	267	549	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1553.429	1559.267	Dou_wentao	male	native	So, yes, if you don't have the solid, if nobody does his or her job solidly,	5	268	550	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1559.267	1562.115	Dou_wentao	male	native	what will happen? The whole society will live in illusions.	5	268	551	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1562.115	1562.472	Wang_bin	male	native	Right.	5	269	552	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1562.115	1562.472	Ying_zi	female	native	Right.	5	269	553	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1562.472	1566.337	Dou_wentao	male	native	Nobody works carefully to find out the truth, and nobody, you say if it's true. Drugs are fake,	5	270	554	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1566.337	1567.419	Wang_bin	male	native	foods are fake, and the	5	271	555	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1566.337	1567.419	Dou_wentao	male	native	Uh-huh, right.	5	271	556	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1567.419	1569.702	Dou_wentao	male	native	everything academic is fake.	5	272	557	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1569.702	1571.306	Dou_wentao	male	native	Based on some fake	5	272	558	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1571.306	1572.317	Dou_wentao	male	native	information sources,	5	273	559	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1571.306	1572.317	Ying_zi	female	native	Right, right, right.	5	273	560	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1572.317	1573.366	Dou_wentao	male	native	we are quarreling blindly all day long.	5	274	561	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1573.366	1574.838	Wang_bin	male	native	Completely and thoroughly	5	275	562	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1573.366	1574.838	Dou_wentao	male	native	cursing others blindly.	5	275	563	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1574.838	1576.855	Wang_bin	male	native	The air is permeated with groundless and malicious	5	276	564	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1576.855	1577.532	Wang_bin	male	native	fake information.	5	277	565	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1576.855	1577.532	Ying_zi	female	native	Right.	5	277	566	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1577.532	1578.132	Dou_wentao	male	native	Uh-huh.	5	278	567	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1577.532	1578.132	Wang_bin	male	native	Senseless	5	278	568	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1578.132	1583.165	Wang_bin	male	native	information. You see, sometimes, I occasionally sit together with a group of friends, say in the film and television or the literature circles,	5	279	569	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1583.165	1588.258	Wang_bin	male	native	you will find when we sit together and chat, our topics will drift to such stuff, either cursing this guy or cursing that guy.	5	279	570	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1588.258	1588.497	Ying_zi	female	native	Uh-huh.	5	280	571	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1588.497	1592.984	Wang_bin	male	native	That is people's point of excitement is on some utterly senseless and worthless things.	5	281	572	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1592.984	1594.266	Dou_wentao	male	native	Yes, uh-huh.	5	282	573	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1592.984	1594.266	Wang_bin	male	native	When the society is permeated with	5	282	574	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1594.266	1597.119	Wang_bin	male	native	such a kind of information, you don't know where valuable information is.	5	283	575	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1597.119	1598.010	Wang_bin	male	native	You also get lost.	5	284	576	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1597.119	1598.010	Dou_wentao	male	native	Uh-huh.	5	284	577	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1598.010	1603.738	Dou_wentao	male	native	Right. You just said resistance against Japan. I watched a TV series on television the other day, which I think is quite interesting.	5	285	578	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1603.738	1606.342	Dou_wentao	male	native	It says several, a dozen Japanese soldiers,	5	285	579	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1606.913	1610.948	Dou_wentao	male	native	with '38 rifles in hand. Do you know? They took to flight, wow, with rifles.	5	285	581	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1610.948	1614.511	Dou_wentao	male	native	Behind them uh, several farmers held red-tasseled spears and spears	5	285	582	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1614.511	1614.751	Wang_bin	male	native	Uh-huh.	5	286	583	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1614.751	1617.127	Dou_wentao	male	native	it seemed! The Japanese devils fled desperately with them chasing behind.	5	287	584	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1617.127	1619.351	Dou_wentao	male	native	One farmer had three spears on the back.	5	287	585	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1619.351	1619.761	Wang_bin	male	native	Uh.	5	288	586	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1619.761	1621.353	Dou_wentao	male	native	I wondered why the Japanese devils didn't fire the rifles.	5	289	587	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1621.353	1621.523	Wang_bin	male	native	Uh-huh.	5	290	588	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1621.523	1625.029	Dou_wentao	male	native	Rather they ran into a river with the rifles. Then the farmer, riding on horseback, do you know?	5	291	589	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1625.029	1628.174	Dou_wentao	male	native	Fuck, from probably 5 li away, hiss,	5	291	590	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1628.174	1629.245	Dou_wentao	male	native	he pull out a spear,	5	292	591	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1628.174	1629.245	Wang_bin	male	native	Uh-huh.	5	292	592	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1629.245	1632.489	Dou_wentao	male	native	and hiss, just like Olympic spear champion.	5	293	593	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1629.245	1632.489	Wang_bin	male	native		5	293	594	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1632.489	1633.411	Dou_wentao	male	native	Three throws,	5	293	595	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1632.489	1633.411	Wang_bin	male	native	Uh,	5	293	596	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1633.411	1635.504	Dou_wentao	male	native	they pricked through the heart and killed three,	5	294	597	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1633.411	1635.504	Ying_zi	female	native	(())	5	294	598	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1635.504	1636.586	Dou_wentao	male	native	three Japanese devils.	5	294	599	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1635.504	1636.586	Ying_zi	female	native	(())	5	294	600	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1636.586	1637.007	Ying_zi	female	native		5	295	601	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1637.007	1639.621	Dou_wentao	male	native	I mean that resisting Japan is good,	5	296	602	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1639.621	1640.202	Dou_wentao	male	native	but uh	5	297	603	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1639.621	1640.202	Wang_bin	male	native	(())	5	297	604	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1640.202	1641.464	Wang_bin	male	native	Is that so.	5	298	605	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1641.464	1643.907	Dou_wentao	male	native	it's not necessary to exaggerate that way to have the spirit of	5	299	606	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1643.907	1644.909	Dou_wentao	male	native	resisting Japan. Like in the	5	300	607	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1643.907	1644.909	Ying_zi	female	native	Uh-huh.	5	300	608	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1644.909	1650.517	Dou_wentao	male	native	Saving Private Ryan, our um uh sufferings, our hardships, my, difficulties in the battles	5	301	609	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1650.517	1650.757	Wang_bin	male	native	Right.	5	302	610	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1650.757	1651.238	Dou_wentao	male	native	can also	5	303	611	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1651.238	1652.300	Dou_wentao	male	native	reflect the spirit.	5	304	612	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1651.238	1652.300	Wang_bin	male	native	You see. You mentioned	5	304	613	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1652.300	1654.814	Wang_bin	male	native	the private, (()) we will come to Spielberg.	5	305	614	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1654.814	1658.339	Wang_bin	male	native	I have an exceptionally deep feeling. Spielberg previously had a, didn't he shoot a Schindler's List previously?	5	305	615	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1658.339	1662.104	Wang_bin	male	native	In Schindler's List, in fact he inadvertently and virtually created a divine figure.	5	305	616	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1662.104	1667.873	Wang_bin	male	native	And in that film, you can see Spielberg firmly believed that humanitarianism could save the mankind and could save oneself.	5	305	617	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1667.873	1670.056	Wang_bin	male	native	The film was followed by Saving Private Ryan.	5	305	618	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1670.056	1676.666	Wang_bin	male	native	In Saving Private Ryan, you will suddenly find that he has begun to have dualized doubts about the concept of humanitarianism itself.	5	305	619	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1676.666	1680.821	Wang_bin	male	native	That is you see, a humanitarian rescue mission was carried out to save the soldier. One after another group of soldiers went there,	5	305	620	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1680.821	1681.274	Wang_bin	male	native	a squad or	5	305	621	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1681.274	1682.108	Wang_bin	male	native	a platoon of soldiers went there.	5	306	622	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1681.274	1682.108	Dou_wentao	male	native	Yes, uh-huh.	5	306	623	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1682.108	1682.348	Dou_wentao	male	native	Uh-huh.	5	307	624	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1682.348	1688.577	Wang_bin	male	native	As a result, many lives were cost in the course of saving one person. You will then raise doubts about humanitarianism itself.	5	308	625	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1688.577	1689.508	Wang_bin	male	native	This is valuable.	5	308	626	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1690.059	1694.275	Wang_bin	male	native	You know, the two films must, at this moment, you'll find Spielberg himself had a self-reflection.	5	308	628	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1694.275	1694.986	Dou_wentao	male	native	Um-hum.	5	309	629	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1694.275	1694.986	Wang_bin	male	native	He had a review.	5	309	630	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1694.986	1699.192	Wang_bin	male	native	He attained yet another new level and a new philosophy, as he was no longer so stubborn about humanitarianism.	5	310	631	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1699.192	1702.726	Wang_bin	male	native	Even if he believes in it a little bit, he is, he is diversified.	5	310	632	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1702.726	1705.681	Wang_bin	male	native	It is not either-or, but both-and.	5	310	633	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1705.681	1705.911	Ying_zi	female	native	Uh-huh.	5	311	634	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1705.911	1706.351	Dou_wentao	male	native	Oops.	5	312	635	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1706.351	1707.083	Dou_wentao	male	native	So um	5	313	636	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1706.351	1707.083	Wang_bin	male	native	He	5	313	637	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1707.083	1709.966	Dou_wentao	male	native	um is proud of honesty and ashamed of fake.	5	314	638	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1709.966	1712.089	Dou_wentao	male	native	Behind the Headlines, see you after the ads.	5	314	639	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1778.356	1779.969	Dou_wentao	male	native	Eh, Yingzi what do you think?	7	316	641	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1779.969	1786.638	Ying_zi	female	native	Uh, I think the question of moral bottom line that Mr. Wang discussed just now. It's not that we talk too much, but we talk too little. It should be mentioned repeatedly.	7	317	642	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1786.638	1793.743	Ying_zi	female	native	Uh, It occurs to me, me, I think, my, my past um, I felt the society owed me, which of course doesn't follow I wanted to retaliate upon the society	7	317	643	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1793.743	1796.103	Dou_wentao	male	native	Right, right, right. I also feel the society owes me.	7	318	644	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1793.743	1796.103	Ying_zi	female	native	by killing a guy or something. If	7	318	645	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1796.103	1796.523	Dou_wentao	male	native	Yes, uh-huh.	7	319	646	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1796.523	1797.264	Dou_wentao	male	native		7	320	647	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1796.523	1797.264	Ying_zi	female	native	I, I, I'm	7	320	648	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1797.264	1802.892	Ying_zi	female	native	in such a noisy, so-called hit-rate and chaotic, where these senseless and gossipy things are discussed repeatedly everyday,	7	321	649	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1802.892	1805.136	Ying_zi	female	native	but each and every one of us is actually an instigator.	7	321	650	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1805.136	1805.777	Wang_bin	male	native	Uh-huh.	7	322	651	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1805.136	1805.777	Ying_zi	female	native	Who can say	7	322	652	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1805.777	1807.039	Ying_zi	female	native	he or she hasn't talked about it?	7	323	653	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1807.039	1807.389	Wang_bin	male	native	Uh-huh.	7	324	654	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1807.389	1812.927	Ying_zi	female	native	So, such things have turned me into someone who would not trust. When a piece of news is released, I would think, is it a show?	7	325	655	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1812.927	1813.648	Ying_zi	female	native	Does it intend to stir things up?	7	326	656	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1812.927	1813.648	Wang_bin	male	native	Uh-huh.	7	326	657	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1813.648	1815.110	Ying_zi	female	native	Is it a capper? Things like that.	7	327	658	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1815.110	1817.772	Ying_zi	female	native	Uh, just like what Jesus says, who can throw at the	7	327	659	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1817.772	1818.615	Ying_zi	female	native	whore in the well?	7	328	660	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1817.772	1818.615	Wang_bin	male	native	Uh-huh.	7	328	661	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1818.615	1819.246	Ying_zi	female	native	Whoever,	7	328	662	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1818.615	1819.246	Wang_bin	male	native	Uh-huh.	7	328	663	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1819.246	1822.852	Ying_zi	female	native	whoever hasn't done a bad deed shall throw the stone.	7	329	664	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1822.852	1824.555	Ying_zi	female	native	I think that, that um	7	330	665	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1822.852	1824.555	Dou_wentao	male	native	Uh, your point is very good.	7	330	666	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1824.555	1825.216	Ying_zi	female	native	the thing.	7	331	667	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1824.555	1825.216	Wang_bin	male	native	Uh-huh.	7	331	668	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1825.216	1825.927	Ying_zi	female	native	Today I saw a	7	332	669	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1825.216	1825.927	Dou_wentao	male	native	Right.	7	332	670	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1825.927	1827.139	Ying_zi	female	native	news story. What is it about?	7	333	671	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1827.139	1833.624	Ying_zi	female	native	It says there's a guy in Hangzhou who has lost sight in both eyes, but his doctor found there's a chance that his corneas may survive	7	333	672	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1833.624	1836.643	Ying_zi	female	native	and suggested he donate the corneas to someone who need them.	7	333	673	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1836.643	1842.193	Ying_zi	female	native	As a result uh, he um happily agreed, when he learned that the person who needed the corneas was a two-year old girl. The news was from last evening.	7	333	674	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1842.193	1842.422	Wang_bin	male	native	Uh-huh.	7	334	675	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1842.422	1848.201	Ying_zi	female	native	was a two-year old girl, as he had lost sight, he thus donated the corneas resolutely to the, to enable her	7	335	676	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1848.201	1849.020	Ying_zi	female	native	to see again.	7	336	677	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1848.201	1849.020	Wang_bin	male	native	Uh-huh.	7	336	678	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1849.020	1857.241	Ying_zi	female	native	Unexpectedly, in the blog, today I saw someone who talked about the Hangzhou guy, whom I think is an extremely marvelous, a benevolent and righteous person,	7	337	679	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1857.241	1859.324	Ying_zi	female	native	that his act was a show.	7	337	680	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1859.324	1863.200	Ying_zi	female	native	I think, I thought at that time, bastard! Who said this, the guy should be hanged.	7	337	681	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1863.200	1865.854	Wang_bin	male	native	I (()) I recently	7	338	682	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1863.200	1865.854	Ying_zi	female	native	Who wrote the blog and had the nerve to post it.	7	338	683	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1865.854	1870.301	Wang_bin	male	native	saw a news story that touched me deeply. That is a, um student when he got acquainted with the Internet buddies,	7	339	684	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1870.301	1875.258	Wang_bin	male	native	none of whom knew each other before. Then they had an excursion together. At last, they were, when they camped outside,	7	339	685	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1875.258	1878.173	Wang_bin	male	native	taking a rest, mountain torrents came and one of them died. Then	7	339	686	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1878.724	1882.730	Wang_bin	male	native	someone said, you should apologize. You should apologize to the dead. You should compensate him.	7	339	688	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1882.730	1884.623	Wang_bin	male	native	Here, many people just turned their back upon this.	7	339	689	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1884.623	1889.310	Wang_bin	male	native	At such a juncture, a girl appeared, who was very rich and only 25-year old. She suddenly stood out and said, you must apologize.	7	339	690	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1889.851	1891.493	Wang_bin	male	native	The others didn't agree and wouldn't ((pw)), apologize.	7	339	692	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1891.493	1897.240	Wang_bin	male	native	The girl said something. She sued them to court first and said you must apologize and make cash compensations. She said, it doesn't matter if you don't have the money. I will pay.	7	339	693	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1897.240	1902.287	Wang_bin	male	native	She said he ((pw)), the court ruled 250,000. She said I can pay the money. She said, I must tell you life is high above.	7	339	694	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1902.948	1903.619	Dou_wentao	male	native	Life	7	340	696	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1903.619	1905.109	Dou_wentao	male	native	is high above!	7	341	697	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1903.619	1905.109	Wang_bin	male	native	is above. Just because	7	341	698	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1905.109	1909.529	Wang_bin	male	native	the guy died. He has no better, why does he ask you to apologize? Because life is above everything.	7	342	699	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1910.250	1912.023	Ying_zi	female	native	I think morality must be rebuilt.	7	343	701	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1910.250	1912.023	Wang_bin	male	native	This today, right.	7	343	702	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1912.023	1913.365	Wang_bin	male	native	Right, we must rebuild, yes	7	344	703	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1912.023	1913.365	Ying_zi	female	native	it's time.	7	344	704	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1913.365	1913.776	Wang_bin	male	native	Now it's	7	345	705	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1913.776	1914.307	Wang_bin	male	native	now so-called	7	346	706	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1913.776	1914.307	Dou_wentao	male	native	Right.	7	346	707	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1914.307	1915.118	Wang_bin	male	native	free and open.	7	347	708	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1915.118	1916.660	Ying_zi	female	native	Cultural renaissance and morality rebuilding must go side by side.	7	348	709	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1915.118	1916.660	Wang_bin	male	native	Freedom and opening do not mean	7	348	710	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1916.660	1917.341	Wang_bin	male	native	moral bottom line is to be	7	349	711	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1917.341	1917.972	Wang_bin	male	native	lost.	7	350	712	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1917.341	1917.972	Dou_wentao	male	native	It's true.	7	350	713	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1917.972	1920.496	Dou_wentao	male	native	You say um, ah, I'm one of the participants.	7	351	714	report	
+PHOENIX_BEHINDHL_CMN_20070106_052800	0	1920.496	1921.467	Dou_wentao	male	native	I'm a media guy	7	351	715	report	

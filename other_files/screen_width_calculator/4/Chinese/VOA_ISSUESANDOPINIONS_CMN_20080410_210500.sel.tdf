@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 269.88299999999998, 477.15899999999999, 589.95600000000002, 707.00599999999997, 763.52200000000005, 782.375, 1514.6579999999999, 1532.626, 2545.2930000000001, 2586.299, 3126.6799999999998, 3147.8809999999999, 3413.7339999999999, 9999999.0]
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	813.841	823.998	Xiao_Xun	male	native	我们看到从这个呃伦敦到巴黎,呃一-一直到这个旧金山,都出现了一些这个呃这个各种各样的状况	6	24	70	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1110.610	1130.382	Xiao_Xun	male	native	主要这个您提到这个方式的问题, {cough} 我们注意到这个媒体的报道,前一段时间,中国的呃官方还有中国的一些这个网络上的一些这个网友对于这个媒体,西方媒体的一些报道呃,采取这种报道的方式,呃有这种比较抵触的这种情绪	6	33	104	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1342.236	1347.360	Liu_Xiao_Zhu	male	native	我我想我想这个可以分 {cough} 分几个方面来谈	6	39	125	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1506.751	1512.111	Xiao_Xun	male	native	欢迎打电话来参加我们的讨论,向我们的来宾突出问题或者是发表您自己的看法	6	41	140	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1600.563	1605.783	speaker#8	male	native	这不是中国,很世界上很多国家的人(())都应该改善人权,包括美国	8	48	156	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1631.606	1633.496	Xiao_Xun	male	native	喂	8	51	163	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1636.120	1638.370	speaker#9	male	native	(())你们早上好	8	53	167	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1722.302	1724.240	speaker#10	male	native	我觉得(())	8	61	183	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1762.947	1772.695	speaker#10	male	native	有些部分呃我想问嘉宾会不会出现这样问题,因为这一次申(())一个很有一个身份的人,萨萨科齐阻挠	8	61	187	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	2180.772	2181.803	speaker#11	male	native	喂	8	75	241	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	3018.694	3024.146	speaker#15	male	native	一个国家要变化要怎么变,由他老百姓决定,有一个过程	10	111	361	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	3049.587	3056.446	speaker#15	male	native	整个历史追溯起来有一个有一个过程的,是不是,要实事求是的来分析	10	111	365	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	3342.701	3347.139	speaker#16	female	native	美国已经为津巴布韦提供了三百多万美元的食品援助	12	128	406	report	statement

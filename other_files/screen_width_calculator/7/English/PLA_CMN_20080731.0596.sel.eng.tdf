@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080731.0596	0	300.0	400.0	speaker	unknown	unknown	- Beijing Olympic Games volunteers from a foreigner's eye.	0	0	0		
+PLA_CMN_20080731.0596	0	500.0	600.0	speaker	unknown	unknown	1:00 a.m., when most people have fallen into their dreams, the Beijing Olympic Games volunteer at the media village of Green Home, Zhang Jiaman, was still on duty in the ground-floor laundry room of building C6.	0	0	0		
+PLA_CMN_20080731.0596	0	1400.0	1500.0	speaker	unknown	unknown	Ezra Shaw from Australia works for the Getty Picture Agency, the official picture agency of the Beijing Olympics Organizing Committee.	0	0	0		
+PLA_CMN_20080731.0596	0	2400.0	2500.0	speaker	unknown	unknown	There was one time when I needed to use the bathroom, a female volunteer directly took me to the entrance of a men's room.	0	0	0		
+PLA_CMN_20080731.0596	0	2600.0	2700.0	speaker	unknown	unknown	An official of BOCOG expressed that China is a nation of etiquette, it has a tradition of hospitality.	0	0	0		
+PLA_CMN_20080731.0596	0	3100.0	3200.0	speaker	unknown	unknown	Volunteers are helping people, and the helped people should be grateful."	0	0	0		

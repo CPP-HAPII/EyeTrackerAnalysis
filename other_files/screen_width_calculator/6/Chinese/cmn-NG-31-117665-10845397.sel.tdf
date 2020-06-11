@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117665-10845397	0	100.0	200.0	speaker	unknown	unknown	变化确实好大【 在 Dieken (风催草低 - 明月何尝不照人) 的大作中提到: 】: http://perlgeek.de/blog-en/perl-5-to-6/: Posts in this category: * Introduction: ...................	0	0	0		

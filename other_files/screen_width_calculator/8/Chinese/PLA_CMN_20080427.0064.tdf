@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080427.0064.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	海军某部官兵：科学发展观指引我成长	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-27 06:07:31   来源：解放军报第1版	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报讯　邵建、记者陈生庚报道：海军某部广泛开展的“科学发展观指引我成长”教育实践活动，在官兵中架起了理论与实践的桥梁，不断增长官兵建功立业本领，促进了部队建设。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	海军日前推广了他们的经验。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	这个部队党委在深入学习贯彻十七大精神中，通过局域网征求官兵意见：“怎样才能使科学发展观落到实处？”	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	上百条跟帖中最多的建议是：部队的全面协调可持续发展，要靠官兵的过硬素质来支撑，必须想方设法激励官兵沿着科学发展的轨道成长成才。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	为此，部队党委在官兵中广泛开展“科学发展观指引我成长”教育实践活动。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1287.500	1300.000	TEXT1	unknown	unkown	他们着重从政治思想、职业道德、科学文化、军事技能四个方面为官兵设定了成长成才目标。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	部队党委着力引导官兵在学习中明理、在熏陶中感悟、在励志中奋进。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	记者在部队看到，开放式学习、互动式交流、自主式教育有声有色，领导担纲答题、理论骨干点评等等，把科学发展观的本质内涵剖析得入耳入脑。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	他们还发挥驻地红色教育资源优势，组织开展讲太行故事、唱太行歌曲、看太行影片、做太行传人活动。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1587.500	1593.750	TEXT1	unknown	unkown	部队政委张和平兴奋地说：实践证明，这一活动有效促进了官兵健康成长。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1593.750	1596.875	TEXT1	unknown	unkown	官兵们一专多能、一兵多用的本领日益见长，有11项成果获军队或国家科技进步奖。	0	0	0		statement
+PLA_CMN_20080427.0064.sgm	0	1596.875	1600.000	TEXT1	unknown	unkown	部队长张兴虎首创“一二五”物资定量包装法，获国家发明专利金奖。	0	0	0		statement

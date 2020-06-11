@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.2160	0	500.0	600.0	speaker	unknown	unknown	事故车辆侧翻在马路中间，100余罐煤气钢瓶横七竖八的散倒周围，现场被刺鼻的煤气味所笼罩。	0	0	0		
+CNS_CMN_20080716.2160	0	600.0	700.0	speaker	unknown	unknown	此时，车辆来往多，旁边还有围观群众，煤气钢瓶泄漏发出的“吱吱”声，而当时马路地面温度也已很高了，在场的消防官兵着实倒吸了一口凉气。	0	0	0		
+CNS_CMN_20080716.2160	0	1100.0	1200.0	speaker	unknown	unknown	一只接着一只……官兵们轻拿轻放，生怕一不小心与地面发生摩擦，导致有火花酿惨剧。	0	0	0		

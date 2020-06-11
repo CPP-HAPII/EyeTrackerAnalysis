@@ -1,0 +1,351 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 266.13999999999999, 1161.5630000000001, 1321.4580000000001, 1587.586, 9999999.0]
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	266.140	270.514	Hu_yihu	male	native	Wang You-theng, Head of the Rebar Group and an illustrious and politically well-connected businessman, has now become poison to investors' rights and interests	1	1	1	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	270.514	273.248	Hu_yihu	male	native	as well as the bane to the reputation of the business community as a whole.	1	1	2	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	273.248	277.670	Hu_yihu	male	native	This huge financial scandal involving embezzlement of corporate assets by a company chairman	1	1	3	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	277.670	282.499	Hu_yihu	male	native	not only pushed the nearly 50-year old Rebar Group from lofty heights over the cliff down an abyss.	1	1	4	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	282.499	285.999	Hu_yihu	male	native	but also ruined whatever trust the Taiwan people had in top level government officials in charge of the financial marketplace.	1	1	5	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	285.999	289.343	Hu_yihu	male	native	The storm has now already spilled over from economic arena into politics in Taiwan.	1	1	6	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	289.343	291.796	Hu_yihu	male	native	and also triggered power struggles between top political chieftains.	1	1	7	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	291.796	295.561	Hu_yihu	male	native	Will the Rebar storm lead to Chen Shuibian taking over all-embracing power again?	1	1	8	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	295.561	299.326	Hu_yihu	male	native	Or will it mark the start of a reversal of Su Zhenchang's fortunes on his march toward a 2008 election victory?	1	1	9	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	299.326	302.935	Hu_yihu	male	native	To what extent will this storm really affect the economic and political life in Taiwan?	1	1	10	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	302.935	308.107	Hu_yihu	male	native	This evening, Phoenix World Watch will follow up on this corporate "harrow-out" scandal which has shaken up economic and political life throughout all Chinese communities.	1	1	11	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	308.107	312.482	Hu_yihu	male	native	One participant in our discussions will be Professor Yin Naiping of the Department of Finance at the National Chengchi University. He is a renowned financial expert in Taiwan.	1	1	12	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	312.482	317.388	Hu_yihu	male	native	The other is the astute political commentator in Taipei's political circles, Professor Xu Yong-ming, Assistant Research Fellow at the Academia Sinica of Taiwan.	1	1	13	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	317.388	323.373	Hu_yihu	male	native	Together, we'll analyze the question: who carried off the investors' big pot of gold	1	1	14	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	323.373	328.858	Hu_yihu	male	native	We are turning our attention to Taiwan's political life. Prosecutors in Taiwan are intensively investigating the Rebar Group embezzlement case.	1	1	15	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	328.858	330.468	Hu_yihu	male	native	According to the latest information,	1	1	16	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	330.468	333.234	Hu_yihu	male	native	already 59 senior executives of the Rebar Group	1	1	17	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	333.234	336.562	Hu_yihu	male	native	and Wang You-theng's family members and relatives are all barred from leaving the country.	1	1	18	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	336.562	341.967	Hu_yihu	male	native	We have here a criminal case in Taiwan involving the largest number of people barred from leaving the island.	1	1	19	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	341.967	346.327	Hu_yihu	male	native	All hands processing procedures of people exiting Taiwan are instructed to memorize the faces of these 59 tagged persons.	1	1	20	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	346.327	350.936	Hu_yihu	male	native	Of the 59, 57 are still in Taiwan. The authorities want to do everything to prevent them from leaving the country in secret.	1	1	21	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	350.936	355.717	Hu_yihu	male	native	The Rebar Group, once one of the 20 largest conglomerates in Taiwan, collapsed overnight.	1	1	22	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	355.717	358.974	Hu_yihu	male	native	At the root of this is the long-standing conspiracy between government officials and businesses to commit fraud.	1	1	23	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	358.974	360.802	Hu_yihu	male	native	The whole thing warrants close attention of each and every Chinese person around the globe.	1	1	24	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	360.802	361.911	Hu_yihu	male	native	This is Yang Xin in a follow-up report.	1	1	25	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	363.415	369.540	Hu_yihu	male	native	On December 29, 2006, China Rebar Co. and Chia Hsin Food & Synthetic Fiber Co., two subsidiaries of the Rebar Group,	1	2	27	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	369.540	372.915	Hu_yihu	male	native	filed application with the court for corporate restructuring under bankruptcy protection because of insolvency due to huge losses.	1	2	28	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	372.915	376.899	Hu_yihu	male	native	On January 4, 2007, the District Court in Taiwan consented to the restructuring of these two enterprises.	1	2	29	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	376.899	379.118	Hu_yihu	male	native	Trading of the two companies' stocks was suspended right away,	1	2	30	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	379.118	381.477	Hu_yihu	male	native	and assets of thousands upon thousands of their investors went up in smoke.	1	2	31	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	381.477	385.102	Hu_yihu	male	native	Wang You-theng and his family, owners of the Rebar Group, have gotten rid of all shares they held long ago.	1	2	32	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	385.102	387.118	Hu_yihu	male	native	This action is the cause for great panic and discontent among the public,	1	2	33	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	387.118	390.165	Hu_yihu	male	native	and has touched off a run on the group's affiliate, The Chunghua Bank.	1	2	34	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	390.165	392.258	Hu_yihu	male	native	And the government took over management of the bank.	1	2	35	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	392.258	397.008	Hu_yihu	male	native	On January 8, 2007, authorities began an all-out investigation of the Rebar case and began large-scale searches.	1	2	36	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	397.587	403.368	Hu_yihu	male	native	January 11, 2007, the prosecutors said they called in Wang You-theng's son Wang Lingyi and Wang You-theng's brother Frank Wang.	1	2	38	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	403.368	407.837	Hu_yihu	male	native	But by then, Wang You-theng and his fourth wife Wang Jin Shiying already fled to Shanghai (()).	1	2	39	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	407.837	411.915	Hu_yihu	male	native	Afterwards, Wang Jin Shiying returned to Taiwan once to take care of the accounts she illegally held under names of other persons (()).	1	2	40	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	411.915	417.821	Hu_yihu	male	native	((pw)) (()) were charged with violating the securities transactions regulations, breach of trust and other offenses.	1	2	41	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	417.821	423.914	Hu_yihu	male	native	The Rebar Group is suspected of deliberately stripping at least NT$70 billion from three of its affiliated companies including the Chunghua Bank.	1	2	42	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	423.914	427.930	Hu_yihu	male	native	On January 15, the Taipei District Prosecutors' Office ordered the arrest of the Wang You-theng couple and put their names on the wanted list.	1	2	43	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	427.930	431.430	Hu_yihu	male	native	The arrest warrant is valid for 25 years, that is until Wang You-theng is 104 years old.	1	2	44	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	431.430	435.446	Hu_yihu	male	native	Taipei's prosecutors also launched renewed extensive searches and	1	2	45	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	435.446	438.055	Hu_yihu	male	native	Wang's eight sons and daughters are all under surveillance.	1	2	46	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	438.055	444.274	Hu_yihu	male	native	Wang You-theng's son Gary Wang, chairman of the affiliated multimedia group, became the 48th person involved in the Rebar case who are prohibited to exit the country.	1	2	47	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	444.274	449.774	Hu_yihu	male	native	On the same day, Taiwan's foreign relations officials confirmed that the Wang You-theng couple boarded a plane in Shanghai for America as early as the 13th.	1	2	48	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	449.774	452.384	Hu_yihu	male	native	Taiwanese authorities announced that the couple's travel documents were revoked	1	2	49	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	452.384	454.931	Hu_yihu	male	native	and requested the American Institute in Taiwan for	1	2	50	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	454.931	457.556	Hu_yihu	male	native	help to extradite the Wang couple to Taiwan.	1	2	51	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	457.556	461.446	Hu_yihu	male	native	January 16, 2007, investigators will conduct a search at the Eastern Multimedia Group.	1	2	52	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	462.664	468.503	Hu_yihu	male	native	Many Taiwanese media reports say the Rebar embezzlement case can be considered the first bomb to explode in Taiwan's financial history in 2007,	1	3	54	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	468.503	471.456	Hu_yihu	male	native	and that many other bombs are waiting to be ignited one by one in 2007.	1	3	55	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	471.456	473.925	Hu_yihu	male	native	Will all these hurt Taiwan's financial and economic sector?	1	3	56	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	473.925	478.456	Hu_yihu	male	native	On this question, we will now consult Professor Yin Naiping of the Department of Finance at the National Chengchi University in Taipei. Greetings, Prof. Yin.	1	3	57	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	478.456	479.816	Hu_yihu	male	native	I'd like to ask you this question.	1	3	58	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	479.816	485.832	Hu_yihu	male	native	Many people say, up to now, this storm is, in fact, gradually calming down, thanks to forceful counter-measures taken by the Taiwanese government.	1	3	59	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	485.832	490.379	Hu_yihu	male	native	However, others say the deeper the investigators dig, the bigger the hole will turn out to be.	1	3	60	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	490.379	494.988	Hu_yihu	male	native	How big is the hole, how much of Rebar's assets has been appropriated fraudulently? What is your understanding?	1	3	61	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	496.394	499.228	Yin_naiping	male	native	The amount that is paid out at the run on the bank	1	4	63	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	499.228	499.603	Hu_yihu	male	native	Uh huh.	1	5	64	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	499.228	499.603	Yin_naiping	male	native	Eh,	1	5	65	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	499.603	501.650	Yin_naiping	male	native	is approximately 51.5 billion.	1	6	66	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	501.650	507.103	Yin_naiping	male	native	But compared to this sum, the figure for the looted assets is far, far higher.	1	6	67	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	507.103	511.937	Yin_naiping	male	native	Some ((pw)) estimate that the total is (()).	1	6	68	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	517.924	521.572	Yin_naiping	male	native	Eh, we'll see what the final amount will be.	1	6	70	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	521.572	522.025	Hu_yihu	male	native	Uh huh.	1	7	71	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	522.025	527.930	Hu_yihu	male	native	Actually some people describe this whole process as something of a surgical operation that has been going on for many years.	1	7	72	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	527.930	533.711	Hu_yihu	male	native	Finally, after the scandal came out into the open, the total market value of the Taiwanese stock market at one point plunged by more than 800 billion.	1	7	73	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	533.711	538.820	Hu_yihu	male	native	Nearly fifty of the Taiwanese companies traded on the stock market and over the counter were affected.	1	7	74	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	538.820	543.758	Hu_yihu	male	native	What is the most valuable lesson that all Chinese economic and financial circles throughout the world can and should learn from this whole ugly episode?	1	7	75	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	545.242	553.116	Yin_naiping	male	native	We can see from this example that it has taken more than, some say, ten years to plan and carry through the fraud.	1	8	77	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	553.116	556.632	Yin_naiping	male	native	Problems began to arise as early as 1998,	1	8	78	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	556.632	558.507	Yin_naiping	male	native	but those involved waited until now to report them.	1	8	79	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	558.507	563.741	Yin_naiping	male	native	During this process they kept on trying to transfer the good parts of failing subsidiaries to Eastern Multimedia.	1	8	80	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	563.741	567.710	Yin_naiping	male	native	The selection process left the rotten parts in Rebar which eventually was taken over by the government.	1	8	81	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	567.710	576.101	Yin_naiping	male	native	So this case occurring in Taiwan -- This scandal broke out and --	1	8	82	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	576.101	580.023	Yin_naiping	male	native	generated huge shock waves in both the economic and political arena.	1	8	83	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	580.023	587.023	Yin_naiping	male	native	At present, in the financial sector, the government assumed control of six to seven such banks.	1	8	84	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	587.023	593.432	Yin_naiping	male	native	Their businesses have to be sorted out by the government. Net worth of these banks is all negative.	1	8	85	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	593.432	595.073	Yin_naiping	male	native	That is, they lost everything.	1	8	86	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	595.073	598.058	Yin_naiping	male	native	Now they are losing their depositors' money.	1	8	87	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	598.058	599.683	Yin_naiping	male	native	Something should have been done a long time ago.	1	8	88	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	599.683	603.933	Yin_naiping	male	native	So, if you look at the problems, they are not going away that soon.	1	8	89	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	603.933	609.808	Yin_naiping	male	native	The problems in Taiwan's financial and banking world -- if allowed to drag on and not dealt with firmly and boldly -- can become much worse.	1	8	90	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	609.808	614.198	Yin_naiping	male	native	Of course, to all the Chinese-speaking regions,	1	8	91	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	614.198	614.589	Yin_naiping	male	native	to all of them,	1	9	92	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	614.198	614.589	Hu_yihu	male	native	Uh huh.	1	9	93	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	614.589	615.746	Yin_naiping	male	native	this scandal will have an enormous impact.	1	10	94	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	615.746	619.527	Yin_naiping	male	native	As we ((pw)), know, there are many family-owned and family-run conglomerates in all Chinese-speaking regions throughout the world,	1	10	95	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	619.527	620.074	Yin_naiping	male	native	and,	1	10	96	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	624.086	627.730	Yin_naiping	male	native	such practices of [illegal asset transfer and cross-ownership of shares] are rampant.	1	10	98	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	627.730	632.511	Yin_naiping	male	native	We have this kind of situation not only in Taiwan. The same applies -- as we saw in the past -- to Thailand, Indonesia,	1	10	99	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	632.511	635.355	Yin_naiping	male	native	and even to Hong Kong.	1	10	100	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	635.355	638.605	Yin_naiping	male	native	So, if these conglomerates	1	10	101	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	638.605	645.901	Yin_naiping	male	native	do not or cannot straighten out their internal finances according to the law,	1	10	102	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	645.901	648.026	Yin_naiping	male	native	they could all go awry some day.	1	10	103	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	648.026	653.433	Yin_naiping	male	native	Once there are problems inside the financial groups, if their bank -- functioning as a fund raiser and money transfer agent at the forefront --	1	10	104	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	653.433	655.636	Yin_naiping	male	native	is "hollowed out,"	1	10	105	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	655.636	656.151	Yin_naiping	male	native	it could be the first	1	11	106	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	655.636	656.151	Hu_yihu	male	native	Uh huh.	1	11	107	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	656.151	657.542	Yin_naiping	male	native	to collapse.	1	12	108	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	657.542	660.605	Yin_naiping	male	native	For example, in the past, we have, in Taiwan, the Pan Asia [Fanya] Bank	1	12	109	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	660.605	664.262	Yin_naiping	male	native	and the Chunghsing Bank. Both were affiliated with large conglomerates, and all had trouble.	1	12	110	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	664.262	664.575	Hu_yihu	male	native	Uh huh.	1	13	111	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	664.575	670.013	Yin_naiping	male	native	In the future, other banks affiliated with large conglomerates will follow in their footsteps.	1	14	112	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	670.013	676.975	Yin_naiping	male	native	The crux of the problem is whether the government can implement wide-ranging and large-scale structural reforms.	1	14	113	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	676.975	678.241	Hu_yihu	male	native	Taiwan did reiterate with special emphasis	1	15	114	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	676.975	678.241	Yin_naiping	male	native	(())	1	15	115	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	678.241	679.593	Hu_yihu	male	native	that its economic and financial supervisory authorities have been strengthened,	1	16	116	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	679.593	680.984	Hu_yihu	male	native	and greater emphasis has been placed on auditing and control work.	1	16	117	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	680.984	684.827	Hu_yihu	male	native	At the same time, as you just mentioned, there were still many scandals involving embezzlement cases in connection with many conglomerates.	1	16	118	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	684.827	688.772	Hu_yihu	male	native	Why didn't the scandals teach people a lesson? Is it due to a lack of (()) in auditing and control work?	1	16	119	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	689.849	692.280	Yin_naiping	male	native	I think the sub-standard performance of financial auditing and control	1	17	121	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	692.280	694.717	Yin_naiping	male	native	and the poor quality of the personnel	1	17	122	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	694.717	695.654	Yin_naiping	male	native	are obvious and well-known to everybody.	1	17	123	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	695.654	699.998	Yin_naiping	male	native	True, auditors are neither experienced nor well trained. Naturally, some would say they are not up to par.	1	17	124	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	699.998	704.498	Yin_naiping	male	native	Many people say they turn a blind eye when auditing some books, as the saying goes: "they look, but don't see."	1	17	125	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	704.498	704.732	Hu_yihu	male	native	Uh huh.	1	18	126	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	704.732	706.404	Yin_naiping	male	native	Others even say they intentionally ignore certain things	1	19	127	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	706.404	709.493	Yin_naiping	male	native	because of the entangled personal ties in the top echelons of government and business.	1	19	128	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	709.493	709.993	Hu_yihu	male	native	Uh huh.	1	20	129	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	709.493	709.993	Yin_naiping	male	native	Yes.	1	20	130	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	709.993	712.805	Yin_naiping	male	native	So the auditors at lower levels don't dare do their duty.	1	21	131	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	712.805	713.118	Hu_yihu	male	native	Uh huh.	1	22	132	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	713.118	715.508	Yin_naiping	male	native	Of course, on the other hand, we can see that	1	23	133	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	715.508	725.586	Yin_naiping	male	native	to regulate banks affiliated with conglomerates or intra-group transfer our (())	1	23	134	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	725.586	729.117	Yin_naiping	male	native	laws have set no clear and strict rules or restrictions.	1	23	135	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	729.117	729.399	Hu_yihu	male	native	Uh huh.	1	24	136	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	729.399	734.587	Yin_naiping	male	native	Banking laws used to impose only restrictions on low-rank bank employees,	1	25	137	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	734.587	734.947	Hu_yihu	male	native	Uh huh.	1	26	138	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	734.587	734.947	Yin_naiping	male	native	or on	1	26	139	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	734.947	736.525	Yin_naiping	male	native	loans to associates.	1	27	140	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	736.525	736.790	Hu_yihu	male	native	Uh huh.	1	28	141	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	736.790	741.368	Yin_naiping	male	native	But as for legal persons, that is legal entities within a conglomerate,	1	29	142	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	741.368	743.495	Yin_naiping	male	native	subsidiaries under the conglomerate,	1	29	143	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	743.495	743.902	Yin_naiping	male	native	applying for a loan	1	30	144	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	743.495	743.902	Hu_yihu	male	native	Uh huh.	1	30	145	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	743.902	748.102	Yin_naiping	male	native	the case most probably falls outside the lending restrictions to associates.	1	31	146	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	748.102	748.414	Hu_yihu	male	native	Uh huh	1	32	147	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	748.414	752.008	Yin_naiping	male	native	So we, soon after restrictions on establishing new banks were lifted,	1	33	148	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	752.008	756.242	Yin_naiping	male	native	these financial conglomerates set up new banks and soon looted all the assets of their banks which are the first-line contacts with the public.	1	33	149	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	756.242	756.461	Hu_yihu	male	native	Uh huh.	1	34	150	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	756.461	761.445	Yin_naiping	male	native	This is why we predict that many of the banks affiliated with conglomerates will get into trouble some day.	1	35	151	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	761.445	764.757	Hu_yihu	male	native	Yes, this also explains why Rebar was able to expand from a (()) small company into such a giant conglomerate,	1	36	152	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	764.757	766.835	Hu_yihu	male	native	and, by declaring itself bankrupt, create such high tidal waves in Taiwan's financial waters.	1	36	153	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	766.835	768.554	Hu_yihu	male	native	Next we'll ask Professor Xu Yong-ming of Taipei a question.	1	36	154	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	768.554	773.678	Hu_yihu	male	native	Hi, my good friend Yong-ming, before you start answering my questions, I'd like to show you a few small pictures our production staff put in this program.	1	36	155	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	773.678	777.732	Hu_yihu	male	native	These photos give evidence to what Professor Yin just mentioned specifically about politician-business ties.	1	36	156	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	777.732	782.745	Hu_yihu	male	native	As you can see from the picture which just appeared, Wang You-theng is standing beside Koo Chenfu who everyone knows is the late Chairman of the Strait Exchange Foundation.	1	36	157	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	782.745	786.869	Hu_yihu	male	native	And now we see, at Wang's side, Wu Tun-yi, the new Secretary-General of KMT.	1	36	158	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	786.869	791.353	Hu_yihu	male	native	I'm sure the next photo will leave a deep impression on everybody. It was taken in the year 2000,	1	36	159	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	791.353	795.540	Hu_yihu	male	native	in 2000, when Chen Shuibian took over the top post in Taiwan.	1	36	160	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	795.540	799.602	Hu_yihu	male	native	Wang You-theng, at that time, may be regarded as the person holding major responsibility in the business world in Taiwan.	1	36	161	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	799.602	804.774	Hu_yihu	male	native	Look at the posture of humble respect! He is helping Chen Shuibian take a seat.	1	36	162	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	804.774	806.999	Hu_yihu	male	native	Okay, coming back to our program, I would like to ask Yongming:	1	36	163	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	806.999	814.821	Hu_yihu	male	native	As you can see and as many people say, Wang You-theng survived 20 to 30 years in which political power in Taiwan was passed on from one party to another,	1	36	164	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	814.821	817.353	Hu_yihu	male	native	and even succeeded in keeping his conglomerate sure-footed and intact.	1	36	165	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	817.353	822.010	Hu_yihu	male	native	Keeping in mind that his group did not always enjoy a good image in Taiwan, and given the unique networking game he played between politics and business,	1	36	166	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	822.010	825.354	Hu_yihu	male	native	many people, including Ma Ying-jeou, would like to ask this question:	1	36	167	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	825.354	827.822	Hu_yihu	male	native	Who ultimately played the role of the protective parachute in this game of politico-business entanglement?	1	36	168	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	827.822	828.853	Hu_yihu	male	native	It could very well be the ruling political party.	1	36	169	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	828.853	831.463	Hu_yihu	male	native	The ruling party was the KMT in the past, and, the DPP now.	1	36	170	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	831.463	832.619	Hu_yihu	male	native	So who should be held responsible,	1	36	171	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	832.619	833.916	Hu_yihu	male	native	in your view?	1	36	172	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	833.916	836.025	Xu_yongming	male	native	In my, my opinion,	1	37	173	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	836.025	842.869	Xu_yongming	male	native	both the KMT and the DPP played a role in promoting and accelerating the growth of the fortunes of Wang You-theng and of the Rebar Group.	1	37	174	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	842.869	846.916	Xu_yongming	male	native	We know, for a fact, that Wang You-theng was a member of the Central Standing Committee of the KMT for 15 years.	1	37	175	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	846.916	851.509	Xu_yongming	male	native	His brother Frank Wang, who was recently taken into custody in Taipei, is currently also a member of the KMT Central Standing Committee.	1	37	176	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	851.509	856.056	Xu_yongming	male	native	One naturally wonders why would a businessman want to become member of the KMT Central Standing Committee.	1	37	177	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	856.056	858.400	Xu_yongming	male	native	Actually, this has something to do with the connections built up between politics and business.	1	37	178	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	858.400	860.806	Xu_yongming	male	native	Professor Yin also mentioned before	1	37	179	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	860.806	863.774	Xu_yongming	male	native	that from the time of Lee Teng-hui right up to that of Chen Shuibian,	1	37	180	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	863.774	866.078	Xu_yongming	male	native	Taiwan's conglomerates, in fact, went through a period of rapid expansion.	1	37	181	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	866.617	869.899	Xu_yongming	male	native	In the past when Chiang Ching-kuo was in power, cross-holding of shares among various entities of a conglomerate probably was prohibited.	1	37	183	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	869.899	876.039	Xu_yongming	male	native	But today you'll find Taiwan's large conglomerates run the business of insurance, banking, real estate, traditional industries	1	37	184	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	876.039	879.336	Xu_yongming	male	native	and even media and high-tech industries [out of one single shop].	1	37	185	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	879.336	882.648	Xu_yongming	male	native	Consequently, a helping hand extended by the moneyed groups in politics,	1	37	186	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	882.648	884.898	Xu_yongming	male	native	be it fund raising at election time,	1	37	187	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	884.898	886.617	Xu_yongming	male	native	or in dealing with the media	1	37	188	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	886.617	891.617	Xu_yongming	male	native	is of vital importance to politicians, in government or in the opposition KMT.	1	37	189	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	891.617	893.664	Xu_yongming	male	native	Why? You'll discover	1	37	190	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	893.664	896.945	Xu_yongming	male	native	that in Taiwan ties between politicians and business are instrumental to the growth of business enterprises,	1	37	191	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	896.945	899.992	Xu_yongming	male	native	and even to the expansion of large conglomerates.	1	37	192	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	899.992	905.617	Xu_yongming	male	native	You'll discover that many businessmen are actively managing ties between themselves and politicians.	1	37	193	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	905.617	909.086	Xu_yongming	male	native	Democratization of Taiwan and elections provide these businessmen a world of opportunities.	1	37	194	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	909.086	911.211	Xu_yongming	male	native	During election time, politicians are in need of donations,	1	37	195	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	911.211	914.008	Xu_yongming	male	native	other times, they need good ties with the media, ties between politicians and the media.	1	37	196	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	914.008	920.508	Xu_yongming	male	native	These things make politicians very cautious in their dealings with large conglomerates.	1	37	197	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	920.508	920.743	Hu_yihu	male	native	Um.	1	38	198	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	920.743	925.994	Xu_yongming	male	native	That provides the background for you to explore why the Rebar Group, as Prof. Yin said a few minutes ago, had their problems more than a dozen years ago.	1	39	199	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	925.994	929.260	Xu_yongming	male	native	But why did the case break out and call for remedial action only now?	1	39	200	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	929.260	931.723	Hu_yihu	male	native	The auditors and prosecutors in Taiwan, as Prof. Yin just said,	1	40	201	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	931.723	934.145	Hu_yihu	male	native	were afraid or cautious in dealing with these problems.	1	40	202	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	934.145	936.973	Hu_yihu	male	native	For those involved had very close political-business ties.	1	40	203	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	936.973	940.036	Hu_yihu	male	native	It might take them just a phone call to overrule the superiors of the auditors and prosecutors assigned to the case.	1	40	204	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	940.036	943.911	Hu_yihu	male	native	Could the same be true with the prosecutors assigned to this case this time?	1	40	205	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	943.911	945.812	Hu_yihu	male	native	Isn't there considerable political pressure?	1	40	206	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	945.812	947.812	Hu_yihu	male	native	For example, as Prof. Yin just emphasized,	1	40	207	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	947.812	951.265	Hu_yihu	male	native	the case snowballs, the amount he embezzled could reach up to 100 billion.	1	40	208	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	951.265	953.406	Hu_yihu	male	native	The key could be the Asia Pacific Broadcasting Company.	1	40	209	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	953.406	958.968	Hu_yihu	male	native	The Asia Pacific Broadcasting Company could be considered a subsidiary with cross-ownership of shares with the Rebar Group.	1	40	210	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	958.968	961.217	Hu_yihu	male	native	But when we look into the background of the Asia Pacific Broadcasting Company,	1	40	211	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	961.217	967.046	Hu_yihu	male	native	we found reports that close to 90 percent of its shares are held by Legislative Yuan members of both the government and the opposition parties..	1	40	212	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	967.046	968.999	Hu_yihu	male	native	Under such circumstances, will the prosecutors get to the bottom of things?	1	40	213	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	971.874	972.655	Yin_naiping	male	native	(())	1	41	215	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	971.874	972.655	Hu_yihu	male	native	Prof. Yin.	1	41	216	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	972.655	974.608	Hu_yihu	male	native	Yes, Prof. Yin. Please go ahead.	1	42	217	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	975.170	980.059	Yin_naiping	male	native	Eh, when prosecutors go after the case, they might steer away from some sensitive people (()).	1	43	219	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	981.670	988.458	Yin_naiping	male	native	That is, some DPP officials and other people in power.	1	43	221	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	988.458	988.692	Hu_yihu	male	native	Um.	1	44	222	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	988.692	990.536	Yin_naiping	male	native	They would find a way to steer away from them.	1	45	223	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	990.536	996.146	Yin_naiping	male	native	They, in other words, would prosecute selectively.	1	45	224	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	996.146	1001.459	Yin_naiping	male	native	That is, to choose, as many as possible, people of KMT background.	1	45	225	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1001.459	1004.178	Yin_naiping	male	native	Then, they would say, you are the ones responsible for the whole affair.	1	45	226	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1004.178	1004.741	Hu_yihu	male	native	Um.	1	46	227	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1004.741	1008.881	Hu_yihu	male	native	So, you think people handling these cases, including the prosecutors, would be subjected to formidable pressures.	1	46	228	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1008.881	1010.631	Hu_yihu	male	native	What is your view, Mr. Xu, Xu Yongming?	1	46	229	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1011.818	1014.662	Xu_yongming	male	native	I think, now, what should be given greater attention is, in fact,	1	47	231	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1014.662	1021.147	Xu_yongming	male	native	the effect this case has on the government and the government party, DPP, for Wang You-theng and his family are not the only ones affected.	1	47	232	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1021.147	1021.662	Yin_naiping	male	native	Um.	1	48	233	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1021.147	1021.662	Xu_yongming	male	native	Especially, the effect on	1	48	234	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1021.662	1024.146	Xu_yongming	male	native	Executive Yuan President Su Zhenchang, and the Su Cabinet.	1	49	235	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1024.146	1028.786	Xu_yongming	male	native	Many people had been of the opinion that before this case broke into the open, Su Zhenchang was, in fact, quite popular. He was highly regarded in public opinion polls.	1	49	236	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1028.786	1032.771	Xu_yongming	male	native	Some even say that he might be the DPP candidate for the 2008 presidential election.	1	49	237	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1032.771	1037.568	Xu_yongming	male	native	The present case is a heavy blow to (()).	1	49	238	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1037.568	1043.709	Xu_yongming	male	native	Even Chen Shuibian, when he was visiting abroad, applied pressure on Su and leveled criticism on him across the seas.	1	49	239	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1043.709	1048.115	Xu_yongming	male	native	Could that make Su feel that he has to do something to get some results out of the case,	1	49	240	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1048.115	1049.959	Xu_yongming	male	native	to prove his mettle?	1	49	241	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1049.959	1051.990	Xu_yongming	male	native	I think there might be such political pressure.	1	49	242	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1051.990	1056.709	Xu_yongming	male	native	Hence, you could see that the Investigation Bureau and the Prosecutors' Office are engaged in it in earnest and on a large scale.	1	49	243	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1056.709	1062.850	Xu_yongming	male	native	And, actually, press reports already had it, may people are barred from traveling out of Taiwan.	1	49	244	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1062.850	1065.402	Xu_yongming	male	native	Will there be arrests or detentions?	1	49	245	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1065.402	1068.975	Xu_yongming	male	native	Or, for example, will the Eastern Multimedia Group, and Gary Wang be implicated?	1	49	246	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1068.975	1070.287	Xu_yongming	male	native	I think all these are worth watching.	1	49	247	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1070.287	1072.442	Hu_yihu	male	native	Do you think the prosecutors would target him?	1	50	248	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1070.287	1072.442	Xu_yongming	male	native	That is, the present case	1	50	249	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1072.442	1073.645	Hu_yihu	male	native	could lead to Gary Wang?	1	51	250	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1073.645	1076.610	Hu_yihu	male	native	%PW, Gary Wang, let me inform our audience, is related to Wang You-theng as son to the father.	1	51	251	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1076.610	1079.741	Hu_yihu	male	native	But the Eastern Multimedia Group originally had been a part of the Rebar Group.	1	51	252	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1079.741	1081.670	Hu_yihu	male	native	Year before last, it severed ties with Rebar.	1	51	253	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1081.670	1084.001	Hu_yihu	male	native	But, now, Taiwan prosecutors emphasized today	1	51	254	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1084.001	1086.400	Hu_yihu	male	native	they will closely scrutinize the financial dealings between the two groups.	1	51	255	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1086.400	1092.252	Hu_yihu	male	native	Do you think the Eastern Multimedia Group will become the point, among ((all vulnerable spots)), at which the bullet will finally land?	1	51	256	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1093.392	1095.751	Xu_yongming	male	native	I think Eastern Multimedia will be affected to a certain degree.	1	52	258	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1095.751	1097.610	Xu_yongming	male	native	But I think it is worth noting	1	52	259	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1097.610	1101.297	Xu_yongming	male	native	that several months ago Eastern Multimedia probably was sold to the U.S. company Carlyle.	1	52	260	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1101.297	1104.454	Xu_yongming	male	native	Then, it is difficult to classify it as completely owned by Gary Wang.	1	52	261	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1104.454	1106.111	Xu_yongming	male	native	Only, Gary Wang is still its president.	1	52	262	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1106.111	1109.002	Xu_yongming	male	native	Whether his position will be affected is a moot question.	1	52	263	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1109.002	1113.815	Xu_yongming	male	native	As we just said, his has become a super political scandal and a big scandal of collusion between politicians and business in Taiwan.	1	52	264	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1113.815	1117.034	Xu_yongming	male	native	By any chance, does somebody need to find a scapegoat?	1	52	265	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1117.034	1119.909	Xu_yongming	male	native	Especially after Wang You-theng fled to the United States?	1	52	266	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1119.909	1123.597	Xu_yongming	male	native	Many people predict that he will never return to Taiwan, at least not in the foreseeable short term.	1	52	267	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1123.597	1123.878	Hu_yihu	male	native	Um.	1	53	268	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1123.878	1127.676	Xu_yongming	male	native	Under such circumstances, some one might need to find a scapegoat.	1	54	269	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1127.676	1131.489	Xu_yongming	male	native	I think, it is worth watching if the case will develop further, will go deeper.	1	54	270	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1131.489	1133.379	Hu_yihu	male	native	and if Wang You-theng will definitely stay away.	1	55	271	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1133.379	1141.067	Hu_yihu	male	native	An affirmative or negative answer to the last question, some observers say, will have its political repercussions and will seriously affect Su Zhenchang's popularity and standing in Taiwan.	1	55	272	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1141.067	1143.910	Hu_yihu	male	native	Also, the effect of this case on Su Zhenchang	1	55	273	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1143.910	1148.457	Hu_yihu	male	native	could help Chen Shuibian regain his supreme political power.	1	55	274	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1148.457	1149.582	Hu_yihu	male	native	Is that really so?	1	55	275	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1149.582	1155.082	Hu_yihu	male	native	Of even greater moment is the effect this case might have on the forthcoming KMT-Communist Forum, at least the atmospherics affecting its proceedings.	1	55	276	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1155.082	1159.542	Hu_yihu	male	native	After all, how will this financial scandal affect the political scene in Taiwan and the relationship between Taiwan and mainland China?	1	55	277	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1159.542	1161.563	Hu_yihu	male	native	In a minute we'll ask our two experts to analyze the situation for us.	1	55	278	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1321.458	1325.864	Chen_shuibian	male	native	Premier Su should exercise his power of control!	3	57	280	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1325.864	1330.208	Chen_shuibian	male	native	This is one point of serious concern about the scandal that Premier Su expressed on behalf of his countrymen.	3	57	281	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1330.208	1332.520	Chen_shuibian	male	native	Eh, Premier Su should do his best to salvage the situation.	3	57	282	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1332.520	1335.550	speaker#1	male	native	Premier Su and also Ah Bian, both holders of power,	3	58	283	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1335.550	1339.581	speaker#1	male	native	you should do a good job of control, tight and strict %PW control.	3	58	284	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1339.581	1342.347	speaker#1	male	native	must not pamper the huge conglomerates.	3	58	285	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1342.347	1347.765	speaker#2	male	native	(())	3	59	286	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1347.765	1349.297	Ma_yingjiu	male	native	We are still keeping our eyes on it.	3	60	287	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1349.297	1355.656	speaker#3	male	native	I am afraid Premier Su Zhenchang ought to consider if he should resign or stay on.	3	61	288	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1356.469	1360.781	Hu_yihu	male	native	Okay, we have just seen that between the government and the opposition, between the blue and the green, and among all elements in Taiwan, the buck is being passed around all over the place.	3	62	290	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1360.781	1363.750	Hu_yihu	male	native	In fact, Taiwan Premier Su Zhenchang said on his (()) travels that	3	62	291	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1363.750	1368.688	Hu_yihu	male	native	the Democratic Progressive Party has been in power for more than six years. All Cabinet Chiefs, in fact, should share the responsibility and the blame for the shortcomings in public finance and financial market in Taiwan.	3	62	292	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1368.688	1370.548	Hu_yihu	male	native	The Wang family has maintained extraordinary ties with both the Pan Blue and the Pan Green factions.	3	62	293	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1370.548	1374.392	Hu_yihu	male	native	One additional note: Wang You-theng used to be member of the KMT Central Standing Committee for many years.	3	62	294	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1374.392	1377.939	Hu_yihu	male	native	On the political aftermath of this scandal, we turn to our guest in Taipei.	3	62	295	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1377.939	1379.236	Hu_yihu	male	native	My good friend Yongming, you've just seen	3	62	296	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1379.236	1383.048	Hu_yihu	male	native	that when on an oversea visit, Chen Shuibian fired his heavy artillery at Su Zhenchang across the ocean.	3	62	297	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1383.048	1387.111	Hu_yihu	male	native	But after he returned to Taiwan, Chen expressed deep trust in Su Zhenchang and said he'll keep Su on the job.	3	62	298	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1387.111	1393.365	Hu_yihu	male	native	What effect does this zigzag have on the political life of Su Zhenchang?	3	62	299	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1393.365	1396.553	Hu_yihu	male	native	Will Su Zhenchang tender resignation on his own in the near future?	3	62	300	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1396.553	1397.256	Hu_yihu	male	native	What do you think?	3	62	301	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1398.631	1404.521	Xu_yongming	male	native	I think these are an indication of the inner tensions of the so-called twin-head, double-chief political system of Taiwan.	3	63	303	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1404.521	1407.474	Xu_yongming	male	native	The plain fact is: The President could not directly manage the Cabinet,	3	63	304	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1407.474	1411.599	Xu_yongming	male	native	especially such domestic matters as finances and the financial market.	3	63	305	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1411.599	1413.974	Xu_yongming	male	native	The President's competence lies only in foreign affairs, defense and relations with mainland China.	3	63	306	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1413.974	1418.508	Xu_yongming	male	native	You might discover that the Rebar scandal, after staining and affecting Premier Su,	3	63	307	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1418.508	1424.553	Xu_yongming	male	native	turns itself into a useful and important lever for the President to control the Cabinet chief or even to undermine the latter's standing and reputation.	3	63	308	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1425.122	1427.773	Xu_yongming	male	native	Many people say, this might be called a financial crisis in Taiwan,	3	63	310	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1427.773	1431.960	Xu_yongming	male	native	but, in fact, it turned out to be a golden opportunity for the President to restore his supreme power in the country.	3	63	311	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1431.960	1435.117	Xu_yongming	male	native	When the scandal of the secret Presidential funds broke out into the open last year,	3	63	312	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1435.117	1437.726	Xu_yongming	male	native	there was the talk of "giving political power to the subordinates."	3	63	313	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1437.726	1443.476	Xu_yongming	male	native	At that time, everybody thought Su, Su Zhenchang could very well become the most powerful Premier in Taiwan's history.	3	63	314	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1443.476	1446.460	Xu_yongming	male	native	It could be possible that the power to do things, and the power to make policy decisions will all be in his hands.	3	63	315	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1446.460	1448.429	Xu_yongming	male	native	But, after the Taipei and Kaohsiung mayors were elected,	3	63	316	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1448.429	1450.804	Xu_yongming	male	native	the President, in fact, gradually regained his grip on government reins.	3	63	317	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1450.804	1453.147	Xu_yongming	male	native	At that juncture, he denied the existence of the so-called Su-xiu policy line, meaning that a revisionist line à la Su Zhenchang was out.	3	63	318	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1453.147	1458.022	Xu_yongming	male	native	Now, the financial market %PW, the Rebar scandal and the run on the Chunghua Bank	3	63	319	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1458.022	1461.506	Xu_yongming	male	native	made Su Zhenchang a focal point of all domestic criticism.	3	63	320	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1461.506	1467.755	Xu_yongming	male	native	You can now see that the President is slowly taking back his powers	3	63	321	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1467.755	1470.770	Xu_yongming	male	native	of making political policies, as well as top political appointments in domestic, especially financial and economic affairs.	3	63	322	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1470.770	1475.191	Xu_yongming	male	native	Hence, many people say this is a golden opportunity for the President to counterattack from a cornered position.	3	63	323	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1475.191	1481.535	Xu_yongming	male	native	From another angle, we see this development as a grave challenge to Premier Su in his prospect of running for the presidency in 2008.	3	63	324	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1481.535	1481.910	Hu_yihu	male	native	Uh huh.	3	64	325	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1481.910	1486.441	Xu_yongming	male	native	If the scandal becomes an important event during the last leg of his term,	3	65	326	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1486.441	1487.488	Xu_yongming	male	native	and a negative one at that,	3	65	327	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1487.488	1487.691	Hu_yihu	male	native	Uh Huh.	3	66	328	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1487.691	1491.519	Xu_yongming	male	native	I think it will seriously hurt his prestige and his standing in the Party.	3	67	329	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1491.519	1491.769	Hu_yihu	male	native	Um.	3	68	330	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1491.769	1492.972	Hu_yihu	male	native	I have a final question for Prof. Yin.	3	68	331	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1492.972	1496.071	Hu_yihu	male	native	You are with %PW Kuomin, I mean, you were a PFP Legislator,	3	68	332	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1496.071	1498.149	Hu_yihu	male	native	and still a member of the PFP, that is, in the Pan Blue camp.	3	68	333	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1498.149	1502.852	Hu_yihu	male	native	Many people say that after this scandal, that is, the Wang You-theng case, broke out,	3	68	334	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1502.852	1506.961	Hu_yihu	male	native	his first stop-over point was in mainland China, soon after his conglomerate asked for a reorganization.	3	68	335	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1506.961	1510.227	Hu_yihu	male	native	Under such circumstances, the Pan Blue camp would also feel very intense pressure.	3	68	336	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1510.227	1513.445	Hu_yihu	male	native	There is considerable pressure on the Pan Blue camp, including Ma Ying-jiou himself.	3	68	337	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1513.445	1514.572	Hu_yihu	male	native	Will this case affect	3	68	338	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1514.572	1515.164	Hu_yihu	male	native	affect	3	69	339	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1514.572	1515.164	Yin_naiping	male	native	Um	3	69	340	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1515.164	1518.305	Hu_yihu	male	native	the atmosphere of the forthcoming KMT-Communist Forum and its proceedings?	3	70	341	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1518.305	1519.665	Hu_yihu	male	native	Prof. Yin, what is your opinion?	3	70	342	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1520.634	1524.680	Yin_naiping	male	native	I think, in Taiwan, political tide is moving in this direction.	3	71	344	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1524.680	1531.381	Yin_naiping	male	native	Talking of political tide, we noticed that Wang You-theng is again moving operations to mainland China, while	3	71	345	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1531.381	1531.758	Yin_naiping	male	native	Ah,	3	72	346	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1531.381	1531.758	Hu_yihu	male	native	Um.	3	72	347	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1531.758	1533.055	Yin_naiping	male	native	leaving his debts and obligations in Taiwan.	3	73	348	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1533.055	1536.586	Yin_naiping	male	native	Under such circumstances, all people here focus their attention on mainland China,	3	73	349	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1536.586	1538.305	Yin_naiping	male	native	and put the blame there.	3	73	350	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1538.305	1541.562	Yin_naiping	male	native	That's why Wang You-theng now has left the mainland,	3	73	351	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1543.445	1545.086	Yin_naiping	male	native	but he had been in mainland China.	3	73	353	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1545.086	1547.336	Yin_naiping	male	native	and that stopover lent the critics a reason to launch the attack.	3	73	354	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1547.336	1549.664	Yin_naiping	male	native	For the KMT,	3	73	355	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1549.664	1553.477	Yin_naiping	male	native	it more or less puts KMT on the defensive.	3	73	356	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1553.477	1557.696	Yin_naiping	male	native	Consequently, relations between the two sides of the Taiwan Strait might be affected to a limited degree.	3	73	357	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1557.696	1560.461	Yin_naiping	male	native	But the main effect of the scandal	3	73	358	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1560.461	1560.773	Yin_naiping	male	native	Yah.	3	74	359	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1560.461	1560.773	Hu_yihu	male	native	Um.	3	74	360	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1560.773	1561.884	Yin_naiping	male	native	should fall on the economic and trade side.	3	75	361	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1561.884	1567.946	Yin_naiping	male	native	But, these economic and trade ties now are probably inseparable.	3	75	362	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1567.946	1572.868	Yin_naiping	male	native	So, when we look into the future	3	75	363	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1572.868	1574.493	Yin_naiping	male	native	in spite of whatever political manipulation	3	75	364	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1574.493	1581.378	Yin_naiping	male	native	substantive relations between Taiwan and mainland China, as a whole, will continue to move forward.	3	75	365	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1581.917	1583.305	Hu_yihu	male	native	Good. Thank you very much, Prof. Yin.	3	76	367	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1583.305	1585.930	Hu_yihu	male	native	We also wish to express our appreciation to Prof. Xu Yongming for joining the Phoenix Global Watch today.	3	76	368	report	
+PHOENIX_PHNXWRLD_CMN_20070116_111800	0	1585.930	1587.586	Hu_yihu	male	native	And, thanks to our audience for tuning in to this program. See you all tomorrow.	3	76	369	report	

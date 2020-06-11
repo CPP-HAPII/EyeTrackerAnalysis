@@ -1,0 +1,308 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'report', u'nontrans', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 19.472999999999999, 158.148, 163.786, 306.44999999999999, 311.85599999999999, 375.70400000000001, 466.77699999999999, 529.48299999999995, 669.80200000000002, 675.90499999999997, 934.12400000000002, 950.38199999999995, 1318.165, 1323.3299999999999, 1385.307, 1393.097, 1418.377, 9999999.0]
+ANHUI_FAMILY_CMN_20060613_223031	0	0.000	19.473					0	0	0	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	19.473	22.566	speaker#1	female	native	大家好，欢迎收看安徽卫视家人节目。	1	1	1	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	22.566	31.319	speaker#1	female	native	今天呢我上场的方式和以前不一样啊，雄赳赳气昂昂上来了，而且手上呢还拿了一个东西，问一下大家知道这是什么吗。	1	1	2	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	31.319	34.096	speaker#1	female	native	看清楚了吗，火炬哈。	1	1	3	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	34.096	38.615	speaker#1	female	native	而且呢要说明一下，这可是度林冬奥会的火炬呀。	1	1	4	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	38.615	46.373	speaker#1	female	native	我去参加冬奥会了 {laugh} ，那是不可能的，这个火炬到底是谁的呢，我们来认识一下。	1	1	5	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	46.373	52.513	speaker#2	male	native	二零零六年度林冬奥会，我国共选拔出二十六名选手参加了圣火传递。	1	2	6	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	52.513	56.888	speaker#2	male	native	这其中有被成为我国冰雪项目第一人的叶乔波。	1	2	7	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	56.888	59.372	speaker#2	male	native	羽毛球世界冠军叶召影。	1	2	8	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	59.372	61.685	speaker#2	male	native	花样滑冰世界冠军陈露。	1	2	9	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	61.685	64.893	speaker#2	male	native	还有青年舞蹈演员邰丽华等等。	1	2	10	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	64.893	71.565	speaker#2	male	native	而在这些明星里中，有一张陌生的面孔更加吸引了大家的注意。	1	2	11	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	71.565	75.467	speaker#2	male	native	她年龄最大，来自长春的徐丽华。	1	2	12	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	75.467	82.640	speaker#2	male	native	这位年逾六询的普通老太，怎么会成为明星火炬 {noise} 呢。	1	2	13	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	82.640	85.937	speaker#2	male	native	这还源于她传奇的人生经历。	1	2	14	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	85.937	92.671	speaker#2	male	native	谁都不会想到，精神矍铄的徐丽华是一位曾经昏迷了四年的植物人。	1	2	15	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	92.671	99.157	speaker#1	female	native	那就让我们掌声请出这个火炬真正的主人徐丽华和她丈夫张万贵。	1	3	16	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	99.157	104.039	speaker#1	female	native	欢迎，来我把这个火炬再交接给你哈，物归原主 {laugh} 。	1	3	17	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	104.039	108.064	speaker#1	female	native	谢谢--谢谢，来请坐--请坐两位，欢迎--欢迎来到我们的家人。	1	3	18	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	108.064	111.919	speaker#1	female	native	我刚才拿这个火炬啊，我感觉就特别的光荣，自傲。	1	3	19	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	111.919	116.400	speaker#1	female	native	你当时接到这个通知要去参加冬奥会的时候是不是也特兴奋呀。	1	3	20	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	116.400	117.873	Xu_Li_Hua	female	native	哎特别高兴。	1	4	21	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	116.400	117.873	speaker#1	female	native	嗯。	1	4	22	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	117.873	126.582	Xu_Li_Hua	female	native	因为我代表国家，代表我们呃咱们中国参加意大利，我是最大呃岁数。	1	4	23	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	117.873	126.582	speaker#1	female	native		1	4	24	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	126.582	136.847	Xu_Li_Hua	female	native	最大的，哎-哎，还做一个明显火炬--火炬手，做梦都没想到我有今天。	1	4	25	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	126.582	136.847	speaker#1	female	native	年纪是最大的，啊在这个火炬手当中，火炬手啊，拿到这个火炬的时候，你的第一感觉是什么？ 	1	4	26	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	136.847	143.950	Xu_Li_Hua	female	native	我第一感觉就是特别荣幸，特别幸福，因为代表国家呀，你是哪国人，我是中国人。	1	4	27	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	136.847	143.950	speaker#1	female	native	嗯。	1	4	28	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	143.950	158.148	Xu_Li_Hua	female	native	因为我-我-我有两个镖保镖，嗯，两个保镖嫌我岁数大不能拿火炬呢，我没有叫人家拿，我光荣的完成了任务，给国家争了光。	1	4	29	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	143.950	158.148	speaker#1	female	native	啊两个保镖，啊，嗯，嗯。	1	4	30	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	158.148	163.786					2	5	31	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	163.786	171.660	speaker#1	female	native	谢谢，我当时拿到这个火炬的时候我感觉其实不要看这个火炬挺沉的哈，大概，呃四斤重啊。	3	6	32	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	163.786	171.660	Xu_Li_Hua	female	native	哎四斤。	3	6	33	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	171.660	187.971	speaker#1	female	native	还得双手拿呢，嗯-嗯，挥手，嗯，问候，嗯，嗯。	3	6	34	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	171.660	187.971	Xu_Li_Hua	female	native	小伙子拿着手炬的时候还得这，还得这么拿呢，还得双手捧呢，我呢就一只手拿着火炬，我这一只手还叫瞧-瞧-瞧-瞧，还向人民就-就-就是问好，挥手问你好的意思，哎。	3	6	35	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	187.971	192.712	Xu_Li_Hua	female	native	完了我就一只手光荣的完成任务，四百米，难忘的四百米。	3	7	36	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	192.712	198.870	speaker#1	female	native	呃是在什么地方跑了这个四百米呀？ 	3	8	37	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	198.870	201.378	Xu_Li_Hua	female	native	呃在威尼斯。	3	9	38	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	198.870	201.378	Zhang_Wan_Gui	male	native	威尼斯。	3	9	39	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	201.378	206.659	speaker#1	female	native	在威尼斯，啊威尼斯水城，是一个非常漂亮的地方，嗯。	3	10	40	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	201.378	206.659	Xu_Li_Hua	female	native	哎威尼斯，水城，哎挺漂亮的一个城市，嗯。	3	10	41	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	206.659	218.150	speaker#1	female	native	嗯。	3	10	42	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	206.659	218.150	Xu_Li_Hua	female	native	他们的人民哪也不管是男的，女的哈，甚至只跟我同龄人的人，就捧我，捧我跟我俩贴脸，还跟我吻，直噌。	3	10	43	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	218.150	221.977	speaker#1	female	native	 {laugh} 。	3	10	44	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	218.150	221.977	Xu_Li_Hua	female	native	我这么大岁数头一次 {noise} ，头一次。	3	10	45	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	221.977	234.131	speaker#1	female	native	这是国外见面礼呀， {laugh} 。	3	10	46	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	221.977	234.131	Xu_Li_Hua	female	native	对见面礼，他那胡子就-就扎得你呀，扎得你直不得--不得劲，我也跟着噌 {laugh} 。	3	10	47	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	234.131	240.531	speaker#1	female	native	这是友好的一种方式哈，那当时也没觉得担心这个叔叔会吃醋啊 {laugh} 。	3	10	48	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	234.131	240.531	Xu_Li_Hua	female	native	对，友好的意思嗯，那不能。	3	10	49	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	240.531	246.625	speaker#1	female	native	回来跟他说了吗， {laugh} 。	3	10	50	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	240.531	246.625	Xu_Li_Hua	female	native	说了，他也看，没看着我，吃醋不吃醋 {laugh} 。	3	10	51	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	246.625	254.075	speaker#1	female	native	当时呃你得知这个爱人要去参加这个冬奥会的火炬传递，你是不是也觉得特别兴奋哪。	3	11	52	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	254.075	257.113	Zhang_Wan_Gui	male	native	呃原来是没想到的事，嗯。	3	12	53	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	254.075	257.113	speaker#1	female	native	没想到啊。	3	12	54	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	257.113	275.435	Zhang_Wan_Gui	male	native	呃基本上我们过去是，刚才我老伴不说呢，做梦也没有想到，能会，她原来是个植物人，能走-走到去拿个世界冠军，而且出，走出国门，代表国家，呃这-这是确实没有想到，做梦也没有想到的事。	3	12	55	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	257.113	275.435	speaker#1	female	native	嗯，嗯，嗯，嗯。	3	12	56	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	275.435	282.229	speaker#2	male	native	做梦也没有想到的事情，却奇迹般的发生了。	3	13	57	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	282.229	289.209	speaker#2	male	native	谁曾想到三十年前那场恶梦之后，会有今天的奇迹。	3	13	58	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	289.209	295.888	speaker#2	male	native	那是在一九七五年六月，一个炎热的下午，徐丽华所在的粮铺进行施工。	3	13	59	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	295.888	306.450	speaker#2	male	native	正在徐丽华和同事们劳动的时候，一块一百多斤重的跳板突然从五楼坠落，砸重了许丽华的脑袋，她当即昏了过去。	3	13	60	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	306.450	311.856					4	14	61	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	311.856	318.213	speaker#2	male	native	丈夫张万贵得知消息后，立刻感到医院，却被眼前的情景惊呆了。	5	15	62	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	318.213	332.102	Zhang_Wan_Gui	male	native	当时这头挺大，哎鼻孔也穿血，呃这个呃这个嘴里呢吐白沫，脸呢一点颜色也没有，一点血色也没有。	5	16	63	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	332.102	337.617	Zhang_Wan_Gui	male	native	哎呃手脚呢冰凉的，我想这一下可完了。	5	16	64	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	337.617	344.951	Zhang_Wan_Gui	male	native	当时我就考虑到我那个，第一个我就考虑到我这三个孩子，因为大孩子才十二岁 {noise} 。	5	16	65	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	344.951	347.465	Zhang_Wan_Gui	male	native	呃老二呢才十岁。	5	16	66	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	347.465	353.803	Zhang_Wan_Gui	male	native	老三呢才还不到七岁，如果她要走了的话呢，我可--我可怎么办。	5	16	67	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	353.803	357.733	Zhang_Wan_Gui	male	native	脑瓜是一片空白，我真不知道的怎么--怎么的才好。	5	16	68	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	357.733	364.527	speaker#2	male	native	经过六天六夜的抢救，徐丽华从死亡线上被拉了回来。	5	17	69	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	364.527	368.370	speaker#2	male	native	然而诊断结果却是异常的残酷。	5	17	70	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	368.370	375.704	Zhang_Wan_Gui	male	native	 {noise} 严重的损伤，他说你一定要有思想准备，你爱人可能永远是植物人。	5	18	71	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	375.704	384.360	speaker#2	male	native	植物人，是指严重脑外伤，脑出血等引起的大脑皮层丧失活动能力，完全没有知觉的人。	6	19	72	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	384.360	391.000	speaker#2	male	native	医生告诉张万贵，要想一个植物人病人苏醒过来，除非出现奇迹。	6	19	73	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	391.000	394.516	speaker#2	male	native	而这个希望是极其渺茫的。	6	19	74	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	394.516	403.238	Zhang_Wan_Gui	male	native	就哪怕有百分之一的希望，我也要用百分之百的去争取。	6	20	75	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	403.238	411.380	Zhang_Wan_Gui	male	native	这个三个月以后吧，我就把她接到家了，因为她病情基本上是稳定了。	6	20	76	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	411.380	423.631	Zhang_Wan_Gui	male	native	后来有个呃老大夫，他说呢呃针灸呢对这种病很比较好一点，啊呃很有效，而且你试一试。	6	20	77	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	423.631	428.721	Zhang_Wan_Gui	male	native	我说你远水不得近渴也，我不能老-老跑那么老远请人家去。	6	20	78	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	428.721	439.158	Zhang_Wan_Gui	male	native	这样的话我自己呃买来针灸书，呃这个按摩书，啊还有这个针灸图，以及针啥的。	6	20	79	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	439.158	443.239	Zhang_Wan_Gui	male	native	呃我也不敢跟她，因为她那时候没有知觉，我不只扎-扎到哪。	6	20	80	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	443.239	446.151	Zhang_Wan_Gui	male	native	后来我就自己呢扎。	6	20	81	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	446.151	449.648	speaker#1	female	native	然后就照自己身上扎呀。	6	21	82	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	446.151	449.648	Zhang_Wan_Gui	male	native	哎照自己身上扎。	6	21	83	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	449.648	452.591	Zhang_Wan_Gui	male	native	扎有的时候把这-这就扎透了。	6	22	84	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	452.591	455.825	Zhang_Wan_Gui	male	native	哎试试--试试几个穴位我都试过了。	6	22	85	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	455.825	461.614	Zhang_Wan_Gui	male	native	哎经过大致是二十几天的练习吧，后来我就在她身上试试。	6	22	86	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	461.614	466.777	speaker#1	female	native	在自己身上做了实验之后，才在这个阿姨身上试。	6	23	87	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	461.614	466.777	Zhang_Wan_Gui	male	native	哎，哎才在她身上试。	6	23	88	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	466.777	529.483					7	24	89	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	529.483	534.804	speaker#2	male	native	也许是病魔面对张万贵的必胜信念屈服。	8	25	90	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	534.804	541.198	speaker#2	male	native	也许是沉睡中的徐丽华听到了丈夫一次又一次的真情呼唤。	8	25	91	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	541.198	545.447	speaker#2	male	native	奇迹真的出现了。	8	25	92	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	545.447	563.463	Zhang_Wan_Gui	male	native	有一天这个天就下着瓢泼大雨，呃我-我等我给她针灸的时候呢， {lipsmack} 大概是第二针吧，呃就突然就外边就炸雷，很响。	8	26	93	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	545.447	563.463	speaker#1	female	native	嗯，嗯。	8	26	94	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	563.463	574.229	Zhang_Wan_Gui	male	native	把我也吓，当时我孩子也吓得就-就叫唤跑我们那屋去。	8	27	95	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	574.229	578.710	Zhang_Wan_Gui	male	native	呃哎我当时就感觉她身里身上一动弹。	8	27	96	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	578.710	589.090	Zhang_Wan_Gui	male	native	哎身上一动，她原来没有没一点知觉没有，一动 {lipsmack} 哎呀我说她有知觉了，就-就-就-就-就当然我是，当然使我很激动。	8	28	97	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	578.710	589.090	speaker#1	female	native	动了，嗯，嗯，嗯。	8	28	98	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	589.090	595.383	Zhang_Wan_Gui	male	native	我就叫她的名字，我说你醒醒--醒醒，完了我的孩子也过来，妈妈--妈妈你醒醒，你醒醒。	8	29	99	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	595.383	599.987	Zhang_Wan_Gui	male	native	喊了二十，大概有-有-有二十，有-有两个小时吧。	8	29	100	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	599.987	604.892	speaker#1	female	native	两个小时。	8	30	101	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	599.987	604.892	Zhang_Wan_Gui	male	native	哎，喊了--喊了两个小时吧，她就睁开眼睛了。	8	30	102	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	604.892	612.727	Zhang_Wan_Gui	male	native	呃她眼睛一睁开以后也是植物人，哎我就-就这样她-她一点反映没有，也没有。	8	31	103	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	604.892	612.727	speaker#1	female	native	嗯睁开眼睛睁了多长时间？ 	8	31	104	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	612.727	619.774	Zhang_Wan_Gui	male	native	呃睁了大概有-有个三-三四秒钟吧，哎-哎就那一瞬间。	8	31	105	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	612.727	619.774	speaker#1	female	native	三四秒钟而已哦，嗯。	8	31	106	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	619.774	624.674	Zhang_Wan_Gui	male	native	 {noise} ，特别高兴，很-很激动，我全家也很--也很高兴。	8	31	107	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	619.774	624.674	speaker#1	female	native	那你是不是特别高兴，嗯。	8	31	108	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	624.674	635.149	Zhang_Wan_Gui	male	native	这样的话，哎，买了肉，哎，呃自己杀了鸡，哎这-这全家呢就-就-就庆祝一下，把亲朋好友也请来。	8	31	109	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	624.674	635.149	speaker#1	female	native	是不是去庆祝了一下，嗯，嗯，嗯。	8	31	110	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	635.149	642.223	Zhang_Wan_Gui	male	native	那不管咋样，她能够有-有这一天呢就是，就确实是我们 {noise} ，好消息。	8	31	111	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	635.149	642.223	speaker#1	female	native	终于盼来了一个好消息哈，嗯。	8	31	112	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	642.223	646.897	speaker#2	male	native	一位昏迷了四年的植物人，奇迹苏醒。	8	32	113	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	646.897	650.350	Zhang_Wan_Gui	male	native	她这个智商呢只有两岁小孩子。	8	33	114	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	650.350	654.732	Xu_Li_Hua	female	native	我不管这男的，女的，老的，少的，我都给她叫妈。	8	34	115	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	654.732	659.630	speaker#2	male	native	从一个完全失忆的植物人到冬奥会明星火炬手。	8	35	116	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	659.630	665.177	speaker#2	male	native	传奇的生命历程背后是一段怎样的旷世真情。	8	35	117	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	665.177	669.802	speaker#2	male	native	敬请继续关注本期家人。	8	35	118	report	
+ANHUI_FAMILY_CMN_20060613_223031	0	669.802	675.905					9	36	119	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	675.905	682.220	speaker#2	male	native	对于一个植物人来说，能够睁开眼睛是一个非常难得的奇迹。	10	37	120	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	682.220	685.305	speaker#2	male	native	也是一个逐一让人心动的征兆。	10	37	121	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	685.305	693.663	speaker#2	male	native	之后，徐丽化睁眼的次数越来越多，而且每次睁眼持续的时间也越来越长。	10	37	122	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	693.663	704.232	speaker#2	male	native	但令张万贵没有想到的是好不容易盼到醒来的妻子，却像一个陌生人一样，她失去了所有的记忆。	10	37	123	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	704.232	707.971	speaker#2	male	native	连相濡以抹的丈夫她也认不出来了。	10	37	124	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	707.971	713.237	speaker#2	male	native	她忘了怎么跟丈夫相识，恋爱，结婚的过程。	10	37	125	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	713.237	716.435	speaker#2	male	native	忘了她已经生育了三个儿女。	10	37	126	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	716.435	726.076	speaker#2	male	native	她的脑海里一片空白，就像一个出生的婴儿，不会说话，没有认知。	10	37	127	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	726.076	728.722	Xu_Li_Hua	female	native	都没有了。	10	38	128	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	728.722	731.589	Zhang_Wan_Gui	male	native	什么没有，就是过去恋爱，怎么恋爱，怎么结婚。	10	39	129	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	731.589	732.612	Xu_Li_Hua	female	native	不行了。	10	40	130	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	732.612	735.027	Xu_Li_Hua	female	native	我都不认识我老头是谁了吗。	10	40	131	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	735.027	750.190	Xu_Li_Hua	female	native	有一次上街我走丢了，我老头接我了，我搀人家老头，就是我老头 {noise} 来接我来了，我就这噼里叭啦哭，一搀人家这-这，人老头还你精神病了，叫人骂我。	10	40	132	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	750.190	752.846	Xu_Li_Hua	female	native	我都不认识我老头了都。	10	40	133	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	752.846	754.292	Zhang_Wan_Gui	male	native	过去的东西全忘了。	10	41	134	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	754.292	756.557	Xu_Li_Hua	female	native	嗯，忘了。	10	42	135	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	756.557	768.586	Xu_Li_Hua	female	native	六十七岁的徐丽华现在其实只有三十岁的生命，她所有的记忆只是从她苏醒的那一天才开始。	10	43	136	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	768.586	782.149	Zhang_Wan_Gui	male	native	这个一切就-就从零开始，哎，她这个智商呢只有两岁小孩子呃那样，人两岁小孩叫妈妈爸爸啥的，那知道是谁是她爸爸，谁是她妈妈，她不知道。	10	44	137	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	768.586	782.149	speaker#1	female	native	嗯，嗯，嗯，嗯。	10	44	138	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	782.149	785.321	Zhang_Wan_Gui	male	native	她见人就叫爸爸妈妈，你教她以后。	10	45	139	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	785.321	793.001	speaker#1	female	native	徐阿姨你当时还记得就是刚刚呃苏醒过来学说话的那一段吗，还有印象吗。	10	46	140	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	793.001	802.790	Xu_Li_Hua	female	native	我学了十遍，二十遍，都不会，记不住，甚至上百遍，最后终于把这妈妈呃学-学会了。	10	47	141	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	793.001	802.790	speaker#1	female	native	嗯，嗯，嗯。	10	47	142	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	802.790	805.961	Xu_Li_Hua	female	native	不过学会我不知道是啥意思。	10	47	143	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	802.790	805.961	speaker#1	female	native	嗯。	10	47	144	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	805.961	816.132	Xu_Li_Hua	female	native	我不管这些男的，女的，老的，少的，我都给她叫妈，甚至我老伴，我的孩子，我的姑娘，儿子，我都叫妈。	10	47	145	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	805.961	816.132	speaker#1	female	native	嗯。	10	47	146	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	816.132	822.718	Xu_Li_Hua	female	native	不知道啥意思，这可下会这一句话了似的，谁对，见着谁给谁叫妈。	10	47	147	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	816.132	822.718	speaker#1	female	native	嗯，嗯。	10	47	148	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	822.718	823.484	Xu_Li_Hua	female	native	嗯。	10	48	149	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	823.484	829.859	Zhang_Wan_Gui	male	native	他这个学走路呢就也是比较困难的，一开始呢她自己坐不起来。	10	49	150	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	823.484	829.859	speaker#1	female	native	嗯，嗯。	10	49	151	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	829.859	842.491	Zhang_Wan_Gui	male	native	呃以后你扶着她自己坐起来，慢慢她自己能坐起来，就-就下地呃走路，一开始就扶着床，呃两个人扶着她，掰腿，一点一点往前迈步。	10	49	152	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	829.859	842.491	speaker#1	female	native	嗯。	10	49	153	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	842.491	847.538	Zhang_Wan_Gui	male	native	哎以后呢就-就呃扶着墙，叫她自己一点一点蹭。	10	49	154	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	842.491	847.538	speaker#1	female	native		10	49	155	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	847.538	858.874	Zhang_Wan_Gui	male	native	我说这个时间呢就是一两年时间了，就说在这个期间呢她虽然她这个这手腕子，呃这个腿摔了三次骨折。	10	49	156	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	847.538	858.874	speaker#1	female	native	嗯，嗯。	10	49	157	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	858.874	863.374	Zhang_Wan_Gui	male	native	摔了骨折，哎学走路。	10	49	158	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	858.874	863.374	speaker#1	female	native	摔了三次骨折啊，就是学走路摔的。	10	49	159	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	863.374	870.718	speaker#1	female	native	我们来问一下徐阿姨，你当时就是这样恢复的时候，这段过程呃你自己觉得是不是特别痛苦。	10	50	160	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	863.374	870.718	Xu_Li_Hua	female	native	嗯。	10	50	161	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	870.718	884.013	Xu_Li_Hua	female	native	特别痛苦，那时候老头叫我搞大-大的东西，撒在地下，叫我去捡，我这手都变形了，就这样都勾着，是萎缩了，不-不好使唤。	10	51	162	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	870.718	884.013	speaker#1	female	native	嗯，当时你手是什么样的，嗯，嗯。	10	51	163	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	884.013	901.209	Xu_Li_Hua	female	native	完了，我从大的东西捡，捡完了，带搞花生米，呃大豆，做饭的那豆，呃甚至小绿豆，呃华一下撒在地下，地下你就捡去吧，累的我当时不好受，那都得尿裤子。	10	51	164	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	884.013	901.209	speaker#1	female	native	嗯，嗯。	10	51	165	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	901.209	902.709	Zhang_Wan_Gui	male	native	呃都-都尿裤子。	10	52	166	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	902.709	911.154	Zhang_Wan_Gui	male	native	就那样的话，我都狠心就叫-叫-叫她，一直捡到小米粒，这是一点点捡，要恢复她这个手的功能。	10	53	167	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	902.709	911.154	speaker#1	female	native	嗯，嗯，慢慢的 {noise} 	10	53	168	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	911.154	916.428	Zhang_Wan_Gui	male	native	如果--如果要不-不那样的话，就连她这手-手的功能都恢复--恢复不起来。	10	54	169	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	916.428	922.998	speaker#2	male	native	一位昏迷了四年的植物人，如何练成太极高手。	10	55	170	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	922.998	927.975	speaker#1	female	native	这个哦照镜子里面是反的是吧 {laugh} 。	10	56	171	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	927.975	934.124	speaker#2	male	native	从植物人到世界冠军，神奇老太再创今人奇迹。	10	57	172	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	934.124	950.382					11	58	173	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	950.382	959.101	speaker#2	male	native	为了给妻子枯燥的康复郁闷生增加一点乐趣，同时又能对恢复身体健康有帮助。	12	59	174	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	959.101	967.577	speaker#2	male	native	四处打听之下，张万贵决定让妻子去学太极。	12	59	175	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	967.577	977.773	Zhang_Wan_Gui	male	native	大概是正月初八吧，我领着她拿着礼物，我就去见那个师傅性赵，我就奔她家去了。	12	60	176	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	967.577	977.773	speaker#1	female	native	嗯，嗯。	12	60	177	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	977.773	981.336	Zhang_Wan_Gui	male	native	奔她家去，见了以后呢，人那师傅很客气哎。	12	60	178	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	977.773	981.336	speaker#1	female	native		12	60	179	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	981.336	991.547	Zhang_Wan_Gui	male	native	哎我把这个情况跟介绍以后，他说解放军同志你放心，我用不上一个月时间呃仰视二十四太极拳我一定教会她。	12	60	180	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	981.336	991.547	speaker#1	female	native	嗯，	12	60	181	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	991.547	995.031	Zhang_Wan_Gui	male	native	很决心很大，哎，哎。	12	60	182	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	991.547	995.031	speaker#1	female	native	讲一个月就学会太极拳是吧，嗯。	12	60	183	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	995.031	1000.265	Zhang_Wan_Gui	male	native	我当时想呢，我说你三个月你能学会了就蛮不错的了，哎。	12	61	184	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1000.265	1006.835	Xu_Li_Hua	female	native	人家学了一个月，呃都会了，这二十四的都会了，我这一个月一个动作我也不会。	12	62	185	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1000.265	1006.835	speaker#1	female	native	嗯。	12	62	186	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1006.835	1009.577	Xu_Li_Hua	female	native	一个动作也不会。	12	62	187	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1006.835	1009.577	speaker#1	female	native	一个动作也没学会，嗯。	12	62	188	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1009.577	1016.906	Xu_Li_Hua	female	native	老师说的你回家照镜子去，我教你一个动作，你回家照镜子去，啊回家照镜子去。	12	62	189	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1009.577	1016.906	speaker#1	female	native	嗯，嗯。	12	62	190	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1016.906	1022.797	Xu_Li_Hua	female	native	回家照镜子可高兴了，这一做呀，哎呀还会了。	12	62	191	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1016.906	1022.797	speaker#1	female	native	嗯，会了，嗯。	12	62	192	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1022.797	1028.032	Xu_Li_Hua	female	native	会了呢，第二天师傅说你会不会呀，我说会了，可不错。	12	62	193	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1022.797	1028.032	speaker#1	female	native		12	62	194	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1028.032	1033.383	Xu_Li_Hua	female	native	师傅说你做一个吧，我这一做，又-又不对了，做反了。	12	62	195	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1028.032	1033.383	speaker#1	female	native	嗯，怎么了。	12	62	196	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1033.383	1040.891	Xu_Li_Hua	female	native	给做反了。	12	62	197	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1033.383	1040.891	speaker#1	female	native	哦，这个哦照镜子里面是反的是吧 {laugh} 。	12	62	198	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1040.891	1043.032	Xu_Li_Hua	female	native		12	62	199	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1040.891	1043.032	speaker#1	female	native	后来最终学会了。	12	62	200	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1043.032	1045.422	Xu_Li_Hua	female	native	半年哪终于学会了。	12	62	201	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1043.032	1045.422	speaker#1	female	native	嗯。	12	62	202	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1045.422	1052.266	Zhang_Wan_Gui	male	native	她-她学她是比较认真的，有的时候一个动作，想起来晚上我都不知道，她就爬起来了。	12	63	203	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1052.266	1056.469	Zhang_Wan_Gui	male	native	哎爬起来了，都半夜了，半夜十二点多钟。	12	64	204	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1052.266	1056.469	speaker#1	female	native	晚上就爬起来学。	12	64	205	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1056.469	1062.571	Zhang_Wan_Gui	male	native	 {noise} 。	12	65	206	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1056.469	1062.571	Xu_Li_Hua	female	native	半夜起来，我就不会了这些动作。	12	65	207	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1062.571	1069.591	Xu_Li_Hua	female	native	不会了，这咋整呢，下地打一打吧，下地打一打了，我就开始打上了。	12	66	208	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1062.571	1069.591	speaker#1	female	native	嗯， {laugh} 。	12	66	209	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1069.591	1080.637	Xu_Li_Hua	female	native	打上了，我这是小茶几有个大奶壶，这一打一碰，咔嚓一下子，哎呀爆炸了，我老头说地震了。	12	66	210	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1069.591	1080.637	speaker#1	female	native	嗯， {laugh} 。	12	66	211	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1080.637	1086.665	Xu_Li_Hua	female	native	地震了赶紧下地，地震来看我去吧，嗯一看我在地 {noise} 呢。	12	66	212	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1080.637	1086.665	speaker#1	female	native	嗯。	12	66	213	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1086.665	1091.907	Xu_Li_Hua	female	native	然后我老头，我老伴就把这扫吧扫吧，快睡觉吧。	12	67	214	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1091.907	1104.399	Zhang_Wan_Gui	male	native	我说旧的不去，新的不来，我那时候我，哎我不--我不能说不敢刺激她，一刺激她，因为她脑子本身就-就-就受到那么大的伤害，我要刺激她更完了。	12	68	215	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1091.907	1104.399	speaker#1	female	native	你非常支持她，嗯嗯，嗯。	12	68	216	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1104.399	1116.657	Zhang_Wan_Gui	male	native	呃咱们在这说，我-我们俩结婚以后，呃我们俩从来也没红过脸，从来也没吵过架，没吵过架，哎说我们俩感情应该是比较深。	12	68	217	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1104.399	1116.657	speaker#1	female	native	从来没红过脸，嗯。	12	68	218	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1116.657	1119.916	Zhang_Wan_Gui	male	native	是。	12	68	219	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1116.657	1119.916	speaker#1	female	native	不是比较深，那是非常--非常的深了。	12	68	220	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1119.916	1132.228	Zhang_Wan_Gui	male	native	因为我-我-我总这么想，如果我是那种情况，她也会全力呃来救助我的，俩人互相帮助。	12	68	221	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1119.916	1132.228	speaker#1	female	native	嗯。	12	68	222	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1132.228	1139.072	speaker#1	female	native	其实这样呢，叔叔一直是等于是用自己的爱心和耐心守在徐阿姨的身边，帮助她恢复。	12	69	223	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1139.072	1146.306	speaker#1	female	native	慢慢呢，徐阿姨恢复也越来越快，而且呢这个太极也练的越来越棒了，后来还参加了比赛是吗？ 	12	69	224	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1146.306	1154.751	Zhang_Wan_Gui	male	native	这个从九四年开始，九四年那一年呢得了一个，区里的铜牌，第三名。	12	70	225	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1146.306	1154.751	speaker#1	female	native	嗯，是-是什么比赛？ 	12	70	226	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1154.751	1161.384	Zhang_Wan_Gui	male	native	呃太极拳比赛，那时候我就觉得 {lipsmack} 哎呀不得了，哎。	12	70	227	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1154.751	1161.384	speaker#1	female	native	太极拳比赛，嗯，嗯。	12	70	228	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1161.384	1167.010	Zhang_Wan_Gui	male	native	因为她这么多年太极拳也一-一个是我没白护着她。	12	70	229	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1161.384	1167.010	speaker#1	female	native	嗯。	12	70	230	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1167.010	1169.455	Zhang_Wan_Gui	male	native	呃第二呢就是她也没白练。	12	70	231	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1167.010	1169.455	speaker#1	female	native	嗯。	12	70	232	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1169.455	1173.377	Zhang_Wan_Gui	male	native	哎能得奖了本身就说明她现在还可以了。	12	70	233	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1169.455	1173.377	speaker#1	female	native		12	70	234	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1173.377	1175.057	Zhang_Wan_Gui	male	native	哎我那时候相当高兴。	12	70	235	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1173.377	1175.057	speaker#1	female	native		12	70	236	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1175.057	1181.596	Xu_Li_Hua	female	native	我老头--我老头把我抱起来了，嗯。	12	71	237	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1175.057	1181.596	speaker#1	female	native	那个是，真的 {laugh} 。	12	71	238	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1181.596	1184.416	Xu_Li_Hua	female	native	第一个奖。	12	71	239	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1181.596	1184.416	speaker#1	female	native	那是得的第一个奖是吗 {noise} 	12	71	240	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1184.416	1196.923	Xu_Li_Hua	female	native	从那以后--以后，区里比赛，市里比赛，省里比赛，各大省市呃比赛，东北三省啊，都参加，哎都前矛，嗯都前矛。	12	71	241	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1184.416	1196.923	speaker#1	female	native	嗯，你都参加，嗯，呃而且，都得奖，嗯。	12	71	242	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1196.923	1207.251	Xu_Li_Hua	female	native	哎，对在哈尔滨，那个金-金牌和银牌。	12	71	243	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1196.923	1207.251	speaker#1	female	native	后来更厉害的是参加了一个在哈尔滨举办一个国际性的比赛，得了一个金牌，两个银牌，这是非常--非常好的成绩了啊。	12	71	244	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1207.251	1215.291	Xu_Li_Hua	female	native	这一会呀可不是这代表咱们长春市，不代表咱们，这是代表国家去的，国际比赛。	12	71	245	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1207.251	1215.291	speaker#1	female	native	是国际比赛。	12	71	246	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1215.291	1225.721	Xu_Li_Hua	female	native	去了到比赛那个第一天，比赛打的是仰视拳，当时打的仰视拳，我就得了银，得一枚银-银牌。	12	71	247	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1215.291	1225.721	speaker#1	female	native	嗯。	12	71	248	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1225.721	1227.057	Xu_Li_Hua	female	native	嗯。	12	71	249	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1225.721	1227.057	speaker#1	female	native	银牌，嗯。	12	71	250	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1227.057	1233.424	Xu_Li_Hua	female	native	等到第二场是 {noise} ，得了银牌。	12	71	251	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1227.057	1233.424	speaker#1	female	native	嗯，也得了银牌。	12	71	252	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1233.424	1237.853	Xu_Li_Hua	female	native	到第三个呢，我就心想哎呀，这还还没得金牌呢。	12	71	253	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1233.424	1237.853	speaker#1	female	native		12	71	254	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1237.853	1241.025	Xu_Li_Hua	female	native	嗯。	12	71	255	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1237.853	1241.025	speaker#1	female	native	当时还想着得金牌呢。	12	71	256	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1241.025	1250.994	Xu_Li_Hua	female	native	等到打到半节时候， {noise} ，打到 {noise} ，我就咔嚓一-一 (()) ，我这一跺脚，我就坐地下了，劈叉劈开了。	12	71	257	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1241.025	1250.994	speaker#1	female	native	嗯。	12	71	258	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1250.994	1260.174	Xu_Li_Hua	female	native	我稳稳当当起来了，就是这个动作，就做这一个， (()) 。	12	71	259	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1250.994	1260.174	speaker#1	female	native	嗯。	12	71	260	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1260.174	1274.416	Xu_Li_Hua	female	native	就是这个动作，哎 (()) ，哎呀这老太太，这功这么好，这金牌就来了。	12	71	261	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1260.174	1274.416	speaker#1	female	native	把所有的评为都给震撼了，啊。	12	71	262	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1274.416	1282.001	Xu_Li_Hua	female	native	就这么。	12	71	263	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1274.416	1282.001	speaker#1	female	native	{laugh} ，一个完美的收场，啊。	12	71	264	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1282.001	1291.610	Xu_Li_Hua	female	native	到家我-我金牌一摆呀，银牌一摆呀，我老头哎呀又给我抱住，我老伴---我老伴真好，这-这真是。	12	71	265	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1282.001	1291.610	speaker#1	female	native	嗯 {laugh} 。	12	71	266	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1291.610	1298.376	Xu_Li_Hua	female	native	我就噼哩叭掉眼泪，感动我的。	12	71	267	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1291.610	1298.376	speaker#1	female	native	嗯。	12	71	268	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1298.376	1303.931	speaker#1	female	native	现在阿姨算是非常风光了，你看参加了那么多的比赛，得了那么的奖。	12	72	269	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1303.931	1315.072	speaker#1	female	native	从原来一个植物人到现在光彩照人，我们大家都觉得真的非常羡慕你有这样一个好的，好老公，好丈夫，一直在关心你，呵护你，支持你。	12	72	270	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1315.072	1318.165	Zhang_Wan_Gui	male	native	那是做-做为一个男人的责任。	12	73	271	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1318.165	1323.330					13	74	272	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	1323.330	1329.576	speaker#1	female	native	徐阿姨现在有没有想过，回过头来照顾这个老伴，来关心她？ 	14	75	273	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1323.330	1329.576	Xu_Li_Hua	female	native	有啊。	14	75	274	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1329.576	1336.024	speaker#1	female	native	嗯。	14	75	275	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1329.576	1336.024	Xu_Li_Hua	female	native	有时候买大米呀，五十斤大米我从五楼，就从那个商店我一下扛到家。	14	75	276	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1336.024	1339.079	speaker#1	female	native	你呀，五十斤大米。	14	75	277	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1336.024	1339.079	Xu_Li_Hua	female	native	嗯，嗯。	14	75	278	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1339.079	1341.869	Zhang_Wan_Gui	male	native	她今年六十七岁了，她身体很好的。	14	76	279	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1341.869	1350.612	Xu_Li_Hua	female	native	不但我家里分苹果，梨呀，分苹果呀，那-那箱子我都跟他，邻居我都帮忙。	14	77	280	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1341.869	1350.612	speaker#1	female	native	嗯。	14	77	281	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1350.612	1353.244	Xu_Li_Hua	female	native	干的全都是力气活。	14	77	282	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1350.612	1353.244	speaker#1	female	native	干的全是力气活呢。	14	77	283	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1353.244	1354.541	Zhang_Wan_Gui	male	native	那力气活她干。	14	78	284	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1354.541	1357.995	Zhang_Wan_Gui	male	native	我现在就是一天看着，看个书啊，看个电视啊。	14	78	285	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1357.995	1362.855	Zhang_Wan_Gui	male	native	哎-哎有的有时候打打麻将哪。	14	79	286	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1357.995	1362.855	speaker#1	female	native	你现在享清福了对吧， {laugh} 。	14	79	287	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1362.855	1364.816	Zhang_Wan_Gui	male	native	我家里啥事也不管。	14	79	288	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1362.855	1364.816	speaker#1	female	native	嗯。	14	79	289	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1364.816	1368.097	Xu_Li_Hua	female	native	我为了回报他哈，我们俩还照了婚纱像呢。	14	80	290	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1364.816	1368.097	speaker#1	female	native	嗯。	14	80	291	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1368.097	1371.534	Xu_Li_Hua	female	native	嗯，着婚纱咋的也不去。	14	80	292	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1368.097	1371.534	speaker#1	female	native	还照婚纱照呢，嗯。	14	80	293	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1371.534	1379.926	Xu_Li_Hua	female	native	我连拉带拽，我说求求你，那事商量--商量，你去吧，去吧，他嫌我不好，谁这么大岁数照婚纱。	14	80	294	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1371.534	1379.926	speaker#1	female	native	嗯。	14	80	295	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1379.926	1385.307	Xu_Li_Hua	female	native	照的还挺好的。	14	80	296	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1379.926	1385.307	speaker#1	female	native	哎我们给大家看一下，照的怎么样，啊怎么样，好不好看？ 	14	80	297	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1385.307	1393.097					15	81	298	nontrans	
+ANHUI_FAMILY_CMN_20060613_223031	0	1393.097	1394.598	speaker#1	female	native	特别漂亮。	16	82	299	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1394.598	1399.503	Zhang_Wan_Gui	male	native	我觉得这么大年龄了， (()) 就别去了。	16	83	300	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1399.503	1407.112	speaker#1	female	native	特别漂亮，这个张叔显得特别帅气哈。	16	84	301	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1407.112	1412.370	speaker#1	female	native	阿姨也显得特别漂亮，这张显得特别的端庄大方。	16	84	302	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1412.370	1418.377	speaker#1	female	native	后面还有这个穿这个民族服装照的，也特别有味道。	16	85	303	filler	
+ANHUI_FAMILY_CMN_20060613_223031	0	1418.377	1489.465					17	86	304	nontrans	

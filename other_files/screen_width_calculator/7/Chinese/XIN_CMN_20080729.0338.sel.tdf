@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080729.0338	0	200.0	300.0	speaker	unknown	unknown	北京奥运会已“近在咫尺”，身为协办城市的香港当然不能辜负“美食天堂”的美誉，无论中餐馆还是西餐厅，纷纷精心设计“奥运大餐”，期待借奥运契机招徕八方食客。	0	0	0		
+XIN_CMN_20080729.0338	0	600.0	700.0	speaker	unknown	unknown	为迎接奥运会的到来，香港连锁饮食集团联邦酒楼准备了三四个月，集体创作出以奥运为主题的点心及晚宴套餐。	0	0	0		
+XIN_CMN_20080729.0338	0	1800.0	1900.0	speaker	unknown	unknown	主办方介绍说，北京奥运会是中国人的百年盛事，加上香港为协办城市，因此能再次举办“西贡美食节”，并以奥运为主题，希望带动全城的气氛。	0	0	0		
+XIN_CMN_20080729.0338	0	2600.0	2700.0	speaker	unknown	unknown	“盛装舞步”、“紫荆跃马”、“水立方”、“双鱼河”，一款款鸡尾酒更是将北京奥运会和香港协办奥运马术比赛的元素融为一体。	0	0	0		
+XIN_CMN_20080729.0338	0	2700.0	2800.0	speaker	unknown	unknown	香港餐饮联业协会会长黄家和介绍说，香港不少酒楼食肆以奥运为主题，推出新品，为前来光顾的市民和游客带来新鲜感。	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080430.0589	0	700.0	800.0	speaker	unknown	unknown	但在达赖集团统治下的旧西藏，把人分为三级九等，占人口不到５％的僧俗农奴主控制着占人口９５％以上的农奴的人身自由，对农奴进行残酷的经济剥削、政治压迫和精神控制，农奴连生存权都得不到保障。	0	0	0		
+PLA_CMN_20080430.0589	0	800.0	900.0	speaker	unknown	unknown	法国藏学家亚历山大・达维・尼尔在《古老的西藏面对新生的中国》中说，旧西藏所有农奴“完全失去了一切人的自由”。	0	0	0		

@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080409.0369	0	900.0	1000.0	speaker	unknown	unknown	经营者的积极性如何?	0	0	0		
+CNS_CMN_20080409.0369	0	1500.0	1600.0	speaker	unknown	unknown	如2007年伊利营业利润亏损971万元，海南药业则约亏5000万元；(2)辞职套现，成了不少老总的首选。	0	0	0		
+CNS_CMN_20080409.0369	0	1900.0	2000.0	speaker	unknown	unknown	最好的选择那就是辞职，辞职了，就能一次抛售套现。	0	0	0		
+CNS_CMN_20080409.0369	0	2500.0	2600.0	speaker	unknown	unknown	而中国平安公布的年报，却显示有3名董事及高管2007年的税前薪酬超过了4000万元，马明哲税前薪酬竟达到6616.1万元，其中99%就来自期权。	0	0	0		
+CNS_CMN_20080409.0369	0	7900.0	8000.0	speaker	unknown	unknown	所谓直接激励，即是经营者为企业创造了多少利润，企业就按利润的一定百分比，奖给经营者。	0	0	0		

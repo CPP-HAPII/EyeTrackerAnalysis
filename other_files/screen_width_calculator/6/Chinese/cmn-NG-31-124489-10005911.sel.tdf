@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-124489-10005911	0	0.0	100.0	speaker	unknown	unknown	关于论坛 MAIL LIST的调用问题。	0	0	0		
+cmn-NG-31-124489-10005911	0	200.0	300.0	speaker	unknown	unknown	我想调用 mail list 到我网站首页做个跟你blog上面的效果一样的。	0	0	0		
+cmn-NG-31-124489-10005911	0	800.0	900.0	speaker	unknown	unknown	实现方法：通过观察，发现google mail list 有rss 可以订阅15条， xml的地址为 http://groups.google.	0	0	0		
+cmn-NG-31-124489-10005911	0	900.0	1000.0	speaker	unknown	unknown	com/group/netcicala/feed/rss_v2_0_msgs.xml所以想用一个asp 把xml内容读取过来，然后对xml的 <title> </title>和 <link> </link>之间的内容获取。	0	0	0		
+cmn-NG-31-124489-10005911	0	1000.0	1100.0	speaker	unknown	unknown	然后做成标准html 。	0	0	0		
+cmn-NG-31-124489-10005911	0	1100.0	1200.0	speaker	unknown	unknown	遇到问题：1，下面代码输出的结果前面的条款都对，但到后面，就乱套了。	0	0	0		
+cmn-NG-31-124489-10005911	0	1200.0	1300.0	speaker	unknown	unknown	2，下面代码的注释部分是为了获取 <link> </link>字符，但去掉注释之后，获取到的还是title的内容。	0	0	0		
+cmn-NG-31-124489-10005911	0	1400.0	1500.0	speaker	unknown	unknown	4，本人对JS一无所知，如果能帮我弄出来JS代码更好。	0	0	0		
+cmn-NG-31-124489-10005911	0	1500.0	1600.0	speaker	unknown	unknown	直接调用，不胜感激。	0	0	0		
+cmn-NG-31-124489-10005911	0	2100.0	2200.0	speaker	unknown	unknown	com/group/netcicala/feed/rss_v2_0_msgs.xml "Html = getHTTPPage(Url)'定义一些需要使用到的变量s=Split(Html," <title>",-1,1)for i=0 to ubound(s)t=Split(s(i)," </title>",-1,1)'把 <title>和 </title>之间的内容切出来response.write t(0)&amp;" <br>"'输出标题结果'm=Split(t(1)," <link>",-1,1)'继续切割，把刚刚的剩余的字符用 <link>进行切割'n=Split(m(1)," </link>",-1,1)'将剩余的字符用 </link>切割，得到的内容放入n(0)中'response.write n(0)&amp;" <br>"'输入连接内容next%>	0	0	0		
+cmn-NG-31-124489-10005911	0	2400.0	2500.0	speaker	unknown	unknown	comUC:38378943UC群:5955365QQ:53163108MSN:NetCic ... @163.comEmail:NetCic ... @163.comGoogle MailList:NetCicala@googlegroups.com	0	0	0		

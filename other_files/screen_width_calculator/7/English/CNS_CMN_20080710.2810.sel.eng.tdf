@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.2810	0	400.0	500.0	speaker	unknown	unknown	The report does not offer other specific details currently, including the exact location of the trial shooting.	0	0	0		

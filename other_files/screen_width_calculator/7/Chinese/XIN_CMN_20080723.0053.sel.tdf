@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080723.0053	0	800.0	900.0	speaker	unknown	unknown	此外，葡萄牙网上的卖家不断增加，商品日益丰富，也促进了电子商务交易量的增加。	0	0	0		

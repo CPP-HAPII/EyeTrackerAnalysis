@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080426.0564	0	200.0	300.0	speaker	unknown	unknown	中新网4月26日电 据西班牙《华新报》报道，4月12日，西班牙南方日报与西班牙电视五台分别曝料，马拉加中国人餐馆将自己饲养的狗屠杀食用的消息。	0	0	0		
+CNS_CMN_20080426.0564	0	2200.0	2300.0	speaker	unknown	unknown	西班牙南方日报在报道此事时，文章所配的资料图片为一张当地华人服装批发区的照片。	0	0	0		
+CNS_CMN_20080426.0564	0	2400.0	2500.0	speaker	unknown	unknown	说明南方日报的记者并未就此事，在近期内对当地华人进行采访证实，只是片面地根据个别西班牙人所反映的问题，而武断定下“中国人把自己养的狗杀掉并食用”的结论。	0	0	0		
+CNS_CMN_20080426.0564	0	2500.0	2600.0	speaker	unknown	unknown	对此，南方日报的回答是，图片跟内容的联系不是太必要的。	0	0	0		
+CNS_CMN_20080426.0564	0	2600.0	2700.0	speaker	unknown	unknown	在这点上，西班牙电视五台记者似乎胜过南方日报，他们扛着摄影机亲临华人仓库，就此事对部分华人企业主与工人进行了采访。	0	0	0		
+CNS_CMN_20080426.0564	0	2800.0	2900.0	speaker	unknown	unknown	通过当地媒体，反映作为外来移民，介绍了祖籍国的生活习性，也表示了自己遵守居住国法律、尊重当地居民的生活习俗的立场，这本合情合理、无懈可击。	0	0	0		
+CNS_CMN_20080426.0564	0	3200.0	3300.0	speaker	unknown	unknown	西班牙南方日报与电视五台有意扭曲事实，以图扩大事态，迎合当地民众，从中增加自身的效益。	0	0	0		
+CNS_CMN_20080426.0564	0	3400.0	3500.0	speaker	unknown	unknown	南部华侨华人协会与马拉加当地中餐业主就此事积极做出回应，一方面通过华文媒体向全西班牙的华侨华人陈述事情真相寻求声援，另一方面向南方日报与电视五台发出律师信，以通过法律的途径对当地媒体恶意报道讨一说法。	0	0	0		

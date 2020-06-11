@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Visit the Mainland After May 20th? - Wu Poh-hsiung: Can Make a Trip if it Helps Cross-Strait Peace	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 27, 2008	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	900.000	950.000	TEXT1	unknown	unkown	People.com.cn, April 27th	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	950.000	2800.000	TEXT1	unknown	unkown	According to a story from China Review News, on the 26th, KMT chairman, Wu Poh-hsiung, stressed that he looks at the issue of whether or not he will make a trip to the continent after Taiwan area's leadership handover ceremony on May 20th with a very solemn frame of mind. It's not going for a leisure trip and he will not go to the Mainland just for the sake of going to the Mainland.	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	3000.000	3100.000	TEXT1	unknown	unkown	Wu Poh-hsiung said, "if it is helpful for the development of cross-strait peace, actually improves the cross-strait atmosphere and is helpful for the welfare of Taiwanese people, as the ruling party, we can make a trip."	0	0	0		statement

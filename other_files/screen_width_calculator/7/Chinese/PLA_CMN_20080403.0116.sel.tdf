@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080403.0116	0	200.0	300.0	speaker	unknown	unknown	中国军网讯 陆波、黄金衔报道：“您的签注还有六天就过期了，请注意及时办理新签注。”3月30日，江苏边防总队南京边检站女子旅检科检查员陈俊在完成证件检查后，亲切地提醒一位台湾老人留意签注的有效期。	0	0	0		
+PLA_CMN_20080403.0116	0	600.0	700.0	speaker	unknown	unknown	“谢谢你的提醒，我会安排好回乡日程。”大陆边检官兵这一及时、温馨的提示举措和便民举措，受到了返乡台胞和其他旅客的普遍欢迎和热情赞誉。	0	0	0		

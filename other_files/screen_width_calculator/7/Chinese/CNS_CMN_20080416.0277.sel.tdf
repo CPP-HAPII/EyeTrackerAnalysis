@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080416.0277	0	200.0	300.0	speaker	unknown	unknown	昆明市近日召开“解放思想、深化改革、扩大开放、科学发展”大讨论动员会，昆明市委书记仇和表示，当前特别需要冲破六个思想障碍，其中一个是冲破“准我干我才干”、“唯上”、“唯书”的僵化思想，树立“没有明令禁止都可以想、可以干”，不断创新求变的求索作风。	0	0	0		
+CNS_CMN_20080416.0277	0	900.0	1000.0	speaker	unknown	unknown	也是在这次动员会上，他表示要重点推进五个方面的改革，包括进一步优化政府职能，推进政企分开、政资分开、政事分开、政府与中介组织分开；深化经济管理制度改革，激发创业创富潜能，彻底打破地域、行业和所有制界限，在更大的范围和更高的层次实行资本运作，等等。	0	0	0		

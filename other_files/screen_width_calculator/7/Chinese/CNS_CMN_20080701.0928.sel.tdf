@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.0928	0	700.0	800.0	speaker	unknown	unknown	会议官方网站已于6月30日正式开通，网址为www.asem7.	0	0	0		
+CNS_CMN_20080701.0928	0	900.0	1000.0	speaker	unknown	unknown	网站将全面发布会议期间主要活动、领导人重要讲话和重要文件，提供会议信息及媒体服务，并介绍亚欧会议背景、成员国和历届会议情况等。	0	0	0		
+CNS_CMN_20080701.0928	0	5800.0	5900.0	speaker	unknown	unknown	答：我们认为当务之急是鼓励津巴布韦各派通过对话协商解决分歧，只有这样才最符合津巴布韦的国家利益和津巴布韦人民的利益。	0	0	0		
+CNS_CMN_20080701.0928	0	7400.0	7500.0	speaker	unknown	unknown	对于实现朝鲜半岛无核化，各方都有共同目标，也有不同考虑，我们还会有很多分歧和困难要去克服。	0	0	0		

@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080710.0155	0	0.0	100.0	speaker	unknown	unknown	世界日报：G8去加进中？	0	0	0		
+PDA_CMN_20080710.0155	0	900.0	1000.0	speaker	unknown	unknown	辩论的焦点不只是G8是否接受中国，中国是否愿意加入也是问题的关键。	0	0	0		
+PDA_CMN_20080710.0155	0	1000.0	1100.0	speaker	unknown	unknown	这篇题为《G8去加进中？	0	0	0		
+PDA_CMN_20080710.0155	0	1300.0	1400.0	speaker	unknown	unknown	这种态度正反应不少国家重组G8的意见。	0	0	0		
+PDA_CMN_20080710.0155	0	1900.0	2000.0	speaker	unknown	unknown	前英国首相布莱尔说:“G8承认中国的重要性有重要意义。”	0	0	0		
+PDA_CMN_20080710.0155	0	2000.0	2100.0	speaker	unknown	unknown	芝加哥德保大学政治学教授阿戴比表示，G8最初是推广富国的自身利益，虽然现在情势已变，但G8很难放下精英大国的身段。	0	0	0		
+PDA_CMN_20080710.0155	0	2100.0	2200.0	speaker	unknown	unknown	有些成员国不愿意改变G8的构架，担心打破成员国之间密切而公正的机构感。	0	0	0		
+PDA_CMN_20080710.0155	0	2200.0	2300.0	speaker	unknown	unknown	日本就很看中G8的领头位置。	0	0	0		
+PDA_CMN_20080710.0155	0	2500.0	2600.0	speaker	unknown	unknown	安理会常任理事国成员、也不是北大西洋公约组织会员的日本，惟恐与主要竞争国中国分享G8的优势。	0	0	0		
+PDA_CMN_20080710.0155	0	2800.0	2900.0	speaker	unknown	unknown	一官员说:“我们珍惜G8的这个构架，G8就是G8，其它一些议题可以与中、印等国家协商，但G8的外延功能完全可以完成这一使命。”今年列席G8的国家数目空前，就是G8外延效应。	0	0	0		
+PDA_CMN_20080710.0155	0	2900.0	3000.0	speaker	unknown	unknown	安大略省的“全球管理计画研究中心”(Center for International Governance Innovation)副主任库柏表示，G8必须决定它是有共同价值观念的民主国家俱乐部(这会使俄国不合群)？	0	0	0		
+PDA_CMN_20080710.0155	0	3200.0	3300.0	speaker	unknown	unknown	他指出，这不仅是G8需要回答的问题，也是中国要考虑的问题。	0	0	0		
+PDA_CMN_20080710.0155	0	3300.0	3400.0	speaker	unknown	unknown	中国模棱两可，一方面渴望刚建立的国际舞台重要角色，另一方面又不希望被国际协定所束缚。	0	0	0		
+PDA_CMN_20080710.0155	0	3400.0	3500.0	speaker	unknown	unknown	即使G8本周表决是否用中国取代加拿大，中国是否接受这一邀请还不得而知。	0	0	0		

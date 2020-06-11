@@ -1,0 +1,301 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 71.528999999999996, 143.935, 328.07900000000001, 473.86900000000003, 639.90899999999999, 819.779, 877.35400000000004, 914.38400000000001, 961.24599999999998, 1682.23, 1733.97, 1822.75, 9999999.0]
+CCTV4_NEWS3_CMN_20070320_075800	0	0.000	3.265	speaker#1	male	native	... and limited to production of 2,001 sets.	0	0	0	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	3.896	13.969	speaker#1	male	native	The new version of the Mao porcelain rose bowl, with a lighter and thinner body, exquisite in craftsmanship, is an object which various major Chinese museums and collectors compete for their treasured collections.	0	0	2	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	14.527	19.406	speaker#1	male	native	It has also become a unique specimen in China's porcelain flower garden in the new era.	0	0	5	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	38.394	43.142	speaker#1	male	native	The superb porcelain-making technique makes the baking of the porcelain rose bowl, ah, perfect.	0	0	7	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	43.689	51.280	speaker#1	male	native	Meanwhile, as a scarce Mao porcelain, ah, the porcelain rose bowl is even more mysterious, becoming an ever-lasting national treasure.	0	0	9	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	52.718	62.889	speaker#1	male	native	According to expert projections, uh, this batch of porcelain rose bowls, due to its scarcity, exquisite craftsmanship, and prominent features of the era, still, uh, has considerable room for appreciation.	0	0	13	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	63.998	64.711	speaker#1	male	native	Okay, friends,	0	0	18	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	65.239	68.088	speaker#1	male	native	We will stop the story, uh, of the porcelain rose bowl here.	0	0	20	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	68.088	71.529	speaker#1	male	native	Please continue watching our next edition of National Treasure Archive.	0	0	21	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	143.935	146.142	speaker#2	male	native	Chinese World, home for Chinese around the world.	2	2	23	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	146.142	147.736	speaker#2	male	native	Welcome to today's program.	2	2	24	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	147.736	152.668	speaker#2	male	native	At the beginning of today's program, ah, we will take everyone to know a Chinese woman who had a special experience.	2	2	25	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	152.668	157.216	speaker#2	male	native	She went traveling, uh, in faraway South Africa, and unexpectedly, uh, found her true love there.	2	2	27	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	157.763	163.703	speaker#2	male	native	She used to be a female white collar worker, who majored in Chinese, but now, uh, has become a woman who owns an African farm.	2	2	30	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	164.250	167.856	speaker#2	male	native	Next we're going to meet her, to experience her love in a foreign country.	2	2	33	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	169.776	173.637	speaker#3	female	native	Wang Jun, a native of Luoyang, China, went sightseeing in South Africa five years ago.	2	3	36	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	173.637	177.058	speaker#3	female	native	On a fateful occasion, she met a South African man.	2	3	38	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	177.058	179.855	speaker#3	female	native	The two just about instantly fell in love.	2	3	40	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	179.855	181.887	speaker#3	female	native	Soon after, they got married.	2	3	41	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	182.528	186.465	speaker#3	female	native	After marriage, Wang Jun worked with her husband in the wildlife customs brokerage business.	2	3	43	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	187.137	193.418	speaker#3	female	native	To ordinary Chinese women, what she experiences every day is the real Africa ordinary people rarely see in a lifetime.	2	3	45	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	194.226	198.887	speaker#3	female	native	During her work, Wang Jun gradually discovered that there is a great difference between dreams and reality.	2	3	48	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	199.452	208.746	speaker#3	female	native	The fairy tale lion king and the lions, leopards, and giraffes in real life are simply as different as heaven and earth, especially when the animals are connected with money.	2	3	51	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	209.496	217.105	speaker#3	female	native	Joy and expectation of the past became short-lived, while the feelings of being far away from her hometown and isolated from the outside world were constantly rising to the surface.	2	3	56	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	217.831	224.463	Wang_jun	female	native	Previously, uh, I had a career within my country, ha, a job, a salary. Coming here, it was completely just this place.	2	4	59	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	224.463	226.025	Wang_jun	female	native	At first I stayed at home all day long.	2	4	61	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	226.739	229.526	Wang_jun	female	native	Well, it was unbearable, completely disjointed.	2	4	63	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	230.073	231.479	Wang_jun	female	native	I was extremely homesick.	2	4	65	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	232.112	235.515	Wang_jun	female	native	I think when my mother was here, it seems that feeling was not especially strong.	2	4	67	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	235.515	239.031	Wang_jun	female	native	After all, I had someone with me every day, ha, to keep me company.	2	4	68	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	239.031	245.241	Wang_jun	female	native	After my mother left, well, those days were simply -- oh, I dared not enter +her room.	2	4	69	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	245.241	248.733	Wang_jun	female	native	My mother would take a walk after eating, ha.	2	4	72	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	248.733	250.812	Wang_jun	female	native	I had never gone out walking with her before.	2	4	73	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	251.350	254.844	Wang_jun	female	native	My mother would watch stars alone outside, saying to me, wow, look you, so many stars outside.	2	4	75	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	254.844	255.516	Wang_jun	female	native	{laugh}	2	4	76	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	255.516	257.750	Wang_jun	female	native	But I would just stay indoors watching TV, ah,	2	4	77	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	257.750	260.313	Wang_jun	female	native	talking to my husband, ah, chatting, stuff like that, ha.	2	4	78	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	260.313	263.391	Wang_jun	female	native	After she left, uh, when I stepped outside, ah,	2	4	79	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	263.391	266.094	Wang_jun	female	native	the moment I saw that, the moment I saw stars, I would think of my mother.	2	4	80	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	266.094	267.469	Wang_jun	female	native	I would start to cry by myself.	2	4	81	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	268.325	270.356	Wang_jun	female	native	That feeling was really unpleasant.	2	4	83	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	270.356	277.123	speaker#3	female	native	The arrival of a baby and everything that requires adjustment after marriage brought tremendous change to Wang Jun's original life plan.	2	5	84	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	277.123	279.248	speaker#3	female	native	This thing would bring back fond memories.	2	5	86	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	280.147	283.241	speaker#4	male	native	This thing would bring back fond memories.	2	6	88	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	283.241	284.678	Wang_jun	female	native	Right.	2	7	89	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	284.678	291.985	Wang_jun	female	native	I often, sometimes I would feel, I would say when I saw a child, is this my child? Is this the child I gave birth to?	2	7	90	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	291.985	296.419	Wang_jun	female	native	That is, you feel as if life, reversing is too much.	2	7	93	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	297.163	302.744	speaker#3	female	native	To adjust to the environment, to courageously innovate is the lesson that Wang Jun learned in exchange for five years of time.	2	8	97	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	303.300	308.428	speaker#3	female	native	After acknowledging and accepting current life, she finally found a world that is her own.	2	8	100	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	308.428	315.622	Wang_jun	female	native	With this gradual transition, ah, I now, I will also say, people will ask where did you come from? I say I came from China.	2	9	102	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	315.622	317.997	Wang_jun	female	native	He says where is your home? I say my home is now right here.	2	9	105	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	319.341	326.434	speaker#3	female	native	At present she is an irreplaceable good partner for her husband's career, and an inexhaustible source of love and cultural treasure for her child.	2	10	107	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	328.079	335.168	speaker#2	male	native	On our previous program, we reported an incident of two white youths in the US insulting and beating young ethnic Chinese.	3	11	110	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	335.168	338.368	speaker#2	male	native	This incident took place in New York City in August last year.	3	11	112	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	338.906	341.378	speaker#2	male	native	The trial in this case recently, uh, came to a conclusion.	3	11	114	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	341.378	346.031	speaker#2	male	native	One of the suspects was sentenced to three and a half years in jail and two and a half years of non-jail probation.	3	11	115	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	346.031	351.014	speaker#2	male	native	The victims and local ethnic Chinese said, uh, that they were basically satisfied with this trial outcome.	3	11	116	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	351.014	362.692	speaker#5	male	native	<foreign lang="English">(())</foreign>	3	12	117	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	362.692	381.535	speaker#6	male	native	<foreign lang="English">(())</foreign>	3	13	118	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	383.718	401.535	speaker#7	female	native	<foreign lang="English">(())</foreign>	3	14	120	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	402.113	417.580	speaker#8	male	native	<foreign lang="English">(())</foreign>	3	15	122	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	418.611	425.220	Song_bili	female	native	On August 12 last year, four Chinese youths were waiting for a red light at the intersection of 44th Avenue and Douglaston Parkway.	3	16	124	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	425.220	431.126	Song_bili	female	native	Two white youths used <foreign lang="English">(())</foreign> (()) and <foreign lang="English">(())</foreign> (()) these derogatory words for Asians to curse the four Chinese youths.	3	16	126	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	431.649	435.879	Song_bili	female	native	When the light turned green, the ethnic Chinese youth victims drove along Northern Boulevard heading east.	3	16	128	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	436.389	439.496	Song_bili	female	native	The two white youths unexpectedly followed closely in their car.	3	16	130	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	439.496	446.939	Song_bili	female	native	At a crossroad, the two white youths jumped out of the car, walked toward the car of the four Chinese youths holding The Club, and started to beat the four Chinese.	3	16	130	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	446.939	449.658	Song_bili	female	native	As a result, each of the four Chinese sustained light to severe injuries.	3	16	133	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	449.658	452.470	Song_bili	female	native	One 19-year-old Chinese had a serious head injury.	3	16	134	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	453.032	457.064	Song_bili	female	native	Police records show that the two people, Brown and Heavey, fled in their car after the incident.	3	16	136	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	457.064	460.658	Song_bili	female	native	Their resistance to arrest also caused light injury to a police officer's hand.	3	16	137	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	460.658	466.572	Song_bili	female	native	So, apart from being charged by police with the crimes of first degree and second degree assault, Brown +and Heavey were also charged at that time with the crime of resisting arrest.	3	16	138	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	467.416	470.556	Song_bili	female	native	The investigation of this case has been going on for more than seven months now.	3	16	140	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	470.556	472.838	Song_bili	female	native	Song Bili reporting for Chinese TV in the US.	3	16	141	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	473.869	476.525	speaker#2	male	native	Okay, next let's turn our attention to New Zealand.	4	17	143	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	476.525	484.279	speaker#2	male	native	It can be said that New Zealand is the first country in the world to introduce history, geography, and local customs, among other things, by putting an encyclopedia online.	4	17	144	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	484.807	488.572	speaker#2	male	native	Not long ago, some online data was taken to print in books.	4	17	147	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	488.572	493.682	speaker#2	male	native	Among this, the part introducing immigrants from overseas is considered the most attention-getting.	4	17	148	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	493.682	496.011	speaker#2	male	native	Please watch a report by the Chinese TV network in New Zealand.	4	17	149	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	498.092	501.438	speaker#9	female	native	Introducing the official website of <foreign lang="English">(())</foreign> the online Encyclopedia of New Zealand.	4	18	151	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	501.438	506.110	speaker#9	female	native	To learn about New Zealand's geographical environment or cultural traditions, everything can be found here.	4	18	152	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	506.110	511.336	speaker#9	female	native	There is a wealth of information inside. Most importantly, the website has incorporated the history of immigration as part of the country's own history.	4	18	154	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	511.336	540.485	speaker#10	male	native	<foreign lang="English">(())</foreign>	4	19	155	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	541.070	545.779	speaker#9	female	native	Massey University professor of sociology <foreign lang="English">(())</foreign> (()) is one of the architects of the website information.	4	20	157	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	545.779	550.727	speaker#9	female	native	He said that the history of his own country he read in 1960s and 70s was only the history of Britain.	4	20	158	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	550.727	554.029	speaker#9	female	native	It was not until recent years that the stories of immigrants have gradually received attention.	4	20	159	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	554.029	557.373	speaker#9	female	native	Meanwhile, currently this information can be browsed not only online,	4	20	160	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	557.373	560.592	speaker#9	female	native	<foreign lang="English">(())</foreign> (()) has made (()) into books that can be leafed through.	4	20	161	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	560.592	570.888	speaker#9	female	native	The encyclopedia of immigration lists forty-seven immigrant ethnic groups, including Chinese, carefully recording their backgrounds, cultural festivities, immigrant population statistics, major events, and their contributions to New Zealand.	4	20	162	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	570.888	576.716	speaker#9	female	native	Professor <foreign lang="English">(())</foreign> (()) thinks that both natives <foreign lang="English">(())</foreign> (())and immigrants should further understand this land.	4	20	165	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	577.669	615.495	speaker#10	male	native	<foreign lang="English">(())</foreign>	4	21	168	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	616.136	618.650	speaker#9	female	native	The book records the cultures and traditions of different ethnic groups.	4	22	170	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	618.650	623.915	speaker#9	female	native	The ultimate aim is hope that New Zealanders, regardless of their backgrounds, will all be grateful to live in a diverse society.	4	22	171	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	623.915	631.472	speaker#9	female	native	<foreign lang="English">(())</foreign> (()) also encourages immigrants to write down their stories of traveling across the ocean, and post them online so that more people can understand the joys and hardships of living in a foreign land.	4	22	173	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	631.472	633.835	speaker#9	female	native	Interview and report by central reporter (()).	4	22	175	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	639.909	642.762	speaker#2	male	native	Paying attention to the hot topics of Chinese around the world, focusing on various aspects of overseas life,	5	23	177	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	642.762	645.073	speaker#2	male	native	coming up next, together we'll browse through Chinese newspapers and magazines from around the world.	5	23	178	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	645.073	646.654	speaker#2	male	native	Let's first take a look at this picture.	5	23	179	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	646.654	651.264	speaker#2	male	native	This is the Red Dragon Market, ah, located in Bucharest, capital of Romania.	5	23	180	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	651.264	652.092	speaker#2	male	native	Red Dragon Market.	5	23	181	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	652.092	656.280	speaker#2	male	native	This market, uh, is one of the largest wholesale markets for apparel and general merchandise in Romania.	5	23	182	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	656.280	659.483	speaker#2	male	native	Inside, uh, most stores are run by Chinese merchants.	5	23	183	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	659.483	662.858	speaker#2	male	native	Every day, uh, it can be said to be full with people coming and going, crowded with customers.	5	23	184	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	662.858	667.155	speaker#2	male	native	But recently, uh, because of one incident, this kind of scene, uh, no longer exists.	5	23	185	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	667.155	671.311	speaker#2	male	native	Not only are customers not coming in, many stores have gone out of business.	5	23	186	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	671.311	673.124	speaker#2	male	native	Well, what happened?	5	23	188	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	673.124	686.468	speaker#2	male	native	According to a report by a Chinese newspaper in Romania, more than ten days ago, around ten o'clock in the morning on March 9, uh, to be exact, when business was best, ah, eight local police cars arrived with their sirens sounding.	5	23	189	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	686.468	694.891	speaker#2	male	native	They directly went to the steel modular warehouse, uh, near shopping stall No. 3, that is, this area in the picture, ah, precisely this steel modular warehouse.	5	23	194	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	695.563	702.251	speaker#2	male	native	The police, uh, not only immediately surrounded more than 500 steel modular warehouses, but also, uh, locked warehouse doors.	5	23	197	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	702.251	703.720	speaker#2	male	native	Let's look at the picture, ah.	5	23	199	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	703.720	707.267	speaker#2	male	native	This is the lock on the steel door.	5	23	200	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	707.267	709.270	speaker#2	male	native	It's not easy to open, ah.	5	23	201	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	709.779	711.752	speaker#2	male	native	Well, speaking up to here, you may have questions.	5	23	203	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	711.752	714.846	speaker#2	male	native	What on earth was stored in these steel modular warehouses?	5	23	204	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	714.846	718.768	speaker#2	male	native	Why did the police mobilize so many police officers to seal them off?	5	23	205	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	719.455	724.298	speaker#2	male	native	The report said that actually, uh, steel modular warehouses are storage warehouses in Red Dragon Market.	5	23	207	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	724.846	728.586	speaker#2	male	native	Many Chinese merchants, uh, don't have enough space to store goods in their stores, uh, upon arrival.	5	23	209	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	728.586	731.245	speaker#2	male	native	So they just rented steel modular warehouses to store their goods.	5	23	210	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	731.245	735.681	speaker#2	male	native	The goods were not unusual, mainly, uh, mostly general merchandise for daily use.	5	23	211	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	736.228	740.386	speaker#2	male	native	How did this kind of normal merchandise lead to a large-scale closure by the police?	5	23	214	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	740.386	747.778	speaker#2	male	native	Romania's National Customs Authority explained, ah, this warehouse closure was a large operation by customs police after Romania joined the EU.	5	23	215	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	747.778	750.546	speaker#2	male	native	The main purpose was to investigate and deal with counterfeit merchandise.	5	23	217	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	751.091	760.700	speaker#2	male	native	Not only were 500 plus warehouses sealed in Red Dragon Market, at Niluo Market, another local market mostly managed by Chinese businesspeople, 586 warehouses were also sealed.	5	23	219	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	761.247	765.356	speaker#2	male	native	Well, calculated this way, the National Customs Authority sealed more than 1,000 warehouses at the least.	5	23	223	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	765.356	769.216	speaker#2	male	native	Such a large number attracted the serious attention of the Chinese embassy in Romania.	5	23	224	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	770.060	770.810	speaker#2	male	native	Let's take a look.	5	23	226	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	772.087	779.950	speaker#2	male	native	Embassy officials, ah, made an appointment and met with the National Customs Authority chief, definitively pointing out that closing the warehouses for investigation had affected normal operations for Chinese businesspeople,	5	23	228	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	779.950	783.860	speaker#2	male	native	with the hope, uh, that the warehouses are unsealed as soon as possible, to prevent Chinese businesspeople from suffering losses.	5	23	231	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	784.435	789.153	speaker#2	male	native	The National Customs Authority chief, uh, also expressed, said this investigation, uh, was a routine check, not targeting Chinese businesspeople.	5	23	234	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	789.153	797.980	speaker#2	male	native	As long as the Chinese businesspeople involved bring complete corresponding documents for inspection at designated locations, customs personnel will check and verify the documents on the spot and unseal the warehouses right away.	5	23	237	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	797.980	800.871	speaker#2	male	native	At present 110 warehouses have already been unsealed.	5	23	240	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	801.606	812.544	speaker#2	male	native	Well, in response to this warehouse closure incident, the Chinese embassy in Romania reminded the multitudes of Chinese businesspeople in Romania that since Romania joined the EU on January 1, 2007, customs tariff checks are more rigorous and frequent.	5	23	242	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	812.544	818.794	speaker#2	male	native	Chinese businesspeople must prepare various documents required at the inspection to be inspected and verified, so as to, uh, avoid losses.	5	23	246	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	819.779	821.529	speaker#2	male	native	Let's change the topic. Prison.	6	24	249	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	822.389	824.467	speaker#2	male	native	The very sight of this place terrifies people.	6	24	251	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	824.467	826.186	speaker#2	male	native	Stay as far away as possible.	6	24	252	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	826.186	829.451	speaker#2	male	native	Probably nobody wants the opportunity to go to this place.	6	24	253	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	830.029	834.404	speaker#2	male	native	However, recently, uh, a group of Chinese people in Los Angeles, USA, were especially interested in prisons.	6	24	255	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	834.404	840.763	speaker#2	male	native	They not only enthusiastically, uh, toured prisons, but also intended to find business opportunities from prisons.	6	24	256	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	840.763	842.138	speaker#2	male	native	Doing business with prisons,	6	24	258	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	842.647	844.015	speaker#2	male	native	this is a very novel idea, uh.	6	24	260	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	844.572	845.277	speaker#2	male	native	What's going on?	6	24	262	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	845.277	850.881	speaker#2	male	native	The Qingdao Daily news headline, ah, was entitled "A Unique Business Opportunity in US prisons."	6	24	263	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	851.390	858.715	speaker#2	male	native	The report said that the Chinese Chamber Of Commerce of Los Angeles, USA, ah, recently organized a visit by Chamber members to the Twin Towers Correctional Facility, the largest local jail.	6	24	265	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	858.715	861.470	speaker#2	male	native	It is this jail we saw in the picture.	6	24	267	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	861.470	866.996	speaker#2	male	native	The president of the Chamber of Commerce, Christopher Chong, said that many contracts with the jail system, ah, are for open bidding.	6	24	268	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	866.996	868.668	speaker#2	male	native	Annual expenditures are a huge number.	6	24	270	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	868.668	873.886	speaker#2	male	native	Among these, if ethnic Chinese businesspeople know some of the construction or service projects, they can also participate in the bidding.	6	24	271	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	873.886	876.729	speaker#2	male	native	Chinese friends who are interested, uh, don't miss this chance.	6	24	272	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	877.354	878.979	speaker#2	male	native	Okay, let's now take a look at a set of pictures.	7	25	274	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	881.057	885.463	speaker#2	male	native	A few days ago, there was heavy snow in New York, seriously affecting air and land transportation.	7	25	276	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	885.463	888.229	speaker#2	male	native	That day, uh, 1,400 flights were canceled.	7	25	277	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	888.885	892.293	speaker#2	male	native	What we are seeing is an airport, ah, a picture of an airport covered with heavy snow.	7	25	279	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	892.830	894.822	speaker#2	male	native	Well, this picture, uh, is of New York Chinatown.	7	25	282	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	896.228	899.463	speaker#2	male	native	We see that the bad weather, ah, is affecting business in Chinatown.	7	25	284	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	899.463	901.807	speaker#2	male	native	Well, in order to prevent unexpected disasters,	7	25	285	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	901.807	908.089	speaker#2	male	native	we see this firefighter, uh, he is high up in the air, removing accumulated snow from a commercial building in Chinatown.	7	25	286	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	909.385	912.119	speaker#2	male	native	Okay, dear viewers, we will stop browsing today's newspapers here.	7	25	289	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	912.119	914.384	speaker#2	male	native	In a minute please continue watching Chinese World.	7	25	290	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	961.246	963.043	speaker#2	male	native	Welcome back to Chinese World.	9	27	292	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	963.043	969.554	speaker#2	male	native	In the story about Chinese in our last edition, we told you that Tan Dun won an Oscar for his score in Crouching Tiger, Hidden Dragon.	9	27	293	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	970.064	973.825	speaker#2	male	native	This let the world know Tan Dun, and also let the world know Chinese music.	9	27	295	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	974.606	990.638	speaker#2	male	native	From rural Hunan to Beijing, then from Beijing to a street corner in New York, this poor student playing the violin, relying on his own devotion to music and individual understanding, searched for his road by listening to music between Chinese and Western cultures, pursuing life and musical traditions.	9	27	297	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	991.497	996.013	speaker#2	male	native	Well, what exactly were the twists and turns in Tan Dun's successful musical road?	9	27	303	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	996.013	1001.857	speaker#2	male	native	Looking back on his life journey of fifty years, has Tan Dun gained a more profound understanding of music?	9	27	304	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1001.857	1006.870	speaker#2	male	native	In this edition of the program, we will continue to tell you Tan Dun's journey of searching for his road by listening to music.	9	27	306	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1009.301	1018.808	speaker#11	male	native	On November 21, 2003, composer Tan Dun and his multimedia visual concert were unveiled in grand style in the ancient town of Fenghuang in western Hunan.	9	28	308	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1019.478	1025.811	speaker#11	male	native	This work, entitled The Map: Saving Disappearing Music Traditions, was conducted by Tan Dun in person.	9	28	312	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1025.811	1031.154	speaker#11	male	native	The performance stage was set on the bank of the Tuojiang River at Northern Gate Pier in the ancient town of Fenghuang.	9	28	315	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1031.734	1038.717	speaker#11	male	native	More than 3,000 local residents gathered here, to listen live to the first orchestral concert of their lives.	9	28	317	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1039.545	1054.248	Tan_dun	male	native	In fact the word "map" -- it is actually a map of the heart's journey, a cultural map, and a map to search for the past and future, searching for roots and vision.	9	29	320	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1054.248	1061.054	Tan_dun	male	native	Well, it also aptly matches an image of tradition, because music existed before the invention of human language.	9	29	329	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1061.054	1065.340	Tan_dun	male	native	They searched for roads by listening to music. When you passed by a tribe, passed through a village,	9	29	333	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1065.340	1068.871	Tan_dun	male	native	you had to leave your songs as a way of searching for roads by listening to music.	9	29	334	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1068.871	1071.012	Tan_dun	male	native	Listening to +echoes, listening to responsive songs,	9	29	335	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1071.569	1076.589	Tan_dun	male	native	listening to these local accents, different tones, different rhythms,	9	29	337	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1076.589	1081.323	Tan_dun	male	native	searching for your road ahead, er, searching for your direction.	9	29	339	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1082.457	1087.578	speaker#11	male	native	In 1991 and 2001, Tan Dun went to western Hunan twice to collect folk songs.	9	30	342	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1088.125	1094.354	speaker#11	male	native	Using a video camera, he recorded the music and local customs of the Tujia ethnic group, the Miao ethnic group, and other minority ethnic groups in western Hunan.	9	30	345	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1094.892	1100.997	speaker#11	male	native	Later the content of these collected songs became an important part of the orchestral work The Map.	9	30	347	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1100.997	1105.560	Tan_dun	male	native	(()) from the Western Hunan Autonomous Prefecture in Hunan.	9	31	348	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1109.319	1118.376	Tan_dun	male	native	The music they are going to play for us is also, er, -- I, er, er, collected many, many very interesting pieces of music in western Hunan.	9	31	350	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1118.376	1125.662	Tan_dun	male	native	In addition, uh, these pieces of music were also used by some very unique methods, er, to create some, some forms in The Map.	9	31	353	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1125.662	1127.537	Tan_dun	male	native	Tomorrow evening you can see everything.	9	31	355	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1127.537	1131.802	Tan_dun	male	native	Well, today the first melody we heard was "Parrot Taking a Bath."	9	31	356	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1131.802	1138.633	Tan_dun	male	native	<foreign lang="English">(())</foreign>	9	31	357	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1151.276	1164.479	Tan_dun	male	native	At the time, I was collecting songs in western Hunan and arrived in, um, Fenghuang when I met a young female Miao singer who sang "flying songs," um.	9	31	359	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1164.979	1166.650	Tan_dun	male	native	It turned out she sang "flying songs" very well.	9	31	368	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1166.650	1171.994	Tan_dun	male	native	And "flying songs" are, er, are responsive songs of love and daily life.	9	31	369	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1171.994	1178.950	Tan_dun	male	native	They are all sung to, er, they are all sung to people who are sometimes not seen, people across the mountain, ah, people across the river, ah.	9	31	370	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1178.950	1181.339	Tan_dun	male	native	When it is sung, the other side replies to the sky.	9	31	372	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1182.651	1185.517	Tan_dun	male	native	Face to face, but, uh, not seen.	9	31	374	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1188.020	1191.437	Tan_dun	male	native	That is, this, ah, the part she was listening to.	9	31	377	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1192.165	1202.290	Tan_dun	male	native	The sound in her heart, that kind of feeling she had when she heard it from the sky, could the reply to her be conveyed in music?	9	31	383	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1202.863	1207.281	Tan_dun	male	native	So I turned this listening process of hers into music.	9	31	387	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1207.781	1213.588	Tan_dun	male	native	In fact this was an interaction and reply between new and old, past and present.	9	31	389	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1225.733	1227.936	speaker#11	male	native	On August 18, 1957,	9	32	391	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1227.936	1230.306	speaker#11	male	native	Tan Dun was born in rural Hunan.	9	32	392	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1230.806	1234.916	speaker#11	male	native	Speaking of Tan Dun's connection with music, it has something of a legendary flavor.	9	32	394	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1235.561	1241.919	speaker#11	male	native	When he was a child in the countryside, Tan Dun most liked to follow the musicians who performed Taoist rituals at marriages and funerals for country folks.	9	32	396	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1242.535	1246.733	speaker#11	male	native	Tan Dun believed these people could use music to converse with the previous life or the next life.	9	32	399	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1247.242	1249.132	speaker#11	male	native	He also wanted to be this kind of artist.	9	32	401	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1249.769	1255.732	speaker#11	male	native	As a result, he rejected his family's wish that he study medicine, always practicing diligently on a worn-out violin.	9	32	403	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1255.732	1269.216	Tan_dun	male	native	Because in rural Hunan, many Taoist rituals are conducted, ah, all day long there would be marriages and funerals. I then especially wanted to be that, that, that, that wizard who performed the rituals.	9	33	405	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1269.216	1273.190	Tan_dun	male	native	Because I thought he could play any musical instrument, ah, and could speak any, any language.	9	33	413	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1273.190	1278.184	Tan_dun	male	native	At that time I believed he was a, a human being that really could converse with the previous life and the next life.	9	33	416	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1278.184	1280.512	Tan_dun	male	native	I felt he seemed to understand many languages.	9	33	417	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1281.309	1285.200	Tan_dun	male	native	Well, when I was very small, it was this kind of musician that I wanted to be.	9	33	419	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1301.261	1305.264	speaker#11	male	native	During the ten years of turmoil, Tan Dun was sent down to work as a peasant for two years.	9	34	421	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1305.811	1309.201	speaker#11	male	native	His childhood musical dreams seemed to be completely destroyed.	9	34	423	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1309.795	1317.544	speaker#11	male	native	However, contrary to everyone's expectations, an unexpected disaster pushed Tan Dun into the world of music in a mysterious way.	9	34	425	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1319.076	1323.529	speaker#2	male	native	Soon after the end of the ten years of turmoil, The Hunan Province Beijing Opera Troupe went to perform in the countryside.	9	35	427	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1324.206	1329.732	speaker#2	male	native	Unexpectedly, the ship on which the performers and musicians were riding capsized into the lake, with no survivors.	9	35	430	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1330.576	1336.139	speaker#2	male	native	Tan Dun, who could play erhu and knew a little bit about music, was then recruited by the troupe.	9	35	432	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1336.779	1341.404	speaker#2	male	native	The training in the Beijing opera troupe enabled Tan Dun to understand more about traditional opera and music.	9	35	434	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1343.385	1347.542	speaker#11	male	native	The greatest turning point in Tan Dun's life occurred in 1978.	9	36	436	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1348.117	1353.195	speaker#11	male	native	This year, the Central Observatory of Music recruited students for the first time after college entrance exams were restored.	9	36	438	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1353.769	1361.790	speaker#11	male	native	Tan Dun, who was not content with being a musician in a county-level theatrical troupe, believed then that the opportunity had come for him to realize his musical dreams.	9	36	440	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1362.447	1368.869	speaker#11	male	native	However, at that time tens of thousands of music enthusiasts across the country had applied to the Central Observatory of Music.	9	36	442	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1369.457	1373.082	speaker#11	male	native	It was not easy at all to stand out among these elites.	9	36	444	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1373.617	1381.542	speaker#11	male	native	What was more incredible was that the musical instrument Tan Dun used during the audition was merely a worn-out violin with only three strings.	9	36	446	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1382.370	1388.105	Tan_dun	male	native	Remember at that time, (()) was very dashing and played the piano exceptionally well.	9	37	449	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1388.105	1390.323	Tan_dun	male	native	Later I said, what's your name? He said he was Ye Xiaogang.	9	37	452	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1390.982	1394.137	Tan_dun	male	native	I worshiped him instantly, and I said, ah, how can you +play the piano so well?	9	37	454	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1394.137	1398.153	Tan_dun	male	native	Well, after a while, there came another one who, wow, played the violin excellently.	9	37	455	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1398.153	1400.621	Tan_dun	male	native	(()), I said, hey, what's your name?	9	37	456	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1400.621	1402.981	Tan_dun	male	native	Lin Dehong, wow, I felt at the time, was excellent too.	9	37	457	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1402.981	1404.919	Tan_dun	male	native	Well, after a while, yet another came.	9	37	458	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1404.919	1407.611	Tan_dun	male	native	(()) was very good in various areas, ah, including Sichuan opera percussion.	9	37	459	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1407.611	1409.535	Tan_dun	male	native	I said, what's the name of that person? Guo Wenjin.	9	37	460	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1410.092	1411.514	Tan_dun	male	native	That is, everyone was terrific.	9	37	462	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1412.967	1418.702	Tan_dun	male	native	And me, bringing along merely a violin, with a broken string, there were merely three strings.	9	37	464	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1420.452	1429.042	speaker#11	male	native	A person who brought a three-string violin and was accepted by the Central Observatory of Music, a person who staged Chinese rural life at the London Arts Festival.	9	38	470	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1429.617	1435.227	speaker#11	male	native	In his works there is a consummate combination of rural features and international trends.	9	38	474	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1435.862	1441.096	speaker#11	male	native	Searching for roads by listening to music will take you to Tan Dun's musical world, where visual and aural experiences are boundless.	9	38	476	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1441.753	1444.077	speaker#11	male	native	Chinese World, broadcasting live.	9	38	478	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1446.072	1451.486	Tan_dun	male	native	Actually when the teacher in testing me, said, what can you play,	9	39	480	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1451.486	1452.408	Tan_dun	male	native	I said I could play.	9	39	484	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1452.921	1461.533	Tan_dun	male	native	He said, can you play something, can you play +Mozart, ah, can you play Beethoven? I said I was really not that good, but I could play my own stuff.	9	39	486	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1461.533	1469.152	Tan_dun	male	native	So at that time I, I took out my +violin, which had only three string then, and I just played an +excerpt from "Tractors Coming to the Mountain,"	9	39	489	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1469.152	1485.661	Tan_dun	male	native	which was actually a title invented by myself.	9	39	493	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1485.661	1486.591	Tan_dun	male	native	What I wrote simply had that kind of (()) Hunan, that kind of strumming on the erhu, ah, that kind of sound of (()) pounding, ah, also that kind of (()), that kind of sound of "daliuzi" of western Hunan, completely into, um, my violin.	9	39	499	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1487.091	1491.136	Tan_dun	male	native	So at that time, the teacher felt this kid was quite, quite good. At that time, I also quite liked my teacher.	9	39	501	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1492.271	1496.896	speaker#11	male	native	Tan Dun luckily became a student of the first batch in the department of musical composition at the Central Observatory of Music.	9	40	503	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1497.477	1499.586	speaker#11	male	native	His musical career began from this.	9	40	505	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1500.175	1509.006	speaker#11	male	native	Guo Wenjin, who was accepted together with Tan Dun that year, along with Chen Jigang and Qu Xiaosong, were later called the four great talents of the Central Observatory of Music.	9	40	507	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1509.566	1513.803	speaker#11	male	native	Later they were to become the core strength in China's contemporary music.	9	40	510	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1514.642	1523.937	speaker#11	male	native	In 1993, a Dutch director specially found these four composers in the 1978 class of the department of musical composition in the Central Observatory of Music, to film the documentary Surprising Thunder.	9	40	512	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1524.814	1539.350	speaker#12	male	native	Anyway, at that time I was called -- carefully (()) (()) finished orderly, then left, finished everything, you see we came in, took off our clothes, and tossed them (()).	9	41	515	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1539.350	1542.457	speaker#12	male	native	He used a little cardboard box for everything, a pair of socks inside.	9	41	519	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1542.457	1546.082	speaker#12	male	native	After the shoes were used, he used newspapers to cover them.	9	41	520	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1546.082	1548.193	speaker#12	male	native	{laugh}	9	41	521	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1548.193	1550.702	Tan_dun	male	native	In addition, at that time, I also chatted with Guo Wenjin in my letters to him,	9	42	522	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1550.702	1555.023	Tan_dun	male	native	I said, our group of classmates was all very wild, those from Sichuan were also like this, those from Inner Mongolia were also like this.	9	42	523	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1555.023	1555.851	Tan_dun	male	native	{laugh}	9	42	525	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1555.851	1559.303	Tan_dun	male	native	Everyone was experimenting, (()) wrote "Don't You Have a Choice?"	9	42	526	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1559.869	1567.068	Tan_dun	male	native	In the end, with everyone experimenting, did you discover, China's musical history in the second half of the century was formed amid this experimentation?	9	42	528	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1569.432	1581.413	speaker#11	male	native	Ever since he wrote a symphony piece, Li Sao, for many traditional musical instruments such as the bangu and xiao at the age of 22, Tan Dun's whimsical conceptions about music can be said to be endless.	9	43	531	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1581.916	1584.713	speaker#11	male	native	In particular, his use of musical instruments is extremely remarkable.	9	43	534	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1585.353	1591.072	speaker#11	male	native	Pottery, paper, rocks, water, bell-chimes, anything that can be picked up, are all Tan Dun's musical instruments.	9	43	536	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1591.658	1595.586	speaker#11	male	native	In his view, artistic works cannot be repeated, can only be created.	9	43	539	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1595.586	1601.289	Tan_dun	male	native	Well, later, uh, of course, I studied, started to study Western music. I also wanted to become a composer.	9	44	541	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1602.929	1613.639	Tan_dun	male	native	Later on I felt, actually, music is, I think, one of my most fortunate life companions.	9	44	545	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1613.639	1619.878	Tan_dun	male	native	That's because I feel if I could have (()) a next life, or in my next life, I would still choose music as a profession,	9	44	556	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1619.878	1625.943	Tan_dun	male	native	because music is a kind of, a kind of thing that was invented earlier than language.	9	44	559	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1626.528	1633.596	speaker#11	male	native	In 1986 Tan Dun got a scholarship from Columbia University in the US, went to the US to study for a doctoral degree in musical arts.	9	45	563	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1634.214	1637.761	speaker#11	male	native	Now Tan Dun lives in Greenwich Village in <foreign lang="English"> SOHO </foreign> Soho, New York.	9	45	566	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1638.403	1642.419	speaker#11	male	native	This place is known as a gathering place for geniuses and fools from all over the world.	9	45	568	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1642.963	1646.706	speaker#11	male	native	He has been living here since 1986.	9	45	570	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1648.060	1653.041	speaker#2	male	native	In 1986 Tan Dun went to the US to study, dreaming about stepping onto the world's music scene.	9	46	572	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1653.909	1660.166	speaker#2	male	native	Now Tan Dun has won an Oscar for music, has become the most well-known Chinese composer in the world.	9	46	574	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1660.869	1665.648	speaker#2	male	native	However, when he first arrived in the US, Tan Dun worked as a dish washer and played for money on the street.	9	46	577	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1666.157	1668.588	speaker#2	male	native	Well, how exactly did he go through his artistic journey?	9	46	580	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1668.588	1670.440	speaker#2	male	native	And how did he succeed?	9	46	581	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1670.949	1675.729	speaker#2	male	native	In the next edition of the program, we will continue to tell you Tan Dun's journey of searching for his road by listening to music.	9	46	583	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1682.230	1683.879	speaker#2	male	native	Welcome to Chinese InfoDesk.	10	47	585	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1683.879	1686.644	speaker#2	male	native	First, let's take a look at a news item concerning traveling.	10	47	586	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1687.163	1695.098	speaker#2	male	native	Starting from April 1, 2007, travelers entering Hong Kong, uh, can enjoy duty free benefits on a certain quantity of cigarettes and wine at the border crossing.	10	47	588	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1695.619	1696.786	speaker#2	male	native	The specific details, uh, are as follows:	10	47	591	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1696.786	1711.690	speaker#2	male	native	As long as you are a traveler of at least 18 years of age, you can enjoy duty free benefits carrying the following cigarettes and wine merchandise, including one liter of alcohol beverage, 60 cigarettes or 15 cigars, or 75 grams of other processed tobacco.	10	47	592	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1712.258	1723.408	speaker#2	male	native	Relevant authorities at Hong Kong Customs also remind that all entering travelers must report to the customs personnel the goods you have carried that have exceeded the scope of the duty-free benefits, and must pay the relevant tariffs.	10	47	599	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1723.408	1728.830	speaker#2	male	native	If you do not report according to the regulations, or report fraudulently, you will be investigated and prosecuted.	10	47	602	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1728.830	1732.783	speaker#2	male	native	Furthermore, uh, you will be fined 1 million HK dollars or two years in jail.	10	47	605	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1733.970	1737.173	speaker#2	male	native	Okay, next, uh, let's take a look at a news item concerning visa fees.	11	48	607	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1737.716	1743.968	speaker#2	male	native	Starting from April 1 this year, the British Visa Authority will make a substantial adjustment regarding the visa fees for Chinese citizens going to Britain.	11	48	609	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1744.477	1749.345	speaker#2	male	native	Among them, the resident visa and long-term visit visa have the highest rate of fee increase.	11	48	611	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1749.345	1752.314	speaker#2	male	native	The highest rate of increase is 135%.	11	48	612	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1752.970	1763.287	speaker#2	male	native	According to the introduction of the relevant department personnel, not including the 220 yuan for visa service fee, the resident visa fee will be increased from the current 4,160 yuan to 8,000 yuan.	11	48	614	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1763.906	1768.849	speaker#2	male	native	The long-term visit visa fee will be increased from the current 1,360 yuan to 3,200 yuan.	11	48	618	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1769.387	1774.536	speaker#2	male	native	The student visa fee will be adjusted from 1,360 yuan to 1,584 yuan.	11	48	620	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1774.536	1781.549	speaker#2	male	native	<foreign lang="English"> ADS </foreign> ADS tourist visa and six-month visit visa fees will be adjusted from 800 yuan to 1,008 yuan.	11	48	621	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1781.549	1785.597	speaker#2	male	native	The transit visa fee will be adjusted from 480 yuan to 704 yuan.	11	48	623	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1786.172	1791.610	speaker#2	male	native	In addition, starting from April 1, the visa service fee of 220 yuan will be fully eliminated.	11	48	625	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1792.251	1802.594	speaker#2	male	native	Well, according to this list of fee adjustment, if the adjusted visa fee is deducted by 220 yuan, well, the student visa fee is only four yuan higher than the current one.	11	48	627	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1802.594	1809.001	speaker#2	male	native	And <foreign lang="English"> ADS </foreign> ADS tourist visa and six-month visit visa are, uh, actually 12 yuan less than the original ones instead.	11	48	630	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1809.001	1814.048	speaker#2	male	native	This way, it seems, uh, that to most applicants, the application fees are actually, uh, reduced.	11	48	631	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1814.048	1816.690	speaker#2	male	native	It is more money saving to apply for a tourist trip to Britain.	11	48	633	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1817.422	1819.844	speaker#2	male	native	Okay, dear viewers, that's all, uh, for today's program.	11	48	635	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1819.844	1822.750	speaker#2	male	native	Thank you for watching. Let's meet again on the next edition at the same time.	11	48	636	report	

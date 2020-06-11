@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080724.2519	0	0.0	100.0	speaker	unknown	unknown	“老总带头降薪三成” 何以反让网民悲伤	0	0	0		
+CNS_CMN_20080724.2519	0	400.0	500.0	speaker	unknown	unknown	针对经营亏损的现状，国电集团领导带头降薪30%( 7月23日《京华时报》)。	0	0	0		
+CNS_CMN_20080724.2519	0	700.0	800.0	speaker	unknown	unknown	浏览一下几大商业网站的网民跟帖，满屏几乎没有一丝欣然之情，甚至还有网民据新闻要素中的“语焉不详”得出相反结论，不无忧虑地提醒大家：“每日都要生火用电的小老百姓，小心人家工资玩一盘虚降，咱们的电费又来一次实升哟！”	0	0	0		

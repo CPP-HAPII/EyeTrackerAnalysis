@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.0573	0	1600.0	1700.0	speaker	unknown	unknown	It was originally within Chinese territory. Since the Zhongdonglu Incident in 1929 (in which China and the then Soviet Union had armed conflicts when China reclaimed the right to take back the Dong-Qing Railway in northeast China), the Heixiazi Islet has been under the control of the Soviet Union and later Russia.	0	0	0		
+CNS_CMN_20080710.0573	0	2900.0	3000.0	speaker	unknown	unknown	"Why is there not a referendum?" some Russian people asked on the website.	0	0	0		
+CNS_CMN_20080710.0573	0	4200.0	4300.0	speaker	unknown	unknown	(Mofeng)	0	0	0		

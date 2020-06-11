@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0968	0	200.0	300.0	speaker	unknown	unknown	Xinhua News Agency, Managua, July 29, Olympic Games Special Report (Reporters Xu Lei and Liu Xuan) Nicaragua President Ortega presented the national flag to bearer Arguello of the Nicaraguan Olympic delegation in the gymnasium of Nicaragua University of Science and Technology at 5 p.m. on the 29th .	0	0	0		
+PLA_CMN_20080730.0968	0	800.0	900.0	speaker	unknown	unknown	The Nicaraguan delegation hopes to do well in remote and beautiful Beijing and return with a full harvest.	0	0	0		

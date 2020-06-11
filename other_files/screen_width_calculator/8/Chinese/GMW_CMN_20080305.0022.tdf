@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080305.0022.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	多国承诺大力发展可再生能源	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	记者　张忠霞 2008-03-05	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华网华盛顿３月４日电　２００８年国际可再生能源大会４日在华盛顿开幕，多个国家在会上承诺要大力发展可再生能源。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	新西兰承诺，优先发展可再生能源，并在未来１０年限制新的矿物燃料生产项目，目标是到２０２５年使可再生能源承担该国９０％的电力需求。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	澳大利亚说，到２０２０年将使可再生能源在国家 电力供应中的比例提高到２０％。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	荷兰宣布，到２０２０年，使可再生能源在能源消费中的份额提高至２０％；能源使用效率每年提高２％。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	丹麦承诺，到２０２５年，可再生能源在能源消费中的比例要达到至少３０％；从２０１０年到２０２５年，能源使用效率每年提高１．４％；新能源技术的研发资金到２０１０年翻一番。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	意大利表示，将推行以市场为基础的“绿色证书”机制，促进可再生能源发展；未来３年内，将给予太阳能供暖产业５５％的减税激励，利用地热和生物能源供暖的地区则可获得相应退税；设立激励基金，奖励那些能源利用率高的建筑。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	日本说，按照计划，到２０１０年，该国可再生能源在能源消费中的比例要占到３％左右；到２０１４年，要使可再生能源的消费量达到１６０亿千瓦时。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	肯尼亚说，将刺激高粱作物的种植，用于生产生物燃料，此举将使肯尼亚未来３年内减少使用石油约２００万升。	0	0	0		statement
+GMW_CMN_20080305.0022.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	坦桑尼亚承诺要使本国能用上可再生能源电力的人口增加到至少１００万。	0	0	0		statement

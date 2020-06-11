@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	520后访大陆？ 吴伯雄：有益两岸和平可以跑一趟	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	900.000	950.000	TEXT1	unknown	unkown	人民网4月27日电	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	950.000	2800.000	TEXT1	unknown	unkown	据中评社消息，对于520台湾地区领导人交接典礼后，是否可能前往大陆访问一事，国民党主席吴伯雄26日强调，他是以很严肃的心情看待这个事，不是去游山玩水，不会为了去大陆而去大陆。	0	0	0		statement
+PDA_CMN_20080427.0004.sgm	0	3000.000	3100.000	TEXT1	unknown	unkown	吴伯雄说，假如有助于两岸的和平发展，确实对两岸气氛的改善，对台湾人民福祉有所助益，作为一个执政党，可以跑一趟。	0	0	0		statement

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76790-10670761	0	200.0	300.0	speaker	unknown	unknown	The current one is AC input, and both 220V and 110V are fine, and then the output is 16V or 19V, etc.	0	0	0		
+cmn-NG-4-76790-10670761	0	300.0	400.0	speaker	unknown	unknown	Could it be that after the transformer lowers the voltage, it gets converted to a DC voltage, and then a Low-dropout (LDO) Linear REGULATOR with standard voltage is used to complete the voltage control?	0	0	0		

@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080406.0030.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	奥地利94岁老翁杀死老伴称让她“解脱”获刑5年	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月06	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	900.000	950.000	TEXT1	unknown	unkown	奥地利首都维也纳一位94岁高龄的老翁因杀死83岁的老伴而被判入狱5年。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	据报道，维也纳州法院3日的判决采用了奥地利刑法中谋杀罪的最轻量刑。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	《奥地利》报的报道说，老翁听到判决，开头连称刑期太长。“3年以后我就死了”，他说。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	不过在同律师商量之后他表示接受这一判决。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	这位九旬老翁去年8月16日在老伴睡觉时用刀子割断她的喉咙，然后割脉并用敲制肉排用的铁拍击打自己试图自杀但未成功。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	据报道，这位原先爱好运动、据称曾担任维也纳警察总监座驾司机多年的老翁去年做了心脏搭桥手术后，从此沮丧抑郁，一蹶不振。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	他足不出户，甚至整天躺在床上。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	在此之前老翁曾劝说老伴同他一块自杀遭到拒绝。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	老伴患有慢性腰背痛疾病，但作为一名虔诚的天主教徒，她将自杀视为罪孽。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	老伴一直鼓励他振作起来。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	他们于1952年结婚。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	老翁称杀死老伴是为了让她获得“解脱”。	0	0	0		statement
+PDA_CMN_20080406.0030.sgm	0	2450.000	2500.000	TEXT1	unknown	unkown	“我很绝望”，老翁说，“我爱我的妻子”。((黄频))	0	0	0		statement

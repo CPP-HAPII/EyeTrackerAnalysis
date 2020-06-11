@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080731.0312	0	1500.0	1600.0	speaker	unknown	unknown	看到这里先不要发笑——在美国历届总统大选中，不止一次出现过数十万甚至上百万选民因为搞不懂如何投票，而投出了废票甚至是投给了心仪候选人的对手的怪事。	0	0	0		

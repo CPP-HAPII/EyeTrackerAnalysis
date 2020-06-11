@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080718.1976	0	0.0	100.0	speaker	unknown	unknown	沪宁动车在南京段抛锚3小时 上海铁路局道歉	0	0	0		
+CNS_CMN_20080718.1976	0	400.0	500.0	speaker	unknown	unknown	经过紧张抢修，D406次动车组列车于12点33分开出，12点51分到达南京站，晚点2小时40分。	0	0	0		
+CNS_CMN_20080718.1976	0	500.0	600.0	speaker	unknown	unknown	受此影响，D415次动车组列车在南京站晚点36分钟开出，其他列车运行基本正常。	0	0	0		
+CNS_CMN_20080718.1976	0	700.0	800.0	speaker	unknown	unknown	由于列车长隐瞒抛锚原因，这次事故被旅客称为“铁路线上的返航事件”。	0	0	0		
+CNS_CMN_20080718.1976	0	1200.0	1300.0	speaker	unknown	unknown	铁路局在情况说明中提到，受此影响，D415次动车组列车在南京站晚点36分开出，其他列车运行基本正常。	0	0	0		
+CNS_CMN_20080718.1976	0	1600.0	1700.0	speaker	unknown	unknown	抛锚3小时，部分旅客中暑	0	0	0		
+CNS_CMN_20080718.1976	0	3000.0	3100.0	speaker	unknown	unknown	而经紧张抢修，D406次动车组列车于12点33分更换了车头重新牵引开出，于12点51分到达南京站，晚点2小时40分。	0	0	0		
+CNS_CMN_20080718.1976	0	3600.0	3700.0	speaker	unknown	unknown	目前故障列车D406次已歇脚南京站，何时维修及具体情况的通报，要等待上海铁路局的统筹安排。	0	0	0		

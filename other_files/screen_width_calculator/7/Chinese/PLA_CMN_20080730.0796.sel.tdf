@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0796	0	0.0	100.0	speaker	unknown	unknown	谨防假冒军校招生诈骗	0	0	0		
+PLA_CMN_20080730.0796	0	300.0	400.0	speaker	unknown	unknown	考生和家长应从以下几个方面识假防骗：一是从正规渠道获得信息；二是辨明材料的真伪；三是注意招生的时间和地点；四是警惕钱财被骗，凡是以“报名费、中介费、赞助费”等名义索要钱财的，都是不法分子的骗局。	0	0	0		

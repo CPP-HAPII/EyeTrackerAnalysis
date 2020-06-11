@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76554-10092395	0	300.0	400.0	speaker	unknown	unknown	大头郑智率先预定席位	0	0	0		
+cmn-NG-4-76554-10092395	0	1000.0	1100.0	speaker	unknown	unknown	在国奥队40人大名单中，现在效力于查尔顿的郑智赫然在列，作为目前最火的中国球员，郑智出现在北京奥运会的比赛中应该没有什么意外，因此中前卫的位置上，ZZ已经锁定一席。	0	0	0		
+cmn-NG-4-76554-10092395	0	1100.0	1200.0	speaker	unknown	unknown	通过名单，郑智与邵佳一的PK其实胜负已经很明显了。	0	0	0		

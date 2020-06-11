@@ -1,0 +1,527 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 210.863, 1170.442, 1359.124, 1663.1220000000001, 9999999.0]
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	210.863	212.863	Hu_yihu	male	native	This is 'From Phoenix to the World'; I'm Hu Yihu.	1	1	1	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	212.863	216.033	Hu_yihu	male	native	The 2007 Taiwanese war of words between the ruling and opposition parties officially started today,	1	1	2	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	216.033	219.098	Hu_yihu	male	native	sparked by the New Year message delivered by Ah-Bian.	1	1	3	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	219.098	223.424	Hu_yihu	male	native	The message, which is said to have been looked over by American authorities, has raised harsh criticism from the opposition party.	1	1	4	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	223.424	225.580	Hu_yihu	male	native	Ah-Bian treats Taiwanese independence as an anesthetic	1	1	5	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	225.580	227.596	Hu_yihu	male	native	to have kidnapped the deep-Greens and the Four Heavenly Kings.	1	1	6	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	227.596	230.893	Hu_yihu	male	native	Is this a new discourse with Ah-Bian leading toward Taiwanese independence, a prelude to his walking this difficult path?	1	1	7	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	230.893	233.080	Hu_yihu	male	native	However, it is at the new starting point of the New Year	1	1	8	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	233.080	235.861	Hu_yihu	male	native	that both the ruling and opposition parties' protagonists contending for Taiwan's top spot in 2008,	1	1	9	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	235.861	238.252	Hu_yihu	male	native	that is, Su Tseng-chang and Ma Ying-jeou,	1	1	10	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	238.252	242.657	Hu_yihu	male	native	are coincidentally playing the cross-strait economic and trade relations card discussions relating to cross-strait relationships at this moment.	1	1	11	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	242.657	244.260	Hu_yihu	male	native	Both of them have proposed a revisionist line.	1	1	12	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	244.779	247.391	Hu_yihu	male	native	But, of these two lines, which one exactly could prevail,	1	1	14	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	247.391	249.484	Hu_yihu	male	native	which one has won over current mainstream public opinion in Taiwan,	1	1	15	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	249.484	252.937	Hu_yihu	male	native	and more importantly, which one will indeed be feasible in 2007?	1	1	16	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	252.937	256.781	Hu_yihu	male	native	But most importantly, will the indeterminate cross-strait strategic space put forward by Su Tseng-chang	1	1	17	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	256.781	259.781	Hu_yihu	male	native	provide Chen Shui-bian with an excuse to sack him?	1	1	18	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	259.781	264.336	Hu_yihu	male	native	Or is his tactic of consolidating his reputation in the hearts of Taiwan's moderate voters and businesspeople,	1	1	19	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	264.846	268.484	Hu_yihu	male	native	can this revisionist line adopted by Su provide a breakthrough in the present cross-strait impasse?	1	1	21	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	268.484	274.281	Hu_yihu	male	native	Is Ma Ying-jeou's revisionist line on cross-strait relations gradually widening the gap with Beijing?	1	1	22	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	274.281	276.547	Hu_yihu	male	native	Tonight on 'From Phoenix to the World,'	1	1	23	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	276.547	278.910	Hu_yihu	male	native	a KMT election battle super tactician	1	1	24	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	278.910	280.828	Hu_yihu	male	native	and a notably outspoken legislator, Lai Shyh-bao.	1	1	25	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	280.828	284.328	Hu_yihu	male	native	A famed scholar who has long been focusing his research on the development of Taiwan's political situation.	1	1	26	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	284.328	289.931	Hu_yihu	male	native	Mr. Huang Renwei, vice-president of the Shanghai Academy of Social Sciences, will link the "two shores, three places" (the Mainland, Hong Kong, and Taiwan) together in order to pursue the truth.	1	1	27	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	289.931	292.359	Hu_yihu	male	native	Ah-Bian's 2007 New Year speech,	1	1	28	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	292.359	298.375	Hu_yihu	male	native	and in addition, Su and Ma's revisionist lines: which one can actually repair cross-strait relations?	1	1	29	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	298.375	302.891	Hu_yihu	male	native	It seems like in 2007, Taiwan's political scene is still of great concern.	1	1	30	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	302.891	303.891	Hu_yihu	male	native	Chen Shiu-bian, this side,	1	1	31	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	305.449	306.875	Hu_yihu	male	native	and responses from all parties.	1	1	33	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	306.875	309.765	Hu_yihu	male	native	A spokesman for the Taiwan Affairs Office of the State Council, late at night plainly said,	1	1	34	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	309.765	312.752	Hu_yihu	male	native	Chen Shui-bian is maliciously poisoning (()) of cross-strait relations,	1	1	35	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	312.752	315.297	Hu_yihu	male	native	and has disrupted the peaceful and steady development of cross-strait relations.	1	1	36	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	315.297	317.422	Hu_yihu	male	native	At the same time, uh, the Taiwan Affairs Office further criticized him as	1	1	37	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	317.422	320.407	Hu_yihu	male	native	having no integrity whatsoever, being for fear that the world is not chaotic.	1	1	38	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	320.407	322.313	Hu_yihu	male	native	Yang Xinyu's follow-up report.	1	1	39	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	324.289	328.912	Yang_xinyu	female	native	Time simply flies by, the blink of an eye and it's time once again for Chen Shui-bian's annual New Year speech.	1	2	41	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	328.912	331.443	Yang_xinyu	female	native	Ah-Bian, who for the last six months has barely stayed afloat in a tidal wave of demands for his resignation,	1	2	42	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	331.443	335.671	Yang_xinyu	female	native	of course could not let up this excellent opportunity to defend himself uninterrupted, and to have his say.	1	2	43	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	335.671	340.318	Yang_xinyu	female	native	Apart from the same old political views about Taiwanese independence, challenging the opposition party, and flaunting his own glorious exploits and feats,	1	2	44	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	340.318	342.279	Yang_xinyu	female	native	when talking about cross-strait economic and trade issues	1	2	45	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	342.279	344.974	Yang_xinyu	female	native	Ah-Bian didn't forget to give an impromptu performance by diverging from his set speech.	1	2	46	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	344.974	346.410	Chen_shuibian	male	native	On cross-strait economic and trade policies,	1	3	47	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	346.967	349.623	Chen_shuibian	male	native	Taiwan first is the only line.	1	3	49	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	350.155	353.796	Chen_shuibian	male	native	A Taiwanese identity is the only approach.	1	3	51	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	354.333	355.798	Chen_shuibian	male	native	There is absolutely no such thing as the so-called	1	3	53	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	356.317	357.583	Chen_shuibian	male	native	Su's revisionist line.	1	3	55	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	357.583	360.833	Yang_xinyu	female	native	The so-called Su's revisionist line, intentionally put forward on numerous occasions by Su Tseng-chang,	1	4	56	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	360.833	363.958	Yang_xinyu	female	native	is a more open, interactive cross-strait economic and trade policy than that of Chen Shui-bian.	1	4	57	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	363.958	366.661	Yang_xinyu	female	native	This superfluous piece of acting in Ah-Bian's New Year speech	1	4	58	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	366.661	369.052	Yang_xinyu	female	native	embarrassed Su Tseng-chang, who was in the audience.	1	4	59	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	369.052	370.544	Su_zhenchang	male	native	Yesterday he told me	1	5	60	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	372.784	373.397	Su_zhenchang	male	native	((pw))	1	5	62	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	377.378	379.005	Su_zhenchang	male	native	this cross-strait economic and trade policy,	1	5	64	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	379.005	380.358	Su_zhenchang	male	native	he also made a special point of saying,	1	5	65	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	382.436	383.244	Su_zhenchang	male	native	ah, he	1	5	67	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	385.121	386.740	Su_zhenchang	male	native	stated very clearly.	1	5	69	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	386.740	389.852	Hu_yihu	male	native	It is far from the first time Ah-Bian has used rhetoric about boycotting cross-strait economics and trade.	1	6	70	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	390.835	393.673	Hu_yihu	male	native	However, in his speech, master of word play Ah-Bian	1	6	72	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	393.673	394.843	Hu_yihu	male	native	turned the previous cross-strait	1	6	73	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	395.696	398.597	Hu_yihu	male	native	and open effective management argument into,	1	6	75	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	400.458	402.850	Hu_yihu	male	native	he believes it's necessary to actively shoulder management responsibilities	1	6	77	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	402.850	405.256	Hu_yihu	male	native	to be able to effectively reduce the risks associated with an open policy.	1	6	78	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	405.256	407.802	Hu_yihu	male	native	After a one-year interval, Chen Shui-bian has further developed his original ideas for the worse.	1	6	79	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	407.802	408.412	Hu_yihu	male	native	Incidentally,	1	6	80	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	410.833	413.036	Hu_yihu	male	native	Shui-bian mocked himself that his influence is far less effective than before.	1	6	82	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	413.036	415.849	Hu_yihu	male	native	The 2008 Taiwan leadership elections are close at hand,	1	6	83	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	415.849	419.677	Hu_yihu	male	native	yet he still deliberately used the 2007 New Year announcement to remind the crowd of his underlings that	1	6	84	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	419.677	421.068	Hu_yihu	male	native	Ah-Bian is still boss,	1	6	85	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	421.068	424.644	Hu_yihu	male	native	that, on decisions concerning cross-strait economic and trade issues, what he says goes.	1	6	86	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	425.896	427.861	Hu_yihu	male	native	Before Chen Shui-bian delivered this message,	1	7	88	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	427.861	428.927	Hu_yihu	male	native	just like everything we just saw,	1	7	89	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	428.927	431.220	Hu_yihu	male	native	Su Tseng-chang said he knew in advance of some of its content.	1	7	90	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	431.220	432.898	Hu_yihu	male	native	However, apart from what Su Tseng-chang already knew,	1	7	91	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	432.898	437.257	Hu_yihu	male	native	from what we understand, Americans involved in Taiwan related (()) have already known.	1	7	92	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	437.257	440.677	Hu_yihu	male	native	In the end, how do we interpret this New Year message of Chen Shui-bian's?	1	7	93	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	440.677	442.456	Hu_yihu	male	native	The first person we will consult with is Taipei Legislator Lai Shih-pao.	1	7	94	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	442.456	443.067	Hu_yihu	male	native	Good day, Legislator Lai.	1	7	95	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	443.067	444.379	Hu_yihu	male	native	Er, a lot of people are saying that, er,	1	7	96	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	444.379	445.341	Hu_yihu	male	native	in this article,	1	8	97	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	444.379	445.341	Lai_shibao	male	native	Hello.	1	8	98	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	445.442	446.520	Hu_yihu	male	native	apart from what Su Tseng-chang saw, uh,	1	9	100	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	446.520	450.114	Hu_yihu	male	native	actually, the most important thing is that the American Institute in Taiwan also knew already.	1	9	101	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	450.114	451.301	Hu_yihu	male	native	Uh, is it possible to put it like this?	1	9	102	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	451.301	453.817	Hu_yihu	male	native	That actually, the entire content had been approved by the U.S.	1	9	103	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	453.817	454.536	Hu_yihu	male	native	What is your opinion?	1	9	104	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	455.919	457.802	Lai_shibao	male	native	In effect, it generally goes like this,	1	10	106	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	457.802	458.183	Hu_yihu	male	native	Uh-huh.	1	11	107	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	457.802	458.183	Lai_shibao	male	native	then	1	11	108	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	458.839	459.214	Lai_shibao	male	native	((pw))	1	12	110	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	460.681	461.243	Lai_shibao	male	native	also, uh,	1	12	112	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	464.529	467.918	Lai_shibao	male	native	mentioned, as we put it before, Taiwanese Independence, ah,	1	12	114	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	467.918	469.872	Lai_shibao	male	native	or referring to the issue of self-confidence,	1	12	115	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	469.872	470.117	Hu_yihu	male	native	Right.	1	13	116	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	470.117	472.622	Lai_shibao	male	native	I believe the Americans also put in time and energy, uh, on this part.	1	14	117	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	472.622	474.653	Lai_shibao	male	native	It is quite apparent, but we can see that	1	14	118	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	474.653	477.392	Lai_shibao	male	native	as a matter of fact, his thoughts concerning Taiwanese independence haven't	1	14	119	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	477.392	478.005	Lai_shibao	male	native	changed, ah.	1	15	120	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	477.392	478.005	Hu_yihu	male	native	How come?	1	15	121	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	478.005	481.433	Lai_shibao	male	native	He still continually emphasizes ((pw)) Taiwanese Identity and Taiwan First.	1	16	122	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	481.433	483.574	Lai_shibao	male	native	This basically poses no problem, uh.	1	16	123	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	483.574	487.339	Lai_shibao	male	native	But the problem is that he said a lot of things in between the lines,	1	16	124	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	487.339	488.808	Lai_shibao	male	native	especially when he elaborated.	1	16	125	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	488.808	494.174	Lai_shibao	male	native	He mentioned that in the last year, he +said in, the, the, uh, last year's New Year message, that he would	1	16	126	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	495.326	497.330	Lai_shibao	male	native	actively manage, and effectively open up.	1	16	128	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	497.330	498.471	Lai_shibao	male	native	Well, he changed that to actively,	1	16	129	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	498.471	500.346	Lai_shibao	male	native	it is not actively opening up and effective management.	1	16	130	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	500.346	500.976	Hu_yihu	male	native	Right.	1	17	131	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	500.346	500.976	Lai_shibao	male	native	Changed it to must	1	17	132	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	500.976	501.991	Lai_shibao	male	native	actively manage effective opening-up.	1	18	133	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	501.991	502.351	Hu_yihu	male	native	Uh-huh.	1	19	134	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	502.351	502.798	Lai_shibao	male	native	He said,	1	20	135	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	513.654	514.451	Lai_shibao	male	native	let the common people,	1	20	137	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	517.192	518.577	Lai_shibao	male	native	he also emphasized.	1	20	139	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	526.189	529.938	Lai_shibao	male	native	He emphasized that because we ourselves want this and that, et cetera, et cetera.	1	20	141	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	529.938	530.287	Hu_yihu	male	native	Uh-huh.	1	21	142	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	531.231	533.372	Lai_shibao	male	native	In all of this, we can also obviously see that	1	22	144	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	533.372	536.185	Lai_shibao	male	native	he is making clear to the deep-Greens.	1	22	145	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	536.185	536.498	Hu_yihu	male	native	Uh-huh.	1	23	146	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	536.498	537.372	Lai_shibao	male	native	He mentioned,	1	24	147	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	537.891	539.610	Lai_shibao	male	native	only Taiwan First,	1	24	149	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	542.284	542.576	Lai_shibao	male	native	only	1	24	151	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	547.935	551.219	Lai_shibao	male	native	it was meant for the deep-Greens supporters.	1	24	153	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	551.219	551.492	Hu_yihu	male	native	Uh-huh.	1	25	154	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	551.492	555.879	Lai_shibao	male	native	So, from my personal side observations, actually these figures that I just mentioned,	1	26	155	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	555.879	556.237	Lai_shibao	male	native	actually he	1	27	156	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	555.879	556.237	Hu_yihu	male	native	Right.	1	27	157	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	556.237	556.926	Lai_shibao	male	native	forgot one thing;	1	28	158	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	557.426	560.212	Lai_shibao	male	native	well then, +from Taiwan over the last year, actually	1	28	160	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	561.617	562.843	Lai_shibao	male	native	seemed to have been thriving, but in reality wasn't doing very well.	1	28	162	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	562.843	563.136	Hu_yihu	male	native	Uh-huh.	1	29	163	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	563.136	565.246	Lai_shibao	male	native	So, domestically, if we consider consumption for example,	1	30	164	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	565.934	566.983	Lai_shibao	male	native	it's quite bad, ah.	1	30	166	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	566.983	569.624	Lai_shibao	male	native	Like, our entire car, car market, ah,	1	30	167	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	570.186	571.705	Lai_shibao	male	native	that is, car sales	1	30	169	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	583.057	585.823	Lai_shibao	male	native	you can see, uh, that our domestic ((consumption)),	1	30	171	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	585.823	588.011	Lai_shibao	male	native	uh, this consumption, ah, is also in recession, uh.	1	30	172	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	588.011	588.293	Hu_yihu	male	native	Uh-huh.	1	31	173	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	588.293	590.684	Lai_shibao	male	native	So, from what we look at it bit by bit,	1	32	174	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	590.684	593.763	Lai_shibao	male	native	that is, looking at it from a purely financial point of view,	1	32	175	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	593.763	596.119	Lai_shibao	male	native	2006 was quite a difficult year.	1	32	176	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	596.119	596.744	Lai_shibao	male	native	However,	1	33	177	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	596.119	596.744	Hu_yihu	male	native	Uh-huh.	1	33	178	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	596.744	598.766	Lai_shibao	male	native	Chen Shui-bian explained it as	1	34	179	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	603.608	605.499	Lai_shibao	male	native	not bad, primarily originating from...	1	34	181	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	605.499	605.859	Hu_yihu	male	native	Uh-huh.	1	35	182	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	605.499	605.859	Lai_shibao	male	native	He,	1	35	183	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	605.859	609.157	Lai_shibao	male	native	in the 2006 New Year's speech credits.	1	36	184	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	609.157	614.722	Lai_shibao	male	native	This, uh, makes Taiwan uh, actually where we, the ordinary people, are concerned, we think that it was	1	36	185	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	614.722	615.362	Lai_shibao	male	native	difficult,	1	36	186	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	615.362	616.342	Lai_shibao	male	native	unacceptable.	1	36	187	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	616.342	617.622	Hu_yihu	male	native	Good, thanks to Legislator Lai for his explanations.	1	37	188	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	617.622	619.056	Hu_yihu	male	native	Let's go back to Shanghai to ask brother Renwei, ah.	1	37	189	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	619.056	621.653	Hu_yihu	male	native	Looking at this message by Chen Shui-bian, one very interesting phenomenon is,	1	37	190	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	621.653	624.653	Hu_yihu	male	native	no matter what political role Chen Shui-bian plays in Taiwan, he is the head,	1	37	191	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	624.653	628.387	Hu_yihu	male	native	but he was in, in his impromptu speech performance, he especially pointed out that there is no such thing as the so-called Su's revisionist line;	1	37	192	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	628.387	632.230	Hu_yihu	male	native	it is as if he treated something from the number two in the Executive Yuan as (()) ((pw))	1	37	193	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	636.996	637.937	Hu_yihu	male	native	Did he stress any point?	1	37	195	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	638.640	639.685	Huang_renwei	male	native	I think, uh, er,	1	38	197	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	640.654	641.687	Huang_renwei	male	native	there are these three points:	1	38	199	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	641.687	642.671	Huang_renwei	male	native	One point, uh, is that	1	39	200	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	641.687	642.671	Hu_yihu	male	native	Uh-huh.	1	39	201	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	644.046	644.421	Huang_renwei	male	native	he believes	1	40	203	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	646.906	648.577	Huang_renwei	male	native	he has hit an upward turning point;	1	40	205	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	648.577	648.983	Hu_yihu	male	native	Right.	1	41	206	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	648.983	652.171	Huang_renwei	male	native	he believes, er, the two city elections of Taipei and Kaohsiung ah,	1	42	207	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	652.171	653.312	Huang_renwei	male	native	are an opportunity for him.	1	42	208	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	653.312	655.655	Huang_renwei	male	native	And, uh, the affair concerning his son-in-law, ah,	1	42	209	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	655.655	658.338	Huang_renwei	male	native	he can bring his, uh, corruption case to a close.	1	42	210	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	658.338	658.686	Hu_yihu	male	native	Uh-huh.	1	43	211	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	658.686	661.388	Huang_renwei	male	native	Er, in this case then, he should now seize the time,	1	44	212	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	661.388	663.238	Huang_renwei	male	native	and pursue the Taiwan independence timetable,	1	44	213	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	663.816	664.309	Huang_renwei	male	native	ah,	1	44	215	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	664.309	669.420	Huang_renwei	male	native	in this case, uh, in this case, if it is, uh, there are different lines within the DPP,	1	44	216	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	669.420	672.201	Huang_renwei	male	native	it will be extremely disadvantageous for him to pursue such a timetable.	1	44	217	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	672.201	676.315	Huang_renwei	male	native	Therefore, he will definitely have to put the other lines first on a "black list."	1	44	218	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	676.877	677.951	Huang_renwei	male	native	Er, this is one perspective.	1	44	220	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	677.951	678.248	Hu_yihu	male	native	Uh-huh.	1	45	221	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	678.248	682.358	Huang_renwei	male	native	And the second perspective, that is to say that, er, he also knows that at this point in time,	1	46	222	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	682.358	685.851	Huang_renwei	male	native	it is already pointless for him to make any more such compromising talk;	1	46	223	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	685.851	688.696	Huang_renwei	male	native	er, he needs to mobilize the deep-Greens' efforts.	1	46	224	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	689.234	690.358	Huang_renwei	male	native	With, uh, including	1	46	226	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	708.723	709.817	Huang_renwei	male	native	what the U.S. has already stated, that	1	46	228	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	709.817	713.223	Huang_renwei	male	native	they hope the cross-strait 'three direct links' policy will be the first consideration in cross-strait relations.	1	46	229	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	713.223	717.693	Huang_renwei	male	native	Er, however, when Chen Shui-bian had his impromptu speech, at that moment, he managed to hit a ((pw)).	1	46	230	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	718.709	720.709	Huang_renwei	male	native	The speech that the U.S. had already seen,	1	46	232	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	720.709	722.412	Huang_renwei	male	native	er, he added a segment to it.	1	46	233	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	722.412	722.620	Hu_yihu	male	native	Uh-huh.	1	47	234	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	722.620	729.507	Huang_renwei	male	native	Er, that is, he changed the content on the 'three direct links' policy demanded by the U.S. into, uh, something empty and meaningless.	1	48	235	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	729.507	730.115	Hu_yihu	male	native	Uh-huh.	1	49	236	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	729.507	730.115	Huang_renwei	male	native	Yes.	1	49	237	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	730.115	732.834	Huang_renwei	male	native	So, this opportunity, uh, he seized all the possibilities,	1	50	238	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	732.834	735.006	Huang_renwei	male	native	so, this is also Chen Shui-bian's usual style.	1	50	239	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	735.006	736.565	Hu_yihu	male	native	Good. Let's go back to Legislator Lai in Taipei.	1	51	240	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	736.565	738.381	Hu_yihu	male	native	Just now you were in the middle of doing an analysis, uh,	1	51	241	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	738.381	742.302	Hu_yihu	male	native	you mentioned that Chen Shui-bian especially bringing up Su's line was a show for the deep-Greens,	1	51	242	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	742.302	744.336	Hu_yihu	male	native	but, there are also a large number of the Taiwanese media and experts who analyze,	1	51	243	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	744.336	747.302	Hu_yihu	male	native	if it is possible for him to change Chen Shui-bian in the middle of such an important occasion,	1	51	244	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	747.302	750.989	Hu_yihu	male	native	especially emphasizing this point may be a pre-rehearsed collaboration with Su Tseng-chang,	1	51	245	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	750.989	753.130	Hu_yihu	male	native	both parties having already reached a tacit understanding; what degree of possibility does this have?	1	51	246	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	754.620	756.572	Lai_shibao	male	native	I think this kind of possibility is quite high	1	52	248	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	756.572	757.146	Lai_shibao	male	native	ah.	1	53	249	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	756.572	757.146	Hu_yihu	male	native	Uh-huh.	1	53	250	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	757.146	761.346	Lai_shibao	male	native	First, he cares greatly whether or not he has captured mass power, ah,	1	54	251	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	761.883	764.426	Lai_shibao	male	native	and, actually, people who understand Chen Shui-bian know that, ah,	1	54	253	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	764.426	767.083	Lai_shibao	male	native	as soon as he doesn't have the power of the masses, it is almost as if he cannot go on living.	1	54	254	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	767.083	767.319	Hu_yihu	male	native	Uh-huh.	1	55	255	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	767.319	768.898	Lai_shibao	male	native	So, he must capture this mass power.	1	56	256	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	769.517	771.269	Lai_shibao	male	native	So then, he is also quite clear,	1	56	258	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	771.269	773.272	Lai_shibao	male	native	actually in last year's end-of-year contention,	1	56	259	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	773.772	776.395	Lai_shibao	male	native	the entire Taiwanese political arena was hoping he would resign.	1	56	261	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	776.942	778.979	Lai_shibao	male	native	For this very reason he refused to step down.	1	56	263	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	778.979	781.858	Lai_shibao	male	native	A few important reasons are, firstly, he is unwilling to lose the power of the masses.	1	56	264	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	781.858	784.562	Lai_shibao	male	native	Secondly, he knows that he might be locked up as soon as he resigns.	1	56	265	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	785.095	789.373	Lai_shibao	male	native	So, there is no way he can submit to the will of the people, ah.	1	56	267	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	789.373	792.996	Lai_shibao	male	native	This despite his ((pw)), public support of only about 18%.	1	56	268	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	793.515	794.703	Lai_shibao	male	native	But looking at it from another perspective,	1	56	270	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	795.260	797.874	Lai_shibao	male	native	last year Su Tseng-chang	1	56	272	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	797.874	799.578	Lai_shibao	male	native	already began opening up, right,	1	56	273	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	799.578	804.016	Lai_shibao	male	native	allowing three or four of our, three of our ((manufacturers)) to invest in Mainland China.	1	56	274	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	804.016	805.318	Lai_shibao	male	native	This is a significant opening up.	1	56	275	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	805.893	807.047	Lai_shibao	male	native	Another element,	1	56	277	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	807.047	812.142	Lai_shibao	male	native	when the president of our Central Bank received my questions at the Legislative Yuan,	1	56	278	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	812.142	812.657	Hu_yihu	male	native	Right.	1	57	279	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	812.657	817.438	Lai_shibao	male	native	he openly said that the circulation of the RMB in Taiwan	1	58	280	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	817.438	820.469	Lai_shibao	male	native	and its exchange in Taiwan should be implemented right away.	1	58	281	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	821.128	823.558	Lai_shibao	male	native	This cannot be +done without the consent of Su Tseng-chang.	1	58	283	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	829.174	830.750	Lai_shibao	male	native	Will he revoke his decision or not?	1	58	285	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	830.750	833.594	Lai_shibao	male	native	From what we understand, he hasn't revoked his decision;	1	58	286	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	833.594	836.813	Lai_shibao	male	native	in other words, these two opening-up projects are already open.	1	58	287	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	836.813	841.344	Lai_shibao	male	native	Therefore, in other words, Su Tseng-chang is implementing his opening-up measures.	1	58	288	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	841.344	844.019	Lai_shibao	male	native	But then, Chen Shui-bian is saying this for the sake of the deep-Greens.	1	58	289	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	844.019	844.422	Hu_yihu	male	native	Right.	1	59	290	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	844.422	846.938	Lai_shibao	male	native	And why is it this way? Because just in the last week,	1	60	291	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	846.938	849.625	Lai_shibao	male	native	well then, when Su Tseng-chang said these two could be opened up,	1	60	292	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	849.625	853.984	Lai_shibao	male	native	well then, because groups from the Taiwan Solidarity Union and some pro-Taiwanese independence deep-Greens have said,	1	60	293	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	853.984	855.469	Lai_shibao	male	native	we will take to the streets,	1	60	294	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	855.469	858.329	Lai_shibao	male	native	we will protest, even Lee Teng-hui said the same.	1	60	295	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	858.329	861.532	Lai_shibao	male	native	Therefore, Chen Shui-bian, ah, this time came out to conciliate them.	1	60	296	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	861.532	865.110	Lai_shibao	male	native	Basically, Su Tseng-chang is continuing along the opening-up policy path,	1	60	297	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	865.110	867.547	Lai_shibao	male	native	because he knows that if they follow the opening-up policy,	1	60	298	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	867.547	869.735	Lai_shibao	male	native	the hopes of the deep-Greens lie in 2008.	1	60	299	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	869.735	870.429	Hu_yihu	male	native	That's right, so I need to	1	61	300	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	870.429	871.469	Hu_yihu	male	native	interrupt you a moment to say...	1	62	301	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	870.429	871.469	Huang_renwei	male	native	I, I, I.	1	62	302	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	871.469	873.004	Hu_yihu	male	native	Oh, oh, brother Renwei, you first,	1	63	303	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	873.004	873.645	Hu_yihu	male	native	comment on that, Renwei,	1	64	304	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	873.004	873.645	Huang_renwei	male	native	Er.	1	64	305	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	873.645	873.994	Hu_yihu	male	native	please speak.	1	65	306	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	873.994	877.484	Huang_renwei	male	native	Ah, in my, my, my opinion, er, the possibility of it being a pre-rehearsed collaboration is in fact very small,	1	66	307	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	877.484	877.890	Hu_yihu	male	native	Uh-huh.	1	67	308	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	877.890	880.494	Huang_renwei	male	native	er, because if you, you look at Su Tseng-chang on the spot,	1	68	309	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	882.190	885.018	Huang_renwei	male	native	his, uh, suddenly startled look.	1	68	311	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	885.018	885.440	Hu_yihu	male	native	Uh-huh.	1	69	312	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	885.440	886.085	Huang_renwei	male	native	This is one.	1	70	313	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	886.085	886.849	Huang_renwei	male	native	The second is,	1	71	314	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	886.085	886.849	Hu_yihu	male	native	if you pay close attention to his	1	71	315	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	886.849	887.519	Hu_yihu	male	native	expression, ah.	1	72	316	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	887.519	889.981	Huang_renwei	male	native	Su Tseng-chang's, the Su revisionist line, ah,	1	73	317	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	889.981	892.903	Huang_renwei	male	native	he brought it forward when Chen Shui-bian was at his lowest point.	1	73	318	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	893.424	897.635	Huang_renwei	male	native	At the time, he might have thought that Chen Shui-bian's power was, uh, weakened,	1	73	320	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	897.635	898.242	Huang_renwei	male	native	or that	1	74	321	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	897.635	898.242	Hu_yihu	male	native	Uh-huh.	1	74	322	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	898.242	902.116	Huang_renwei	male	native	it was very likely he had been wavering and even on the point of resigning from his position of power.	1	75	323	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	902.116	902.409	Hu_yihu	male	native	Uh-huh.	1	76	324	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	902.409	904.254	Huang_renwei	male	native	So, Su Tseng-chang proposed this then,	1	77	325	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	904.254	909.345	Huang_renwei	male	native	in order to make clear to the light-Green members of the Green faction and the middle-of-the-road voters.	1	77	326	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	909.345	909.930	Hu_yihu	male	native	Uh-huh.	1	78	327	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	909.345	909.930	Huang_renwei	male	native	Er.	1	78	328	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	909.930	912.456	Huang_renwei	male	native	So, at that moment he wasn't working with Chen Shui-bian.	1	79	329	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	912.456	914.940	Huang_renwei	male	native	So, now Chen Shui-bian in striking against Su's revisionist line,	1	79	330	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	914.940	917.392	Huang_renwei	male	native	is in fact firstly restoring his power center.	1	79	331	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	917.392	922.064	Huang_renwei	male	native	Secondly, he must eliminate all possibility of compromise,	1	79	332	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	922.064	927.096	Huang_renwei	male	native	so, here, uh, of course Su Tseng-chang in the end will buckle under, buckle under Chen Shui-bian's,	1	79	333	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	927.096	931.408	Huang_renwei	male	native	but uh, er, what you said about the two of them, er, acting together, I think it is still unnecessary.	1	79	334	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	931.408	932.484	Hu_yihu	male	native	Let's go back again to Legislator Lai.	1	80	335	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	932.484	936.564	Hu_yihu	male	native	Just now, brother Renwei's observation is actually, ah, this Su's revisionist line, that is the proposal made by Su Tseng-chang,	1	80	336	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	936.564	938.955	Hu_yihu	male	native	referring to the part of the open policy on cross-strait economics and trade;	1	80	337	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	938.955	943.924	Hu_yihu	male	native	he brought it forward when Chen Shui-bian was at the lowest point in his entire political regime, and it wasn't brought up currently.	1	80	338	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	943.924	947.049	Hu_yihu	male	native	But more particularly, we discover that the moment 2007 commenced,	1	80	339	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	947.049	949.221	Hu_yihu	male	native	we found that the chairman of your party, including Ma Ying-jeou,	1	80	340	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	949.221	952.407	Hu_yihu	male	native	also made a big deal especially about cross-strait economics and trade at this time.	1	80	341	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	952.407	954.388	Hu_yihu	male	native	Why did Su Tseng-chang and Ma Ying-jeou,	1	80	342	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	954.942	958.002	Hu_yihu	male	native	at this moment the two main future contenders for Taiwan's top spot in 2008,	1	80	344	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	958.002	960.942	Hu_yihu	male	native	at this time, make a big deal especially about cross-strait economics and trade;	1	80	345	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	960.942	961.926	Hu_yihu	male	native	what's the meaning behind it?	1	80	346	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	961.926	965.360	Hu_yihu	male	native	It may be that the topic of cross-strait economics and trade will be a key principal axis in 2007,	1	80	347	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	965.360	968.541	Hu_yihu	male	native	or is it an inescapable topic in the struggle for the top spot in 2008?	1	80	348	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	970.106	972.875	Lai_shibao	male	native	Not that I want to go back to what Huang, dean Huang just	1	81	350	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	972.875	973.840	Lai_shibao	male	native	mentioned, uh,	1	82	351	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	972.875	973.840	Hu_yihu	male	native	Right.	1	82	352	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	973.840	975.308	Lai_shibao	male	native	what I said has grounded,	1	83	353	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	975.308	980.434	Lai_shibao	male	native	because the next step for Taiwan will probably be opening up for mainlanders to tour Taiwan.	1	83	354	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	980.434	983.216	Lai_shibao	male	native	How big a challenge is this for the pro-independence people?	1	83	355	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	983.216	984.669	Lai_shibao	male	native	How much of a provocation?	1	83	356	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	984.669	988.653	Lai_shibao	male	native	Well, even if Chen Shui-bian chided Su Tseng-chang on the spot,	1	83	357	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	988.653	991.184	Lai_shibao	male	native	yet, Su Tseng-chang must promote this policy.	1	83	358	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	991.184	992.184	Lai_shibao	male	native	Besides, I personally,	1	83	359	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	994.153	996.866	Lai_shibao	male	native	along with concerned groups from Mainland China, have always concentrated on	1	83	361	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1000.026	1003.075	Lai_shibao	male	native	this prediction that Taiwan, uh, will probably within several months,	1	83	363	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1003.075	1005.246	Lai_shibao	male	native	will facilitate mainlanders to tour Taiwan.	1	83	364	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1005.246	1008.308	Lai_shibao	male	native	Supposing that Chen Shui-bian insists on uh, that,	1	83	365	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1008.308	1010.182	Lai_shibao	male	native	he cannot allow this policy to go through.	1	83	366	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1010.182	1011.863	Hu_yihu	male	native	Legislator Lai, I have to interrupt you, I apologize, Legislator Lai.	1	84	367	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1011.863	1015.466	Hu_yihu	male	native	You just, what you just mentioned was said with great confidence, that is, how can you be so sure?	1	84	368	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1016.032	1016.966	Hu_yihu	male	native	How can you make, +say such,	1	84	370	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1016.966	1017.385	Hu_yihu	male	native	a conclusion?	1	85	371	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1016.966	1017.385	Lai_shibao	male	native	That's right.	1	85	372	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1017.385	1018.768	Hu_yihu	male	native	Can you tell us the source of this information. Eh.	1	86	373	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1018.768	1022.259	Lai_shibao	male	native	It's not because our Council of Mainland Affairs said in October we would open up.	1	87	374	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1022.259	1022.728	Lai_shibao	male	native	Afterwards,	1	88	375	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1022.259	1022.728	Hu_yihu	male	native	Uh-huh.	1	88	376	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1022.728	1023.702	Lai_shibao	male	native	at the end of this December,	1	89	377	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1024.952	1026.431	Lai_shibao	male	native	ah, it should be because,	1	89	379	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1026.431	1029.165	Lai_shibao	male	native	because the chairman of the Mainland Affairs council said so himself.	1	89	380	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1029.165	1029.867	Hu_yihu	male	native	Uh-huh.	1	90	381	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1029.165	1029.867	Lai_shibao	male	native	Well then,	1	90	382	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1029.867	1031.805	Lai_shibao	male	native	he said so himself both publicly and privately,	1	91	383	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1031.805	1035.659	Lai_shibao	male	native	that cross-strait negotiations are going quite smoothly.	1	91	384	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1035.659	1035.933	Hu_yihu	male	native	Uh-huh.	1	92	385	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1035.933	1037.726	Lai_shibao	male	native	Ah, this part Chen Shui-bian is quite clear about.	1	93	386	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1037.726	1038.103	Hu_yihu	male	native	Uh-huh.	1	94	387	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1038.103	1040.726	Lai_shibao	male	native	It is not possible that Chen Shui-bian did not know what Su Tseng-chang did.	1	95	388	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1041.538	1046.226	Lai_shibao	male	native	His speech this time was purely to let everybody know that only what he says matters,	1	95	390	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1046.226	1048.680	Lai_shibao	male	native	and that he is the one making the final verdict.	1	95	391	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1048.680	1052.243	Lai_shibao	male	native	But the question is, whether or not China and Taiwan both want to continue opening-up?	1	95	392	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1052.243	1057.368	Lai_shibao	male	native	We in Taiwan can probably anticipate slightly, that is to say,	1	95	393	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1057.368	1059.555	Lai_shibao	male	native	these areas will probably open up.	1	95	394	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1059.555	1061.867	Lai_shibao	male	native	Unless that is, Mainland China simply does not want to open up.	1	95	395	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1061.867	1062.272	Lai_shibao	male	native	Well then,	1	96	396	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1061.867	1062.272	Hu_yihu	male	native	Uh-huh.	1	96	397	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1062.272	1063.148	Lai_shibao	male	native	going back to say,	1	97	398	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1063.148	1067.336	Lai_shibao	male	native	one of the front-page headlines in the China News this morning in 2007,	1	97	399	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1067.336	1070.117	Lai_shibao	male	native	mentioned the Ma and Su lines, and from what I understand,	1	97	400	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1070.117	1073.820	Lai_shibao	male	native	this entire article is based on last Wednesday's comments	1	97	401	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1073.820	1076.329	Lai_shibao	male	native	by the chairman of the Chinese KMT at the Central Standing Committee.	1	97	402	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1076.329	1076.659	Hu_yihu	male	native	Yes.	1	98	403	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1076.329	1076.659	Lai_shibao	male	native	All	1	98	404	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1076.659	1077.442	Lai_shibao	male	native	that was mentioned.	1	99	405	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1077.442	1078.710	Lai_shibao	male	native	That day, I was present.	1	99	406	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1078.710	1079.382	Hu_yihu	male	native	You were present.	1	100	407	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1078.710	1079.382	Lai_shibao	male	native	He	1	100	408	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1079.382	1080.434	Lai_shibao	male	native	didn't say,	1	101	409	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1080.991	1087.476	Lai_shibao	male	native	I, Ma Ying-jeou, never said that the, uh, reconciliation of the Greens and the Blues should take precedence over KMT and CCP peace talks,	1	101	411	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1088.069	1088.726	Lai_shibao	male	native	er, cooperate.	1	101	413	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1089.353	1090.418	Lai_shibao	male	native	Most importantly is that he never said such a thing.	1	101	415	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1090.418	1092.192	Lai_shibao	male	native	This is uh, entirely because	1	101	416	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1092.711	1093.601	Lai_shibao	male	native	this reporter,	1	101	418	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1093.601	1095.456	Lai_shibao	male	native	he, based upon what Chairman Ma Ying-jeou	1	101	419	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1096.237	1097.273	Lai_shibao	male	native	had said,	1	101	421	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1097.273	1100.804	Lai_shibao	male	native	this is how his explanations and elaborations went.	1	101	422	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1100.804	1102.914	Lai_shibao	male	native	Uh, what is the central idea, the central idea is that	1	101	423	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1102.914	1105.992	Lai_shibao	male	native	we have recently seen a part of an opinion poll, some part of an internal Taiwanese opinion poll,	1	101	424	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1105.992	1111.273	Lai_shibao	male	native	and the two things that the Taiwanese people are most weary of, and hope for the most, are,	1	101	425	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1111.273	1115.601	Lai_shibao	male	native	the first wish is that everybody can make money, and have a good life.	1	101	426	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1115.601	1119.812	Lai_shibao	male	native	The second most wished for is that the Blues and the Greens, the ruling and opposition parties, can reconcile their political differences.	1	101	427	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1119.812	1120.241	Hu_yihu	male	native	Uh-huh.	1	102	428	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1120.241	1122.053	Lai_shibao	male	native	This is what the people hope for the most.	1	103	429	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1122.053	1124.662	Lai_shibao	male	native	Through reconciliation, society can only have stability.	1	103	430	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1124.662	1127.927	Lai_shibao	male	native	And with stability, the economy can only develop and everybody make money.	1	103	431	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1127.927	1130.802	Lai_shibao	male	native	Well, life is already very hard for the Taiwanese people,	1	103	432	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1130.802	1133.052	Lai_shibao	male	native	so, now they are hoping +the Blues and the Greens will come to a reconciliation.	1	103	433	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1144.155	1147.499	Lai_shibao	male	native	In the middle way, well then (()) if it should be supervised then supervise it;	1	103	435	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1147.499	1147.920	Hu_yihu	male	native	Good.	1	104	436	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1147.499	1147.920	Lai_shibao	male	native	if it should	1	104	437	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1150.140	1151.046	Lai_shibao	male	native	be passed, then just pass it.	1	105	439	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1151.046	1153.836	Lai_shibao	male	native	Every day, we let through 18 bills organized according to procedure,	1	105	440	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1153.836	1154.204	Lai_shibao	male	native	so	1	106	441	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1153.836	1154.204	Hu_yihu	male	native	Uh-huh.	1	106	442	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1154.204	1155.031	Lai_shibao	male	native	this is very clear,	1	107	443	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1155.031	1157.062	Lai_shibao	male	native	and completely echoes Chairman +Ma's words.	1	107	444	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1157.062	1159.468	Hu_yihu	male	native	Good. Thank you, brother Shyh-bao, for that analysis.	1	108	445	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1159.468	1161.030	Hu_yihu	male	native	But, brother Shyh-bao, let's emphasize in particular that	1	108	446	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1161.030	1162.561	Hu_yihu	male	native	at the time, you were present,	1	108	447	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1162.561	1163.970	Hu_yihu	male	native	you feel that the media quoted out of	1	108	448	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1163.970	1164.479	Hu_yihu	male	native	context. But	1	109	449	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1163.970	1164.479	Lai_shibao	male	native	Uh-huh.	1	109	450	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1164.479	1168.404	Hu_yihu	male	native	how do Mainland academics actually see Ma's revisionist line?	1	110	451	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1168.404	1170.442	Hu_yihu	male	native	Ultimately, how does the so-called Ma revisionist line, with respect to the +issue of cross-strait relations...	1	110	452	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1359.124	1360.752	Hu_yihu	male	native	Welcome back to the 'From Phoenix to the World' studio.	3	112	454	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1360.752	1362.422	Hu_yihu	male	native	After assuming office as Mayor of Taipei, KMT Chairman Ma Ying-jeou	3	112	455	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1362.422	1364.433	Hu_yihu	male	native	is now devoting himself full-time to KMT party matters.	3	112	456	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1364.433	1368.261	Hu_yihu	male	native	Last week, at the KMT Central Standing Committee meeting, he publicly swore that	3	112	457	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1368.261	1372.178	Hu_yihu	male	native	no matter how big the differences between the KMT and DPP, it couldn't possibly be as big as their differences with the Communist Party.	3	112	458	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1372.178	1374.417	Hu_yihu	male	native	Consequently, the Greens and the Blues should respect each other.	3	112	459	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1374.417	1376.298	Hu_yihu	male	native	Many media interpreted the hidden meaning of his words as revealing	3	112	460	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1376.298	1381.856	Hu_yihu	male	native	a new direction assumed by Ma Ying-jeou since becoming full-time Chairman of the Kuomintang, in which a reconciliation between the ruling and opposition parties precedes cooperation between the KMT and CCP.	3	112	461	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1381.856	1387.234	Hu_yihu	male	native	This point has been interpreted by the Taiwanese media as a pledge on Ma's revisionist line, uh, and has triggered heated debates today in Taiwan.	3	112	462	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1387.234	1390.371	Hu_yihu	male	native	Both the Green and Blue camps have affirmed the necessity for reconciliation between the ruling and opposition parties, but it is very difficult.	3	112	463	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1390.371	1394.058	Hu_yihu	male	native	In 2007, Taiwanese political parties will face the +pressure of looming general and legislature elections.	3	112	464	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1394.058	1395.793	Hu_yihu	male	native	In the chilling atmosphere of Greens and Blues fighting ferociously among themselves,	3	112	465	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1395.793	1400.808	Hu_yihu	male	native	Ma Ying-jeou brought out the topic of reconciliation, and showed the principal axis of cross-strait politics for the upcoming year:	3	112	466	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1400.808	1402.730	Hu_yihu	male	native	trade first, and then politics.	3	112	467	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1402.730	1406.571	Hu_yihu	male	native	However, with regards to reports such as the one just now, I would like first to turn to	3	112	468	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1406.571	1408.649	Hu_yihu	male	native	KMT legislator Lai Shyh-pao, Legislator Lai.	3	112	469	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1408.649	1410.899	Hu_yihu	male	native	You were present at the Central Standing Committee at the time.	3	112	470	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1410.899	1412.899	Hu_yihu	male	native	Recently, a lot of the media quoted what was mentioned on our station,	3	112	471	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1412.899	1415.883	Hu_yihu	male	native	the main line of Ma Ying-jeou's declaration was his new direction for the future, which is	3	112	472	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1415.883	1420.633	Hu_yihu	male	native	that reconciliation between the ruling and opposition parties comes before cooperation between the KMT and CCP. Is that what it means? What is your interpretation?	3	112	473	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1421.790	1422.290	Hu_yihu	male	native	Committee member Lai.	3	112	475	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1422.290	1426.775	Lai_shibao	male	native	My, my, my, my understanding while there, I did not hear	3	113	476	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1426.775	1429.207	Lai_shibao	male	native	100%, every word, ah.	3	113	477	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1429.207	1429.604	Hu_yihu	male	native	Uh-huh.	3	114	478	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1429.604	1432.050	Lai_shibao	male	native	But, as far as Ma Ying-jeou's concern about the cross-strait,	3	115	479	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1432.050	1435.167	Lai_shibao	male	native	he, (()) because I have traveled abroad many times with him.	3	115	480	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1435.167	1435.510	Hu_yihu	male	native	Right.	3	116	481	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1435.167	1435.510	Lai_shibao	male	native	He,	3	116	482	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1435.510	1437.710	Lai_shibao	male	native	wherever he goes, he tells the whole world that	3	117	483	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1438.371	1440.686	Lai_shibao	male	native	he maintains a very good relationship with Mainland China.	3	117	485	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1440.686	1441.284	Hu_yihu	male	native	Uh-huh.	3	118	486	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1440.686	1441.284	Lai_shibao	male	native	The Mainland	3	118	487	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1441.284	1448.995	Lai_shibao	male	native	market, we certainly want to enter. And then we will surely have regional integration, and therein we will use Taiwan as a springboard to march into the Mainland market.	3	119	488	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1448.995	1449.229	Hu_yihu	male	native	Yes.	3	120	489	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1449.229	1451.617	Lai_shibao	male	native	What he utilized is one of the (()) concepts.	3	121	490	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1451.617	1451.938	Hu_yihu	male	native	Uh-huh.	3	122	491	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1451.938	1454.119	Lai_shibao	male	native	At this point, he referred to an Asia-Pacific Regional Operations Center of some sort,	3	123	492	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1455.170	1456.244	Lai_shibao	male	native	an Asia-Pacific whatever center,	3	123	494	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1456.244	1458.960	Lai_shibao	male	native	it's all about joining up with the Mainland and together	3	123	495	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1458.960	1459.563	Lai_shibao	male	native	developing.	3	124	496	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1458.960	1459.563	Hu_yihu	male	native	Uh-huh.	3	124	497	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1459.563	1460.148	Lai_shibao	male	native	So, in	3	124	498	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1459.563	1460.148	Hu_yihu	male	native	Uh-huh.	3	124	499	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1460.148	1462.657	Lai_shibao	male	native	Ma Ying-jeou's theories, economics and trade are extremely important.	3	125	500	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1462.657	1462.997	Lai_shibao	male	native	((pw))	3	126	501	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1462.657	1462.997	Hu_yihu	male	native	Uh-huh.	3	126	502	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1462.997	1465.487	Lai_shibao	male	native	Moreover, the day before we convened our Central Standing Committee,	3	127	503	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1467.317	1468.147	Lai_shibao	male	native	he specifically pointed	3	127	505	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1468.147	1468.666	Lai_shibao	male	native	out	3	128	506	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1468.147	1468.666	Hu_yihu	male	native	Uh-huh.	3	128	507	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1468.666	1472.697	Lai_shibao	male	native	that cross-strait finances should, as soon as possible, allow our governments,	3	129	508	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1472.697	1476.537	Lai_shibao	male	native	our governments should, as soon as possible, allow the Taiwanese financial industry into the Mainland to develop.	3	129	509	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1476.537	1476.801	Hu_yihu	male	native	Uh-huh.	3	130	510	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1476.801	1478.322	Lai_shibao	male	native	You see, he put it so clearly.	3	131	511	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1478.322	1480.136	Lai_shibao	male	native	In other words, he is also aware of speaking, the cooperation between KMT and the CCP	3	131	512	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1480.136	1480.721	Lai_shibao	male	native	is still	3	132	513	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1480.136	1480.721	Hu_yihu	male	native	Right.	3	132	514	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1480.721	1481.665	Lai_shibao	male	native	extremely important.	3	133	515	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1481.665	1482.221	Lai_shibao	male	native	I don't	3	134	516	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1481.665	1482.221	Hu_yihu	male	native	Uh-huh.	3	134	517	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1482.221	1485.296	Lai_shibao	male	native	understand why it is such a big headline in today's China Times.	3	135	518	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1485.296	1485.586	Hu_yihu	male	native	Right.	3	136	519	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1485.586	1490.335	Lai_shibao	male	native	A reconciliation between Blues and Greens does not mean to say that cooperation with, uh, the Mainland is unwanted.	3	137	520	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1490.335	1490.944	Lai_shibao	male	native	The two	3	138	521	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1490.335	1490.944	Hu_yihu	male	native	Uh-huh.	3	138	522	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1490.944	1492.315	Lai_shibao	male	native	are by no means mutually exclusive.	3	139	523	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1492.315	1492.599	Hu_yihu	male	native	Good.	3	140	524	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1492.599	1494.300	Lai_shibao	male	native	The two are mutually compatible.	3	141	525	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1494.300	1498.906	Lai_shibao	male	native	Moreover, he is also still, just yesterday we, we attended New Year's, and he was still stressing this thing, ah,	3	141	526	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1498.906	1501.887	Lai_shibao	male	native	it was mentioned by the U.S. Senate, the European Council	3	141	527	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1501.887	1502.409	Lai_shibao	male	native	also mentioned it.	3	142	528	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1501.887	1502.409	Hu_yihu	male	native	Okay.	3	142	529	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1502.409	1504.784	Lai_shibao	male	native	In this, we must hurry along direct flights, move along the Three Direct Links.	3	143	530	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1504.784	1506.019	Hu_yihu	male	native	Thank you.	3	144	531	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1504.784	1506.019	Lai_shibao	male	native	The Three Direct Links are extremely important.	3	144	532	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1506.019	1506.941	Hu_yihu	male	native	Thank you, Legislator Lai,	3	145	533	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1506.941	1509.215	Hu_yihu	male	native	I want to immediately return to, uh, brother Renwei.	3	145	534	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1509.215	1511.534	Hu_yihu	male	native	Because in a moment we want to interrupt our broadcast with some up-to-the-minute news for all our viewers.	3	145	535	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1511.534	1512.923	Hu_yihu	male	native	Brother Renwei, first answer for us, that is,	3	145	536	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1512.923	1515.148	Hu_yihu	male	native	what we just learned is that, in fact, in the cross-strait forum cooperation,	3	145	537	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1515.148	1516.080	Hu_yihu	male	native	we known that for the last two years,	3	145	538	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1516.080	1518.752	Hu_yihu	male	native	that everything was signed initially by Honorary Chairman of the KMT, Lien Chan.	3	145	539	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1518.752	1520.707	Hu_yihu	male	native	But under the full-time KMT chairmanship of Chairman Ma,	3	145	540	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1520.707	1523.692	Hu_yihu	male	native	we discover from his own declarations, that in 2007,	3	145	541	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1523.692	1526.483	Hu_yihu	male	native	in all that Chairman Ma has allegedly stressed on cross-strait relations,	3	145	542	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1526.483	1529.753	Hu_yihu	male	native	what are the differences with those of Lien Chan? If you also take into consideration Su's revisionist line, where are the differences?	3	145	543	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1529.753	1535.769	Huang_renwei	male	native	Yes, I think that, uh, er, er, Ma Ying-jeou is now heading full-throttle for the 2008	3	146	544	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1537.042	1537.415	Hu_yihu	male	native	Uh-huh.	3	147	546	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1541.746	1542.492	Huang_renwei	male	native	voters.	3	148	548	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1542.492	1544.453	Huang_renwei	male	native	This is the crucial factor that will decide whether he wins or loses.	3	148	549	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1544.453	1547.742	Huang_renwei	male	native	At this moment, uh, if he puts too much emphasis on cross-strait relations, uh,	3	148	550	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1547.742	1548.492	Huang_renwei	male	native	it could prove, for him,	3	148	551	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1549.977	1552.061	Huang_renwei	male	native	to be highly detrimental to his election strategy.	3	148	553	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1552.061	1552.354	Hu_yihu	male	native	Uh-huh.	3	149	554	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1552.354	1556.821	Huang_renwei	male	native	Er, of course, er, it is not necessary for him to say that it was more important than, er, cross-strait cooperation,	3	150	555	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1556.821	1560.759	Huang_renwei	male	native	but he will not make cross-strait cooperation his main agenda.	3	150	556	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1560.759	1561.822	Huang_renwei	male	native	All right, this is one.	3	150	557	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1561.822	1564.854	Huang_renwei	male	native	The second one, er, that is to say, Ma and Su's revisionism,	3	150	558	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1564.854	1568.068	Huang_renwei	male	native	now the common goal is, er, the 2008 elections.	3	150	559	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1568.068	1572.919	Huang_renwei	male	native	So, who can gain the majority of undecided voters is the most important thing they have in common.	3	150	560	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1572.919	1574.091	Hu_yihu	male	native	Ok, the final minute,	3	151	561	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1574.091	1576.111	Hu_yihu	male	native	just now my +colleague Lu Yunxi handed me this up-to-the-minute news.	3	151	562	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1576.111	1578.670	Hu_yihu	male	native	Taiwan's relations with the United States, ah, were very active at the beginning of the year.	3	151	563	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1578.670	1580.586	Hu_yihu	male	native	Our Washington sources have just confirmed,	3	151	564	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1580.586	1583.065	Hu_yihu	male	native	Chen Shui-bian is likely to attend the inauguration ceremony of the President of Nicaragua,	3	151	565	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1583.065	1585.067	Hu_yihu	male	native	arranging once again transit through the United States.	3	151	566	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1585.067	1586.190	Hu_yihu	male	native	May I ask brother Ren Wei,	3	151	567	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1586.190	1588.781	Hu_yihu	male	native	the United States did not grant him transit during 2006, isn't that right?	3	151	568	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1588.781	1590.089	Hu_yihu	male	native	Do you think there is a bigger possibility this time?	3	151	569	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1590.598	1592.343	Huang_renwei	male	native	There a possibility of transit this time.	3	152	571	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1592.343	1592.952	Hu_yihu	male	native	Why?	3	153	572	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1592.952	1597.171	Huang_renwei	male	native	I think the United States' er, most important strategy is, er, cross-strait stability,	3	154	573	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1597.171	1597.827	Huang_renwei	male	native	including	3	155	574	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1597.171	1597.827	Hu_yihu	male	native	Uh-huh.	3	155	575	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1597.827	1599.133	Huang_renwei	male	native	stability between Greens and Blues within the island.	3	156	576	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1599.133	1599.925	Hu_yihu	male	native	Uh-huh.	3	157	577	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1599.133	1599.925	Huang_renwei	male	native	If	3	157	578	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1599.925	1601.984	Huang_renwei	male	native	Chen Shui-bian falters at this moment,	3	158	579	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1601.984	1606.250	Huang_renwei	male	native	er, and falls out of step with overall considerations regarding stability among the Greens and Blues, and cross-strait stability,	3	158	580	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1606.250	1606.751	Huang_renwei	male	native	therefore	3	159	581	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1606.250	1606.751	Hu_yihu	male	native	Uh-huh.	3	159	582	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1606.751	1607.364	Huang_renwei	male	native	it's very likely that	3	160	583	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1607.892	1613.514	Huang_renwei	male	native	as long as Chen Shui-bian hasn't recently brazenly produced a constitutional amendment or a referendum,	3	160	585	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1613.514	1615.048	Huang_renwei	male	native	er, he should be granted transit.	3	160	586	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1615.048	1616.304	Hu_yihu	male	native	All right brother Shyh-pao, 30 seconds.	3	161	587	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1616.304	1619.141	Hu_yihu	male	native	Aren't Chen Shui-bian's actions this time deliberate,	3	161	588	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1619.141	1621.860	Hu_yihu	male	native	and again as he is immersed in the most perplexing political situation in Taiwan,	3	161	589	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1621.860	1624.125	Hu_yihu	male	native	he sends out an S.O.S. to the United States?	3	161	590	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1625.484	1629.969	Lai_shibao	male	native	It should particularly be mentioned that he was listed by Time Magazine as	3	162	592	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1629.969	1632.117	Lai_shibao	male	native	fifth among the top ten scandals of the year.	3	162	593	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1632.117	1634.797	Lai_shibao	male	native	He was one of only two foreigners	3	162	594	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1634.797	1638.001	Lai_shibao	male	native	to have made the scandal list in the United States.	3	162	595	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1638.001	1638.377	Lai_shibao	male	native	Consequently,	3	163	596	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1638.001	1638.377	Hu_yihu	male	native	Uh-huh.	3	163	597	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1638.377	1641.501	Lai_shibao	male	native	he feels humiliated, and hopes he can make a stopover,	3	164	598	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1641.501	1643.002	Lai_shibao	male	native	to be able to transit through the United States,	3	164	599	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1643.002	1644.673	Lai_shibao	male	native	so that he'll be able to turn the situation around.	3	164	600	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1644.673	1646.577	Lai_shibao	male	native	I think that in this situation,	3	164	601	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1646.577	1649.061	Lai_shibao	male	native	the United States is very likely to grant him transit.	3	164	602	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1649.643	1653.522	Hu_yihu	male	native	Thank you, brother Lai Shyh-pao, thank you, brother Renwei, for your online reports from Taipei and Shanghai.	3	165	604	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1653.522	1654.805	Hu_yihu	male	native	It seems that in 2007,	3	165	605	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1654.805	1656.243	Hu_yihu	male	native	it will not only be about cross-strait relations, merely,	3	165	606	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1656.243	1660.477	Hu_yihu	male	native	perhaps we will have to pay particular attention to the trilateral interactions including Taiwan, Beijing, and Washington.	3	165	607	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1660.477	1661.990	Hu_yihu	male	native	Thank you for watching, see you tomorrow.	3	165	608	report	
+PHOENIX_PHNXWRLD_CMN_20070102_111800	0	1662.693	1663.122	Huang_renwei	male	native	Thank you.	3	166	610	report	

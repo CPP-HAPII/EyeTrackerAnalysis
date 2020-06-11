@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080415.0331	0	200.0	300.0	speaker	unknown	unknown	4月11日，北京“首都大学生艺术团”110人赴美国洛杉矶演出，“喜迎北京奥运”歌舞演出精彩缤纷，受到华侨华人热烈欢迎。	0	0	0		

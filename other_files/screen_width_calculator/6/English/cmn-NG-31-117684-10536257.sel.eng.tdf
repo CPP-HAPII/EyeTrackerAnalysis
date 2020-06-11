@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117684-10536257	0	500.0	600.0	speaker	unknown	unknown	In the past, all we saw was the same voice, the same tone, even the newspaper format was the same. Could my brain have a favorable impression?	0	0	0		
+cmn-NG-31-117684-10536257	0	800.0	900.0	speaker	unknown	unknown	At least, I have seen supporting and opposition voices. I have seen another voice, another tone, another newspaper format. Thus, my brain starts to have a favorable impression.	0	0	0		

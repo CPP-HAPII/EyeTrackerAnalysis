@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080423.0008.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	霍震霆称奥运圣火在沙田传递时会有意外惊喜	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23日 09:34 来源：中国新闻网 <span class="style3"></span>	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	900.000	950.000	TEXT1	unknown	unkown	中新网4月23日电 据星岛日报报道，下月2日香港举行奥运火炬接力传递，人人期待。	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	港协暨奥委会会长霍震霆透露，火炬传递至沙田路段时，会有意外惊喜，以反映“马”的特色。	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	香港警务处处长邓竟成表示，乐见市民积极参与奥运圣火传递活动，但保安工作只由警方负责；而奥运举办期间，警方将灵活调配巡逻人手，增加辅警当值更数。	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	警务处处长邓竟成22日出席深水埗区议会，对于有团体希望在香港火炬接力传递当日担当护卫角色时表示，乐见市民积极参与奥运圣火传递活动，相信市民可借此感受奥运精神及分享喜悦。	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	警方已与有关团体联络，并与民政事务署磋商，希望当日可以安排地方让他们举行活动。	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	此外，霍震霆表示，满意奥运圣火的传递测试，而且过程顺利，相信最终路线毋须作重大改变，但如遇上恶劣天气，不排除缩短路程及移师室内进行圣火传递。	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	霍震霆也透露，火炬途经沙田路段时会带来意外惊喜。	0	0	0		statement
+CNS_CMN_20080423.0008.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	他解释，香港能够成功协办奥运马术项目，反映香港在马方面具备特色，届时将会表达香港协办马术项目所带来的贡献。	0	0	0		statement

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.1127	0	0.0	100.0	speaker	unknown	unknown	奥运点金之击剑(4):华人军团 栾菊杰利剑再出鞘	0	0	0		
+CNS_CMN_20080716.1127	0	700.0	800.0	speaker	unknown	unknown	此次北京奥运，她再以半百“体坛高龄”，转战世界各地参加异常艰苦的奥运积分赛，最终取得整个北美洲两张北京奥运击剑赛入场券之一。	0	0	0		

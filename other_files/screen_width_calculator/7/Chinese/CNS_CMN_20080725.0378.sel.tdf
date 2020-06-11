@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.0378	0	700.0	800.0	speaker	unknown	unknown	李明博给正为出征北京奥运会而进行最后一轮紧张训练的“太极军团”鼓舞士气之后，亲自为他们开早饭。	0	0	0		

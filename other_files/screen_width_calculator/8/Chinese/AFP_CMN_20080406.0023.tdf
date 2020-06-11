@@ -1,0 +1,18 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0023.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	英超足球 兵工厂积分落后教练仍拒绝放弃	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社伦敦五日电	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	尽管英国兵工厂足球队今天在超级杯联赛中以一比一与利物浦队踢和,不过对于联赛最后冠军之争,教练温格仍拒绝放弃。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	1400.000	1600.000	TEXT1	unknown	unkown	这场和局使得兵工厂队的积分落后领先的曼彻斯特联队五分,赢得联赛最后冠军的机会已微乎其微。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	1800.000	2100.000	TEXT1	unknown	unkown	克劳契在上半场结束前率先为利物浦队攻入一球, 五十五分钟时,本特纳头球攻门得逞,扳成平手,兵工厂队免于吃下本球季的第一场主场败仗。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	2300.000	2350.000	TEXT1	unknown	unkown	温格现在只能寄望欧洲冠军杯的奖杯了。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	2350.000	2700.000	TEXT1	unknown	unkown	兵工厂队与利物浦队本月两度相遇,兵工厂都无法打败利物浦队,这使得利物浦队本月八日在欧洲冠军杯八强赛在主场迎战兵工厂队时,有了心理上的主场优势。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	2900.000	3100.000	TEXT1	unknown	unkown	不过温格在公开场合仍信心满满,他坚定表示不会放弃,除非兵工厂队已经没有办法再争冠军了。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3300.000	3400.000	TEXT1	unknown	unkown	温格说:「我不知道联赛冠军之争是否已结束,这要看其他球队的比赛结果而定。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3400.000	3500.000	TEXT1	unknown	unkown	我以前曾说过,我们至少需要五胜一和。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	在我的脑海里,这还没有结束,因为在数学计算上,还没有结束。」	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3900.000	3950.000	TEXT1	unknown	unkown	利物浦队教练贝尼蒂兹并没有温格那么乐观。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	3950.000	4075.000	TEXT1	unknown	unkown	贝尼蒂兹暗示说:「我认为,对他们而言,现在已困难重重。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	4075.000	4187.500	TEXT1	unknown	unkown	我曾和温格谈到联赛冠军之争,你们现在不能再失分了,因此,现在确实很困难。	0	0	0		statement
+AFP_CMN_20080406.0023.sgm	0	4187.500	4400.000	TEXT1	unknown	unkown	他们的唯一选择可能只有欧洲冠军杯了,而这对我们而言却反而有危险。」	0	0	0		statement

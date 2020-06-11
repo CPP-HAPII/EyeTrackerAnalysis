@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'filler', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 269.88299999999998, 477.15899999999999, 589.95600000000002, 707.00599999999997, 763.52200000000005, 782.375, 1514.6579999999999, 1532.626, 2545.2930000000001, 2586.299, 3126.6799999999998, 3147.8809999999999, 3413.7339999999999, 9999999.0]
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	813.841	823.998	Xiao_Xun	male	native	We see that uh, er, uh, all kinds of situations have appeared from uh, er, Paris, er, ((pw)), all the way to uh, San Francisco.	6	24	70	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1110.610	1130.382	Xiao_Xun	male	native	Mainly, uh, you mentioned the issue of means, {cough}. We noticed the media reports. Earlier on, The Chinese er, government and some uh, net friends on uh, the web in China er, had this type of quite resentful sentiments toward the media, western media for the means they used to report some news, er.	6	33	104	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1342.236	1347.360	Liu_Xiao_Zhu	male	native	I, I think, I think that we can discuss this in {cough}, in several aspects.	6	39	125	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1506.751	1512.111	Xiao_Xun	male	native	You are welcome to participate in our discussion, to [pose] questions to our guests, or to express your opinions by phoning us.	6	41	140	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1600.563	1605.783	speaker#8	male	native	This is not China. ((pw)), many people in the world (()) including the United States should all improve human rights.	8	48	156	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1631.606	1633.496	Xiao_Xun	male	native	Hello.	8	51	163	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1636.120	1638.370	speaker#9	male	native	(()) good morning to you.	8	53	167	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1722.302	1724.240	speaker#10	male	native	I think (()).	8	61	183	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	1762.947	1772.695	speaker#10	male	native	Er, I want to ask the guests if this problem will appear in some areas. It was because this time, ((pw)) (()) a, a person with very high dignity - Sarkozy, obstructed.	8	61	187	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	2180.772	2181.803	speaker#11	male	native	Hello.	8	75	241	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	3018.694	3024.146	speaker#15	male	native	The people will decide on the way a country should change. There is a process.	10	111	361	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	3049.587	3056.446	speaker#15	male	native	If we retrace the entire history, there is a, a process, right? It has to be analyzed based on facts.	10	111	365	filler	statement
+VOA_ISSUESANDOPINIONS_CMN_20080410_210500	0	3342.701	3347.139	speaker#16	female	native	The United States have already provided Zimbabwe with over U.S. 3 million in food relief.	12	128	406	report	statement

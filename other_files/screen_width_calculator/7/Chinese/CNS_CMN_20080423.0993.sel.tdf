@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080423.0993	0	0.0	100.0	speaker	unknown	unknown	未来3天强冷空气继续影响北方 西南东北持续雨雪	0	0	0		

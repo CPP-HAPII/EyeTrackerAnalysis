@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0823.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	青岛市举行奥运安保禁毒宣传活动	0	0	0		statement
+PLA_CMN_20080429.0823.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 16:18:23   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0823.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社青岛４月２９日奥运专电	0	0	0		statement
+PLA_CMN_20080429.0823.sgm	0	1000.000	1050.000	TEXT1	unknown	unkown	２９日上午，青岛市禁毒委员会办公室、青岛市公安局在音乐广场设主会场，举办了“平安奥运，人人有责――禁毒我参与”为主题的丰富多彩的宣传活动。	0	0	0		statement
+PLA_CMN_20080429.0823.sgm	0	1050.000	1100.000	TEXT1	unknown	unkown	青岛市所辖各区市禁毒委员会办公室和各公安分局禁毒部门，分别在各社区及车站、码头、机场等交通要道和宾馆饭店、歌舞娱乐场所等公共场所设立了１２个宣传点，开展禁毒宣传活动。	0	0	0		statement
+PLA_CMN_20080429.0823.sgm	0	1300.000	1400.000	TEXT1	unknown	unkown	据介绍，为进一步在全社会倡导“平安奥运”理念，强化奥运安全意识宣传和教育工作，为奥运会的平安举办创造和谐的社会环境，国家禁毒委员会办公室定于４月２９日，分别在北京、上海、天津、青岛、沈阳、秦皇岛六个涉奥城市同时举办迎奥运１００天奥运安保禁毒主题日宣传活动。	0	0	0		statement
+PLA_CMN_20080429.0823.sgm	0	1600.000	1650.000	TEXT1	unknown	unkown	青岛市在禁毒宣传活动主会场，通过《禁毒法》挂图和毒品预防知识挂图展览以及开展毒品预防知识咨询等活动，现场解答了２００多名群众提出的问题，发放３０００多张材料，参展人员５０００多人。	0	0	0		statement
+PLA_CMN_20080429.0823.sgm	0	1650.000	1700.000	TEXT1	unknown	unkown	同时，青岛市公安局禁毒处会同刑警支队、海关缉私局、青岛港公安局、机场公安分局开展了“缉毒犬公开查缉行动”。	0	0	0		statement

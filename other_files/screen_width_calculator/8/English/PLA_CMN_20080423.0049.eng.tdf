@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0049.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Sarkozy Expects Sino-French Cooperation to Steadily Bear Fruit	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 06:22:32 Source:PLA Daily, No. 8.	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Sarkozy made the above statement as he received credentials handed over by Kong Quan, the newly appointed Chinese ambassador to France.	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	Sarkozy stressed his belief that Sino-French relations will definitely be consolidated and developed further.	0	0	0		statement
+PLA_CMN_20080423.0049.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	Kong Quan reaffirmed the high value placed on the Sino-French friendship by the Chinese government and people and the high degree of importance they attach to the comprehensive strategic partnership between China and France, as well as their desire to jointly strive with France on a foundation of mutual respect and friendly mutual benefit to strengthen exchanges, coordination and cooperation between the two countries in politics, economics, culture, technology and international relations in the aim of benefiting the peoples of both countries.	0	0	0		statement

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0333	0	0.0	100.0	speaker	unknown	unknown	广电总局誓刹广电广告“歪风邪气”	0	0	0		
+PLA_CMN_20080730.0333	0	200.0	300.0	speaker	unknown	unknown	新华社南京７月３０日电（记者白瀛、蒋芳）继严肃处理江苏省东台电视台和山东省滨州电视台违规插播广告问题之后，广电总局再次通报全国广播电视播出机构，近期将进一步对虚假违法的医疗药品广告、电视游动字幕广告、内容低俗的广告以及成人用品广告加大监管力度，控制住广播电视广告的“歪风邪气”。	0	0	0		

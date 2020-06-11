@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070108.0174	0	10010.000	10019.900				Hawking Prepares for 2009 Space Trip	0	0	0		
+PDA_CMN_20070108.0174	0	20010.000	20019.900				January 8, 2007 14:46	0	0	0		
+PDA_CMN_20070108.0174	0	30010.000	30019.900				Chinanews.com in London January 8 - London media reported that famous British physicist Stephen Hawking has said during a media interview on his 65th birthday that he is planning a space travel.	0	0	0		
+PDA_CMN_20070108.0174	0	40010.000	40019.900				Hawking is the Lucasian Professor of Mathematics at Cambridge University; he suffered from Amyotrophic Lateral Sclerosis when he was 22, and presently can only move around by using a wheelchair, and speak through the help of a computer and voice synthesizer.	0	0	0		
+PDA_CMN_20070108.0174	0	40020.000	40029.900				His book "A Brief History of Time" has been a global bestseller.	0	0	0		
+PDA_CMN_20070108.0174	0	50010.000	50019.900				According to a British "The Daily Telegraph" report, Hawking said in the interview that, "This year I am planning a zero-gravity flight, and plan to go into space in 2009." The Daily Telegraph also revealed that British tycoon Sir Richard Branson will provide sponsorship for Hawking's space travel.	0	0	0		
+PDA_CMN_20070108.0174	0	50020.000	50029.900				Branson plans to launch a space travel project known as "Virgin Galactic" to send passengers into sub-orbit beginning next year. He has already agreed to exempt Hawking's £100,000 expenses at that time.	0	0	0		
+PDA_CMN_20070108.0174	0	60010.000	60019.900				Hawking is mainly engaged in the research on black holes, space-time, and the big-bang origins of the universe.	0	0	0		
+PDA_CMN_20070108.0174	0	60020.000	60029.900				He said he would retire from Cambridge University in two years' time, but will not discontinue his own work.	0	0	0		
+PDA_CMN_20070108.0174	0	60030.000	60039.900				He plans to publish another two books: "George's Secret Key to the Universe" is for children, while the other "The Grand Design" has to do with philosophy.	0	0	0		
+PDA_CMN_20070108.0174	0	60040.000	60049.900				(Gu Li)	0	0	0		

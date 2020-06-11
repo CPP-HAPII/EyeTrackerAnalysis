@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	不惧与中关系恶化 德总理称将再晤达赖喇嘛	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社奥斯陆十二日电	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	正在挪威访问的德国总理梅克尔今天说,尽管她上次会晤西藏精神领袖达赖喇嘛造成德国和中国关系恶化,但她仍然准备再度与达赖喇嘛会晤。	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	1500.000	1700.000	TEXT1	unknown	unkown	梅克尔在记者会中说:「我相信如果我已会晤他一次,我将再做一次。」	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	不过她说,下个月达赖喇嘛访问德国时,她因为人在拉丁美洲访问,无法与达赖喇嘛会面。	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	梅克尔说,在八月北京奥运前,她没有会晤达赖喇嘛的确切计划。	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	她重申希望中国和达赖喇嘛之间就西藏目前骚乱问题举行和平及直接对话的呼吁,但她也强调她认为不应抵制北京奥运。	0	0	0		statement

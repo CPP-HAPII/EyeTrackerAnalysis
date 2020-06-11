@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080729.0229	0	600.0	700.0	speaker	unknown	unknown	同样是来自国家统计局的数据，上半年我国国内生产总值130619亿元，同比增长10.4%；居民消费价格(CPI)总水平同比上涨7.9%。	0	0	0		
+PDA_CMN_20080729.0229	0	700.0	800.0	speaker	unknown	unknown	以前我们总是抱怨工资涨幅跑不过CPI，比不过GDP，现在，权威数据告诉人们，工资涨幅已经远远超过了后两者，特别是与CPI涨幅相比，竟然高出了两倍有余。	0	0	0		

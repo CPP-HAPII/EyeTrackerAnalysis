@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080401.0712	0	200.0	300.0	speaker	unknown	unknown	新华社北京４月１日电 国家税务总局副局长钱冠林１日表示，２００３年至２００７年全国共计入库税款１６４１２９亿元，年均增长２３．８％。	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080710.2915	0	0.0	100.0	speaker	unknown	unknown	A certain unit of the Second Artillery Corps used water buckets as substitutes in the live ammunition training, saving 400,000 in scientific research funds.	0	0	0		

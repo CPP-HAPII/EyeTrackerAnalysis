@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-9937790	0	0.0	100.0	speaker	unknown	unknown	微软低调回应Win Vista的SP1问题	0	0	0		
+cmn-NG-31-117685-9937790	0	100.0	200.0	speaker	unknown	unknown	周2，在德国汉诺维举行的CeBIT展览会上，微软的第三方代表Kevin Turner告诉ZDNet英国记者，微软并不关注有关VistaSP1中遇到的一些第三方软件兼容性问题。	0	0	0		
+cmn-NG-31-117685-9937790	0	200.0	300.0	speaker	unknown	unknown	Turner告诉记者，"我们一点也不担心，尽管我们仍然没有对SP1进行正式发布，我们已经拥有超过数百万的用户进行下载。	0	0	0		
+cmn-NG-31-117685-9937790	0	300.0	400.0	speaker	unknown	unknown	事实上，Vista的SP1版本已经可以在Microsoft DeveloperNetwork(MSDN)的网站上提供给用户，但仍没有得到正式公布。	0	0	0		
+cmn-NG-31-117685-9937790	0	400.0	500.0	speaker	unknown	unknown	两周前，微软发表了一分列表表示在安装SP1后，程序将会得到精简或者删除部分功能。	0	0	0		
+cmn-NG-31-117685-9937790	0	600.0	700.0	speaker	unknown	unknown	Vista的SP1版本影响了大部分的安全厂商包括趋势科技，卡巴斯基等。	0	0	0		
+cmn-NG-31-117685-9937790	0	800.0	900.0	speaker	unknown	unknown	卡巴斯基分析师表示，由于SP1出现的种种问题，其负面效应会直接导致Vista的销售额度。	0	0	0		
+cmn-NG-31-117685-9937790	0	900.0	1000.0	speaker	unknown	unknown	"微软犯了一个和过去同样犯过的错误，在1991年，MS-DOS4.0发布，相比于3.0，它需要更多的资源，因此只有更少的资源留给第三方软件。	0	0	0		
+cmn-NG-31-117685-9937790	0	1000.0	1100.0	speaker	unknown	unknown	但情况或许会好转，之后的5.0版本中，他们降低了自身操作系统对于资源的需 求。"	0	0	0		
+cmn-NG-31-117685-9937790	0	1200.0	1300.0	speaker	unknown	unknown	谢谢回答！	0	0	0		

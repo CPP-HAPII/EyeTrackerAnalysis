@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'filler', u'nontrans', u'filler', u'report', u'filler', u'report', u'filler', u'filler', u'report', u'report', None]
+;;MM sectionBoundaries	[0.0, 26.030999999999999, 127.639, 171.88200000000001, 186.42699999999999, 352.33999999999997, 432.721, 784.63599999999997, 795.221, 918.94100000000003, 1003.812, 1013.782, 9999999.0]
+HUBEI_COMMUNICATE_CMN_20080330_230009	0	106.754	127.639	speaker#1	female	native	省委书记罗新泉,省长李洪忠同志对抗灾救灾防冻防灾的工作多次作出重要批示,并亲自安排部署,各个职能部门迅速行动起来,全力投入让社会生活仅快回归常态,让一切成为 (()) 状态	1	3	6	report	statement
+HUBEI_COMMUNICATE_CMN_20080330_230009	0	510.440	526.802	Dai_You_Zhen	female	nonnative	当时我不知道爬了多长-多长的时间,我一直是爬着爬着在 (()) 我才喊他们	6	17	36	filler	statement
+HUBEI_COMMUNICATE_CMN_20080330_230009	0	546.030	569.138	Dai_You_Zhen	female	nonnative	为了群众的,那个困难群众的生活,我不得不舍己小家顾大家,那-那维护那个群众的那个生活,困难群众生活,只要我们辛勤工作,只要我们扶持这个困难群众的生活才能得到改善,才能把 (()) 的那些救灾的物资送到那个千家万户,送到困难群众的手中,及时改变他们的生活学习	6	17	42	filler	statement
+HUBEI_COMMUNICATE_CMN_20080330_230009	0	598.702	622.698	speaker#12	female	nonnative	(()) 下大雪,那个雪 (()) 呃是啊,感谢真是感谢不尽呀	6	19	48	filler	statement
+HUBEI_COMMUNICATE_CMN_20080330_230009	0	918.941	939.460	speaker#18	male	native	在这一次抗雪灾的斗争当中,我们交警队伍当中,涌现的一批这个感人的事迹和典型,像我们 (()) 的有两个交警,在这个处理事故当中从十八米高的这个悬崖上这个摔下去了,一个是脾脏摘除一个是脊椎骨是粉碎性骨折,这些感人的事迹啊特别特别的多	9	27	74	filler	statement
+HUBEI_COMMUNICATE_CMN_20080330_230009	0	1028.755	1046.414	speaker#21	male	nonnative	我就觉得因为到了就是容易发生那种 (()) ,或者叫做容易发生 (()) ,就是那些标志啊,应该 (()) ,或者叫提醒我们司机就是安全驾驶	11	31	85	report	statement
+HUBEI_COMMUNICATE_CMN_20080330_230009	0	1046.414	1058.953	speaker#22	female	nonnative	就是要完善这些公共设施及它的长效管理机制,平时啊呃做好那些呃执行这个监查, (()) 的这工作	11	32	87	report	statement

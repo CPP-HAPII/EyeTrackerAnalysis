@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080711.0213	0	400.0	500.0	speaker	unknown	unknown	允许经济效益好的企业工资增长高于经济效益增长速度。”河北省劳动和社会保障厅一位负责人强调，因不可抗因素达不到工资指导线要求的，要报劳动保障部门核准。	0	0	0		
+PDA_CMN_20080711.0213	0	1600.0	1700.0	speaker	unknown	unknown	工资指导线颁布后，企业要制定具体实施方案，经职工(代表)大会讨论通过执行。	0	0	0		
+PDA_CMN_20080711.0213	0	1700.0	1800.0	speaker	unknown	unknown	年终执行情况要向职代会或工会报告，作为厂务公开的重要内容，接受职工群众监督。	0	0	0		

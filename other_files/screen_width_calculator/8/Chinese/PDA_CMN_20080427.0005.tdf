@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	巴拉圭总统卸任前为亲戚谋“肥差”引发朝野指责	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	据巴拉圭媒体２６日报道，即将卸任的巴拉圭总统杜阿尔特・弗鲁特斯在海关部门接连为自己的几名亲戚安排了“肥差”，引发朝野的指责。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	据巴拉圭发行量最大的《阿贝塞报》报道，巴拉圭税务总局局长日前签署命令，任命总统弗鲁特斯的亲戚杜阿尔特・格雷罗担任瓜拉尼国际机场的海关税务稽查官。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	此前，弗鲁特斯妻子的两名亲戚马里亚诺・杜阿尔特和海梅・索拉埃切也分别被任命为上巴拉纳省海关协调员和瓜拉尼国际机场的海关协调员。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	弗鲁特斯此举招致各方强烈批评。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	反对党指责他在即将卸任之前以权谋私。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	执政党成员也对他颇为不满，认为此举会进一步影响执政党因大选落败而低落的士气。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	巴反对党表示，他们在今年８月上台后将对政府机构进行整顿，解雇那些通过私人关系进入政府部门工作的公务员。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	巴拉圭本月２０日举行大选，选举产生新一届总统和议会。	0	0	0		statement
+PDA_CMN_20080427.0005.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	弗鲁特斯领导的执政党“红党”在选举中落败，现年５８岁的反对派联盟“爱国变革联盟”总统候选人卢戈击败执政党候选人当选新总统。（宋洁云　冯俊扬）	0	0	0		statement

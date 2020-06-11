@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080402.0036	0	0.0	1000.0	speaker	unknown	unknown	声明说:「电影的表现自由遭到严重侵犯,这是日本电影业从未有过的事。」	0	0	0		
+AFP_CMN_20080402.0036	0	0.0	1000.0	speaker	unknown	unknown	东京银座戏院的经营商Humax电影公司表示,继一群民族主义份子上个月聚集在戏院前面抗议后,公司很担心戏院女性职员的安全。	0	0	0		
+AFP_CMN_20080402.0036	0	0.0	1000.0	speaker	unknown	unknown	这部片长一百二十分钟的纪录片由日中合作拍摄,获日本文化厅辖下艺术文化振兴基金补助七百五十万日圆,由旅日长达十九年的中国导演李缨耗费十年拍摄完成,去年曾在釜山国际影展等海外影展上映,刚于今年三月底在香港国际电影节荣获最佳纪录片奖。	0	0	0		

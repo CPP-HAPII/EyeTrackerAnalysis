@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080406.0002.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	石油消费国呼吁增加产量 油国组织拒绝	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社德黑兰六日电	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	石油输出国家组织秘书长巴德里拒绝石油消费国要求增加产量的呼吁,他说,目前油价高涨,非基本因素才是主因。	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	1400.000	1500.000	TEXT1	unknown	unkown	巴德里昨晚抵达伊朗作三天访问。	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	他说:「目前市场上供油充裕,无需改变油国组织的产量。」	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	1800.000	2000.000	TEXT1	unknown	unkown	据伊朗国营电视台说,他指「美国经济衰退,炼油能力不足和美元贬值」才是油价创新高纪录的主因。	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	2200.000	2500.000	TEXT1	unknown	unkown	在美元弱势、能源供应吃紧和美国经济传出更多坏消息的情况下,油价本月四日在纽约交易中每桶超过一百零六美元。	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	巴德里在与伊朗石油部长诺札里共同举行的记者会上说:「目前全世界石油储量足够五十三天,这显示市场上并不缺油。」	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	油国组织上月说,油国组织的一篮油价首次冲破一百美元大关。	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3600.000	3700.000	TEXT1	unknown	unkown	不过伊朗强烈支持不改变目前的产量上限。	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3700.000	3750.000	TEXT1	unknown	unkown	伊朗是油国组织第二大油国国。	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3750.000	3975.000	TEXT1	unknown	unkown	诺札里说:「在油价每桶一百美元的情况下,油国组织产量不会有增减。」	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	3975.000	4300.000	TEXT1	unknown	unkown	巴德里说:「没有任何人可以对油国组织施压,因为我们根据我们的利益作决定。」	0	0	0		statement
+AFP_CMN_20080406.0002.sgm	0	4500.000	4700.000	TEXT1	unknown	unkown	诺札里也说,油国组织预定九月举行下次会议之前,「不可能」召开特别会议。	0	0	0		statement

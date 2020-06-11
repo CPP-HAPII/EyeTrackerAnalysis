@@ -1,0 +1,164 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 29.789999999999999, 256.43099999999998, 262.91699999999997, 344.51400000000001, 348.108, 393.11099999999999, 399.97300000000001, 540.59900000000005, 546.73800000000006, 557.44200000000001, 570.99400000000003, 586.71100000000001, 590.99900000000002, 641.94799999999998, 647.97900000000004, 670.90999999999997, 674.23699999999997, 709.81399999999996, 716.06799999999998, 976.57100000000003, 982.94100000000003, 1099.6279999999999, 9999999.0]
+CCTV1_NEWS_CMN_20060608_180001	0	0.000	29.790					0	0	0	report	
+CCTV1_NEWS_CMN_20060608_180001	0	29.790	33.476	speaker#1	female	native	各位好,这里是国际时讯,欢迎你收看,先来看一条最新消息。	1	1	1	report	
+CCTV1_NEWS_CMN_20060608_180001	0	33.476	42.954	speaker#1	female	native	北京时间今天下午三点四十分左右,伊拉克总理马利基在新闻发布会上宣布,伊拉克圣战基地组织头目扎卡维已经被炸死。	1	1	2	report	
+CCTV1_NEWS_CMN_20060608_180001	0	42.954	51.251	speaker#2	female	native	据伊拉克国家电视台报道,当地时间七号夜间,美伊联军在巴古拜以北十八公里展开空袭行动。	1	2	3	report	
+CCTV1_NEWS_CMN_20060608_180001	0	51.251	54.986	speaker#2	female	native	扎卡维和他的七名助手在空袭中被炸死。	1	2	4	report	
+CCTV1_NEWS_CMN_20060608_180001	0	54.986	65.586	speaker#2	female	native	扎卡维出生在约旦,美国政府指责扎卡维在伊拉克策划和制造了多起恐怖爆炸事件,应开出两千五百万美元悬赏消灭扎卡维。	1	2	5	report	
+CCTV1_NEWS_CMN_20060608_180001	0	65.586	73.977	speaker#2	female	native	扎卡维的声音本月一号曾出现在一家阿拉伯语网站上,他在录音中呼吁逊尼派不要与什叶派和解。	1	2	6	report	
+CCTV1_NEWS_CMN_20060608_180001	0	73.977	78.804	speaker#2	female	native	今年四月,扎卡维曾罕见的在一家网站登出的一段录像中献身。	1	2	7	report	
+CCTV1_NEWS_CMN_20060608_180001	0	78.804	86.928	speaker#2	female	native	他抨击美国和西方国家发动伊拉克战争,要求伊拉克人支持他,反抗美国和伊拉克新政府。	1	2	8	report	
+CCTV1_NEWS_CMN_20060608_180001	0	86.928	91.771	speaker#1	female	native	有关伊朗核问题的外交谈判一直在走走停停中,缓慢的进行着。	1	3	9	report	
+CCTV1_NEWS_CMN_20060608_180001	0	91.771	99.468	speaker#1	female	native	而各国媒体关于美国是否会对伊朗动武,以及美国和以色列可能联手空袭伊朗的报道,也一路 <Event desc="unk.(())" extent="instantaneous" type="entities"。 呈上。	1	3	10	report	
+CCTV1_NEWS_CMN_20060608_180001	0	99.468	107.951	speaker#1	female	native	特别是最近有多家媒体都煞有介事的分析说,如果以色列真要对伊朗核设施进行打击的话,很可能会故技重演。	1	3	11	report	
+CCTV1_NEWS_CMN_20060608_180001	0	107.951	113.513	speaker#1	female	native	把二十五年前空袭伊拉克核反应堆的巴比伦行动来个伊朗翻版。	1	3	12	report	
+CCTV1_NEWS_CMN_20060608_180001	0	113.513	123.699	speaker#1	female	native	七号当年曾经参与空袭伊拉克核反应堆的一名以色列飞行员,就如今空袭伊朗的可能性做出回应,立即引来了各家媒体的关注。	1	3	13	report	
+CCTV1_NEWS_CMN_20060608_180001	0	123.699	137.536	speaker#2	female	native	一九八一年六月七号下午四点整,以色列空军出动八架~F十六战机和六架负责护航的~F十五战机,从西奈半岛的空军基地起飞,向伊拉克首都巴格达进发。	1	4	14	report	
+CCTV1_NEWS_CMN_20060608_180001	0	137.536	143.678	speaker#2	female	native	为掩人耳目,十四架战机的尾翼上全都漆上了约旦空军的标记。	1	4	15	report	
+CCTV1_NEWS_CMN_20060608_180001	0	143.678	152.194	speaker#2	female	native	一路上以色列战机编成超密集队形,利用雷达盲区,采取低空突防战术,顺利进入伊拉克。	1	4	16	report	
+CCTV1_NEWS_CMN_20060608_180001	0	152.194	162.428	speaker#2	female	native	大约五点半左右,以色列战机锁定了袭击目标,伊拉克 <Event desc="unk.(())" extent="instantaneous" type="entities"。 一号核反应堆,随即向其投下了数枚炸弹,准确击中目标。	1	4	17	report	
+CCTV1_NEWS_CMN_20060608_180001	0	162.428	165.271	speaker#2	female	native	整个袭击过程仅用了两分钟。	1	4	18	report	
+CCTV1_NEWS_CMN_20060608_180001	0	165.271	171.208	speaker#2	female	native	伊拉克方面还没来得及做出回应, <Event desc="unk.(())" extent="instantaneous" type="entities"。 一号核反应堆就被彻底吹毁。	1	4	19	report	
+CCTV1_NEWS_CMN_20060608_180001	0	171.208	178.333	speaker#2	female	native	完成任务后,以色列战机在毫发无伤的情况下,穿越约旦领空,回到以色列。	1	4	20	report	
+CCTV1_NEWS_CMN_20060608_180001	0	178.333	182.591	speaker#3	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	1	5	21	report	
+CCTV1_NEWS_CMN_20060608_180001	0	182.591	188.747	speaker#2	female	native	说这话的拉滋滋维就是二十五年前参与空袭伊拉克核设施的飞行员之一。	1	6	22	report	
+CCTV1_NEWS_CMN_20060608_180001	0	188.747	193.685	speaker#2	female	native	虽然现在拉滋已经退役在家,但是对于国事一直很关注。	1	6	23	report	
+CCTV1_NEWS_CMN_20060608_180001	0	193.685	203.107	speaker#2	female	native	特别是去年伊朗总统内贾德发出把以色列从地图上抹去的言论后,以色列立即认定伊朗是其最大,最现实的威胁。	1	6	24	report	
+CCTV1_NEWS_CMN_20060608_180001	0	203.107	207.341	speaker#2	female	native	伊朗重启部分铀浓缩计划,更让以色列寝食难安。	1	6	25	report	
+CCTV1_NEWS_CMN_20060608_180001	0	207.341	214.638	speaker#2	female	native	以色列方面曾表示,会做好准备,用除外交手段以外的方式来对付伊朗的核计划。	1	6	26	report	
+CCTV1_NEWS_CMN_20060608_180001	0	214.638	221.503	speaker#2	female	native	不过,对于外界有关美国和以色列将联手空袭伊朗的报道,拉滋说,他不敢苟同。	1	6	27	report	
+CCTV1_NEWS_CMN_20060608_180001	0	221.503	227.419	speaker#2	female	native	因为今天的伊朗并不是当年的伊拉克,故技重演将是很不现实的。	1	6	28	report	
+CCTV1_NEWS_CMN_20060608_180001	0	227.419	256.431	speaker#4	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	1	7	29	report	
+CCTV1_NEWS_CMN_20060608_180001	0	256.431	262.917					2	8	30	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	262.917	264.496	speaker#1	female	native	继续来关注世界杯。	3	9	31	report	
+CCTV1_NEWS_CMN_20060608_180001	0	264.496	268.829	speaker#1	female	native	世界杯虽然还没有开幕,但是在德国球迷的狂欢已经开始了。	3	9	32	report	
+CCTV1_NEWS_CMN_20060608_180001	0	268.829	279.112	speaker#1	female	native	除了开赛城市慕尼黑提前一天在六月六号开放了官方球迷节活动以外,六月七号其他十一个世界杯主办城市的球迷节活动也全面开放。	3	9	33	report	
+CCTV1_NEWS_CMN_20060608_180001	0	279.112	282.533	speaker#1	female	native	可以说到处都是球迷狂欢的海洋。	3	9	34	report	
+CCTV1_NEWS_CMN_20060608_180001	0	282.533	289.818	speaker#2	female	native	昨天众多球迷走上街头,从衣着和装扮上就能知道他们是哪国球迷。	3	10	35	report	
+CCTV1_NEWS_CMN_20060608_180001	0	289.818	291.834	speaker#5	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	3	11	36	report	
+CCTV1_NEWS_CMN_20060608_180001	0	291.834	299.537	speaker#2	female	native	在十二个城市的任何一个球迷节场地,都能买到你所喜欢球队的运动服,还有德国世界杯的纪念品。	3	12	37	report	
+CCTV1_NEWS_CMN_20060608_180001	0	299.537	304.734	speaker#2	female	native	球迷无论老少,都可以在足球桌上一试伸手。	3	12	38	report	
+CCTV1_NEWS_CMN_20060608_180001	0	304.734	309.373	speaker#2	female	native	当然,在德国看球少不了啤酒助兴。	3	12	39	report	
+CCTV1_NEWS_CMN_20060608_180001	0	309.373	321.027	speaker#2	female	native	十二个主办城市都在球迷节场地竖起大屏幕,有赛事的时候将进行现场直播,而平时则播放音乐,或是世界杯精彩片段,供球迷欣赏。	3	12	40	report	
+CCTV1_NEWS_CMN_20060608_180001	0	321.027	327.681	speaker#2	female	native	狂欢时不能缺少音乐,好几座城市都选择举办音乐会,作为球迷节的开幕活动。	3	12	41	report	
+CCTV1_NEWS_CMN_20060608_180001	0	327.681	333.897	speaker#2	female	native	昨天,成千上万的球迷聚集在柏林的勃兰登堡门前,参加了音乐庆典活动。	3	12	42	report	
+CCTV1_NEWS_CMN_20060608_180001	0	333.897	338.741	speaker#2	female	native	球迷的热情一次次被点燃,从傍晚狂欢至深夜。	3	12	43	report	
+CCTV1_NEWS_CMN_20060608_180001	0	338.741	344.514	speaker#2	female	native	首先,柏林市长斯劳可沃维莱特向全体球迷发出了热情问候。	3	12	44	report	
+CCTV1_NEWS_CMN_20060608_180001	0	344.514	348.108					4	13	45	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	348.108	356.985	speaker#2	female	native	众多世界足坛老一辈的传奇人物像德国老将保罗布赖特纳,英格兰老将鲍比查尔顿都被请到了音乐盛典的现场。	5	14	46	report	
+CCTV1_NEWS_CMN_20060608_180001	0	356.985	364.204	speaker#2	female	native	在一段精彩短片之后,球王贝利登场,表达了自己对足球的热爱和对球迷的感谢。	5	14	47	report	
+CCTV1_NEWS_CMN_20060608_180001	0	364.204	377.322	Bei_Li	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	5	15	48	report	
+CCTV1_NEWS_CMN_20060608_180001	0	377.322	385.389	speaker#2	female	native	在主持人的口令声中,足坛老将和足球少年一同开球,将十几枚足球踢向空中。	5	16	49	report	
+CCTV1_NEWS_CMN_20060608_180001	0	385.389	393.111	speaker#2	female	native	音乐盛典正式开始,来自世界各地的艺术家用歌声传递着对足球运动和足球精神的热爱。	5	16	50	report	
+CCTV1_NEWS_CMN_20060608_180001	0	393.111	399.973					6	17	51	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	399.973	408.792	speaker#2	female	native	而当晚舞台上最受欢迎的就要算本届世界杯的吉祥物小狮子格里奥六号和他的足球伙伴 <Event desc="unk.(())" extent="instantaneous" type="entities"。 了。	7	18	52	report	
+CCTV1_NEWS_CMN_20060608_180001	0	408.792	414.202	speaker#2	female	native	音乐盛典的结尾是一场盛大的激光与焰火表演。	7	18	53	report	
+CCTV1_NEWS_CMN_20060608_180001	0	414.202	421.923	speaker#2	female	native	大屏幕上播放着历届世界杯精彩进球的片段,炫目的激光和焰火把柏林的夜空点亮。	7	18	54	report	
+CCTV1_NEWS_CMN_20060608_180001	0	421.923	428.067	speaker#2	female	native	勃兰登堡门前再一次成为了欢乐的海洋。	7	18	55	report	
+CCTV1_NEWS_CMN_20060608_180001	0	428.067	436.279	speaker#1	female	native	为世界杯忙活的不止有德国人,最近不少巴西人也在里约热内卢的街头图图画画,忙着为街头披上新装。	7	19	56	report	
+CCTV1_NEWS_CMN_20060608_180001	0	436.279	439.051	speaker#1	female	native	当然了,也是为了迎接世界杯。	7	19	57	report	
+CCTV1_NEWS_CMN_20060608_180001	0	439.051	448.064	speaker#2	female	native	离世界杯开赛只有不到三天的时间了,里约热内卢的街头到处飘扬着巴西国旗,挂满了横幅。	7	20	58	report	
+CCTV1_NEWS_CMN_20060608_180001	0	448.064	451.691	speaker#2	female	native	随处可以见到代表巴西的黄色和绿色。	7	20	59	report	
+CCTV1_NEWS_CMN_20060608_180001	0	451.691	456.972	speaker#2	female	native	据说,为了应接世界杯而装饰街道,多年来已经成了当地的一个传统。	7	20	60	report	
+CCTV1_NEWS_CMN_20060608_180001	0	456.972	463.018	speaker#2	female	native	人们觉得这是一种非常好的方式,可以让邻居更加亲近,让陌生人变成朋友。	7	20	61	report	
+CCTV1_NEWS_CMN_20060608_180001	0	463.018	466.878	speaker#2	female	native	大家一起装扮街道,工作中充满了乐趣。	7	20	62	report	
+CCTV1_NEWS_CMN_20060608_180001	0	466.878	470.016	speaker#2	female	native	参加装饰街道工作的全都是自愿者。	7	20	63	report	
+CCTV1_NEWS_CMN_20060608_180001	0	470.016	475.970	speaker#2	female	native	因为大多数人白天要忙于工作,学习,所以大部分工作都是在晚上进行的。	7	20	64	report	
+CCTV1_NEWS_CMN_20060608_180001	0	475.970	481.001	speaker#2	female	native	虽然是业余工作,但是每个人都积极踊跃,认真负责。	7	20	65	report	
+CCTV1_NEWS_CMN_20060608_180001	0	481.001	489.579	speaker#7	female	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	7	21	66	report	
+CCTV1_NEWS_CMN_20060608_180001	0	489.579	494.305	speaker#2	female	native	各莱德斯卜尔图是位家庭主妇,还是一个业余漫画爱好者。	7	22	67	report	
+CCTV1_NEWS_CMN_20060608_180001	0	494.305	498.275	speaker#2	female	native	她兴致勃勃的加入到迎接世界杯装饰街道的工作中来。	7	22	68	report	
+CCTV1_NEWS_CMN_20060608_180001	0	498.275	504.656	speaker#2	female	native	由于时间相对充裕,她担负起了在临街墙面上描绘巴西队队员的重任。	7	22	69	report	
+CCTV1_NEWS_CMN_20060608_180001	0	504.656	509.242	speaker#2	female	native	最让卜尔图开心的是,她的画吸引了不少小球迷。	7	22	70	report	
+CCTV1_NEWS_CMN_20060608_180001	0	509.242	515.114	speaker#8	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	7	23	71	report	
+CCTV1_NEWS_CMN_20060608_180001	0	515.114	523.410	speaker#2	female	native	志愿者用画笔装饰着街道,而作为球迷他们也用画笔表达着对巴西队再一次夺冠的期望。	7	24	72	report	
+CCTV1_NEWS_CMN_20060608_180001	0	523.410	530.219	speaker#1	female	native	北京时间十号凌晨零点,世界杯揭幕在就将在东道主德国队与哥斯达黎加队之间展开。	7	25	73	report	
+CCTV1_NEWS_CMN_20060608_180001	0	530.219	532.695	speaker#1	female	native	球员们现在正在进行最后的备战。	7	25	74	report	
+CCTV1_NEWS_CMN_20060608_180001	0	532.695	540.599	speaker#1	female	native	而他们的女朋友呢,也没闲着,昨天一些足球明星的女友汇聚到了一场时装发布会的~T型台上。	7	25	75	report	
+CCTV1_NEWS_CMN_20060608_180001	0	540.599	546.738					8	26	76	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	546.738	557.442	speaker#2	female	native	在这场内衣时装绣上,最闪亮的模特分别是巴西球星罗纳尔多的女友拉伊卡奥利维拉和意大利门将布冯的女友艾琳娜谢雷多娃。	9	27	77	report	
+CCTV1_NEWS_CMN_20060608_180001	0	557.442	570.994					10	28	78	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	570.994	574.087	speaker#2	female	native	这场内衣绣是为了世界杯而举行的。	11	29	79	report	
+CCTV1_NEWS_CMN_20060608_180001	0	574.087	579.197	speaker#2	female	native	模特们所展示的服装全都是由英国设计学院设计制作而成。	11	29	80	report	
+CCTV1_NEWS_CMN_20060608_180001	0	579.197	586.711	speaker#2	female	native	设计师表示,希望有越来越多的女性在喜爱世界杯的同时,也爱上这些充满运动感的内衣。	11	29	81	report	
+CCTV1_NEWS_CMN_20060608_180001	0	586.711	590.999					12	30	82	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	590.999	593.937	speaker#2	female	native	拉伊卡奥利维拉是目前世界顶级模特之一。	13	31	83	report	
+CCTV1_NEWS_CMN_20060608_180001	0	593.937	597.296	speaker#2	female	native	据悉年收入和男友罗纳尔多不相上下。	13	31	84	report	
+CCTV1_NEWS_CMN_20060608_180001	0	597.296	602.827	speaker#2	female	native	奥利维拉表示罗纳尔多正在随巴西队训练,所以不能来看这场时装表演。	13	31	85	report	
+CCTV1_NEWS_CMN_20060608_180001	0	602.827	609.133	speaker#2	female	native	罗纳尔多所在的巴西队与布冯所在的意大利队都是本届世界杯的夺冠大热门。	13	31	86	report	
+CCTV1_NEWS_CMN_20060608_180001	0	609.133	616.633	speaker#2	female	native	两位球星女友站在~T型台上,是否已经在进行暗中较量了呢。	13	31	87	report	
+CCTV1_NEWS_CMN_20060608_180001	0	616.633	627.335	speaker#2	female	native	世界杯还有不到两天就要开战了,可是韩国的小动物们似乎已经等不及了,昨天韩国游乐园里就上演了一场真刀真枪的世界杯对决。	13	31	88	report	
+CCTV1_NEWS_CMN_20060608_180001	0	627.335	631.663	speaker#2	female	native	场上的运动员是两只鹦鹉,守门员是小豚鼠。	13	31	89	report	
+CCTV1_NEWS_CMN_20060608_180001	0	631.663	637.737	speaker#2	female	native	红色鹦鹉代表着韩国队,蓝色鹦鹉代表着韩国队所在地主的其他参赛队。	13	31	90	report	
+CCTV1_NEWS_CMN_20060608_180001	0	637.737	641.948	speaker#2	female	native	在一旁助阵的还有一批斑马,三只猴子和一只小狗。	13	31	91	report	
+CCTV1_NEWS_CMN_20060608_180001	0	641.948	647.979					14	32	92	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	647.979	657.280	speaker#2	female	native	比赛一开始,两个队员就开始激烈的拼抢,不过他们在赛场上也不忘表现出偏偏风度,君子动嘴不动脚。	15	33	93	report	
+CCTV1_NEWS_CMN_20060608_180001	0	657.280	660.310	speaker#2	female	native	大概这就是鹦鹉踢球的英姿吧。	15	33	94	report	
+CCTV1_NEWS_CMN_20060608_180001	0	660.310	663.857	speaker#2	female	native	红鹦鹉终于抢到球,一个猛射球进了。	15	33	95	report	
+CCTV1_NEWS_CMN_20060608_180001	0	663.857	670.910	speaker#2	female	native	韩国游乐园的负责人表示,他们希望通过举办这样一场模拟赛能给韩国队博个好彩头。	15	33	96	report	
+CCTV1_NEWS_CMN_20060608_180001	0	670.910	674.237					16	34	97	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	674.237	684.115	speaker#2	female	native	为了迎接世界杯的到来,同时也为了纪念英格兰夺得大力神杯四十周年,英国近日发行了一套共六张世界杯足球赛纪念邮票。	17	35	98	report	
+CCTV1_NEWS_CMN_20060608_180001	0	684.115	688.380	speaker#2	female	native	分别选取了世界杯历史上战绩辉煌的六支球队。	17	35	99	report	
+CCTV1_NEWS_CMN_20060608_180001	0	688.380	698.509	speaker#2	female	native	他们是夺过一次冠军的英格兰,法国,夺过两次冠军的阿根廷,夺过三次冠军的意大利和德国,夺过五次冠军的巴西。	17	35	100	report	
+CCTV1_NEWS_CMN_20060608_180001	0	698.509	703.603	speaker#2	female	native	这套世界杯纪念邮票画面上的足球用地球加以代替。	17	35	101	report	
+CCTV1_NEWS_CMN_20060608_180001	0	703.603	709.814	speaker#2	female	native	设计者本内特说,这表现了世界杯对全世界的重要性。	17	35	102	report	
+CCTV1_NEWS_CMN_20060608_180001	0	709.814	716.068					18	36	103	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	716.068	721.665	speaker#1	female	native	日前伦敦商业设计中心举行了一场名位布鲁内制造的工业设计展。	19	37	104	report	
+CCTV1_NEWS_CMN_20060608_180001	0	721.665	725.743	speaker#1	female	native	参加展览的都是工业设计领域的未来之星。	19	37	105	report	
+CCTV1_NEWS_CMN_20060608_180001	0	725.743	729.869	speaker#2	female	native	所有参展作品都是大学毕业生最后一年中完成的作品。	19	38	106	report	
+CCTV1_NEWS_CMN_20060608_180001	0	729.869	736.212	speaker#2	female	native	展品内容涉及了生态,环境,工程消费品等很多领域,具有很强的实用性。	19	38	107	report	
+CCTV1_NEWS_CMN_20060608_180001	0	736.212	745.665	speaker#2	female	native	随着科技的发展,越来越多的年轻人意识到,不能只埋头于实验室和教室,他们开始注重将书本上的知识应用到实际中。	19	38	108	report	
+CCTV1_NEWS_CMN_20060608_180001	0	745.665	750.401	speaker#2	female	native	你看到的这个照片网站,这是本次展会上的亮点之一。	19	38	109	report	
+CCTV1_NEWS_CMN_20060608_180001	0	750.401	755.025	speaker#2	female	native	这个叫做大白箱的网站能实现个人照片的网络交易。	19	38	110	report	
+CCTV1_NEWS_CMN_20060608_180001	0	755.025	761.895	speaker#2	female	native	同时交易收入的一半将捐给慈善组织,将商业理念和慈善项目结合在一起。	19	38	111	report	
+CCTV1_NEWS_CMN_20060608_180001	0	761.895	767.112	speaker#2	female	native	这个叫做记忆的小药盒是专为已婚女性设计的。	19	38	112	report	
+CCTV1_NEWS_CMN_20060608_180001	0	767.112	772.972	speaker#2	female	native	据统计,采用口服避孕药避孕的女性中,有百分之七十会偶尔忘记服药。	19	38	113	report	
+CCTV1_NEWS_CMN_20060608_180001	0	772.972	778.252	speaker#2	female	native	这个特制的小药盒就能通过指示灯来提醒他们按时吃药。	19	38	114	report	
+CCTV1_NEWS_CMN_20060608_180001	0	778.252	782.782	speaker#2	female	native	布鲁内制造毕业设计展创办至今,已经有一百年的历史了。	19	38	115	report	
+CCTV1_NEWS_CMN_20060608_180001	0	782.782	790.295	speaker#2	female	native	展览为毕业生们提供了一个施展才华的舞台,也为毕业生求职和企业招聘搭起了鹊桥。	19	38	116	report	
+CCTV1_NEWS_CMN_20060608_180001	0	790.295	797.377	speaker#1	female	native	看到一个苹果掉到地上,牛顿发现了万有引力,后来人们习惯的把这种引力成为重力。	19	39	117	report	
+CCTV1_NEWS_CMN_20060608_180001	0	797.377	801.768	speaker#1	female	native	正是由于重力的存在,生命万物才能稳稳的在地球上活动。	19	39	118	report	
+CCTV1_NEWS_CMN_20060608_180001	0	801.768	807.002	speaker#1	female	native	而在地球以外的宇宙空间,重力微小到几乎可以忽略不计的地步。	19	39	119	report	
+CCTV1_NEWS_CMN_20060608_180001	0	807.002	809.626	speaker#1	female	native	这被称为失重,或者微重力。	19	39	120	report	
+CCTV1_NEWS_CMN_20060608_180001	0	809.626	818.719	speaker#1	female	native	这种微重力环境到底对生命万物有怎样的影响呢,为此,欧洲空间局太空研究和技术中心对此进行了深入研究。	19	39	121	report	
+CCTV1_NEWS_CMN_20060608_180001	0	818.719	829.121	speaker#2	female	native	位于荷兰诺德维克的欧洲空间局太空研究和技术中心,是专门负责航天器和宇航服等装备设计,以及技术改进的部门。	19	40	122	report	
+CCTV1_NEWS_CMN_20060608_180001	0	829.121	834.633	speaker#2	female	native	对于研究人员来说,对微重力了解的越深入,越有助于他们的设计工作。	19	40	123	report	
+CCTV1_NEWS_CMN_20060608_180001	0	834.633	845.671	speaker#9	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	19	41	124	report	
+CCTV1_NEWS_CMN_20060608_180001	0	845.671	852.774	speaker#2	female	native	物体在下落和被抛出后,都会进行自由落体运动,在这期间就会形成微重力。	19	42	125	report	
+CCTV1_NEWS_CMN_20060608_180001	0	852.774	857.302	speaker#2	female	native	只不过微重力持续的时间和物体下落的高度相关。	19	42	126	report	
+CCTV1_NEWS_CMN_20060608_180001	0	857.302	863.302	speaker#2	female	native	在这个十三米高的落塔内,工程师啥巴第尼正在观测自由落体运动。	19	42	127	report	
+CCTV1_NEWS_CMN_20060608_180001	0	863.302	870.694	speaker#2	female	native	一个装着金属物体的容器从塔顶落下,在下落过程中产生了一秒半的微重力时间。	19	42	128	report	
+CCTV1_NEWS_CMN_20060608_180001	0	870.694	877.846	speaker#10	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	19	43	129	report	
+CCTV1_NEWS_CMN_20060608_180001	0	877.846	887.583	speaker#2	female	native	人们现在已经知道,在太空的失重环境里,如果没有特殊的保护装置,人的肌肉会萎缩,退化,最终变得和纸一样脆弱。	19	44	130	report	
+CCTV1_NEWS_CMN_20060608_180001	0	887.583	894.657	speaker#2	female	native	骨骼也会变得脆弱,不再生成新骨骼,回到地球上,将无法在重力环境下承重。	19	44	131	report	
+CCTV1_NEWS_CMN_20060608_180001	0	894.657	901.938	speaker#2	female	native	不过,欧洲空间局的科学家奥立维叶明斯特指出,要弄懂重力和微重力并不容易。	19	44	132	report	
+CCTV1_NEWS_CMN_20060608_180001	0	901.938	918.565	speaker#11	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	19	45	133	report	
+CCTV1_NEWS_CMN_20060608_180001	0	918.565	925.880	speaker#2	female	native	在德国不来梅大学的应用空间及微重力中心,有一座高一百四十六米的著名落塔。	19	46	134	report	
+CCTV1_NEWS_CMN_20060608_180001	0	925.880	931.928	speaker#2	female	native	据实验,从塔顶落下的物体可以产生四秒半多一点的微重力时间。	19	46	135	report	
+CCTV1_NEWS_CMN_20060608_180001	0	931.928	938.150	speaker#2	female	native	没两天就有一个容器被送到塔顶,容器内转载着实验及记录装置。	19	46	136	report	
+CCTV1_NEWS_CMN_20060608_180001	0	938.150	947.587	speaker#2	female	native	据欧洲空间局的科学家介绍,微重力不仅对于空间生命科学和流体力学等研究具有重要意义,而且还具有商业价值。	19	46	137	report	
+CCTV1_NEWS_CMN_20060608_180001	0	947.587	957.592	speaker#2	female	native	由于在失重的状态下,轻重,沉淀和对流等物力特征和现象不复存在,有助于加工生产出纯度高,质地均匀的产品。	19	46	138	report	
+CCTV1_NEWS_CMN_20060608_180001	0	957.592	976.571	speaker#12	male	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	19	47	139	report	
+CCTV1_NEWS_CMN_20060608_180001	0	976.571	982.941					20	48	140	nontrans	
+CCTV1_NEWS_CMN_20060608_180001	0	982.941	992.223	speaker#1	female	native	在以前的节目中,我们曾经为你介绍过几位技艺独特的理发师,他们有的能倒立着理发,有的能两只手同时耍开几把剪刀。	21	49	141	report	
+CCTV1_NEWS_CMN_20060608_180001	0	992.223	996.013	speaker#1	female	native	今天我们要为你介绍的理发师也有一手绝活。	21	49	142	report	
+CCTV1_NEWS_CMN_20060608_180001	0	996.013	1000.667	speaker#2	female	native	这是印度孟买街头一间再平常不过的理发店了。	21	50	143	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1000.667	1004.735	speaker#2	female	native	虽然外表普通,不过店里的师傅可有一手绝活。	21	50	144	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1004.735	1012.563	speaker#2	female	native	这就是哈里斯巴迪亚最拿手的技艺了,他在蒙着眼睛的情况下就能给顾客设计出精美的发型。	21	50	145	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1012.563	1018.270	speaker#2	female	native	巴迪亚理发的工具也很不寻常,就是这样一根,我们常用的蜡烛。	21	50	146	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1018.270	1027.205	speaker#2	female	native	由于锡克教禁止用剪刀理发,作为锡克教徒的巴迪亚因此练就了用蜡烛烧出秀丽发型的功夫。	21	50	147	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1027.205	1032.658	speaker#2	female	native	当然,对于巴迪亚的这手绝活,顾客们一开始心里都有点打鼓。	21	50	148	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1032.658	1041.094	speaker#13	female	nonnative	<Event desc="lang.english" extent="instantaneous" type="entities"。 。	21	51	149	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1041.094	1046.192	speaker#2	female	native	说起来拉巴迪亚想到练这样一手绝活还是受一位顾客的启发。	21	52	150	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1046.192	1051.405	speaker#2	female	native	那位顾客说巴迪亚在理发的时候几乎都不看着他,全完是凭感觉。	21	52	151	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1051.405	1056.920	speaker#2	female	native	于是巴迪亚就想到蒙起眼睛理发,并开始在亲戚朋友身上练习起来。	21	52	152	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1056.920	1065.064	speaker#2	female	native	如今巴迪亚已经成为当地理发业的一个标志人物,他还经常在国内外进行演示,向他人传授技巧。	21	52	153	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1065.064	1069.468	speaker#2	female	native	这个叫古乐扎尔的小伙子就是巴迪亚新收的徒弟。	21	52	154	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1069.468	1076.494	speaker#2	female	native	古乐扎尔是一名弱视患者,他希望早日学会巴迪亚的绝活,这样就能找到一个营生。	21	52	155	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1076.494	1083.965	speaker#2	female	native	像古乐扎尔这样视力有障碍的学徒还有好几个,对于巴迪亚来说,帮助别人是一种快乐。	21	52	156	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1083.965	1087.465	speaker#2	female	native	现在巴迪亚又开始研究新的理发技巧了。	21	52	157	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1087.465	1092.988	speaker#2	female	native	大概用不了多久,巴迪亚的顾客就能领略到他的新绝活了。	21	52	158	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1092.988	1099.628	speaker#1	female	native	以上就是今天的国际时讯,感谢你收看,接下来是新闻社区,欢迎你继续关注,再见。	21	53	159	report	
+CCTV1_NEWS_CMN_20060608_180001	0	1099.628	1115.977					22	54	160	nontrans	

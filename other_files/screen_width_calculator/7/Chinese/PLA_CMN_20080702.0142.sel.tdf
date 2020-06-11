@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080702.0142	0	0.0	100.0	speaker	unknown	unknown	某营官兵党旗下宣誓:将救灾进行到底	0	0	0		
+PLA_CMN_20080702.0142	0	500.0	600.0	speaker	unknown	unknown	7月1日上午，在鲜红的党旗前，刚刚从彭州银场沟撤回的成空某汽车营9名官兵举起右手庄严承诺：誓死捍卫成都市至各重灾区的“生命通道”，不怕疲劳，连续作战，将抗震救灾任务进行到底。	0	0	0		
+PLA_CMN_20080702.0142	0	900.0	1000.0	speaker	unknown	unknown	“新入党的官兵全是80后的年轻小伙子，他们都是抗震救灾中的英雄！”营教导员苏连平介绍说。	0	0	0		

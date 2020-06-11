@@ -1,0 +1,31 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0022.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Wang Zhiwen Personally Said He Will be a Dad - Happily Laughs: Being Newly Married is Very Blissful	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	15:50 April 18, 2008 Source: Qianjiang Evening News - Comment	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	900.000	950.000	TEXT1	unknown	unkown	At six in the evening, the whole five-hour golf match finally ended.	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	950.000	975.000	TEXT1	unknown	unkown	The time for interviews arrived. The media scrambled by all means to stretch towards him. Before they had said anything, Wang Zhiwen just walked and took the initiative to call out "Hello!"	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	With a big shining smile like he saw an old friend after a long time.	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	What was strange is the reporters were actually a bit scared because this simply wasn't the Wang Zhiwen we are familiar with.	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	After coming to their senses, the old reporters scrambled to get to the front. "Teacher Wang, can I interview you?"	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Wang Zhiwen turned around and smiled: "Of course you can! Come on."	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	He started to talk with ease about golf: "Today's game went by very smoothly!	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	Oh, have you played golf before?"	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	The female reporter asked by him was stupefied, answering: "No."	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1587.500	1593.750	TEXT1	unknown	unkown	He added: "If you have time you should play often.	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1593.750	1600.000	TEXT1	unknown	unkown	Golf can train a person to be self-disciplined and honest. Just like today, my golf partners all quietly accepted their punishment."	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	"Has your playing ability improved?"	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	Wang Zhiwen said "Of course la!	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	Today I scored 85 on 18 holes. That's much better than my previous score."	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	"Tong Dawei got married today. Did you know?"	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	Wang Zhiwen exaggeratingly opened his eyes "Oh very good very good, congratulations, congratulations!"	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	After a short pause, he said: "Dawei is a very diligent young person. There aren't many young people that have as much vitality as him now. Just like how I was when I was young!"	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	Then he let out a loud laugh.	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	The topic finally lead to his new marriage.	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2450.000	2475.000	TEXT1	unknown	unkown	"I'm very happy.... How happy?	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2475.000	2487.500	TEXT1	unknown	unkown	Haha, words cannot describe."	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2487.500	2493.750	TEXT1	unknown	unkown	Why didn't your wife come?	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2493.750	2496.875	TEXT1	unknown	unkown	"It's too bad she had to go to Beijing for a meeting."	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2496.875	2498.438	TEXT1	unknown	unkown	Then, does he want to be a dad?	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2498.438	2499.219	TEXT1	unknown	unkown	"Haha! Yes, yes!	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2499.219	2500.000	TEXT1	unknown	unkown	Wang Zhiwen laughed out loud, happiness comes from the heart. Reporter Tu Chenxin	0	0	0		statement

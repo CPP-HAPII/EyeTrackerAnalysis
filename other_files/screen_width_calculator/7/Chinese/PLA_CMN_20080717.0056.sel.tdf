@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080717.0056	0	1700.0	1800.0	speaker	unknown	unknown	“通会之际，人成艺成。”愿张西成成为这样的秀才！	0	0	0		

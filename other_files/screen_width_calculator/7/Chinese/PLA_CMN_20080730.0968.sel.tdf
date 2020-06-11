@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0968	0	200.0	300.0	speaker	unknown	unknown	新华社马那瓜７月２９日奥运专电（记者许雷 刘璇）尼加拉瓜总统奥尔特加于２９日下午５点在尼加拉瓜科技大学体育馆内向奥运代表团旗手阿奎约授旗。	0	0	0		
+PLA_CMN_20080730.0968	0	800.0	900.0	speaker	unknown	unknown	尼奥运代表团希望能在遥远而美丽的北京有所斩获，满载而归。	0	0	0		

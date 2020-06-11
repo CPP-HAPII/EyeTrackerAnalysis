@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080713.0257	0	500.0	600.0	speaker	unknown	unknown	中国足协两位副主席谢亚龙和南勇先后抵临赛场督战，可见中国足协对这场比赛的重视。	0	0	0		
+CNS_CMN_20080713.0257	0	1700.0	1800.0	speaker	unknown	unknown	第五十九分钟，苑维玮前场断球后起脚吊射，皮球划出一道漂亮的弧线吊入马来西亚队大门。	0	0	0		

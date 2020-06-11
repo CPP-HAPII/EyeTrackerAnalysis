@@ -1,0 +1,395 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 129.81999999999999, 168.31399999999999, 338.50599999999997, 454.18900000000002, 491.81700000000001, 592.13, 660.76300000000003, 686.13300000000004, 761.24599999999998, 854.18200000000002, 909.577, 962.44799999999998, 1109.171, 1242.8689999999999, 1349.5519999999999, 1459.3699999999999, 1567.181, 1675.2929999999999, 1769.798, 1793.547, 1810.6400000000001, 1837.7180000000001, 1859.8119999999999, 1878.2650000000001, 1886.5119999999999, 9999999.0]
+CCTV4_NEWS3_CMN_20070112_075800	0	129.820	136.211	speaker#1	female	native	The twelfth ASEAN Summit will take place at Cebu in the Philippines on the thirteenth. The Philippine police have strengthened security measures to prepare for the summit.	1	1	1	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	137.071	140.884	speaker#1	female	native	The U.S. Embassy in Greece has come under rocket attack from unknown militants.	1	1	3	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	141.460	144.228	speaker#1	female	native	A Greek militia organization has claimed responsibility for the attack.	1	1	5	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	144.933	150.532	speaker#1	female	native	The Bangladeshi president announced his resignation from the part-time post he held as chief of the interim government, and put the entire country into a state of emergency.	1	1	7	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	151.480	156.824	speaker#1	female	native	The court has opened its fourth session of Taiwan's state affairs confidential expenses case, and Wu Shu-chen once again failed to appear in court for health reasons.	1	1	9	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	156.824	163.730	speaker#1	female	native	Mr. and Mrs. Chen Shui-bian declared their properties, with total deposits having a sharp increase in 2006 of more than 67.72 million NTD.	1	1	10	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	168.314	169.736	Ye_yingchun	female	native	Hello, welcome to News China.	2	2	12	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	169.736	171.611	Ye_yingchun	female	native	Following is our program content in detail.	2	2	13	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	171.611	175.627	Ye_yingchun	female	native	The twelfth ASEAN summit will open on the thirteenth, at Cebu in the Philippines,	2	2	14	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	175.627	179.361	Ye_yingchun	female	native	and the second East Asia Summit will also be held three days later.	2	2	15	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	179.361	183.205	Ye_yingchun	female	native	Currently, leaders from each of the countries attending the meeting have successively arrived in Cebu,	2	2	16	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	183.205	187.080	Ye_yingchun	female	native	and media from around the world have also focused their attention on these two summit meetings.	2	2	17	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	187.080	190.017	Ye_yingchun	female	native	Next, let's connect with this station's reporter at once in the Philippines, ((Wang Yuguo)).	2	2	18	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	190.017	191.111	Ye_yingchun	female	native	Hello, ((Wang Yuguo)).	2	2	19	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	191.111	195.101	Ye_yingchun	female	native	Well, what will be the main topics of the ASEAN summit and East Asia Summit this time?	2	2	20	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	195.101	196.992	Ye_yingchun	female	native	And of these, which deserve particular attention?	2	2	21	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	198.727	200.211	Wang_yuguo	male	native	In the next three days,	2	3	23	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	200.211	205.632	Wang_yuguo	male	native	a series of large-scale regional and international meetings will be held in the Philippines' second largest city, Cebu.	2	3	24	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	205.632	210.273	Wang_yuguo	male	native	First is on January 13, when the twelfth ASEAN Summit will be held in Cebu.	2	3	25	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	210.273	218.195	Wang_yuguo	male	native	Following on, on the fourteenth and fifteenth, will be a meeting of leaders from China, Japan, South Korea and ASEAN leaders, and a meeting of leaders from China and ASEAN leaders,	2	3	26	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	218.195	221.023	Wang_yuguo	male	native	and the second East Asia Summit to be held in Cebu.	2	3	27	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	221.883	227.603	Wang_yuguo	male	native	According to what we know of the current situation, the above meetings will primarily discuss the following three main topics.	2	3	29	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	228.728	235.603	Wang_yuguo	male	native	First is signing and passing of the ASEAN Counter-terrorism Treaty. This is the first counter-terrorism agreement in the area of Southeast Asia to be made legal.	2	3	31	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	236.572	241.759	Wang_yuguo	male	native	Second is negotiations on how to push the WTO to recommence the Doha round of discussions.	2	3	33	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	242.400	247.416	Wang_yuguo	male	native	Third is to discuss the security of energy resources. To look for new sustainable development energy resources,	2	3	35	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	247.416	253.616	Wang_yuguo	male	native	which are primarily biological energy sources, to replace, um, petroleum and reduce their reliance on oil imports from Middle Eastern countries.	2	3	36	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	255.053	260.460	Ye_yingchun	female	native	We know that two days ago, three bombing incidents occurred one after another on the southern Philippine island of Mindanao.	2	4	38	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	260.460	263.585	Ye_yingchun	female	native	Well then, the security work for this summit has also attracted special attentions.	2	4	39	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	263.585	265.210	Ye_yingchun	female	native	What is the situation in this area at the moment?	2	4	40	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	269.069	270.007	Wang_yuguo	male	native	According to accounts, uh,	2	5	42	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	270.007	273.053	Wang_yuguo	male	native	the Philippines have already mobilized land, sea, air and police forces,	2	5	43	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	273.053	276.412	Wang_yuguo	male	native	a total force of 13,000 people, uh, to ensure Cebu's security.	2	5	44	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	276.412	279.857	Wang_yuguo	male	native	The current focus of, focus of the intense protective measures, uh, is the Shangri-La hotel.	2	5	45	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	279.857	285.455	Wang_yuguo	male	native	This hotel, uh, will become the, er, venue in which the major activities of the ASEAN Summit and the East Asian series of summits will be held.	2	5	46	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	285.455	289.646	Wang_yuguo	male	native	Above this hotel in the air, uh, at the moment a helicopter is repeatedly circling on patrol,	2	5	47	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	289.646	293.708	Wang_yuguo	male	native	and in the nearby bay, uh, there are also coastguard vessels on patrol.	2	5	48	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	293.708	298.708	Wang_yuguo	male	native	At present, everybody going into the hotel must pass through at least four sentry posts.	2	5	49	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	299.467	302.193	Wang_yuguo	male	native	Another phenomenon worth mentioning, uh, is that on Cebu island, uh,	2	5	51	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	302.193	307.771	Wang_yuguo	male	native	er, the hotels in which each delegation is staying are, uh, quite far from the conference center and the news center.	2	5	52	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	307.771	309.974	Wang_yuguo	male	native	Some of them take as far as a thirty-minute drive,	2	5	53	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	309.974	313.489	Wang_yuguo	male	native	so the Philippines have, uh, implemented the traffic control, uh, on Cebu island.	2	5	54	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	313.489	318.021	Wang_yuguo	male	native	Ah, they have opened up special routes for use only by delegations,	2	5	55	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	318.021	321.178	Wang_yuguo	male	native	currently, uh, after three times of these traffic-control drills.	2	5	56	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	321.178	323.647	Wang_yuguo	male	native	There are very few pedestrians and traffic on these routes.	2	5	57	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	323.647	325.366	Wang_yuguo	male	native	Because of dispersion, uh,	2	5	58	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	325.366	329.335	Wang_yuguo	male	native	compared with before, the vehicles on other road sections, uh, the phenomenon of traffic jams has increased.	2	5	59	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	329.335	332.194	Wang_yuguo	male	native	This afternoon, for example, when we were recording some outdoor shots in Chinatown,	2	5	60	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	332.194	334.819	Wang_yuguo	male	native	we got stuck in traffic jams for quite a long time.	2	5	61	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	335.475	338.506	Ye_yingchun	female	native	Okay, thank you, Wang Yugui. Let's find out some related background.	2	6	63	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	338.506	341.912	Ye_yingchun	female	native	The precursor to the East Asia Summit is the ASEAN ten plus three meeting.	3	7	64	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	341.912	345.568	Ye_yingchun	female	native	The so-called "ten plus three" are the ten ASEAN countries with the additional three countries of China, Japan and South Korea.	3	7	65	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	345.568	349.193	Ye_yingchun	female	native	The ten plus three cooperative mechanism was officially started in 1997.	3	7	66	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	349.193	352.787	Ye_yingchun	female	native	It has subsequently been continually improved and strengthened and has driven along development in East Asia.	3	7	67	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	352.787	355.646	Ye_yingchun	female	native	At the tenth ASEAN summit meeting in 2004,	3	7	68	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	355.646	361.224	Ye_yingchun	female	native	leaders from ASEAN, China, Japan and South Korea decided to convene the first East Asia Summit in Kuala Lumpur in 2005.	3	7	69	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	361.224	366.928	Ye_yingchun	female	native	Apart from the ten ASEAN countries, China, Japan and South Korea, Australia, India and New Zealand were also invited to take part.	3	7	70	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	366.928	372.256	Ye_yingchun	female	native	The first East Asia Summit not only published the Kuala Lumpur Declaration, determined the direction and pattern of development for the summit,	3	7	71	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	372.256	379.475	Ye_yingchun	female	native	and achieved great successes in promoting the development of regional integration and strengthening bilateral and multilateral interaction and cooperation.	3	7	72	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	380.796	389.452	Ye_yingchun	female	native	From ASEAN officials to local overseas Chinese, Chinese, they all put the progress and prospects of China and ASEAN's cooperative relationship as a hot topic of the current summit.	3	7	74	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	389.452	390.030	Ye_yingchun	female	native	Let's look at the report.	3	7	75	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	391.577	395.233	speaker#2	male	native	Cebu of the Philippines is a city with over four hundred years of history and a population of over three million.	3	8	77	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	395.233	400.483	speaker#2	male	native	In the last several days, publicity placards made to welcome the summit can be seen everywhere when walking on the streets of Cebu.	3	8	78	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	400.483	403.671	speaker#2	male	native	To welcome the arrival of Premier Wen Jiabao, local overseas Chinese and Chinese	3	8	79	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	403.671	407.171	speaker#2	male	native	especially prepared a huge portrait to express their happiness.	3	8	80	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	407.827	412.015	speaker#2	male	native	At the newly completed Cebu news center, media reporters from all over the world have assembled.	3	8	82	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	412.593	415.250	speaker#2	male	native	+Zabaleta, a reporter from Spain's Agencia EFE believes that	3	8	84	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	415.250	419.141	speaker#2	male	native	cooperation between China and +other Asian countries is very important to the development of this region.	3	8	85	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	419.141	431.064	speaker#3	male	nonnative		3	9	86	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	431.064	437.641	speaker#2	male	native	On the twelfth, the Philippines' major newspapers placed news reports of the dialog meeting between China and ASEAN foreign ministers in a prominent position.	3	10	87	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	437.641	439.985	speaker#2	male	native	They believe the prospects for bilateral cooperation are good;	3	10	88	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	439.985	444.267	speaker#2	male	native	especially at the end of last year, after the China and ASEAN summit was held in Nanning, Guangxi,	3	10	89	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	444.267	448.001	speaker#2	male	native	leaders from China and the ten ASEAN countries once again welcomed a dialog of the summit.	3	10	90	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	448.001	452.782	speaker#2	male	native	This has presented an opportunity for many areas of bilateral cooperation to be refined and put into action.	3	10	91	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	454.189	460.018	Ye_yingchun	female	native	Chinese Foreign Minister Li Zhaoxing presided over the fourth meeting of the tripartite commission of China, Japan and South Korea in Cebu, the Philippines, on the twelfth.	4	11	93	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	460.018	469.756	Ye_yingchun	female	native	He exchanged ideas on deepening tripartite co-operations and regional and international issues of common concern with South Korean Foreign Minister Song Min-Soon and Japanese vice Foreign Minister Katsuhito Asano.	4	11	94	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	470.325	474.849	Ye_yingchun	female	native	When talking on the North Korean nuclear issue, Song Min-Soon said the six-part talks should be resumed as early as possible.	4	11	96	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	474.849	479.896	Ye_yingchun	female	native	The three countries of South Korea, China and Japan unanimously agreed to strengthen cooperation to ensure the success of talks.	4	11	97	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	479.896	486.627	Ye_yingchun	female	native	Li Zhaoxing emphasized that China maintains the position expressed in the statement of the chairperson delivered at the second-phase meeting in the fifth round of six-party talks last December,	4	11	98	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	486.627	490.754	Ye_yingchun	female	native	and maintains peaceful realization of denuclearization of the Korean Peninsula through dialog.	4	11	99	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	491.817	500.035	Ye_yingchun	female	native	Let's take a look at the Shanghai and Shenzhen stock markets. Affected by across-the-board drops in Sinopec, the Bank of China, Bao Steel and other large-cap heavy-weight stocks,	5	12	101	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	500.035	502.847	Ye_yingchun	female	native	the Shanghai and Shenzhen stock markets both opened low on the twelfth.	5	12	102	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	502.847	510.440	Ye_yingchun	female	native	After a brief upward drive, it was a drop all the way until the close of trading, when more than one thousand stocks had dropped on the two markets of Shanghai and Shenzhen; only a little over two hundred stocks increased.	5	12	103	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	510.440	515.565	Ye_yingchun	female	native	The Shanghai composite index closed at 2,668.1 points, a drop of 102 points,	5	12	104	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	515.565	520.221	Ye_yingchun	female	native	and tumbled through the 2,700 point barrier, a fall of 3.68%.	5	12	105	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	520.862	522.596	Ye_yingchun	female	native	Related statistics from the last two weeks	5	12	107	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	522.596	527.112	Ye_yingchun	female	native	show that the Chinese securities market adds almost 50,000 new investors every day.	5	12	108	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	527.112	533.408	Ye_yingchun	female	native	Experts said in reminder that this round of increases has entered its tail end, and that the risk of entering the markets has also started to increase.	5	12	109	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	534.158	540.845	speaker#4	male	native	Currently, the number of newly opened accounts in one day is around about, uh, double that of November to December of last year,	5	13	111	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	540.845	543.704	speaker#4	male	native	and is around three to four times that of July and August of last year.	5	13	112	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	544.439	548.298	speaker#5	male	native	The latest statistics from the China Securities Depository and +Clearing Corporation confirmed this change.	5	14	114	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	548.298	552.189	speaker#5	male	native	Up until January ninth, the number of newly opened accounts on the Shanghai and Shenzhen markets exceeded 50,000 every day,	5	14	115	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	552.189	555.548	speaker#5	male	native	while the highest number of people opening new accounts last year was 40,000 every day.	5	14	116	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	555.548	559.720	speaker#5	male	native	The total number of investors currently on the two markets of Shanghai and Shenzhen has reached more than 78 million.	5	14	117	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	560.486	564.173	speaker#5	male	native	Recently, large-cap stocks have adjusted down, with the ICBC and Bank of China as typical examples,	5	14	119	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	564.173	568.096	speaker#5	male	native	while certain varieties that fell earlier or did not increase very much started to rebound.	5	14	120	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	568.096	572.799	speaker#5	male	native	Experts say that the stock market has been extremely changeable recently, and new investors should be increasingly cautious.	5	14	121	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	572.799	579.050	speaker#4	male	native	Bank stocks, real estate and steel, which earlier did quite well, recently adjusted down by a certain amount,	5	15	122	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	579.050	581.535	speaker#4	male	native	and the market has slowly entered into a tailing-off phase.	5	15	123	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	581.535	587.973	speaker#4	male	native	Uh, of course the number of accounts opened bears some relationship to the market situation, and usually when the most accounts are opened	5	15	124	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	587.973	590.723	speaker#4	male	native	is probably the most risky period for the large-cap market.	5	15	125	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	592.130	598.380	Ye_yingchun	female	native	At the same time that the recent vigorous stock market has attracted large numbers of investors, it has brought about an explosion in finances on the money markets.	6	16	127	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	598.380	601.864	Ye_yingchun	female	native	Not only have banks brought out new savings products to cater to investors,	6	16	128	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	601.864	605.489	Ye_yingchun	female	native	mortgage financing services have also increased considerably in certain financial organizations.	6	16	129	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	606.864	610.519	speaker#1	female	native	Some banks have recently brought out a new type of notice deposit service;	6	17	131	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	610.519	613.144	speaker#1	female	native	people just have to deposit a sum of over 50,000 Yuan,	6	17	132	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	613.144	618.550	speaker#1	female	native	and when not buying new stocks the funds can accrue interest of 0.9% higher than current account interest rates.	6	17	133	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	618.550	622.253	speaker#1	female	native	When applying to purchase new stocks there is no need to make an appointment, and funds can be withdrawn at any time.	6	17	134	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	622.702	625.597	speaker#1	female	native	The new services are a threefold increase over the former notice deposit account amounts.	6	17	136	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	625.597	630.409	speaker#1	female	native	At the same time, the double savings and loan services brought out by certain banks have also been welcomed by the market.	6	17	137	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	630.409	635.596	speaker#1	female	native	This type of service means that, when people have two or more properties, they can invest these as capital for a mortgage.	6	17	138	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	635.596	639.306	speaker#1	female	native	After the bank deducts the outstanding mortgage amount from the property value,	6	17	139	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	639.306	646.439	speaker#1	female	native	they will allow different credit amounts based on each customer's different credit standing, which is equivalent to converting fixed assets into floating assets.	6	17	140	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	646.439	649.767	speaker#1	female	native	In addition, certain financial services of pawn brokers have also increased somewhat.	6	17	141	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	649.767	654.751	speaker#1	female	native	A segment of people have chosen to mortgage cars, property and other assets in exchange for liquid funds to invest in the stock market.	6	17	142	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	660.763	665.528	speaker#1	female	native	Argentina issued an international order requiring the arrest of former Argentinean president Isabel Peron.	7	18	144	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	666.466	668.404	speaker#1	female	native	New progress has been made in the Taiwan armored car case;	7	18	146	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	668.404	671.872	speaker#1	female	native	Yunnan police confirmed that the suspect Li Hanyang has already been captured in Kunming.	7	18	147	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	672.653	677.153	speaker#1	female	native	Spreading fog has caused a pile-up of over forty vehicles on Hebei's Jinshi Expressway.	7	18	149	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	677.153	679.246	speaker#1	female	native	We will be back with News China in a moment.	7	18	150	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	686.133	687.149	Ye_yingchun	female	native	Welcome back.	8	19	152	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	687.149	693.524	Ye_yingchun	female	native	The U.S. Embassy in Greece has come under rocket attack from some unknown militants on the twelfth, but there were no casualties.	8	19	153	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	693.524	696.227	Ye_yingchun	female	native	Greek police said this was a terrorist incident.	8	19	154	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	697.586	699.336	speaker#2	male	native	The attack came from the street outside the embassy,	8	20	156	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	699.336	703.508	speaker#2	male	native	and the rocket landed and exploded in a restroom on the third floor of the embassy building.	8	20	157	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	704.148	708.383	speaker#2	male	native	The explosion shattered window glass and ripped a large hole in the wall of the embassy building.	8	20	159	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	709.196	714.165	speaker#2	male	native	Following the attack, the Greek police immediately dispatched several dozen police vehicles and cordoned off the streets surrounding the American embassy.	8	20	161	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	714.837	718.430	speaker#2	male	native	The Greek Minister of Foreign Affairs, Bakoyannis, subsequently hurried over to the U.S. Embassy in Greece.	8	20	163	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	719.930	729.351	speaker#6	male	nonnative		8	21	165	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	729.351	733.335	speaker#2	male	native	The U.S. Embassy in Greece has tight security and is surrounded with a three-meter-high steel fence.	8	22	166	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	733.335	736.523	speaker#2	male	native	Every entrance, its surroundings and street corners, have sentries on guard.	8	22	167	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	736.523	743.039	speaker#2	male	native	In February 1996, a far-left Greek group called November 17 fired a rocket into the embassy,	8	22	168	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	743.039	745.523	speaker#2	male	native	causing damage to three vehicles and some buildings.	8	22	169	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	746.727	751.024	Ye_yingchun	female	native	Currently, the Greek police have received several telephone calls claiming responsibility for the attack.	8	23	171	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	751.024	755.074	Ye_yingchun	female	native	These calls all came from a Greek militia organization called "Revolutionary Struggle."	8	23	172	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	755.074	760.371	Ye_yingchun	female	native	In May 2006, this organizations claimed responsibility for the attack on the Greek Culture Minister.	8	23	173	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	761.246	768.434	Ye_yingchun	female	native	In the early morning, local time, on the eleventh, U.S. troops based in Iraq launched an assault on the Iranian Embassy in Irbil, northern Iraq, arrested six Iranians,	9	24	175	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	768.434	770.637	Ye_yingchun	female	native	and confiscated computers and documents from inside the embassy.	9	24	176	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	770.637	777.293	Ye_yingchun	female	native	On that day, the U.S. government defended the incident and said America will continue to take action against Iranians in Iraq.	9	24	177	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	778.465	783.636	speaker#1	female	native	Irbil, located three hundred and fifty miles north of Baghdad, is the capital of Iraq's Kurdish Autonomous Region.	9	25	179	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	783.636	786.464	speaker#1	female	native	To promote communication between citizens of the two nations of Iraq and Iran,	9	25	180	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	786.464	790.949	speaker#1	female	native	Iraq established a consulate there at the request of the local Kurdish government.	9	25	181	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	790.949	796.227	speaker#1	female	native	At five o'clock a.m., local time, on the eleventh, the U.S. army in Iraq dispatched three helicopters to attack the consulate.	9	25	182	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	796.227	800.681	speaker#1	female	native	The U.S. troops first eliminated the armed guards, then broke through the consulate's main door to force entrance.	9	25	183	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	800.681	805.118	speaker#1	female	native	Without making any explanation, they arrested six consulate staff	9	25	184	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	805.118	806.790	speaker#1	female	native	and took away computers and some documents.	9	25	185	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	806.790	809.321	speaker#1	female	native	After the attack, the consulate interior was a complete mess.	9	25	186	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	809.321	814.758	speaker#1	female	native	Following occurrence of the incident, Iran's foreign ministry condemned this deed by the USA as a provocative action which contravened international law,	9	25	187	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	814.758	819.414	speaker#1	female	native	and said this action has exacerbated tensions in the region, and demanded that America give an explanation of the incident.	9	25	188	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	820.148	823.616	speaker#1	female	native	However, the U.S. army's attitude toward this incident seemed to play down its importance,	9	25	190	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	823.616	827.647	speaker#1	female	native	saying this action was a routine security action undertaken by coalition forces in Iraq,	9	25	191	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	827.647	832.709	speaker#1	female	native	and the suspects arrested had close links to the attack on coalition forces that occurred on January 11.	9	25	192	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	833.543	836.854	speaker#1	female	native	That day, U.S. Secretary of State Rice issued a warning to Iran, saying,	9	25	194	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	836.854	841.104	speaker#1	female	native	if Iran tries to derail U.S. efforts to seek stability in Iraq,	9	25	195	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	841.104	843.073	speaker#1	female	native	the USA will definitely not just sit by, watching and doing nothing.	9	25	196	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	843.073	846.026	speaker#1	female	native	The U.S. National Security Council also clearly pointed out	9	25	197	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	846.026	851.010	speaker#1	female	native	that the moment the USA receives intelligence concerning Iranian interference in Iraq or impairment of U.S. interests,	9	25	198	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	851.010	853.213	speaker#1	female	native	the USA will immediately take corresponding action.	9	25	199	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	854.182	861.839	Ye_yingchun	female	native	On the evening of the eleventh, Bangladeshi president Iajuddin Ahmed announced his resignation from the part-time post he concurrently held as chief of the interim government; the whole country is in a state of emergency.	10	26	201	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	863.573	867.370	speaker#2	male	native	At present, around 60,000 troops have been dispatched to all areas of the country to maintain order.	10	27	203	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	868.011	874.417	speaker#2	male	native	President Ahmed promised that a new interim government will be formed in the next one or two days, to organize impartial and fair national elections.	10	27	205	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	875.393	879.573	speaker#2	male	native	Last October, after the interim government led by Ahmed took over the reigns of power,	10	27	207	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	879.573	885.400	speaker#2	male	native	the former opposition party People's Coalition accused Ahmed of having too close a relationship with the former ruling Nationalist Party,	10	27	208	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	885.400	887.369	speaker#2	male	native	and being unable to be neutral in elections.	10	27	209	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	888.244	894.587	speaker#2	male	native	The opposition party coalition announced their boycott of elections on the third of this month and launched actions to blockade traffic throughout the country and besiege the presidential palace,	10	27	211	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	894.587	899.149	speaker#2	male	native	demanding that Ahmed resign his position as chief of the interim government and amend the electoral register list.	10	27	212	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	901.890	908.452	speaker#2	male	native	In light of the current crisis situation, the UN, European Union and the United States have cancelled their plans to send election observers to Bangladesh.	10	27	214	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	909.577	914.187	Ye_yingchun	female	native	The Argentine district court issued an international order to Interpol on the eleventh,	11	28	216	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	914.187	917.016	Ye_yingchun	female	native	requesting the arrest of former Argentine president Isabel Peron.	11	28	217	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	918.063	924.641	speaker#2	male	native	The courts said that they wish to question Isabel Peron about several cases of disappearance that occurred in Argentina in 1976.	11	29	219	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	925.294	928.001	speaker#2	male	native	At the time, these people were taken away by state security departments or went missing.	11	29	221	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	928.001	931.892	speaker#2	male	native	News reports say that a high-level aide of Peron's was arrested last week.	11	29	222	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	932.548	937.711	speaker#2	male	native	Isabel Peron, who is seventy-five years old this year, is a well-known leader of Argentina and was the third wife of General Peron.	11	29	224	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	937.711	944.179	speaker#2	male	native	In 1973, after Peron returned to Argentina from exile overseas and won victory in elections, Isabel was elected as vice-president.	11	29	225	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	944.179	949.632	speaker#2	male	native	After Peron's death in 1974, Isabel acceded as president, to become Argentina's first-ever female president.	11	29	226	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	949.632	953.085	speaker#2	male	native	In 1976, Isabel was arrested during a military coup,	11	29	227	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	953.085	955.976	speaker#2	male	native	and has lived in Spain ever since her release in 1981.	11	29	228	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	962.448	967.420	Ye_yingchun	female	native	In another twenty days or so, China Air and other airline companies' Spring Festival cross-strait charter flights will restart.	12	30	230	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	967.420	969.842	Ye_yingchun	female	native	At present, all the preparation work is basically ready,	12	30	231	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	969.842	975.014	Ye_yingchun	female	native	and from looking at the ticket booking and sales situation from Beijing, Shanghai, Xiamen and other Mainland flight points,	12	30	232	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	975.014	977.857	Ye_yingchun	female	native	this year's cross-strait charter flights are hot before taking off.	12	30	233	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	980.791	982.431	speaker#1	female	native	According to arrangements made by the Civil Aviation Administration,	12	31	235	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	982.431	990.446	speaker#1	female	native	the time for Spring Festival cross-strait charter flights in 2007 has been fixed as fourteen days before and after Spring Festival. They will officially start on February 5 and finish on March 2.	12	31	236	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	990.446	995.321	speaker#1	female	native	Flight points are still Beijing, Shanghai, Guangzhou, Xiamen, Taipei and Kaohsiung.	12	31	237	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	995.321	999.992	speaker#1	female	native	Passengers are restricted to all Taiwanese citizens holding a valid legal permit to travel cross-strait.	12	31	238	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	999.992	1004.179	speaker#1	female	native	The six airline companies on the two sides of the strait will carry out a total of 96 return flights,	12	31	239	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1004.179	1006.944	speaker#1	female	native	an increase of two return flights over 2006.	12	31	240	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1006.944	1010.022	speaker#1	female	native	At present, each airline company has commenced selling tickets,	12	31	241	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1010.022	1012.725	speaker#1	female	native	and at one sales point in Shanghai, in less than half a day,	12	31	242	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1012.725	1016.209	speaker#1	female	native	Eastern Airlines and Shanghai Airlines hung up a placard that the economy cabins were full.	12	31	243	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1016.209	1018.818	speaker#1	female	native	Flights on the Kaohsiung route are even harder to get hold of.	12	31	244	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1018.818	1025.492	speaker#1	female	native	As to ticket prices, compared with last year, business cabin ticket prices have dropped slightly, while economy cabin ticket prices have increased somewhat.	12	31	245	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1025.492	1032.553	speaker#7	male	native	Uh, the ticket sales situation this year, er, is much better than last year, the, uh, take-up rate is higher than last year.	12	32	246	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1032.553	1037.507	speaker#7	male	native	This illustrates that across the strait, in relation to cross-strait charter flights, there is actually a very large, this kind of, market demand.	12	32	247	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1037.507	1041.288	speaker#1	female	native	What's more, preparation work at each flight point on the Mainland is currently being carried out quickly and intensively.	12	33	248	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1041.288	1044.056	speaker#1	female	native	The reporter learned from Air China	12	33	249	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1044.056	1045.994	speaker#1	female	native	that from February 14 until the 26	12	33	250	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1045.994	1051.510	speaker#1	female	native	Air China will carry out their task of flying return from Beijing to Taipei and Beijing to Kaohsiung for the fourth time.	12	33	251	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1051.510	1054.010	speaker#1	female	native	Air China's General Manager of Marketing, Zhang Chunzhi, said that	12	33	252	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1054.010	1061.244	speaker#1	female	native	this time Air China will transfer their latest Olympic Mascot aircraft, decorated with the Olympic Mascot 'Friendlies,' for the charter flight duty.	12	33	253	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1061.244	1066.373	Zhang_chunzhi	female	native	This mascot aircraft, ah, is our newly introduced 737-800, Boeing 737-800.	12	34	254	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1066.373	1069.983	Zhang_chunzhi	female	native	Uh, it has a total of 8 seats in the business cabin, and the standard cabin has a hundred and fifty-four.	12	34	255	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1069.983	1077.780	Zhang_chunzhi	female	native	Well, from overall, er, the situation of aircraft put in, the number of flights and the number of passengers, well, have all increased over before.	12	34	256	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1078.671	1081.546	speaker#1	female	native	Onboard the aircraft, we will provide a Spring Festival dinner with characteristics from both sided of the strait.	12	35	258	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1081.546	1085.796	speaker#1	female	native	The business cabin will have Chinese dumplings, Hua Tiao wine, preserved Taiwanese plums and other special food.	12	35	259	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1085.796	1089.765	speaker#1	female	native	Passengers can also get a model of the Air China Olympic Mascot airplane.	12	35	260	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1090.640	1097.234	speaker#8	female	native	With the cross-strait Spring Festival charter flights, passengers can eat lunch in Beijing and return to Taipei or Kaohsiung in the evening to eat a reunion dinner with their families.	12	36	262	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1097.234	1099.781	speaker#8	female	native	The entire flight only takes a little over four hours.	12	36	263	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1099.781	1102.546	speaker#8	female	native	We learned from Beijing Xidan Civil Aviation Ticket Sales office	12	36	264	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1102.546	1105.640	speaker#8	female	native	that the rate of seat booking has already exceeded eighty-five percent.	12	36	265	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1105.640	1108.077	speaker#8	female	native	CCTV reporter ((Wan Lin)), reporting from Beijing.	12	36	266	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1109.171	1114.984	Ye_yingchun	female	native	This year Taiwan has had a bumper crop of Liu oranges. However, er, it has caused the price to drop, and fruit growers have found it hard to tell about their suffering.	13	37	268	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1114.984	1117.906	Ye_yingchun	female	native	The Kuomintang asked for help from the Mainland through the KMT and CPC communication platform.	13	37	269	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1117.906	1122.328	Ye_yingchun	female	native	The Mainland swiftly made a response and decided to make an emergency purchase of 1,200 tons of Taiwanese Liu oranges,	13	37	270	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1122.328	1124.953	Ye_yingchun	female	native	selling them on to Fujian, Shanghai, Beijing and other markets.	13	37	271	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1127.062	1130.890	Chen_xuanshi	male	native	Dealers from across the strait signed an emergency purchase agreement in the evening in Beijing.	13	38	273	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1130.890	1138.219	Chen_xuanshi	male	native	Fujian, Shanghai, Beijing and other places, er, altogether purchased 1,200 tons of unsalable overproduced Liu oranges from the two Taiwan counties of Yunlin and Jiayi.	13	38	274	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1138.219	1143.673	Chen_xuanshi	male	native	The Kuomintang was surprised by the speed and volume of this purchase action.	13	38	275	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1143.673	1151.939	speaker#9	male	native	From Chairman Ma meeting with farmers, to signing the agreement just now, this business was, ah, ah, just completed in less than thirty hours.	13	39	276	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1151.939	1155.595	speaker#9	male	native	Well, this, we sincerely thank, uh, the Mainland,	13	39	277	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1155.595	1161.611	speaker#9	male	native	ah, so positively and warmly, ah, giving Taiwan farmers such a big help.	13	39	278	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1161.611	1163.978	Chen_xuanshi	male	native	Yunlin county is the ancestral production area of Taiwanese Liu oranges;	13	40	279	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1163.978	1167.525	Chen_xuanshi	male	native	the quantity produced this year increased by sixteen percent, reaching more than 30,000 tons.	13	40	280	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1167.525	1171.275	Chen_xuanshi	male	native	However, the price dropped to around only ten NTD per kilogram.	13	40	281	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1171.275	1175.322	Chen_xuanshi	male	native	The purchasers this time, er, purchased from fruit growers at a price of fifteen NTD.	13	40	282	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1175.322	1178.337	speaker#10	male	native	The, er, specification, er, of the contract we signed, signed this time, ah,	13	41	283	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1178.337	1182.275	speaker#10	male	native	is, is the best quality, including 21#, 23#, and 25#.	13	41	284	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1182.275	1186.166	speaker#10	male	native	This is the highest specification, including we guarantee, a sweetness of above level ten.	13	41	285	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1186.166	1188.979	speaker#10	male	native	Ah, so we, that is to say, the best of the produce, er,	13	41	286	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1188.979	1191.839	speaker#10	male	native	the best Liu oranges, er, shared, er, with our Mainland compatriots.	13	41	287	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1191.839	1195.761	speaker#11	male	native	We helped a lot, the farmers could immediately feel it.	13	42	288	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1195.761	1198.792	speaker#11	male	native	Oh, it gave people the feeling, that is, the price had immediately recovered.	13	42	289	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1198.792	1203.198	Chen_xuanshi	male	native	Fujian and Shanghai, respectively, purchased 600 tons and 460 tons of them.	13	43	290	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1203.198	1207.995	Chen_xuanshi	male	native	Dealers all said, uh, they are not worried that these premium quality Taiwanese Liu oranges have no market.	13	43	291	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1207.995	1213.167	speaker#12	male	native	This is the first time Liu oranges have been, er, put into the motherland, Mainland market on this kind of scale.	13	44	292	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1213.167	1216.870	speaker#12	male	native	This may be the first time many consumers can taste them.	13	44	293	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1216.870	1219.667	speaker#12	male	native	Well, so, from looking at this situation,	13	44	294	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1219.667	1223.027	speaker#12	male	native	one should say it is quite competitive, we are quite confident about this.	13	44	295	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1223.027	1229.995	speaker#13	male	native	Shanghai itself, er, is not very familiar with this variety of Taiwanese Liu oranges, and through this, er, we want to carry out some sales promotion	13	45	296	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1229.995	1232.917	speaker#13	male	native	and make the citizens of Shanghai better understand Taiwanese Liu oranges.	13	45	297	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1233.886	1239.026	Chen_xuanshi	male	native	Dealers from across the strait said that 1,200 tons of Taiwanese Liu oranges will be transported to the Mainland supply market in the next few days.	13	46	299	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1239.791	1241.791	Chen_xuanshi	male	native	CCTV reporter ((Chen Xuanshi)), reporting from Beijing.	13	46	301	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1242.869	1247.837	Ye_yingchun	female	native	On the twelfth, the court has opened its fourth session of Taiwan's state affairs confidential expenses case, and not until 2 o'clock in the afternoon was recess announced.	14	47	303	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1247.837	1256.134	Ye_yingchun	female	native	Both the prosecution and defense parties in the current hearing were still disputing related documents involved in Chen Shui-bian's so-called confidential content and whether or not they should be supplied to the court as evidence.	14	47	304	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1256.134	1263.306	Ye_yingchun	female	native	And the prosecution demanded that the court subpoena five confidential document handlers in Chen Shui-bian's office to help make some substantial progress with the hearing.	14	47	305	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1265.660	1267.660	speaker#14	male	native	The court has opened its fourth session of Taiwan's state affairs confidential expenses case.	14	48	307	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1267.660	1271.519	speaker#14	male	native	Apart from the main suspect in the case, Wu Shu-chen, once again not arriving in court for health reasons,	14	48	308	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1271.519	1275.472	speaker#14	male	native	the three others involved in the case, Ma Yung-cheng, Lin Te-shun and Chen Chen-hui, all appeared in court.	14	48	309	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1275.472	1279.316	speaker#14	male	native	As soon as court opened, the defense counsel brought out the so-called government secrets to pressure people.	14	48	310	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1279.316	1283.597	speaker#14	male	native	((Ku Li-hsiung)) said, since Chen Shui-bian has said certain evidence are confidential documents,	14	48	311	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1283.597	1289.832	speaker#14	male	native	they cannot be submitted to the court; moreover, case prosecutor Bill Chen suggested that lawyers who have read the relevant documents do not leak the information out,	14	48	312	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1289.832	1292.924	speaker#14	male	native	then Chen Shui-bian should personally check and authorize	14	48	313	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1292.924	1296.035	speaker#14	male	native	whether lawyers are allowed to review the files and whether they should be examined publicly.	14	48	314	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1296.035	1303.223	speaker#14	male	native	The defense even said that whether or not the evidence is classed as confidential should not be decided by the prosecution or the court, and everything should concede to what Chen Shui-bian says.	14	48	315	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1303.223	1306.629	speaker#14	male	native	The state affairs confidential expenses case is also not a case that can be simply examined by two courts.	14	48	316	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1307.332	1310.364	speaker#14	male	native	To stop the defense from using confidential documents as a shield,	14	48	318	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1310.364	1316.817	speaker#14	male	native	with Chang Hsi-huai in the lead, prosecutors on the one hand demanded that judges read the records of case history and nursing records of Chen Shu-chen from Taiwan University Hospital,	14	48	319	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1316.817	1321.129	speaker#14	male	native	and request that Taiwan University Hospital clarify in what circumstances Chen Shu-chen can appear in court,	14	48	320	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1321.129	1325.129	speaker#14	male	native	in order to get around the entangled and vague confidentiality obstacle and obtain a verbal statement from the litigant.	14	48	321	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1325.129	1331.880	speaker#14	male	native	On the other hand, prosecutors also demanded that judges request a subpoena for the secretary general of Chen Shui-bian's office at the time, in order to find out the process of defining confidential documents.	14	48	322	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1331.880	1340.771	speaker#14	male	native	To our understanding, in relation to the prosecution's request to examine Chen Shu-chen's medical history, the defense adamantly refused, by reason of considering medical history to involve patient privacy, unsuitable to provide.	14	48	323	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1340.771	1345.380	speaker#14	male	native	The court has not made a ruling on whether to subpoena the handlers of related confidential documents either.	14	48	324	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1345.380	1347.973	speaker#14	male	native	CCTV reporters in Taiwan, Ying Jie and Yue Biao, reporting.	14	48	325	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1349.552	1356.787	Ye_yingchun	female	native	Compared to the information declared in 2005, in the status of property declared by Chen Shui-bian to Taiwan's supervisory organizations at the end of 2006,	15	49	327	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1356.787	1361.755	Ye_yingchun	female	native	the total savings of Mr. and Mrs. Chen Shui-bian sharply increased by a massive more than 67.72 million Yuan.	15	49	328	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1361.755	1365.552	Ye_yingchun	female	native	In connection, people's representative Chou Yi reckons that the origin of Mr. and Mrs. Chen Shui-bian's property is unknown.	15	49	329	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1366.427	1369.480	speaker#15	female	native	According to reports, during the Taiwan leadership elections in 2004,	15	50	331	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1369.480	1371.683	speaker#15	female	native	Chen Shui-bian promised his property to be put in a compulsory trust,	15	50	332	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1371.683	1375.730	speaker#15	female	native	and after taking up his position, in May 2004, Chen Shui-bian consigned his property to trust for the first time.	15	50	333	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1375.730	1379.871	speaker#15	female	native	In April of last year, Taiwan's supervisory organization published Chen Shui-bian's information declared in 2005,	15	50	334	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1379.871	1384.637	speaker#15	female	native	including real estate in his name, savings in Wu Shu-chen's name, and Wu Shu-chen's trusts, stocks and funds, and so on,	15	50	335	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1384.637	1386.559	speaker#15	female	native	a total sum of more than 48 million Yuan.	15	50	336	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1387.450	1390.982	speaker#15	female	native	At the end of 2006, Chen Shui-bian once again declared his property status to Taiwan's supervisory organizations;	15	50	338	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1390.982	1392.717	speaker#15	female	native	compared to the 2005 information,	15	50	339	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1392.717	1394.686	speaker#15	female	native	fixed assets in Chen Shui-bian's name have not changed,	15	50	340	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1394.686	1398.670	speaker#15	female	native	but savings increased from over 490,000 Yuan to over 2.27 million Yuan.	15	50	341	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1398.670	1404.245	speaker#15	female	native	Savings in Wu Shu-chen's name increased sharply from 1.24 million Yuan to more than 65.93 million Yuan.	15	50	342	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1404.245	1406.667	speaker#15	female	native	In connection, Taiwan People's Representative Chou Yi reckons	15	50	343	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1406.667	1409.932	speaker#15	female	native	that apart from sale of stocks and other causes for assets to increase,	15	50	344	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1409.932	1413.041	speaker#15	female	native	Chen Shui-bian's family still has more than 10 million Yuan of property of unknown origin.	15	50	345	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1413.041	1415.260	Qiu_yi	male	native	Deducting negotiable securities sold off,	15	51	346	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1415.260	1422.183	Qiu_yi	male	native	well then, the portion exchanged into savings should actually increase by over 19 million, close to 20 million.	15	51	347	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1422.183	1425.761	Qiu_yi	male	native	With Chen Shui-bian's salary and year-end bonus added,	15	51	348	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1425.761	1430.323	Qiu_yi	male	native	if they don't eat or drink, then it should be almost six million.	15	51	349	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1430.979	1435.558	Qiu_yi	male	native	But his overall savings had a net increase of 19 million,	15	51	351	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1435.558	1441.417	Qiu_yi	male	native	so there is still close to almost 13 million that are unidentified property.	15	51	352	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1441.417	1444.558	Qiu_yi	male	native	Well, the Legislative Yuan is currently amending statutes on the punishment of corruption,	15	51	353	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1444.558	1447.699	Qiu_yi	male	native	and will increase investigations on the origin of unidentified property.	15	51	354	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1447.699	1450.277	Qiu_yi	male	native	So, it is really necessary for Chen Shui-bian to explain,	15	51	355	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1450.277	1457.558	Qiu_yi	male	native	where did the additional 13 million of unidentified property come from?	15	51	356	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1459.370	1464.355	Ye_yingchun	female	native	On the second of this month in Taiwan, because Li Hanyang, an armored car driver, allegedly embezzling what was entrusted to his care,	16	52	358	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1464.355	1467.980	Ye_yingchun	female	native	looted 56 million NTD in cash and subsequently fled,	16	52	359	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1467.980	1471.230	Ye_yingchun	female	native	a record has been set for the biggest armored car heist in Taiwan history.	16	52	360	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1471.230	1475.745	Ye_yingchun	female	native	On the eleventh, Yunnan police confirmed that Li Hanyang was captured in Kunming on the morning of the tenth.	16	52	361	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1477.850	1482.631	speaker#16	female	native	Yunnan police said that appearing in Kunming with Li Hanyang were his younger brother and an accomplice,	16	53	363	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1482.631	1484.381	speaker#16	female	native	and in addition, a young female.	16	53	364	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1484.381	1488.796	speaker#16	female	native	After making a search, the police did not find the huge sum of cash on Li Hanyang's person.	16	53	365	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1488.796	1492.077	speaker#16	female	native	At present, Li Hanyang and others have been detained in a Kunming prison.	16	53	366	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1492.077	1494.389	speaker#16	female	native	Yunnan police have already given them a preliminary hearing,	16	53	367	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1494.389	1498.373	speaker#16	female	native	and the three others expressed they did not know about Li Hanyang's crime case.	16	53	368	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1498.373	1501.061	speaker#16	female	native	To our understanding, one suspect is still on the run.	16	53	369	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1501.061	1502.952	speaker#16	female	native	Police reckon he has still not left Taiwan.	16	53	370	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1503.670	1508.029	speaker#16	female	native	Li Hanyang worked as an armored car driver at Taiwan Wei-feng Security Company for four years.	16	53	372	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1508.029	1517.450	speaker#16	female	native	At 9 o'clock in the morning on January 2, he drove the armored car with another security guard, Lin Rong-te, carrying 79.2 million Yuan NTD in cash to hand over at the bank.	16	53	373	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1517.450	1522.840	speaker#16	female	native	After arriving at a branch of the Hua Nan Bank, to which 10.68 million Yuan was handed over, contact with the armored car was lost.	16	53	374	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1523.558	1525.574	speaker#16	female	native	The Taiwan police received a report in the afternoon.	16	53	376	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1525.574	1531.074	speaker#16	female	native	After Li Hanyang drugged Lin Rong-te and put the latter in a coma, he looted 56 million Yuan in cash from the vehicle and absconded.	16	53	377	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1531.074	1536.949	speaker#16	female	native	The Taiwan police immediately restricted Li Hanyang from leaving Taiwan, but discovered he had already flown on a plane to Hong Kong in the afternoon.	16	53	378	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1536.949	1538.511	speaker#16	female	native	Investigations by the Taiwan police discovered	16	53	379	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1538.511	1542.246	speaker#16	female	native	that Li Hanyang used to be a policeman and has a younger brother in business on the Mainland.	16	53	380	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1542.246	1545.758	speaker#16	female	native	Taiwan police have not excluded his younger brother as a fellow suspect.	16	53	381	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1546.558	1550.730	speaker#16	female	native	As for Lin Rong-te, who said he ate breakfast provided by Li Hanyang and was blacked out,	16	53	383	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1550.730	1554.620	speaker#16	female	native	his examination results have now come out and have failed to discover any drug reactions.	16	53	384	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1554.620	1560.338	speaker#16	female	native	So, the probability of Lin Rong-te's involvement increased. The Taiwan police do not exclude re-interviewing him to explain the case.	16	53	385	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1567.181	1570.384	Ye_yingchun	female	native	This is News China broadcasting live. Welcome back.	17	54	387	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1570.384	1572.243	Ye_yingchun	female	native	On December 8 2006,	17	54	388	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1572.243	1577.528	Ye_yingchun	female	native	China's self-developed weather satellite, the Feng Yun 2D, was successfully launched from the Xichang Satellite Launch Center.	17	54	389	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1577.528	1583.304	Ye_yingchun	female	native	On the afternoon of the twelfth, the China Meteorological Administration successfully acquired the first image sent back to the ground by the satellite,	17	54	390	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1583.304	1588.476	Ye_yingchun	female	native	symbolizing that the Feng Yun 2D weather satellite's satellite-to-ground station system is working normally.	17	54	391	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1590.098	1594.848	Lei_peng	male	native	In compliance with a ground order, the first picture prompt appeared on the Meteorological Administration's large screen at 2:00 pm.	17	55	393	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1594.848	1599.317	Lei_peng	male	native	The snow cover and convective cloud cover of the West Siberian Plain was clearly visible to the expert's eyes.	17	55	394	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1599.317	1604.271	Lei_peng	male	native	Based on the image, experts predict that China's northern region will remain predominantly clear for the future.	17	55	395	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1604.271	1606.162	speaker#17	male	native	Today's image reception, er, was extremely successful.	17	56	396	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1606.162	1608.569	speaker#17	male	native	The quality of the image we received, er, was extremely high, too,	17	56	397	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1608.569	1612.038	speaker#17	male	native	uh, but now, uh, we are still in the satellite's orbit testing phase.	17	56	398	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1612.038	1616.866	speaker#17	male	native	We estimate, er, we will put it into, uh, test operation on March 1 of this year,	17	56	399	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1616.866	1621.491	speaker#17	male	native	and by the peak flood season on June 1, er, we will officially put, put it into regular operation.	17	56	400	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1621.491	1625.631	Lei_peng	male	native	The Feng Yun 2D weather satellite is the +eighth weather satellite China has launched,	17	57	401	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1625.631	1629.975	Lei_peng	male	native	and achieves twin orbit parallel operation with the Feng Yun 2C satellite already operating in orbit.	17	57	402	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1629.975	1634.553	Lei_peng	male	native	Through this pair of eyes, they can carry out position fixing predictions on typhoons and other disastrous weather events,	17	57	403	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1634.553	1640.460	Lei_peng	male	native	collect data on ocean, water temperature and so on, and can measure the sun's X-ray and ionic space radiation data.	17	57	404	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1640.460	1644.241	Lei_peng	male	native	In the future, China plans to launch a weather satellite every two years.	17	57	405	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1644.241	1648.147	speaker#18	male	native	Through national planning arrangements, er, we will launch another four satellites,	17	58	406	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1648.147	1653.194	speaker#18	male	native	and four satellites following Feng Yun 2 will have worked continually until 2014.	17	58	407	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1654.241	1656.007	speaker#18	male	native	After this kind of period,	17	58	409	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1656.007	1664.137	speaker#18	male	native	our second generation (()) stable, uh, Feng Yun 4 ((+geostationary)) weather satellite, er, will slowly replace our, this, Feng Yun 2 satellites.	17	58	410	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1664.137	1667.700	Lei_peng	male	native	The Feng Yun 2D weather satellite has a designed life expectancy of three years, hopefully achieving four years.	17	59	411	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1667.700	1669.340	Lei_peng	male	native	It is just at the right time for 2008,	17	59	412	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1669.340	1672.012	Lei_peng	male	native	and will give its hugely effective play during the Olympics.	17	59	413	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1672.012	1673.965	Lei_peng	male	native	CCTV reporter ((Lei Peng)), reporting from Beijing.	17	59	414	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1675.293	1677.949	Ye_yingchun	female	native	Let's find out the progress of excavations at the Han tomb in Liuan, Anhui.	18	60	416	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1677.949	1679.527	Ye_yingchun	female	native	After close to two days of work,	18	60	417	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1679.527	1685.964	Ye_yingchun	female	native	work on cleaning the remains from the outer Lu'an Han tomb, in Anhui, has ended, during which a large number of precious artifacts were discovered.	18	60	418	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1685.964	1689.198	Ye_yingchun	female	native	Archaeologists will start excavation of the main chamber in one week.	18	60	419	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1690.362	1694.753	speaker#1	female	native	As work on cleaning the outer tomb ended, artifacts buried under the built-up mud revealed their heads.	18	61	421	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1694.753	1696.816	speaker#1	female	native	In addition to the bronze-ware we saw several days ago,	18	61	422	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1696.816	1700.441	speaker#1	female	native	archaeologists also discovered exquisite animal-shaped silver plates,	18	61	423	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1700.441	1704.425	speaker#1	female	native	as well as ancient Chinese chestnuts, rice, gourd seeds and other plant seeds left behind in storage.	18	61	424	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1704.425	1711.206	speaker#19	male	native	Uh, (()) this must be a tomb figurine, that standing tomb figurine (()) for example has eyes, a nose, ah,	18	62	425	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1711.206	1713.690	speaker#19	male	native	has this hand embracing an, an object.	18	62	426	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1713.690	1718.534	speaker#19	male	native	Actually, that is, they each have a different shape and form, er, this batch of +tomb figurines.	18	62	427	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1719.799	1724.221	speaker#1	female	native	After the outer tomb artifacts have been unearthed, archaeologists will clean up the main chamber.	18	63	429	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1724.221	1728.174	speaker#1	female	native	At the moment, the main chamber structure is intact, to the east is the vault door, directly facing the tomb path.	18	63	430	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1728.174	1731.658	speaker#1	female	native	On the vault door a large number of characters were discovered, detailing the process of grave construction.	18	63	431	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1731.658	1735.346	speaker#1	female	native	Of the wooden bars lining inward on the other three sides, thief holes were discovered on the western side.	18	63	432	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1735.346	1737.658	speaker#1	female	native	+Archaeologists speculate that the main chamber has already been robbed,	18	63	433	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1737.658	1743.782	speaker#1	female	native	but because no jade fragments have appeared, they hope they will discover jade clothing denoting the rank of a prince.	18	63	434	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1744.938	1746.938	speaker#19	male	native	Supposing there is silk, silk objects,	18	64	436	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1746.938	1750.594	speaker#19	male	native	then the very moment this block, that is, if it is opened, er, its, er, sudden change is really drastic,	18	64	437	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1750.594	1755.610	speaker#19	male	native	many, many, er, incomparably splendid, these, er, artifacts, er, will crumble into dust in an instant.	18	64	438	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1756.329	1759.126	speaker#19	male	native	Well, this, er, we feel it is such a pity.	18	64	440	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1759.126	1760.829	speaker#19	male	native	So, for this coffin opening work, er,	18	64	441	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1760.829	1765.642	speaker#19	male	native	I feel it should be definitely under precondition that we have possessed a certain amount of high technology before we can,	18	64	442	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1765.642	1768.330	speaker#19	male	native	that we have prepared sufficiently before we can carry out opening of the coffin.	18	64	443	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1769.798	1772.126	Ye_yingchun	female	native	Okay, for more news information let's browse some news briefs.	19	65	445	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1773.782	1775.391	speaker#1	female	native	At about 9 o'clock a.m. on the eleventh,	19	66	447	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1775.391	1781.220	speaker#1	female	native	thick fog over the section from the Baoding South to Qingyuan of the Tianjin-Shijiazhuang expressway in Hebei led to a pile-up of more than forty vehicles,	19	66	448	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1781.220	1783.079	speaker#1	female	native	causing two deaths and many injuries.	19	66	449	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1783.079	1788.906	speaker#1	female	native	The accident and thick fog resulted in the Jinshi expressway being closed off for more than five hours, and several hundred cars lined up like a long snake.	19	66	450	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1788.906	1792.562	speaker#1	female	native	It wasn't until two o'clock p.m. that the Jinshi expressway was opened again to normal traffic.	19	66	451	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1793.547	1797.687	speaker#1	female	native	An English-Chinese complete set of the "Library of Chinese Classics" was published globally for the first time.	20	67	453	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1797.687	1804.187	speaker#1	female	native	This library is the first time in China's history to systematically bring out such an important cultural project to the entire world, an arrangement and translation of China' ancient books.	20	67	454	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1804.187	1810.640	speaker#1	female	native	It has collected more than one hundred classic works of literature, history, philosophy, economics, military affairs, and technology from China's past dynasties.	20	67	455	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1810.640	1816.062	speaker#1	female	native	Researchers at the Chinese Academy of Sciences, Shanghai Institutes for Biological Science, and the Medical College of Shanghai Jiaotong University	21	68	456	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1816.062	1818.593	speaker#1	female	native	recently discovered a type of leukemia inhibitor gene.	21	68	457	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1818.593	1822.421	speaker#1	female	native	This gene is present in a pair on human chromosome 5.	21	68	458	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1822.421	1825.421	speaker#1	female	native	As long as one of them can normally express inheritance information,	21	68	459	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1825.421	1827.953	speaker#1	female	native	there will not be any problem in the human body's blood cell production functions.	21	68	460	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1827.953	1833.937	speaker#1	female	native	If one of these genes is missing and the other gene expresses (()) ((purpose)) it will cause abnormality of the blood cell production function.	21	68	461	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1833.937	1837.718	speaker#1	female	native	Discovery of this type of inhibitor gene will be of help in finding a method of treating leukemia.	21	68	462	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1837.718	1843.577	speaker#1	female	native	From this year, the Civil Air Administration will begin to make star grade comparisons of the flight safety records of domestic airline companies.	22	69	463	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1843.577	1847.186	speaker#1	female	native	Those flying safely for one million hours in succession can add one star.	22	69	464	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1847.186	1850.296	speaker#1	female	native	The lowest comparison level is one star, and the highest is five stars.	22	69	465	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1850.296	1853.296	speaker#1	female	native	In the first comparison results published on the twelfth,	22	69	466	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1853.296	1859.156	speaker#1	female	native	China Southern was evaluated as three-star, Air China two-star, and China Eastern and Hainan Airlines were each one-star.	22	69	467	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1859.812	1864.203	speaker#1	female	native	Several days ago in Shanxi province, a report of the world's first case of an abnormal chromosome karyotype was discovered.	23	70	469	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1864.203	1868.437	speaker#1	female	native	It may bring to light the pathological cause of translocation of chromosomes 2 and 22.	23	70	470	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1868.437	1872.093	speaker#1	female	native	Experts remind females of child-bearing age, if they have miscarried a number of times,	23	70	471	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1872.093	1876.671	speaker#1	female	native	the husband and wife should both carry out chromosomal examinations to avoid affecting normal fetus development.	23	70	472	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1878.265	1879.872	Ye_yingchun	female	native	Okay, that's it for the news this time.	24	71	474	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1879.872	1883.262	Ye_yingchun	female	native	In a short while, Today's Focus, presented by Wang Shilin. Please stay with us.	24	71	475	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1883.262	1884.945	Ye_yingchun	female	native	Thank you for watching this edition of News China,	24	71	476	report	
+CCTV4_NEWS3_CMN_20070112_075800	0	1884.945	1886.512	Ye_yingchun	female	native	I am Ye Yingchun. Goodbye.	24	71	477	report	

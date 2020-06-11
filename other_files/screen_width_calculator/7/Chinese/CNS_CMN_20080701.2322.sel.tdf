@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.2322	0	600.0	700.0	speaker	unknown	unknown	“经检讨计划后，我们将落实三项放宽措施，包括:：(一)把每月收入上限由5600元提高至6500元；(二)容许在原区就业的合资格人士申领津贴；及(三)将为期6个月的交通津贴期延长至12个月。”	0	0	0		

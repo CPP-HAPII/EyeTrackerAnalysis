@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-17-99436-10729683	0	1000.0	1100.0	speaker	unknown	unknown	天大地大都是朋友请不用客气场上梦游是惯例场下才牛B	0	0	0		
+cmn-WL-17-99436-10729683	0	1300.0	1400.0	speaker	unknown	unknown	PS 女足昨天2：0胜阿根廷，小组第一	0	0	0		
+cmn-WL-17-99436-10729683	0	2000.0	2100.0	speaker	unknown	unknown	吾等闲聊， 谈谈八怪。	0	0	0		
+cmn-WL-17-99436-10729683	0	2200.0	2300.0	speaker	unknown	unknown	虽无成绩， 赚钱最快。	0	0	0		
+cmn-WL-17-99436-10729683	0	3700.0	3800.0	speaker	unknown	unknown	卧薪尝胆， 排除障碍。	0	0	0		
+cmn-WL-17-99436-10729683	0	4100.0	4200.0	speaker	unknown	unknown	A C 米兰， 初来即败。	0	0	0		
+cmn-WL-17-99436-10729683	0	8900.0	9000.0	speaker	unknown	unknown	千年祝愿， 民安国泰。	0	0	0		

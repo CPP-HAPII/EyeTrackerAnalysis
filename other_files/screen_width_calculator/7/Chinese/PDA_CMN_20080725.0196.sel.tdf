@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080725.0196	0	1100.0	1200.0	speaker	unknown	unknown	规定16-18岁的青年、现役的军人和警察有投票权。	0	0	0		

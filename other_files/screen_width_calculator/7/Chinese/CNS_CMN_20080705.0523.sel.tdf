@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080705.0523	0	200.0	300.0	speaker	unknown	unknown	中新社台北七月五日电 (记者 徐长安)中国国民党荣誉主席连战五日在台北会见到访的海峡两岸旅游交流协会会长邵琪伟一行时说，大陆居民赴台旅游和两岸周末包机的实现，不仅为两岸关系和平发展的伟大目标作出了贡献，更为中华民族兴盛发展写下了新的一页。	0	0	0		
+CNS_CMN_20080705.0523	0	1100.0	1200.0	speaker	unknown	unknown	连战最后说，两岸的努力持之以恒，久而久之，一定会茁壮开花结果的。	0	0	0		

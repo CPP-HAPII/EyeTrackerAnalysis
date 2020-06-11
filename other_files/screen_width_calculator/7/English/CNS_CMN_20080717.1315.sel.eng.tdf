@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.1315	0	300.0	400.0	speaker	unknown	unknown	This contest is attention-grabbing because of the participation of three "flying men"--Bolt, Gay and Powell. This will be the last time the three "giants" compete together before the Beijing Olympic Games.	0	0	0		

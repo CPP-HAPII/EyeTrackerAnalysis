@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080707.0038	0	200.0	300.0	speaker	unknown	unknown	西班牙红土巨星纳达尔,今天在堪称史上最伟大战役之一的温布顿网赛男单决赛,历经四小时又四十八分钟史诗般鏖战,以六比四、六比四、六比七(五比七)、六比七(八比十)、九比七终结瑞士球王费德瑞挑战温网六连霸的美梦。	0	0	0		

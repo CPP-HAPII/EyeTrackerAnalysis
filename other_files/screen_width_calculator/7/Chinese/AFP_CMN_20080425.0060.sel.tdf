@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080425.0060	0	0.0	1000.0	speaker	unknown	unknown	一名要求匿名的美国官员告诉记者:「鲁德今天早上跟艾巴拉迪会谈。」	0	0	0		

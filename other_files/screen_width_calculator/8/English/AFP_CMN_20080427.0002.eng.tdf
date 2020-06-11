@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0002.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Important English Oil Pipeline Shuts Down Due to Strike - International Oil Prices Impacted	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	London (AFP), 26th.	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	Today, British Petroleum Company said that due to a strike, an oil pipeline in the North Sea is about to temporarily stop operating. This pipeline supplies 40% of the oil and natural gas to Britain as well as some other countries.	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	international market needs	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	Due to a pension fund controversy, 1200 oil refinery employees have resorted to striking, affecting an oil pipeline near Grangemouth, west of Edinburgh, Scotland and forcing it to shut down.	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	This is the first time in more than 70 years that Britain has had an oil refinery shut down due to a strike.	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	2400.000	2700.000	TEXT1	unknown	unkown	The pipeline cannot operate without the electricity and steam produced by the oil refinery. This refinery has already closed in advance before the start of the strike tomorrow and the day after tomorrow.	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	2900.000	3100.000	TEXT1	unknown	unkown	British Petroleum Company's executives are currently holding a meeting to decide when the oil pipeline will stop operating.	0	0	0		statement
+AFP_CMN_20080427.0002.sgm	0	3300.000	3500.000	TEXT1	unknown	unkown	The company's spokesperson said that the strike will start at six o'clock tomorrow morning. He hoped that the electricity and steam would be able to keep up - the longer the better."	0	0	0		statement

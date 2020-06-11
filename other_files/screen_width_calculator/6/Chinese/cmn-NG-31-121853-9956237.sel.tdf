@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121853-9956237	0	200.0	300.0	speaker	unknown	unknown	都怀疑我是不是老眼昏花了！	0	0	0		

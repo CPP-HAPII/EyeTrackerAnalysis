@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080311.0032.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Palestinians and Israelis Agree to Resume Peace Talks This Week	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-03-11 .	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	TEL AVIV, March 10 (Staff) (Reporter: Chen Keqin) Palestinian officials said in recent days that they would resume peace talks with Israel this week.	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Palestinian President Abbas recently stressed in Ramallah that peace talks are the only way to resolve the Palestinian-Israeli conflict, and that even though violent clashes had recently intensified, the Palestinian side was still urging peace.	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	He said the Palestinian authorities would not bow to the minority parties that were subverting progress toward peace, and it would do it's best to prevent acts of violence and negotiate and conclude a peace agreement with Israel within a year.	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Palestinian officials revealed that negotiations were expected to resume on the 12th.	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	An attack at a Jewish school in Jerusalem by a Palestinian gunman on the evening of the 6th resulted in eight students killed and eleven people injured.	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	For this reason, Israel raised its alert level nationally and closed border crossings from Gaza and the West Bank.	0	0	0		statement
+GMW_CMN_20080311.0032.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	Israeli leaders urged the Palestinians to take further measures to eliminate illegal Palestinian armed forces. They said that Israel differentiated between Palestinian terrorists and the moderate faction of the Palestinian authorities and that they would continue peace talks with the Palestinians.	0	0	0		statement

@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080724.1370	0	500.0	600.0	speaker	unknown	unknown	在股市连续震荡的情况下，高管、股东频频“出手”，甚至主动买套，究竟出于哪种考虑，对上市公司又有何影响？	0	0	0		
+CNS_CMN_20080724.1370	0	1400.0	1500.0	speaker	unknown	unknown	另外，南京医药(600713)6月19日起至6月23日，公司总裁、董事梁玉堂连续3个交易日大量购进公司股票28000股，至此，梁玉堂持有南京医药的股份数为40000股。	0	0	0		
+CNS_CMN_20080724.1370	0	1600.0	1700.0	speaker	unknown	unknown	南京医药一位员工告诉记者，该公司其实不仅仅是高管买了自家股票，很多中层和员工都在高管带动下纷纷增持或购入自家股票，这位员工自己购入的成本在7.4元左右，而按照昨天南京医药收盘价7.75元来看，公司高管增持的股份已经有了一定的盈利。	0	0	0		
+CNS_CMN_20080724.1370	0	4300.0	4400.0	speaker	unknown	unknown	据Wind资讯统计，从6月17日至上周五，十多家有公司高管增持的股票，基本上同步大盘涨跌。	0	0	0		
+CNS_CMN_20080724.1370	0	5400.0	5500.0	speaker	unknown	unknown	华泰证券一位专家告诉记者，公司高管抄底的动机有很多种，但最重要的，恐怕就是股价没有反应公司基本面，股票被严重低估。	0	0	0		

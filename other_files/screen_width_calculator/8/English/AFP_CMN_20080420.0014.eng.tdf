@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0014.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Hillary and Obama Rush for Votes before U.S. Presidential Election Primary in Pennsylvania	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Philadelphia, Pennsylvania (AFP), 19th.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	900.000	1350.000	TEXT1	unknown	unkown	Today, American Democratic Party presidential nominees, Obama and Hillary Clinton, rode planes, trains and automobiles from place to place in Pennsylvania state as part of their last sprint in three days before the key Pennsylvania state primary.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	1350.000	1800.000	TEXT1	unknown	unkown	Hillary's hope to enter the White House is becoming more and more uncertain and a newly published national poll was another blow for her. On the 22nd, before the Pennsylvania primary, the two nominees vigorously held rallies to try and grab more votes.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	At her first event, held in a firehouse in West Chester, outside Philadelphia, Hillary indirectly criticized Obama.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	With a crowd of about 400 people bathing in spring sunshine, Hillary stood in front of the U.S. flag and a fire truck and said: "This is such an important election.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	2600.000	2800.000	TEXT1	unknown	unkown	I didn't wish to just show up to give a speech that other people don't care about to ignite everybody's momentary passion. I want everybody to really think about what it is we have to do."	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3000.000	3150.000	TEXT1	unknown	unkown	Obama's camp attacked Hillary's principal political view - health insurance.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3150.000	3300.000	TEXT1	unknown	unkown	They put out a new advertising campaign saying Hillary's plan would force people to buy insurance, even if it burdens people that cannot afford it.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3500.000	3650.000	TEXT1	unknown	unkown	In York, Hillary struck back saying: "He doesn't go to solve the problem but instead attacks my solution."	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	3650.000	3800.000	TEXT1	unknown	unkown	This is the third stop of her 5 rally activities today.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	4000.000	4200.000	TEXT1	unknown	unkown	Newsweek's newest opinion poll shows that although a busy month has passed, Obama already leads Hillary in the hearts of Democratic Party voters nationwide.	0	0	0		statement
+AFP_CMN_20080420.0014.sgm	0	4200.000	4400.000	TEXT1	unknown	unkown	Of the country's Democratic Party members and those that lean towards the Democratic Party, 54 percent support Obama, leading Hillary's 35 percent by a wide margin.	0	0	0		statement

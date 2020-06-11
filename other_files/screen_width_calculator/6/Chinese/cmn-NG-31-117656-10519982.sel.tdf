@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117656-10519982	0	0.0	100.0	speaker	unknown	unknown	请问：已经安装好了linux,可否再安装虚拟	0	0	0		
+cmn-NG-31-117656-10519982	0	400.0	500.0	speaker	unknown	unknown	虚拟软件是virtual box	0	0	0		
+cmn-NG-31-117656-10519982	0	600.0	700.0	speaker	unknown	unknown	[1;5;31m 想自己所惑， [m [1;5;32m说自己所想。	0	0	0		
+cmn-NG-31-117656-10519982	0	800.0	900.0	speaker	unknown	unknown	[m [1;34m※ 来源:·同舟共济站 bbs.tongji.	0	0	0		

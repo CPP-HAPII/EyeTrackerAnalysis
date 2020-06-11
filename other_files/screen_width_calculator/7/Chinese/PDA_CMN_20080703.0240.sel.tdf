@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080703.0240	0	300.0	400.0	speaker	unknown	unknown	首宗个案涉及25人，年龄介乎16至48岁，他们上月30日在旺角“维景酒店”进食自助晚餐，约2至23小时后，出现肠胃炎包括肚痛、腹泻、呕吐及发烧等病征。	0	0	0		
+PDA_CMN_20080703.0240	0	500.0	600.0	speaker	unknown	unknown	第二宗个案涉及13人，年龄介乎18至53岁，他们于上月29日进食购自中区“和记福食”的豉油鸡、咖喱薯仔牛肉及虾，约5至26小时后，出现肠胃炎包括肚痛、腹泻、呕吐及发烧等病征。	0	0	0		

@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080423.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	英国女王生日典礼 礼炮手疏忽大意摔下马((组图))	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月23日 16:32 来源：国际在线 <span class="style3"><a href='http://comment.chinanews.com.cn/comments/comments.php?newsid((1229629))' target="_blank"><img src="/fileftp/2007/12/2007-12-13/U31P4T47D7993F967DT20071213101145.gif" width="14" height="14" border((0)) /> <span class="style3">发表评论 </span></a></span>	0	0	0		incomplete
+CNS_CMN_20080423.0015.sgm	0	900.000	950.000	TEXT1	unknown	unkown	当地时间4月21日，为庆祝英国女王伊丽莎白二世的生日，英国皇家骑兵在伦敦海德公园举行了鸣炮仪式。	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	现场的英国媒体在拍摄典礼时，无意中抢拍到一名礼炮手在队伍行进时从马上摔落下来的情景。	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	英女王的生日是4月21日，但按照惯例，英国官方的庆典仪式通常选在6月的某个星期六举行，因为这段时间里英国天气状况比较好。	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	而今年的官方庆典已定于6月14日举行。	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	不过通常，在女王生日当天，王室也会举行一些庆祝活动。	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	21日当天，英国皇家骑兵团的成员携礼炮向海德公园进发，一路上不少民众挤在道路两旁观看。	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	忽然一名年轻的女炮手跌身下马，众目睽睽之下，她慌忙环视四周并立即翻身上马，以保证队列安全行进。	0	0	0		statement
+CNS_CMN_20080423.0015.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	英国《每日邮报》的记者眼疾手快，将女炮手摔下马的情景抢拍了下来。((梁陈聪))	0	0	0		statement

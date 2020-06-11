@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117684-10717334	0	0.0	100.0	speaker	unknown	unknown	中国证券报：A股现在是否可以抄底？	0	0	0		
+cmn-NG-31-117684-10717334	0	600.0	700.0	speaker	unknown	unknown	Sent to you by 参考消息 via Google Reader: 中国证券报 A股现在是否可以抄底？	0	0	0		
+cmn-NG-31-117684-10717334	0	700.0	800.0	speaker	unknown	unknown	via 星岛时评 by www.stnn.	0	0	0		
+cmn-NG-31-117684-10717334	0	800.0	900.0	speaker	unknown	unknown	cc on 7/31/08 现在是不是A股抄底的最好时机？	0	0	0		
+cmn-NG-31-117684-10717334	0	2500.0	2600.0	speaker	unknown	unknown	尽管从上半年的对投资和物价过快增长的“双防”，改变为下半年的“一保一控”，已经出现了政策上的微调。	0	0	0		
+cmn-NG-31-117684-10717334	0	3200.0	3300.0	speaker	unknown	unknown	（文/王济洲）Things you can do from here:- Subscribe to 星岛时评 using Google Reader- Get started using Google Reader to easily keep up with all yourfavorite sites	0	0	0		

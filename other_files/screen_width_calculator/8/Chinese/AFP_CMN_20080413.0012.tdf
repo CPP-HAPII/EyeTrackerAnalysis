@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0012.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	反对妖魔化 中国驻英大使吁西方试着了解中国	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社伦敦十二日电	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	中国驻英国大使傅莹今天表示,针对奥运圣火传递的抗议活动,显示中国与西方之间越来越欠缺了解。	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	傅莹投书英国「周日电讯报」,抨击圣火本月在伦敦进行传递活动时,企图夺取火炬的「暴力」英国示威者并指控西方媒体将中国「妖魔化」。	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	她写道:「站在东西方之间,我很担心,中国与西方人民对彼此的观感,朝相反方向快速偏离。」	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	「我不得不这么问,为甚么讲到中国,大家不去质疑那些空泛指控的确切意涵,就轻易地接受;为甚么没有事实支持的故事或数字,能占据新闻版面好几天。」	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	傅莹说,阻挠圣火传递来抗议中国镇压西藏的示威群众,他们都遭到误导。	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	3200.000	3400.000	TEXT1	unknown	unkown	她写道:「那些大声示威的人,很多人可能没到过西藏。	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	3400.000	3600.000	TEXT1	unknown	unkown	对中国人来说,西藏是块受到热爱的土地,能够接收到许多有关西藏的资讯,每年有四百万游客前往西 藏。」	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	她说:「((在西藏))或许有宗教政治的错综复杂问题,但那里的人都吃得饱,穿得暖,住得好。」	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	4200.000	4400.000	TEXT1	unknown	unkown	她说,反圣火示威,已让年轻的中国人「开始重新思考对整体西方的看法」。	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	4600.000	4800.000	TEXT1	unknown	unkown	傅莹说:「许多过去对西方怀有浪漫想法的人,现在对媒体企图妖魔化中国都感到非常失望。」	0	0	0		statement
+AFP_CMN_20080413.0012.sgm	0	5000.000	5200.000	TEXT1	unknown	unkown	她说,各国媒体应该更努力了解中国,并呼吁驻中国的西方记者,展现更多「尊重」。	0	0	0		statement

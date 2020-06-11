@@ -1,0 +1,471 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 158.53700000000001, 1095.693, 1239.5419999999999, 1631.76, 9999999.0]
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	158.537	161.006	Hu_yihu	male	native	This is "Double Happiness," From Phoenix to the World. I am Hu Yihu.	1	1	1	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	161.006	166.522	Hu_yihu	male	native	Last week Taiwan experienced a large natural earthquake, but in the next week it will experience a large political earthquake,	1	1	2	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	166.522	168.871	Hu_yihu	male	native	the epicenter of which will be in the KMT central party.	1	1	3	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	168.871	174.522	Hu_yihu	male	native	Because following Ma Ying-jeou taking up the post of full-time party chairman, this century-old institution will soon carry out a huge reorganization of personnel.	1	1	4	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	174.522	178.725	Hu_yihu	male	native	This reorganization of KMT personnel will not only bear upon whether Ma Ying-jeou can hold onto the precious chairman's seat,	1	1	5	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	178.725	183.240	Hu_yihu	male	native	it will more directly affect whether Ma Ying-jeou can occupy Taiwan's highest position.	1	1	6	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	183.240	188.120	Hu_yihu	male	native	During these personnel changes, the role receiving the most attention is that of the Secretary-General in charge of handling electoral duties;	1	1	7	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	188.120	191.115	Hu_yihu	male	native	the current internally selected candidate is Legislator Wu Den-yi.	1	1	8	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	191.115	195.600	Hu_yihu	male	native	A Ma and Wu combination was widely rumored as the KMT trump card in the 2008 general elections.	1	1	9	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	195.600	201.095	Hu_yihu	male	native	Now having Wu Den-yi with Ma Ying-jeou, this alters the complexion of the KMT frontrunners,	1	1	10	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	201.095	205.569	Hu_yihu	male	native	but can it really put the KMT into the lead in the next two subsequent, and most important, elections?	1	1	11	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	205.569	210.891	Hu_yihu	male	native	How will these so-called warrior instead of gentlemen, not gentlemen but battle fighters, reconstruct the KMT?	1	1	12	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	210.891	215.647	Hu_yihu	male	native	A major drama of reorganizing power distribution will take the stage in the Taiwan political arena.	1	1	13	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	215.647	220.444	Hu_yihu	male	native	This evening, in this week's From Phoenix to the World topical celebrity follow-up, we will go live with legislator Wu Den-yi.	1	1	14	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	220.444	225.100	Hu_yihu	male	native	He will reveal how, in 2007, the Kuomintang that can rule will become a Kuomintang that can elect,	1	1	15	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	225.100	228.975	Hu_yihu	male	native	and whether the KMT will maintain their distance from the CCP in the future year in order to ensure electoral victory.	1	1	16	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	228.975	231.568	Hu_yihu	male	native	And in which areas of cooperation will the two countries continue to follow through?	1	1	17	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	231.568	237.130	Hu_yihu	male	native	Alternately, er, famous Taiwanese critic and department head of the Administrative Management Department of the Culture University, Professor Yao Li-ming, will follow up with analysis.	1	1	18	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	237.130	242.583	Hu_yihu	male	native	How will the KMT carry through their large face-lift and body-shaping project in 2007?	1	1	19	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	243.363	247.552	Hu_yihu	male	native	For Ma Ying-jeou, 2007 is without doubt the beginning of the KMT taking on a new look.	1	1	21	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	247.552	251.380	Hu_yihu	male	native	After taking over the position as full-time KMT chairman, he boldly and resolutely reformed party affairs,	1	1	22	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	251.380	253.474	Hu_yihu	male	native	and rearranged KMT personnel.	1	1	23	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	253.474	256.412	Hu_yihu	male	native	Also in the ranks of the redeployment was Secretary-General Chan Chuen-po who will,	1	1	24	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	256.412	258.725	Hu_yihu	male	native	to our understanding, he will be promoted and take over the position of KMT Vice-Chairman,	1	1	25	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	258.725	261.694	Hu_yihu	male	native	and his position, er, will be taken over by KMT legislator Wu Den-yi.	1	1	26	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	261.694	263.709	Hu_yihu	male	native	Here is Yang Xinyun with a detailed follow-up report.	1	1	27	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	266.115	268.700	Yang_xinyun	female	native	Ma Ying-jeou had only just completed ten days as full-time KMT chairman	1	2	29	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	268.700	271.755	Yang_xinyun	female	native	when he came out with the big move, wanting to give a blood transfusion to the KMT at a high level.	1	2	30	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	271.755	276.709	Yang_xinyun	female	native	The first to feel this was replacing the current Secretary-General Chan Chuen-po with native legislator Wu Den-yi,	1	2	31	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	276.709	280.069	Yang_xinyun	female	native	and Chan Chuen-po is very likely to be transferred to be KMT vice-chairman.	1	2	32	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	280.631	282.709	speaker#1	male	native	Holding on to a prestigious position, holding on to a prestigious position.	1	3	34	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	282.709	285.534	Wu_dunyi	male	native	I would be delighted, if his final decision	1	4	35	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	286.048	287.314	Wu_dunyi	male	native	is to want me to do so.	1	4	37	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	287.893	291.015	Wu_dunyi	male	native	I feel there is no right to choose the battleground.	1	4	39	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	291.628	294.071	Yang_xinyun	female	native	The news was already exposed long ago, and the parties concerned have already committed themselves;	1	5	41	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	294.071	296.522	Yang_xinyun	female	native	only Ma Ying-jeou will try to handle it low-key.	1	5	42	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	296.522	299.319	Ma_yingjiu	male	native	I think it will be better if I wait until ((pw)) everything is decided upon before making an announcement;	1	6	43	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	299.319	304.060	Ma_yingjiu	male	native	otherwise by that time there may be even more, uh, false rumors.	1	6	44	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	304.598	308.617	Yang_xinyun	female	native	What is Ma Ying-jeou's objective for this round of personnel changes has become the focus of conjecture in the outside world.	1	7	46	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	308.617	313.211	Yang_xinyun	female	native	A little earlier, Ma Ying-jeou revealed that if the party Secretary-General can concurrently hold the position of legislator,	1	7	47	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	313.211	316.930	Yang_xinyun	female	native	he can more clearly comprehend the operations of the Legislative Yuan, which is a good thing.	1	7	48	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	317.469	323.461	Yang_xinyun	female	native	Some Taiwanese academics believe Ma Ying-jeou has already thoroughly realized that the only main battleground for the KMT after losing power is the Legislative Yuan.	1	7	50	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	323.461	329.633	Yang_xinyun	female	native	The KMT's performance in the Legislative Yuan will also directly affect success and failure in his contention for the Taiwan leadership in 2008.	1	7	51	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	329.633	334.336	Yang_xinyun	female	native	So, Ma Ying-jeou wants to turn the KMT into a sensible opposition party in these two years	1	7	52	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	334.336	337.874	Yang_xinyun	female	native	and win the approval of voters through this to gain extra points during the election contest.	1	7	53	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	338.633	343.758	Yang_xinyun	female	native	Some analysis believes Ma Ying-jeou's use of legislator Wu Den-yi is to make him counterbalance legislative speaker Wang Jin-pyng,	1	7	55	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	343.758	347.398	Yang_xinyun	female	native	and even contend for the precious top Legislative Yuan position directly as Secretary-General.	1	7	56	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	347.398	350.054	Yang_xinyun	female	native	The high-level KMT staff redeployment has caused a vociferous uproar,	1	7	57	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	350.054	353.210	Yang_xinyun	female	native	but this move by Ma Ying-jeou is merely the first step in a series of internal party reforms.	1	7	58	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	353.210	359.288	Yang_xinyun	female	native	What effect Wu Den-yi will have in the future on Blues and Greens reconciliation, a KMT and PFP merger, cooperation between KMT and CCP, will be seen very soon.	1	7	59	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	360.444	364.851	Hu_yihu	male	native	How the present KMT will change its appearance and more importantly, if, exactly under Wu Den-yi's leadership,	1	8	61	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	364.851	368.726	Hu_yihu	male	native	can both assure the KMT of success in the next two elections?	1	8	62	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	368.726	371.226	Hu_yihu	male	native	Let's immediately ask the man himself, Legislator Wu, hello.	1	8	63	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	372.772	376.865	Wu_dunyi	male	native	Mr. presenter, everybody in the audience, Professor Yao, hello everybody!	1	9	65	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	376.865	377.833	Hu_yihu	male	native	Hi, hello professor Yao.	1	10	66	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	377.833	380.990	Hu_yihu	male	native	However, Legislator Wu, I am curious about something. I don't know if this is the last time I will call you Legislator Wu, ah.	1	10	67	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	380.990	384.706	Hu_yihu	male	native	Whether or not I see you next time, perhaps I should call you KMT Secretary-General. First of all, let me say congratulations.	1	10	68	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	385.396	386.225	Hu_yihu	male	native	Uh, I	1	10	70	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	386.225	386.928	Hu_yihu	male	native	think, er,	1	11	71	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	386.225	386.928	Wu_dunyi	male	native	Thank you!	1	11	72	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	386.928	391.475	Hu_yihu	male	native	I think that with that, of course it is now, is, at present is internally selected, so for the moment I won't call you by the position of Secretary-General.	1	12	73	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	391.475	397.008	Hu_yihu	male	native	Legislator Wu, I think the most important point is, from the clip just now and the spotlight of media attention staying on you these two days,	1	12	74	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	397.008	398.404	Hu_yihu	male	native	you have kept your intentions very quiet.	1	12	75	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	398.404	402.388	Hu_yihu	male	native	However, you have also said that if it really is you, you would not turn it down.	1	12	76	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	402.388	406.857	Hu_yihu	male	native	I would like to ask. When you had a private talk with Ma Ying-jeou this morning, he certainly spoke especially about the reform of party affairs.	1	12	77	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	406.857	409.013	Hu_yihu	male	native	When talking about this area, what were his points of consideration?	1	12	78	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	411.357	414.891	Wu_dunyi	male	native	There has been some talk on this in the last few days,	1	13	80	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	414.891	415.234	Wu_dunyi	male	native	ah.	1	14	81	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	414.891	415.234	Hu_yihu	male	native	Erm.	1	14	82	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	415.787	416.584	Wu_dunyi	male	native	I think,	1	15	84	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	417.193	418.637	Wu_dunyi	male	native	Chairman Ma's most urgent	1	15	86	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	419.153	422.340	Wu_dunyi	male	native	is that following his accession as full-time KMT chairman,	1	15	88	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	423.108	426.422	Wu_dunyi	male	native	because he has wholeheartedly pushed forward party affairs work,	1	15	90	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	426.422	426.811	Hu_yihu	male	native	Yes.	1	16	91	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	426.811	432.373	Wu_dunyi	male	native	so, he cannot allow citizens who support the KMT and party members to be disappointed.	1	17	92	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	432.373	432.795	Hu_yihu	male	native	Yes.	1	18	93	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	432.795	433.873	Wu_dunyi	male	native	In the Legislative Yuan,	1	19	94	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	434.838	437.480	Wu_dunyi	male	native	if we can combine with the PFP's and the NPSU's	1	19	96	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	437.980	438.307	Wu_dunyi	male	native	fellow legislators,	1	19	98	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	438.914	442.004	Wu_dunyi	male	native	then the KMT, uh, coalition will pass half.	1	19	100	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	442.570	445.382	Wu_dunyi	male	native	If we can fulfill a strong and potent supervisory function,	1	19	102	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	445.995	448.543	Wu_dunyi	male	native	good bills and budgets, of benefit to the country	1	19	104	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	449.074	450.589	Wu_dunyi	male	native	and to the livelihood and happiness of citizens,	1	19	106	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	451.146	452.676	Wu_dunyi	male	native	we will definitely strongly support them.	1	19	108	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	452.676	453.066	Hu_yihu	male	native	Uh-huh.	1	20	109	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	453.066	456.808	Wu_dunyi	male	native	But wrong ones, those that violate public interest or are disadvantageous to the general population,	1	21	110	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	457.336	462.052	Wu_dunyi	male	native	in our position as an opposition party, we must increase our efforts to counterbalance and oppose them.	1	21	112	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	462.052	462.411	Hu_yihu	male	native	Uh-huh.	1	22	113	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	462.411	465.817	Wu_dunyi	male	native	Well, only this can show the function of the Legislative Yuan,	1	23	114	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	465.817	467.395	Wu_dunyi	male	native	and that the opposition parties'	1	23	115	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	467.989	469.171	Wu_dunyi	male	native	middle-way principle	1	23	117	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	469.727	471.842	Wu_dunyi	male	native	has, er, the feature that it benefits citizens.	1	23	119	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	471.842	475.467	Wu_dunyi	male	native	I think this item particularly impressed me.	1	23	120	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	475.467	475.899	Hu_yihu	male	native	Uh-huh.	1	24	121	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	475.467	475.899	Wu_dunyi	male	native	Our performance	1	24	122	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	475.899	480.107	Wu_dunyi	male	native	previously in the Legislative Yuan has not been proactive enough, not forceful enough,	1	25	123	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	480.107	483.084	Wu_dunyi	male	native	which, indeed, has caused many citizens who supported us to gradually	1	25	124	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	483.594	485.388	Wu_dunyi	male	native	lose their confidence a little.	1	25	126	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	485.388	485.747	Hu_yihu	male	native	Uh-huh.	1	26	127	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	485.747	489.825	Wu_dunyi	male	native	I think in the Legislative Yuan we should forcefully	1	27	128	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	490.450	491.163	Wu_dunyi	male	native	+revitalize,	1	27	130	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	491.758	494.825	Wu_dunyi	male	native	be a strong supervisory power of the opposition coalition.	1	27	132	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	494.825	496.314	Hu_yihu	male	native	Legislator Wu, um.	1	28	133	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	494.825	496.314	Wu_dunyi	male	native	The second domain of course	1	28	134	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	496.314	497.529	Wu_dunyi	male	native	is party affairs reforms.	1	29	135	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	497.529	498.050	Hu_yihu	male	native	Uh-huh.	1	30	136	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	498.673	499.380	Hu_yihu	male	native	Yes, Legislator Wu,	1	30	138	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	499.380	499.993	Hu_yihu	male	native	just now I didn't	1	31	139	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	499.380	499.993	Wu_dunyi	male	native	Yes.	1	31	140	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	499.993	503.622	Hu_yihu	male	native	calculate incorrectly, I reckoned things up, when you answered me you mentioned the Legislative Yuan six times,	1	32	141	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	503.622	505.903	Hu_yihu	male	native	but parliament in fact is also the Legislative Yuan, adding up it is eight times.	1	32	142	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	505.903	512.185	Hu_yihu	male	native	You particularly emphasized the Legislative Yuan; many outsiders interpret this, saying Ma Ying-jeou actually sees you as a live chess piece placed in the Secretary-General position.	1	32	143	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	512.185	516.221	Hu_yihu	male	native	The most important thing is, in fact, one aspect is to find out Taiwanese public opinion through your actions in the Legislative Yuan,	1	32	144	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	516.221	518.179	Hu_yihu	male	native	and most importantly also to try to hold Wang Jin-pyng at bay.	1	32	145	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	518.179	518.929	Hu_yihu	male	native	How do you respond?	1	32	146	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	520.710	522.382	Wu_dunyi	male	native	I think everybody is a live chess piece.	1	33	148	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	522.382	522.663	Hu_yihu	male	native	Uh-huh.	1	34	149	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	522.663	526.678	Wu_dunyi	male	native	Tiger, you are also a live chess piece, and Professor Yao is too. We are also live chess pieces.	1	35	150	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	526.678	528.569	Wu_dunyi	male	native	Nobody among us is a captured piece.	1	35	151	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	528.569	529.835	Wu_dunyi	male	native	Erm, so everybody is a live chess piece.	1	35	152	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	529.835	530.273	Hu_yihu	male	native	Uh-huh.	1	36	153	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	530.273	535.727	Wu_dunyi	male	native	Second, I think if Chairman Ma Ying-jeou allows me to assume the post of Party Secretary-General with the status of a legislator,	1	37	154	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	536.254	540.301	Wu_dunyi	male	native	if the party standing committee agrees, well I won't be the first;	1	37	156	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	540.872	543.904	Wu_dunyi	male	native	in the past, Mr. Zhang Bao-shu and Mr. Ma Shu-li	1	37	158	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	544.422	547.611	Wu_dunyi	male	native	were both legislators that held the post of Kuomintang Secretary-General.	1	37	160	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	548.194	550.698	Wu_dunyi	male	native	So, I think Chairman Ma's intentions are very clear.	1	37	162	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	550.698	551.370	Wu_dunyi	male	native	He also said previously	1	37	163	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	551.932	555.210	Wu_dunyi	male	native	that he hopes he can get acquainted with the parliament,	1	37	165	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	555.210	556.773	Wu_dunyi	male	native	and also the pulse of the parliament.	1	37	166	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	556.773	562.443	Wu_dunyi	male	native	+It is an important platform for collecting public opinion on the most important current	1	37	167	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	563.217	564.429	Wu_dunyi	male	native	questions of KMT political affairs.	1	37	169	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	564.429	564.934	Hu_yihu	male	native	Uh-huh.	1	38	170	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	564.934	567.412	Wu_dunyi	male	native	Well, I think that in my position as a legislator	1	39	171	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	567.922	569.203	Wu_dunyi	male	native	I am by my very nature serving the people.	1	39	173	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	569.742	571.095	Wu_dunyi	male	native	If I go to the Kuomintang,	1	39	175	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	571.642	573.210	Wu_dunyi	male	native	the dominant party in this parliament,	1	39	177	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	573.210	574.305	Wu_dunyi	male	native	and also Taiwan's	1	39	178	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	574.820	576.992	Wu_dunyi	male	native	dominant party in every county, city and region,	1	39	180	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	577.559	581.836	Wu_dunyi	male	native	then I can very quickly collect public opinion inside the parliament.	1	39	182	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	581.836	584.696	Wu_dunyi	male	native	Well, making the central party quickly craft a correct policy with	1	39	183	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	585.227	586.360	Wu_dunyi	male	native	party opinion in full compliance with	1	39	185	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	586.360	586.751	Hu_yihu	male	native	Uh-huh.	1	40	186	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	586.751	587.813	Wu_dunyi	male	native	public opinion,	1	41	187	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	587.813	590.585	Wu_dunyi	male	native	that is in simpatico with our citizens,	1	41	188	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	590.585	595.698	Wu_dunyi	male	native	I think that irrespectively, for the general population, for the party and more so for Taiwan, it is an extremely good	1	41	189	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	595.698	598.229	Wu_dunyi	male	native	thing. So, I, erm, that's all I have to say.	1	42	190	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	595.698	598.229	Hu_yihu	male	native	Okay, well then, I will ask the other live chess piece by your side,	1	42	191	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	598.229	599.982	Hu_yihu	male	native	the other live chess piece you mentioned: Professor Yao.	1	43	192	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	599.982	605.776	Hu_yihu	male	native	Professor Yao, at this moment we all feel many media define Chairman Ma as a gentle, honest, modest, thrifty and humbly yielding person.	1	43	193	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	605.776	610.588	Hu_yihu	male	native	Well, everybody says, looking overall at the Kuomintang, there are a good many gentle, honest, modest, thrifty and humbly yielding people, but few particularly battle-hardy fighters.	1	43	194	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	610.588	615.056	Hu_yihu	male	native	However, the live chess piece we see by your side, er, he has the reputation as a fighter who dares speak the truth.	1	43	195	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	615.056	617.775	Hu_yihu	male	native	Why do you think Ma Ying-jeou has chosen such an image at this time?	1	43	196	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	619.416	622.981	Yao_liming	male	native	The Kuomintang currently has two major problems and two major tasks.	1	44	198	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	623.603	627.481	Yao_liming	male	native	Erm, the first problem is coordination between party and administration,	1	44	200	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	627.481	631.639	Yao_liming	male	native	that is, in the past the ability for the party to lead	1	44	201	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	631.639	632.431	Yao_liming	male	native	the government.	1	45	202	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	631.639	632.431	Hu_yihu	male	native	Uh-huh.	1	45	203	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	632.431	635.683	Yao_liming	male	native	After Ma Ying-jeou took the position of full-time chairman,	1	46	204	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	635.683	641.449	Yao_liming	male	native	how he, erm, can in the Legislative Yuan party organization, can implement the will of the entire party,	1	46	205	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	641.449	647.542	Yao_liming	male	native	or how can the opinion of the Legislative Yuan's party organization be fully discussed and respected by the party,	1	46	206	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	647.542	648.559	Yao_liming	male	native	this is very important.	1	46	207	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	648.559	654.729	Yao_liming	male	native	And, erm, a Secretary-General and part-time legislator is of more benefit for coordination between party and administration like this.	1	46	208	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	655.229	660.664	Yao_liming	male	native	The second difficulty is, is of course, er, the Blue Army, er, that is, the party efficiency problem.	1	46	210	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	660.664	668.790	Yao_liming	male	native	Inside the party, er, the, the decision on whether from human resources, party assets or, all policies,	1	46	211	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	668.790	671.474	Yao_liming	male	native	its efficiency problem is no other than the party machine	1	46	212	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	671.993	676.384	Yao_liming	male	native	and whether or not it can exert its strength during all local elections.	1	46	214	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	676.384	684.025	Yao_liming	male	native	This, this problem must be, uh, immediately improved within a short time because two major tasks are coming up.	1	46	215	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	684.025	687.431	Yao_liming	male	native	These two major tasks, one is the 2007 legislative elections,	1	46	216	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	687.431	691.931	Yao_liming	male	native	and one is the 2008 presidential elections, and it is even possible these two will be jointly held.	1	46	217	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	691.931	696.048	Yao_liming	male	native	This one major, two major tasks, its time is actually extremely short.	1	46	218	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	696.048	696.312	Hu_yihu	male	native	Uh-huh.	1	47	219	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	696.312	701.024	Yao_liming	male	native	So, consequently on the one hand, they revise the party, and on the other hand, they still need to face these kinds of tasks,	1	48	220	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	701.024	703.837	Yao_liming	male	native	and also, to resolve this coordination between party and administration,	1	48	221	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	703.837	706.356	Yao_liming	male	native	er, this is extremely, extremely difficult work.	1	48	222	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	706.356	712.059	Yao_liming	male	native	I think, uh, if Wu Den-yi takes over as Secretary-General, he will, he will be within a very short time, he will face challenges.	1	48	223	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	712.059	713.496	Hu_yihu	male	native	Okay, let's return to legislator Wu.	1	49	224	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	713.496	716.191	Hu_yihu	male	native	Two main challenges, one is party affairs, one is election affairs.	1	49	225	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	716.191	717.615	Hu_yihu	male	native	Let's first talk about party affairs, okay.	1	49	226	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	717.615	723.245	Hu_yihu	male	native	Frankly speaking, the good and bad of party affairs work itself is, to talk from a different perspective, it is a reallocation of authority.	1	49	227	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	723.245	727.394	Hu_yihu	male	native	How it will be allocated will affect the party internally, whether it will split again or unite.	1	49	228	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	727.394	728.839	Hu_yihu	male	native	To return to the Kuomintang's own self, itself,	1	49	229	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	728.839	732.104	Hu_yihu	male	native	some people feel, say Chan Chuen-po, he may possibly be the next KMT vice-chairman.	1	49	230	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	732.104	736.660	Hu_yihu	male	native	Also, the number of people currently in the KMT central party committee, in an age emphasizing weight-loss,	1	49	231	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	736.660	738.526	Hu_yihu	male	native	don't you feel there are too many people in the central party committee?	1	49	232	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	740.480	741.777	Wu_dunyi	male	native	This is, different people have different views.	1	50	234	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	741.777	742.215	Hu_yihu	male	native	Yes.	1	51	235	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	742.215	745.215	Wu_dunyi	male	native	If the central standing committee maintains the current thirty-one,	1	52	236	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	745.215	745.746	Hu_yihu	male	native	Uh-huh.	1	53	237	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	745.746	747.528	Wu_dunyi	male	native	all parties feel it is fairly reasonable,	1	54	238	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	747.528	750.403	Wu_dunyi	male	native	because it can in fact draw on all useful opinions	1	54	239	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	750.403	755.247	Wu_dunyi	male	native	and meanwhile it cannot be said there are so many people that everybody's opinions vary,	1	54	240	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	755.247	758.137	Wu_dunyi	male	native	or that it is enormous to such an extent that it is unable to decide what is right.	1	54	241	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	758.656	765.091	Wu_dunyi	male	native	I believe the size of the central party committee is not a problem; the problem is the entire internal party needs to unite, needs a common objective.	1	54	243	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	765.091	769.354	Wu_dunyi	male	native	I previously gave chairman Lien Chen, I also mentioned it when he was chairman.	1	54	244	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	769.891	773.391	Wu_dunyi	male	native	Er, not long ago I also put forward my opinion to chairman Ma.	1	54	246	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	773.950	775.055	Wu_dunyi	male	native	The party's current tasks	1	54	248	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	775.555	777.529	Wu_dunyi	male	native	primarily are five,	1	54	250	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	777.529	778.560	Wu_dunyi	male	native	to put it very briefly.	1	54	251	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	778.560	780.627	Wu_dunyi	male	native	The first was to slim down;	1	54	252	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	781.236	782.664	Wu_dunyi	male	native	by that I mean to get fit.	1	54	254	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	782.664	783.145	Hu_yihu	male	native	Um.	1	55	255	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	782.664	783.145	Wu_dunyi	male	native	Make,	1	55	256	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	783.145	784.989	Wu_dunyi	male	native	the party organization need not be so huge,	1	56	257	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	785.541	786.967	Wu_dunyi	male	native	there need not be so many people	1	56	259	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	786.967	788.789	Wu_dunyi	male	native	because actually the party is not capable	1	56	260	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	789.298	791.571	Wu_dunyi	male	native	of maintaining such a huge organization and manpower.	1	56	262	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	791.571	791.920	Hu_yihu	male	native	Uh-huh.	1	57	263	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	791.571	791.920	Wu_dunyi	male	native	So,	1	57	264	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	791.920	794.498	Wu_dunyi	male	native	slimming and fitness work must be done.	1	58	265	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	794.498	800.772	Wu_dunyi	male	native	Second, is to put KMT party assets in order, legally, reasonably and in line with the public interest of the society;	1	58	266	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	801.282	805.670	Wu_dunyi	male	native	do not allow the party assets to become a burden for Ma Ying-jeou, the Chinese Kuomintang,	1	58	268	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	805.670	808.826	Wu_dunyi	male	native	and for all future party candidates.	1	58	269	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	808.826	811.061	Wu_dunyi	male	native	I think this item is extremely important.	1	58	270	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	811.061	812.968	Wu_dunyi	male	native	Third is control.	1	58	271	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	813.510	814.679	Wu_dunyi	male	native	In the Legislative Yuan	1	58	273	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	815.275	816.671	Wu_dunyi	male	native	do not oppose absolutely everything,	1	58	275	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	816.671	817.698	Wu_dunyi	male	native	but also do not	1	58	276	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	818.301	820.311	Wu_dunyi	male	native	support and espouse everything.	1	58	278	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	820.311	824.873	Wu_dunyi	male	native	I think we should take things as they come, effectively counterbalance, and supervise strongly.	1	58	279	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	824.873	827.945	Wu_dunyi	male	native	Support those that are right and oppose those that are wrong; this is control.	1	58	280	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	828.455	829.658	Wu_dunyi	male	native	Fourth is seeking talent.	1	58	282	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	830.209	831.846	Wu_dunyi	male	native	You cannot wait for talent to come knocking on the door;	1	58	284	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	832.355	834.730	Wu_dunyi	male	native	there are a lot of that kind of people thirty or forty years ago,	1	58	286	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	835.370	838.593	Wu_dunyi	male	native	running back and forth between ministers' front and back doors,	1	58	288	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	838.593	839.078	Wu_dunyi	male	native	things like that.	1	59	289	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	838.593	839.078	Hu_yihu	male	native	Uh-huh.	1	59	290	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	839.078	840.232	Wu_dunyi	male	native	It won't happen again,	1	60	291	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	840.232	841.373	Wu_dunyi	male	native	the party must look for talent.	1	60	292	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	841.373	849.239	Wu_dunyi	male	native	In the villages, in factories, in schools, we must look for talent in many, all sorts of places containing talent.	1	60	293	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	849.748	850.154	Wu_dunyi	male	native	Finally,	1	60	295	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	850.682	854.451	Wu_dunyi	male	native	is that every action of the party should be in simpatico with the people.	1	60	297	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	854.451	854.763	Hu_yihu	male	native	Uh-huh.	1	61	298	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	854.763	855.841	Wu_dunyi	male	native	Worry about the hardships people endure,	1	62	299	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	856.568	857.380	Wu_dunyi	male	native	rejoice in the happiness people enjoy,	1	62	301	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	857.927	861.046	Wu_dunyi	male	native	take the people's most pressing concerns, then uphold the good and eliminate the bad.	1	62	303	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	861.046	865.546	Wu_dunyi	male	native	This is the only way to win the people's hearts and also win the opportunity to get back in power.	1	62	304	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	865.546	868.546	Hu_yihu	male	native	Good. I will summarize the, let's call them Wu's five points, okay, that you, Secretary-General Wu, just now stated.	1	63	305	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	868.546	871.687	Hu_yihu	male	native	The fifth point can be actually summarized by one sentence: you emphasized unity.	1	63	306	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	871.687	874.986	Hu_yihu	male	native	However, the fourth point affected me particularly deeply; you said you must actively seek talent,	1	63	307	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	874.986	877.673	Hu_yihu	male	native	but part of looking for talent itself is one also must keep talent.	1	63	308	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	877.673	879.564	Hu_yihu	male	native	I particularly mention that the meaning of this sentence is used to say,	1	63	309	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	879.564	882.580	Hu_yihu	male	native	now since the Kuomintang is in the situation it must emphasize unity	1	63	310	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	882.580	884.580	Hu_yihu	male	native	and avoid splits within the party.	1	63	311	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	884.580	888.798	Hu_yihu	male	native	Well, after you have taken over the position of Secretary-General, will you take the initiative to go and ask Wang Jin-pyng for his opinion,	1	63	312	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	888.798	893.548	Hu_yihu	male	native	or take the initiative to get in touch with predecessors from friendly parties, such as Soong Chu-yu?	1	63	313	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	895.501	897.220	Wu_dunyi	male	native	The dean is an old friend of mine.	1	64	315	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	897.220	897.579	Hu_yihu	male	native	Uh-huh.	1	65	316	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	897.579	901.626	Wu_dunyi	male	native	A few days ago he, er, told me, saying, am I willing to take over as Secretary-General?	1	66	317	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	901.626	905.204	Wu_dunyi	male	native	I said, if it's decided, I will come and see you.	1	66	318	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	905.204	905.731	Wu_dunyi	male	native	I will	1	67	319	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	905.204	905.731	Hu_yihu	male	native	Uh-huh.	1	67	320	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	905.731	906.250	Wu_dunyi	male	native	consult with you.	1	68	321	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	906.250	907.750	Wu_dunyi	male	native	I think this is without question, ah.	1	68	322	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	907.750	908.109	Hu_yihu	male	native	Uh-huh.	1	69	323	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	908.109	913.375	Wu_dunyi	male	native	Speaking of Chairman Soong, he is also an old friend, but he is chairman of the PFP, a friendly party.	1	70	324	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	913.375	916.141	Wu_dunyi	male	native	In this way, if I hold the post of KMT Secretary-General,	1	70	325	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	916.141	921.078	Wu_dunyi	male	native	I will accept Ma Ying-jeou's order and get in touch with the PFP.	1	70	326	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	921.078	927.500	Wu_dunyi	male	native	I hope for closer cooperation between our KMT and PFP among the two chairmen, Ma and Soong,	1	70	327	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	927.500	933.219	Wu_dunyi	male	native	and even so far as carrying through a joyful merger, if the two sides get along amicably in the future,	1	70	328	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	933.219	933.676	Hu_yihu	male	native	Uh-huh.	1	71	329	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	933.219	933.676	Wu_dunyi	male	native	should be	1	71	330	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	933.676	934.704	Wu_dunyi	male	native	something everybody hopes for.	1	72	331	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	934.704	936.720	Wu_dunyi	male	native	I will try my very hardest to do it.	1	72	332	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	936.720	937.142	Hu_yihu	male	native	Yes.	1	73	333	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	937.142	941.283	Hu_yihu	male	native	Good, to return to Professor Yao, just now, when listening to Wu's five points, Professor Yao was laughing there to himself,	1	73	334	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	941.283	943.205	Hu_yihu	male	native	I could see from his mouth he was quite highly amused.	1	73	335	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	943.205	947.393	Hu_yihu	male	native	However, I was thinking, today, uh, Legislator Wu, ah, he must prepare to take over this senior position,	1	73	336	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	947.393	950.958	Hu_yihu	male	native	well then, everybody will, many asked, this KMT legislator, say how you see this event.	1	73	337	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	950.958	955.930	Hu_yihu	male	native	They all say that being courageous enough to take up this post in the KMT is not an easy matter.	1	73	338	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	955.930	959.188	Hu_yihu	male	native	Some people describe it by saying another person must jump into the fire, in this situation	1	73	339	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	959.188	960.485	Hu_yihu	male	native	I was thinking one thing.	1	73	340	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	960.485	963.047	Hu_yihu	male	native	After Legislator Wu Den-yi becomes Secretary-General Wu,	1	73	341	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	963.047	965.157	Hu_yihu	male	native	how long will his smile last?	1	73	342	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	965.157	971.407	Hu_yihu	male	native	To get back to the question I wanted to ask, after all, the internal party changes, like those he just talked about, including KMT and PFP cooperation and also including allocation of internal party authority.	1	73	343	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	971.407	973.332	Hu_yihu	male	native	What is the largest problem he must challenge, and must solve?	1	73	344	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	973.332	975.220	Hu_yihu	male	native	What are the difficulties that lie ahead? Professor Yao.	1	73	345	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	977.351	982.316	Yao_liming	male	native	I think, er, of course being able to take up, capable of the courage to take over this position is an issue, ha,	1	74	347	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	982.316	985.551	Yao_liming	male	native	but you should know, facing so many problems,	1	74	348	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	985.551	992.270	Yao_liming	male	native	uh, uh, objectively one can take it up, but in fact people taking up this position are very restricted, ah.	1	74	349	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	992.789	996.074	Yao_liming	male	native	Well I, I won't speak too far, I will just speak about your questions just now,	1	74	351	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	996.574	999.454	Yao_liming	male	native	that is, uh, Ma, Wang, Lien and Soong.	1	74	353	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	999.454	1000.060	Hu_yihu	male	native	Um.	1	75	354	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1000.060	1005.656	Yao_liming	male	native	Currently I, uh, first I won't talk in detail, just in relation to the person whom four people can all trust at the same time.	1	76	355	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1005.656	1009.694	Yao_liming	male	native	If you, uh, go and look for in the Legislative Yuan or look for throughout the country,	1	76	356	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1009.694	1011.594	Yao_liming	male	native	they can actually be counted on the fingers of one hand, ah.	1	76	357	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1011.594	1016.227	Yao_liming	male	native	Well, uh, if you like, look at Blue Army integration, what an extremely important matter this is.	1	76	358	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1016.755	1023.688	Yao_liming	male	native	Well, uh, if this can, indeed, first can win the trust of these four people, that of course is a basic condition.	1	76	360	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1023.688	1025.220	Yao_liming	male	native	So, let alone	1	76	361	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1025.735	1027.610	Yao_liming	male	native	there can also be exposition of his own.	1	76	363	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1028.251	1031.692	Yao_liming	male	native	As for expertise, whether legally or on budgets, he is a person with this kind of ability.	1	76	365	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1032.313	1035.695	Yao_liming	male	native	Well, uh, so I basically of course know him.	1	76	367	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1035.695	1036.101	Yao_liming	male	native	Uh.	1	77	368	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1035.695	1036.101	Hu_yihu	male	native	Uh-huh.	1	77	369	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1036.101	1040.656	Yao_liming	male	native	If Legislator Wu Den-yi takes on this work, he will stand up against challenges ones after another.	1	78	370	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1040.656	1043.154	Yao_liming	male	native	I believe that can be seen from looking at the recent legal cases.	1	78	371	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1043.154	1045.498	Yao_liming	male	native	From monitoring committee members, from the arms budget,	1	78	372	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1045.498	1047.345	Yao_liming	male	native	ah, in principle the military budget is basically decided.	1	78	373	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1047.345	1050.154	Yao_liming	male	native	Well, from this, ((pw)), ((pw)), attorney general,	1	78	374	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1050.154	1052.717	Yao_liming	male	native	from uh, several very important legal cases,	1	78	375	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1052.717	1058.280	Yao_liming	male	native	I believe he will soon have, wanted, wanted some attitude, from KMT people, one group after another.	1	78	376	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1058.280	1062.833	Yao_liming	male	native	Included in exposition on the central, core ideas for future KMT elections,	1	78	377	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1062.833	1066.796	Yao_liming	male	native	he can principally do this work, realize this work.	1	78	378	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1066.796	1067.644	Yao_liming	male	native	Actually,	1	78	379	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1068.163	1070.671	Yao_liming	male	native	uh, in the party there are many locally influential people,	1	78	381	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1070.671	1074.155	Yao_liming	male	native	but really few can link together both those above and below.	1	78	382	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1074.155	1079.899	Yao_liming	male	native	I think this isn't, is not just because he dares to do this thing, he is confident, uh, to himself.	1	78	383	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1079.899	1081.871	Yao_liming	male	native	But, uh, people who can be chosen	1	78	384	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1081.871	1082.649	Yao_liming	male	native	are very few in number, indeed.	1	79	385	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1081.871	1082.649	Hu_yihu	male	native	Okay.	1	79	386	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1082.649	1083.118	Hu_yihu	male	native	Erm.	1	80	387	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1083.118	1087.664	Hu_yihu	male	native	Okay, next what we will be concerned about is that after Legislator Wu takes up the position of KMT Secretary-General,	1	80	388	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1087.664	1090.851	Hu_yihu	male	native	what actually will the distance between the KMT and the DPP,	1	80	389	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1090.851	1094.278	Hu_yihu	male	native	and the distance between the KMT and the Communist Party, be delimited as in the future?	1	80	390	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1094.278	1095.693	Hu_yihu	male	native	Please return to our scene after the short break.	1	80	391	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1239.542	1241.255	Hu_yihu	male	native	Welcome back to the "Double Happiness," From Phoenix to the World studio.	3	82	393	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1241.255	1244.529	Hu_yihu	male	native	In our studio, the guests we have invited, uh, are about to take over the KMT;	3	82	394	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1244.529	1246.689	Hu_yihu	male	native	the person internally elected to take over as KMT Secretary-General, Legislator Wu Den-yi,	3	82	395	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1246.689	1249.066	Hu_yihu	male	native	and in the Taiwan studio is Professor Yao Li-ming.	3	82	396	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1249.066	1250.783	Hu_yihu	male	native	I would like to continue by asking Legislator Wu.	3	82	397	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1250.783	1254.236	Hu_yihu	male	native	In the last KMT central standing committee, Chairman Ma Ying-jeou said this sentence,	3	82	398	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1254.236	1256.497	Hu_yihu	male	native	said, no matter how large the gap between the KMT and DPP,	3	82	399	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1256.497	1259.685	Hu_yihu	male	native	it is not bigger than the gap between the KMT and the Communist Party.	3	82	400	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1259.685	1261.966	Hu_yihu	male	native	How do you interpret the real meaning of this sentence?	3	82	401	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1264.013	1268.669	Wu_dunyi	male	native	In what Chairman Ma said in the central standing committee proceedings on December, 27,	3	83	403	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1268.669	1269.076	Hu_yihu	male	native	Um.	3	84	404	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1269.076	1269.951	Wu_dunyi	male	native	he is being	3	85	405	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1270.499	1273.301	Wu_dunyi	male	native	ironic toward the DPP officeholders,	3	85	407	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1273.847	1275.800	Wu_dunyi	male	native	and has a kind of central advisory, er, flavor.	3	85	409	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1276.301	1278.289	Wu_dunyi	male	native	Please pay attention to the first line in his manuscript:	3	85	411	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1278.921	1281.374	Wu_dunyi	male	native	after we get back in power,	3	85	413	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1281.936	1284.389	Wu_dunyi	male	native	we will respect and be courteous to opposition parties.	3	85	415	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1285.067	1285.642	Wu_dunyi	male	native	After all,	3	85	417	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1286.364	1286.972	Wu_dunyi	male	native	no matter	3	85	419	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1287.505	1293.066	Wu_dunyi	male	native	how big the gap between the KMT and the DPP, it cannot be as big as the gap between the KMT and	3	85	421	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1293.066	1293.670	Wu_dunyi	male	native	the Communist Party.	3	86	422	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1293.066	1293.670	Hu_yihu	male	native	Uh-huh.	3	86	423	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1293.670	1295.092	Wu_dunyi	male	native	I think his meaning is,	3	87	424	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1295.092	1300.357	Wu_dunyi	male	native	just as Taiwan, this island, is shared by 23 million compatriots living together,	3	87	425	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1300.357	1301.614	Wu_dunyi	male	native	in the same boat sharing the same fate	3	87	426	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1302.201	1303.373	Wu_dunyi	male	native	and sharing the same glory and disgrace.	3	87	428	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1303.897	1308.544	Wu_dunyi	male	native	At this time, the government and the public should be in accord, on the one hand, to protect our country's security,	3	87	430	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1308.544	1310.622	Wu_dunyi	male	native	and on the other hand to create good fortune and benefit for our citizens.	3	87	431	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1311.170	1316.044	Wu_dunyi	male	native	We must not use restrictive state policy to do harm to Taiwan, must not tread opposition parties underfoot,	3	87	433	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1316.044	1318.638	Wu_dunyi	male	native	must not insult the media, and must not pressurize the media.	3	87	434	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1318.638	1320.951	Wu_dunyi	male	native	This is Chairman Ma, on the future,	3	87	435	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1320.951	1325.170	Wu_dunyi	male	native	if the KMT once again wins back power. In addition to the various reforms,	3	87	436	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1325.170	1326.155	Wu_dunyi	male	native	he especially focused on the idea	3	87	437	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1326.765	1327.546	Wu_dunyi	male	native	that the "ins"	3	87	439	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1328.452	1330.042	Wu_dunyi	male	native	should treat the "outs" with respect,	3	87	441	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1330.042	1330.504	Hu_yihu	male	native	Uh-huh.	3	88	442	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1330.504	1331.966	Wu_dunyi	male	native	respect opposition parties	3	89	443	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1331.966	1334.579	Wu_dunyi	male	native	while respecting the freedom of the news media.	3	89	444	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1334.579	1334.815	Hu_yihu	male	native	Uh-huh.	3	90	445	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1334.815	1338.937	Wu_dunyi	male	native	He is using this ironically to say the DPP is currently trampling on the media,	3	91	446	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1338.937	1341.592	Wu_dunyi	male	native	and is hostile to and besmirching opposition parties.	3	91	447	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1341.592	1343.527	Wu_dunyi	male	native	I think his meaning is very profound.	3	91	448	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1343.527	1345.565	Hu_yihu	male	native	Well, let's look at the last two years: up until now KMT and CCP cooperation	3	92	449	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1345.565	1349.174	Hu_yihu	male	native	has, from certain perspectives, undoubtedly promoted close cooperation across the strait.	3	92	450	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1349.174	1352.939	Hu_yihu	male	native	Well, in your eyes, when taking over the position of KMT Secretary-General in the future,	3	92	451	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1352.939	1356.095	Hu_yihu	male	native	what kind of relationship will there be between the KMT and CCP in 2007?	3	92	452	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1356.095	1357.439	Hu_yihu	male	native	What kind of metaphor would you use to describe it?	3	92	453	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1357.439	1360.080	Hu_yihu	male	native	Also, which areas will have pronounced developments?	3	92	454	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1362.299	1363.174	Wu_dunyi	male	native	I think	3	93	456	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1364.034	1368.933	Wu_dunyi	male	native	since Chairman Lien and Chairman Soong successively visited the Mainland,	3	93	458	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1368.933	1370.831	Wu_dunyi	male	native	this has obtained a certain achievement.	3	93	459	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1370.831	1376.206	Wu_dunyi	male	native	It at least eased the standoff and hair trigger situation across the strait at the time,	3	93	460	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1376.206	1377.331	Wu_dunyi	male	native	and meanwhile achieved	3	93	461	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1377.850	1380.331	Wu_dunyi	male	native	a positive response from Mainland authorities,	3	93	463	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1380.331	1385.393	Wu_dunyi	male	native	including on opening tourism, direct flights, regular air services across the strait,	3	93	464	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1385.393	1390.081	Wu_dunyi	male	native	and green channels of fast customs passage for specialist farm produce for sale on the Mainland.	3	93	465	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1390.081	1394.690	Wu_dunyi	male	native	And including, in President Hu Jintao's subsequent speeches,	3	93	466	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1395.254	1399.926	Wu_dunyi	male	native	on the cross-strait issue, he is oriented toward opposing independence and not promoting unification.	3	93	468	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1400.506	1401.834	Wu_dunyi	male	native	At the same time, he has no timetable,	3	93	470	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1402.413	1405.988	Wu_dunyi	male	native	and the tone he used was also much more relaxed than before.	3	93	472	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1405.988	1409.473	Wu_dunyi	male	native	He even brought up such words as equality.	3	93	473	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1409.473	1416.214	Wu_dunyi	male	native	I think that the cross-strait situation on the KMT-CCP discussion platform, built by Chairman Lien,	3	93	474	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1416.214	1417.950	Wu_dunyi	male	native	is an excellent bridge for communication.	3	93	475	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1417.950	1421.473	Wu_dunyi	male	native	I think in the future, cross-strait relations will be built on two largest foundations.	3	93	476	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1421.473	1424.457	Wu_dunyi	male	native	First, maintaining stable and peaceful relations.	3	93	477	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1424.973	1425.363	Wu_dunyi	male	native	Second,	3	93	479	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1425.909	1431.282	Wu_dunyi	male	native	first put aside the disputed issue of cross-strait national sovereignty,	3	93	481	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1431.841	1433.528	Wu_dunyi	male	native	set ideological disputes aside,	3	93	483	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1434.040	1436.662	Wu_dunyi	male	native	and concentrate on people's livelihood and their happiness and their interests.	3	93	485	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1436.662	1442.177	Wu_dunyi	male	native	After we have enhanced economy, trade, tourism, sports, culture and all kinds of dealings,	3	93	486	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1442.177	1446.724	Wu_dunyi	male	native	reduced alienating misunderstandings and built-up emotions, is it possible to still start fighting,	3	93	487	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1446.724	1447.818	Wu_dunyi	male	native	or start a war?	3	93	488	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1447.818	1448.083	Hu_yihu	male	native	Uh-huh.	3	94	489	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1448.083	1450.833	Wu_dunyi	male	native	I believe these are two very important criteria.	3	95	490	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1450.833	1454.130	Wu_dunyi	male	native	If one side does not take military action and the other side does not chase independence,	3	95	491	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1454.130	1457.959	Wu_dunyi	male	native	then gradually sign agricultural, industrial and trade agreements,	3	95	492	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1457.959	1461.224	Wu_dunyi	male	native	reduce each other's import duties, enhance communications with each other,	3	95	493	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1461.224	1464.646	Wu_dunyi	male	native	create a peaceful and stable space across the strait,	3	95	494	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1464.646	1467.646	Wu_dunyi	male	native	and enrich the people on both sides, this is our greatest objective.	3	95	495	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1467.646	1471.516	Hu_yihu	male	native	Good, so, Professor Yao, do you think that in 2007 the KMT, he must transform their image,	3	96	496	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1471.516	1474.396	Hu_yihu	male	native	while he also wants to attract the support of nativist voters;	3	96	497	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1474.396	1478.771	Hu_yihu	male	native	and meanwhile, in the, uh, situation where they must maintain the overall Pan-blue's key ideal of maintaining cross-strait relations,	3	96	498	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1478.771	1484.475	Hu_yihu	male	native	how can he obtain a balance point in the distance between the Communist Party and in Taiwan the distance with the DPP?	3	96	499	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1486.334	1490.206	Yao_liming	male	native	I think, uh, he has no way to go and win over the deep-Green,	3	97	501	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1490.206	1490.414	Yao_liming	male	native	uh.	3	98	502	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1490.206	1490.414	Hu_yihu	male	native	Uh-huh.	3	98	503	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1490.414	1493.323	Yao_liming	male	native	I think if this voting block is looked at separately, those in the middle and light-Green.	3	99	504	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1493.323	1498.132	Yao_liming	male	native	Actually, Ma Ying-jeou's extremely important point is that he cannot lose his left and right,	3	99	505	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1498.657	1500.729	Yao_liming	male	native	front and back.	3	99	507	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1500.729	1503.635	Yao_liming	male	native	Well, if he is able to achieve success one way or another, he may be able to obtain this result.	3	99	508	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1503.635	1507.416	Yao_liming	male	native	Well, of course my meaning is not saying he continues moving toward the angle of the deep-Blue.	3	99	509	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1507.933	1515.059	Yao_liming	male	native	Actually, when he spoke of the distance between the CCP and KMT compared with the gap with the so-called blues and greens,	3	99	511	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1515.059	1518.042	Yao_liming	male	native	he was in fact speaking to the Taiwan electorate.	3	99	512	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1518.042	1519.948	Yao_liming	male	native	Actually, it is a very, very good sentence.	3	99	513	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1520.448	1525.870	Yao_liming	male	native	What a pity this sentence was, by a minority of people, misunderstood or quoted out of context to become that	3	99	515	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1525.870	1528.667	Yao_liming	male	native	he is taking Lien and Soong's, this,	3	99	516	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1528.667	1528.964	Hu_yihu	male	native	Um.	3	100	517	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1528.964	1529.524	Yao_liming	male	native	uh, this	3	101	518	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1529.524	1529.993	Yao_liming	male	native	((pw))	3	102	519	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1529.524	1529.993	Hu_yihu	male	native	Uh-huh.	3	102	520	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1529.993	1533.571	Yao_liming	male	native	((pw)), work and making, making light or trying to cut it off.	3	103	521	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1533.571	1537.711	Yao_liming	male	native	In the end, the latter sentence, originally meant to supplement the previous sentence.	3	103	522	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1537.711	1542.484	Yao_liming	male	native	Later on, a sentence he said the next day, saying we must build a bridge between the Greens and Reds;	3	103	523	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1543.012	1548.714	Yao_liming	male	native	as a result, this sentence originally meant to supplement by saying that we must continue the bridge-building work of Lien and Soong,	3	103	525	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1548.714	1552.894	Yao_liming	male	native	as a result was turned around and was misinterpreted or explained	3	103	526	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1552.894	1553.507	Yao_liming	male	native	as,	3	104	527	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1552.894	1553.507	Hu_yihu	male	native	Uh-huh.	3	104	528	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1553.507	1556.307	Yao_liming	male	native	er, he has returned to his red path,	3	105	529	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1556.307	1556.760	Yao_liming	male	native	ah, or	3	106	530	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1556.307	1556.760	Hu_yihu	male	native	Uh-huh.	3	106	531	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1556.760	1558.882	Yao_liming	male	native	((pw)), uh, the line close to both sides of the strait,	3	107	532	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1558.882	1559.194	Yao_liming	male	native	ah,	3	108	533	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1558.882	1559.194	Hu_yihu	male	native	Uh-huh.	3	108	534	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1559.194	1560.527	Yao_liming	male	native	distancing from the island of Taiwan.	3	109	535	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1560.527	1565.995	Yao_liming	male	native	Well, you will discover that originally, one spoke of the native land, one spoke of cross-strait, and was an extremely balanced way of speaking.	3	109	536	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1565.995	1566.408	Hu_yihu	male	native	Okay.	3	110	537	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1566.408	1568.501	Yao_liming	male	native	But both have been misinterpreted,	3	111	538	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1568.501	1571.109	Yao_liming	male	native	well, you will discover, actually at present his emphasis	3	111	539	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1571.109	1571.562	Yao_liming	male	native	is not	3	112	540	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1571.109	1571.562	Hu_yihu	male	native	Uh-huh.	3	112	541	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1571.562	1573.892	Yao_liming	male	native	on what his current arguments are about,	3	113	542	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1573.892	1575.836	Yao_liming	male	native	but is on what his exposition is about.	3	113	543	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1575.836	1576.072	Hu_yihu	male	native	Uh-huh.	3	114	544	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1576.072	1577.836	Yao_liming	male	native	And that what he speaks up needs to move people	3	115	545	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1577.836	1578.024	Yao_liming	male	native	((pw))	3	116	546	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1577.836	1578.024	Hu_yihu	male	native	Good.	3	116	547	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1578.024	1579.079	Yao_liming	male	native	with what he is saying.	3	117	548	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1579.079	1579.581	Hu_yihu	male	native	Uh-huh.	3	118	549	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1579.079	1579.581	Yao_liming	male	native	This point,	3	118	550	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1579.581	1581.830	Yao_liming	male	native	I'm afraid, will be a huge future task for the Secretary-General.	3	119	551	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1581.830	1583.377	Hu_yihu	male	native	Good, the last twenty seconds.	3	120	552	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1583.377	1585.519	Hu_yihu	male	native	Secretary-General, oh, I still cannot call you Secretary-General, ah,	3	120	553	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1585.519	1586.502	Hu_yihu	male	native	I just announced in advance.	3	120	554	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1586.502	1590.361	Hu_yihu	male	native	Legislator Wu, during your term as Secretary-General, will you think of going to the Mainland; have you been to the Mainland before?	3	120	555	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1591.736	1596.142	Wu_dunyi	male	native	I have never been there, but in relation to the status of the Mainland's development,	3	121	557	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1596.142	1601.298	Wu_dunyi	male	native	and Taiwanese businesses establishing businesses on the Mainland and working hard to the benefit of people on both sides of the strait,	3	121	558	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1601.298	1605.438	Wu_dunyi	male	native	and the progress of the country's prosperity, I understand quite well	3	121	559	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1605.438	1608.188	Wu_dunyi	male	native	and admire the achievements our Taiwanese businessmen, everybody has made.	3	121	560	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1608.188	1608.610	Hu_yihu	male	native	Uh-huh.	3	122	561	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1608.610	1610.339	Hu_yihu	male	native	But, do you have a plan to visit the Mainland in the short term?	3	122	562	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1611.551	1614.079	Wu_dunyi	male	native	Er, at the moment I don't have any, any such plan.	3	123	564	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1614.079	1617.246	Wu_dunyi	male	native	In the future I think, uh, when the time is ripe	3	123	565	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1617.755	1620.915	Wu_dunyi	male	native	I will gladly, uh, go to see the beautiful rivers and mountains.	3	123	567	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1620.915	1623.195	Hu_yihu	male	native	Uh, okay, I'm afraid the time to visit the Mainland is not ripe,	3	124	568	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1623.195	1625.993	Hu_yihu	male	native	but, supposedly next Wednesday the time will be exactly ripe	3	124	569	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1625.993	1627.023	Hu_yihu	male	native	to call you Secretary-General.	3	125	570	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1625.993	1627.023	Wu_dunyi	male	native		3	125	571	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1627.023	1627.896	Hu_yihu	male	native	Thank you, Legislator Wu.	3	126	572	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1627.896	1628.632	Hu_yihu	male	native	Thank you, Professor Yao.	3	127	573	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1627.896	1628.632	Wu_dunyi	male	native	Thank you,	3	127	574	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1628.632	1629.992	Hu_yihu	male	native	for joining us on From Phoenix to the World.	3	128	575	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1629.992	1631.147	Hu_yihu	male	native	We hope you have a happy vacation.	3	128	576	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1631.147	1631.760	Hu_yihu	male	native	See you next week.	3	129	577	report	
+PHOENIX_PHNXWRLD_CMN_20070105_111800	0	1631.147	1631.760	Wu_dunyi	male	native	Thank you.	3	129	578	report	

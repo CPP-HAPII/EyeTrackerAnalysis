@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.0714	0	0.0	100.0	speaker	unknown	unknown	券商评论：大盘仍将以超跌反弹定性	0	0	0		
+CNS_CMN_20080709.0714	0	1100.0	1200.0	speaker	unknown	unknown	在大盘股止跌企稳的同时，旅游、创投、农业、3G板块也纷纷启动，题材股的活跃不断提升市场人气，市场赚钱效应也在继续显现。	0	0	0		
+CNS_CMN_20080709.0714	0	1500.0	1600.0	speaker	unknown	unknown	这一阶段可能形成热点板块轮换较快的现象，大盘波动也较为明显，因此操作上以低吸为主，建议重点关注以奥运和新能源等为主线的题材股、从底部刚刚带量启动的超跌蓝筹和中报业绩大幅增长的品种，(航空证券)	0	0	0		

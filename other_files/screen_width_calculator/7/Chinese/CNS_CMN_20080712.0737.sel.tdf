@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080712.0737	0	200.0	300.0	speaker	unknown	unknown	中新社北川七月十二日电 (记者 肖青)由中国联合水泥集团与四川联鸿建材公司共同投资的北川中联水泥项目今日下午在北川羌族自治县擂鼓镇举行开工仪式。	0	0	0		

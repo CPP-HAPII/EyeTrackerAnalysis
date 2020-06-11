@@ -1,0 +1,212 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 107.057, 668.721, 781.17399999999998, 1205.0650000000001, 1329.1880000000001, 1605.0550000000001, 9999999.0]
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	107.057	113.079	speaker#1	male	native	Hello, everyone, this is CCTV-2 Economic Channel. This is Economy and Law 4/26 Protection of Intellectual Property Rights Specials.	1	1	1	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	113.985	116.886	speaker#1	male	native	On the screen behind me, you can see two cigarettes.	1	1	3	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	117.425	120.359	speaker#1	male	native	The two cigarettes look exactly the same.	1	1	5	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	120.868	125.808	speaker#1	male	native	However, after burning for a few minutes, look, the shapes of the cigarette ash from the two cigarettes have shown difference.	1	1	7	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	126.355	137.004	speaker#1	male	native	One is more leveled and basically maintains the original shape of the cigarette while for the other, the shape of the ash is obviously bent. The connecting point between the cigarette ash and the cigarette breaks and has crack.	1	1	9	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	138.113	142.573	speaker#1	male	native	Then, what does the difference in the shape of the cigarette ash of these two cigarettes imply?	1	1	11	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	143.354	145.854	speaker#1	male	native	How is it related to intellectual property rights?	1	1	13	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	146.432	150.542	speaker#1	male	native	Don't worry. The truth will be revealed in today's program.	1	1	15	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	151.260	160.705	speaker#2	male	native	In March 2006, Qinghai Province Xining City Tobacco Monopoly Administration suddenly received many complaints from the consumers claiming that cigarettes bought in the market were found to be counterfeit.	1	2	17	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	161.248	168.280	Sun_yongxue	male	native	The complaints had increased significantly compared to the same period last year. Oh, customers' complaints were frequent.	1	3	19	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	168.983	183.577	speaker#2	male	native	Even though before this, Xining City Tobacco Monopoly Administration would also receive sporadic complaints from consumers reporting that they had purchased counterfeit cigarettes from roadside cigarette stands, it was the first time they encountered such large-scale concentrated complaints.	1	4	23	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	183.577	187.952	Sun_yongxue	male	native	We had accepted more than 20 such complaints one after another.	1	5	25	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	187.952	194.944	speaker#3	male	native	Um, we as consumers are rather angry if we have bought counterfeit cigarettes. This carton of cigarettes cost a few hundred yuan. Oh, it is rather expensive.	1	6	26	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	195.663	198.695	speaker#2	male	native	The Tobacco Monopoly Administration immediately organized personnel to investigate.	1	7	28	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	199.234	207.423	speaker#2	male	native	In their investigation, staff found that the decorations of all the stores from which consumers bought the counterfeit cigarettes were all rather grand and the rent relatively expensive.	1	7	30	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	207.423	211.644	speaker#2	male	native	The monthly rental ranged from 5,000 yuan to as much as 10,000 yuan.	1	7	32	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	212.425	220.940	Sun_yongxue	male	native	From the distribution of the uh, stores being complained, oh, they were rather centralized. They were the famous cigarette and liquor stores in the bustling sections of the streets.	1	8	34	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	221.479	230.641	speaker#2	male	native	Businesses of these stores were very prosperous judging from the crowds of customers going in and out. These situations surprised investigators of the Xining Tobacco Monopoly Administration	1	9	36	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	231.180	237.834	speaker#2	male	native	because tobacco is State controlled monopolized product. There are quota standards for each place every month.	1	9	38	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	237.834	243.765	speaker#2	male	native	However, from the situation investigated, the sales of these stores had far exceeded the normal sales quota.	1	9	39	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	244.337	248.495	speaker#2	male	native	Investigators perceptively realized that there must be something fishy about it.	1	9	41	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	249.120	255.604	Sun_yongxue	male	native	We found that their uh, channels of replenishing their goods were abnormal and felt that there was a rather big counterfeit cigarette network hidden behind it.	1	10	43	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	255.604	260.156	speaker#2	male	native	The situation immediately raised huge concern of the leadership at the Xining Tobacco Monopoly Administration.	1	11	44	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	260.813	269.703	Dai_yuepeng	male	native	Since tobacco is a State monopolized product, so the tobacco industry shoulders a huge responsibility of generating profits for the State.	1	12	46	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	270.922	279.526	Dai_yuepeng	male	native	As a result, we are cracking down on counterfeits and assuring that the State does not lose any tax revenue at the same time.	1	12	50	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	280.057	286.639	speaker#1	male	native	Despite preliminary finding that these stores were selling counterfeit cigarettes, where exactly did these counterfeit cigarettes come from?	1	13	58	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	287.420	293.470	speaker#1	male	native	In order to conduct a thorough investigation of the truth, the Xining Tobacco Administration transferred the clues to the Xining police immediately.	1	13	60	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	293.979	301.076	Dai_yuepeng	male	native	The State Administration and uh, the Ministry of Public Security uh, set up a special joint uh, office to crack down on counterfeits.	1	14	62	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	301.076	307.795	Dai_yuepeng	male	native	Oh, set up such organization ah, mainly to uh, bring it under control from the source.	1	14	63	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	307.795	313.920	Han_yuqing	male	native	It should have infringed uh, the intellectual property rights of cigarette brands such as Furongwang.	1	15	66	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	314.592	316.342	Han_yuqing	male	native	It should have registered.	1	15	68	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	316.920	325.803	Han_yuqing	male	native	Yun cigarette has registered and our China's top, uh, uh, China's top cigarette Zhonghua cigarette, all these brands have been seriously infringed upon.	1	15	70	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	326.569	329.007	Han_yuqing	male	native	Well, from their perspective, they are also victims.	1	15	72	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	335.448	340.558	speaker#2	male	native	The police put the more-frequently complained stores that sold counterfeit cigarettes under close surveillance without delay.	1	16	74	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	340.558	348.861	speaker#2	male	native	During their surveillance, a woman in her thirties frequented the stores that sold counterfeit cigarettes. She was very suspicious.	1	16	75	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	351.376	355.495	Ding_wenjun	male	native	In her thirties, this hairstyle, this is the hairstyle,	1	17	77	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	355.495	363.047	Ding_wenjun	male	native	oh, her clothes, she came here everyday at around 4:00 p.m. or 5:00 p.m. to uh, draw money, collect, collect the sales money.	1	17	78	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	363.047	363.766	speaker#4	male	native	Collect the money.	1	18	79	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	363.766	364.245	Ding_wenjun	male	native	Collect the money.	1	19	80	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	364.933	370.769	speaker#5	male	native	You see, she did not go into every store. She went into a few stores and left after she took the money.	1	20	82	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	370.769	371.013	speaker#4	male	native	Uh-huh.	1	21	83	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	371.013	373.534	speaker#5	male	native	She did not buy anything or ask for any others.	1	22	84	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	373.534	376.857	speaker#6	male	native	What exactly did she do? Let's look again.	1	23	85	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	380.031	387.328	speaker#1	male	native	Judging from this surveillance video, the police found that evidently, this woman did not go to the store to buy things. She went there to collect money!	1	24	87	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	388.250	390.861	speaker#1	male	native	Then, what money was she collecting from these stores?	1	24	89	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	391.424	396.640	speaker#1	male	native	Where did this mysterious woman in her thirties come from? What exactly did she do for a living?	1	24	91	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	397.778	404.479	speaker#1	male	native	When the police investigated the check-in record at the guesthouse where she was staying, they found that there was only a name 'Zhang Yan' written on it.	1	24	93	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	405.026	406.791	speaker#1	male	native	Nothing else was written down.	1	24	95	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	407.557	411.323	speaker#1	male	native	Then, was the name Zhang Yan her real name?	1	24	97	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	411.323	416.182	speaker#1	male	native	Was she actually involved in the counterfeits in the Xining cigarette market?	1	24	98	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	416.963	421.383	speaker#1	male	native	The police decided that they must first clarify the true identity of Zhang Yan.	1	24	100	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	421.383	426.448	speaker#2	male	native	While shadowing this woman in her thirties, the police found that her activities covered a huge area.	1	25	101	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	426.448	431.362	speaker#2	male	native	Sometimes she went to the eastern part of the city, sometimes she went west and she did not come into contact with other people on her way.	1	25	102	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	431.362	435.560	speaker#2	male	native	Apart from making some phone calls, she was not seen doing anything else.	1	25	103	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	438.907	448.732	Ding_wenjun	male	native	She just went it. Ai, you see, a man went in after her. We ((pw)), had shadowed this man for a while in the past. His surname is Lin, Lao Lin, and he involved in the wholesale market. He engaged in wholesale.	1	26	105	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	448.732	461.900	Ding_wenjun	male	native	However, she had such close contact with him. Besides, it was only two of them. Were these two uh, were they ((pw)), in a superior and subordinate relationship?	1	26	106	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	462.572	468.643	speaker#2	male	native	A few days later, the police acquired a clue that Zhang Yan was conducting activities at a freight depot near the Xining Railway Station.	1	27	108	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	471.289	481.180	speaker#2	male	native	The police decided to take a few pictures of Zhang Yan to keep necessary evidence for future +investigation. However, at this very moment, something unexpected happened.	1	27	110	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	483.180	490.038	Sun_yuqing	male	native	We were, were taking pictures. After we finished and got back to the car, we waited for a while, all of a sudden, Zhang Yan, Zhang Yan received a phone call.	1	28	112	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	493.194	499.080	Sun_yuqing	male	native	After she received the phone call, she left ((pw)) hastily. She left in a rush.	1	28	114	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	501.158	506.314	speaker#1	male	native	This sudden occurrence also made the police very nervous. Was it possible that Zhang Yan had accomplice nearby?	1	29	116	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	506.314	510.361	speaker#1	male	native	Did her accomplice tip her off immediately once they found out investigators were taking pictures?	1	29	117	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	511.064	515.143	speaker#1	male	native	Did Zhang Yan actually notice the police operation?	1	29	119	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	516.158	519.814	speaker#1	male	native	The police decided to use a method to prove it.	1	29	121	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	523.533	530.877	Ding_wenjun	male	native	Our investigators disguised as uh, drug dealers, ah, and deal drugs under this, this circumstances,	1	30	123	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	530.877	540.007	Ding_wenjun	male	native	oh, while the other investigators ((pw)), used the same shadowing method last time to take pictures and see how she ((pw)), reacted.	1	30	126	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	544.678	550.887	Ding_wenjun	male	native	The result was that after this show was put on, the following day, ah, that night, that afternoon, she came to pick up the goods.	1	30	128	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	551.730	556.902	speaker#2	male	native	The police continued their investigation and quickly confirmed that the entire shipment that Zhang Yan took was counterfeit cigarettes.	1	31	132	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	556.902	564.355	speaker#2	male	native	It was the same shipment of counterfeit cigarettes people complained about in Xining cigarette market. Zhang Yan was the distributor of Xining counterfeit cigarette market.	1	31	133	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	564.355	568.918	speaker#2	male	native	She and people including Wholesaler Lin were responsible for selling counterfeit cigarettes at wholesale to cigarette and liquor storeowners.	1	31	134	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	569.636	578.058	speaker#2	male	native	There were 18 warehouses that stored these counterfeit cigarettes. They were all rental houses located in some inconspicuous small streets and alleys or in the suburbs.	1	31	136	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	579.168	582.426	speaker#1	male	native	Let's look at the picture. This person is Zhang Yan.	1	32	138	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	582.426	586.019	speaker#1	male	native	However, that is her alias. Her real name is Liu Suwen. She is of Anhui nationality	1	32	139	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	586.019	590.211	speaker#1	male	native	and arrived at Xining to engage in this illegal activity in April or May 2005.	1	32	140	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	591.169	597.184	speaker#1	male	native	Well, after sufficiently grasped the situation of the entire case, the police immediately arrested eight suspects including Liu Suwen.	1	32	142	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	597.184	602.332	speaker#1	male	native	They confiscated more than 9,100 cartons of cigarettes and the money involved in the case had reached over 2 million yuan.	1	32	143	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	603.895	610.926	speaker#1	male	native	After wiping out Zhang Yan's counterfeit cigarette ring, in theory, the Xining cigarette market should be safe and sound.	1	32	145	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	610.926	622.535	speaker#1	male	native	However, the police soon found that the matter did not end. Counterfeit cigarettes still appeared in Xining market in large quantity. In addition, the quality was getting higher and higher.	1	32	146	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	622.535	627.304	Han_yuqing	male	native	Uh, some cigarettes and liquor, uh, ((pw)), large quantity of counterfeit cigarettes were found in uh, some cigarette and liquor stores.	1	33	147	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	628.289	633.164	Han_yuqing	male	native	The counterfeit cigarettes found did not come from the uh, criminal ring of Zhang Yan.	1	33	149	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	634.007	636.773	Han_yuqing	male	native	Then, where was the source of the counterfeit cigarettes?	1	33	153	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	637.398	640.898	Han_yuqing	male	native	Why were they in such huge quantity? Moreover, the quality of the counterfeit cigarettes was so high.	1	33	155	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	641.461	645.618	speaker#2	male	native	This batch of counterfeit cigarettes was obviously different from the ones sold by Zhang Yan's ring.	1	34	157	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	645.618	651.367	speaker#2	male	native	Its types mainly centered on a few famous high-end brands including Zhonghua, Furongwang, Yun cigarette, and Yuxi.	1	34	158	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	651.367	655.439	speaker#2	male	native	Its large quantity and high simulation level were unprecedented.	1	34	159	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	656.080	663.611	speaker#2	male	native	The police and investigators of the Tobacco Monopoly Administration concluded that there must be a bigger and more cunning fox hiding behind.	1	34	161	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	665.049	668.721	Han_yuqing	male	native	There must be a big fish behind it.	1	35	163	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	781.174	781.986	speaker#1	male	native	Welcome back.	3	37	165	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	781.986	788.844	speaker#1	male	native	We mentioned earlier that wiping out Zhang Yan's ring did not bring any fundamental change in the overflow of counterfeits in Xining cigarette market.	3	37	166	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	788.844	795.251	speaker#1	male	native	Investigators judged that there should be another ring that sold counterfeit cigarette in Xining market.	3	37	167	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	795.251	799.490	speaker#1	male	native	The scale of this ring was much bigger than the one of Zhang Yan.	3	37	168	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	800.239	804.880	speaker#1	male	native	In addition, the simulation level of the counterfeit cigarettes was extremely high and the cigarettes counterfeited were all famous brands.	3	37	170	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	805.718	812.036	speaker#1	male	native	If we did not wipe it out, its impacts on Xining genuine cigarette market would be unimaginable.	3	37	172	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	812.801	814.286	Han_yuqing	male	native	We also conducted a comparison.	3	38	174	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	815.176	818.743	Han_yuqing	male	native	The urban population of Xining was only less than 2 million,	3	38	176	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	819.791	823.947	Han_yuqing	male	native	well, and the retail spots were approximately over 4,000.	3	38	178	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	823.947	833.072	Han_yuqing	male	native	Comrade of the Tobacco Monopoly Administration explained to us that over 1,000 stores were tracked down to have record of selling counterfeit cigarettes, this quantity was very high.	3	38	179	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	834.260	841.069	Han_yuqing	male	native	This quantity had seriously harmed uh, the economy, our normal, uh, economic order in society.	3	38	181	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	841.616	853.242	Dai_yuepeng	male	native	In terms of the counterfeit cigarettes in Xining market alone, the amount of cigarettes involved in these several cases was more or less one third of the market.	3	39	185	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	853.242	861.664	Dai_yuepeng	male	native	This was a conservative estimation. Ah, judging from the picture we have already built up, it should even, even be bigger. It can reach one-half.	3	39	186	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	862.292	870.686	speaker#2	male	native	The police and investigators of the Tobacco Monopoly Administration realized the seriousness of the problem. They held an emergency meeting to analyze the case and lay out plans to crack the case all through the night.	3	40	188	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	871.420	882.342	speaker#2	male	native	In their surveillance of the sellers who sold counterfeit cigarettes, the police found a person named Zhang Xingyun who secretly contacted the sellers frequently. The tail of the fox started to show.	3	40	190	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	882.920	886.998	Han_yuqing	male	native	This person was from Zhejiang and stayed in the guesthouse for a prolonged period of time.	3	41	192	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	888.467	895.337	speaker#2	male	native	The police found that Zhang Xingyun always asked a group of people to take delivery of goods from Guangzhou at the freight yard near the Xining Railway Station.	3	42	196	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	895.876	904.792	speaker#2	male	native	However, the police were surprised that there was no sign of cigarettes among these goods. From the outer packaging, they were mainly electronics and children's clothing.	3	42	198	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	904.792	908.526	speaker#2	male	native	Nonetheless, a detail had caught the police's attention.	3	42	199	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	908.526	912.420	speaker#2	male	native	There were a few strange symbols on the outer packaging of these goods	3	42	200	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	912.420	915.257	speaker#2	male	native	such as C4 and CB.	3	42	201	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	915.257	920.317	speaker#2	male	native	What did these symbols represent? Were they related to counterfeit cigarettes?	3	42	202	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	920.317	928.940	speaker#2	male	native	The police decided to split in two teams, each taking a different routes. One team would continue to shadow and feel the situation out in Xining while the other team would fly to Guangzhou, the place where the goods were sent out to size up the situation from the source.	3	42	203	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	933.641	937.533	Ding_wenjun	male	native	The goods were taken delivery at a warehouse in the Baiyun District.	3	43	205	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	937.533	946.178	speaker#2	male	native	However, when the police prepared to find out more about the situation, the suspects no longer had any activity. The investigation reached a temporary impasse.	3	44	206	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	946.716	954.694	speaker#2	male	native	Meanwhile, the gang in Xining were also very cunning. They played hide-and-seek with the police while transporting these goods.	3	44	208	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	955.712	957.150	speaker#7	male	native	The person was very cunning.	3	45	210	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	957.900	959.154	speaker#8	male	native	He jerked forward,	3	46	212	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	959.154	960.232	speaker#7	male	native	and then put his brake and came to a sudden stop.	3	47	213	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	959.154	960.232	speaker#8	male	native	After a while, he would drive again.	3	47	214	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	960.232	962.651	speaker#7	male	native	He would put his brake on all of a sudden and stayed there without moving,	3	48	215	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	962.651	963.150	speaker#8	male	native	Oh.	3	49	216	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	963.150	964.364	speaker#7	male	native	he would not move.	3	50	217	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	964.364	965.502	speaker#7	male	native	You, you	3	51	219	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	964.364	965.502	speaker#8	male	native	It was impossible for us to follow.	3	51	218	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	965.502	971.005	speaker#7	male	native	followed him from behind, you, you thought that he might, might have discovered you. In fact, he did not know that we were shadowing him.	3	52	220	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	972.068	975.990	speaker#7	male	native	This was what he did. He ran, ran for a distance, then put his brake on suddenly and stopped for half an hour.	3	52	222	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	975.990	981.897	speaker#7	male	native	After stopping for half an hour, he would continue to step up and career. Once he moved ahead, damn it, he started to stop again, again.	3	52	223	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	985.129	986.717	speaker#8	male	native	Don't let him find out. Don't let him find out.	3	53	225	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	986.717	992.135	speaker#8	male	native	Their car has stopped here. Then, you follow them immediately. Our car has passed them.	3	53	226	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	992.135	993.651	speaker#10	male	native	I can only pass them now.	3	54	227	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	993.651	995.069	Ding_wenjun	male	native	Okay, okay, okay. I will catch up. I will catch up.	3	55	228	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	995.069	995.818	speaker#10	male	native	Alas!	3	56	230	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	995.069	995.818	speaker#8	male	native	I can only drive away.	3	56	229	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	995.818	997.911	speaker#7	male	native	Uh, hey, we have caught up. That is the car.	3	57	231	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	998.505	1000.224	speaker#8	male	native	Speed up! Speed up! Speed up, Speed up, Speed up!	3	58	233	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1000.849	1004.781	speaker#8	male	native	In case you have a red light at this turn for a little while, they will escape. Follow closer! Follow closer!	3	58	235	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1007.281	1009.257	speaker#8	male	native	Hey, it is the one ahead! Ahead! Ahead! Ahead!	3	58	237	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1010.395	1011.285	speaker#7	male	native	The license plate is from other parts of the country.	3	59	239	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1012.160	1014.207	speaker#8	male	native	Oh, its license plate is from other parts of the country. Its license plate is from other parts of the country.	3	60	241	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1015.848	1017.270	Ding_wenjun	male	native	Why does it stop all of a sudden?	3	61	243	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1018.566	1024.350	speaker#2	male	native	This situation made the police nervous again. Was it possible that they were discovered?	3	62	245	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1024.866	1029.704	speaker#2	male	native	Precisely when the police were confused, a person got into the minivan.	3	62	247	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1030.283	1031.673	Ding_wenjun	male	native	Oh, why did another one get it?	3	63	249	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1032.329	1034.064	Ding_wenjun	male	native	Hey, not that one, the one who drove earlier.	3	63	251	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1037.434	1038.309	Ding_wenjun	male	native	What is this all about?	3	63	253	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1038.950	1046.762	Ding_wenjun	male	native	Is it people and goods separation so the delivery person does not know about the warehouse.	3	63	255	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1046.762	1048.762	Ding_wenjun	male	native	Um, move! Close up! Close up! Let's keep pace with them.	3	63	260	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1050.356	1057.356	speaker#2	male	native	In the battle between the investigation and the anti-investigation, the police finally found six warehouses that stored the goods in some remote locations.	3	64	262	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1057.982	1064.262	speaker#2	male	native	These goods were precisely the counterfeit cigarettes sent from Guangzhou and the receiver was none other than Zhang Xingyun.	3	64	264	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1064.981	1070.511	Han_yuqing	male	native	He was a major figure engaging in uh, uh, selling counterfeit cigarettes.	3	65	266	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1070.511	1071.858	speaker#9	male	native	How did you determine?	3	66	267	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1071.858	1076.896	Han_yuqing	male	native	The uh, main reason we ascertained that it was him was that all the goods arrived in his name.	3	67	268	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1077.537	1084.785	speaker#2	male	native	The police investigation found that Zhang Xingyun was very cunning. He never showed his face and only directed remotely in secret.	3	68	272	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1084.785	1091.832	speaker#2	male	native	With the main suspects including Zhang Xingyun finally decided, the police had complete control of the situation in Xining.	3	68	273	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1092.426	1096.895	speaker#2	male	native	After waiting patiently for over 20 days, the police in Guangzhou finally had some progress.	3	68	275	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1097.457	1103.022	speaker#2	male	native	According to reliable intelligence, a shipment of counterfeit cigarettes would be shipped from the warehouse in Guangzhou to Xining in recent days.	3	68	277	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1103.022	1107.519	speaker#2	male	native	The police decided to carry out simultaneous arrest in Guangzhou and Xining.	3	68	278	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1108.507	1113.329	Ding_wenjun	male	native	Our situation here was clear and we were preparing for arrest.	3	69	280	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1113.329	1114.434	Han_yuqing	male	native	Very excited.	3	70	281	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1115.403	1118.106	Han_yuqing	male	native	I answered immediately,	3	70	283	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1118.106	1122.080	Han_yuqing	male	native	I said, "Great". I said, "Then, I will take action." He said, "Take action".	3	70	284	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1122.080	1123.439	Ding_wenjun	male	native	It was simultaneously actions.	3	71	285	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1144.299	1150.534	Han_yuqing	male	native	The State's normal tax revenue is assured, the market economic order is upheld,	3	72	287	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1151.175	1153.469	Han_yuqing	male	native	and the interests of the consumers are guaranteed.	3	72	289	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1154.141	1170.714	Han_yuqing	male	native	Judging from these three aspects, the fourth one should be uh, the manufacturers' uh, uh, are also protected because after all, they are the end, in fact, also, also the biggest, uh, victims.	3	72	291	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1170.714	1180.542	speaker#1	male	native	The police arrested seven suspects in this operation and confiscated over 25,000 cartons of cigarettes with a value of more than 4 million yuan involved in the case.	3	73	296	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1181.120	1186.827	speaker#1	male	native	This was the largest counterfeit cigarette manufacturing and selling case cracked ever since Qinghai Province was founded.	3	73	298	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1187.843	1194.941	speaker#1	male	native	With the arrest of these suspects, the secrets of this inter-provincial counterfeits manufacturing and selling ring were gradually revealed.	3	73	300	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1195.646	1205.065	speaker#1	male	native	Then, how did they operate internally? How was the hand over and take over of counterfeit cigarettes done? What did the symbols on the outer packaging represent?	3	73	302	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1329.188	1333.266	Sun_yuqing	male	native	This was the warehouse where the counterfeit cigarettes we confiscated were stored.	5	75	304	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1341.071	1349.296	Sun_yuqing	male	native	These were inside the warehouse, approximately over 400 pieces, more than 800 pieces in total.	5	75	306	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1353.705	1355.280	Sun_yuqing	male	native	They were of various brands.	5	75	310	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1358.795	1367.737	Sun_yuqing	male	native	This was Yuxi, China's high-end cigarettes. The outer packaging was all children's shoes, or moulds, electronics, and other components, so on and so forth.	5	75	312	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1362.712	1366.033	speaker#11	male	native	children's shoes, moulds, electronics,	5	76	314	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1366.033	1367.320	speaker#11	male	native	uh, uh,	5	80	320	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1368.315	1372.168	Sun_yuqing	male	native	Oh, the, uh, C4 behind, these numbers was to make it easy for him.	5	81	323	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1372.797	1378.859	Sun_yuqing	male	native	When he delivered the goods after they had arrived, because he did not open each box, the number was to represent a brand of cigarettes.	5	81	325	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1379.429	1380.237	speaker#11	male	native	It was to provide disguise.	5	82	327	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1380.237	1381.315	Sun_yuqing	male	native	Oh, create a camouflage	5	83	328	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1380.237	1381.315	speaker#12	male	native	ah, camouflage effect.	5	83	329	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1381.315	1382.284	speaker#12	male	native	He was afraid to write it directly,	5	84	330	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1382.284	1383.405	Sun_yuqing	male	native	and was worried that it would be wrong.	5	85	331	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1382.284	1383.405	speaker#12	male	native	These were cigarettes.	5	85	332	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1384.718	1388.218	Zhang_qingyun	male	native	For Yun cigarettes, he wrote B4,	5	86	334	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1388.874	1390.921	Zhang_qingyun	male	native	and put hard Yun in it.	5	86	336	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1392.030	1395.655	Zhang_qingyun	male	native	If it were CB, then what he put were Furongwang.	5	86	338	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1395.655	1399.759	speaker#2	male	native	In fact, these special symbols were the codes of counterfeit cigarettes.	5	87	339	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1399.759	1407.587	speaker#2	male	native	Apart from this, this gang also had a set of strict security measures called separation of people and goods to prevent information leak.	5	87	340	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1408.150	1413.993	Han_yuqing	male	native	First, the receivers did not know where the goods came from while the delivery people did not know where to send them.	5	88	342	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1413.993	1424.828	Han_yuqing	male	native	As uh, a boss in Xining, even he did not know the location where the goods were stored.	5	88	343	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1426.445	1433.062	Han_yuqing	male	native	He let some uh, drivers, let other hired people handle these matters.	5	88	349	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1433.960	1442.224	Han_yuqing	male	native	Well, then, among these hired ((pw)), uh, uh, workers, among the soldiers uh, they were back to back,	5	88	353	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1443.032	1444.140	Han_yuqing	male	native	no one knew about the other.	5	88	357	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1444.919	1453.212	speaker#1	male	native	The police told us that despite close communications among this group of people, the people in the upper and lower lines and in each links did not know each other.	5	89	359	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1454.056	1460.462	speaker#1	male	native	Therefore, this group of people had never imagined that the first time they ever met would actually be at the lockup.	5	89	361	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1461.196	1464.055	speaker#1	male	native	This was called 'Allow no criminal to go unpunished'.	5	89	363	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1465.043	1471.899	speaker#1	male	native	Then, what does the different shapes of the ash of the two cigarettes that I showed you in the beginning of the show actually imply?	5	89	365	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1472.758	1476.899	speaker#1	male	native	The staff at the Tobacco Monopoly Administration revealed the truth for us.	5	89	367	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1476.899	1485.795	Sun_yongxue	male	native	The one on my right is a counterfeit cigarette. After it is lighted, its uh, ash uh, is obvious cracked.	5	90	368	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1486.880	1500.467	Sun_yongxue	male	native	The one on my left is a genuine cigarette. Ah, after it is lighted, its ash, uh, will not break. In addition, it does not have the obvious crack that the counterfeit one does.	5	90	370	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1500.467	1508.077	Dai_yuepeng	male	native	Our ultimate goal is to further improve the uh, market economic order.	5	91	371	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1509.452	1518.218	Dai_yuepeng	male	native	Uh, to implement our country proposed 'two interests above all' this industry value.	5	91	375	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1519.124	1523.952	Dai_yuepeng	male	native	Well, the so-called 'two interests above all' is the interests of the State and the interests of the consumers above all.	5	91	383	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1529.332	1541.013	speaker#2	male	native	Now, the counterfeit cigarette selling case has entered judicial proceeding. Our country's penal code clearly stipulates that criminal responsibilities shall be ascertained for illegal operation of State's monopolized products such as cigarettes should it be of a serious nature.	5	92	385	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1541.013	1550.950	speaker#2	male	native	The judicial authorities will hand down penalty in accordance with the offense of selling counterfeits under the penal code with the highest penalty being five years of imprisonment and above.	5	92	386	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1551.622	1560.350	speaker#1	male	native	It can be said that with the steadily increasing protection of intellectual property rights in our country, the living space of people who engage in counterfeits is shrinking. Therefore, their counterfeit activities are becoming more and more discreet.	5	93	388	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1560.889	1573.566	speaker#1	male	native	Based on the investigation of the State Tobacco Monopoly Administration, three characteristics exist in counterfeit tobacco nowadays, namely, a shift from the south to the north, a shift from the plateau to the mountains, and a shift from above ground to underground.	5	93	390	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1574.285	1581.160	speaker#1	male	native	Let's take individual areas in Fujian and Zhejiang as an example. The entire village is making counterfeits while the counterfeit factory is set up inside the tunnel.	5	93	393	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1582.328	1594.234	speaker#1	male	native	Well, to quote the words of the relevant comrades in charge at the State Tobacco Monopoly Administration, the current crackdown on counterfeits indeed involves three battles with the people who engage in counterfeits, which are battle of strength, battle of endurance, and battle of intelligence.	5	93	395	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1595.187	1600.750	speaker#1	male	native	Therefore, the crackdown on counterfeits and protection of intellectual property rights is an uphill journey.	5	93	397	report	
+CCTV2_ECONOMYANDLAW_CMN_20070426_202800	0	1601.399	1605.055	speaker#1	male	native	Great. This is Economy and Law. Thank you for tuning in. We will see you next time.	5	93	399	report	

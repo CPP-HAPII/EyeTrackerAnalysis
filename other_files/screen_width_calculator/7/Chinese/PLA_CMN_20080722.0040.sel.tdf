@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080722.0040	0	500.0	600.0	speaker	unknown	unknown	政委裴晓昌提出：将撤离3个藏族乡的时间由上午8时提前至凌晨4时。	0	0	0		
+PLA_CMN_20080722.0040	0	800.0	900.0	speaker	unknown	unknown	黎明时分格外寂静。	0	0	0		
+PLA_CMN_20080722.0040	0	1300.0	1400.0	speaker	unknown	unknown	在群众格沙江家门前，三连班长王群将30元钱和一张留言条悄悄塞进门缝里。	0	0	0		
+PLA_CMN_20080722.0040	0	2400.0	2500.0	speaker	unknown	unknown	电话那头，刚刚获知部队已悄悄撤离消息的木皮乡党委书记詹源泓一个劲儿地说：“你们悄悄撤离真是太让我们过意不去，你们无私奉献、不求回报的精神，永远值得我们学习！”	0	0	0		

@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080725.2475	0	300.0	400.0	speaker	unknown	unknown	中新社记者 李志全	0	0	0		
+CNS_CMN_20080725.2475	0	1600.0	1700.0	speaker	unknown	unknown	她说，自己追随“祥云”，一为四处游历，二来可以带动当地民众的奥运激情，为北京奥运加油助威。	0	0	0		

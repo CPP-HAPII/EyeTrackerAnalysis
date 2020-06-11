@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0050.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	France: Western Support for "Tibet Independence" Is Anti-China Sentiment at Work	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-23 06:22:32 Source: PLA Daily, Page 8	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	900.000	950.000	TEXT1	unknown	unkown	In the Western activities in support of "Tibet independence," people can identify a sort of anti-China sentiment, or in other words, the animosity hidden under the banner of human rights, said the editorial.	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	950.000	975.000	TEXT1	unknown	unkown	This seems to be evocative of the Western animosity towards Japan during the 70s and 80s of the last century.	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	That's because today's China, just like Japan back then, shook the balance of the global economy, and the fear of "made in China" further fueled this animosity.	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	The editorial pointed out that occasionally "the noble defense" of the universal values may also reek of racism, which runs completely counter to the principles promoted by the West.	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	In fact, the activities in support of "Tibet independence" reflect the complex Western mentality.	0	0	0		statement
+PLA_CMN_20080423.0050.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	Facing a China that represents the globalization, the West is completely at a loss.	0	0	0		statement

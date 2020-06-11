@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.1238	0	600.0	700.0	speaker	unknown	unknown	Currently, thresholds for unsecured loan applications are relatively low. Many banks only require a monthly income of over 3,000 Yuan, having or being able to apply for a proof of local residency, and that's it.	0	0	0		
+CNS_CMN_20080716.1238	0	1800.0	1900.0	speaker	unknown	unknown	(Reporter, Guan Wei)	0	0	0		

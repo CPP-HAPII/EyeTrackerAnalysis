@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080702.0174	0	0.0	100.0	speaker	unknown	unknown	快讯：耶路撒冷发生一起袭击事件 30余人伤亡	0	0	0		
+PDA_CMN_20080702.0174	0	200.0	300.0	speaker	unknown	unknown	快讯：耶路撒冷２日中午发生一起袭击事件，一巴勒斯坦男子驾驶拖拉机撞翻一辆巴士，造成３０余人伤亡。	0	0	0		

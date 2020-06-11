@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0310	0	400.0	500.0	speaker	unknown	unknown	对于因决策失误而贻误工作，情节轻微的；工作敷衍塞责，不履行职责的；工作效率低下，未能在规定时限内办理有关事项的；不遵守机关工作制度，经主管领导批评教育仍不改正的；工作作风粗暴、服务态度生硬的等行为需给予效能告诫。	0	0	0		

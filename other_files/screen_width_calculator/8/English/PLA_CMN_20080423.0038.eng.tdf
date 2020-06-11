@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080423.0038.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Wu Shengli Talks With American Navy Marine Corps Commander	0	0	0		statement
+PLA_CMN_20080423.0038.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	April 23, 2008 06:15:32 Source: PLA Daily front page	0	0	0		statement
+PLA_CMN_20080423.0038.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	Beijing (Xinhua News Agency), April 22 - Central Military Commission member and navy commander, Admiral Wu Shengli and American navy marine corps commander, General Conway talked over the phone through the two countries' national defense department's direct phone lines on the 22nd.	0	0	0		statement
+PLA_CMN_20080423.0038.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Conway thanked the Chinese side for their careful preparation and friendly welcome for his visit to China not long ago and said the Chinese military's high inner quality left a deep impression.	0	0	0		statement
+PLA_CMN_20080423.0038.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	Conway hopes to further strengthen contact between the Sino-American navy and marine corps and promote the two military's mutual understanding and trust.	0	0	0		statement
+PLA_CMN_20080423.0038.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	Wu Shengli expressed congratulations for Conway's full success in visiting China and expressed praise for the pragmatic and positive attitude towards developing the relationship between the two militaries embodied by his visit to China.	0	0	0		statement
+PLA_CMN_20080423.0038.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	Wu Shengli said that China wishes to work hard together with the U.S., further promote mutual trust, strengthen cooperation and promote the healthy and stable development of the relationship between the two militaries, especially between the two countries' navy and marine corps.	0	0	0		statement

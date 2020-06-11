@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080726.0240	0	300.0	400.0	speaker	unknown	unknown	据中国气象报报道，为全面落实党中央、国务院及北京奥运会、残奥会总指挥部关于举办一届有特色、高水平奥运会、残奥会的要求，切实做好奥运期间的突发事件应对工作，确保实现“平安奥运”的目标，7月25日至9月17日期间，根据赛事活动的重要程度分别交替进入不同等级(IV级、III级、II级、I级)的赛事应急响应状态。	0	0	0		
+CNS_CMN_20080726.0240	0	800.0	900.0	speaker	unknown	unknown	会议对奥运气象服务赛时运行值班、开幕式气象服务方案及近期业务运行中有关问题进行了细化，要求各单位和有关人员按照应急有关规定进入Ⅳ级响应状态，安排落实好有关工作。	0	0	0		

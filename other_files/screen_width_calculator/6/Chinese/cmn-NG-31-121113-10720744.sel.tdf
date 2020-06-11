@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-121113-10720744	0	0.0	100.0	speaker	unknown	unknown	cctv2温家宝看望it民工	0	0	0		
+cmn-NG-31-121113-10720744	0	600.0	700.0	speaker	unknown	unknown	--子产曰："唯有德者能以宽服民，其次莫如猛，夫火烈，民望而畏之，故鲜死焉。	0	0	0		
+cmn-NG-31-121113-10720744	0	900.0	1000.0	speaker	unknown	unknown	《诗》曰："民亦劳止，汔可小康，惠此中国，以绥四方。"	0	0	0		
+cmn-NG-31-121113-10720744	0	1000.0	1100.0	speaker	unknown	unknown	施之以宽也。"	0	0	0		
+cmn-NG-31-121113-10720744	0	1100.0	1200.0	speaker	unknown	unknown	毋从诡随，以谨无良，式遏寇虐，惨不畏明。"	0	0	0		
+cmn-NG-31-121113-10720744	0	1200.0	1300.0	speaker	unknown	unknown	纠之以猛也。"	0	0	0		
+cmn-NG-31-121113-10720744	0	1400.0	1500.0	speaker	unknown	unknown	平之以和也。"	0	0	0		
+cmn-NG-31-121113-10720744	0	1500.0	1600.0	speaker	unknown	unknown	不竞不絿，不刚不柔，布政优优，百禄是遒。"	0	0	0		
+cmn-NG-31-121113-10720744	0	1600.0	1700.0	speaker	unknown	unknown	和之至也！	0	0	0		

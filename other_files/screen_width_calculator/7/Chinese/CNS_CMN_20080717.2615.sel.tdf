@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2615	0	200.0	300.0	speaker	unknown	unknown	中新网7月17日电 据香港《文汇报》17日报道，澳洲一名青年因与朋友在饮酒时起争执被杀，死后头被锯下当成布偶玩弄，甚至 “当成保龄球滚下山”。	0	0	0		

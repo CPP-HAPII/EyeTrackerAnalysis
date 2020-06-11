@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080406.0064.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Torch Relay in St. Petersburg Ends	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-06 06:24:38 Source: PLA Daily, Page 4	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	900.000	950.000	TEXT1	unknown	unkown	Zhurova completed passing the sacred flame with the 79th torch bearer Tian Erlong, consulate general of the Chinese Embassy in St. Petersburg, at the navy department near the Winter Palace and quickly ran forward to the center of the square where cheers and applause rang out from the crowd.	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	Soon after, a grand celebration ceremony and performances were held in the square.	0	0	0		statement
+PLA_CMN_20080406.0064.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	St. Petersburg is the third leg for the Beijing Olympics torch relay outside of the country. Before this, the torch was successfully passed in Kazakhstan's Almaty and Turkey's Istanbul. On the afternoon of the 5th, the torch will set off from St. Petersburg for London in the UK, where the torch will start the fourth leg of the relay on the 6th.	0	0	0		statement

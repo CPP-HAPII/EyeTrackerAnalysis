@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0909	0	900.0	1000.0	speaker	unknown	unknown	进一步完善了事故应急处置、事故调查处理和事故责任追究等机制，重点规范了应急救援、应急保障的内容、程序和方法；规范了事故调查的权限、方法、时限和任务；规范了事故责任追究的目的、要求，规定了事故发生后应当追究相关人员的直接责任和领导责任，并重点明确了领导责任追究的权限、层次和方式。	0	0	0		

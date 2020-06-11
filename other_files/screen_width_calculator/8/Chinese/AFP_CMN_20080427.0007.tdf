@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0007.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	难产十八次 黎巴嫩订五月再尝试推选新总统	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社贝鲁特二十六日电	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	黎巴嫩依然深陷政治僵局之际,国会议长柏瑞的发言人哈姆丹今天表示,延宕十八次之后,国会预定五月十三日再举行总统选举。	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	因为获得西方与大部分阿拉伯国家支持的反叙利亚多数党与获得伊朗及叙利亚支持的反对党意见相左,国会原订四月二十二日举行的总统选举再度延期。	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	哈姆丹表示:「柏瑞已定五月十三日中午为选举日」。	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	柏瑞也是反对派领袖,他要求各敌对派系在他的主持之下举行谈判,讨论如何组织全国团结政府,并制定新选举法。	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	官方的「国家新闻社」报导,国会多数党领袖哈里里表示,他「对五月十三日的总统选举感到乐观」。	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	3200.000	3300.000	TEXT1	unknown	unkown	哈里里也指出,他乐于与反对派对话。	0	0	0		statement

@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080727.0584	0	900.0	1000.0	speaker	unknown	unknown	(记者文静)	0	0	0		
+CNS_CMN_20080727.0584	0	1500.0	1600.0	speaker	unknown	unknown	“此次美国国家篮球队中有很多是来自NBA的明星大腕儿，他们一直有习惯住自己找的酒店”。	0	0	0		
+CNS_CMN_20080727.0584	0	2400.0	2500.0	speaker	unknown	unknown	记者在金融街洲际酒店外看到，酒店原本在二环边上通向南北和东西方向通道已完全被隔离开，酒店已被白色铁栅栏围起。	0	0	0		
+CNS_CMN_20080727.0584	0	2700.0	2800.0	speaker	unknown	unknown	(记者文静)	0	0	0		

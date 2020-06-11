@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Iraq's Security Situation Improves - US Secretary of State Calls on Bordering Countries to Extend Help	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Shannon, Ireland (AFP), 20th.	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	US Secretary of State Rice stated today that although the Shia-lead Iraq government is severely punishing Shia militias and improving the security situation, she calls on Sunni Arab countries to uphold their "obligations to neighboring Iraq."	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	1500.000	1750.000	TEXT1	unknown	unkown	Today, flying en route to Bahrain and Kuwait, Rice said: "To speak fairly, I think Iraq's neighboring countries can do more to fulfill their obligations, because I really think Iraq has already started to fulfill their obligations."	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	1750.000	2000.000	TEXT1	unknown	unkown	Rice will hold meetings with foreign affairs ministers of Arabian countries in the Middle East.	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	2200.000	2400.000	TEXT1	unknown	unkown	Rice said that Iraq's security has already made improvements; Shia Arab leadership is trying their best to protect the country, not the interests of their own sect.	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	She called on Sunni Arab leaders to let diplomats return to Baghdad and forgive some of Iraq's foreign debt load.	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	2800.000	3200.000	TEXT1	unknown	unkown	Since the US started the Iraq war in 2003 and overthrew the Sunni leader, Hussein, Arab countries have not only worried about Iraq's turmoil but have also worried that the supported Iraqi government will side with the Persian-organized Shia Islamic Republic of Iran.	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	3400.000	3700.000	TEXT1	unknown	unkown	However, before Rice's private plane landed in Shannon, Ireland to fuel up, she said, the Iraq security situation has already improved, prime minister Maliki acted upon appeals to reconcile Iraq's Sunni and Shia Arabs with the Kurds.	0	0	0		statement

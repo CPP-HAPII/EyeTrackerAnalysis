@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080417.0008	0	0.0	1000.0	speaker	unknown	unknown	去年执委会便扬言,如果中国当局不提供足够证据以证明他们正在解决这个问题,欧盟便可能祭出禁令。	0	0	0		
+AFP_CMN_20080417.0008	0	0.0	1000.0	speaker	unknown	unknown	去年十一月,执委会认为北京当局在处理问题上「已有长足进步」,而欧盟当局也加紧管制,因此不再发出此一威胁。	0	0	0		

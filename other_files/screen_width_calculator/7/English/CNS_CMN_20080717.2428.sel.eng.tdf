@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2428	0	300.0	400.0	speaker	unknown	unknown	Exchange Requires Payment for Depreciation	0	0	0		
+CNS_CMN_20080717.2428	0	800.0	900.0	speaker	unknown	unknown	On the Internet there were also many voices challenging the after-sales services of businesses: "Big brand, petty temperament!" This is what a QQ user had to say: "Rich people can withstand it, what should an ordinary citizen with no money nor time do if running into such situation?"	0	0	0		
+CNS_CMN_20080717.2428	0	1100.0	1200.0	speaker	unknown	unknown	The company BMW expressed deep regrets.	0	0	0		
+CNS_CMN_20080717.2428	0	2000.0	2100.0	speaker	unknown	unknown	A netizen asked this question: "How should consumers defend their rights?	0	0	0		
+CNS_CMN_20080717.2428	0	2100.0	2200.0	speaker	unknown	unknown	In transactions involving big consumer products such as cars and houses, does our country need to establish some separate laws and rules to regulate it?"	0	0	0		

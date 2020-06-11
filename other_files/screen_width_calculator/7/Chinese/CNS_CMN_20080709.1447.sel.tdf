@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.1447	0	600.0	700.0	speaker	unknown	unknown	《卫报》称兰帕德和斯科拉里似乎都心不在焉。	0	0	0		
+CNS_CMN_20080709.1447	0	800.0	900.0	speaker	unknown	unknown	与英媒体表露出的忐忑不安相比，意大利媒体则已经开始展望兰帕德的到来了。	0	0	0		

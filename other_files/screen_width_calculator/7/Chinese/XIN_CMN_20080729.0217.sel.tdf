@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080729.0217	0	500.0	600.0	speaker	unknown	unknown	“Ｖ”字型的创意并不是心血来潮，而是经过分析和试验获得的。	0	0	0		

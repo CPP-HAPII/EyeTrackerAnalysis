@@ -1,0 +1,31 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080418.0022.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	王志文自曝要当爸爸了 开心大笑：新婚很幸福	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月18日 15:50 来源：钱江晚报 发表评论	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	900.000	950.000	TEXT1	unknown	unkown	傍晚6点，整整5个小时的高尔夫球赛终于结束。	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	950.000	975.000	TEXT1	unknown	unkown	采访时间到了，媒体争先恐后地把长枪短炮一齐向他伸了过去，还没发话，王志文就边走边主动打招呼：“你们好！”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	笑容灿烂得如同见到了多年不见的老友。	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	奇怪的是，记者们反而有些惶恐，因为这根本不是我们熟悉的王志文。	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	反应过来的老记们一拥而上。“王老师可以采访你么？”	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	王志文回头，笑道：“当然可以！来吧。”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	他开始侃侃而谈高尔夫球：“今天打得非常愉快！	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	对了，你打过高尔夫球吗？”	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	1575.000	1587.500	TEXT1	unknown	unkown	被他反问的女记者一愣，答：“没有。”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1587.500	1593.750	TEXT1	unknown	unkown	他又接着说：“有时间你应该多打打。	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1593.750	1600.000	TEXT1	unknown	unkown	高尔夫球能够培养人的自律、诚实的品质，就像今天，我的球友们都很平静地接受了处罚。”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	“你的球技进步了吗？”	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	王志文说：“当然啦！	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	今天18洞我打了85杆，这可比我以前的成绩好多了。”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	“佟大为今天结婚了，你知道吗？”	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	王志文夸张地睁圆双眼：“哎呀太好太好了，恭喜恭喜！”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2175.000	2187.500	TEXT1	unknown	unkown	顿了顿，他说：“大为是一个很用功的年轻人，现在像他这样有朝气的年轻人不多了，就像我年轻时候一样！”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2187.500	2200.000	TEXT1	unknown	unkown	接着，他狂笑起来。	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2400.000	2450.000	TEXT1	unknown	unkown	话题终于被引到他的新婚了。	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2450.000	2475.000	TEXT1	unknown	unkown	“我很幸福……怎么幸福法？	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2475.000	2487.500	TEXT1	unknown	unkown	哈哈，不能用语言来形容。”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2487.500	2493.750	TEXT1	unknown	unkown	为什么太太没有来？	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2493.750	2496.875	TEXT1	unknown	unkown	“可惜她去北京开会了。”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2496.875	2498.438	TEXT1	unknown	unkown	那么，他是不是要当爸爸了？	0	0	0		question
+CNS_CMN_20080418.0022.sgm	0	2498.438	2499.219	TEXT1	unknown	unkown	“哈哈！是啊是啊！”	0	0	0		statement
+CNS_CMN_20080418.0022.sgm	0	2499.219	2500.000	TEXT1	unknown	unkown	王志文大笑，喜悦发自内心。 记者 屠晨昕	0	0	0		statement

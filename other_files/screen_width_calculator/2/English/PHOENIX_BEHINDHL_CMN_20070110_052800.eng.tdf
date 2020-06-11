@@ -1,0 +1,733 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 112.054, 183.524, 361.98899999999998, 439.26400000000001, 1025.3499999999999, 1091.3989999999999, 1611.9849999999999, 1698.1120000000001, 1878.7090000000001, 9999999.0]
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	0.000	4.251	Liu_siqi	female	native	Communication in the place where he was going was not convenient; if I didn't get mail from him,	0	0	0	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	5.120	6.108	Liu_siqi	female	native	uh, don't be anxious.	0	0	2	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	6.952	9.341	Chen_xiaonan	female	native	What kind of condition was he in when he said that?	0	1	4	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	10.090	13.982	Liu_siqi	female	native	He said that, very calm, spoke up in a very calm way,	0	2	6	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	14.850	19.491	Liu_siqi	female	native	that is, you wouldn't, wouldn't see any, anything was wrong with him.	0	2	8	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	19.491	19.725	Chen_xiaonan	female	native	Um.	0	3	9	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	20.240	23.801	Liu_siqi	female	native	At the end, at the end before he left, and he told, he said,	0	4	11	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	24.367	27.066	Liu_siqi	female	native	he asked me to just keep an eye out for Jiang Qing,	0	4	13	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	27.635	30.060	Liu_siqi	female	native	then he saw that I didn't quite catch him.	0	4	15	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	30.869	32.266	Liu_siqi	female	native	He then said that	0	4	17	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	32.766	35.332	Liu_siqi	female	native	he had been on bad terms with Jiang Qing,	0	4	19	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	35.332	41.648	Liu_siqi	female	native	he once quarreled with Jiang Qing, he told Jiang Qing, "If you don't love my father,	0	4	20	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	42.456	43.504	Liu_siqi	female	native	then you just stay away."	0	4	22	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	44.941	47.323	Liu_siqi	female	native	I sent him off, sent him off to that,	0	4	24	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	47.852	51.899	Liu_siqi	female	native	uh, out of the patients' ward building, that was inside the courtyard.	0	4	26	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	51.899	52.516	Chen_xiaonan	female	native	Um.	0	5	27	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	52.516	58.921	Liu_siqi	female	native	At the door of that building, he didn't let me leave, 'cause that was already, that was already mid-October, and it was colder,	0	6	28	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	58.921	61.516	Liu_siqi	female	native	"You just don't go," he said, "it is very cold outside."	0	6	29	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	63.013	66.335	Liu_siqi	female	native	He then said good-bye and left. I just stood at the door,	0	6	31	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	66.335	68.922	Liu_siqi	female	native	after he walked a few steps, after, then he went down the stairs,	0	6	32	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	69.422	72.688	Liu_siqi	female	native	he turned again out of the blue and then simply gave me a bow;	0	6	34	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	72.688	74.568	Liu_siqi	female	native	that was a very, very deep,	0	6	35	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	75.313	77.053	Liu_siqi	female	native	a very, very deep bow;	0	6	37	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	77.801	80.034	Liu_siqi	female	native	then he stood still, took a look at me, and	0	6	39	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	80.607	83.937	Liu_siqi	female	native	turned again and went. At that time, I felt that it was odd,	0	6	41	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	83.937	91.902	Liu_siqi	female	native	I gathered, 'cause in the past he went on business trips, something like that, +quite often, it seemed that he hadn't done that before, so I was wondering, then what was going on.	0	6	42	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	92.496	93.519	Liu_siqi	female	native	(())	0	6	44	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	97.679	102.561	speaker#1	male	native	Liu Siqi was only nineteen years old, and married Mao Anying for just one year, he would not know,	0	7	46	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	103.077	105.705	speaker#1	male	native	that Mao Anying left, never came back again.	0	7	48	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	106.633	112.054	speaker#1	male	native	The grave moment of parting the loved ones forever was but lightly swept over Liu Siqi's life.	0	7	50	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	183.524	185.836	Chen_xiaonan	female	native	November 25, 1950,	2	9	52	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	185.836	189.992	Chen_xiaonan	female	native	Peng Dehuai, Commander-in-Chief of the volunteer army, sent a telegram from North Korea to Beijing,	2	9	53	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	189.992	192.200	Chen_xiaonan	female	native	reporting the news of Mao Anying's sacrifice.	2	9	54	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	192.841	198.308	Chen_xiaonan	female	native	At the time, the information was not immediately reported to Mao Zedong; it was not until a month later that he learned about the terrible news.	2	9	56	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	199.078	203.721	Chen_xiaonan	female	native	Ye Zilong, then the director of the Confidential Office of CCCPC ((pw)) recalls the situation at that time.	2	9	58	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	204.311	210.128	Chen_xiaonan	female	native	He said that it took a full three or four minutes for Mao Zedong to read that brief report, and he buried his head very deeply,	2	9	60	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	210.817	215.302	Chen_xiaonan	female	native	but when he raised his head, I saw there were no tears in his eyes, and any expression in his face either;	2	9	62	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	215.302	217.338	Chen_xiaonan	female	native	but his complexion looked very awkward.	2	9	63	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	218.053	222.638	Chen_xiaonan	female	native	Then he waved at me and said, "It's a war, isn't it, there will be sacrifices anyway, it's not a big deal though."	2	9	65	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	223.714	229.258	Chen_xiaonan	female	native	Actually, at that time, the news of Mao Anying's sacrifice had been considered a highly confidential matter for a very long period of time.	2	9	67	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	229.258	233.992	Chen_xiaonan	female	native	Only Mao Zedong, Jiang Qing and a few others knew the real situation; other people were all kept in the dark,	2	9	68	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	234.592	238.336	Chen_xiaonan	female	native	and among those was also his newlywed wife, Liu Siqi.	2	9	70	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	240.632	244.523	speaker#1	male	native	One summer afternoon in 1952, in the courtyard of Zhongnanhai,	2	10	72	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	244.523	247.848	speaker#1	male	native	Mao Zedong told Liu Siqi something which was filled with implications.	2	10	73	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	248.955	252.096	Liu_siqi	female	native	That probably was something he told me about in the summer of 1952.	2	11	75	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	252.728	254.974	Liu_siqi	female	native	The martyrs in the family alone were counted,	2	11	77	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	255.474	260.153	Liu_siqi	female	native	five ones, uh, he told me how Yang Kaihui sacrificed in Xinjiang,	2	11	79	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	260.153	265.975	Liu_siqi	female	native	the spot he mentioned was in Xinjiang, where she was killed by (()), when he came to those	2	11	80	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	266.699	268.167	Liu_siqi	female	native	he was very sentimental,	2	11	82	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	268.680	271.468	Liu_siqi	female	native	but at that time, I didn't associate the stories with Mao Anying at all.	2	11	84	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	272.368	277.316	Liu_siqi	female	native	One took it just for granted, once doing the revolution, there would be sacrifices, for sure.	2	11	86	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	278.811	283.902	speaker#1	male	native	Early in 1953, Liu Siqi received a picture sent from photographer Hou Bo.	2	12	88	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	284.421	288.940	speaker#1	male	native	In the picture, Mao Anying wore a military cap and the uniform of the voluntary army.	2	12	90	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	288.940	294.930	Liu_siqi	female	native	Once I took a look, ah, I felt my heart thumped, I said, "Oh, where he went was North Korea,"	2	13	91	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	295.888	296.517	Liu_siqi	female	native	then,	2	13	93	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	297.415	302.719	Liu_siqi	female	native	while Comrade Hou Bo gave me this picture, Jiang Qing's sister was standing next to me,	2	13	95	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	303.378	306.017	Liu_siqi	female	native	and Jiang Qing's sister didn't know that he went to North Korea either.	2	13	97	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	306.592	312.375	Liu_siqi	female	native	So, the moment Jiang Qing's sister saw the picture, she cried out, and said, "Oh, that's where he went."	2	13	99	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	314.306	315.026	Chen_xiaonan	female	native	How did you feel?	2	14	101	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	315.653	317.216	Liu_siqi	female	native	Oh, it's at that moment, I,	2	15	103	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	317.750	319.061	Liu_siqi	female	native	from that moment on, my heart	2	15	105	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	319.637	320.674	Liu_siqi	female	native	didn't feel at ease any more.	2	15	107	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	322.296	326.359	speaker#1	male	native	November 25, 1950, just one month after we entered and were stationed in North Korea,	2	16	109	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	326.359	329.004	speaker#1	male	native	Mao Anying sacrificed himself on the battlefield in North Korea,	2	16	110	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	329.598	332.955	speaker#1	male	native	and Liu Siqi didn't know the truth until three years later.	2	16	112	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	334.033	336.325	Chen_xiaonan	female	native	As nobody knew that Mao Anying was sacrificed,	2	17	114	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	337.373	338.404	Chen_xiaonan	female	native	until (())	2	17	116	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	339.107	339.844	Chen_xiaonan	female	native	it remained as	2	17	118	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	340.438	341.268	Chen_xiaonan	female	native	confidential status.	2	17	120	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	342.732	345.075	Chen_xiaonan	female	native	So, nobody knew that I was	2	17	122	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	345.700	347.030	Chen_xiaonan	female	native	a person without a husband already.	2	17	124	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	347.769	350.434	Chen_xiaonan	female	native	Well, in your work, did you act any differently from your usual self?	2	18	126	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	350.434	351.218	Chen_xiaonan	female	native	Or, you were still acting	2	19	127	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	350.434	351.218	Liu_siqi	female	native	(())	2	19	128	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	351.218	351.890	Chen_xiaonan	female	native	normal.	2	20	129	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	351.890	354.171	Liu_siqi	female	native	I was ((pw)) like the Chairman, I was acting also,	2	21	130	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	354.921	359.662	Liu_siqi	female	native	I felt that I could to (()) a place to cry by myself,	2	21	132	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	361.069	361.989	Liu_siqi	female	native	(())	2	21	134	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	439.264	441.155	Dou_wentao	male	native	This is "Behind the Headlines with Wentao," hello everybody!	4	23	136	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	441.155	445.679	Dou_wentao	male	native	Today, I and Teacher Xu are all taken as green leaves, ah, for the sole purpose of this red flower,	4	23	137	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	445.679	446.444	Dou_wentao	male	native	(())	4	23	138	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	446.444	448.015	Dou_wentao	male	native	our Ms. Yu Dan.	4	23	139	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	448.015	453.899	Dou_wentao	male	native	Hey, it's hot, oh Ms. Yu Dan, so hot that she was on Forum of Hundreds, lectures this, ya,	4	23	140	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	453.899	456.383	Dou_wentao	male	native	the level her lecturing has reached has already been the professional one of TV scholar.	4	23	141	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	456.383	458.060	Dou_wentao	male	native	Do you know what this flower of hers is for?	4	23	142	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	458.588	460.307	Dou_wentao	male	native	It's for hiding the microphone.	4	23	144	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	461.624	465.546	Dou_wentao	male	native	Teacher Yu, a year ago, that's why people say this, whenever three people travel together, there must be one teacher of mine.	4	23	146	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	465.546	471.396	Dou_wentao	male	native	In fact, before +she was everybody's teacher, um, she was a teacher of our television station.	4	23	147	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	471.396	475.581	Dou_wentao	male	native	When we, uh, attended a meeting in Beijing, I still remember that you presented your views vehemently,	4	23	148	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	475.581	479.659	Dou_wentao	male	native	never expected that when later this teacher came before the screen, ah, she was much hotter than we were.	4	23	149	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	479.659	481.346	Dou_wentao	male	native	How can we even catch up, this ginger, ah,	4	23	150	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	482.315	483.437	Dou_wentao	male	native	still the teacher's is spicier.	4	23	152	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	483.437	484.096	Yu_dan	female	native	Got old, right?	4	24	153	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	484.096	487.218	Dou_wentao	male	native	((pw)), ((pw)), still the teacher's is spicier, still the teacher's is spicier.	4	25	154	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	484.096	487.218	Yu_dan	female	native	(())	4	25	155	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	487.218	492.987	Dou_wentao	male	native	You feel how hot she gets, not to mention that more than a million copies of the books have been sold; it is, for example, one of our colleagues went to that book store,	4	26	156	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	492.987	495.409	Dou_wentao	male	native	to work on something, the shop assistants in the book store said,	4	26	157	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	495.409	498.706	Dou_wentao	male	native	"Oh, we don't have time, we don't have time, this afternoon we're just handling one single matter,	4	26	158	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	498.706	501.347	Dou_wentao	male	native	know who is coming?" They said Yu Dan is coming.	4	26	159	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	501.347	505.965	Dou_wentao	male	native	This is how hot she gets; just take a look at the outfit you are wearing, it does show that your luck is going hot recently!	4	26	160	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	506.624	507.305	Yu_dan	female	native	Recently?	4	27	162	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	506.624	507.305	Xu_zidong		native	Um?	4	27	163	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	507.305	508.011	Dou_wentao	male	native	Um.	4	28	164	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	508.011	510.246	Yu_dan	female	native	I am a bit beyond the control of myself recently.	4	29	165	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	510.246	513.825	Yu_dan	female	native	The main reason is that I feel I have already gotten too far away from this television profession, major.	4	29	166	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	513.825	514.783	Dou_wentao	male	native	(())	4	30	167	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	514.783	516.964	Yu_dan	female	native	Recently, I am considering going back.	4	31	168	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	516.964	520.801	Dou_wentao	male	native	Everybody else all said that Yi Zhongtian is an academic superman, and she is an academic superwoman.	4	32	169	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	520.801	522.688	Yu_dan	female	native	Wentao, do you think this is a good word?	4	33	170	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	522.688	525.652	Dou_wentao	male	native	I feel that you are a superwoman, really, Teacher Yu.	4	34	171	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	525.652	529.576	Dou_wentao	male	native	In her, ah, she has something that I have, no, something that I don't have.	4	34	172	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	529.576	533.312	Dou_wentao	male	native	From her, I feel that I have a drastic change in my view of ordinary women.	4	34	173	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	533.823	536.209	Dou_wentao	male	native	She, first of all, ah, you, she has ((pw)),	4	34	175	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	536.803	537.558	Dou_wentao	male	native	noble	4	34	177	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	537.558	537.798	Dou_wentao	male	native	spirit.	4	35	178	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	537.558	537.798	Xu_zidong		native	((pw))	4	35	179	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	537.798	538.844	Xu_zidong		native	((pw)) women don't have spirit.	4	36	180	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	539.344	545.069	Dou_wentao	male	native	Ordinary women won't be like her; you know how she quotes sentences or stories from the classics, the poetry of both the Tang and Song Dynasties gurgles, gurgles, gurgles from her mouth, uh, uh, uh,	4	37	182	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	545.069	547.229	Dou_wentao	male	native	with absolutely no mistake for a single character, oh.	4	37	183	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	547.966	548.484	Dou_wentao	male	native	Also.	4	38	185	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	547.966	548.484	Yu_dan	female	native	How do you	4	38	186	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	548.484	549.541	Yu_dan	female	native	know that there was no mistake?	4	39	187	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	550.070	550.739	Dou_wentao	male	native	Oh, there is some also.	4	40	189	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	550.739	552.802	Yu_dan	female	native	Some, you just can't figure out.	4	41	190	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	552.802	553.503	Dou_wentao	male	native	(())	4	42	191	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	553.503	554.730	Dou_wentao	male	native	(())	4	43	192	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	553.503	554.730	Xu_zidong		native	(())	4	43	193	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	554.730	557.127	Xu_zidong		native	The opera is that a layman can't tell right from wrong.	4	44	194	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	557.127	557.704	Yu_dan	female	native	Oh.	4	45	195	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	557.127	557.704	Dou_wentao	male	native	Um.	4	45	196	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	557.704	560.660	Yu_dan	female	native	Teacher Xu'comment is more accurate, you are	4	46	197	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	560.660	561.094	Yu_dan	female	native	exaggerating a bit.	4	47	198	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	560.660	561.094	Dou_wentao	male	native	Is that right?	4	47	199	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	561.094	561.477	Yu_dan	female	native	Um.	4	48	200	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	561.477	566.567	Dou_wentao	male	native	So, the reason we invited Teacher Yu here today to talk about this, I really want to talk about what purpose of our program,	4	49	201	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	566.567	570.693	Dou_wentao	male	native	that is, to learn something about the Analects of Confucius, something like: whenever three +people travel together, there must be one teacher of mine.	4	49	202	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	570.693	571.537	Xu_zidong		native	Three of us walking together.	4	50	203	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	571.537	572.106	Yu_dan	female	native	{laugh}	4	51	204	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	572.106	575.208	Dou_wentao	male	native	Three persons, there must be a teacher of mine, do you know what are the next two sentences?	4	52	205	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	575.208	575.952	Dou_wentao	male	native	What?	4	53	206	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	575.208	575.952	Xu_zidong		native	Right.	4	53	207	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	575.952	579.279	Dou_wentao	male	native	I choose his strong point from which I learn, whereas find out what his shortcoming is, by which I measure myself to rectify mine.	4	54	208	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	579.279	583.642	Yu_dan	female	native	Right, you basically are taking me as the one with the shortcoming, while I'm taking Teacher Xu as the one with the strong point.	4	55	209	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	583.642	584.113	Dou_wentao	male	native	Oh, I	4	56	210	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	584.113	584.919	Dou_wentao	male	native	guess you would have to	4	57	211	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	584.113	584.919	Yu_dan	female	native	You are far from it.	4	57	212	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	584.919	585.248	Dou_wentao	male	native	say it this way.	4	58	213	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	585.248	587.075	Yu_dan	female	native	{laugh}	4	59	214	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	587.075	590.219	Xu_zidong		native	Recently we, uh, I had a meeting at the Chinese University of Hong Kong;	4	60	215	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	590.219	590.754	Dou_wentao	male	native	Um.	4	61	216	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	590.219	590.754	Xu_zidong		native	there was a	4	61	217	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	590.754	596.926	Xu_zidong		native	group of top-notch scholars, those who studied the same subject at Harvard, uh, Beijing University, uh, it's, it's an assembly of the best scholars in the world.	4	62	218	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	596.926	597.629	Xu_zidong		native	When we were eating,	4	62	219	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	598.195	600.100	Xu_zidong		native	for no reason at all, we started to talk about Yu Dan.	4	62	221	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	600.100	600.591	Dou_wentao	male	native	You're right,	4	63	222	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	600.591	601.581	Dou_wentao	male	native	(())	4	64	223	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	600.591	601.581	Xu_zidong		native	Right, I don't know how we started to talk about	4	64	224	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	601.581	602.544	Xu_zidong		native	Yu Dan, then,	4	65	225	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	603.081	605.581	Xu_zidong		native	uh, let me, uh, tell you the truth.	4	65	227	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	605.581	605.987	Yu_dan	female	native	Um.	4	66	228	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	605.987	607.253	Xu_zidong		native	Everybody expressed their envy.	4	67	229	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	607.940	609.523	Xu_zidong		native	Why? They all said,	4	67	231	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	610.383	613.924	Xu_zidong		native	in the end, every one of these top scholars told the number of their publications,	4	67	233	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	614.523	616.992	Xu_zidong		native	and there were only 7,000 or 10,000;	4	67	235	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	616.992	619.831	Xu_zidong		native	then they said (()), the interviews in the 80s,	4	67	236	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	619.831	620.340	Dou_wentao	male	native	Um.	4	68	237	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	620.340	623.293	Xu_zidong		native	those books were so popular, but actually only 30 to 40 thousand copies were sold,	4	69	238	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	624.168	627.605	Xu_zidong		native	so, the total number of copies from those people at the table had no comparison to one book of hers.	4	69	240	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	627.605	630.925	Xu_zidong		native	Can you imagine the group of scholars, uh, uh,	4	69	241	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	630.925	631.257	Xu_zidong		native	ah.	4	70	242	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	630.925	631.257	Dou_wentao	male	native	If it were	4	70	243	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	631.257	631.943	Dou_wentao	male	native	me, I would have the	4	71	244	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	631.943	632.335	Dou_wentao	male	native	intention of killing her.	4	72	245	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	631.943	632.335	Xu_zidong		native	Oh.	4	72	246	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	632.335	638.289	Xu_zidong		native	At the end, at the end one scholar thought of, a, a saying, and immediately quelled the anger of those people.	4	73	247	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	638.289	638.925	Xu_zidong		native	Let's say,	4	73	248	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	639.488	640.858	Xu_zidong		native	what she belongs to is the show business,	4	73	250	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	641.557	644.461	Xu_zidong		native	what we do is academic, that is to say, as soon as it is something of show business,	4	73	252	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	644.461	644.761	Dou_wentao	male	native	Um.	4	74	253	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	644.761	646.707	Xu_zidong		native	everyone, a lot of people wouldn't take it so seriously.	4	75	254	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	646.707	646.977	Dou_wentao	male	native	Right.	4	76	255	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	646.977	648.465	Xu_zidong		native	+Only I myself still have taken it too seriously,	4	77	256	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	648.978	652.935	Xu_zidong		native	since I have also sunk low into the show business for several years, but still 7,000 copies of my book were sold.	4	77	258	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	652.935	655.959	Xu_zidong		native	Uh, aren't you launching an attack that we Phoenix Satellite TV are not as good as CCTV?	4	78	259	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	652.935	655.959	Dou_wentao	male	native	{laugh}	4	78	260	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	655.959	657.007	Xu_zidong		native	{laugh}	4	78	261	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	655.959	657.007	Dou_wentao	male	native	{laugh}	4	78	262	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	657.007	659.441	Yu_dan	female	native	Uh, actually what Teacher Xu said, ha,	4	79	263	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	660.019	664.732	Yu_dan	female	native	I feel that it is very natural, that is, why do we have this phenomenon now?	4	79	265	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	664.732	665.061	Dou_wentao	male	native	Um.	4	80	266	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	665.061	666.199	Yu_dan	female	native	It reminds me of a story.	4	81	267	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	666.199	666.588	Dou_wentao	male	native	Um.	4	82	268	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	666.588	666.978	Yu_dan	female	native	Do you know,	4	83	269	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	667.665	669.732	Yu_dan	female	native	I am sure you know the Chinese miracle-working doctor, Hua Tuo,	4	83	271	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	669.732	670.211	Dou_wentao	male	native	Oh, Hua Tuo.	4	84	272	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	670.211	671.079	Yu_dan	female	native	and also Bian Que.	4	85	273	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.079	671.379	Dou_wentao	male	native	Right.	4	86	274	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.379	671.529	Yu_dan	female	native	Right.	4	87	275	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.529	671.780	Yu_dan	female	native	((pw))?	4	88	276	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	671.529	671.780	Dou_wentao	male	native	Yes.	4	88	277	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	672.649	673.188	Yu_dan	female	native	Bian Que	4	89	279	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	674.026	676.032	Yu_dan	female	native	also claimed to be famous everywhere.	4	89	281	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	676.032	676.212	Dou_wentao	male	native	Um.	4	90	282	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	676.212	677.711	Yu_dan	female	native	One time, Emperor Wei Wen came to look for him,	4	91	283	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	677.711	677.949	Dou_wentao	male	native	Right.	4	92	284	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	677.949	680.984	Yu_dan	female	native	and asked him, "I heard that all three brothers in your family have learned medicine;	4	93	285	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	681.494	683.039	Yu_dan	female	native	say, how are those two brothers of yours?"	4	93	287	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	683.650	689.846	Yu_dan	female	native	Without thinking, he responded immediately, "Among the three brothers, my oldest brother's skill is the best,	4	93	289	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	689.846	692.829	Yu_dan	female	native	the skill of my second brother is second best, and mine is the worst."	4	93	290	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	692.829	693.440	Dou_wentao	male	native	Uh-huh.	4	94	291	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	693.440	695.769	Yu_dan	female	native	But Emperor Wei Wen said, "Then how come they are not as famous as you are?"	4	95	292	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	696.403	696.844	Yu_dan	female	native	He replied,	4	96	294	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	696.403	696.844	Xu_zidong		native	"Bian Que.	4	96	295	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	696.844	698.940	Xu_zidong		native	Bian Que got onto the Forum of Hundreds."	4	97	296	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	698.940	699.539	Yu_dan	female	native	Uh.	4	98	297	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	699.539	699.960	Dou_wentao	male	native	Bian Que.	4	99	298	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	699.960	702.157	Yu_dan	female	native	Bian Que told Emperor Wei Wen,	4	100	299	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	702.157	702.488	Yu_dan	female	native	uh, between	4	101	300	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	702.157	702.488	Dou_wentao	male	native	Um.	4	101	301	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	702.488	703.655	Yu_dan	female	native	us two quietly,	4	102	302	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	703.655	704.104	Dou_wentao	male	native	Um.	4	103	303	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	704.104	707.448	Yu_dan	female	native	he said, "My oldest brother can prevent the illness from happening;	4	104	304	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	707.448	710.101	Yu_dan	female	native	you are not sick yet, he just takes one look at your complexion, and he can just nurse you and you are just fine."	4	104	305	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	710.101	710.686	Dou_wentao	male	native	Oh.	4	105	306	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.195	711.733	Yu_dan	female	native	Therefore,	4	106	308	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.733	711.979	Yu_dan	female	native	he	4	107	309	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.733	711.979	Xu_zidong		native	((pw))	4	107	310	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	711.979	712.441	Xu_zidong		native	((pw)) medicine.	4	108	311	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	712.441	715.435	Yu_dan	female	native	Others think that he doesn't know how to cure diseases, and he is not known at all.	4	109	312	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	715.435	715.733	Dou_wentao	male	native	Um.	4	110	313	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	715.733	718.530	Yu_dan	female	native	He said, "My second brother knows how to cure ailments;	4	111	314	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	718.530	721.422	Yu_dan	female	native	that means, when the illness just starts, he can control it with medicine."	4	111	315	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	721.422	723.713	Yu_dan	female	native	How about SARS, your cough and cold just start,	4	111	316	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	723.713	724.258	Yu_dan	female	native	and you get recuperated already.	4	112	317	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	723.713	724.258	Dou_wentao	male	native	Strangle it	4	112	318	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	724.258	724.863	Dou_wentao	male	native	while it is still budding.	4	113	319	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	724.863	730.096	Yu_dan	female	native	Right, so he said, everybody thought that he could cure that kind of minor ailments, that's why his fame is just limited within the villages.	4	114	320	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	730.096	730.711	Dou_wentao	male	native	Um.	4	115	321	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	730.711	733.023	Yu_dan	female	native	And he said, "I am the most unpromising one;	4	116	322	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	733.023	739.458	Yu_dan	female	native	I can only wait for a person whose illness is terminal and is almost gasping his last, and then prescribe some extremely strong medicine to revive him;	4	116	323	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	739.458	742.193	Yu_dan	female	native	therefore, everybody thinks that I am a miracle-working doctor.	4	116	324	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	742.193	746.584	Yu_dan	female	native	But, but, when you think about it, say, if you cure people like my oldest brother, no harm would be done to the vitality of these people at all."	4	116	325	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	746.584	747.127	Dou_wentao	male	native	Um.	4	117	326	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	746.584	747.127	Yu_dan	female	native	"Like my,	4	117	327	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	747.127	750.038	Yu_dan	female	native	and my second older brother, as soon as slight harm was done to the vitality, he recovered;	4	118	328	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	750.038	754.179	Yu_dan	female	native	he said, like what I'm doing, although the patient's life is not lost, great harm has been done to his vitality already."	4	118	329	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	754.790	759.017	Dou_wentao	male	native	You see, how Bian Que really knew how to talk, so that everyone is useful in this world.	4	119	331	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	759.017	761.138	Dou_wentao	male	native	Let me tell you, Teacher Xu, this kind of phenomenon you talk about,	4	119	332	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	761.138	764.236	Dou_wentao	male	native	I can't +help but think of the German sinologist, Kubin, who was mentioned a little while ago.	4	119	333	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	764.236	764.556	Xu_zidong		native	That's right.	4	120	334	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	764.556	768.341	Dou_wentao	male	native	Although people said that he has exaggerated, but he was just making a comment out of personal feeling,	4	121	335	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	768.341	772.186	Dou_wentao	male	native	say that you Chinese intellectuals, I, of course I am not, saying that you Chinese intellectuals,	4	121	336	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	772.186	773.574	Xu_zidong		native	No, no, no, Chinese writers.	4	122	337	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	773.574	775.319	Dou_wentao	male	native	Oh, writers, also,	4	123	338	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	773.574	775.319	Xu_zidong		native	Chinese writers. What he meant also was...	4	123	339	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	775.319	779.701	Dou_wentao	male	native	those who are timid, but look down upon each other, they have mutual contempt toward each other.	4	124	340	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	779.701	780.060	Xu_zidong		native	Right.	4	125	341	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	780.060	782.971	Dou_wentao	male	native	So, why do I bring this up? Let me tell you, something happened recently,	4	126	342	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	782.971	785.988	Dou_wentao	male	native	there is also a scholar who is on a television program, Li Ao.	4	126	343	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	785.988	786.378	Yu_dan	female	native	Um.	4	127	344	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	786.378	789.462	Dou_wentao	male	native	"Li Ao Has Something to Say" is to be finished, finally, I heard that he	4	128	345	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	789.462	789.778	Dou_wentao	male	native	finally...	4	129	346	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	789.462	789.778	Xu_zidong		native	Li Ao	4	129	347	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	789.778	790.497	Xu_zidong		native	doesn't do that now?	4	130	348	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	790.497	791.335	Dou_wentao	male	native	Not any more, ((pw)), ((pw))	4	131	349	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	791.335	791.850	Dou_wentao	male	native	finally, he said	4	132	350	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	791.335	791.850	Yu_dan	female	native	he doesn't have	4	132	351	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	791.850	792.416	Yu_dan	female	native	things to say, does he?	4	133	352	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	792.416	797.825	Dou_wentao	male	native	Uh, uh, maybe, stop while he is appreciated, uh, says goodbye to everybody.	4	134	353	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	798.325	799.515	Dou_wentao	male	native	But you know me.	4	134	355	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	799.515	799.849	Yu_dan	female	native	Um.	4	135	356	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	799.849	804.856	Dou_wentao	male	native	I watch his program on Phoenix Wideband; after he was done, I said to him,	4	136	357	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	804.856	810.372	Dou_wentao	male	native	I said, teacher, oh, teacher, I was just reminded of what Dong Qichang, uh, wrote in the painting of Huang Gong Wang,	4	136	358	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	811.270	813.605	Dou_wentao	male	native	"My teacher, my teacher."	4	136	360	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	813.605	813.785	Yu_dan	female	native	Um.	4	137	361	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	813.785	818.206	Dou_wentao	male	native	My teacher, oh, my teacher, oh, let me tell you why, I am not his follower,	4	138	362	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	818.206	822.378	Dou_wentao	male	native	I even don't necessarily agree with many of his viewpoints, but what I watch	4	138	363	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	823.336	824.794	Dou_wentao	male	native	the most, is his television program.	4	138	365	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	824.794	825.115	Yu_dan	female	native	Um.	4	139	366	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	824.794	825.115	Dou_wentao	male	native	More	4	139	367	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	825.115	826.808	Dou_wentao	male	native	than I watch my own program.	4	140	368	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	826.808	831.355	Dou_wentao	male	native	This shows that, for me, television is not a tool for entertainment, it is not a pastime;	4	140	369	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	831.355	834.407	Dou_wentao	male	native	it is just like the Forum of Hundreds, for me, it is a tool for education;	4	140	370	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	834.926	836.839	Dou_wentao	male	native	it is like I am going to class.	4	140	372	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	836.839	841.038	Dou_wentao	male	native	Why do I say it this way? I know many people loathe him; many do not like him,	4	140	373	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	841.038	842.772	Dou_wentao	male	native	but I say, uh, this, this,	4	140	374	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	843.273	846.055	Dou_wentao	male	native	it is just a waste of time, has, has nothing to do with me,	4	140	376	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	846.055	849.141	Dou_wentao	male	native	'cause for me, a 70-year-old man,	4	140	377	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	850.099	855.160	Dou_wentao	male	native	uh, who experienced vicissitudes and instabilities; right? He wrote one hundred books, and 96 of them were banned.	4	140	379	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	855.160	855.549	Yu_dan	female	native	Right.	4	141	380	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	855.549	856.415	Dou_wentao	male	native	He was also imprisoned.	4	142	381	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	856.986	860.759	Dou_wentao	male	native	Let's put it in coarse language, this (()) was (()) not too bad, the girl he found was pretty, too.	4	142	383	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	861.364	862.824	Dou_wentao	male	native	How is this, this kind of person,	4	142	385	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	863.420	866.978	Dou_wentao	male	native	he said something from his experiences, it can eventually educate me.	4	142	387	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	867.795	870.076	Dou_wentao	male	native	You, if you don't agree, you don't have to agree,	4	142	389	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	870.076	873.728	Dou_wentao	male	native	then somebody said that he is garrulous, he is 70 years old and wordy, or how he is,	4	142	390	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	874.238	876.558	Dou_wentao	male	native	but, I choose his strong point from which I learn.	4	142	392	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	876.558	876.766	Yu_dan	female	native	Right.	4	143	393	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	876.766	877.197	Xu_zidong		native	Right.	4	144	394	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	877.197	879.291	Dou_wentao	male	native	Right? And I feel now that	4	145	395	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	879.291	881.150	Dou_wentao	male	native	you, sometimes you don't expect it,	4	145	396	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	881.150	884.592	Dou_wentao	male	native	you follow a teacher, he did not expect what you have learned from him.	4	145	397	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	884.592	885.191	Yu_dan	female	native	Right.	4	146	398	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	885.191	885.836	Dou_wentao	male	native	For instance	4	147	399	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	886.367	887.346	Dou_wentao	male	native	Li Ao, let me tell you,	4	147	401	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	887.851	890.082	Dou_wentao	male	native	he pioneered a style of television program.	4	147	403	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	890.082	890.412	Yu_dan	female	native	Um.	4	148	404	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	890.412	894.672	Dou_wentao	male	native	Now, aren't you TV scholars all saying that, saying that none of the Chinese original TV programs are hot,	4	149	405	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	895.172	898.257	Dou_wentao	male	native	but Li Ao's style organizes various materials,	4	149	407	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	898.946	902.718	Dou_wentao	male	native	uh, a condition of a quasi-live program, he faced the camera all by himself, with no audience,	4	149	409	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	902.718	905.059	Dou_wentao	male	native	but he shows his characters, vividly and dramatically.	4	149	410	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	905.569	907.928	Dou_wentao	male	native	Let me tell you, even we hosts cannot do that,	4	149	412	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	908.856	911.640	Dou_wentao	male	native	cannot achieve this, uh, this, maybe only Teacher Yu Dan can do that.	4	149	414	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	911.640	912.235	Yu_dan	female	native	No way.	4	150	415	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	911.640	912.235	Xu_zidong		native	(())	4	150	416	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	912.235	914.305	Xu_zidong		native	No, you still have an audience in front of you.	4	151	417	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	914.305	918.565	Yu_dan	female	native	With an audience, actually, I believe that what Wentao said about Teacher Li Ao, is just this phenomenon.	4	152	418	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	918.565	918.886	Dou_wentao	male	native	Um.	4	153	419	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	918.886	922.182	Yu_dan	female	native	It has a lot to do with the spirit, very much related.	4	154	420	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	922.182	922.749	Dou_wentao	male	native	Oh?	4	155	421	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	922.749	926.486	Yu_dan	female	native	In fact, I, there are actually statistics in our study of communication,	4	156	422	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	926.486	930.845	Yu_dan	female	native	that state that humans can only deliver 38% of their messages through languages,	4	156	423	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	930.845	935.529	Yu_dan	female	native	and the remaining 62% is something called auxiliary language system, which is a person's aura,	4	156	424	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	935.529	937.627	Yu_dan	female	native	like your gestures, ah, your posture, ah.	4	157	425	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	935.529	937.627	Xu_zidong		native	I just feel that you have adequate aura, posture,	4	157	426	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	937.627	940.781	Xu_zidong		native	and how you speak, uh, uh.	4	158	427	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	940.781	943.403	Yu_dan	female	native	Is that right? Actually, for Mr. Li Ao, you just feel that this person	4	159	428	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	943.932	945.961	Yu_dan	female	native	first of all, that he is very talented,	4	159	430	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	945.961	946.350	Dou_wentao	male	native	Um.	4	160	431	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	946.350	947.395	Yu_dan	female	native	his brilliance is pressing on you.	4	161	432	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	947.913	948.414	Yu_dan	female	native	Secondly,	4	161	434	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	948.942	953.154	Yu_dan	female	native	he has real spirit, you can feel that he is filled with sincerity, whatever he says is true.	4	161	436	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	953.708	957.005	Yu_dan	female	native	Also, Teacher Li Ao has a bit of perversity.	4	161	438	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	957.005	957.608	Dou_wentao	male	native	Perversity.	4	162	439	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	957.608	960.797	Yu_dan	female	native	Yes, this is also lacking in ordinary TV	4	163	440	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	960.797	961.043	Yu_dan	female	native	figures.	4	164	441	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	960.797	961.043	Dou_wentao	male	native	You,	4	164	442	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	961.043	961.637	Dou_wentao	male	native	what you said here, I	4	165	443	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	961.637	962.060	Dou_wentao	male	native	especially...	4	166	444	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	961.637	962.060	Xu_zidong		native	Once you said it	4	166	445	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	962.060	962.398	Xu_zidong		native	it is	4	167	446	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	962.398	963.985	Xu_zidong		native	(()){laugh}	4	168	447	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	962.398	963.985	Dou_wentao	male	native	Let me tell you, you,	4	168	448	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	963.985	966.392	Dou_wentao	male	native	when he said that, I feel specially that, let me tell you,	4	169	449	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	966.939	970.203	Dou_wentao	male	native	in recent years, I have two teachers,	4	169	451	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	970.203	970.813	Dou_wentao	male	native	although	4	170	452	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	970.203	970.813	Yu_dan	female	native	Um.	4	170	453	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	970.813	974.374	Dou_wentao	male	native	they don't know there is such a person like me; it is, one of them is a Buddhist monk,	4	171	454	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	974.919	975.871	Dou_wentao	male	native	Master Jing Kong.	4	171	456	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	975.871	976.440	Yu_dan	female	native	Um.	4	172	457	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	976.440	977.545	Dou_wentao	male	native	He issued that VCD.	4	173	458	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	977.545	978.503	Xu_zidong		native	Wow, you are always watching.	4	174	459	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	978.503	980.253	Dou_wentao	male	native	Is he considered a teacher? If he is, don't you need to, to,	4	175	460	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	980.253	984.144	Dou_wentao	male	native	look at me, I am still not a Buddhist, I am not a Buddhist, I am not a believer,	4	175	461	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	984.144	986.019	Dou_wentao	male	native	but I can tell you at least one thing,	4	175	462	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	986.707	987.097	Dou_wentao	male	native	he,	4	175	464	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	987.875	992.038	Dou_wentao	male	native	he has a kind of tradition of how monks preaching in ancient China, do you know how?	4	175	466	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	992.038	993.868	Dou_wentao	male	native	No manuscript, there is no manuscript.	4	175	467	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	993.868	996.594	Dou_wentao	male	native	According to his theory, it is to say, Buddha blesses.	4	175	468	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	996.594	996.953	Yu_dan	female	native	Um.	4	176	469	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	996.953	1000.407	Dou_wentao	male	native	I am here, facing the television camera, wow, he talks, talks, talks, like that,	4	177	470	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1000.407	1005.809	Dou_wentao	male	native	talking about, he mentioned a word, preaching in Buddhism it is similar to the, what do you call it? The power to attract and receive.	4	177	471	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1006.327	1006.498	Yu_dan	female	native	Right.	4	178	473	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1006.498	1010.959	Dou_wentao	male	native	When you do it well, you will have an appeal for the whole audience; sometimes I have that feeling when I listen to the speech of leader,	4	179	474	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1010.959	1013.194	Dou_wentao	male	native	one person, we call that either aura, or	4	179	475	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1013.194	1013.803	Dou_wentao	male	native	magnetic field.	4	180	476	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1013.194	1013.803	Yu_dan	female	native	Um.	4	180	477	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1013.803	1014.892	Dou_wentao	male	native	It can attract you,	4	181	478	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1015.570	1017.516	Dou_wentao	male	native	like Chairman Mao standing on the gate tower of Tiananmen,	4	181	480	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1017.516	1018.272	Yu_dan	female	native	and waving his hand.	4	182	481	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1018.272	1019.678	Dou_wentao	male	native	Waving his hand,	4	183	482	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1019.678	1020.538	Dou_wentao	male	native	(())	4	183	483	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1020.538	1023.025	Dou_wentao	male	native	cannot talk too much of that, let's take a commercial break.	4	183	484	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1023.025	1024.243	Dou_wentao	male	native	Behind the Headlines,	4	183	485	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1024.243	1024.706	Dou_wentao	male	native	we'll see you	4	184	486	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1024.243	1024.706	Xu_zidong		native	Uh?	4	184	487	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1024.706	1025.350	Dou_wentao	male	native	after the commercial.	4	185	488	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1091.399	1094.042	Dou_wentao	male	native	OK, it seems that Teacher Yu is very interested in the Buddhist monk?	6	187	490	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1094.042	1094.848	Yu_dan	female	native	Interested	6	188	491	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1094.848	1095.814	Yu_dan	female	native	in the monk.	6	189	492	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1094.848	1095.814	Dou_wentao	male	native	No, she is saying that	6	189	493	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1095.814	1099.077	Dou_wentao	male	native	after our taping of this Behind the Headlines program, she can take it as an ad for marriage seeking.	6	190	494	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1099.077	1100.664	Xu_zidong		native	{laugh}	6	191	495	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1100.664	1102.027	Yu_dan	female	native	Not for the monks.	6	192	496	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1102.027	1103.568	Xu_zidong		native	Oh, not for the monks.	6	193	497	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1102.027	1103.568	Yu_dan	female	native	(())	6	193	498	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1103.568	1106.729	Yu_dan	female	native	Right, cannot be like that, see, this is that the media is worse,	6	194	499	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1106.729	1107.332	Yu_dan	female	native	it's just like this.	6	195	500	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1106.729	1107.332	Xu_zidong		native	Um.	6	195	501	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1107.332	1108.089	Yu_dan	female	native	Arbitrarily	6	196	502	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.089	1108.417	Yu_dan	female	native	piece up...	6	197	503	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.089	1108.417	Dou_wentao	male	native	And dig a ditch	6	197	504	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.417	1108.928	Dou_wentao	male	native	for you, dig	6	198	505	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.928	1109.736	Dou_wentao	male	native	a ditch for you.	6	199	506	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1108.928	1109.736	Yu_dan	female	native	(())	6	199	507	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1109.736	1110.834	Dou_wentao	male	native	OK. What on earth are you trying to say?	6	200	508	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1110.834	1112.162	Yu_dan	female	native	Uh, actually what you said about this,	6	201	509	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1113.449	1114.856	Yu_dan	female	native	this preaching, uh,	6	201	511	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1114.856	1115.186	Yu_dan	female	native	what	6	202	512	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1114.856	1115.186	Dou_wentao	male	native	Um.	6	202	513	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1115.186	1119.677	Yu_dan	female	native	is the feeling about the preaching? What does it mean by "Buddha Picking up the Flower, Jia Ye Smiling?"	6	203	514	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1119.677	1120.096	Dou_wentao	male	native	Um.	6	204	515	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1120.096	1123.509	Yu_dan	female	native	In fact, teaching without words, that is what it's +consciousness,	6	205	516	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1124.108	1129.951	Yu_dan	female	native	so, actually, the aphorism of real Buddhism, just give you a word, and you contemplate it by yourself.	6	205	518	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1129.951	1130.610	Dou_wentao	male	native	Um, um, um.	6	206	519	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1130.610	1134.513	Yu_dan	female	native	So, what is the meaning of "Where there are thousands of rivers with water, there will be thousands of rivers with the moon; where there are ten thousand miles without clouds, there will be ten thousand miles of the sky?"	6	207	520	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1134.513	1135.158	Yu_dan	female	native	That is, you	6	207	521	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1135.158	1135.969	Yu_dan	female	native	have something in your heart	6	208	522	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1135.158	1135.969	Dou_wentao	male	native	My goodness.	6	208	523	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1135.969	1139.357	Yu_dan	female	native	to care about. Your heart is like water in thousands of rivers,	6	209	524	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1139.357	1142.576	Yu_dan	female	native	with the moonlight and its reflections in rivers wherever you go, whatever you care about would be reflected in your heart.	6	209	525	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1142.576	1143.189	Dou_wentao	male	native	Um, um.	6	210	526	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1142.576	1143.189	Yu_dan	female	native	But if you	6	210	527	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1143.189	1145.720	Yu_dan	female	native	do not care about anything in your heart, then you are like the ten thousand miles of sky,	6	211	528	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1145.720	1148.610	Yu_dan	female	native	vast and mighty, with not a trace of cloud in your heart,	6	211	529	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1148.610	1153.520	Yu_dan	female	native	so, whether or not you are able to understand is just a subtle consciousness between Picking Flower and Smiling, which	6	211	530	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.520	1153.820	Yu_dan	female	native	means	6	212	531	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.520	1153.820	Dou_wentao	male	native	((pw))	6	212	532	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.820	1153.981	Dou_wentao	male	native	((pw)),	6	213	533	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.981	1154.358	Dou_wentao	male	native	uh,	6	214	534	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1153.981	1154.358	Yu_dan	female	native	preach	6	214	535	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1154.358	1154.897	Dou_wentao	male	native	((pw)),	6	214	536	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1154.358	1154.897	Yu_dan	female	native	Finally, I've	6	214	537	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1154.897	1155.705	Dou_wentao	male	native	found you.	6	215	538	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1155.705	1156.634	Yu_dan	female	native	Preaching.	6	216	539	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1156.634	1156.953	Dou_wentao	male	native	Uh.	6	217	540	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1156.953	1161.057	Yu_dan	female	native	Let me tell you, definitely not inculcate externally, it awakens internally,	6	218	541	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1161.057	1162.877	Yu_dan	female	native	so this Buddhist terminology of consciousness, ha,	6	218	542	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1163.401	1168.568	Yu_dan	female	native	radical head of the Chinese character "learn," plus "seen" of "see" and "heart and awareness," consciousness is to have seen my heart.	6	218	544	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1169.126	1171.994	Yu_dan	female	native	You yourself have to understand first, it is absolutely not inculcated by someone else.	6	218	546	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1171.994	1176.545	Dou_wentao	male	native	I mean it isn't easy, then why did I mention Li Ao; other scholars have not tried it,	6	219	547	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1176.545	1178.581	Dou_wentao	male	native	that means, Teacher Xu has experienced that.	6	219	548	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1178.581	1178.970	Yu_dan	female	native	Um.	6	220	549	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1178.970	1183.791	Dou_wentao	male	native	With and without an audience, even if you find Guo Degang, get two cross-talkers,	6	221	550	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1183.791	1184.001	Yu_dan	female	native	Um.	6	222	551	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1184.001	1186.187	Dou_wentao	male	native	without a live audience, you two are just talking to a video camera;	6	223	552	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1186.726	1188.867	Dou_wentao	male	native	you don't know its responses, your aura is not ((pw))	6	223	554	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1188.867	1189.181	Dou_wentao	male	native	((pw)).	6	224	555	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1188.867	1189.181	Xu_zidong		native	Therefore,	6	224	556	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1189.181	1192.025	Xu_zidong		native	when +Wentao asked me to host his Global Network, I was most unwilling to.	6	225	557	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1192.025	1192.325	Dou_wentao	male	native	Um.	6	226	558	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1192.325	1194.182	Xu_zidong		native	It's that I cannot utter a word while facing the camera.	6	227	559	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1195.020	1198.345	Xu_zidong		native	You have, you teach while you have students in front of you, it is very important,	6	227	561	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1198.345	1200.891	Xu_zidong		native	like Li Ao, he only has the camera, right?	6	227	562	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1200.891	1202.297	Xu_zidong		native	There is nobody in front, is that right?	6	228	563	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1200.891	1202.297	Dou_wentao	male	native	Just the camera. No, no,	6	228	564	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1202.297	1202.718	Dou_wentao	male	native	just like that.	6	229	565	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1202.297	1202.718	Yu_dan	female	native	Wow.	6	229	566	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1202.718	1203.047	Yu_dan	female	native	I can	6	230	567	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1203.047	1203.946	Yu_dan	female	native	understand.	6	231	568	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1203.047	1203.946	Xu_zidong		native	Right, right.	6	231	569	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1203.946	1205.293	Yu_dan	female	native	When I face the camera,	6	232	570	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1205.293	1205.802	Xu_zidong		native	it works too.	6	233	571	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1205.802	1206.820	Yu_dan	female	native	Comes a state,	6	234	572	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1207.537	1210.024	Yu_dan	female	native	you know there was a Chinese ancient character, Shi Tao, when painting.	6	234	574	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1210.024	1210.289	Dou_wentao	male	native	Right.	6	235	575	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1210.289	1214.261	Yu_dan	female	native	What is he particular about? When I paint on this paper, my heart is deep in the water of spring river,	6	236	576	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1214.261	1217.164	Yu_dan	female	native	the flowers of breaking waves of river are blooming with me, and the water of the river surging with me.	6	236	577	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1217.164	1221.680	Yu_dan	female	native	Once you see it, you got it, in ancient times, how did they do to teach painting, instruct an apprentice?	6	236	578	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1221.680	1223.358	Yu_dan	female	native	It's that they neither paint eggs,	6	236	579	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1223.358	1223.924	Yu_dan	female	native	nor did they talk about	6	237	580	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1223.358	1223.924	Dou_wentao	male	native	Um.	6	237	581	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1223.924	1224.650	Yu_dan	female	native	perspective relations.	6	238	582	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1224.650	1224.958	Dou_wentao	male	native	Um.	6	239	583	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1224.958	1231.342	Yu_dan	female	native	Just go find a ruined wall, it's a broken wall, and then drape a plain silk on it, um, that's hanging a piece of white silk there;	6	240	584	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1231.342	1234.123	Yu_dan	female	native	then he contemplated, staring at it, for such a long time	6	240	585	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1234.123	1237.639	Yu_dan	female	native	that thousands of mountains and of gullies rushed out from his chest.	6	240	586	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1237.639	1242.092	Yu_dan	female	native	Wow, once he started painting, the picture in his heart was directly moved onto the paper, and done.	6	240	587	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1242.092	1242.923	Dou_wentao	male	native	Um.	6	241	588	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1242.092	1242.923	Yu_dan	female	native	Therefore,	6	241	589	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1242.923	1247.444	Yu_dan	female	native	in fact, I guess Teacher Li Ao is just like that, he just faces the camera. Thus the painting,	6	242	590	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1247.444	1253.163	Yu_dan	female	native	regarding to the ancient Chinese music, say that a person, playing the zither so as to make all the mountains to echo,	6	242	591	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1253.163	1256.774	Yu_dan	female	native	thousands of mountains and gullies, you feel that behind the screen there are all the eyes, full of the audience.	6	242	592	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1256.774	1257.163	Dou_wentao	male	native	Um, um, um.	6	243	593	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1257.163	1258.361	Yu_dan	female	native	Immediately you found the feel.	6	244	594	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1258.361	1264.799	Dou_wentao	male	native	You know, like Ji Kang played the music of Guan Ling San before being executed, before he died, fingering the five strings and eyeing the returning wild geese,	6	245	595	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1264.799	1265.997	Dou_wentao	male	native	a noble song with deep feeling.	6	246	596	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1264.799	1265.997	Yu_dan	female	native	Contented no matter what.	6	246	597	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1265.997	1267.434	Dou_wentao	male	native	What are we two doing?	6	246	598	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1265.997	1267.434	Yu_dan	female	native	Let thoughts go out with free rein.	6	246	599	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1267.434	1268.003	Dou_wentao	male	native	{laugh}	6	246	600	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1267.434	1268.003	Yu_dan	female	native	{laugh}	6	246	601	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1268.003	1269.410	Xu_zidong		native	I, I, feel that, I, I,	6	247	602	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1268.003	1269.410	Yu_dan	female	native	(())	6	247	603	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1269.410	1270.428	Xu_zidong		native	feel, I feel that...	6	248	604	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1269.410	1270.428	Yu_dan	female	native	Do you feel that we are on	6	248	605	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1270.428	1270.824	Yu_dan	female	native	Wei-Hu	6	249	606	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1270.824	1271.565	Yu_dan	female	native	Mountain?	6	250	607	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1270.824	1271.565	Xu_zidong		native	Uh, this	6	250	608	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1271.565	1272.164	Xu_zidong		native	is like...	6	251	609	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1271.565	1272.164	Yu_dan	female	native	Do we look like that?	6	251	610	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1272.164	1274.012	Dou_wentao	male	native	You look like Zuo Shandiao, uh, no, I look like Zuo Shan	6	252	611	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1274.012	1274.350	Dou_wentao	male	native	diao.	6	253	612	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1274.012	1274.350	Yu_dan	female	native	Uh, no,	6	253	613	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1274.350	1275.436	Yu_dan	female	native	of course I should look like Yang Zirong.	6	254	614	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1275.436	1278.182	Dou_wentao	male	native	Oh, right, you do have the awe-inspiring righteousness of Yang Zirong.	6	255	615	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1278.182	1278.662	Yu_dan	female	native	Am I right? Since I was little.	6	256	616	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1278.662	1279.590	Dou_wentao	male	native	No, Teacher Xu.	6	257	617	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1278.662	1279.590	Xu_zidong		native	Oh, I, I,	6	257	618	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1279.590	1281.104	Xu_zidong		native	feel that you look like a water fairy,	6	258	619	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1281.776	1284.530	Xu_zidong		native	she looks downward, seeing in the camera is equal to seeing herself.	6	258	621	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1285.219	1285.584	Dou_wentao	male	native	Um.	6	259	623	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1285.584	1288.104	Xu_zidong		native	You know the water fairy, don't you? She saw, eventually she jumped off.	6	260	624	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1288.104	1288.643	Dou_wentao	male	native	Oh, oh, oh.	6	261	625	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1288.643	1294.991	Xu_zidong		native	Right, just like that, she looked at the camera lens, and imagined what was behind it; you said she imagined there were numerous viewers.	6	262	626	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1294.991	1297.984	Xu_zidong		native	I feel that is still not enough, that is, imagine you yourself behind it;	6	262	627	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1298.553	1300.789	Xu_zidong		native	it's just like facing the mirror, same as facing the mirror.	6	262	629	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1300.789	1304.601	Dou_wentao	male	native	So, I feel, uh, there are not merely those, these questions, ha;	6	263	630	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1304.601	1309.273	Dou_wentao	male	native	there is another question, like like Li Ao, this kind, if I ponder and weigh, I can do that too,	6	263	631	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1309.273	1310.026	Dou_wentao	male	native	but,	6	263	632	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1310.611	1314.914	Dou_wentao	male	native	I haven't read as much as he has, and like Teacher Yu Dan, her speaking is like a written article, so knowledgeable;	6	263	634	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1314.914	1319.911	Dou_wentao	male	native	that's why I feel that people nowadays, uh, would particularly tend to look down upon others, contempt for others.	6	263	635	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1319.911	1323.563	Dou_wentao	male	native	You, like for example, like in the movie industry, many people complain,	6	263	636	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1323.563	1328.221	Dou_wentao	male	native	saying that nowadays, there are many famous directors, who did a certain movie years ago, and all of a sudden their work is not as good as before, right?	6	263	637	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1328.221	1333.128	Dou_wentao	male	native	There were many people around him, giving him ideas, and he was, at that time, good at accepting suggestions from others,	6	263	638	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1333.128	1337.192	Dou_wentao	male	native	but after this guy becomes hot, he won't express gratitude to others, he won't mention.	6	263	639	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1337.192	1337.636	Yu_dan	female	native	Um.	6	264	640	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1337.636	1340.959	Dou_wentao	male	native	You know? But, let me tell you, actually this is something with two sides;	6	265	641	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1341.473	1345.548	Dou_wentao	male	native	first, as for him, he could mention others, express his thanks,	6	265	643	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1345.548	1348.985	Dou_wentao	male	native	they are all teachers; three people travel together, there must be one teacher of mine, it does you no harm,	6	265	644	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1348.985	1349.344	Xu_zidong		native	Um.	6	266	645	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1349.344	1351.383	Dou_wentao	male	native	Second, for those people,	6	267	646	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1352.072	1354.437	Dou_wentao	male	native	if they can be a bit useful to others,	6	267	648	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1354.976	1358.686	Dou_wentao	male	native	Isn't it also a good thing? So, I believe people should be aware of both sides.	6	267	650	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1358.686	1361.503	Dou_wentao	male	native	Why do I say that? Recently, I thought of Ji Xianlin.	6	267	651	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1361.503	1361.952	Yu_dan	female	native	Um.	6	268	652	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1361.952	1366.466	Dou_wentao	male	native	An old gentleman, so when you talk about The Analects of Confucius, I feel that modern society people especially need to discern the name and reality.	6	269	653	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1367.022	1371.201	Dou_wentao	male	native	For instance, we say great master, the term great master has become an irony, we, uh, uh, call everybody great master.	6	269	655	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1371.739	1376.683	Dou_wentao	male	native	Recently Ji Xianlin is on his sickbed, oh, I feel that this disease is really pathetic, it grows hydroa.	6	269	657	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1376.683	1377.102	Yu_dan	female	native	Right.	6	270	658	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1377.102	1381.324	Dou_wentao	male	native	Then he said, especially as old as 92 years old, one day, he licked his maxillary,	6	271	659	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1381.324	1381.635	Yu_dan	female	native	Um.	6	272	660	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1381.635	1385.108	Dou_wentao	male	native	and found two more blisters there, and he became so nervous that evening,	6	273	661	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1385.108	1387.611	Dou_wentao	male	native	and feels that he has not fully understood life.	6	273	662	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1388.150	1393.281	Dou_wentao	male	native	Then he declared to the world, saying that you just remove three of my titles, three hats;	6	273	664	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1393.281	1395.484	Dou_wentao	male	native	one is the great master of Chinese literature.	6	273	665	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1395.484	1396.021	Xu_zidong		native	Um.	6	274	666	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1396.021	1400.401	Dou_wentao	male	native	He said that I had just read these classical literatures when I was young, and can recite some of the poems.	6	275	667	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1400.401	1406.057	Dou_wentao	male	native	Later, I studied in other areas, right? I may be only a little master of Chinese literature, but you call me a great master instead.	6	275	668	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1406.057	1410.420	Dou_wentao	male	native	Another one is called Tai Dou, he said what Tai? Mount Taishan.	6	275	669	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1410.420	1410.660	Yu_dan	female	native	Um.	6	276	670	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1410.660	1412.285	Dou_wentao	male	native	What is called Dou? That is the North Star.	6	277	671	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1412.785	1417.935	Dou_wentao	male	native	He said I can be qualified as Mount Taishan and the North Star: a person of distinction, but just take a look at our society today, the Tai Dou is all over.	6	277	673	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1417.935	1418.325	Yu_dan	female	native	Right.	6	278	674	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1418.325	1422.646	Dou_wentao	male	native	The old gentleman said, I don't want this Tai Dou. Then the third, he said, is called National Treasure.	6	279	675	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1423.295	1426.155	Dou_wentao	male	native	Say, a kind of China's unique animal, the giant panda,	6	279	677	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1426.155	1426.768	Yu_dan	female	native	Right.	6	280	678	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1426.768	1427.759	Dou_wentao	male	native	it's called the national treasure.	6	281	679	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1428.291	1434.005	Dou_wentao	male	native	Around the 70s and 80s of the last century, when a leader in Beijing city saw me, he met me and called, uh, me a national treasure.	6	281	681	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1434.005	1437.318	Dou_wentao	male	native	He said, I tried to figure out when I went back, why did he call me a national treasure?	6	281	682	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1437.318	1438.482	Xu_zidong		native	Do I +look like a giant panda?	6	282	683	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1438.482	1439.954	Dou_wentao	male	native	Right, so he thought about it for a long time,	6	283	684	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1438.482	1439.954	Xu_zidong		native	(())	6	283	685	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1439.954	1445.047	Dou_wentao	male	native	then he said, can't it be the reason that there is only one man called Ji Xianlin in China, and unique?	6	284	686	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1445.047	1446.230	Dou_wentao	male	native	So I am called a national treasure?	6	284	687	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1446.230	1450.183	Dou_wentao	male	native	He said, if that, that is the case, then Tom, Dick, and Harry and there will be 1.3 billion national treasures. Therefore...	6	284	688	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1450.183	1454.229	Xu_zidong		native	Mainly because those languages he, he has studied, he, the language that he learned, among those he understands, several	6	285	689	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1454.229	1454.704	Xu_zidong		native	languages,	6	286	690	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1454.229	1454.704	Yu_dan	female	native	Right.	6	286	691	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1454.704	1455.337	Xu_zidong		native	just a few people know.	6	287	692	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1455.932	1456.531	Xu_zidong		native	Really.	6	288	694	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1455.932	1456.531	Dou_wentao	male	native	Absolutely.	6	288	695	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1456.531	1458.828	Xu_zidong		native	His branch of study is very, very marginal,	6	289	696	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1458.828	1461.262	Xu_zidong		native	but now, he has moved from the margin to the center,	6	289	697	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1461.262	1464.466	Xu_zidong		native	like in those years, Guo Moruo became a representative of the intellectuals.	6	289	698	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1464.466	1464.855	Dou_wentao	male	native	Um.	6	290	699	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1464.855	1470.636	Xu_zidong		native	Hua Luogeng, right? Su Buqing. He has now become a representative of intellectuals of the new generation; there were the leaders who went to visit him.	6	291	700	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1470.636	1472.930	Xu_zidong		native	However, Mr. Ji is clear-headed, uh,	6	291	701	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1472.930	1473.555	Xu_zidong		native	he is not,	6	292	702	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1472.930	1473.555	Yu_dan	female	native	Yes.	6	292	703	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1473.555	1476.608	Xu_zidong		native	he would not feel that he is the academic	6	293	704	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1476.608	1477.796	Xu_zidong		native	representative of all China, (())	6	294	705	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1476.608	1477.796	Dou_wentao	male	native	Let me tell you, I, I then	6	294	706	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1477.796	1478.372	Dou_wentao	male	native	think of, uh.	6	295	707	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1477.796	1478.372	Yu_dan	female	native	((pw)), ((pw)),	6	295	708	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1478.372	1478.714	Yu_dan	female	native	((pw)),	6	296	709	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1478.714	1479.127	Yu_dan	female	native	I	6	297	710	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1478.714	1479.127	Xu_zidong		native	Um.	6	297	711	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1479.127	1484.702	Yu_dan	female	native	feel that, uh, Mr. Ji has been conducting himself to such an extent, that it can be called a state of full awareness.	6	298	712	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1484.702	1488.415	Yu_dan	female	native	He has already put various scholarships together and fully understands their relationships.	6	298	713	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1488.415	1492.040	Yu_dan	female	native	That means this person, uh, the knowledge is just like kung fu, ha;	6	298	714	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1492.040	1497.134	Yu_dan	female	native	it's inside a person's body, there's already no need of any external things anymore; that is to say, no more obstacles in front of him,	6	298	715	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1497.134	1497.592	Yu_dan	female	native	so.	6	299	716	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1497.134	1497.592	Dou_wentao	male	native	He ((pw))	6	299	717	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1497.592	1500.791	Dou_wentao	male	native	((pw)) can evaluate the academic circle all from the invincible perspectives. Is that right?	6	300	718	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1500.791	1501.451	Xu_zidong		native	In fact,	6	301	719	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1500.791	1501.451	Dou_wentao	male	native	(())	6	301	720	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1501.451	1505.946	Xu_zidong		native	there are quite a lot of old people just like him in the academic circle, like Mr. Xu Zhongyu of Central China Normal University.	6	302	721	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1505.946	1506.578	Xu_zidong		native	And he is fifty,	6	303	722	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1505.946	1506.578	Yu_dan	female	native	Right.	6	303	723	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1506.578	1507.059	Xu_zidong		native	fifty-three years old.	6	304	724	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1507.059	1507.350	Yu_dan	female	native	Right.	6	305	725	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1508.474	1513.662	Xu_zidong		native	But he walks very fast, speaks very clearly, and of course has not been set as a model.	6	306	727	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1513.662	1517.529	Xu_zidong		native	Indeed that is true, Mr. Ji is very clear that in this generation of the old men like him,	6	306	728	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1517.529	1519.211	Xu_zidong		native	there are quite a few.	6	307	729	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1517.529	1519.211	Yu_dan	female	native	Actually, like our school,	6	307	730	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1519.211	1520.872	Yu_dan	female	native	uh, Mr. Qi Gong, who just passed away.	6	308	731	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1520.872	1521.944	Dou_wentao	male	native	Oh, Qi, Mr. Qi.	6	309	732	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1521.944	1524.631	Yu_dan	female	native	Mr. Qi, uh, was especially full of awareness, Mr. Qi, uh,	6	310	733	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1524.631	1525.178	Yu_dan	female	native	possibly was	6	311	734	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1524.631	1525.178	Xu_zidong		native	Right, right.	6	311	735	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1525.178	1530.294	Yu_dan	female	native	not that narrow-minded; for example, there were many counterfeits outside, all imitating the calligraphy of Mr. Qi, ha.	6	312	736	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1530.294	1534.294	Yu_dan	female	native	When Mr. Qi saw those counterfeits, he would say, "Wow! It's better than my calligraphy."	6	312	737	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1534.294	1535.150	Yu_dan	female	native	That's it.	6	313	738	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1534.294	1535.150	Dou_wentao	male	native	Oh, I	6	313	739	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1535.150	1539.132	Dou_wentao	male	native	just want to ask you, what I mean is, I always feel that you are always laughing, uh,	6	314	740	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1539.132	1541.841	Dou_wentao	male	native	and, this teacher is in a very good mood, very optimistic.	6	314	741	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1541.841	1544.482	Dou_wentao	male	native	It is said that you had this +kind of conversation with Mr. Qi.	6	314	742	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1544.482	1546.869	Yu_dan	female	native	Oh, yes, that was when we first went to school, when we were	6	315	743	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1546.869	1547.202	Yu_dan	female	native	young,	6	316	744	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1546.869	1547.202	Dou_wentao	male	native	Um.	6	316	745	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1547.202	1549.237	Yu_dan	female	native	around 17 or 18, when we first started college, ha.	6	317	746	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1549.775	1552.022	Yu_dan	female	native	I saw that Mr. Qi was in this state, he was optimistic all the time;	6	317	748	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1552.022	1555.241	Yu_dan	female	native	when he didn't have teeth, he would cover his mouth, and said, Ho, ho, I am 'shameless.'	6	317	749	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1555.241	1557.132	Yu_dan	female	native	Anyway, he was always optimistic.	6	318	750	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1555.241	1557.132	Xu_zidong		native	(())	6	318	751	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1557.132	1558.715	Yu_dan	female	native	He was always able to find this style,	6	319	752	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1559.262	1562.614	Yu_dan	female	native	and then, I remember I asked him several questions, uh,	6	319	754	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1562.614	1568.930	Yu_dan	female	native	like when we learned calligraphy in childhood, the Phoenix method was quite popular among us; it's that we had to leave enough space between the thumb and the index finger, so that an egg could be placed over there.	6	319	755	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1568.930	1569.343	Dou_wentao	male	native	Oh, oh, oh.	6	320	756	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1569.343	1570.218	Yu_dan	female	native	Then Mr. Qi said,	6	321	757	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1570.718	1576.512	Yu_dan	female	native	"Have you learned how to ride a bicycle? If you hold the handlebars too tightly, then you either hit the wire pole or an old guy;	6	321	759	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1576.512	1578.573	Yu_dan	female	native	how can you write with an egg on your hand?"	6	322	760	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1576.512	1578.573	Xu_zidong		native	(())	6	322	761	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1578.573	1579.135	Xu_zidong		native	(())	6	323	762	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1579.135	1580.328	Yu_dan	female	native	Then, I also asked him,	6	324	763	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1580.895	1583.679	Yu_dan	female	native	when you wrote a thesis could it be called very professional?	6	324	765	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1583.679	1583.943	Dou_wentao	male	native	Um.	6	325	766	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1583.943	1587.650	Yu_dan	female	native	Mr. Qi said, "You go back and read by yourself; uh, when it doesn't make sense,	6	326	767	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1587.650	1589.345	Yu_dan	female	native	then it's called, it's been professionalized."	6	327	768	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1587.650	1589.345	Xu_zidong		native	(())	6	327	769	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1589.345	1591.876	Yu_dan	female	native	So, I feel that he handled any major principle just like that, ha.	6	328	770	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1591.876	1592.536	Yu_dan	female	native	Then later, once I asked him,	6	329	771	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1591.876	1592.536	Dou_wentao	male	native	Um, um.	6	329	772	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1592.536	1597.689	Yu_dan	female	native	he, I said, "Mr. Qi, how come you are so optimistic every day?" Then he said, "What a waste if you are not!"	6	330	773	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1597.689	1598.051	Dou_wentao	male	native	Oh	6	331	774	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1598.051	1599.315	Dou_wentao	male	native	boy, that's a state of mind.	6	332	775	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1598.051	1599.315	Yu_dan	female	native	Hey, now this is	6	332	776	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1599.315	1603.552	Yu_dan	female	native	really true, it's very close to the aphorism of meditation on and understanding of the truth of Buddhism, which we just now talked about.	6	333	777	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1603.552	1604.074	Yu_dan	female	native	Say that you	6	334	778	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1603.552	1604.074	Dou_wentao	male	native	Right.	6	334	779	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1604.074	1606.381	Yu_dan	female	native	have to spend a whole life, before you find out it's such a waste if you are not optimistic.	6	335	780	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1606.894	1609.839	Dou_wentao	male	native	This also could be our mutual encouragement, Teacher Xu, it's such a waste if we are not optimistic.	6	336	782	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1609.839	1611.985	Dou_wentao	male	native	"Behind the Headlines with Wentao," see you after the commercial break.	6	336	783	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1698.112	1701.690	Dou_wentao	male	native	So people, nowadays, only do some lip service when they call someone a teacher, right?	8	338	785	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1701.690	1705.074	Dou_wentao	male	native	However, actually, they don't really appreciate their teachers,	8	338	786	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1705.074	1709.908	Dou_wentao	male	native	or to put it this way, uh, anybody passing by in the streets could be my teacher.	8	338	787	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1709.908	1715.611	Dou_wentao	male	native	I heard what Teacher Xu just said; it reminded me of something -- there was an American who wrote why Americans need to learn history.	8	338	788	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1715.611	1718.665	Dou_wentao	male	native	What he meant in his words is that, say, by what is the education level of a person,	8	338	789	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1718.665	1718.911	Yu_dan	female	native	Um.	8	339	790	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1718.911	1719.986	Dou_wentao	male	native	what should we use to measure, ah?	8	340	791	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1719.986	1723.682	Dou_wentao	male	native	Just judge from whether this person is aware of his own degree of ignorance.	8	340	792	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1723.682	1724.111	Yu_dan	female	native	Right.	8	341	793	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1724.639	1730.318	Dou_wentao	male	native	Isn't that correct? So, in every corner one can see numerous great masters, as well as Mount-Taishan-and-the-North-Stars; this shows that the education level of your nation is not high.	8	342	795	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1731.016	1731.808	Dou_wentao	male	native	Can we put it this way?	8	342	797	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1731.808	1735.914	Yu_dan	female	native	In fact, uh, I feel that, uh, why the ancient people said teaching without words,	8	343	798	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1735.914	1736.317	Dou_wentao	male	native	Um.	8	344	799	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1736.317	1741.115	Yu_dan	female	native	means that a person, the way he conducts himself actually is more important than his knowledge.	8	345	800	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1741.115	1746.052	Yu_dan	female	native	The great master like Mr. Ji, everybody knows the story about a freshman at Beijing University;	8	345	801	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1746.052	1746.307	Dou_wentao	male	native	Um.	8	346	802	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1746.307	1748.159	Yu_dan	female	native	he swaggered into the campus pridefully, and he had the	8	347	803	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1748.159	1749.319	Yu_dan	female	native	baggage with him there, right.	8	348	804	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1748.159	1749.319	Xu_zidong		native	And watching the baggage.	8	348	805	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1749.319	1750.621	Yu_dan	female	native	Saying that, he wanted to look for,	8	348	806	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1749.319	1750.621	Xu_zidong		native	Um, I, uh, I heard about that.	8	348	807	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1750.621	1751.244	Yu_dan	female	native	look for his dorm.	8	349	808	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1751.244	1751.904	Yu_dan	female	native	((pw)), he found an	8	350	809	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1751.244	1751.904	Xu_zidong		native	I heard about that.	8	350	810	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1751.904	1755.159	Yu_dan	female	native	old guy, and told him, "Watch the baggage for me." Then the old man just watched it for him.	8	351	811	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1755.159	1757.745	Yu_dan	female	native	Not until he came back did he find out that the old man was Mr. Ji Xianlin.	8	351	812	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1757.745	1758.735	Dou_wentao	male	native	Oh.	8	352	813	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1757.745	1758.735	Yu_dan	female	native	Um,	8	352	814	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1758.735	1763.675	Yu_dan	female	native	so, you see, the real old man would never act so pridefully,	8	353	815	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1763.675	1768.810	Yu_dan	female	native	and say, do you know who I am? Actually, this is very much like what Zhuang Zi wrote in his A Happy Excursion,	8	353	816	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1768.810	1772.702	Yu_dan	female	native	saying being very quiet, "The bird itself +mounts upon a great wind to a height of ninety thousand li,"	8	353	817	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1772.702	1775.361	Yu_dan	female	native	then it needed to fly from the mountains on the north to the ones in the south,	8	353	818	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1775.361	1775.588	Dou_wentao	male	native	Um.	8	354	819	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1775.588	1780.474	Yu_dan	female	native	"gliding upon the wind, with nothing save the clear sky above, and no obstacles in the way." Below there were a sparrow and another migratory bird;	8	355	820	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1780.474	1785.490	Yu_dan	female	native	the two of them were saying there, look at that silly thing, what is it going to do? See how nice for the two of us just flying around here, and they kept gabbing about it.	8	355	821	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1785.490	1790.012	Yu_dan	female	native	So, in this world, the sparrow always laughs at the roc, never does the roc laugh at the sparrow.	8	355	822	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1790.012	1792.765	Dou_wentao	male	native	Do you know? Recently, her program about Zhuang Zi will be launching soon.	8	356	823	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1792.765	1794.109	Dou_wentao	male	native	(())	8	356	824	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1794.109	1794.973	Dou_wentao	male	native	Then I thought I...	8	356	825	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1794.973	1795.637	Xu_zidong		native	True or false?	8	357	826	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1795.637	1796.016	Dou_wentao	male	native	This is true.	8	358	827	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1796.016	1796.872	Dou_wentao	male	native	Then I,	8	359	828	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1796.016	1796.872	Yu_dan	female	native	This is true, really.	8	359	829	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1796.872	1797.533	Dou_wentao	male	native	feel that she basically	8	360	830	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1797.533	1799.350	Dou_wentao	male	native	has become a (()) ((pw)). Um.	8	361	831	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1797.533	1799.350	Xu_zidong		native	You can talk about both Taoism and Confucianism, can't you? Um.	8	361	832	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1799.350	1805.757	Dou_wentao	male	native	Let me tell you, now I particularly feel that, like Li, uh, Li Ao really appreciates a saying by Huang Tingjian.	8	362	833	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1805.757	1806.019	Yu_dan	female	native	Um.	8	363	834	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1806.019	1811.556	Dou_wentao	male	native	He said that the learning attitude of a person, or his attitude about being a teacher, I read all kinds of books, then I will benefit in all spectra of life.	8	364	835	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1811.556	1811.900	Yu_dan	female	native	Right.	8	365	836	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1811.900	1816.894	Dou_wentao	male	native	But by, uh, no, if you observe me by those books, you feel lost after parting with it; that means you get muddle-headed as soon as you close the book.	8	366	837	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1816.894	1823.770	Dou_wentao	male	native	So, judge a person, for instance, someone said that, like someone said that Li Ao devoured another's family property, and some, things like that.	8	366	838	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1823.770	1826.629	Dou_wentao	male	native	I would only say I am not so clear about those things, I don't know,	8	366	839	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1826.629	1832.982	Dou_wentao	male	native	but you don't reject an opinion because of whoever has it, you don't ((pw)), abolish the argument because of whatever grounds it has,	8	366	840	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1832.982	1833.677	Dou_wentao	male	native	do you know that?	8	367	841	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1832.982	1833.677	Yu_dan	female	native	Right.	8	367	842	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1833.677	1837.496	Dou_wentao	male	native	At least he is very knowledgeable, you, you may, uh, be benefited.	8	368	843	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1837.496	1838.175	Dou_wentao	male	native	Do you think so?	8	369	844	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1837.496	1838.175	Yu_dan	female	native	This is what you	8	369	845	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1838.175	1841.392	Yu_dan	female	native	said, whether, we should say, "Three people travel together, there must be one teacher of mine,"	8	370	846	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1841.392	1844.914	Yu_dan	female	native	or, in this world, when you see someone with virtue, you try to follow him; when you see someone with misdeeds, you reflect on your thoughts and actions and examine your mistakes.	8	370	847	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1844.914	1845.242	Dou_wentao	male	native	Um.	8	371	848	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1845.242	1848.461	Yu_dan	female	native	Even if you see something bad, couldn't you use it as an object of reference also?	8	372	849	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1848.461	1849.183	Yu_dan	female	native	I think what it,	8	373	850	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1848.461	1849.183	Dou_wentao	male	native	Is in terms of...	8	373	851	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1849.183	1852.402	Yu_dan	female	native	social mentality means a little less criticism and complaints.	8	374	852	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1852.402	1855.483	Yu_dan	female	native	When you see everything in a peaceful manner, then everybody is docile.	8	374	853	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1856.051	1856.787	Dou_wentao	male	native	Wow.	8	375	855	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1856.787	1858.199	Xu_zidong		native	All she has spoken has been like a written article.	8	376	856	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1858.199	1860.927	Dou_wentao	male	native	What she speaks is indeed like a written article; do you know how she has become like that?	8	377	857	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1860.927	1862.484	Dou_wentao	male	native	I think her attainment has been obtained from childhood.	8	377	858	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1862.484	1862.844	Yu_dan	female	native	No,	8	378	859	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1862.844	1865.978	Yu_dan	female	native	I held it back from childhood, since I didn't speak too much at that time.	8	378	860	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1865.978	1866.524	Dou_wentao	male	native	Oh.	8	379	861	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1866.524	1867.463	Yu_dan	female	native	I spoke more after high school.	8	380	862	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1867.463	1871.623	Dou_wentao	male	native	She memorized a lot of classical literatures, her father was, uh, a great master of Chinese literature.	8	381	863	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1871.623	1872.001	Xu_zidong		native	+Bursting out	8	382	864	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.001	1872.538	Xu_zidong		native	+bursting out two...	8	383	865	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.001	1872.538	Dou_wentao	male	native	Mount-Taishan-and-the-North-Stars.	8	383	866	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.538	1873.810	Xu_zidong		native	emitting after ten years.	8	384	867	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1872.538	1873.810	Dou_wentao	male	native	(())	8	384	868	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1873.810	1874.202	Dou_wentao	male	native	Um.	8	385	869	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1874.202	1875.439	Yu_dan	female	native	+Bursted for 15, 16 years.	8	386	870	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1875.439	1876.533	Dou_wentao	male	native	Um, then it's spurted out from the well.	8	387	871	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1876.533	1877.525	Yu_dan	female	native	Stored plentiful knowledge, and won't let it show up lightly.	8	388	872	report	
+PHOENIX_BEHINDHL_CMN_20070110_052800	0	1877.525	1878.709	Dou_wentao	male	native	That's right, it is.	8	389	873	report	

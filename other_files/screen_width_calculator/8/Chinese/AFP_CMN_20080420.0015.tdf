@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080420.0015.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	伊拉克安全情势改善 美国务卿吁邻国伸出援手	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社爱尔兰善农二十日电	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	美国国务卿莱斯今天表示,既然什叶派领导的伊拉克政府正在严惩什叶派民兵并改善安全情势,她呼吁逊尼派阿拉伯国家尽到「对邻国伊拉克应有的责任」。	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	1500.000	1750.000	TEXT1	unknown	unkown	莱斯今天在飞往巴林与科威特的途中说:「我认为公平的来说,伊拉克邻国可以做得更多,来尽到他们的责任,因为我确实认为伊拉克已开始尽到他们的责任。」	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	1750.000	2000.000	TEXT1	unknown	unkown	莱斯将在中东地区与阿拉伯国家的外交部长举行会谈。	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	2200.000	2400.000	TEXT1	unknown	unkown	莱斯宣称伊拉克安全已经获得改善,什叶派阿拉伯领导阶层也努力试图保护国家而非自身教派的利益。	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	2400.000	2600.000	TEXT1	unknown	unkown	她呼吁逊尼派阿拉伯领导人让外交人员重回巴格达,并纾解伊拉克的外债负担。	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	2800.000	3200.000	TEXT1	unknown	unkown	美国二零零三年发动伊拉克战争,推翻逊尼派领袖海珊以来,阿拉伯国家不止忧心伊拉克动乱,也担心支持的伊拉克政府投向波斯人组成的什叶派伊朗伊斯兰共和国。	0	0	0		statement
+AFP_CMN_20080420.0015.sgm	0	3400.000	3700.000	TEXT1	unknown	unkown	然而莱斯在专机降落爱尔兰善农加油前表示,伊拉克安全情势已经改善,总理马里奇正遵照呼吁行事,让伊拉克逊尼派及什叶派阿拉伯人与库德族人和解。	0	0	0		statement

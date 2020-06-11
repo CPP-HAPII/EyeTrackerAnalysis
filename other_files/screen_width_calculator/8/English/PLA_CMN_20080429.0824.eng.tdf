@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0824.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Injury Causes Jamaican "Flier" Powell to Forgo Contests for Two Months	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 11:19:33 Source: Contributed by Xinhua News	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	WASHINGTON, April 28 (Xinhua) (Special Olympic Report) The current men's 100m dash world-record holder, the celebrated Jamaican sprinter Powell, will temporarily withdraw from competition due to an injured chest muscle. He may have to forgo competition until the end of June.	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	Powell's agent, Doyle, revealed to the media on the 28th that this time Powell will forgo competition at least until the end of June. He will miss several competitions, including those in Doha and Oslo, but the respite from competition will not influence his preparations to compete at the Beijing Olympics in August.	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	Powell may possibly resume competition at the Jamaica national track and field championships at the end of June.	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	On September 9, 2007, Powell broke his own world record at an international track and field meet in Rieti, Italy with a time of 9.74 seconds.	0	0	0		statement
+PLA_CMN_20080429.0824.sgm	0	1600.000	1700.000	TEXT1	unknown	unkown	He set the previous world record of 9.77 seconds in this event in 2005 at a track-and-field competition in Athens, Greece.	0	0	0		statement

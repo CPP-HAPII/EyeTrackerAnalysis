@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080411.1357	0	500.0	600.0	speaker	unknown	unknown	二十世纪遗产在中国重点为近代工商业，抗日战争、解放初期经济复苏、“大跃进”运动、“文革”、改革开放等时期的代表性、典型性的建筑物、构筑物。	0	0	0		

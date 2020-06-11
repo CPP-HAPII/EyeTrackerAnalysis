@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080401.0002	0	0.0	1000.0	speaker	unknown	unknown	美股今天温和上扬,为五年来表现最黯淡的一季划上句点。	0	0	0		

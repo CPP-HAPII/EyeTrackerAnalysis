@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117646-10710241	0	200.0	300.0	speaker	unknown	unknown	这里本来有一个附件 1.jpg但是目前CN BBS转信系统不转带有较大附件的信件,所以 TJU BBS 去掉了.	0	0	0		
+cmn-NG-31-117646-10710241	0	600.0	700.0	speaker	unknown	unknown	附件访问地址： [1;4m http://bbs.tju.	0	0	0		

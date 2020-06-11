@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0801.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	杭州无照收废品最高可罚50万元	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 15:24:42   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	新华社杭州４月２９日电	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1000.000	1050.000	TEXT1	unknown	unkown	杭州市政府日前宣布，市贸易局、城管、工商等各部门将联合开展再生资源（废旧品）回收整治。	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1050.000	1100.000	TEXT1	unknown	unkown	凡是无照经营的回收站，有危害人体健康、存在重大隐患的，将处以最高５０万元的罚款。	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1300.000	1350.000	TEXT1	unknown	unkown	杭州市贸易局将统一监制并发放流动收购人员的服装、上岗证。	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1350.000	1375.000	TEXT1	unknown	unkown	新登记人员须在市区有固定住址。	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1375.000	1400.000	TEXT1	unknown	unkown	而且流动收购人员在开展收购业务时，不得播放高音喇叭、大声吆喝等，不得在道路上晾晒和分拣收购来的废旧物资。	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1600.000	1650.000	TEXT1	unknown	unkown	流动人员不得收购铁路、供电、电信、矿山、水利、测量和城市公用设施等废旧专用器材；不得收购公安机关通报寻查的赃物或者有赃物嫌疑的物品；不得收购国家禁止收购的其他物品。	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1650.000	1700.000	TEXT1	unknown	unkown	违者将处５００元以上１０００元以下罚款；情节严重的，处５日以上１０日以下拘留，并处５００元以上１０００元以下罚款。	0	0	0		statement
+PLA_CMN_20080429.0801.sgm	0	1900.000	2000.000	TEXT1	unknown	unkown	此外，知道或者应当知道收购站、点的无照经营行为而为其提供生产经营场所、运输、保管、仓储等条件的，将处以相应处罚，最高可达５０万元。	0	0	0		statement

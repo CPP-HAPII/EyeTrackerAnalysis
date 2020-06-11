@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.1238	0	600.0	700.0	speaker	unknown	unknown	目前无抵押贷款申请的门槛较低，许多银行都设定只要月收入在3000元以上，拥有或能申请到当地的居住证明即可。	0	0	0		
+CNS_CMN_20080716.1238	0	1800.0	1900.0	speaker	unknown	unknown	(记者 管伟)	0	0	0		

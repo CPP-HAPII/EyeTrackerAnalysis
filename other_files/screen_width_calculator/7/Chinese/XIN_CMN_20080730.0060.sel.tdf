@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080730.0060	0	900.0	1000.0	speaker	unknown	unknown	地址：前门西大街正阳市场三号楼	0	0	0		
+XIN_CMN_20080730.0060	0	1500.0	1600.0	speaker	unknown	unknown	相声演员郭德纲创办的德云社每周都会在天桥乐茶园演出，如果您对相声有兴趣，不妨前去一看。	0	0	0		
+XIN_CMN_20080730.0060	0	1800.0	1900.0	speaker	unknown	unknown	——五福茶艺馆	0	0	0		
+XIN_CMN_20080730.0060	0	1900.0	2000.0	speaker	unknown	unknown	五福茶艺馆创建于１９９４年８月，“五福”取自“人有五福”之说。	0	0	0		
+XIN_CMN_20080730.0060	0	3100.0	3200.0	speaker	unknown	unknown	茶庄的茶叶始终采用自采、自窨、自拼的独特方法制茶，保持茶叶色翠、汤清、香浓、味纯的特色，清静幽雅的环境，店内陈列百余种茶具分外别致，成为中外宾客品茶、饮茶、休闲、谈心的一方净土。	0	0	0		
+XIN_CMN_20080730.0060	0	4200.0	4300.0	speaker	unknown	unknown	地址：宣武区虎坊路３号	0	0	0		
+XIN_CMN_20080730.0060	0	4800.0	4900.0	speaker	unknown	unknown	地址：宣武区永安路１７５号	0	0	0		
+XIN_CMN_20080730.0060	0	5800.0	5900.0	speaker	unknown	unknown	剧场内一层大堂富丽堂皇、古色古香；二层包厢环绕、幽雅恬静，充分展示了清宫贵族生活。	0	0	0		
+XIN_CMN_20080730.0060	0	6300.0	6400.0	speaker	unknown	unknown	——恭王府戏台	0	0	0		
+XIN_CMN_20080730.0060	0	6400.0	6500.0	speaker	unknown	unknown	恭王府戏台位于恭王府花园内，是昔日的皇家贵族私用戏台，距今已有２００多年历史。	0	0	0		
+XIN_CMN_20080730.0060	0	6500.0	6600.0	speaker	unknown	unknown	它建在花园东路一组庭院建筑群中，利用长方形大厅，在厅南部建戏台，呈三面伸出式。	0	0	0		
+XIN_CMN_20080730.0060	0	6600.0	6700.0	speaker	unknown	unknown	恭王府戏台总面积６８５平方米，舞台为凸出形，台上演员的唱念道白可以清晰地传到戏台的每个角落，厅中摆桌椅可以供人观剧。	0	0	0		
+XIN_CMN_20080730.0060	0	6900.0	7000.0	speaker	unknown	unknown	北京城内还有故宫宁寿宫畅音阁大戏楼、故宫长春宫戏台、颐和园德和园大戏楼、颐和园听鹂馆戏楼、升平署戏楼等戏楼，虽然已没有了戏剧演出的功能，但作为文物保护单位完好地保存了下来，共同组成京城一道独特的文化风景线。	0	0	0		

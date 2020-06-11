@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070117.0226	0	10010.000	10019.900				Philippines Military Confirms Shooting Death of Abu Sayyaf Leader Sulaiman	0	0	0		
+PDA_CMN_20070117.0226	0	20010.000	20019.900				January 17, 2007 15:29	0	0	0		
+PDA_CMN_20070117.0226	0	30010.000	30019.900				The United States announced a bounty of US $25 million for the arrest of five leaders of the Abu Sayyaf. The left bottom corner was Abu Sulaiman.	0	0	0		
+PDA_CMN_20070117.0226	0	40010.000	40019.900				The Philippines military confirmed on January 17 the earlier news of the shooting death of Sulaiman, leader of the terrorist group Abu Sayyaf. Philippines military chief Gen. Hermogenes Esperon said that the terrorist group leader who was linked to the al-Qaeda died in the clash with the Philippines military.	0	0	0		
+PDA_CMN_20070117.0226	0	50010.000	50019.900				According to report of the U.S. media, Abu Sulaiman was a key leader of Abu Sayyaf, a Southeast Asian terrorist group. The Philippines special troops launched a surprise attack of his camp on the southern island of Jolo on the 16th. Sulaiman was fatally shot in the operation.	0	0	0		
+PDA_CMN_20070117.0226	0	60010.000	60019.900				Esperon also stated that the death of Sulaiman may spark off many retaliatory attacks. However, the military has made all preparations to foil any attack.	0	0	0		
+PDA_CMN_20070117.0226	0	70010.000	70019.900				If Sulaiman is confirmed dead, then he will be the highest-ranking member of the Abu Sayyaf that the Philippines military killed.	0	0	0		
+PDA_CMN_20070117.0226	0	70020.000	70029.900				Sulaiman was accused of involving in a series of bombings and kidnappings. The Philippines government had been in pursuit of him for years while Washington had a US $5 million bounty placed on his head.	0	0	0		
+PDA_CMN_20070117.0226	0	70030.000	70039.900				(Yuan Xue)	0	0	0		

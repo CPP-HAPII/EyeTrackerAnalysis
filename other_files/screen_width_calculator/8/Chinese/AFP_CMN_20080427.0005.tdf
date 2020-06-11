@@ -1,0 +1,15 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0005.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	伊朗国会选举结果揭晓 保守派大胜	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社德黑兰二十六日电	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	900.000	1050.000	TEXT1	unknown	unkown	根据今天公布的最后开票结果,伊朗保守派在历经国会选举的两轮投票后, 赢得大多数的议席。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	1050.000	1300.000	TEXT1	unknown	unkown	不过,新国会仍旧会对保守派总统艾马丹加有所批评。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	内政部长穆哈玛迪说,保守派囊括百分之六十九的议席,改革派赢得百分之十六的议席,独立人士则拿下逾百分之十四的议席。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	2000.000	2100.000	TEXT1	unknown	unkown	伊朗昨天举行国会选举第二轮投票,选出国会两百九十席中的八十二席国会议员。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	2100.000	2300.000	TEXT1	unknown	unkown	第一轮选举在三月十四日举行,保守派当时已笃定赢得大胜。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	穆哈玛迪未透露各党派赢得的席次,不过他所透露的百分比意味,保守派拿到约两百个议席,改革派赢得五十个议席,独立人士则抢下约四十席。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3000.000	3100.000	TEXT1	unknown	unkown	穆哈玛迪说:「我的评估是,新国会将比旧国会更有能力,有更强的专业知识。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	我希望政府、国会间会有更强的互动。」	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	改革派在首都德黑兰以外的地区得票还算不错,但在德黑兰则很糟。	0	0	0		statement
+AFP_CMN_20080427.0005.sgm	0	3600.000	3800.000	TEXT1	unknown	unkown	保守派在德黑兰进行决选的十一席中席卷了十席。	0	0	0		statement

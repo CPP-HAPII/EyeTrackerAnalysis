@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1090	0	0.0	100.0	speaker	unknown	unknown	转变思路优化配置 油电提价逼企业居"危"思"机"	0	0	0		
+CNS_CMN_20080702.1090	0	1100.0	1200.0	speaker	unknown	unknown	与电价相比，柴油涨价更让魏小健头痛。	0	0	0		
+CNS_CMN_20080702.1090	0	1200.0	1300.0	speaker	unknown	unknown	魏小健是中国物流百强企业之一、盛辉物流集团的副总经理。	0	0	0		
+CNS_CMN_20080702.1090	0	1600.0	1700.0	speaker	unknown	unknown	在鞋帽、服装生产基地福建晋江市，年初至今，鞋材价格已上涨10%，纺织面料上涨了15%-20%，人工成本上涨近20%。	0	0	0		
+CNS_CMN_20080702.1090	0	2000.0	2100.0	speaker	unknown	unknown	华能福州电厂一位工作人员表示，即使经过此次电价上调，国内电煤价格上涨、发电企业成本高企的矛盾仍难得到根本解决。	0	0	0		

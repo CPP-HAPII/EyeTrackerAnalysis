@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20070109.0725	0	10010.000	10019.900				Chongqing Lifan Coaching Line-Up Confirmed for Next Season; "Acting Coach" Wei to be Made Official	0	0	0		
+CNS_CMN_20070109.0725	0	20010.000	20019.900				January 9, 2007 12:08	0	0	0		
+CNS_CMN_20070109.0725	0	30010.000	30019.900				Chinanews, January 9 A report in the Chongqing Evening News says that next season's coaching line-up for Chongqing Lifan has been officially confirmed. Chongqing Lifan will hold a press conference at their Yanghe base today, announcing that Wei Xin has officially become the head coach, and that Lifan will compete in next season's Chinese Jia League under the guidance of him and two young coaches.	0	0	0		
+CNS_CMN_20070109.0725	0	40010.000	40019.900				Wei Xin, who was a temporary head coach twice last year, appeared quite calm about this official appointment. "All through this period I've been doing the work of the head coach, and the club talked to me about this issue a long time ago.	0	0	0		
+CNS_CMN_20070109.0725	0	40020.000	40029.900				I think the atmosphere in the team this year is extremely good. Everyone is pulling together with the same goal to achieve success. The club's and the team's support for me has been key in my decision to change jobs." Wei Xin also joked that "actually, I haven't got my certificate of appointment yet - in the new season I'll still have to sit on, ah, the players' bench." (Luo Xiang)	0	0	0		

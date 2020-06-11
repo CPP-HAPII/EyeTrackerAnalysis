@@ -1,0 +1,19 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0828.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Chinese Men's Basketball Trapped in "Deadly Group" Still Calm	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 06:30:34 Source: PLA Daily fourth page	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	This morning, the Chinese men's basketball public training session was held at the basketball court of theGeneral Administration of Sport of China's training department The relaxed facial expressions and mentalities of team members and coaches didn't allow others to see this is a team trapped in the "Deadly Group" - Two days ago, the Beijing Olympic Basketball draw results were publicly released. The Chinese men's basketball draw was not very ideal. It was placed together with the world champion Spanish team and the U.S.'s "Dream Team" in Group B.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	This is the first time the Chinese men's basketball team has faced the media after official intensive training.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	The head coach of the Chinese men's basketball team, Jonas, spoke to the media with ease.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1275.000	1287.500	TEXT1	unknown	unkown	Speaking about the draw issue, he humorously said: "The draw is just the draw, if I had the old folk, God's phone number, I would certainly call him so we could do a re-draw.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1287.500	1293.750	TEXT1	unknown	unkown	But I don't, so we can only do what we should do."	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1293.750	1296.875	TEXT1	unknown	unkown	Besides Spain, the U.S. and China, Group B also includes Angola and another 2 spots that will be decided after the mid-July qualification matches.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1296.875	1300.000	TEXT1	unknown	unkown	Group A includes Argentina, Lithuania, Iran, Australia, Russia and one team to be decided later.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	A guard on the Chinese team, Liu Wei said: "The Chinese team made it into the world's top eight twice (Olympics and World Championships). Each draw was very poor, but at this time the Chinese team was able to unleash a very high level of play.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	Now there isn't anything to be said, just strive for good results with all our strength."	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	Jonas said: "The team's recent training conditions have been very good and their progress has rather great. Currently, the biggest problem is injuries.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	Yi Jianlian is expected to return to the team in May, Yao Ming maybe in June, but Wang Zhizhi's injury is still unclear. This is what worries me the most."	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	He revealed that since Wang Zhizhi has a knee injury, he hasn't met the rest of the team.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	The Olympics is coming up quickly. Only some protective treatment can be done for his injury. He's currently training on his own.	0	0	0		statement
+PLA_CMN_20080429.0828.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	In the picture Jonas is being interviewed. Photographed by reporter Ma Yuezhou of this newspaper (This Newspaper, Beijing, April 28).	0	0	0		statement

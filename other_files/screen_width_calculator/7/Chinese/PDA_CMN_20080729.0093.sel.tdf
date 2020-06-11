@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080729.0093	0	400.0	500.0	speaker	unknown	unknown	由中央民族大学副校长喜饶尼玛、中共中央党校教授胡岩和西藏大学副校长强俄巴・次央等组成的中国藏学家代表团，当天与来自工党、国家党和绿党的７名新西兰国会议员就西藏的历史和现状举行座谈、交换看法。	0	0	0		
+PDA_CMN_20080729.0093	0	1100.0	1200.0	speaker	unknown	unknown	作为一名藏学家，我也一直在对‘３・１４’打砸抢烧事件进行深思和准备论文材料。”喜饶尼玛的一席话打动了议员。	0	0	0		
+PDA_CMN_20080729.0093	0	1300.0	1400.0	speaker	unknown	unknown	针对绿党国会议员希斯・洛克的提问，胡岩回答说，在１９５９年以前，西藏人口中只有５％的人（贵族、官员和农奴主）可以自称自己的姓名，９５％的人（农奴）只能告诉别人说自己属于哪个农奴主，广大农奴生活在水深火热之中。	0	0	0		
+PDA_CMN_20080729.0093	0	1400.0	1500.0	speaker	unknown	unknown	农奴制度改革触及到少数人的利益，于是他们组织叛乱。	0	0	0		
+PDA_CMN_20080729.0093	0	2100.0	2200.0	speaker	unknown	unknown	对此，强俄巴・次央说：“我们藏族人民把青藏铁路称为‘天路’和‘幸福之路’。	0	0	0		
+PDA_CMN_20080729.0093	0	2400.0	2500.0	speaker	unknown	unknown	修建铁路时考虑到了动物和环境保护问题，专门设计了高架桥以便藏羚羊迁徙。	0	0	0		
+PDA_CMN_20080729.0093	0	2700.0	2800.0	speaker	unknown	unknown	（记者 黄兴伟）	0	0	0		

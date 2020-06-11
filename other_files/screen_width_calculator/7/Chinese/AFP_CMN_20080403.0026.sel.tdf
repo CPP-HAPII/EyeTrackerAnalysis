@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080403.0026	0	0.0	1000.0	speaker	unknown	unknown	再不撤下反伊斯兰影片 印尼扬言封锁YouTube	0	0	0		
+AFP_CMN_20080403.0026	0	0.0	1000.0	speaker	unknown	unknown	印尼新闻部已用书面通知YouTube ,如果 YouTube再不撤下荷兰极右派国会议员维尔德斯的反伊斯兰影片,它准备予以封锁。	0	0	0		
+AFP_CMN_20080403.0026	0	0.0	1000.0	speaker	unknown	unknown	印尼政府上月三十一日致函Youtube ,要求它撤下这部影片;该片已引起民众对荷兰驻雅加达领事馆发动暴力抗议。	0	0	0		
+AFP_CMN_20080403.0026	0	0.0	1000.0	speaker	unknown	unknown	新闻部官员苏克密说:「倘若未获回应,我们将与网际网路服务提供者(ISPs)合作,从国内封锁它。」	0	0	0		
+AFP_CMN_20080403.0026	0	0.0	1000.0	speaker	unknown	unknown	又说,印尼政府将等待YouTube的回应到本周末为止。	0	0	0		
+AFP_CMN_20080403.0026	0	0.0	1000.0	speaker	unknown	unknown	印尼政府表示,迄未接获Youtube回应,YouTube上周告诉法新社,它力求兼顾表达自由与影片共享社区所定的标准。	0	0	0		

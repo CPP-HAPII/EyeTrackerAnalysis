@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080702.1888	0	1500.0	1600.0	speaker	unknown	unknown	北京市人工影响天气办公室表示，每次下雨的背后，都有他们在“推波助澜”，6月23日以后，北京连续9天下雨，他们也连续9天进行人工增雨作业。	0	0	0		

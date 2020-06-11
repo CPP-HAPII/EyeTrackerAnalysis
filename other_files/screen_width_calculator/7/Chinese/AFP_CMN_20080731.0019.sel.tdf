@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080731.0019	0	0.0	100.0	speaker	unknown	unknown	英BBC叩应节目涉造假 遭开罚台币两千多万	0	0	0		
+AFP_CMN_20080731.0019	0	400.0	500.0	speaker	unknown	unknown	现在传出BBC涉及这起最新的丑闻,通讯传播处说,某些节目的制作人决定播出那些受邀观众根本无任何胜算的竞赛节目。	0	0	0		
+AFP_CMN_20080731.0019	0	500.0	600.0	speaker	unknown	unknown	头号电视慈善募款节目「Comic Relief」违反了规定。	0	0	0		
+AFP_CMN_20080731.0019	0	700.0	800.0	speaker	unknown	unknown	但制作单位只打算让五位打电话进来的人参与抽奖,而且在现场实况播出的竞赛节目最后阶段中,只有两人可能出现在现场转播的节目上,其中一人是由制作人员假扮成观众「来自艾塞克斯的约翰」,最后此人更成为竞赛赢家。	0	0	0		
+AFP_CMN_20080731.0019	0	900.0	1000.0	speaker	unknown	unknown	声明中说:「在这每一起案例中,BBC欺骗观众,假造竞赛赢家,故意以不公平的方式进行比赛。」	0	0	0		
+AFP_CMN_20080731.0019	0	1000.0	1100.0	speaker	unknown	unknown	BBC管理阶层发布声明回应说,BCC「非常认真」看待这个问题,除了道歉,更针对此问题发布严格的新行为守则。	0	0	0		
+AFP_CMN_20080731.0019	0	1100.0	1200.0	speaker	unknown	unknown	BBC坚称,BBC并未靠着这些发生在二零零五年至零七年间的「小失误」而赚钱。	0	0	0		
+AFP_CMN_20080731.0019	0	1300.0	1400.0	speaker	unknown	unknown	商业电视台ITV五月也遭处以将近五百七十万英镑的天价罚款,因为通讯传播处查获ITV操纵竞赛结果。	0	0	0		

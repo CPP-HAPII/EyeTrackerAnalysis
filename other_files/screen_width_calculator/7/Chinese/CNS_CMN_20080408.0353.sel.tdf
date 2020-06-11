@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080408.0353	0	300.0	400.0	speaker	unknown	unknown	任命尤权为国务院副秘书长(负责国务院办公厅常务工作，正部长级)；任命王勇、丘小雄、毕井泉为国务院副秘书长；任命丁学东为财政部副部长；任命华建(女)为国务院港澳事务办公室副主任。	0	0	0		

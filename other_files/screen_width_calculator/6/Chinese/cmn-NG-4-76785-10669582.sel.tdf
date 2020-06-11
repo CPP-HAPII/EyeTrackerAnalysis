@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76785-10669582	0	0.0	100.0	speaker	unknown	unknown	MBA考PHD BUSINESS有没有优势	0	0	0		
+cmn-NG-4-76785-10669582	0	100.0	200.0	speaker	unknown	unknown	想考博，最喜欢的专业还是经济学，但是自己现在学的是MBA，但搭不上边，不容易被录取，录取了也会吃力，经济学基础不好。	0	0	0		

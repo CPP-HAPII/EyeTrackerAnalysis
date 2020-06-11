@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.0345	0	300.0	400.0	speaker	unknown	unknown	On August 1, "The Last Theorem," the posthumous work by British science fiction master Arthur Clarke, will be unveiled to the world.	0	0	0		
+CNS_CMN_20080730.0345	0	600.0	700.0	speaker	unknown	unknown	The key content of the excerpt is going to the moon by a space elevator.	0	0	0		
+CNS_CMN_20080730.0345	0	1100.0	1200.0	speaker	unknown	unknown	Before his death he was still proofreading his new work "The Last Theorem."	0	0	0		
+CNS_CMN_20080730.0345	0	1300.0	1400.0	speaker	unknown	unknown	On the day of the funeral, the Sri Lankan government ordered a national observance of one-minute silence in mourning to commemorate this science fiction giant.	0	0	0		

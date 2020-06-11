@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080727.0019	0	300.0	400.0	speaker	unknown	unknown	In this flashpoint city, a series of sixteen explosions had occurred in crowded places. As marketplaces and buses became targets of attack, the hospital was subsequently busy receiving and treating the wounded.	0	0	0		

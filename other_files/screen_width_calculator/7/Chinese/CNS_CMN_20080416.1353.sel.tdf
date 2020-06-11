@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080416.1353	0	0.0	100.0	speaker	unknown	unknown	ING调查显示:中国投资者信心逐渐回升	0	0	0		
+CNS_CMN_20080416.1353	0	700.0	800.0	speaker	unknown	unknown	ING投资管理北亚区总经理白兰德 (Eddy Belmans) 表示：“全球市场已紧密地联系在一起，中国现在也不例外。	0	0	0		
+CNS_CMN_20080416.1353	0	900.0	1000.0	speaker	unknown	unknown	ING的相关调查还显示，中国投资者正密切关注国内外不确定因素，因此倾向于更具流动性的投资例如现金、黄金和债券。	0	0	0		
+CNS_CMN_20080416.1353	0	1400.0	1500.0	speaker	unknown	unknown	ING投资者情绪指数调查每季度测评并跟踪13个亚太市场的投资者情绪和大众富裕投资者的行为。	0	0	0		

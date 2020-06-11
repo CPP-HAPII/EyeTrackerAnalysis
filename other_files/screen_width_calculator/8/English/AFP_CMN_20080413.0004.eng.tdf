@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0004.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Daring to Worsen Relations With China, German Chancellor Says She Would Meet With The Dalai Lama Again	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Oslo (AFP), 12th.	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	Today, Germany's Chancellor Merkel, who is currently visiting Norway, said that although her previous meeting with Tibet's spiritual leader, the Dalai Lama resulted in a worsening of the Chinese-German relationship, she is still preparing to meet with the Dalai Lama once again.	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	1500.000	1700.000	TEXT1	unknown	unkown	At a press conference, Merkel said: "I believe that if I have already met him once, I will do it again."	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	However, she said that since she will be visiting Latin America she won't be able to meet the Dalai Lama when he visits Germany next month.	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	Merkel said that she doesn't have exact plans to meet the Dalai Lama before the Beijing Olympics in August.	0	0	0		statement
+AFP_CMN_20080413.0004.sgm	0	2700.000	3000.000	TEXT1	unknown	unkown	She reiterated the appeal that she hopes China and the Dalai Lama will hold peaceful and direct talks about the current turmoil in Tibet but she also stressed that she thinks the Beijing Olympics shouldn't be boycotted.	0	0	0		statement

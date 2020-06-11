@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080701.3225	0	1700.0	1800.0	speaker	unknown	unknown	投资者在享受基金上涨收益的同时，也要承担市场下跌造成的风险。	0	0	0		

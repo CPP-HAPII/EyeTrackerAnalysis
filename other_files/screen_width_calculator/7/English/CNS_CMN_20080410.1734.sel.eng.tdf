@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080410.1734	0	500.0	600.0	speaker	unknown	unknown	Earlier on, there was news saying it had been decided that Maradona, the King of Soccer, would be the first runner for the Buenos Aires torch relay. However, this has yet to be confirmed.	0	0	0		

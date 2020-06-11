@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080428.0548	0	0.0	100.0	speaker	unknown	unknown	Dream Team 8 draws well in Olympic lot drawing, looks forward to first match with Chinese men's basketball team	0	0	0		

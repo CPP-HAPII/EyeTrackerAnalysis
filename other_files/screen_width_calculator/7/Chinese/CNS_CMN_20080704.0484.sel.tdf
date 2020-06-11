@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.0484	0	1200.0	1300.0	speaker	unknown	unknown	“现在李树芬已经入土为安了，真的不希望因为我侄女的事情再产生任何谣言，也希望群众不要相信种种谣传，我们只想过平静的生活。”李秀中说。	0	0	0		

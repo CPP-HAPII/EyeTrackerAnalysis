@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080712.1098	0	600.0	700.0	speaker	unknown	unknown	墨、美边界的许多居民也趁机做起汽油买卖的生意，他们装满满一桶又一桶的汽油，载到美国去售卖。	0	0	0		

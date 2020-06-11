@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.0876	0	0.0	100.0	speaker	unknown	unknown	《中国新闻周刊》文章：希拉里的谢幕	0	0	0		
+CNS_CMN_20080704.0876	0	600.0	700.0	speaker	unknown	unknown	6月27日，希拉里与昔日对手、美国民主党总统竞选人奥巴马一起出现在美国一个名字意为“团结”的小镇上，联手为奥巴马的选战造势。	0	0	0		
+CNS_CMN_20080704.0876	0	700.0	800.0	speaker	unknown	unknown	希拉里终于退出了一场世纪大战——6月7日，希拉里正式宣布退出初选，支持奥巴马。	0	0	0		
+CNS_CMN_20080704.0876	0	1100.0	1200.0	speaker	unknown	unknown	“你们可以为此感到自豪——如果一位女性在提名战中与对手势均力敌，或者觉得自己可以成为美国的总统，那也没什么值得吃惊”	0	0	0		
+CNS_CMN_20080704.0876	0	1200.0	1300.0	speaker	unknown	unknown	“确切地说，这不是我计划中的聚会，但我的确喜欢这个聚会。”希拉里以轻松的口吻开始这场退出演说。	0	0	0		
+CNS_CMN_20080704.0876	0	2400.0	2500.0	speaker	unknown	unknown	“我也要求你们所有的人同我一起，像支持我一样地努力支持奥巴马，”希拉里说：“我在参议院与他共事四年。	0	0	0		
+CNS_CMN_20080704.0876	0	2500.0	2600.0	speaker	unknown	unknown	我在这场竞选中与他共战16个月。	0	0	0		
+CNS_CMN_20080704.0876	0	3100.0	3200.0	speaker	unknown	unknown	看上去40多岁的华裔女性Ann Palmer一边摇头说“不”，一边踮着脚、举着摄像机，表情痛苦。	0	0	0		
+CNS_CMN_20080704.0876	0	3200.0	3300.0	speaker	unknown	unknown	15年前Palmer移民美国，现在华盛顿拥有一家小企业。	0	0	0		
+CNS_CMN_20080704.0876	0	3400.0	3500.0	speaker	unknown	unknown	同很多人一样，Palmer原以为希拉里拿下民主党提名是稳操胜券，但到了5月，眼瞅着希拉里代表票落下100多张，Palmer不惜放下工作，带着自制的标语去肯塔基州和西弗吉尼亚州为希拉里呐喊助选。	0	0	0		

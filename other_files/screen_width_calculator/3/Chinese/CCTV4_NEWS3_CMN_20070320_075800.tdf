@@ -1,0 +1,301 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 71.528999999999996, 143.935, 328.07900000000001, 473.86900000000003, 639.90899999999999, 819.779, 877.35400000000004, 914.38400000000001, 961.24599999999998, 1682.23, 1733.97, 1822.75, 9999999.0]
+CCTV4_NEWS3_CMN_20070320_075800	0	0.000	3.265	speaker#1	male	native	并限量生产两千零一套，	0	0	0	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	3.896	13.969	speaker#1	male	native	新版毛瓷四季花瓷碗胎体更轻薄， 做工精美，是中国各大博物馆和收藏家争相珍藏的对象。	0	0	2	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	14.527	19.406	speaker#1	male	native	也成为中国新时代瓷器百花园中的一朵奇葩。	0	0	5	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	38.394	43.142	speaker#1	male	native	巧夺天工的制瓷技术让四季花瓷碗的烧制啊登峰造极，	0	0	7	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	43.689	51.280	speaker#1	male	native	而作为数量稀少的毛瓷啊， 四季花瓷碗更是充满了神秘， 成为永不褪色的国之瑰宝。	0	0	9	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	52.718	62.889	speaker#1	male	native	据专家推测呀， 这批四季花瓷碗呢，由于数量稀少， 制作精美，具有鲜明的时代特点， 所以呀还具有相当的升值空间。	0	0	13	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	63.998	64.711	speaker#1	male	native	好了，朋友们，	0	0	18	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	65.239	68.088	speaker#1	male	native	四季花瓷碗的故事呢就讲到这里了，	0	0	20	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	68.088	71.529	speaker#1	male	native	请您继续看我们下期的国宝档案。	0	0	21	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	143.935	146.142	speaker#2	male	native	华人世界，世界华人的家园，	2	2	23	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	146.142	147.736	speaker#2	male	native	欢迎您收看今天的节目，	2	2	24	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	147.736	152.668	speaker#2	male	native	在今天节目一开始啊， 我们要带大家去认识一位有着特殊经历的中国女性，	2	2	25	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	152.668	157.216	speaker#2	male	native	她呢去遥远的南非旅游， 却在那里呢找到了自己的真爱，	2	2	27	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	157.763	163.703	speaker#2	male	native	她曾经是一位中文专业的白领女性， 现在呢却成为了非洲农场的女主人，	2	2	30	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	164.250	167.856	speaker#2	male	native	下面我们就去认识一下她， 感受她的异国情缘。	2	2	33	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	169.776	173.637	speaker#3	female	native	王俊是中国洛阳人， 五年前到南非观光，	2	3	36	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	173.637	177.058	speaker#3	female	native	在一次偶然的机会里， 她邂逅了一位南非男子，	2	3	38	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	177.058	179.855	speaker#3	female	native	两人几乎是立刻就坠入爱河，	2	3	40	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	179.855	181.887	speaker#3	female	native	不久以后便结成连理。	2	3	41	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	182.528	186.465	speaker#3	female	native	婚后，王俊和丈夫一起从事野生动物的清关生意，	2	3	43	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	187.137	193.418	speaker#3	female	native	对于普通华人女性而言， 她每天接触的是一般人一辈子也难以看到的真实非洲。	2	3	45	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	194.226	198.887	speaker#3	female	native	在工作中，王俊渐渐发现， 梦想和现实有很大的差距。	2	3	48	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	199.452	208.746	speaker#3	female	native	童话故事里的狮子王和现实生活中的狮子，豹子，长颈鹿 简直有着天壤之别， 尤其是当这动物和金钱产生了关系之后，	2	3	51	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	209.496	217.105	speaker#3	female	native	从前的那种喜悦与期待变得若即若离， 而背井离乡与世隔绝的感觉也不时涌上心头。	2	3	56	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	217.831	224.463	Wang_jun	female	native	之前呢在国内嗯也是有事业哈， 有工作有收入地来这儿就完完全全这个地方了。	2	4	59	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	224.463	226.025	Wang_jun	female	native	我一开始整天在家里，	2	4	61	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	226.739	229.526	Wang_jun	female	native	那个受不了那种就是完全脱节了，	2	4	63	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	230.073	231.479	Wang_jun	female	native	想家想得厉害。	2	4	65	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	232.112	235.515	Wang_jun	female	native	我觉得我妈在这儿的时候好象那个感觉还不是特别强烈，	2	4	67	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	235.515	239.031	Wang_jun	female	native	每天毕竟有人跟我在一起哈， 陪着我，	2	4	68	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	239.031	245.241	Wang_jun	female	native	我妈一走啊那那 那几天简直是哇我都不敢进他的房间，	2	4	69	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	245.241	248.733	Wang_jun	female	native	我妈吃完饭呢她就到外面去走一走哈。	2	4	72	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	248.733	250.812	Wang_jun	female	native	我从来都没跟她出去走过，	2	4	73	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	251.350	254.844	Wang_jun	female	native	我妈一个人在外面看星星，跟我说哇你看外面的星星真多。	2	4	75	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	254.844	255.516	Wang_jun	female	native	{laugh}	2	4	76	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	255.516	257.750	Wang_jun	female	native	可是我就是在屋里看电视啊，	2	4	77	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	257.750	260.313	Wang_jun	female	native	跟老公谈话啊，说话干嘛的哈。	2	4	78	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	260.313	263.391	Wang_jun	female	native	等她一走呀我一走到外面啊，	2	4	79	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	263.391	266.094	Wang_jun	female	native	我一看到那，我一看到星星我就想起我妈，	2	4	80	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	266.094	267.469	Wang_jun	female	native	我自己就开始掉泪。	2	4	81	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	268.325	270.356	Wang_jun	female	native	那个感觉太不舒服了。	2	4	83	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	270.356	277.123	speaker#3	female	native	孩子的到来和婚后需要适应的一切 给王俊原本的生涯规划带来的巨大的转变。	2	5	84	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	277.123	279.248	speaker#3	female	native	此物最相思。	2	5	86	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	280.147	283.241	speaker#4	male	native	此物最相思。	2	6	88	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	283.241	284.678	Wang_jun	female	native	对了。	2	7	89	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	284.678	291.985	Wang_jun	female	native	我经常有时候我会感觉我看着一孩子我会说 这是我的孩子么？这是我养出来的孩子，	2	7	90	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	291.985	296.419	Wang_jun	female	native	就是你觉得好象生活 逆转太大了。	2	7	93	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	297.163	302.744	speaker#3	female	native	自我调整适应环境， 勇于创新是王俊用五年的光阴换来的经验。	2	8	97	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	303.300	308.428	speaker#3	female	native	承认并且接受现在的生活之后， 她终于找到了属于自己的世界。	2	8	100	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	308.428	315.622	Wang_jun	female	native	渐渐的这种转移啊， 我现在我也会说， 人家会问你从哪儿来呀？我说我从中国来。	2	9	102	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	315.622	317.997	Wang_jun	female	native	他说你家在哪儿呀？我说我家现在就在这儿。	2	9	105	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	319.341	326.434	speaker#3	female	native	如今她是丈夫事业上不可取代的好伙伴， 孩子心目中取之不尽的亲情和文化的宝藏。	2	10	107	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	328.079	335.168	speaker#2	male	native	在我们先前的节目中， 曾经报道过美国两名白人青年男子辱骂和殴打华裔青年的事件，	3	11	110	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	335.168	338.368	speaker#2	male	native	这起事件发生在去年八月份的纽约市，	3	11	112	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	338.906	341.378	speaker#2	male	native	近日呢对于这起案件的审判有了结果，	3	11	114	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	341.378	346.031	speaker#2	male	native	其中一名嫌犯被判入狱三年半及监外察看两年半。	3	11	115	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	346.031	351.014	speaker#2	male	native	受害人以及当地的华裔人士呢对这一审判结果表示基本满意。	3	11	116	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	351.014	362.692	speaker#5	male	native	<foreign lang="English">(())</foreign>	3	12	117	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	362.692	381.535	speaker#6	male	native	<foreign lang="English">(())</foreign>	3	13	118	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	383.718	401.535	speaker#7	female	native	<foreign lang="English">(())</foreign>	3	14	120	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	402.113	417.580	speaker#8	male	native	<foreign lang="English">(())</foreign>	3	15	122	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	418.611	425.220	Song_bili	female	native	去年八月十二号 四个华人青年在四十四大道和道格拉斯顿大道交口处等红灯，	3	16	124	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	425.220	431.126	Song_bili	female	native	两个白人青年使用 <foreign lang="English">(())</foreign> 及 <foreign lang="English">(())</foreign> 这些诬蔑亚裔的字眼骂四个华人青年。	3	16	126	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	431.649	435.879	Song_bili	female	native	绿灯后受害华裔青年驾车沿北方大道向东行驶，	3	16	128	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	436.389	439.496	Song_bili	female	native	不料两名白人青年也开车紧跟其后，	3	16	130	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	439.496	446.939	Song_bili	female	native	在一个交叉路口， 两名白人青年跳下车， 手持拐杖锁走向四名华青的车，开始打四个华人。	3	16	130	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	446.939	449.658	Song_bili	female	native	结果四个华人分别受轻重伤。	3	16	133	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	449.658	452.470	Song_bili	female	native	一个十九岁的华人头部受伤严重。	3	16	134	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	453.032	457.064	Song_bili	female	native	警方记录布朗和西维两人在案发后驾车逃离，	3	16	136	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	457.064	460.658	Song_bili	female	native	他们的拒捕还造成一名警员手部轻伤。	3	16	137	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	460.658	466.572	Song_bili	female	native	所以布朗了西维除被警方控告一级和二级攻击罪外，当时还加了一条拒捕罪。	3	16	138	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	467.416	470.556	Song_bili	female	native	这个案子到现在为止已经调查了七个多月。	3	16	140	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	470.556	472.838	Song_bili	female	native	美国中文电视宋碧丽报道。	3	16	141	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	473.869	476.525	speaker#2	male	native	好接下来呢我们把目光转向新西兰，	4	17	143	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	476.525	484.279	speaker#2	male	native	新西兰呢可以说是全世界第一个把介绍历史，地理， 风土人情等百科全书放在了网络上的国家。	4	17	144	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	484.807	488.572	speaker#2	male	native	不久前，部分网上的资料被拿出来印刷成书，	4	17	147	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	488.572	493.682	speaker#2	male	native	其中最为引人关注的要属介绍海外移民的那部分内容了。	4	17	148	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	493.682	496.011	speaker#2	male	native	请看新西兰中华电视网的报道。	4	17	149	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	498.092	501.438	speaker#9	female	native	引进官方网点 <foreign lang="English">(())</foreign> 线上纽西兰百科全书，	4	18	151	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	501.438	506.110	speaker#9	female	native	想了解纽西兰的地理环境还是人文传统， 这里通通查得到，	4	18	152	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	506.110	511.336	speaker#9	female	native	里面的资讯丰富，最重要的是网站将移民史纳入本国史的一部分。	4	18	154	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	511.336	540.485	speaker#10	male	native	<foreign lang="English">(())</foreign>	4	19	155	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	541.070	545.779	speaker#9	female	native	梅西大学社会学教授 <foreign lang="English">(())</foreign> 是网站资料的建构者之一，	4	20	157	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	545.779	550.727	speaker#9	female	native	他表示他在一九六零七零年代时所读到的本国史只有英国的历史，	4	20	158	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	550.727	554.029	speaker#9	female	native	一直到最近几年移民故事才逐渐受到重视，	4	20	159	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	554.029	557.373	speaker#9	female	native	而现在这部分的资讯不只是在网上可以浏览，	4	20	160	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	557.373	560.592	speaker#9	female	native	<foreign lang="English">(())</foreign> 将之(())成为可供翻阅的书本。	4	20	161	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	560.592	570.888	speaker#9	female	native	移民百科全书罗列了包括中国在内的四十七个移民族群， 详细记录了他们的背景，文化节庆，移民统计人数， 大事记以及对纽西兰的贡献。	4	20	162	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	570.888	576.716	speaker#9	female	native	<foreign lang="English">(())</foreign> 教授认为，不管是土生土长的 <foreign lang="English">(())</foreign> 还是移民 都应该更了解这块土地。	4	20	165	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	577.669	615.495	speaker#10	male	native	<foreign lang="English">(())</foreign>	4	21	168	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	616.136	618.650	speaker#9	female	native	书中记录了不同族群的文化还有传统，	4	22	170	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	618.650	623.915	speaker#9	female	native	最终的目的希望纽西兰人不管背景为何， 都能感谢生活在一个多元社会中。	4	22	171	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	623.915	631.472	speaker#9	female	native	<foreign lang="English">(())</foreign> 也欢迎移民将自己飘洋过海的故事书写下来， 放在网上，让更多人了解异乡生活的酸甜苦辣。	4	22	173	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	631.472	633.835	speaker#9	female	native	中央记者(())采访报道。	4	22	175	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	639.909	642.762	speaker#2	male	native	关注全球华人热点，聚焦海外生活百态，	5	23	177	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	642.762	645.073	speaker#2	male	native	接下来我们一起浏览全球华文报刊。	5	23	178	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	645.073	646.654	speaker#2	male	native	我们先来看这张图。	5	23	179	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	646.654	651.264	speaker#2	male	native	这是位于罗马尼亚首都布加勒斯特的红龙市场啊。	5	23	180	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	651.264	652.092	speaker#2	male	native	红龙市场。	5	23	181	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	652.092	656.280	speaker#2	male	native	这个市场呢是罗马尼亚最大的服装百货批发市场之一，	5	23	182	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	656.280	659.483	speaker#2	male	native	里面呢绝大多数商户都是华商在经营，	5	23	183	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	659.483	662.858	speaker#2	male	native	每天呀可以说是人来人往，顾客盈门，	5	23	184	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	662.858	667.155	speaker#2	male	native	可最近呀因为一件事情，这种状况呢不复存在了，	5	23	185	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	667.155	671.311	speaker#2	male	native	别说顾客不上门， 很多店铺都关门歇业，	5	23	186	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	671.311	673.124	speaker#2	male	native	那么出了什么变故呢？	5	23	188	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	673.124	686.468	speaker#2	male	native	据旅罗华人报的报道说， 就在十几天前，确切地呢是在三月九号上午十点左右， 正是啊生意最好的时候， 有八辆当地的警车呼啸而至，	5	23	189	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	686.468	694.891	speaker#2	male	native	他们呢直奔三号商场附近的铁皮仓库， 就是图片上的这个区域，啊这就是这个铁皮仓库，	5	23	194	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	695.563	702.251	speaker#2	male	native	警察呢不但当场把五百多个铁皮仓库包围起来， 并且呢还把仓库门给锁住了，	5	23	197	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	702.251	703.720	speaker#2	male	native	我们来看图上啊，	5	23	199	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	703.720	707.267	speaker#2	male	native	这是在铁皮门上挂着的这把锁，	5	23	200	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	707.267	709.270	speaker#2	male	native	要想打开啊可不容易。	5	23	201	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	709.779	711.752	speaker#2	male	native	那么说到这儿您可能就有疑问了，	5	23	203	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	711.752	714.846	speaker#2	male	native	这些铁皮仓库里头装的到底是什么呀？	5	23	204	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	714.846	718.768	speaker#2	male	native	为什么警察会动用如此多的警力来查封呢？	5	23	205	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	719.455	724.298	speaker#2	male	native	报道说其实啊铁皮仓库是红龙市场的一个提货仓，	5	23	207	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	724.846	728.586	speaker#2	male	native	许多华商呢进了货以后啊店里没有足够的空间放置，	5	23	209	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	728.586	731.245	speaker#2	male	native	就租用铁皮仓库来放货，	5	23	210	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	731.245	735.681	speaker#2	male	native	货物并不稀奇， 主要呢是以日常百货用品为主。	5	23	211	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	736.228	740.386	speaker#2	male	native	如此平常的货物怎么就引来警察的大规模的查封呢？	5	23	214	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	740.386	747.778	speaker#2	male	native	罗马尼亚海关总署解释说啊， 这次封库行动是罗马尼亚加入欧盟以后海关警察的一次大行动，	5	23	215	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	747.778	750.546	speaker#2	male	native	主要的目的是查处假冒商品，	5	23	217	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	751.091	760.700	speaker#2	male	native	不但红龙市场的五百多个仓库被封， 当地另外一家以华商经营为主的尼罗市场 也有五百八十六间仓库被查封。	5	23	219	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	761.247	765.356	speaker#2	male	native	那么这么算下来海关总署至少查封了一千多家仓库，	5	23	223	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	765.356	769.216	speaker#2	male	native	如此多的数量引起了中国驻罗马尼亚使馆的重视，	5	23	224	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	770.060	770.810	speaker#2	male	native	我们来看，	5	23	226	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	772.087	779.950	speaker#2	male	native	使馆的官员啊约见了海关总署的署长， 明确指出封库的检查方式影响了华商的正常经营，	5	23	228	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	779.950	783.860	speaker#2	male	native	希望呢尽快地开封仓库， 避免华商遭受损失。	5	23	231	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	784.435	789.153	speaker#2	male	native	海关署长呢也表示， 说这次检查呢是例行检查， 并不是针对华商，	5	23	234	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	789.153	797.980	speaker#2	male	native	只要有关华商带齐相关文件到指定地点接受查验， 海关人员会当场查验文件， 并立即开封仓库。	5	23	237	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	797.980	800.871	speaker#2	male	native	目前已经有一百一十间仓库被开封，	5	23	240	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	801.606	812.544	speaker#2	male	native	那么针对这次封库事件， 中国驻罗马尼亚大使馆提醒广大的旅罗华商， 二零零七年一月一号罗马尼亚加入欧盟以后， 海关税务方面的检查更为严格和频繁，	5	23	242	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	812.544	818.794	speaker#2	male	native	华商们一定要准备好检查所需要的各项文件以备查验， 从而呢避免损失。	5	23	246	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	819.779	821.529	speaker#2	male	native	换个话题，监狱。	6	24	249	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	822.389	824.467	speaker#2	male	native	这可是个让人望而生畏的地方，	6	24	251	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	824.467	826.186	speaker#2	male	native	能离得多远就多远，	6	24	252	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	826.186	829.451	speaker#2	male	native	大概所有人也不想有机会到这个地方去。	6	24	253	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	830.029	834.404	speaker#2	male	native	可是最近啊，美国洛杉矶却有一批华人对监狱特别感兴趣，	6	24	255	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	834.404	840.763	speaker#2	male	native	他们呢不但兴致勃勃地到监狱参观 还准备从监狱里头寻找商机，	6	24	256	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	840.763	842.138	speaker#2	male	native	跟监狱作生意。	6	24	258	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	842.647	844.015	speaker#2	male	native	这个想法啊很新鲜，	6	24	260	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	844.572	845.277	speaker#2	male	native	怎么回事儿呢，	6	24	262	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	845.277	850.881	speaker#2	male	native	青岛日报的新闻标题啊就叫美监狱商机别有洞天。	6	24	263	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	851.390	858.715	speaker#2	male	native	报道说美国洛杉矶中华总商会啊， 最近组织商会成员参观了当地最大规模的双塔城教监狱，	6	24	265	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	858.715	861.470	speaker#2	male	native	就是图片上我们看到的这个监狱，	6	24	267	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	861.470	866.996	speaker#2	male	native	商会的会长庄裴元表示 监狱系统啊有很多合约是公开投标的，	6	24	268	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	866.996	868.668	speaker#2	male	native	每年开销数字很大。	6	24	270	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	868.668	873.886	speaker#2	male	native	如果华裔商家知道其中一些工程或者服务项目也可以加入投标的行列，	6	24	271	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	873.886	876.729	speaker#2	male	native	感兴趣的华人朋友呢可不要错过机会。	6	24	272	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	877.354	878.979	speaker#2	male	native	好我们再来看一组图片。	7	25	274	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	881.057	885.463	speaker#2	male	native	前几天纽约大雪，空中和陆地交通严重受到影响，	7	25	276	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	885.463	888.229	speaker#2	male	native	当天呢有一千四百家航班被取消，	7	25	277	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	888.885	892.293	speaker#2	male	native	我们看到这是机场啊， 大雪覆盖机场的这个画面，	7	25	279	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	892.830	894.822	speaker#2	male	native	那么这张图呢就是纽约华埠，	7	25	282	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	896.228	899.463	speaker#2	male	native	我们看到恶劣的天气啊让华埠的生意受到影响，	7	25	284	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	899.463	901.807	speaker#2	male	native	那么为了防止祸从天降，	7	25	285	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	901.807	908.089	speaker#2	male	native	我们看到这个消防员呀 他正在高空清除华埠一家商用楼的积雪。	7	25	286	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	909.385	912.119	speaker#2	male	native	好了观众朋友今天的报纸我们先浏览到这儿，	7	25	289	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	912.119	914.384	speaker#2	male	native	稍候请继续收看华人世界。	7	25	290	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	961.246	963.043	speaker#2	male	native	欢迎继续收看华人世界，	9	27	292	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	963.043	969.554	speaker#2	male	native	上期的华人故事我们为您讲述了谭盾以一曲卧虎藏龙问鼎奥斯卡，	9	27	293	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	970.064	973.825	speaker#2	male	native	这让世界知道了谭盾，也让世界了解了中国音乐。	9	27	295	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	974.606	990.638	speaker#2	male	native	从湖南农村到北京， 从北京再到纽约街头， 这个拉着小提琴的穷学生凭着自己对音乐的执著和个性的理解， 在中西方文化中听音寻路， 探求人生和音乐的根赖。	9	27	297	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	991.497	996.013	speaker#2	male	native	那么谭盾的音乐成功之路究竟有着怎样的曲折和坎坷，	9	27	303	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	996.013	1001.857	speaker#2	male	native	回顾走过五十年的人生历程， 谭盾对音乐是否有了更深的感悟，	9	27	304	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1001.857	1006.870	speaker#2	male	native	本期节目继续为您讲述谭盾的听音寻路之旅。	9	27	306	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1009.301	1018.808	speaker#11	male	native	二零零三年十一月二十一日， 作曲家谭盾和他的多媒体景观音乐会在湘西的凤凰古城隆重亮相，	9	28	308	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1019.478	1025.811	speaker#11	male	native	这部作品被命名为地图寻找消失中的根赖， 谭盾亲自指挥。	9	28	312	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1025.811	1031.154	speaker#11	male	native	演出舞台就搭建在凤凰古城北门码头的陀江河畔，	9	28	315	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1031.734	1038.717	speaker#11	male	native	三千多名当地居民聚集在这里， 现场聆听了他们生命中的第一场交响音乐会。	9	28	317	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1039.545	1054.248	Tan_dun	male	native	其实地图这个字儿实际上它是一个 心历历程的地图，是一个文化的地图， 也是一个寻找过去与未来， 寻找根 与 前景的一个地图，	9	29	320	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1054.248	1061.054	Tan_dun	male	native	那么跟传统的这个现象也蛮蛮相合， 因为 人类的语言发明之前是有音乐的，	9	29	329	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1061.054	1065.340	Tan_dun	male	native	他们是听音寻路，过一个寨子的时候过一个村的儿时候，	9	29	333	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1065.340	1068.871	Tan_dun	male	native	你必须要留下你的歌作为听音寻路，	9	29	334	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1068.871	1071.012	Tan_dun	male	native	听到回升，听到对歌，	9	29	335	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1071.569	1076.589	Tan_dun	male	native	听到这个乡间的这个口音， 不同的音调，不同的节奏，	9	29	337	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1076.589	1081.323	Tan_dun	male	native	寻找你的呃去路， 寻找你要去的方向。	9	29	339	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1082.457	1087.578	speaker#11	male	native	一九九一年和二零零一年， 谭盾两次到湘西采风。	9	30	342	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1088.125	1094.354	speaker#11	male	native	他用摄像机记录下了湘西土家族，苗族等少数民族的音乐和风情。	9	30	345	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1094.892	1100.997	speaker#11	male	native	后来这些采风中的内容成为交响音乐作品地图中的重要组成部分。	9	30	347	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1100.997	1105.560	Tan_dun	male	native	从湖南湘西自治州来的(())。	9	31	348	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1109.319	1118.376	Tan_dun	male	native	他们将为我们演奏的音乐也是呃我在呃呃湘西采集了很多很多很有意思的音乐，	9	31	350	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1118.376	1125.662	Tan_dun	male	native	这些音乐呢也是通过一些非常不同的方法 呃在地图里边创造的一些一些形式，	9	31	353	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1125.662	1127.537	Tan_dun	male	native	明天晚上你们都可以看到。	9	31	355	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1127.537	1131.802	Tan_dun	male	native	那么今天我们听到的第一支曲子就是八哥洗澡。	9	31	356	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1131.802	1138.633	Tan_dun	male	native	<foreign lang="English">(())</foreign>	9	31	357	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1151.276	1164.479	Tan_dun	male	native	当时 我在采风， 湘西采到 这个凤凰的时候， 碰到一个苗家的一个飞歌的一个歌手的姑娘嗯。	9	31	359	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1164.979	1166.650	Tan_dun	male	native	结果她飞歌唱得很好，	9	31	368	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1166.650	1171.994	Tan_dun	male	native	而且飞歌是呃爱情是生活的对歌，	9	31	369	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1171.994	1178.950	Tan_dun	male	native	都是唱给呃他们都是唱给有时候看不见的人听的， 山那边的人啊，河那边的人啊。	9	31	370	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1178.950	1181.339	Tan_dun	male	native	一唱那边就答，对着空中	9	31	372	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1182.651	1185.517	Tan_dun	male	native	面对面， 但是呢是看不见的。	9	31	374	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1188.020	1191.437	Tan_dun	male	native	就这个， 哎， 她听的部分，	9	31	377	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1192.165	1202.290	Tan_dun	male	native	她心里的声音， 她从天外听到的那种感觉是不是可以从音乐的角度去回答她。	9	31	383	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1202.863	1207.281	Tan_dun	male	native	所以我就把她听的这种过程就作曲作出来了，	9	31	387	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1207.781	1213.588	Tan_dun	male	native	实际上是一个新与旧，过去与现在的一个这样的一个互动和对答。	9	31	389	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1225.733	1227.936	speaker#11	male	native	一九五七年八月十八日，	9	32	391	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1227.936	1230.306	speaker#11	male	native	谭盾出生于湖南农村，	9	32	392	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1230.806	1234.916	speaker#11	male	native	说起谭盾与音乐结缘，还带有一点传奇色彩，	9	32	394	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1235.561	1241.919	speaker#11	male	native	小时候在乡下， 谭盾最喜欢追随民间为红白喜事做道场的乐师，	9	32	396	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1242.535	1246.733	speaker#11	male	native	谭盾认为这些人能用音乐和前生来世对话。	9	32	399	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1247.242	1249.132	speaker#11	male	native	他也想成为这样的艺人。	9	32	401	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1249.769	1255.732	speaker#11	male	native	因此他违背家人让他学医的愿望， 总是拿着一把破旧的琴苦练。	9	32	403	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1255.732	1269.216	Tan_dun	male	native	因为在湖南乡下 那个地方是很多做道场啊， 整天就是红白喜事啊，然后我就特别想做那个 施仪的那个 那个那个巫师，	9	33	405	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1269.216	1273.190	Tan_dun	male	native	因为我觉得他什么乐器都会， 啊什么什么语言都会。	9	33	413	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1273.190	1278.184	Tan_dun	male	native	我那个时候相信他是，真的是可以跟来世过世谈话的一个一个人类。	9	33	416	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1278.184	1280.512	Tan_dun	male	native	我觉得他好象懂很多语言，	9	33	417	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1281.309	1285.200	Tan_dun	male	native	那么我很小的时候我就是想成为一个这样的音乐家。	9	33	419	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1301.261	1305.264	speaker#11	male	native	十年动乱，谭盾被下放做了两年的农夫，	9	34	421	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1305.811	1309.201	speaker#11	male	native	少年时期的音乐梦想似乎彻底破灭了，	9	34	423	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1309.795	1317.544	speaker#11	male	native	然而谁也没有想到一场从天而降的灾难竟鬼使神差地把谭盾推进了音乐的大门。	9	34	425	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1319.076	1323.529	speaker#2	male	native	十年动乱结束不久后， 湖南省京剧团下乡演出，	9	35	427	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1324.206	1329.732	speaker#2	male	native	没想到演员和乐手乘坐的轮船翻到了湖里，无人生还。	9	35	430	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1330.576	1336.139	speaker#2	male	native	这时会拉胡琴略懂音乐的谭盾就被网罗进了剧团，	9	35	432	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1336.779	1341.404	speaker#2	male	native	在京剧团的训练使谭盾对戏曲和音乐有了更多的了解。	9	35	434	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1343.385	1347.542	speaker#11	male	native	谭盾一生中最大的转折点发生在一九七八年，	9	36	436	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1348.117	1353.195	speaker#11	male	native	这一年恢复高考后的中央音乐学院作曲系首度招生，	9	36	438	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1353.769	1361.790	speaker#11	male	native	不甘心在县级文工团做一辈子艺手的谭盾这时认为自己实现音乐梦想的机会到来了。	9	36	440	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1362.447	1368.869	speaker#11	male	native	然而当时全国有数以万计的音乐爱好者报考了中央音乐学院，	9	36	442	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1369.457	1373.082	speaker#11	male	native	能从这些精英当中脱颖而出谈何容易，	9	36	444	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1373.617	1381.542	speaker#11	male	native	更让人感到不可思议的是， 谭盾参加考试的乐器仅是一把破旧的只有三根弦的小提琴。	9	36	446	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1382.370	1388.105	Tan_dun	male	native	记得那个时候 (())很帅，弹钢琴牛得不得了。	9	37	449	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1388.105	1390.323	Tan_dun	male	native	后来我说你叫什么，说叶小刚。	9	37	452	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1390.982	1394.137	Tan_dun	male	native	我当时就很崇拜，我说啊怎么钢琴谈这么好。	9	37	454	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1394.137	1398.153	Tan_dun	male	native	好待会儿又又又来一个，哇小提琴拉得很好，	9	37	455	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1398.153	1400.621	Tan_dun	male	native	(())我说哎你叫什么名字啊？	9	37	456	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1400.621	1402.981	Tan_dun	male	native	林德红，哎呀当时我觉得也是很棒，	9	37	457	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1402.981	1404.919	Tan_dun	male	native	好待会儿又过来一个人，	9	37	458	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1404.919	1407.611	Tan_dun	male	native	(())这个川剧打具啊各方面都好，	9	37	459	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1407.611	1409.535	Tan_dun	male	native	我说那个人叫什么？郭文谨。	9	37	460	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1410.092	1411.514	Tan_dun	male	native	就是个个都很厉害。	9	37	462	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1412.967	1418.702	Tan_dun	male	native	我呢， 就拿了一个小提琴， 还断了一根弦，只有三根弦。	9	37	464	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1420.452	1429.042	speaker#11	male	native	一个拿着三根弦的小提琴考入中央音乐学院的人， 一个把中国农村生活搬上伦敦艺术节的人，	9	38	470	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1429.617	1435.227	speaker#11	male	native	乡土气息和国际潮流在他的作品中有着最完美的结合。	9	38	474	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1435.862	1441.096	speaker#11	male	native	听音寻路带您走进谭盾视听无界的音乐王国。	9	38	476	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1441.753	1444.077	speaker#11	male	native	华人世界正在播出。	9	38	478	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1446.072	1451.486	Tan_dun	male	native	其实当老师 考我的时候就说， 你会拉点什么东西吗？	9	39	480	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1451.486	1452.408	Tan_dun	male	native	我说会拉，	9	39	484	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1452.921	1461.533	Tan_dun	male	native	他说能不能拉点，会不会拉摩德科啊，会不会拉贝多芬，我说我真的是 不怎么会，但是我会拉我自己的东西。	9	39	486	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1461.533	1469.152	Tan_dun	male	native	所以当时我就 把我的小琴取出来， 当时只有三根弦，我就拉了一断铁牛进山了。	9	39	489	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1469.152	1485.661	Tan_dun	male	native	实际上是我自己发明的一个标题， 自己写的就是把湖南(())那种 二胡上的那种滑指啊，那种(())锤的声音啊， 还有那个湘西那种打溜子的那种(())那种声音全部搞到我那个 小提琴上面去了。	9	39	493	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1485.661	1486.591	Tan_dun	male	native	所以当时	9	39	499	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1487.091	1491.136	Tan_dun	male	native	老师觉得这个孩子蛮，蛮好的，我也蛮喜欢我老师那个时候。	9	39	501	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1492.271	1496.896	speaker#11	male	native	谭盾幸运地成为了中央音乐学院作曲系的第一届学生，	9	40	503	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1497.477	1499.586	speaker#11	male	native	他的音乐生涯从此开始。	9	40	505	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1500.175	1509.006	speaker#11	male	native	当年和谭盾一起中榜的郭文谨， 陈继刚，屈小松后来被并称为中央音乐学院四大才子，	9	40	507	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1509.566	1513.803	speaker#11	male	native	日后他们成为了中国当代音乐的中坚力量。	9	40	510	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1514.642	1523.937	speaker#11	male	native	一九九三年，荷兰导演专门找到了中央音乐学院七八级作曲系的这四位作曲家， 拍摄了纪录片惊雷。	9	40	512	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1524.814	1539.350	speaker#12	male	native	反正那时候我就叫小心翼翼地(()){laugh} 井井有条的(())完了就走了。 完了所有你想我们进来衣服一脱，哗一扔(())	9	41	515	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1539.350	1542.457	speaker#12	male	native	他每一个东西都拿一个小纸盒子里面放一双袜子，	9	41	519	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1542.457	1546.082	speaker#12	male	native	这个鞋完了用报纸把它盖起来。	9	41	520	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1546.082	1548.193	speaker#12	male	native	{laugh}	9	41	521	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1548.193	1550.702	Tan_dun	male	native	那，那时候我跟郭文谨写信也在聊天啊，	9	42	522	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1550.702	1555.023	Tan_dun	male	native	我说我们这帮同学都很野，从四川来的也这样的， 从内蒙来的也是这样，	9	42	523	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1555.023	1555.851	Tan_dun	male	native	{laugh}	9	42	525	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1555.851	1559.303	Tan_dun	male	native	大家都在闹着(())写了一个你别无选择吗？	9	42	526	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1559.869	1567.068	Tan_dun	male	native	最后大家胡闹了一通你发现没有， 胡闹中间中国下半叶的音乐史就这么形成。	9	42	528	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1569.432	1581.413	speaker#11	male	native	自从二十二岁时以板鼓和萧等许多民族乐器写出了交响乐离骚之后， 谭盾在音乐上的奇思妙想可以说是层出不穷。	9	43	531	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1581.916	1584.713	speaker#11	male	native	尤其是在乐器的使用上特别突出，	9	43	534	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1585.353	1591.072	speaker#11	male	native	陶，纸，石头，水，编钟， 信手拈来都是谭盾的乐器。	9	43	536	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1591.658	1595.586	speaker#11	male	native	在他看来，艺术作品不能重复， 只能创造。	9	43	539	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1595.586	1601.289	Tan_dun	male	native	那后来呢当然 学习了，开始学习西方音乐，我也想成为作曲家，	9	44	541	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1602.929	1613.639	Tan_dun	male	native	越到后来我觉得 其实 音乐 是我觉得自己 最幸运的一个生活 伙伴之一，	9	44	545	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1613.639	1619.878	Tan_dun	male	native	是因为我觉得 如果我还有可能(())下辈子或者再下辈子我还是会选择音乐工作。	9	44	556	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1619.878	1625.943	Tan_dun	male	native	是因为音乐是一种比语言发明更早的一种东西了。	9	44	559	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1626.528	1633.596	speaker#11	male	native	一九八六年，谭盾获得美国哥伦比亚大学奖学金， 赴美攻读音乐艺术博士学位。	9	45	563	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1634.214	1637.761	speaker#11	male	native	现在谭盾住在纽约 <foreign lang="English">SOHO</foreign> 格林尼治村，	9	45	566	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1638.403	1642.419	speaker#11	male	native	这个地方号称是全世界的天才和笨蛋的聚集地。	9	45	568	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1642.963	1646.706	speaker#11	male	native	他从一九八六年开始就一直住在这里。	9	45	570	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1648.060	1653.041	speaker#2	male	native	一九八六年谭盾怀着登上国际乐坛的梦想赴美求学，	9	46	572	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1653.909	1660.166	speaker#2	male	native	如今谭盾问鼎奥斯卡音乐奖， 已经成为世界最为熟知的中国作曲家，	9	46	574	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1660.869	1665.648	speaker#2	male	native	然而初到美国的时候谭盾做过洗碗工， 也曾在街头卖艺。	9	46	577	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1666.157	1668.588	speaker#2	male	native	那么他究竟走过了怎样的艺术道路？	9	46	580	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1668.588	1670.440	speaker#2	male	native	又是如何获得成功的呢？	9	46	581	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1670.949	1675.729	speaker#2	male	native	下期节目我们将继续为您讲述谭盾的听音寻路之旅。	9	46	583	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1682.230	1683.879	speaker#2	male	native	欢迎来到华人咨询站。	10	47	585	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1683.879	1686.644	speaker#2	male	native	先来看一条有关出行方面的消息。	10	47	586	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1687.163	1695.098	speaker#2	male	native	从二零零七年四月一号开始， 入境到香港的旅客在入境的时候呢可以享有一定的烟酒免税优惠，	10	47	588	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1695.619	1696.786	speaker#2	male	native	具体呢是这样的，	10	47	591	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1696.786	1711.690	speaker#2	male	native	只要是年满十八岁的旅客， 携带以下烟酒货品可享有免税优惠， 包括饮用酒类一升， 香烟六十支，或雪茄十五支， 或者其他制成烟草七十五克，	10	47	592	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1712.258	1723.408	speaker#2	male	native	香港海关有关负责人还提醒， 任何入境的旅客都要把您携带的超出免税优惠范围的货品向海关人员申报， 还要缴付有关的税款。	10	47	599	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1723.408	1728.830	speaker#2	male	native	如果不按照规定做出申报， 或者是虚假申报的， 就会被检控，	10	47	602	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1728.830	1732.783	speaker#2	male	native	而且呢要罚款一百万港元或者监禁两年。	10	47	605	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1733.970	1737.173	speaker#2	male	native	好下面呢再来看一条有关签证费用方面的消息。	11	48	607	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1737.716	1743.968	speaker#2	male	native	从今年四月一号开始，英国签证局将对中国公民赴英签证费用进行大调，	11	48	609	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1744.477	1749.345	speaker#2	male	native	其中涨幅最高的是定居签证和长期访问签证，	11	48	611	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1749.345	1752.314	speaker#2	male	native	最高涨幅达到百分之一百三十五。	11	48	612	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1752.970	1763.287	speaker#2	male	native	根据有关部门工作人员的介绍， 在不包括签证服务费二百二十元的情况下， 定居签证费将从目前的四千一百六十元上涨到八千元。	11	48	614	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1763.906	1768.849	speaker#2	male	native	长期访问签证费从目前的一千三百六十元上涨到三千二百元。	11	48	618	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1769.387	1774.536	speaker#2	male	native	学生签证费将从一千三百六十元调整为一千五百八十四元。	11	48	620	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1774.536	1781.549	speaker#2	male	native	<foreign lang="English">ADS</foreign> 旅游签证以及六个月访问签证费 由八百元调整为一千零八元，	11	48	621	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1781.549	1785.597	speaker#2	male	native	过境签证费从四百八十元调整为七百零四元。	11	48	623	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1786.172	1791.610	speaker#2	male	native	另外从四月一号开始二百二十元的签证服务费将全部取消。	11	48	625	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1792.251	1802.594	speaker#2	male	native	那么根据这份费用调整清单来看， 如果将调整后的签证费减去二百二十元， 那么学生签证费只比目前高了四元，	11	48	627	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1802.594	1809.001	speaker#2	male	native	而 <foreign lang="English">ADS</foreign> 旅游签证和六个月访问签证费用反而呢比原先便宜了十二元，	11	48	630	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1809.001	1814.048	speaker#2	male	native	这样看来呢对大多数的申请者来说， 申请费用其实呢是降低了，	11	48	631	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1814.048	1816.690	speaker#2	male	native	申请赴英旅游更合算了。	11	48	633	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1817.422	1819.844	speaker#2	male	native	好了观众朋友今天的节目呢就是这些内容，	11	48	635	report	
+CCTV4_NEWS3_CMN_20070320_075800	0	1819.844	1822.750	speaker#2	male	native	感谢您的收看，我们下期同一时间再见。	11	48	636	report	

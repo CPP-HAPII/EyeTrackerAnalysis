@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-111648-10436009	0	100.0	200.0	speaker	unknown	unknown	如题 请问是什么原因 能解决吗所用版本3.0.7	0	0	0		

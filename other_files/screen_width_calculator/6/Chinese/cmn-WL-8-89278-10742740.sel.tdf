@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89278-10742740	0	0.0	100.0	speaker	unknown	unknown	建在深坑中的上海松江大酒店	0	0	0		
+cmn-WL-8-89278-10742740	0	300.0	400.0	speaker	unknown	unknown	现在要规划搞一个大酒店。	0	0	0		
+cmn-WL-8-89278-10742740	0	700.0	800.0	speaker	unknown	unknown	Atkins设计公司因地制宜设计了一个22世纪风格的五星级的松江大酒店。	0	0	0		

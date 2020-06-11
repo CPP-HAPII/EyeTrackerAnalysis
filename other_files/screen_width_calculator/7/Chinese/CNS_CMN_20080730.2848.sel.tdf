@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080730.2848	0	200.0	300.0	speaker	unknown	unknown	据台湾“中央社”报道，国民党文传会主委李建荣29日说，民进党文宣部主任郑文灿指马英九当局掉入北京“以党制马”策略的说法，根本是引用某特定媒体论调，不值一驳。	0	0	0		

@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0013.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	阿富汗阅兵典礼遭攻击 三名激进份子被击毙	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社喀布尔二十七日电	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	阿富汗激进的塔利班 组织说,他们攻击阿富汗总统卡赛主持的军事阅兵典礼 ,三名进行攻击行动的激进份子丧生。	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	1400.000	1500.000	TEXT1	unknown	unkown	塔利组织发言人告诉法新社记者说:「我们进行攻击行动。	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	我们对阅兵典礼现场发射火箭。	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	1550.000	1700.000	TEXT1	unknown	unkown	我们在该地区部署六人,其中三人丧生。」	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	他没有说明这三人如何丧生,不过一名在现场的法新社记者说,攻击者与部队之间显然相互交火。	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	2300.000	2500.000	TEXT1	unknown	unkown	一名在现场的安全官员说,一名疑似攻击者被逮捕。	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	2700.000	2900.000	TEXT1	unknown	unkown	爆炸与枪击迫使参加阅兵典礼的数千名部队与贵宾纷纷逃避。	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	3100.000	3300.000	TEXT1	unknown	unkown	一名总统府官员说,卡赛总统与其他官员都安全无虞。	0	0	0		statement
+AFP_CMN_20080427.0013.sgm	0	3500.000	3700.000	TEXT1	unknown	unkown	美国大使馆官员说,美国大使伍德在攻击中幸未受伤。	0	0	0		statement

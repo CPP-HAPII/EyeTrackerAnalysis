@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117639-10491153	0	0.0	100.0	speaker	unknown	unknown	Installed Win2k pro.	0	0	0		
+cmn-NG-31-117639-10491153	0	200.0	300.0	speaker	unknown	unknown	After I installed it, sp4 is displayed, but it still doesn't support 2cpu, I gave it 256 m but just getting into the system eats up more than +half of it.	0	0	0		
+cmn-NG-31-117639-10491153	0	500.0	600.0	speaker	unknown	unknown	And while running QQ it actually prompted me that I had already logged on the maximum number of times...I checked the memory and found that there was only around 6 m.	0	0	0		

@@ -1,0 +1,8 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0292	0	0.0	100.0	speaker	unknown	unknown	Zhejiang has issued a typhoon emergency warning. "Haiou" may impact a tourist group in Taiwan	0	0	0		
+CNS_CMN_20080717.0292	0	200.0	300.0	speaker	unknown	unknown	Chinanews.com, Hangzhou, July 17 (reporter trainee, Wang Enmin) - This afternoon, the reporter learned from the Zhejiang Meteorological Observatory that in order to respond to the first typhoon of this year that affects Zhejiang, "Haiou," Zhejiang has issued a typhoon emergency warning.	0	0	0		
+CNS_CMN_20080717.0292	0	300.0	400.0	speaker	unknown	unknown	It has been learned that "Haiou" will have a certain impact on the flight of the first Zhejiang tourist group to Taiwan leaving on the 18th.	0	0	0		
+CNS_CMN_20080717.0292	0	800.0	900.0	speaker	unknown	unknown	Wang Zhenming expected that typhoon "Haiou" will land along the coastal areas from Xiangshan, Zhejiang to Fuqing, Fujian tomorrow evening or night, or it will brush past the coastal area of Zhejiang and move northward.	0	0	0		
+CNS_CMN_20080717.0292	0	1200.0	1300.0	speaker	unknown	unknown	Wang Zhengming told the reporter that "Haiou" will have a certain impact on the first Zhejiang tourist group to Taiwan leaving on the 18th.	0	0	0		
+CNS_CMN_20080717.0292	0	1400.0	1500.0	speaker	unknown	unknown	Typhoon "Haiou" may land in Taiwan between tonight and tomorrow.	0	0	0		
+CNS_CMN_20080717.0292	0	2000.0	2100.0	speaker	unknown	unknown	Among typhoons that land in Zhejiang in July, "Haiou" is the 12th one.	0	0	0		

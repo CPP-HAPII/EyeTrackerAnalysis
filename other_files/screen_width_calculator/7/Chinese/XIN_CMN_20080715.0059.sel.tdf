@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080715.0059	0	0.0	100.0	speaker	unknown	unknown	Ｋ２１（巴黎）专家称地中海生态环境面临多重威胁	0	0	0		
+XIN_CMN_20080715.0059	0	700.0	800.0	speaker	unknown	unknown	布柴认为，过度捕捞使得金枪鱼在这一区域濒临灭绝，而海龟也因为找不到合适的海滩产卵面临同样的问题，而这两种动物的食物——水母繁殖速度大大加快。	0	0	0		

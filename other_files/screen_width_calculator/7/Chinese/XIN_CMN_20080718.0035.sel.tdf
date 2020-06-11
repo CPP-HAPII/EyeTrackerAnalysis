@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080718.0035	0	1000.0	1100.0	speaker	unknown	unknown	早在瓦姆巴赫骨折之前，美国队就已因后卫卡特·怀特希尔和前卫莱斯利·奥斯本双双膝盖韧带受伤而失去两员大将。	0	0	0		

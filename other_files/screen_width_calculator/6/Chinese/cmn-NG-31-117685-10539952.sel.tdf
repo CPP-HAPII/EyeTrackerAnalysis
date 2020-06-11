@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117685-10539952	0	1400.0	1500.0	speaker	unknown	unknown	此后,另一个自称为"火炬的复仇"的黑客组织取消了针对CNN网站的又一 次攻击计划.	0	0	0		
+cmn-NG-31-117685-10539952	0	1500.0	1600.0	speaker	unknown	unknown	本周早些时候,黑客们称取得了第一场胜利,他们"黑掉"了一个被误认为属于CNN的美国体育网站.	0	0	0		
+cmn-NG-31-117685-10539952	0	1700.0	1800.0	speaker	unknown	unknown	谢谢回答！	0	0	0		

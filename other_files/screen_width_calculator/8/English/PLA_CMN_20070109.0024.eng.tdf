@@ -1,0 +1,52 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20070109.0024	0	10010.000	10019.900				Shen Yang: World Champion from a Military Family	0	0	0		
+PLA_CMN_20070109.0024	0	20010.000	20019.900				Li Qiang, our special correspondent Ma Shengwei (Source: China's National Defense News, issue time: 2007-01-09 08:51)	0	0	0		
+PLA_CMN_20070109.0024	0	30010.000	30019.900				On October 16, 2006, PLA University of Science and Technology Communication Engineering Institute Associate Professor Shen Pinglin's daughter Shen Yang won the 23rd Women's World Chess Junior Championship.	0	0	0		
+PLA_CMN_20070109.0024	0	30020.000	30029.900				People all say that not only is Shen Yang the Chinese people's pride; she is also a Chinese military family's pride.	0	0	0		
+PLA_CMN_20070109.0024	0	40010.000	40019.900				Growing-up: Cultivating the moral character of a serviceman	0	0	0		
+PLA_CMN_20070109.0024	0	50010.000	50019.900				Born in a military family, Shen Yang learned to be independent since childhood.	0	0	0		
+PLA_CMN_20070109.0024	0	50020.000	50029.900				Her father was a backbone faculty member for the school's education and research, and was usually busy running between the laboratory and the classroom; therefore, he had very little time to look after Shen Yang. Although a doctor, her mother devoted nearly all her loving concerns to her patients.	0	0	0		
+PLA_CMN_20070109.0024	0	50030.000	50039.900				At the age of just one year and a half, Shen Yang had already entered kindergarten.	0	0	0		
+PLA_CMN_20070109.0024	0	60010.000	60019.900				Every day, lying prone on her father's shoulder, little Shen Yang looked curiously at the students passing in front of her in neatly formed ranks, and listened to their resonant songs near her ears.	0	0	0		
+PLA_CMN_20070109.0024	0	60020.000	60029.900				Perhaps it was from then on that many characteristics of the military soldiers had already left deep impressions on little Shen Yang's mind.	0	0	0		
+PLA_CMN_20070109.0024	0	70010.000	70019.900				In 1996, Shen Yang began to learn chess.	0	0	0		
+PLA_CMN_20070109.0024	0	70020.000	70029.900				She studied very earnestly, very devotedly.	0	0	0		
+PLA_CMN_20070109.0024	0	70030.000	70039.900				Every day throughout the year, her father took her on a bicycle and rushed between the family and the chess school, regardless of weather and seasons.	0	0	0		
+PLA_CMN_20070109.0024	0	70040.000	70049.900				Once, exactly when it was training time, Shen Yang had a foot ossiculum bone fracture.	0	0	0		
+PLA_CMN_20070109.0024	0	70050.000	70059.900				Her father purposefully intended to test her, saying: "I will ask for leave for you and you don't need to go to participate in the training." However, Shen Yang insisted firmly on her father taking her to the chess school.	0	0	0		
+PLA_CMN_20070109.0024	0	70060.000	70069.900				Even Shen Pinglin, who had always been strict with Shen Yang, couldn't help but feel impressed. He didn't expect the daughter to really have such tenacity.	0	0	0		
+PLA_CMN_20070109.0024	0	70070.000	70079.900				Therefore, her father helped Shen Yang apply some medicine and wrap up, then put Shen Yang on the bike and set off.	0	0	0		
+PLA_CMN_20070109.0024	0	80010.000	80019.900				During her 10-year involvement with chess, Shen Yang stayed home less, stayed outside more, rested less, trained more, but though little in age she never complained.	0	0	0		
+PLA_CMN_20070109.0024	0	80020.000	80029.900				Her teacher and fellow chess players all said that inside Shen Yang there existed a kind of military moral character!	0	0	0		
+PLA_CMN_20070109.0024	0	90010.000	90019.900				Whetting: Forging a military attitude	0	0	0		
+PLA_CMN_20070109.0024	0	100010.000	100019.900				Sitting by the chess table, the calmness and composure Shen Yang displayed often made her opponents feel at awe.	0	0	0		
+PLA_CMN_20070109.0024	0	100020.000	100029.900				The famous Russian male chess player Morozevich, when talking about the Chinese female chess players, appraised Shen Yang very highly.	0	0	0		
+PLA_CMN_20070109.0024	0	110010.000	110019.900				While Shen Yang was still of a very small age, her father had cautioned her against arrogance and delicateness, and had advised that she should dare to challenge any difficulties.	0	0	0		
+PLA_CMN_20070109.0024	0	110020.000	110029.900				This kind of hale and hearty military attitude accompanied her on all battles in the chess field.	0	0	0		
+PLA_CMN_20070109.0024	0	120010.000	120019.900				In 2003, Shen Yang went from Nanjing to Beijing all alone to learn from the masters, and obtained 3rd rank in the national chess tournament team competition for the Jiangsu women's team.	0	0	0		
+PLA_CMN_20070109.0024	0	120020.000	120029.900				She returned to Nanjing from Beijing at a time when school was just going to have final examinations.	0	0	0		
+PLA_CMN_20070109.0024	0	120030.000	120039.900				Taking the exams or not?	0	0	0		
+PLA_CMN_20070109.0024	0	120040.000	120049.900				The school's suggestion was that Shen Yang had returned with honors; therefore, she was worthy of special considerations.	0	0	0		
+PLA_CMN_20070109.0024	0	120050.000	120059.900				Shen Yang did not assume privileges.	0	0	0		
+PLA_CMN_20070109.0024	0	120060.000	120069.900				After a short preparation, she participated in the examination and even took the 1st rank of the entire grade.	0	0	0		
+PLA_CMN_20070109.0024	0	130010.000	130019.900				In 2004, during the last round of Individual Competition against a Lebanese Asian Female, so long as Shen Yang ended in a draw she would surely have taken the first place.	0	0	0		
+PLA_CMN_20070109.0024	0	130020.000	130029.900				Yet she made some fatal moves while she was in an advantageous situation, thus missed the championship.	0	0	0		
+PLA_CMN_20070109.0024	0	130030.000	130039.900				Facing the setback, she said with a smile: this is a required course in growing up.	0	0	0		
+PLA_CMN_20070109.0024	0	140010.000	140019.900				In 2005 while attending a world group tournament, she was the last to finish the last chess round among all those present.	0	0	0		
+PLA_CMN_20070109.0024	0	140020.000	140029.900				At that time, the entire competition was already near the end, the awards ceremony was already all well prepared and ready, just waiting for Shen Yang to finish her round and it would commence immediately.	0	0	0		
+PLA_CMN_20070109.0024	0	140030.000	140039.900				But before this, due to a small mistake, Shen Yang was in a quite disadvantageous situation.	0	0	0		
+PLA_CMN_20070109.0024	0	140040.000	140049.900				In front of all the spectators and various referees, Shen Yang kept her composure, finally defeated her opponent.	0	0	0		
+PLA_CMN_20070109.0024	0	150010.000	150019.900				Confrontation: Showing the military style	0	0	0		
+PLA_CMN_20070109.0024	0	160010.000	160019.900				From the time when she first participated in the "Li Chengzhi" Cup National Children's Chess Championship in 1998, every year Shen Yang had to attend at least two large-scale domestic and international competitions.	0	0	0		
+PLA_CMN_20070109.0024	0	160020.000	160029.900				She was always seeking an opponent.	0	0	0		
+PLA_CMN_20070109.0024	0	160030.000	160039.900				From the national team's teammates to the various countries' top players, from Indian female grandmaster Aarthie Ramaswamy to Rublevsky, Shen Yang was always calm in each and every battle, as she was already used to attacking and defending in the 64 squares of the chess battleground.	0	0	0		
+PLA_CMN_20070109.0024	0	170010.000	170019.900				In 2000, at the national children's championship in Huangshi, Hubei, during the last round, if Shen Yang won the round, she would be in second place. If she ended up in a draw, she would be 5th. However, if she lost, she would be 7th, whereas her opponent would be 1st as long as the match ended in a draw.	0	0	0		
+PLA_CMN_20070109.0024	0	170020.000	170029.900				Her opponent proposed a draw several times, but Shen Yang did not agree.	0	0	0		
+PLA_CMN_20070109.0024	0	170030.000	170039.900				When Shen Yang finally won the match, she did not celebrate the victory, but ran up to comfort her opponent.	0	0	0		
+PLA_CMN_20070109.0024	0	180010.000	180019.900				In the 23rd International Female Chess Tournament, Shen Yang's road to the championship could be described as full of twists and turns, with the first few rounds going on smoothly.	0	0	0		
+PLA_CMN_20070109.0024	0	180020.000	180029.900				During the middle stage of the competition, Shen Yang encountered trouble, and lost the 6th and 9th round to Mongolian chess player Mongontuul and Georgian chess player Purtseladze, respectively.	0	0	0		
+PLA_CMN_20070109.0024	0	180030.000	180039.900				She suddenly found herself with a one-and-a-half point gap to first place.	0	0	0		
+PLA_CMN_20070109.0024	0	180040.000	180049.900				During the most crucial final 4 rounds of competitions, Shen Yang withstood the pressure, made her movements skillfully against the opponents, and successfully won the championship by 3 wins and 1 draw.	0	0	0		
+PLA_CMN_20070109.0024	0	180050.000	180059.900				When the competition ended, all the people on the spot stood up to applaud her, not only for her excellent skills, but also for her composure and her tenacity!	0	0	0		

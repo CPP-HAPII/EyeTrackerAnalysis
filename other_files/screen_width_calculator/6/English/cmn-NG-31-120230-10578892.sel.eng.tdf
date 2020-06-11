@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-120230-10578892	0	0.0	100.0	speaker	unknown	unknown	Could anybody who has information on IBM "blue cloud" send it over for a look?	0	0	0		
+cmn-NG-31-120230-10578892	0	100.0	200.0	speaker	unknown	unknown	RT, a bit more detailed one would be good:) Thanks	0	0	0		
+cmn-NG-31-120230-10578892	0	200.0	300.0	speaker	unknown	unknown	--<<END somebody taught us how to answer questions, someone taught us how to draw pictures, someone taught us how to work, but nobody told us how to think, and nobody ever told us how to gain our freedom.	0	0	0		

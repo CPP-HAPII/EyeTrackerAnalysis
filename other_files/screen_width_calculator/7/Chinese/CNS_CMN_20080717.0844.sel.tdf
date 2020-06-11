@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.0844	0	0.0	100.0	speaker	unknown	unknown	国家统计局发言人解读上半年经济数据(摘要)	0	0	0		
+CNS_CMN_20080717.0844	0	600.0	700.0	speaker	unknown	unknown	中国今年上半年GDP130619亿元 同比增长10.4%	0	0	0		
+CNS_CMN_20080717.0844	0	2400.0	2500.0	speaker	unknown	unknown	今年上半年CPI同比上涨7.9% 6月涨7.1%继续回落	0	0	0		
+CNS_CMN_20080717.0844	0	2500.0	2600.0	speaker	unknown	unknown	今年上半年中国居民消费价格总水平(CPI)同比上涨了7.9%，其中，6月份居民消费价格上涨7.1%，较上月回落了0.6个百分点。	0	0	0		
+CNS_CMN_20080717.0844	0	3100.0	3200.0	speaker	unknown	unknown	统计局：猪肉价格仍高位运行 对CPI影响不能忽视	0	0	0		
+CNS_CMN_20080717.0844	0	3200.0	3300.0	speaker	unknown	unknown	国家统计局新闻发言人、国民经济综合统计司司长李晓超介绍称，目前看，猪肉价格仍在高位运行，对CPI的影响还不能忽视。	0	0	0		

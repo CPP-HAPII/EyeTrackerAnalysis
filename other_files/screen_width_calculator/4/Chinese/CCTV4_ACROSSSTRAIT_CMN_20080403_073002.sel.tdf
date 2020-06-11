@@ -1,0 +1,9 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'report', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'filler', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 64.988, 69.644999999999996, 74.623000000000005, 122.896, 206.155, 266.01799999999997, 334.19499999999999, 408.34699999999998, 475.02300000000002, 497.56400000000002, 506.00599999999997, 548.69799999999998, 597.60900000000004, 676.56299999999999, 704.053, 860.43100000000004, 1622.925, 9999999.0]
+CCTV4_ACROSSSTRAIT_CMN_20080403_073002	0	356.523	367.797	Gao_Zhi_Peng	male	native	权力最大的个人要负最大的责任最大比例的责任,那么这八年执政得到权力最大, (()) 最多的派系是也要负最大比例的责任	7	18	36	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080403_073002	0	632.675	640.199	speaker#9	male	native	站在新搭建完成的吊桥上俯瞰神仙谷,瀑布,即安全,有 (())	13	32	63	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080403_073002	0	652.924	664.640	speaker#12	male	native	而这边是个大峡谷哦,整个 (()) 飘过来呃这就如同仙境般的美,这是传说中的神仙谷,空气很好,心情也很好	13	35	66	report	statement
+CCTV4_ACROSSSTRAIT_CMN_20080403_073002	0	998.153	1006.076	Wang_Hong_Wei	female	native	这个事实上呢是对于呃两岸互相的这个信任也好,交流也好,我认为是一个比较严重的阻碍哦	16	44	97	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080403_073002	0	1367.896	1388.299	Wang_Hong_Wei	female	native	那例如中文哦他讲说是华语或者是华文,那么像中国文字他把它改成汉字哦,所以其实我们有很多的小朋友,包含我们的学生都会说,难道我们是-是新加坡人吗,我们是外国人吗,我们为什么要-要称为是汉字或者是-是呃华语哦	16	50	131	filler	statement
+CCTV4_ACROSSSTRAIT_CMN_20080403_073002	0	1606.557	1613.244	Jiang_Min_Qin	male	native	那这样的方式其实对两边的民众都好,特别是对台湾未来的发展而言,这确实是个重大--重大的利多	16	52	152	filler	statement

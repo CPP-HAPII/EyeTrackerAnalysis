@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.2011	0	0.0	100.0	speaker	unknown	unknown	李小龙故居搁置出售 影迷很高兴盼还原旧貌(图)	0	0	0		
+CNS_CMN_20080703.2011	0	1100.0	1200.0	speaker	unknown	unknown	“李小龙是巨星也是哲学家，因此，书房及练武之地很重要，可以还原旧貌，作出像往日的布置。” 黄耀强说：“该物业楼高两层，面积很大，楼上有睡房及书房，地下客厅，从前是他一家大小聚集的地方，日后则可以在此播放李小龙电影精彩片段。”	0	0	0		

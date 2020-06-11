@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080407.0117	0	1800.0	1900.0	speaker	unknown	unknown	有无“近水楼台”？	0	0	0		
+PLA_CMN_20080407.0117	0	3600.0	3700.0	speaker	unknown	unknown	问卷调查显示：新兵大队300多名新兵中，下队分配选择“到基层”占70.6%，“到机关”占12%，“到最艰苦的地方”占7.4%，“到最适合自己的地方”占10%。	0	0	0		

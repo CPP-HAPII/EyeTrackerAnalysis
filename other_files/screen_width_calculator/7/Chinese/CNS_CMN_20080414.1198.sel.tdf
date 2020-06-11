@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080414.1198	0	3500.0	3600.0	speaker	unknown	unknown	2003年9月经济学家宋国青、余永定就认为中国有通胀压力，来源就是汇率机制有问题，当时建议一次性提高人民币汇率。	0	0	0		

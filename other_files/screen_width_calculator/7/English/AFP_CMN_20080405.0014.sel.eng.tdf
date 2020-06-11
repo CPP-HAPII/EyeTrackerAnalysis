@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080405.0014	0	0.0	1000.0	speaker	unknown	unknown	BOCOG: French President's Threat to Boycott Opening Ceremony Is a Personal Issue	0	0	0		

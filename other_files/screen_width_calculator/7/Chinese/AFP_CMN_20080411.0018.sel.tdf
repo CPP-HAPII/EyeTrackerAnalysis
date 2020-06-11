@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080411.0018	0	0.0	1000.0	speaker	unknown	unknown	学者指SADC加开峰会不太可能解决辛巴威危机	0	0	0		
+AFP_CMN_20080411.0018	0	0.0	1000.0	speaker	unknown	unknown	三月二十九日举行的辛巴威总统、国会及地方议员选举,虽然反对党「民主改革运动」(MDC)在国会下议院领先执政党「辛巴威非洲民族联盟爱国阵线」(Zanu-PF),MDC总统候选人崔凡吉莱也宣称以百分之五十点三得票率当选总统,但在辛巴威选举委员会迟迟不愿公布总统选举结果后,这场大选已形成僵持不下局面。	0	0	0		
+AFP_CMN_20080411.0018	0	0.0	1000.0	speaker	unknown	unknown	对即将召开的SADC成员国领袖高峰会,讨论辛巴威选后情势恶化一事,姆贝吉认为,代表公民社会力量的MDC,不仅对辛巴威执政党、对整个南部非洲区域国家也是一大威胁。	0	0	0		
+AFP_CMN_20080411.0018	0	0.0	1000.0	speaker	unknown	unknown	在陆续会见ANC党主席朱玛、波札那总统哈玛二人后,崔凡吉莱现在只能透过外交途径设法敦促SADC成员国领袖介入辛巴威选后危机,虽然崔凡吉莱声称已准备好与穆加比进行二轮对决,但他也担心选委会迟迟不愿公布总统选举结果,是为了让穆加比有更充足的时间以暴力方式对付反对党支持者。	0	0	0		

@@ -1,0 +1,31 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76692-10675789	0	0.0	100.0	speaker	unknown	unknown	我是WALL-E	0	0	0		
+cmn-NG-4-76692-10675789	0	100.0	200.0	speaker	unknown	unknown	我是WALL-E	0	0	0		
+cmn-NG-4-76692-10675789	0	200.0	300.0	speaker	unknown	unknown	Wall-E不是我的名子, 而是我的产品名称--Waste Allocation Load Lifters -Earth.	0	0	0		
+cmn-NG-4-76692-10675789	0	300.0	400.0	speaker	unknown	unknown	光和我同一批生产出来的WALL-E机器人就有1000个.	0	0	0		
+cmn-NG-4-76692-10675789	0	500.0	600.0	speaker	unknown	unknown	是因为一部电影, 因为我的故事, 也因为我是唯一还没有报废的WALL-E.	0	0	0		
+cmn-NG-4-76692-10675789	0	600.0	700.0	speaker	unknown	unknown	在人类离开的那一天, 我和与我一样的WALL-E们被留在了地球上, 我们的任务就是清理垃圾.	0	0	0		
+cmn-NG-4-76692-10675789	0	1700.0	1800.0	speaker	unknown	unknown	不是因为我比其他的WALL-E先进, 而是不同.	0	0	0		
+cmn-NG-4-76692-10675789	0	2300.0	2400.0	speaker	unknown	unknown	我不知道我为什么要这么做, 也不知道为什么其他机器人没有这样的程序, 甚至不知道我要搜集什么.	0	0	0		
+cmn-NG-4-76692-10675789	0	2900.0	3000.0	speaker	unknown	unknown	因为越来越多的WALL-E报废, 我也可以从他们那里得到越来越多的替代零件.	0	0	0		
+cmn-NG-4-76692-10675789	0	3900.0	4000.0	speaker	unknown	unknown	只是当你成了唯一, 你就明白, 你要面对很多, 有人类说首先是无边的孤独和寂寞.	0	0	0		
+cmn-NG-4-76692-10675789	0	4000.0	4100.0	speaker	unknown	unknown	我不知道什么是孤独和寂寞, 虽然人类分析我的行为反映了这点.	0	0	0		
+cmn-NG-4-76692-10675789	0	5000.0	5100.0	speaker	unknown	unknown	如果有奇迹, 就是这里了.	0	0	0		
+cmn-NG-4-76692-10675789	0	5500.0	5600.0	speaker	unknown	unknown	在漫长的不知道孤独和寂寞的岁月之后, 我碰到了小强.	0	0	0		
+cmn-NG-4-76692-10675789	0	6000.0	6100.0	speaker	unknown	unknown	小强是不可以用太阳能来充电的, 它需要食物.	0	0	0		
+cmn-NG-4-76692-10675789	0	6400.0	6500.0	speaker	unknown	unknown	所以小强跟着我, 不是为了食物.	0	0	0		
+cmn-NG-4-76692-10675789	0	6600.0	6700.0	speaker	unknown	unknown	我不知道它是不是寂寞, 或者会, 因为它是一个生命.	0	0	0		
+cmn-NG-4-76692-10675789	0	6800.0	6900.0	speaker	unknown	unknown	有一天, 我看到了另一个生命, 那是几抹绿色进入我的光学探测系统, 不是工业油漆喷涂的绿色, 而是闪耀着生命色彩的绿色!	0	0	0		
+cmn-NG-4-76692-10675789	0	7600.0	7700.0	speaker	unknown	unknown	在她到来的那一刻, 我只推测出她是这个世界唯一的另一个--小强太小了, 也没有手, 连想找它一起模拟影象中两个生命完成的动作都不可以.	0	0	0		
+cmn-NG-4-76692-10675789	0	8900.0	9000.0	speaker	unknown	unknown	我本来是这里的唯一, 现在她是了我的唯一--唯一的一个同类.	0	0	0		
+cmn-NG-4-76692-10675789	0	9100.0	9200.0	speaker	unknown	unknown	可是这条指令只在我的系统中一闪, 就被删除了, 因为做不到, 概率为0.	0	0	0		
+cmn-NG-4-76692-10675789	0	9300.0	9400.0	speaker	unknown	unknown	有时是交错--比如风暴.	0	0	0		
+cmn-NG-4-76692-10675789	0	10100.0	10200.0	speaker	unknown	unknown	或者就是寂寞吧, 但是只是因为寂寞, 我不知道爱情.	0	0	0		
+cmn-NG-4-76692-10675789	0	10700.0	10800.0	speaker	unknown	unknown	尽管我不曾拥有她, 但是我不想在我的世界中失去她的存在, 因为她是唯一.	0	0	0		
+cmn-NG-4-76692-10675789	0	11000.0	11100.0	speaker	unknown	unknown	在太空船里, 那一切的一切, 都是因为她, 尽管那时她已经不再是唯一的另一个机器人,但我们的经历已经让她成了我的唯一.	0	0	0		
+cmn-NG-4-76692-10675789	0	11200.0	11300.0	speaker	unknown	unknown	有人类说, 不管开始是不是因为爱, 甚至不论什么原因, 一旦有了感情,就象种子生了根发了芽,在心里错根盘节起来, 挥不去斩不断了.	0	0	0		
+cmn-NG-4-76692-10675789	0	11500.0	11600.0	speaker	unknown	unknown	其实我不是唯一, 和与我一起出厂的那999个一样.	0	0	0		
+cmn-NG-4-76692-10675789	0	11700.0	11800.0	speaker	unknown	unknown	就算一台新出厂的WALL-E和我经历一样的千百年, 也不会成为现在的我.	0	0	0		
+cmn-NG-4-76692-10675789	0	11800.0	11900.0	speaker	unknown	unknown	我就是唯一!	0	0	0		
+cmn-NG-4-76692-10675789	0	11900.0	12000.0	speaker	unknown	unknown	而她并不是这个世界里的唯一--和其他飞船上的机器人一样.	0	0	0		
+cmn-NG-4-76692-10675789	0	12000.0	12100.0	speaker	unknown	unknown	但她却是我的世界里的唯一, 因为只是她, 与我在太空满舞, 在飞船里历险拯救众生, 是她为我换上新的零件, 在我重新开启的一刹那进入我光学探测系统......	0	0	0		

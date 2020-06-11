@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080711.0183	0	0.0	100.0	speaker	unknown	unknown	冷眼看G8峰会：13亿人吃饱吃好靠自己	0	0	0		
+CNS_CMN_20080711.0183	0	200.0	300.0	speaker	unknown	unknown	在日本举行的G8峰会，以及与G8峰会相关的“8 5”和“8 8”对话会已经落幕。	0	0	0		
+CNS_CMN_20080711.0183	0	800.0	900.0	speaker	unknown	unknown	全球粮食危机没有引发国内粮价“发高烧”，恰恰说明国内现行粮食政策的合理性和必要性。	0	0	0		
+CNS_CMN_20080711.0183	0	1100.0	1200.0	speaker	unknown	unknown	这个人均数用途有三：一是国家储备；二是人均实际口粮(包括食品)；三是工业用粮和养殖用粮。	0	0	0		
+CNS_CMN_20080711.0183	0	2200.0	2300.0	speaker	unknown	unknown	13亿人吃饱吃好必须靠自己，1960年代初的大饥荒之惨状不提也罢，就说这一次，倘若没有上届政府自2003年起持续抓粮食生产打下的库存底子，没有新一届政府今年前所未闻的“支农、重农、扶农”政策力度，提升农民种粮积极性，以及今年夏粮收成之好及秋播面积之多，为全年粮食生产奠定了丰收基础，面对国际粮食危机和全球通胀背景下的国内CPI“红灯”，非但猪肉等食品价格会涨得更高，粮食本身的价格也将使多数民众感到吃不消。	0	0	0		
+CNS_CMN_20080711.0183	0	2400.0	2500.0	speaker	unknown	unknown	(鲁宁）	0	0	0		

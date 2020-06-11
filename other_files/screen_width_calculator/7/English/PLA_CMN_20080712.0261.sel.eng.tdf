@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080712.0261	0	2900.0	3000.0	speaker	unknown	unknown	Mexico highly appreciated the earthquake relief efforts of the Chinese Government and people. It is willing to actively participate in reconstruction work in the earthquake-stricken area.	0	0	0		

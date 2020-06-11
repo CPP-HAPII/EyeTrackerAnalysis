@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+AFP_CMN_20080701.0024	0	0.0	100.0	speaker	unknown	unknown	英国教神职人员反对女性任主教案 扬言退出	0	0	0		
+AFP_CMN_20080701.0024	0	200.0	300.0	speaker	unknown	unknown	英国「泰晤士报」今天报导,一千三百多名英国国教神职人员致函坎特布里与约克大主教,扬言若女性祝圣为主教的提案通过将退出教会。	0	0	0		
+AFP_CMN_20080701.0024	0	700.0	800.0	speaker	unknown	unknown	这一千三百三十三名教士致函全球八千万名英国国教信徒的领导人威廉斯与辛塔姆:「我们无可避免地问到,我们能否凭着良心,在一直是我们的家的英国国教里,以主教、教士与执事身份执行神职。」	0	0	0		

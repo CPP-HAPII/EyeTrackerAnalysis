@@ -1,0 +1,625 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'report', u'nontrans', u'report', u'report', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 488.93900000000002, 543.11900000000003, 555.09000000000003, 586.90099999999995, 744.23699999999997, 1154.655, 1225.5899999999999, 1244.1559999999999, 1727.9079999999999, 1901.7059999999999, 2437.3710000000001, 2442.9340000000002, 2618.3200000000002, 2634.9609999999998, 2676.585, 3546.0360000000001, 9999999.0]
+PHOENIX_DATELUYU_CMN_20070102_142800	0	488.939	491.720	speaker#1	male	native	They are stars in the spotlight.	1	1	1	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	492.267	494.111	Yan_ni	female	native	My fans are called "the Yan dolls."	1	2	3	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	494.111	496.997	Yan_ni	female	native	"The Yan dolls."	1	2	4	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	496.997	501.695	Yu_entai	male	native	I used to have a Baidu message board, but it never had more than a few dozen to a hundred or so messages.	1	3	5	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	501.695	504.383	Yu_entai	male	native	After My Own Swordsman, all of a sudden now I've got over a hundred thousand messages.	1	3	6	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	504.383	507.321	speaker#1	male	native	They each have their own unique story of happiness and sadness.	1	4	7	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	508.774	513.024	Han_hong	female	native	They also shed tears for you; weeping can be with both eyes, and it can be with one eye.	1	5	9	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	513.024	516.493	Han_hong	female	native	That day I was immediately boohooing	1	5	10	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	516.493	521.884	Han_hong	female	native	So I felt, ah, really, really cut to the core.	1	5	11	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	521.884	524.962	Yan_ni	female	native	I'd played too many small parts, so I was desperate to play a leading role.	1	6	12	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	525.744	529.088	Yu_entai	male	native	Never in my dreams did I think there'd be a -- that people would recognize you ((pw)) know you, walking on the street.	1	7	14	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	529.088	530.916	Yu_entai	male	native	Ah, "You're a big star, you're a hit!"	1	8	15	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	530.916	533.634	Yu_entai	male	native	I know in my own mind that I'm not quite all that.	1	8	16	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	534.431	538.869	Sha_yi	male	native	I can start again from zero, start all over again. Isn't that actually how life is?	1	9	18	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	538.869	543.119	speaker#1	male	native	A galaxy of stars, Luyu and her friends.	1	10	19	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	555.090	561.434	Chen_luyu	male	native	In 2006 there was a sitcom that was extremely popular. It had high ratings everywhere. It was My Own Swordsman.	3	12	21	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	561.434	563.527	Chen_luyu	male	native	I was also a faithful viewer of theirs.	3	12	22	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	563.527	568.386	Chen_luyu	male	native	I bought discs -- it must be 80 episodes, and I watched them all from beginning to end without missing a single episode.	3	12	23	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	568.386	571.464	Chen_luyu	male	native	And our program invited the whole cast to come and be guests.	3	12	24	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	571.464	574.495	Chen_luyu	male	native	From the director to the scriptwriter to the actors, we invited seven people.	3	12	25	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	574.495	577.918	Chen_luyu	male	native	At the time we used all of our sofas, and they filled them up when they sat down.	3	12	26	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	577.918	584.183	Chen_luyu	male	native	Things went really well on the set that day. There was applause all the way through and laughter all the time. It was really lively and very happy.	3	12	27	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	584.183	586.901	Chen_luyu	male	native	This way, let's first look back at what it was like on the set at the time.	3	12	28	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	614.375	616.238	Chen_luyu	male	native	Uh, do I need to do any more introductions?	4	14	30	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	616.238	617.482	speaker#4	unknown	native	No need.	4	15	31	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	617.482	622.813	Yu_entai	male	native	Actually, Yao Chen's best, most brilliant pose actually came about on the set,	4	16	32	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	622.813	625.141	Yu_entai	male	native	but it wasn't kept in -- in -- in the show.	4	16	33	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	625.141	625.481	Chen_luyu	male	native	Uh-huh.	4	17	34	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	625.481	629.168	Yu_entai	male	native	The ((pw)) dubbing was, Xiao Guo, how about marrying me?	4	18	35	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	629.168	631.544	Yu_entai	male	native	He designed a movement, do you want to see it?	4	18	36	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	631.544	633.559	speaker#4	unknown	native	I want to see it.	4	19	37	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	643.397	644.428	Chen_luyu	male	native		4	20	39	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	646.719	648.708	Yu_entai	male	native	I'll say, five, four, three, two, one, then I'll yell the words, ha!	4	21	41	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	648.708	649.068	Chen_luyu	male	native	Uh-huh.	4	22	42	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	649.068	651.537	Yu_entai	male	native	Five, four, three, two, one.	4	23	43	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	651.537	654.100	Yu_entai	male	native	Xiao Guo, how about marrying me?	4	23	44	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	654.100	657.178	Chen_luyu	male	native		4	24	45	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	664.952	667.827	Chen_luyu	male	native	Mm. Mm. Uh, that's funny.	4	24	47	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	667.827	670.530	Chen_luyu	male	native	And then, in this show one of the highlights is lots and lots of local dialect,	4	24	48	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	670.530	674.733	Chen_luyu	male	native	When Yu Entai is reciting poetry in the show, the style is extremely funny.	4	24	49	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	674.733	676.265	Chen_luyu	male	native	Well, when people in the olden days recited poetry, was it that kind of style?	4	24	50	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	676.265	679.156	Yu_entai	male	native	Um, um, I have to say this invention was not me.	4	25	51	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	679.156	679.486	Chen_luyu	male	native	Uh.	4	26	52	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	679.486	681.641	Yu_entai	male	native	This invention was our respectable Mr. Shang Jing.	4	27	53	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	681.641	684.391	Yu_entai	male	native	After he finished reciting a piece on the set, I would learn from him.	4	27	54	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	684.391	686.359	Chen_luyu	male	native	Can you recite one again, recite, recite a poem?	4	28	55	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	686.359	687.344	Yu_entai	male	native	He recites better than me.	4	29	56	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	687.344	689.159	Yu_entai	male	native	I would just -- he would recite a line, I would recite the line.	4	30	57	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	687.344	689.159	Chen_luyu	male	native	You, you recite a line.	4	30	58	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	689.159	690.596	Chen_luyu	male	native	You, you recite a line, he'll recite a line.	4	31	59	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	691.455	692.580	Yu_entai	male	native	That "+Quack Quack the Waterhen" one.	4	32	61	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	692.580	693.830	Yu_entai	male	native	+Quack, quack, the waterhen, on the island in the stream.	4	32	62	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	693.830	694.580	Yu_entai	male	native	Elegant and virtuous ((pw))	4	32	63	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	694.580	696.475	Shang_jing	male	native	+Quack, quack, the waterhen.	4	33	64	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	702.638	704.184	Shang_jing	male	native	My line is really nonsense.	4	33	66	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	704.184	708.684	Shang_jing	male	native	Actually, he -- that is, sometimes when we were making these up, he'd say, let's think about how to say these.	4	33	67	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	708.684	710.093	Shang_jing	male	native	Actually, I hadn't thought about it much.	4	33	68	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	710.093	710.422	Shang_jing	male	native	I just --	4	34	69	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	710.093	710.422	Chen_luyu	male	native		4	34	70	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	710.422	713.669	Shang_jing	male	native	Anyway, I'd just make something up. I'd say you follow this, just do it in your own style.	4	35	71	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	713.669	718.350	Shang_jing	male	native	Um, that is, so, anyway, on the set there would be -- there would be a few like this.	4	35	72	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	718.350	721.069	Chen_luyu	male	native	But you, your reciting made me think that people in the olden days recited poems just like that.	4	36	73	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	721.069	724.428	Yu_entai	male	native	Actually it was -- actually it was copying, copying the director Shang Jing.	4	37	74	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	724.428	733.693	Yu_entai	male	native	So I, I just -- just got that sound of his and, +Quack, quack, the waterhen, on the island in the stream; Elegant and virtuous lady, a fitting spouse for a gentleman.	4	37	75	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	733.693	734.834	Chen_luyu	male	native		4	38	76	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	739.830	742.471	Yu_entai	male	native	When I'd finished, my next line was, "What on earth's he hollering about?"	4	39	78	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	742.471	744.237	Chen_luyu	male	native		4	40	79	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	744.237	747.987	Chen_luyu	male	native	Today when I watch these clips again, I still sometimes laugh uncontrollably.	5	41	80	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	747.987	755.722	Chen_luyu	male	native	During the interview on the set that time, the actors from My Own Swordsman all mentioned the phrase "tofu strips." That's the name for their loyal fans.	5	41	81	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	755.722	764.863	Chen_luyu	male	native	Actually, apart from this name tofu strips, almost all the actors have a special group of fans for themselves, and every group of fans has its own very special name.	5	41	82	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	766.254	771.645	Chen_luyu	male	native	I know that many people here today, including me, are, ha, fans of My Own Swordsman. What's the name that everyone is called?	5	41	84	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	771.645	773.597	speaker#4	unknown	native	Tofu strips.	5	42	85	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	773.597	774.364	Chen_luyu	male	native	Tofu strips.	5	43	86	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	774.364	777.724	Chen_luyu	male	native	Mm, I hear we need Old Bai to explain why they are called tofu strips?	5	43	87	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	777.724	786.707	Sha_yi	male	native	Because in one episode, ah, that is, the line Jiang Chao spoke in the show was "Outside there were many fans waiting for you."	5	44	88	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	786.707	788.441	Sha_yi	male	native	Who was it they were waiting for, I've, ha, forgotten.	5	44	89	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	788.441	790.440	speaker#2	unknown	native	Pinggu Red Spot.	5	45	90	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	790.440	791.507	Chen_luyu	male	native	Eh? Waiting for whom?	5	46	91	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	791.507	793.496	speaker#4	unknown	native	Pinggu Red Spot.	5	47	92	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	793.496	795.871	Sha_yi	male	native	Right, right, right. Pinggu Red Spot.	5	48	93	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	795.871	798.840	Sha_yi	male	native	So, outside there were a lot of fans waiting for Pinggu Red Spot.	5	48	94	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	798.840	800.669	Sha_yi	male	native	I said, "What fans, they could be tofu strips."	5	48	95	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	800.669	806.342	Sha_yi	male	native	With just this line of script, probably from then on, for My Own Swordsman, all my fans became tofu strips.	5	48	96	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	806.342	809.763	speaker#1	male	native	Now the fans for the Scholar in My Own Swordsman	5	49	97	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	809.763	811.434	speaker#1	male	native	also have another name: fins.	5	49	98	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	812.762	816.934	Yu_entai	male	native	The story of "fins", um, is pretty, pretty special.	5	50	100	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	817.669	822.763	Yu_entai	male	native	I didn't know either that gradually more and more people would notice, ah, me, because of a show.	5	50	102	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	823.435	829.981	Yu_entai	male	native	Then normally in this situation you'd then start to choose, uh, names for the, ah, fans, for the people who like you.	5	50	104	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	829.981	833.434	Yu_entai	male	native	We -- the names of a lot of people we know are connected to food.	5	50	105	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	833.434	838.028	Yu_entai	male	native	So once on the Entai message board they, uh, had a discussion.	5	50	106	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	838.028	839.747	Yu_entai	male	native	Ah, what name is best to use in the end?	5	50	107	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	839.747	843.021	Yu_entai	male	native	At first they were called "Tai fans," ah, "Thai rice." It's a food, at any rate.	5	50	108	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	843.021	844.263	Yu_entai	male	native	Later someone said,	5	50	109	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	844.794	847.232	Yu_entai	male	native	ah, let's be called fins: crazy for fish.	5	50	111	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	847.232	849.232	Yu_entai	male	native	Eh, I, I felt very moved.	5	50	112	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	849.232	856.050	Yu_entai	male	native	Then someone immediately said, uh, "fins" really is a good choice. Everyone should support it, because "fins" ((pw)) itself looks like "fans."	5	50	113	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	856.050	860.394	speaker#1	male	native	Big Mouth Li's fans also have a special name, ginger shreds.	5	51	114	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	864.319	868.522	Jiang_chao	male	native	All my fans are called, ah, ginger shreds, they're sometimes called "Winnie's family."	5	52	116	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	868.522	872.194	Jiang_chao	male	native	They say I look like Winnie the Pooh.	5	52	117	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	878.458	880.036	Yan_ni	female	native	My fans are called "the Yan dolls."	5	53	119	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	880.036	883.099	Yan_ni	female	native	"The Yan dolls."	5	53	120	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	883.099	891.684	speaker#1	male	native	Even though it's now a long time since My Own Swordsman was being broadcast everywhere, the tofu strips are still as enthusiastic as ever. They still often give the actors different surprises.	5	54	121	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	891.684	895.513	Yu_entai	male	native	A few days after my birthday I received a very thick book.	5	55	122	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	895.513	901.135	Yu_entai	male	native	I opened the book and had a look. It was the messages they had left me on the Internet on the few days around my birthday.	5	55	123	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	901.674	902.419	Yu_entai	male	native	It was this thick.	5	55	125	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	903.325	906.232	Yu_entai	male	native	It was printed as a single book, only one copy was printed.	5	55	127	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	906.857	909.335	Jiang_chao	male	native	Sometimes when I'm walking with my wife, when we're on the streets or crossing the street,	5	56	129	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	909.335	909.632	Chen_luyu	male	native	Uh-huh.	5	57	130	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	909.632	911.600	Yu_entai	male	native	It's hey, hello! Hey, hello!	5	58	131	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	911.600	915.459	Yu_entai	male	native	My wife says, do you know him? I say, I don't think I know him.	5	58	132	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	915.459	916.640	Yu_entai	male	native	She says, "He -- maybe he knows you."	5	58	133	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	916.640	920.532	Yu_entai	male	native	I say, "So, so if people are really polite to -- to you, you also say, 'hello' to people, just as if you know them."	5	58	134	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	920.532	921.699	Yu_entai	male	native	I, I think I'm great.	5	58	135	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	921.699	922.464	Yu_entai	male	native		5	58	136	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	924.667	931.370	speaker#1	male	native	Compared to these loyal tofu strips, the attitude towards the actors of their friends and family was very different.	5	59	138	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	932.011	937.379	Yan_ni	female	native	When my dad watches, it's a frown, ah, like, ah, this, like watching a news broadcast.	5	60	140	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	937.379	937.780	Jiang_chao	male	native		5	61	141	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	937.379	937.780	Chen_luyu	male	native		5	61	142	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	937.780	940.244	Yan_ni	female	native	Then, like that, I said, "Dad, what's wrong?"	5	62	143	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	940.244	943.119	Yan_ni	female	native	"What does you being like that mean?"	5	62	144	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	943.119	946.728	Chen_luyu	male	native		5	63	145	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	946.728	956.065	Yan_ni	female	native	I said, "Uh, dad, it doesn't matter if you understand it or don't understand it, you have to keep on sitting here to boost the ratings."	5	64	146	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	956.065	956.987	Chen_luyu	male	native	And Yu Entai?	5	65	147	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	956.987	960.565	Yu_entai	male	native	My -- my mom likes to watch it very much, because I'm in it.	5	66	148	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	960.565	960.715	Chen_luyu	male	native	Uh-huh.	5	67	149	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	960.715	963.222	Yu_entai	male	native	She doesn't necessarily know what jokes I'm telling in it.	5	68	150	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	963.222	966.269	Yu_entai	male	native	Actually, Shang, the director, didn't add subtitles for the English I added in it.	5	68	151	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	966.269	968.301	Yu_entai	male	native	My mom didn't even know that was English, perhaps.	5	68	152	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	968.301	969.583	Chen_luyu	male	native		5	69	153	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	969.583	973.504	Yu_entai	male	native	And my -- my dad, uh, my dad is even funnier. My dad watched the first episode. After watching it, he went to bed very early. He watched the last episode.	5	70	154	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	973.504	976.913	Yu_entai	male	native		5	70	155	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	977.661	980.805	Yu_entai	male	native	He didn't see a single episode in between them, because he was -- he was in his own room.	5	70	157	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	980.805	981.004	Chen_luyu	male	native	Mm.	5	71	158	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	981.004	984.583	Yu_entai	male	native	But on the day after My Own Swordsman finished showing,	5	72	159	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	984.583	988.318	Yu_entai	male	native	I remember very clearly, I can remember now that show was called Dark, Vast Tianshan.	5	72	160	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	988.318	991.287	Yu_entai	male	native	Ah, it's about some kind of, some kind of, some kind of military story.	5	72	161	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	991.287	994.287	Yu_entai	male	native	It was aired on CCTV, and my dad watched it all from the first episode to the last episode.	5	72	162	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	994.287	997.834	Yu_entai	male	native	So I think that reason he gave me is not reliable.	5	72	163	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	998.865	1008.911	Chen_luyu	male	native	Even today I'll still often see on TV that a lot of TV channels are repeating My Own Swordsman. Every time I see it I'll stop the remote control in my hand and watch for a while.	5	73	165	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1008.911	1017.694	Chen_luyu	male	native	And many loyal tofu strips are still having fun discussing the development of the plot in the future, where all the actors have gone, what new shows they're shooting, etc.	5	73	166	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1017.694	1022.897	Chen_luyu	male	native	So we interviewed a few of the actors from the show, taking with us some of the questions that tofu strips care most about.	5	73	167	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1026.933	1032.590	speaker#1	male	native	In My Own Swordsman, the development of the relationships between some of the pairs of lovers is the question that tofu strips are always urgently concerned about.	5	74	169	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1033.886	1039.480	speaker#1	male	native	In the plot of My Own Swordsman, Guo Furong, the beauty with the big mouth, and the pedantic Scholar Lu are a pair of lovers.	5	74	171	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1039.480	1044.308	speaker#1	male	native	Many tofu strips think they should be a perfect match in real life, too.	5	74	172	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1044.308	1049.636	speaker#1	male	native	But Scholar -- Yu Entai -- describes his relationship with Yao Chen as one of complete indifference.	5	74	173	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1050.930	1055.523	Yu_entai	male	native	If I was now in a vegetable market in Tanzania or Mauritius buying things,	5	75	175	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1056.960	1059.695	Yu_entai	male	native	and she happened to pass me by, while on a sightseeing trip there,	5	75	177	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1059.695	1062.069	Yu_entai	male	native	when we saw each other, we wouldn't be a bit surprised: oh, you're here, ah, too.	5	75	178	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1062.069	1065.398	Yu_entai	male	native	Okay, how are these vegetables? Are they okay? Are they fresh? Green vegetables, just buy a bag.	5	75	179	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1065.398	1067.007	Yu_entai	male	native	No, no, that's no good. I'll choose this bunch for you.	5	75	180	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1067.007	1068.397	Yu_entai	male	native	It would be straight into this kind of conversation.	5	75	181	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1068.397	1071.803	Yu_entai	male	native	It wouldn't be like -- uh, normally how would you react?	5	75	182	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1071.803	1075.944	Yu_entai	male	native	Wow, Yao Chen, how come you're here? Hey, Entai, no way, how come you're here?	5	75	183	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1075.944	1077.585	Yu_entai	male	native	When did you get here, when was your flight?	5	75	184	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1077.585	1079.320	Yu_entai	male	native	What have you been doing recently? Hey, look, you're thinner.	5	75	185	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1079.320	1081.055	Yu_entai	male	native	This is -- this is normal.	5	75	186	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1081.055	1086.774	Yu_entai	male	native	But Yao Chen and I are just like I described before, we've got to the stage of being almost like strangers.	5	75	187	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1086.774	1090.149	Yu_entai	male	native	Oh, you're here too. How are these vegetables? It's completely this kind of feeling.	5	75	188	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1090.149	1097.289	Yu_entai	male	native	So -- so I think maybe this analogy describes the situation of Yao Chen and me in real life rather well.	5	75	189	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1099.886	1108.053	speaker#1	male	native	Unlike other lovers who are seen as good prospects, Big Mouth, whose love in the show is continually unrequited, also has the same relationship experience in real life.	5	76	191	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1111.061	1113.171	Jiang_chao	male	native	I met her the +twentieth time I went on an arranged date.	5	77	193	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1113.171	1115.937	Jiang_chao	male	native	Before that, I had had nineteen failed arranged dates.	5	77	194	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1115.937	1117.703	Jiang_chao	male	native	I met my wife when I was on my twentieth arranged date.	5	77	195	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1117.703	1119.045	Jiang_chao	male	native	It was really funny -- really -- really --	5	77	196	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1119.045	1123.729	Jiang_chao	male	native	At first the one who I was being introduced to wasn't her. At first the one the introducer was introducing was another one. It was her classmate.	5	77	197	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1123.729	1129.017	Jiang_chao	male	native	It seems her classmate was an ethnic Hui, an ethnic Hui, um. So she'd thought maybe she wanted to look for -- look for someone of her own ethnicity -- because I'm a Han.	5	77	198	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1129.017	1132.876	Jiang_chao	male	native	So she's looking for an ethnic Hui, so she said -- said to my wife, You go, you go and have a look.	5	77	199	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1132.876	1136.626	Jiang_chao	male	native	My wife came, she came, and as soon as we two saw each other, we two got together.	5	77	200	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1138.859	1140.828	Yan_ni	female	native	Before we'd met a number of times.	5	78	202	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1140.828	1142.953	Yan_ni	female	native	"How about it? Can you play it?"	5	78	203	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1142.953	1146.398	Jiang_chao	male	native	It's not with one or two lines. It's not someone who says their piece then goes off.	5	79	204	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1146.398	1151.093	Jiang_chao	male	native	It's the kind that lets you be one of the main roles in the whole -- whole show, the whole show.	5	79	205	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1151.093	1154.655	Jiang_chao	male	native	Oh, I think this is enough to make me completely completely satisfied and happy.	5	79	206	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1225.590	1234.481	Chen_luyu	male	native	There is one more question that tofu strips are particularly interested in. That is, are the personalities of the actors in the show in real life the same as the personalities of the roles they play in the show?	7	81	208	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1234.481	1241.653	Chen_luyu	male	native	And these clashes between personalities were the reasons for gusts of explosive laughter on the set last time we did an interview on our program.	7	81	209	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1244.156	1245.644	Chen_luyu	male	native	Who is the most confused in real life?	8	82	211	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1248.845	1249.329	Chen_luyu	male	native	Yan Ni.	8	83	213	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1248.845	1249.329	Yu_entai	male	native	Let the most	8	83	214	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1249.329	1250.543	Yu_entai	male	native	confused person say a few words.	8	84	215	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1250.543	1253.606	Chen_luyu	male	native	Mm. Oh, Yan Ni, I, I hear, they say	8	85	216	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1253.606	1254.097	Chen_luyu	male	native	they say as long as	8	86	217	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1253.606	1254.097	Yan_ni	female	native	Mm.	8	86	218	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1254.097	1256.622	Chen_luyu	male	native	it's you giving directions, if you point to the west, going east is definitely right.	8	87	219	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1256.622	1258.294	Chen_luyu	male	native	Is that true?	8	87	220	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1258.294	1262.654	Yan_ni	female	native	Right. They say you must always go in the opposite direction to Yan Ni. Uh, because I	8	88	221	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1262.654	1265.952	Yan_ni	female	native	I -- at first I was living -- from here, at first I lived at Badachu,	8	88	222	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1265.952	1269.343	Yan_ni	female	native	then one time, I was taking a taxi by myself, that person -- but I thought it wasn't quite right,	8	88	223	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1269.343	1272.234	Yan_ni	female	native	I said, hey, you're not quite right, I said where are you taking me? He said, ah, Badaling.	8	88	224	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1272.234	1275.781	Yan_ni	female	native	Ah! I said, that's not right, that's not right, Badachu! How did you get Badaling?	8	88	225	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1275.781	1278.386	Yan_ni	female	native	I said are you trying to, whatever, take me a long way round?	8	88	226	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1278.386	1281.590	Yan_ni	female	native	He said, you meant Badachu? Why are you only saying now, when I've come this far?	8	88	227	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1281.590	1282.727	Yan_ni	female	native	So I was completely confused.	8	88	228	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1282.727	1283.338	Yan_ni	female	native	I'd almost forgotten.	8	89	229	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1282.727	1283.338	Jiang_chao	male	native	I'm sure it was	8	89	230	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1283.338	1284.510	Jiang_chao	male	native	you said to him when you got in the car,	8	90	231	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1284.510	1285.230	Jiang_chao	male	native	Badaling.	8	91	232	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1284.510	1285.230	Sha_yi	male	native	Badaling.	8	91	233	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1285.230	1287.292	Chen_luyu	male	native		8	92	234	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1287.292	1289.276	Shang_jing	male	native	This mistake could only happen to her.	8	93	235	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1294.442	1296.723	Chen_luyu	male	native	Does she often have this kind of completely mixed up story?	8	94	237	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1298.057	1300.947	Yan_ni	female	native	Yes. Then when I was driving, driving there, then the police stopped me.	8	95	239	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1300.947	1304.198	Yan_ni	female	native	They said, hey, miss, you put your headlights on the moment you got on this bridge.	8	95	240	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1304.198	1305.761	Yan_ni	female	native	I said, eh? Where are the headlights?	8	95	241	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1305.761	1307.068	Chen_luyu	male	native		8	96	242	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1307.068	1310.177	Yan_ni	female	native	He said, what? Your driver's license? You don't even know where the headlights are?	8	97	243	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1310.177	1315.428	Yan_ni	female	native	I really didn't know where the headlights were, you know, because I'd not been driving that car long. I said, I'm sorry, I'm sorry.	8	97	244	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1315.428	1318.053	speaker#3	male	native	One time I remember, one time we were eating.	8	98	245	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1319.115	1325.209	speaker#3	male	native	We went to a -- went to a -- I still remember we went to a kebab place, then -- everyone went.	8	98	247	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1325.209	1328.287	speaker#3	male	native	Then we were just waiting for Yan Ni. Eat? We said, let's wait.	8	98	248	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1328.287	1330.333	speaker#3	male	native	But we waited for a long time, and Yan Ni still hadn't come,	8	98	249	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1330.333	1332.255	speaker#3	male	native	I said, Yan Ni's gone the wrong way, and phoned her,	8	98	250	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1332.255	1334.443	speaker#3	male	native	then said what shall we do about this? She said everyone should eat without her.	8	98	251	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1334.443	1336.537	speaker#3	male	native	Eat while we're waiting. So everyone ate.	8	98	252	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1336.537	1339.006	speaker#3	male	native	Yan Ni only got there when the meal had basically been finished.	8	98	253	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1339.006	1342.772	speaker#3	male	native	She said when she later called -- and she kept on calling us	8	98	254	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1342.772	1349.647	speaker#3	male	native	saying, how do I get there, how do I get there? Everyone kept taking turns to tell her the way, talking on and on, talking on and on. In the end she'd still gone on a very roundabout route.	8	98	255	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1349.647	1353.523	speaker#3	male	native	She didn't find it till the very end, and then she hadn't parked her car very well.	8	98	256	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1353.523	1361.772	speaker#3	male	native	She had to park her car in a place she could park, then look for an attendant, then -- or look for one of us friends to park the car into the space for her.	8	98	257	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1362.429	1364.257	speaker#3	male	native	Anyway, Yan Ni is that way, I think Yan Ni, ah,	8	98	259	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1365.132	1366.835	speaker#3	male	native	Yan Ni is a particularly conscientious person.	8	98	261	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1367.678	1370.178	speaker#3	male	native	I, I, I understand Yan Ni quite well.	8	98	263	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1370.178	1374.100	speaker#3	male	native	I know what the reason is for her uh, occasional confusion.	8	98	264	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1375.194	1376.803	speaker#3	male	native	She's a very conscientious person.	8	98	266	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1377.444	1379.334	speaker#3	male	native	She never gets confused when acting in the show.	8	98	268	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1380.365	1384.240	speaker#3	male	native	You know? And she, she has an amazing memory for remembering lines.	8	98	270	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1384.927	1390.287	speaker#3	male	native	When we were shooting a really big passage of script, sometimes the lines were maybe those subjective lines,	8	98	272	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1390.287	1392.834	speaker#3	male	native	uh, that is, how to put it, that is	8	98	273	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1392.834	1399.444	speaker#3	male	native	their expression is -- a lot are, that is, lines that maybe aren't internally inspired, and you have to explain some questions.	8	98	274	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1399.444	1406.007	speaker#3	male	native	Big passages, Yan Ni could remember it in a very short time, and said it very fluently, very well.	8	98	275	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1406.007	1409.272	speaker#3	male	native	Could you say that she can have problems with her memory and that she could have been confused?	8	98	276	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1410.100	1414.616	speaker#3	male	native	Sometimes she puts all her energy into concentrating on shooting,	8	98	278	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1414.616	1419.621	speaker#3	male	native	now, naturally anyone's energy is limited, we've been saying this since we were small: one mind should have one focus, right?	8	98	279	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1419.621	1422.667	speaker#3	male	native	She is all focused on this problem, so naturally, other things, she --	8	98	280	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1423.432	1424.589	speaker#3	male	native	she doesn't think about them at all.	8	98	282	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1425.605	1427.980	Chen_luyu	male	native	My Own Swordsman has brought us so much pleasure,	8	99	284	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1427.980	1430.026	Chen_luyu	male	native	Like many tofu strips,	8	99	285	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1430.026	1434.182	Chen_luyu	male	native	I'm also eagerly looking forward to the quick release of My Own Swordsman II.	8	99	286	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1434.807	1438.995	Chen_luyu	male	native	But director Shang Jing told us in the interview that he has no plan to do so for the moment.	8	99	288	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1438.995	1444.245	Chen_luyu	male	native	However, he and his original team shot a new show in 2006, Fang Qian Wu Hou.	8	99	289	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1444.245	1447.558	Chen_luyu	male	native	And this show totally subverts the style of My Own Swordsman.	8	99	290	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1451.030	1455.421	speaker#1	male	native	The original team from My Own Swordsman shot another show, Fang Qian Wu Hou, in 2006.	8	100	292	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1455.421	1460.139	speaker#1	male	native	All the guests from the Tongfu Inn have seen huge changes in their personalities.	8	100	293	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1460.139	1463.491	speaker#5	male	native	Where were you, eh? Where were you?	8	101	294	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1463.491	1465.429	speaker#5	male	native	I had no choice, what were you doing?	8	101	295	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1465.429	1468.773	speaker#6	male	native	You get control of yourself first. Oh, you -- do him another day.	8	102	296	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1468.773	1470.992	Yan_ni	female	native	I'm really sorry. I'm really sorry. He's in a bad mood.	8	103	297	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1473.138	1473.526	speaker#6	male	native	It's okay.	8	104	299	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1473.526	1475.354	Yu_entai	male	native	I have a huge number of crying scenes in this.	8	105	300	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1475.354	1476.460	Yu_entai	male	native	I remember clearly,	8	105	301	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1477.257	1480.194	Yu_entai	male	native	I often had to shoot crying scenes, starting from April-May.	8	105	303	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1480.194	1482.538	Yu_entai	male	native	It's completely unlike My Own Swordsman,	8	105	304	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1482.538	1489.006	Yu_entai	male	native	so in this show we did a complete, ah, readjustment of our speaking styles.	8	105	305	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1489.006	1491.256	Yu_entai	male	native	It's got no connection with My Own Swordsman.	8	105	306	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1492.100	1500.083	Chen_luyu	male	native	Fang Qian Wu Hou is the last cooperation between the My Own Swordsman team to date. After they finished shooting this show they all went their separate ways.	8	106	308	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1500.083	1508.021	Chen_luyu	male	native	But no matter where they go, whatever they do, the moment people see them, they will start talking about the roles they played in My Own Swordsman.	8	106	309	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1508.021	1514.287	Chen_luyu	male	native	Actually, for these actors, My Own Swordsman was just a point, just a role, in their acting careers.	8	106	310	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1514.287	1519.599	Chen_luyu	male	native	But it is just this point, this role, that changed their acting careers to a greater or lesser extent.	8	106	311	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1521.369	1526.509	speaker#1	male	native	After the shooting of My Own Swordsman finished, Big Mouth Li, one of the leads, acted in Kitchen Detail III.	8	107	313	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1526.509	1532.290	speaker#1	male	native	And in the seven years before that, his lines in all the shows he had acted in didn't add up to thirty words.	8	107	314	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1532.290	1535.180	speaker#1	male	native	And the situation of the other actors is also very similar.	8	107	315	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1535.852	1539.820	Yan_ni	female	native	I've been to auditions several times, how about it, eh? Can you play it?	8	108	317	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1541.200	1545.981	speaker#1	male	native	But since they finished shooting My Own Swordsman, the situation has subtly changed.	8	109	319	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1548.549	1556.752	Yan_ni	female	native	But now the first script was garbage, and I hope that in future I can play important roles, because I've played too many small roles. I'm desperate to play leading roles.	8	110	321	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1556.752	1560.705	Yan_ni	female	native	Just give me this kind of a stage, and I want to go on step by step.	8	110	322	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1563.111	1566.158	speaker#1	male	native	Big Mouth Li -- Jiang Chao -- has also played the lead in a few TV series.	8	111	324	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1566.158	1570.975	Jiang_chao	male	native	This is -- a few years ago I never thought I would have this kind of success, that so many people would recognize me.	8	112	325	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1570.975	1575.799	Jiang_chao	male	native	I used to think, oh, I -- I used to be, I used to start with a bit role, a walk-on role.	8	112	326	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1575.799	1581.095	Jiang_chao	male	native	As far as me being a camera operator is concerned, we should look back ten years ago, so look back ten years ago,	8	112	327	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1581.095	1583.251	Jiang_chao	male	native	ah, it was ((pw)) 1996.	8	112	328	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1583.251	1586.280	Jiang_chao	male	native	That is, looking back ten years ago, I would never even have dreamed of having such success.	8	112	329	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1586.280	1590.279	Jiang_chao	male	native	Never in my dreams did I think there'd be a -- that people would recognize you ((pw)) know you, walking on the street.	8	112	330	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1590.279	1591.654	Jiang_chao	male	native	Hnestly, honestly, I'm honestly not kidding.	8	112	331	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1591.654	1596.810	Jiang_chao	male	native	At that time I -- even in your dreams there weren't things this good.	8	112	332	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1596.810	1600.338	Jiang_chao	male	native	So you're now leading a life that you had never dreamed of before.	8	112	333	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1600.338	1605.119	Jiang_chao	male	native	So, now you -- that is -- you can be recognized by other people, you can play more important roles.	8	112	334	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1605.119	1606.822	Jiang_chao	male	native	They can ask you to play such important roles.	8	112	335	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1606.822	1610.568	Jiang_chao	male	native	It's not with one or two lines. It's not someone who says their piece then goes off,	8	112	336	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1610.568	1615.494	Jiang_chao	male	native	But the kind that lets you be one of the leading roles in the whole -- whole show, the whole show.	8	112	337	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1615.494	1618.603	Jiang_chao	male	native	Oh, I think this is enough to make me completely completely satisfied and happy.	8	112	338	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1618.603	1621.291	Sha_yi	male	native	My Own Swordsman was very successful.	8	113	339	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1621.916	1626.448	Sha_yi	male	native	There's no need to mention the honors it brought me.	8	113	341	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1626.448	1638.408	Sha_yi	male	native	So many fans liked me, so many -- later there were many directors who asked me to make shows -- there's no need to mention these.	8	113	342	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1638.408	1645.830	Sha_yi	male	native	I'm very grateful to My Own Swordsman, but at the same time I think My Own Swordsman was a summation of my career.	8	113	343	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1646.861	1649.846	Sha_yi	male	native	Because I said, before, if there hadn't been My Own Swordsman,	8	113	345	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1649.846	1650.940	Sha_yi	male	native	I would	8	113	346	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1651.815	1657.206	Sha_yi	male	native	I would still -- still not know where -- where I ought to be going,	8	113	348	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1657.206	1660.034	Sha_yi	male	native	When My Own Swordsman achieved success,	8	113	349	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1660.034	1663.706	Sha_yi	male	native	My Own Swordsman could become -- was a summation of my career.	8	113	350	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1664.691	1666.894	Sha_yi	male	native	Now I'm changing my style.	8	113	352	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1668.285	1669.894	Sha_yi	male	native	I'm shooting Evidence.	8	113	354	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1671.207	1678.597	Sha_yi	male	native	I hope -- because as a young actor, I don't want to stick rigidly to one style, one form.	8	113	356	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1679.315	1684.846	Sha_yi	male	native	I hope I can try different roles, go -- uh -- act in different kinds of shows.	8	113	358	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1684.846	1686.409	Sha_yi	male	native	Because I think I'm young,	8	113	359	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1687.612	1690.181	Sha_yi	male	native	I can try more, different shows.	8	113	361	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1690.884	1695.275	Sha_yi	male	native	I can start again from zero, start all over again. Isn't that actually how life is?	8	113	363	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1696.603	1697.025	Sha_yi	male	native	Right?	8	113	365	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1697.744	1703.496	Sha_yi	male	native	You have to continually try new things. You have to continually ((pw)) open up your own road.	8	113	367	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1704.347	1709.081	Yu_entai	male	native	I was just in a restaurant eating with friends, with family, and the TV was showing My Own Swordsman.	8	114	369	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1709.081	1712.878	Yu_entai	male	native	The table next to us was watching My Own Swordsman, too, and they nearly turned the table over with laughter.	8	114	370	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1712.878	1717.081	Yu_entai	male	native	But they didn't recognize the person on TV as the person they were eating dinner with.	8	114	371	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1717.081	1720.706	Yan_ni	female	native	Maybe they'd even say of all the millions of women in the world, Yan Ni is the best looking.	8	115	372	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1720.706	1723.831	Yan_ni	female	native	Oh, I said, "You've really given me, ah, confidence."	8	115	373	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1723.831	1727.908	Yan_ni	female	native	I said, ah, I said, "I, Yan Ni, I really think I'm pretty now."	8	115	374	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1901.706	1905.659	Chen_luyu	male	native	I should say that many of the actors from My Own Swordsman benefited from this show.	10	117	376	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1905.659	1909.409	Chen_luyu	male	native	They got more acting opportunities because of playing these roles in the show.	10	117	377	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1909.409	1911.518	Chen_luyu	male	native	That's how it was for Scholar Lu -- Yu Entai.	10	117	378	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1917.223	1923.144	speaker#1	male	native	In 2006 the classic stage play directed by Stan Lai, Secret Love for the Peach Blossom Spring, was put on in mainland China.	10	118	380	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1923.144	1927.487	speaker#1	male	native	This play has been a classic work popular in theatrical circles for twenty years.	10	118	381	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1929.028	1930.497	speaker#1	male	native	They have all performed it.	10	118	383	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1930.497	1934.310	speaker#1	male	native	Yu Entai played a short-tempered fisherman in it.	10	118	384	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1934.310	1938.059	speaker#1	male	native	Getting this role was completely unexpected for Yu Entai.	10	118	385	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1938.059	1943.387	Yu_entai	male	native	Your flute playing is really very lovely, very beautiful, very pure.	10	119	386	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1944.340	1946.562	Yu_entai	male	native	Very, ah, scary.	10	119	388	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1946.562	1949.625	Yu_entai	male	native	Long Wang, how come you're here?	10	119	389	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1949.625	1954.219	Yu_entai	male	native	I wanted to act in this play many years ago, but didn't have the chance, ah, because selection for the play was very strict.	10	119	390	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1954.219	1958.610	Yu_entai	male	native	Even at our school, Shanghai Theatre Academy, when students were rehearsing sections,	10	119	391	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1958.610	1964.563	Yu_entai	male	native	only those with particularly good marks, particularly good performance majors, were allowed to play the characters in it.	10	119	392	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1964.563	1970.298	Yu_entai	male	native	I never thought that more than ten years later I would have an opportunity to act in the full version of Secret Love for the Peach Blossom Spring.	10	119	393	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1970.298	1972.907	Yu_entai	male	native	This was the first, uh, version in the mainland.	10	119	394	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1972.907	1974.735	Yu_entai	male	native	I said, "Why did you think of me	10	119	395	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1974.735	1975.969	Yu_entai	male	native	of so many good actors?"	10	119	396	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1975.969	1977.938	Yu_entai	male	native	Yuan Hong, our producer,	10	119	397	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1977.938	1982.297	Yu_entai	male	native	really loved, uh, really loved to make other people feel really happy.	10	119	398	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1982.297	1984.266	Yu_entai	male	native	He said, "You're a big star, you're a hit!"	10	119	399	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1984.266	1987.203	Yu_entai	male	native	I know in my own mind that I'm not quite all that.	10	119	400	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1987.203	1990.109	Yu_entai	male	native	But there was something about him that I think made me really moved.	10	119	401	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1990.109	1992.781	Yu_entai	male	native	When he saw a person like this on TV	10	119	402	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1992.781	1998.171	Yu_entai	male	native	he could turn around and think, if this person was playing a completely different role, what would it be like?	10	119	403	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	1998.171	2001.108	Yu_entai	male	native	And he grew confident in this person's acting skills.	10	119	404	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2001.108	2003.623	Yu_entai	male	native	So that's what he did, asking me to play the role.	10	119	405	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2003.623	2004.998	Yu_entai	male	native	Very decisive, very decisive.	10	119	406	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2004.998	2008.811	Yu_entai	male	native	I was lucky to some extent there, right? Right?	10	119	407	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2008.811	2010.874	Yu_entai	male	native	Oh, everyone wants to catch the big fish.	10	119	408	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2010.874	2014.983	Yu_entai	male	native	If the fish I catch is small then it doesn't count. It wasn't me that made it small, right? Right?	10	119	409	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2014.983	2017.058	Yu_entai	male	native	Every time I go out to fish, I want to catch it.	10	119	410	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2017.058	2020.855	speaker#1	male	native	This stage play also brought a lot of other joys for Yu Entai.	10	120	411	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2022.480	2024.824	Yu_entai	male	native	On stage acting for everyone to see, I was very happy.	10	121	413	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2024.824	2028.621	Yu_entai	male	native	In My Own Swordsman we shot it first, then showed it to everyone.	10	121	414	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2028.621	2030.417	Yu_entai	male	native	We didn't know at what point the audience would laugh,	10	121	415	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2030.417	2034.338	Yu_entai	male	native	all we could do was laugh with them when the show was broadcast afterwards.	10	121	416	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2034.338	2035.916	Yu_entai	male	native	And nobody recognized me.	10	121	417	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2035.916	2041.150	Yu_entai	male	native	You know? I -- when My Own Swordsman was being broadcast the first time, I was in Jiujiang, at the foot of Mt. Lu.	10	121	418	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2042.041	2046.752	Yu_entai	male	native	I was just in a restaurant eating with friends, with family, and My Own Swordsman was showing on the TV.	10	121	420	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2046.752	2050.565	Yu_entai	male	native	The table next to us was watching My Own Swordsman, too, and they nearly turned the table over with laughter.	10	121	421	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2050.565	2054.815	Yu_entai	male	native	But they didn't recognize the person on TV as the person they were eating dinner with.	10	121	422	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2055.565	2058.143	Yu_entai	male	native	I went out a lot with my mom to buy vegetables,	10	121	424	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2058.846	2060.861	Yu_entai	male	native	sometimes it was just me, and no-one recognized me.	10	121	426	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2060.861	2063.907	Yu_entai	male	native	Of course there was a long period when my hair was completely shaved off.	10	121	427	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2063.907	2066.251	Yu_entai	male	native	Perhaps it was difficult for them to imagine who this person was.	10	121	428	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2066.251	2072.954	Yu_entai	male	native	I've also got a relative in, ah, Jiujiang. We would all -- all sometimes take, take them some fruit,	10	121	429	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2074.282	2078.114	Yu_entai	male	native	ah, help them carry some things into the house: "Sit a while, ah, come on!" Very, very formal.	10	121	431	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2078.114	2081.661	Yu_entai	male	native	Because none of my relatives or friends at home knew that I was an actor.	10	121	432	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2081.661	2084.755	Yu_entai	male	native	They just knew that I was always at college doing my degree, doing my master's,	10	121	433	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2084.755	2088.542	Yu_entai	male	native	ah, being a graduate student. They just knew that I was a student, didn't know that I was an actor.	10	121	434	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2088.542	2091.421	Yu_entai	male	native	My show came on TV, and they watched for about ten minutes,	10	121	435	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2091.421	2096.437	Yu_entai	male	native	I was right there, and they didn't know that this person was none other than the person coming to deliver fruit to our home.	10	121	436	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2096.437	2098.312	Yu_entai	male	native	One of our relatives.	10	121	437	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2099.218	2104.655	speaker#1	male	native	After shooting finished, Yu Entai, who played Scholar in My Own Swordsman, changed direction and became a TV host.	10	122	439	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2104.655	2109.562	speaker#1	male	native	Getting this role was also very much connected with his portrayal of Scholar in My Own Swordsman.	10	122	440	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2109.562	2117.374	Yu_entai	male	native	Because the first impression is the most lasting, and this role seemed to make people feel that I knew a lot, that I seemed to be an intellectual.	10	123	441	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2117.374	2123.061	Yu_entai	male	native	Even though I don't usually read many books, because I played Scholar Lu, everyone identified me with him in this way.	10	123	442	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2123.061	2125.515	Yu_entai	male	native	So sometimes it was easy to fake things, to cheat my way through.	10	123	443	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2125.515	2126.953	Yu_entai	male	native	Actually it was all memorized on the set.	10	123	444	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2127.568	2131.834	speaker#1	male	native	We can often see Scholar-style performances in this widely-broadcast program.	10	124	446	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2164.804	2170.445	Chen_luyu	male	native	Even though they are now playing their own roles, and the new shows they are acting in are a long way from My Own Swordsman,	10	125	448	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2170.445	2177.382	Chen_luyu	male	native	I'm sure those days in the "jianghu" will be carved deeply into the acting career of each one of them.	10	125	449	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2182.505	2185.109	speaker#7	male	native	So, Xiao Liu says goodbye, take care, everyone.	10	126	451	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2185.109	2186.431	Yan_ni	female	native	Goodbye, Xiao Liu.	10	127	452	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2189.092	2190.254	Yu_entai	male	native	Ah, have a safe trip.	10	128	454	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2196.068	2203.414	Yu_entai	male	native	Oh, you say the air here is different from there?	10	129	456	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2203.414	2206.008	Yan_ni	female	native	Oh, you stay for another while and you'll get used to it.	10	130	457	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2206.008	2208.845	Yan_ni	female	native	This "jianghu" isn't as bad as all that.	10	130	458	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2208.845	2213.188	Yu_entai	male	native	Oh, right, oh, how come you lot all together?	10	131	459	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2213.188	2217.704	Yan_ni	female	native	Oh.	10	132	460	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2217.704	2222.610	Yan_ni	female	native	That's a very very long story.	10	132	461	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2222.610	2224.563	Yan_ni	female	native	Where shall I start?	10	132	462	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2226.459	2227.505	speaker#8	male	native	Goodbye. Goodbye.	10	133	464	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2228.490	2231.240	speaker#8	male	native	Goodbye. Goodbye. Goodbye. Goodbye.	10	133	466	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2236.575	2241.543	speaker#8	male	native	Uh, uh.	10	133	468	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2259.823	2261.541	speaker#1	male	native	Although this show was very popular for some time,	10	134	470	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2261.541	2265.791	speaker#1	male	native	the actors' lives haven't changed as much as people think.	10	134	471	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2265.791	2269.213	speaker#1	male	native	They still have normal and real lives.	10	134	472	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2269.213	2272.291	Yu_entai	male	native	Before, when I was at home, I would sleep in the same bed as my mom,	10	135	473	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2272.291	2275.541	Yu_entai	male	native	because our home was quite small. I still sleep in the same bed as my mom now.	10	135	474	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2275.541	2279.900	Jiang_chao	male	native	When I haven't got anything to do, I like to buy some -- I like to buy some vegetables. Buying vegetables is something I really -- really love to do.	10	136	475	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2279.900	2281.217	Jiang_chao	male	native	That is, going to the vegetable market.	10	136	476	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2281.217	2281.876	Chen_luyu	male	native	Uh-huh.	10	137	477	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2281.876	2282.625	Jiang_chao	male	native	Particularly going to the early market.	10	138	478	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2283.134	2285.775	Jiang_chao	male	native	It's ((pw)) the best to go to the early market, oh, that is,	10	138	480	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2285.775	2288.540	Jiang_chao	male	native	oh, in particular, haggling with people or whatever, oh, it's great.	10	138	481	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2288.540	2295.731	Jiang_chao	male	native	At about 11 o'clock the early market is nearly over, when it's nearly, nearly over, at that time when it's about to finish, it's just then, the vegetables -- some vegetables are still okay.	10	138	482	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2295.731	2300.962	Jiang_chao	male	native	I've -- they all say, there'll be nearly left-overs. Actually, that's not right. At that time some vegetables are still quite good, and they're also -- also cheap.	10	138	483	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2300.962	2302.306	Jiang_chao	male	native		10	138	484	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2303.134	2307.213	speaker#1	male	native	But sometimes, they have also gained a different kind of happiness.	10	139	486	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2307.213	2308.885	Yan_ni	female	native	I said, through this show,	10	140	487	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2310.104	2313.682	Yan_ni	female	native	I said, before, when I was shooting any show, I said, I've never thought I was good-looking.	10	140	489	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2313.682	2316.448	Yan_ni	female	native	Before I wasn't good-looking. I've also said that I've been in a lot of shows.	10	140	490	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2316.448	2318.495	Yan_ni	female	native	I always thought I was ugly.	10	140	491	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2318.495	2320.089	Yan_ni	female	native	But after shooting this, ah, show,	10	140	492	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2320.089	2323.339	Yan_ni	female	native	there were -- there were so many people who said, Oh, Yan Ni, you -- you -- you're pretty.	10	140	493	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2323.339	2327.933	Yan_ni	female	native	They said this and that, said something like of all the millions of women in the world, Yan Ni is the best looking.	10	140	494	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2327.933	2331.120	Yan_ni	female	native	Oh, I said, "You've really given me, ah, confidence."	10	140	495	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2331.120	2334.886	Yan_ni	female	native	I said, ah, I said, "Yan Ni, I really think I'm pretty now."	10	140	496	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2334.886	2338.277	Yu_entai	male	native	Perhaps when this change has been talked about, uh, it may be more real,	10	141	497	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2338.277	2340.214	Yu_entai	male	native	it's because before I was always alone,	10	141	498	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2340.214	2342.558	Yu_entai	male	native	and now I feel like there are a lot of people supporting you,	10	141	499	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2342.558	2346.089	Yu_entai	male	native	this support is the real riches that I think I've gained.	10	141	500	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2346.871	2350.703	Yu_entai	male	native	And who are these people? They are the tofu strips and fins that I was talking about earlier.	10	141	502	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2351.469	2353.953	Yu_entai	male	native	I used to have a Baidu message board.	10	141	504	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2353.953	2356.000	Yu_entai	male	native	Someone had seen my past TV shows,	10	141	505	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2356.000	2360.282	Yu_entai	male	native	and set up a message board like that. It never had more than a few dozen to a hundred or so messages.	10	141	506	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2360.282	2363.282	Yu_entai	male	native	After My Own Swordsman, all of a sudden now I've got over a hundred thousand messages.	10	141	507	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2363.282	2368.376	Yu_entai	male	native	So even though there's only this small group of people, they really make me feel as though I own the whole world.	10	141	508	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2368.376	2373.237	Yu_entai	male	native	To give you a direct example, that is, He Jiong, He Jiong really envies me and Huang Lei, and why?	10	141	509	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2373.237	2379.892	Yu_entai	male	native	Once when we were acting in the Shanghai Grand Theatre, Huang Lei's "Lei club" over in Taiwan sent him a basket of flowers.	10	141	510	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2379.892	2384.504	Yu_entai	male	native	Here, I have a kind of Yu Entai -- a -- a -- two websites.	10	141	511	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2384.504	2387.332	Yu_entai	male	native	The people who run them sent over a big basket of flowers.	10	141	512	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2388.129	2391.800	Yu_entai	male	native	Then He Jiong said, "Oh, the gangs of these actors of ours are fantastic. Why?"	10	141	514	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2392.441	2395.744	Yu_entai	male	native	On Huang Lei's side there's Taiwanese, on Yu Entai's side there's Thai fans.	10	141	516	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2395.744	2397.494	Yu_entai	male	native	I said, since when have I had Thai fans?	10	141	517	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2397.494	2399.853	Yu_entai	male	native	He said, they're basically international gangs.	10	141	518	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2399.853	2403.150	Yu_entai	male	native	I said, I -- let me have a look, let me have a look and see what these Thai fans really are.	10	141	519	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2403.150	2408.254	Yu_entai	male	native	Then as soon as I looked, oh! I have two websites. One is, uh, "Finsland," and the other is "Tai composure."	10	141	520	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2408.254	2410.535	Yu_entai	male	native	The "Tai" and the "land" put together looks like "Thailand."	10	141	521	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2410.535	2418.222	Yu_entai	male	native	So it gave him the feeling that there were a lot of people. Actually, actually, compared with those big stars, I really have much fewer fans.	10	141	522	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2418.222	2422.190	Yu_entai	male	native	But the feeling they give me really is like having lots and lots of friends.	10	141	523	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2422.190	2424.800	Yu_entai	male	native	Owning the whole world, so I really am very grateful to them.	10	141	524	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2426.363	2435.629	Chen_luyu	male	native	My Own Swordsman gave us so much pleasure. Thank you to them, and we wish that from today on their careers be prosperous and their lives be happy and contented.	10	142	526	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2437.371	2441.278	Han_hong	female	native	Everyone was given a big mug with "3/8 standard-bearer" printed on it.	11	143	528	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2441.278	2442.934	Han_hong	female	native	I think this is very Luyu.	11	143	529	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2618.320	2623.477	Chen_luyu	male	native	Han Hong is also my friend, and she was a guest on the set on my program in April 2005.	13	145	531	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2623.477	2629.758	Chen_luyu	male	native	I remember when the program had just started we put on one of her songs. As soon as the singing started the audience were cheering all together.	13	145	532	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2629.758	2634.961	Chen_luyu	male	native	Her singing voice is so very penetrating, so enormously infective, just like her herself.	13	145	533	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2676.585	2678.570	Chen_luyu	male	native	I can hear the audience below say what a voice.	15	147	535	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2678.570	2680.586	Chen_luyu	male	native	Let's welcome Han Hong.	15	147	536	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2696.461	2699.305	Chen_luyu	male	native	Everyone clap for a moment, you clap for a moment.	15	147	538	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2700.948	2702.214	Han_hong	female	native	I darted across.	15	148	540	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2702.214	2704.011	Han_hong	female	native	The whole place was laughing.	15	149	541	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2702.214	2704.011	Chen_luyu	male	native	What about your mom?	15	149	542	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2704.011	2708.917	Han_hong	female	native	As soon as she turned her head and saw it was me, my mom didn't say anything. I knew I was going to be in trouble that evening.	15	150	543	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2708.917	2710.279	Han_hong	female	native		15	150	544	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2710.279	2710.841	Chen_luyu	male	native	And in the evening?	15	151	545	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2710.841	2711.662	Han_hong	female	native	I was in trouble.	15	152	546	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2711.662	2712.678	Chen_luyu	male	native		15	153	547	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2712.678	2714.069	Han_hong	female	native	I was given a dressing down.	15	154	548	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2714.069	2716.036	Chen_luyu	male	native		15	155	549	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2716.036	2717.850	Chen_luyu	male	native	Was that the first time you went onstage?	15	155	550	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2718.928	2719.899	Chen_luyu	male	native	The first time you went onstage?	15	155	552	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2719.899	2720.694	Han_hong	female	native	I was so ashamed.	15	156	553	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2721.444	2723.959	Han_hong	female	native	A famous singer getting on stage like that?	15	156	555	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2723.959	2725.856	Chen_luyu	male	native		15	157	556	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2733.757	2735.273	Han_hong	female	native	Because, ah, a friend of mine,	15	158	558	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2735.273	2739.710	Han_hong	female	native	he's a director for Straight Talking, ((Ya Luosen)).	15	158	559	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2740.585	2742.897	Han_hong	female	native	He told me about a good friend of his named Zhang Yue.	15	158	561	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2742.897	2745.929	Han_hong	female	native	He said he thought I looked just like her.	15	158	562	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2747.226	2749.226	Han_hong	female	native	Then he said let's fix a place	15	158	564	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2750.022	2751.257	Han_hong	female	native	so I can introduce you two.	15	158	566	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2752.820	2753.753	Han_hong	female	native	I went there and took a look.	15	158	568	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2754.737	2757.783	Han_hong	female	native	Such a big fattie, looking so plain.	15	158	570	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2757.783	2760.580	Han_hong	female	native	How could this look like me?	15	158	571	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2767.725	2769.053	Han_hong	female	native	Zhang Yue herself said,	15	158	573	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2769.772	2772.819	Han_hong	female	native	pretty much that I looked a bit like her. I wouldn't admit it.	15	158	575	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2772.819	2775.772	Han_hong	female	native	She said it herself often.	15	158	576	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2775.772	2777.620	Han_hong	female	native	After meeting, we got to know each other.	15	158	577	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2778.355	2778.980	Han_hong	female	native		15	158	579	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2779.949	2783.074	Han_hong	female	native	She said I'm doing a program, will you come and be our special guest?	15	158	581	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2783.933	2785.105	Han_hong	female	native	I said, which channel is yours?	15	158	583	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2785.792	2786.714	Han_hong	female	native	CCTV.	15	158	585	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2787.839	2791.026	Han_hong	female	native	My heart was throbbing with excitement, I was going to take off.	15	158	587	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2791.745	2793.026	Han_hong	female	native	But I held myself there.	15	158	589	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2796.800	2798.191	Chen_luyu	male	native	What was the subject of that show?	15	159	591	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2799.035	2804.660	Han_hong	female	native	"Don't worry about your appearance." As soon as I heard it I didn't want to go. But I'd already got there.	15	160	593	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2806.452	2808.280	Han_hong	female	native	Who's worried about their appearance?	15	160	595	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2809.265	2811.531	Han_hong	female	native	I said, it's you who's worried about your appearance!	15	160	597	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2816.320	2817.141	Chen_luyu	male	native	So what should you do?	15	161	599	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2817.141	2819.885	Chen_luyu	male	native	You've promised us so you have to -- so you have to come.	15	162	600	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2817.141	2819.885	Han_hong	female	native	Then as soon as -- ah, yes,	15	162	601	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2819.885	2821.667	Han_hong	female	native	then as soon as I went in, as soon as I saw,	15	163	602	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2822.261	2824.854	Han_hong	female	native	oh, my god! The special guest, as soon as I saw Li Qi like that,	15	163	604	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2824.854	2831.323	Han_hong	female	native	I said, how can I do this? I'm not like that. I'm not ashamed like that.	15	163	605	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2836.831	2837.940	Han_hong	female	native	Have you brought wine?	15	163	607	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2837.940	2839.924	Chen_luyu	male	native	Is water okay?	15	164	608	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2839.924	2841.500	Han_hong	female	native	You don't give me wine and you want me to write!	15	165	609	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2846.060	2848.075	Chen_luyu	male	native	Everyone, ah, wait a moment, the master is composing.	15	166	611	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2850.595	2851.220	Han_hong	female	native	It isn't written very well.	15	167	613	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2853.069	2854.350	Han_hong	female	native	It'll have to do, there's no wine.	15	167	615	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2860.490	2862.052	Han_hong	female	native	I present these graceful words to Luyu.	15	167	617	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2863.380	2866.630	Han_hong	female	native	Many past experiences, like shattered shards,	15	167	619	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2866.630	2870.537	Han_hong	female	native	grow dusty with age, then become the fragments of a generation.	15	167	620	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2870.537	2874.005	Han_hong	female	native	This is what a poet calls reincarnation, all ends in nothing.	15	167	621	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2880.154	2881.498	Chen_luyu	male	native	We'll put it here for the moment.	15	168	623	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2881.498	2883.655	Han_hong	female	native	Uh, when I get home I'll write it properly with a brush,	15	169	624	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2884.327	2885.998	Han_hong	female	native	I won't write with this kind of cloudy vagueness.	15	169	626	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2885.998	2887.670	Chen_luyu	male	native	Thank you, thank you, thank you.	15	170	627	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2888.467	2892.888	Chen_luyu	male	native	On the day I interviewed Han Hong it was particularly lively on the set, because she is someone who says very funny things.	15	170	629	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2892.888	2897.216	Chen_luyu	male	native	But as soon as I mentioned her grandmother, she fell silent and started to cry.	15	170	630	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2897.872	2900.872	Chen_luyu	male	native	She has a very deep relationship with her grandmother, because she was brought up by her grandmother.	15	170	632	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2900.872	2904.451	Chen_luyu	male	native	Her grandmother sold ice pops to bring her up, which was very hard.	15	170	633	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2904.451	2910.310	Chen_luyu	male	native	And on the day the program was recorded, only less than two weeks had gone by since her grandmother had passed away.	15	170	634	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2913.511	2915.604	speaker#1	male	native	April 18, 2005.	15	171	636	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2915.604	2920.447	speaker#1	male	native	For Han Hong, this is a day of gloom and despair.	15	171	637	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2920.447	2924.368	speaker#1	male	native	On that day, the grandmother who was so dear to her departed this world.	15	171	638	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2931.013	2931.778	speaker#9	male	native	Usually, when the old lady was in good health,	15	172	640	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2932.606	2934.481	speaker#9	male	native		15	172	642	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2935.215	2937.919	speaker#9	male	native	she would sit in the sun on that balcony.	15	172	644	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2937.919	2942.732	speaker#9	male	native	After watching her granddaughter drive her car in, she could chat outside.	15	172	645	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2950.854	2958.348	speaker#9	male	native	She was particularly interested in entertainment reports, because they had her granddaughter in,	15	172	647	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2958.348	2960.332	speaker#9	male	native	so she was particularly interested.	15	172	648	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2965.842	2967.006	speaker#9	male	native	She often told all her neighbors nearby	15	172	650	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2968.287	2969.474	speaker#9	male	native		15	172	652	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2970.349	2972.021	speaker#9	male	native	this and that about "our Hong."	15	172	654	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2975.615	2976.912	speaker#9	male	native	She was generally,	15	172	656	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2977.693	2979.021	speaker#9	male	native	she was often very proud that	15	172	658	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2979.958	2981.146	speaker#9	male	native	she herself had such a	15	172	660	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	2981.880	2982.973	speaker#9	male	native	good granddaughter.	15	172	662	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3015.106	3020.313	Chen_luyu	male	native	Oh, I'm sorry; perhaps as soon as we put on the music it seemed very, very emotional.	15	173	664	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3020.313	3023.139	Chen_luyu	male	native	So just now I particularly thanked Han Hong when we started, that's because	15	173	665	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3023.139	3026.219	Chen_luyu	male	native	mm, she was brought up by her grandmother, and her grandmother	15	173	666	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3026.953	3030.641	Chen_luyu	male	native	has just not long passed away. That she can come out and do a program -- I think it's very difficult for her.	15	173	668	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3044.045	3049.842	Han_hong	female	native	I think that's crying from pain, because weeping can be with both eyes, and it can be with one eye.	15	174	670	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3049.842	3054.508	Han_hong	female	native	That day I was immediately crying, so I felt	15	174	671	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3055.195	3055.527	Han_hong	female	native	mm,	15	174	673	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3056.824	3058.655	Han_hong	female	native	really, really cut to the core.	15	174	675	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3059.889	3064.561	Chen_luyu	male	native	I'm very grateful to Han Hong, for coming on our program as a guest at a difficult moment like that.	15	175	677	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3064.561	3066.607	Chen_luyu	male	native	But in another way I also think	15	175	678	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3066.607	3068.701	Chen_luyu	male	native	coming onto a set like this, facing the audience,	15	175	679	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3068.701	3073.076	Chen_luyu	male	native	sharing together many of the painful moments in life,	15	175	680	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3073.076	3076.076	Chen_luyu	male	native	some of the pain may go away a little more quickly.	15	175	681	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3076.858	3078.765	Chen_luyu	male	native	No matter what, I'm very grateful to her,	15	175	683	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3078.765	3083.436	Chen_luyu	male	native	um, and I like this kind of friend: very open, very honest, very warm, and very sparky.	15	175	684	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3083.436	3087.811	Chen_luyu	male	native	People who know Han Hong all say that she has two obvious characteristics in life.	15	175	685	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3087.811	3090.498	Chen_luyu	male	native	The first is she doesn't sweat the small stuff. The second is she has a strong sense of justice.	15	175	686	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3090.498	3094.935	Chen_luyu	male	native	When you are driving you'll often stop the car to fight with people. Is that right?	15	175	687	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3094.935	3097.841	Han_hong	female	native	I've fought once.	15	176	688	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3098.966	3100.154	Han_hong	female	native	Going a ramp up and down, you know?	15	176	690	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3101.373	3102.045	Han_hong	female	native	It was an underground car park	15	176	692	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3102.524	3103.482	Han_hong	female	native	with a separate lane for public transport.	15	176	694	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3104.342	3105.030	Han_hong	female	native	I was going up,	15	176	696	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3105.921	3107.546	Han_hong	female	native	there was a white Fukang coming down.	15	176	698	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3108.202	3109.968	Han_hong	female	native	What a steep ramp it was.	15	176	700	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3111.280	3113.546	Han_hong	female	native	so, so whatever was no -- no good.	15	176	702	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3113.546	3119.922	Han_hong	female	native	The car grumbled, then she -- just braked, lifted up the handbrake.	15	176	703	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3119.922	3122.188	Han_hong	female	native	Then, she just stayed there, tinkering with it, totally at a loss.	15	176	704	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3122.188	3124.829	Han_hong	female	native	By this time a queue of cars coming round the corner behind her were all blocked.	15	176	705	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3124.829	3126.017	Han_hong	female	native	They were hitting their horns there, honk honk,	15	176	706	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3126.798	3128.923	Han_hong	female	native	The driver then got out and I could see immediately that it was a woman.	15	176	708	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3128.923	3133.202	Han_hong	female	native	The woman then said, don't rush me, I'm a woman,	15	176	709	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3133.202	3135.280	Han_hong	female	native	I just do drive like this, what can I do?	15	176	710	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3135.280	3137.202	Han_hong	female	native	All you group of men aren't helping me, either.	15	176	711	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3137.202	3140.795	Han_hong	female	native	This man driving a Jetta behind then got out, and said,	15	176	712	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3142.436	3143.920	Han_hong	female	native	quick quick quick quick, don't +talk so much.	15	176	714	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3143.920	3146.001	Han_hong	female	native	Who's going to help you? You can't drive yourself, and you still come out on the streets?	15	176	715	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3146.782	3149.845	Han_hong	female	native	The woman then said, look, are you a man?	15	176	717	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3149.845	3152.454	Han_hong	female	native	You're a man and you're this rude, this lacking in, ah, restraint.	15	176	718	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3152.454	3154.251	Han_hong	female	native	So Chinese men really are no good!	15	176	719	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3155.847	3160.688	Han_hong	female	native	When the man heard this, hey! You dare talk to me like that, I'll give you a smack.	15	176	721	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3162.032	3164.438	Han_hong	female	native	Who the hell are you, to talk to me?	15	176	723	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3165.391	3166.891	Han_hong	female	native	Eh? You? What about it?	15	176	725	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3168.570	3170.633	Han_hong	female	native	So I got angry. I was opposite.	15	176	727	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3171.461	3176.085	Han_hong	female	native	So after I got out, I said to the woman, miss, you move over, I'll drive the car up for you.	15	176	729	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3176.085	3179.335	Han_hong	female	native	So when I stepped on the gas pedal, I drove up for her.	15	176	730	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3179.335	3183.615	Han_hong	female	native	After I'd driven up, the woman wanted to say thank you, but as soon as she turned around, I was gone.	15	176	731	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3183.615	3186.225	Han_hong	female	native	I left. Then I ran straight to that Jetta man.	15	176	732	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3186.225	3188.584	Han_hong	female	native	Took aim at his, ah, head and punched him one.	15	176	733	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3195.429	3197.945	Han_hong	female	native	The Jetta guy was knocked back,	15	176	735	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3197.945	3199.632	Han_hong	female	native	and when he recovered I said to him,	15	176	736	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3199.632	3204.554	Han_hong	female	native	I tell you, my name is Han Hong, if you've got the guts you can come and find me. Today I'm right to hit you. I'm leaving.	15	176	737	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3211.734	3213.734	Chen_luyu	male	native	It's a good thing there weren't any entertainment reporters then.	15	177	739	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3214.828	3216.859	Chen_luyu	male	native	If an entertainment reporter took photos at that moment, I would hit him as well.	15	177	741	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3219.107	3223.045	speaker#1	male	native	Now Han Hong is using this sense of justice in a larger area.	15	178	743	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3223.045	3226.780	speaker#1	male	native	She has adopted three AIDS orphans, even though she's not yet married.	15	178	744	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3227.577	3230.171	Han_hong	female	native	I just think, they've given birth to you,	15	179	746	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3235.191	3239.206	Han_hong	female	native	but your father and mother have already passed away,	15	179	748	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3239.206	3244.541	Han_hong	female	native	then you just have a grandmother, then you still have a grandmother, after all. Life.	15	179	749	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3244.541	3245.932	Han_hong	female	native	The three of them are all like that.	15	179	750	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3245.932	3253.463	Han_hong	female	native	Mm, I've talked to the relevant government departments, and made an agreement.	15	179	751	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3253.463	3256.150	Han_hong	female	native	Next we'll deal with a series of formalities.	15	179	752	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3256.150	3263.462	Han_hong	female	native	After that, I hope these three children can be with me, can live healthily like all children,	15	179	753	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3263.462	3267.197	Han_hong	female	native	ah, can -- have a normal life and happiness.	15	179	754	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3269.554	3272.242	Chen_luyu	male	native	We're friends but in reality I very rarely see Han Hong.	15	180	756	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3272.242	3276.709	Chen_luyu	male	native	In 2006 I don't think we met even once. But occasionally we speak on the phone.	15	180	757	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3276.709	3279.771	Chen_luyu	male	native	When we call we'll discover that we're both flying all over the place.	15	180	758	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3280.584	3284.224	Chen_luyu	male	native	We seldom meet, only see each other when we're working, on, um, set.	15	180	760	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3284.224	3287.177	Chen_luyu	male	native	Sometimes you do something for yourself under cover of work.	15	180	761	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3287.177	3292.537	Chen_luyu	male	native	But doing programs with old friends has an advantage: you'll have an understanding that doesn't need to be specifically spelled out.	15	180	762	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3292.537	3296.833	Chen_luyu	male	native	And the best wishes that friends bring me can give me even more pleasure outside the program.	15	180	763	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3298.067	3300.630	Chen_luyu	male	native	There are many particularly lovable sides to Han Hong.	15	180	765	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3300.630	3304.802	Chen_luyu	male	native	Sometimes when she talks it's like this; sometimes when she talks it's really really funny.	15	180	766	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3304.802	3307.958	Chen_luyu	male	native	I'll first tell an unrelated story. Once, a few of us were eating together.	15	180	767	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3307.958	3311.770	Chen_luyu	male	native	Uh, a big round table, and Han Hong was eating, eating very happily.	15	180	768	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3311.770	3317.254	Chen_luyu	male	native	Then she started to tell jokes, and told them so well that we were all laughing until I simply couldn't take it. Han Hong then said,	15	180	769	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3317.254	3321.911	Chen_luyu	male	native	Luyu, what's the matter with you? That is, I was...	15	181	770	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3317.254	3321.911	Han_hong	female	native		15	181	771	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3321.911	3324.427	Chen_luyu	male	native	Oh, she said, what are you gasping for?	15	182	772	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3324.427	3328.396	Chen_luyu	male	native	That is, in a moment I will... A particularly lovable side.	15	182	773	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3328.396	3331.443	Han_hong	female	native	And her gasping then, wasn't the gasping she was just acting.	15	183	774	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3331.443	3336.412	Han_hong	female	native	She, she, she wasn't -- she wasn't -- those gasps were longer than these ones.	15	183	775	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3336.412	3339.193	Han_hong	female	native	Don't deny it!	15	183	776	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3346.365	3351.302	speaker#1	male	native	Now Han Hong gave an unusual assessment of Luyu's approach to her work:	15	184	778	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3352.333	3355.474	speaker#1	male	native	she's a 3/8, a 3/8 standard-bearer for women.	15	184	780	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3356.474	3363.895	speaker#1	male	native	That -- originally ((pw)) that is, family -- family -- when old folks were young	15	184	782	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3363.895	3369.551	speaker#1	male	native	everyone was given a big mug to put it there, with "3/8" written on it. I think that's just like Luyu.	15	184	783	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3371.731	3373.872	Chen_luyu	male	native	Thanks to Han Hong for her encouragement of me and the program.	15	185	785	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3373.872	3375.903	Chen_luyu	male	native	She's also a very reliable person.	15	185	786	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3375.903	3380.890	Chen_luyu	male	native	When we were making the program, she said she would write a song for my program.	15	185	787	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3380.890	3385.874	Chen_luyu	male	native	But in 2006 she really kept her promise and wrote a song for my program.	15	185	788	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3388.248	3391.186	Han_hong	female	native	Because I, I think Chen Luyu's program is -- is really --	15	186	790	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3393.038	3395.332	Han_hong	female	native	I come on hers -- very straightforward	15	186	792	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3395.332	3398.560	Han_hong	female	native	Then, I see her doing programs on other people and she's also very straightforward.	15	186	793	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3398.560	3400.980	Han_hong	female	native	So I too -- why do I say straightforward?	15	186	794	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3400.980	3404.418	Han_hong	female	native	I think straightforward is her program itself.	15	186	795	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3512.306	3515.416	Chen_luyu	male	native	Thank you, Han Hong, for writing such a good song for my program,	15	187	797	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3515.416	3517.104	Chen_luyu	male	native	It's just as it says in the lyrics,	15	187	798	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3517.104	3519.886	Chen_luyu	male	native	My friends and I rely on each other	15	187	799	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3519.886	3520.506	Chen_luyu	male	native	for	15	187	800	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3521.614	3523.964	Chen_luyu	male	native	happiness, and I'm proud of their success.	15	187	802	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3523.964	3528.645	Chen_luyu	male	native	At every New Year festival time I always record a few greetings for some TV stations.	15	187	803	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3528.645	3530.489	Chen_luyu	male	native	I often say something like this:	15	187	804	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3530.489	3534.317	Chen_luyu	male	native	I hope everyone can be together with the people they love in the New Year,	15	187	805	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3534.317	3537.770	Chen_luyu	male	native	do what they like doing, live the life they want to live.	15	187	806	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3537.770	3540.942	Chen_luyu	male	native	Today I'm giving this kind of best wishes to everyone,	15	187	807	report	
+PHOENIX_DATELUYU_CMN_20070102_142800	0	3540.942	3546.036	Chen_luyu	male	native	and I hope my friends will be healthy, safe and happy in the New Year.	15	187	808	report	

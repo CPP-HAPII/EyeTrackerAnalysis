@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PDA_CMN_20080713.0029	0	200.0	300.0	speaker	unknown	unknown	On December 18, 2007 (Tokyo Time), Aegis-equipped destroyer "Kongou" of the Japanese Maritime Self-Defense Force launched sea-based interceptor missiles in the seas near Hawaii's Kauai Island.	0	0	0		
+PDA_CMN_20080713.0029	0	1000.0	1100.0	speaker	unknown	unknown	(Xinhua News Agency Special Report)	0	0	0		

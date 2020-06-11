@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080424.0533	0	1300.0	1400.0	speaker	unknown	unknown	“停止东航两条航线经营权，调减东航的昆明至丽江、中甸等6个目的地城市约20个航班。”昨天，民航西南地区管理局相关负责人表示，停止东航两条航线经营权没有关于“具体时间”的表述，因此可以看作是永久性处罚。	0	0	0		
+CNS_CMN_20080424.0533	0	1400.0	1500.0	speaker	unknown	unknown	停航定为5月4日：	0	0	0		
+CNS_CMN_20080424.0533	0	2100.0	2200.0	speaker	unknown	unknown	昨天，记者从国航获悉，该公司已接到民航西南地区管理局通知，并已按要求上报了顶替东航航班的计划，但由于尚未获得批复，因此暂时还不能透露具体的航班时刻。	0	0	0		

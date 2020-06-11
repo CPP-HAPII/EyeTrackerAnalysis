@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080709.3169	0	0.0	100.0	speaker	unknown	unknown	易建联今晚10点高调“落网” 新东家高层都出席	0	0	0		

@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-WL-8-89286-10737316	0	0.0	100.0	speaker	unknown	unknown	佟文柔道绝杀日本劲敌 夺中国第24金	0	0	0		
+cmn-WL-8-89286-10737316	0	100.0	200.0	speaker	unknown	unknown	关键词 ： 佟文 柔道	0	0	0		
+cmn-WL-8-89286-10737316	0	200.0	300.0	speaker	unknown	unknown	最后18秒一本绝杀 女柔佟文不可思议逆转夺金http://2008.sina.	0	0	0		
+cmn-WL-8-89286-10737316	0	400.0	500.0	speaker	unknown	unknown	绝杀！	0	0	0		
+cmn-WL-8-89286-10737316	0	500.0	600.0	speaker	unknown	unknown	最后18秒绝杀！	0	0	0		
+cmn-WL-8-89286-10737316	0	800.0	900.0	speaker	unknown	unknown	面对老对手，该级别的卫冕冠军塚田真希，佟文开始显得很被动，1分52秒被对方以一个投技获得一个有效，随后日本选手因为消极而被裁判指导。	0	0	0		
+cmn-WL-8-89286-10737316	0	900.0	1000.0	speaker	unknown	unknown	之后塚田真希的防守做得非常出色，佟文数次出击都是无功而返。	0	0	0		
+cmn-WL-8-89286-10737316	0	1000.0	1100.0	speaker	unknown	unknown	随着时间的流逝，佟文似乎难免一败了，但是就在比赛结束前18秒，佟文上演了奇迹般的一幕，她用一个漂亮的背负投一本获胜。	0	0	0		
+cmn-WL-8-89286-10737316	0	1100.0	1200.0	speaker	unknown	unknown	作为3次世锦赛冠军得主，佟文在今天的比赛中完全展示了自己的过人实力， 首轮面对雅典奥运会季军俄罗斯名将道格扎奇维利，佟文仅用时49秒就以一个漂亮的外卷入一本获胜。	0	0	0		
+cmn-WL-8-89286-10737316	0	1200.0	1300.0	speaker	unknown	unknown	八分之一决赛，佟文的对手是乌克兰选手马林娜-普罗科菲耶娃，4年前孙福明正是在与她的季军争夺战中获胜保住了一枚铜牌，1分40秒，佟文利用和对手在塌塌米上争寝技的机会将对手翻了个面朝天，并牢牢将马林娜肩膀着地压在塌塌米上25秒，用横四方固的技术一本取胜晋级。	0	0	0		
+cmn-WL-8-89286-10737316	0	1300.0	1400.0	speaker	unknown	unknown	四分之一决赛，佟文故技重施，1分56秒又是一个固技获得一本战胜了韩国选手金娜永。	0	0	0		
+cmn-WL-8-89286-10737316	0	1400.0	1500.0	speaker	unknown	unknown	半决赛迎战古巴小将伊达莉斯-奥尔蒂斯，对手明显忌惮佟文的进攻，屡屡在 佟文进攻的时候主动跑向界外，一度让佟文的进攻陷入僵局，直到比赛进行到4分14秒的时候，佟文终于抓住机会背负投得手拿到一个有效顺利晋级决赛。	0	0	0		
+cmn-WL-8-89286-10737316	0	1600.0	1700.0	speaker	unknown	unknown	从1992年开始中国队在连续三届奥运会上 都获得了这一级别的冠军，但是2004年雅典奥运会上中国名将孙福明再次出征奥 运会却意外止步半决赛，最后只获得一枚铜牌，四年之后，佟文终于让这一级别的冠军头衔重新回到中国队的名下。	0	0	0		

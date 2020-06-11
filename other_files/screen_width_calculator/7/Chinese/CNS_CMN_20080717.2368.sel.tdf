@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080717.2368	0	500.0	600.0	speaker	unknown	unknown	公诉机关指控，被告人李峥于2006年3月至2007年5月期间，以帮助办理天通苑小区经济适用房房号为名，在天通苑小区自己开设的台球厅内，先后骗取33人人民币共计人民币225.3万元。	0	0	0		

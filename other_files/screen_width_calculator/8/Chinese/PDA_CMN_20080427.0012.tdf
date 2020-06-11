@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20080427.0012.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	台湾3.3万名警察3个月内体重减掉4.5万公斤	0	0	0		statement
+PDA_CMN_20080427.0012.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27	0	0	0		statement
+PDA_CMN_20080427.0012.sgm	0	900.000	1600.000	TEXT1	unknown	unkown	据台湾 “中央社”报道，为维护警察身体健康，锻炼精壮的体能维护治安，台当局“警政署”推行“警察精壮减重计划”，第一阶段为期3个月，成果今天揭晓，全台警察共减掉4万5280公斤，以每辆中型轿车1500公斤计算，相当于30辆车的重量。	0	0	0		statement
+PDA_CMN_20080427.0012.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	台“警政署”今天表示，第一期警察精壮减重计划由今年1月21日到本月20日，自愿参与警察人数有3万3329人。	0	0	0		statement
+PDA_CMN_20080427.0012.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	3个月来透过各种运动、饮食控制与健康咨询等方式，让每位警察身体质量指数BMI值保持在正常值范围之内。	0	0	0		statement
+PDA_CMN_20080427.0012.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	依“警政署”今天公布数据，总计减重成果达4万5280公斤，平均每人减少1.36公斤。	0	0	0		statement
+PDA_CMN_20080427.0012.sgm	0	2150.000	2175.000	TEXT1	unknown	unkown	为鼓励项目期间减重成效显著的警察，“警政署”明天上午将在大礼堂举行“警察精壮减重绩优表扬大会”。	0	0	0		statement
+PDA_CMN_20080427.0012.sgm	0	2175.000	2200.000	TEXT1	unknown	unkown	“警政署长”侯友宜颁发奖座及1000元新台币礼券给35名来自全台各警察机关减重绩优同仁。（高大林）	0	0	0		statement

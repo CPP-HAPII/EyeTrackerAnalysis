@@ -1,0 +1,26 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'nontrans', u'report', u'nontrans', u'filler', u'report', u'filler', u'nontrans', u'report', u'nontrans', u'report', u'report', u'filler', u'nontrans', u'filler', u'report', u'filler', u'nontrans', u'report', u'filler', u'nontrans', u'filler', u'nontrans', u'report', None]
+;;MM sectionBoundaries	[0.0, 182.31700000000001, 303.47800000000001, 308.50799999999998, 427.50299999999999, 508.71100000000001, 798.29700000000003, 803.23099999999999, 923.20500000000004, 1128.223, 1260.9349999999999, 1311.433, 1636.768, 1841.7070000000001, 2332.1790000000001, 2351.819, 2386.2550000000001, 2519.5059999999999, 2626.259, 2735.8719999999998, 2740.4560000000001, 2942.114, 2947.2809999999999, 9999999.0]
+CCTV2_DIALOG_CMN_20080413_220801	0	394.231	427.503	Rao_Jin	male	native	嗯,这一个就是很多的呃国外媒体是对他是他们最感兴趣的话题,他们在问的时候经常会,包括也有一些邮件来问的,说这个你这个网站是不是得到了政-政府的资助啊,然后事实上他就是源于-源于一个非常 {sneeze} 偶然的想法,然后呃在这个过程当中,到目前为止还没有政府部门的呃组织或者机构,或者呃工作人员跟我们联系过	3	16	29	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	526.611	550.643	speaker#1	male	native	嗯,嗯, (())	5	19	40	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	634.145	636.385	speaker#1	male	native	这张大一些的照片应该是原始的照片	5	19	56	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	726.432	743.871	speaker#1	male	native	哦,哦	5	20	80	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1596.005	1612.419	speaker#14	male	native	那么他就变成这个~BBC我从此不再信任你, (()) 她就是看了一呃一些我们来自于国内的这种呃报道,那么包括还有这个 (()) ,那么对这个~BBC啊原来从一个很憧憬,高高在上的那么一个感觉,一下等于跌落谷底	11	42	158	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1856.240	1863.515	speaker#8	male	native	实际上我也是清华大学的同学,我不知道应该叫你师兄吗, (())	13	46	163	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1863.515	1873.066	speaker#8	male	native	那么我饶谨你看他有这样的傲慢感,也是来自于美国,呃所以这次我不知道我是否有一个傲慢感,或是一个优越感,希望不是 {laugh}	13	46	165	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1876.354	1878.474	speaker#15	female	native	哦谢谢谢谢	13	48	169	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1892.994	1901.345	speaker#15	female	native	我觉得大部分的人不会是百分之百相信他们的,而且受到任何教育的人一般来说不应该相信他们 {laugh}	13	48	175	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1892.994	1901.345	speaker#1	male	native	嗯,比如 (()) , {laugh}	13	48	176	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1943.532	1949.267	speaker#15	female	native	吃惊的那些,哦哦	13	48	185	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1985.331	1989.398	speaker#15	female	native	我-我已经上过 {laugh}	13	48	193	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	1995.382	2014.866	Rao_Jin	male	native	现在有呃报名的非常多了,实-实际参与工作的像整理资料啊,这个翻译资料的志愿者有三四百名人,然后这个呃版主有几十名,嗯,包括这个见习版主啊,还有这个培训班 (()) 这些都-都-都有人在做	13	49	199	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	2102.298	2108.204	speaker#1	male	native	那从你个人来说你为什么会愿意参加 (()) 网站的工作	13	56	219	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	2314.775	2332.179	Rao_Jin	male	native	(()) 他觉得哎呀可能会有一些这个反对的声音,或者反对的势力啊,那可能会针对我个人,但是我刚才觉得就是呃首先这个事情呃就是有很多人在-在做,他光针对我一个人也没有什么呃没有什么意思	13	65	248	filler	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	2999.507	3009.181	speaker#1	male	native	嗯, {laugh}	22	92	310	report	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	3030.684	3044.239	speaker#22	male	native	我叫鲁智焰,我是鲁智深的弟弟, (())	22	95	317	report	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	3030.684	3044.239	speaker#1	male	native	哦鲁智深的弟弟,嗯,欢迎你,来来来,你到中国来之前跟之后,发现你想象当中的中国,或者你从其他媒体当中看到的中国有什么不一样的地方	22	95	318	report	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	3054.797	3061.767	speaker#22	male	native	对对 {laugh} ,对,发现呢不是	22	95	321	report	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	3054.797	3061.767	speaker#1	male	native	你是不是觉得我们所有的中国人都会功夫,呃对 {laugh} ,来了以后发现不是啊	22	95	322	report	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	3084.319	3100.712	speaker#1	male	native	嗯, {laugh} ,嗯,嗯	22	95	328	report	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	3100.712	3114.330	speaker#22	male	native	我呃可是好多外国人他们来中国的时候,就是呃作为啊旅游者,他们先去长城,故宫,吃个饭,去买东西,就回家 {laugh} ,对	22	95	329	report	statement
+CCTV2_DIALOG_CMN_20080413_220801	0	3100.712	3114.330	speaker#1	male	native	嗯,嗯, (())	22	95	330	report	statement

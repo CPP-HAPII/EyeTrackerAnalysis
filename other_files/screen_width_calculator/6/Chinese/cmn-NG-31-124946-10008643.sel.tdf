@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-124946-10008643	0	0.0	100.0	speaker	unknown	unknown	Fwd: 号召 django docmentation 翻译18n	0	0	0		
+cmn-NG-31-124946-10008643	0	100.0	200.0	speaker	unknown	unknown	---------- Forwarded message ----------From: kernel1983 <kernel1 ... @gmail.com>Date: 2008/3/10Subject: 号召 django docmentation 翻译To: "python-cn:CPyUG" <python-cn@googlegroups.com>Cc: django-cn@googlegroups.com, cpug-eastchina@googlegroups.com,CPUG@googlegroups.com, bpug@googlegroups.com, zpug@googlegroups.com	0	0	0		
+cmn-NG-31-124946-10008643	0	200.0	300.0	speaker	unknown	unknown	django用户都知道遇到问题去查django documentation，无奈直到现在这么有价值的文档都还是满屏的E文	0	0	0		

@@ -1,0 +1,14 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080427.0056.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	北京奥运圣火抵韩 开始海外17站旅程	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-27 06:36:19   来源：新华社稿件	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	900.000	950.000	TEXT1	unknown	unkown	新华社韩国仁川４月２７日电（记者李拯宇　马邦杰）搭载着北京奥运会圣火的专机于当地时间２７日１时０５分（北京时间零时０５分）抵达韩国仁川国际机场。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	奥运圣火将从这里奔赴韩国首都首尔，开始它在海外的第１７站旅程。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	机身上绘着北京奥运会图案的中国国际航空公司“奥运圣火”号专机在仁川国际机场停机坪缓缓停稳。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	当手持圣火火种灯的北京奥组委执行副主席李炳华率先走出飞机时，受到了韩国奥委会秘书长金翔宇、首尔市文化局局长丁孝声和中国驻韩国大使宁赋魁的热情迎接。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	虽是凌晨时分，但当北京奥运会火炬接力运行团队一行步入机场候客厅时，１００多名来自首尔大学的中国留学生高举国旗和欢迎标语，以“中国加油、奥运加油”的欢呼声迎接圣火的到来。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	北京奥运会火炬在首尔的传递活动将于２７日下午进行。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	1800.000	1900.000	TEXT1	unknown	unkown	首尔曾在１９８８年举办过第２４届夏季奥运会。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	2100.000	2150.000	TEXT1	unknown	unkown	据报道，韩国警方将动用８２８７名警察为圣火传递提供保护，并派出２０多名自行车巡警和１２０多名爱好马拉松的警察沿途护卫圣火传递。	0	0	0		statement
+PLA_CMN_20080427.0056.sgm	0	2150.000	2200.000	TEXT1	unknown	unkown	截至记者发稿时，传递路线和火炬手名单尚未正式公布。	0	0	0		statement

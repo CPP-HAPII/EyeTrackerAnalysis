@@ -1,0 +1,12 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+GMW_CMN_20080305.0039.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	上海交大―通用研究院揭牌	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	记者曹继军 2008-03-05	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	900.000	950.000	TEXT1	unknown	unkown	本报上海3月4日电（记者曹继军）	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	上海交通大学－通用汽车研究院今天成立，通用汽车按计划将在未来5年内为研究院投入400万美元，用于推进通用汽车与上海交大在汽车联合技术研发及专业人才培养领域内的合作。	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	该研究院的成立被视为是通用汽车为加速与中国高校开展技术研发合作、积极参与中国 可持续发展交通体系建设而做出的一次重要战略布局。	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	一直以来，我国多所高校与通用汽车在科研和人才培养方面开展了多项合作，目前已经有26家高校及7个国家重点实验室和通用汽车开展了合作，合作项目达到112项，其合作力度在所有在华跨国企业中处于最前列。	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	1500.000	1600.000	TEXT1	unknown	unkown	据介绍，新成立的汽车研究院将以制造技术联合实验室、教育推进伙伴计划（PACE）和不断拓展的联合研究项目为主体，在先进汽车技术研发、科研信息和研究人员交流、汽车专业研究生课程创新以及汽车行业培训项目等多个方面开展深度合作研究工作，并充分利用通用汽车在全球汽车产业中的技术优势以及上海交通大学在汽车技术方面雄厚的科研实力，力争建成在中国乃至全球都具有一定影响的汽车技术科研和高水平人才培养基地。	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	今天与汽车研究院同时成立的还有制造技术联合实验室。	0	0	0		statement
+GMW_CMN_20080305.0039.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	这是通用汽车在中国建立的首个技术研发联合实验室，将主要侧重于汽车制造和轻型材料两个领域内的先进技术研发。	0	0	0		statement

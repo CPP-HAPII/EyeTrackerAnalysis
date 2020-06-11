@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080704.1513	0	600.0	700.0	speaker	unknown	unknown	据了解，为使台湾游客有宾至如归的感觉，南京旅游部门专门组织对宾馆饭店以及相关旅行社从业人员进行培训，并开发专门针对台湾市场的旅游纪念品，培训一百名能熟练使用闽南语进行讲解的导游员和景点讲解员，全方位提高旅游服务质量。	0	0	0		

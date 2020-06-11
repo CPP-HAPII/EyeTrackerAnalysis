@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0241	0	400.0	500.0	speaker	unknown	unknown	As the former site of the original Peking University, Beijing University's Red Building is the birthplace of the "May 4th Movement," the bastion of the new cultural movement, and the place where Marxism initially spread in China.	0	0	0		

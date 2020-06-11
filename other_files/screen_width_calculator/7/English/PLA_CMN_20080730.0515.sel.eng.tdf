@@ -1,0 +1,7 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080730.0515	0	200.0	300.0	speaker	unknown	unknown	Xinhua News Agency, Wuxi, Jiangsu Province, July 29, Olympic Games Special (Reporter Wang Yanan and Wuzhi) The national table tennis team finished its last warm-up match before the Olympic Games on the 29th.	0	0	0		
+PLA_CMN_20080730.0515	0	300.0	400.0	speaker	unknown	unknown	In the last round of women's team competition, Team A composed of Olympic Games players won three games straight after a starting setback to snatch the women's team championship.	0	0	0		
+PLA_CMN_20080730.0515	0	400.0	500.0	speaker	unknown	unknown	Team A got off on the wrong foot in the competition tonight.	0	0	0		
+PLA_CMN_20080730.0515	0	600.0	700.0	speaker	unknown	unknown	Zhang Yining, the "Sister No. 1", beat chop player Fang Ying 3:1 to score one point back for Team A.	0	0	0		
+PLA_CMN_20080730.0515	0	1000.0	1100.0	speaker	unknown	unknown	Meanwhile, after losing the first two games, Team D led by Yao Yan won the last three games 3:0 in a landslide victory over Team C led by Liu Shiwen.	0	0	0		
+PLA_CMN_20080730.0515	0	1100.0	1200.0	speaker	unknown	unknown	After the competition, the head coach of the national women's table tennis team commented that Team A and Team B are about equal in strength and whichever wins is normal.	0	0	0		

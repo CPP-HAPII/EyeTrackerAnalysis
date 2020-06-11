@@ -1,0 +1,6 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117669-10714525	0	200.0	300.0	speaker	unknown	unknown	[1;32m background and house rules :[m Kicking Door Group.	0	0	0		
+cmn-NG-31-117669-10714525	0	300.0	400.0	speaker	unknown	unknown	4d6 hit points or 32 buying points.	0	0	0		
+cmn-NG-31-117669-10714525	0	500.0	600.0	speaker	unknown	unknown	Background to the story: The peace between the Empire of the Two Rivers and the Empire of the Setting Sun finally comes to an end.	0	0	0		
+cmn-NG-31-117669-10714525	0	700.0	800.0	speaker	unknown	unknown	It is also the motherland that PCs, as soldiers, swear allegiance and undying loyalty to.	0	0	0		
+cmn-NG-31-117669-10714525	0	800.0	900.0	speaker	unknown	unknown	Can the chosen brave warrior turn around the country's fate of destruction?	0	0	0		

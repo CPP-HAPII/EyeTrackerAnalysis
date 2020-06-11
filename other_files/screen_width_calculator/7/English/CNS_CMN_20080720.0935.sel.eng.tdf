@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0935	0	800.0	900.0	speaker	unknown	unknown	At the same time, the Olympic traffic command center, teams of police vehicles leading the way, large-scale clearance and rescue detachments, teams dealing with foreigners- or Olympics-related accidents, and the science and technology system safeguarding team displayed themselves one by one.	0	0	0		

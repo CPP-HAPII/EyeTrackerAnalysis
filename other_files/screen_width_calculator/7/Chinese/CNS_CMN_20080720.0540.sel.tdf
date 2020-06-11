@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080720.0540	0	1000.0	1100.0	speaker	unknown	unknown	华人肺腑言跃然纸上	0	0	0		
+CNS_CMN_20080720.0540	0	1400.0	1500.0	speaker	unknown	unknown	“中国加油”、“祝北京奥运圆满成功”、“愿祖国繁荣昌盛”、“愿北京奥运圆满成功，中华民族常屹于世界之林！”等发自肺腑的祝福频频跃然纸上。	0	0	0		

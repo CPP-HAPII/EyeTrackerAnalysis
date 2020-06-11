@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080413.0003.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	生质能源冲击粮食收成　联合国下周集会讨论	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	法新社巴西利亚十三日电	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	900.000	1300.000	TEXT1	unknown	unkown	联合国粮农组织((FAO))下周将在巴西利亚举办一项拉丁美洲会议,发展生质燃料而不牺牲粮食供应的策略将是主要讨论议题之一。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	1500.000	1800.000	TEXT1	unknown	unkown	FAO的研究显示,在开发中国家的粮食需求与价格暴涨之际,人们将可耕地转移成利润丰富的生质能源用地,兴趣也节节升高。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	2000.000	2200.000	TEXT1	unknown	unkown	巴西在这种争论中扮演主导角色,因为巴西是主要农业和生质能源出口国。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	FAO的拉丁美洲与加勒比海代表葛拉齐亚诺,本身也是巴西人。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	2500.000	2800.000	TEXT1	unknown	unkown	他说,即使「生质能源没有绝对真相,但对粮食安全与环境仍有正面或负面的影响,这端视生质能源如何发展而定」。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	3000.000	3300.000	TEXT1	unknown	unkown	他说,现在,粮食产业「正面临投机攻击」,因为低库存与需求让这个产业更显得脆弱,也让粮食变得更为加珍贵。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	3500.000	3600.000	TEXT1	unknown	unkown	巴西等一些国家因出口受惠而额外获利。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	3800.000	4000.000	TEXT1	unknown	unkown	但根据将在会中发表的一份生质能源生产与食物安全报告,FAO发现这种情况很容易改变。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	4200.000	4400.000	TEXT1	unknown	unkown	报告详述利用作物制造燃料的正反意见,交换规模、使用系统、处理产品的市场结构等。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	4600.000	4900.000	TEXT1	unknown	unkown	但报告并非全然是负面的。报告指出,如果适当应用,生质能源计画将为拉丁美洲的家族经营农场带来益处。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	5100.000	5400.000	TEXT1	unknown	unkown	巴西总统鲁拉否认粮食价格上涨和生质燃料有关并呼吁「已开发国家负起责任,降低因为农业贴补而扭曲开发中国家」。	0	0	0		statement
+AFP_CMN_20080413.0003.sgm	0	5600.000	5800.000	TEXT1	unknown	unkown	FAO会议有来自三十三个国家的部长与高层官员参加。	0	0	0		statement

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070129.0071	0	10010.000	10019.900				Xinjiang Multilingual Office Software Press Release Held in Urumqi	0	0	0		
+PDA_CMN_20070129.0071	0	20010.000	20019.900				January 29, 2007 12:29	0	0	0		
+PDA_CMN_20070129.0071	0	30010.000	30019.900				Guests and users operating and using the software at the scene.	0	0	0		
+PDA_CMN_20070129.0071	0	30020.000	30029.900				Photo by Dai Lan, Reporter of People's Daily Online	0	0	0		
+PDA_CMN_20070129.0071	0	40010.000	40019.900				People's Daily Online, Urumqi, January 29, Reporters Wang Huimin, Dai Lan. The Xinjiang's Chinese, Uygur, Kazak, Kyrgyz Language Version Office Software Product (Yongzhong 2007 edition) press release was grandly held in Urumqi in recent days.	0	0	0		
+PDA_CMN_20070129.0071	0	40020.000	40029.900				The successful development of the product filled the gap of the lack of Uygur, Kazak, and Kyrgyz language office software in Xinjiang and is beneficial to the promotion of the building of e-government and the development of informatization in Xinjiang.	0	0	0		
+PDA_CMN_20070129.0071	0	50010.000	50019.900				According to the account of the Xinjiang Technical Institute of Physics and Chemistry of the Chinese Academy of Sciences, this office product uses all Uygur language operation interface and on-line support system. It contains interface layout that conforms to the writing style of from right to left of the Uygur, Kazak, and Kyrgyz languages. Users can choose functions of changing new line according to the syllables and automatic lengthening of alphabets to achieve a more artistic effect in editing and typesetting of files in the Uygur, Kazak, and Kyrgyz languages.	0	0	0		

@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-4-76844-10677148	0	200.0	300.0	speaker	unknown	unknown	上周那个场子，或者10号路那家（我觉的可以打后9洞两遍,而且人少），怎么样？	0	0	0		

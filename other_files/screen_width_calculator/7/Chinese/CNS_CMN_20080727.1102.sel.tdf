@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080727.1102	0	500.0	600.0	speaker	unknown	unknown	日本国土交通省透露，坠毁飞机为法国索卡塔公司TB200“多巴哥”型。	0	0	0		

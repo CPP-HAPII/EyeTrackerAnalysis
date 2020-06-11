@@ -1,0 +1,4 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+cmn-NG-31-117646-10709861	0	100.0	200.0	speaker	unknown	unknown	急问！	0	0	0		
+cmn-NG-31-117646-10709861	0	200.0	300.0	speaker	unknown	unknown	42斋卖票阿姨说仍然在月牙河，是否有调整，望证实--[1;36m※ 来源:．	0	0	0		
+cmn-NG-31-117646-10709861	0	300.0	400.0	speaker	unknown	unknown	天大求实BBS http://bbs.tju.	0	0	0		

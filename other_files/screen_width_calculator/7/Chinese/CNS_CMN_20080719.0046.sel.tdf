@@ -1,0 +1,5 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080719.0046	0	0.0	100.0	speaker	unknown	unknown	郑州两名民警遭醉酒3男3女殴打30分钟没还手	0	0	0		
+CNS_CMN_20080719.0046	0	300.0	400.0	speaker	unknown	unknown	18日下午17时30分许，郑州市金水东路发生一起重大袭警事件。	0	0	0		
+CNS_CMN_20080719.0046	0	500.0	600.0	speaker	unknown	unknown	殴打过程持续30分钟左右，两名警察只是躲闪没有还手，其中一名警察伤势严重被120拉走。	0	0	0		
+CNS_CMN_20080719.0046	0	1200.0	1300.0	speaker	unknown	unknown	现场围观的人数不少，但没有人敢上前劝阻。	0	0	0		

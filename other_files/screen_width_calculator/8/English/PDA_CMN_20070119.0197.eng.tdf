@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PDA_CMN_20070119.0197	0	10010.000	10019.900				Brazilian Scientists Discover Proteins that Affect Memory	0	0	0		
+PDA_CMN_20070119.0197	0	20010.000	20019.900				January 19, 2007 15:55	0	0	0		
+PDA_CMN_20070119.0197	0	30010.000	30019.900				Xinhua News Agency, Brasilia, January 18 (Correspondents Zhao Yan and Chen Weihua) Brazilian researchers have discovered several proteins in the experiment mice, and by destroying these proteins, a part of the mice's memory can be "deleted."	0	0	0		
+PDA_CMN_20070119.0197	0	30020.000	30029.900				The researchers hope to develop a memory-wiping drug based on this.	0	0	0		
+PDA_CMN_20070119.0197	0	40010.000	40019.900				According to a report in Brazil's Diário de São Paulo on the 18th, Ivan Izquierdo, a neurologist in the Center for Memory Research of the Pontifical Catholic University of Rio Grande do Sul, reported recently in the Neuron and other magazines that their research group had discovered over a long period of research that some molecules in the mice's brains, such as the protein BDNF, can play a role in memory regulation and retention. If these protein molecules are destroyed, the nerve cells that support long-term memory may "disintegrate," leading to the "deletion" of part of the mice's memory.	0	0	0		
+PDA_CMN_20070119.0197	0	50010.000	50019.900				Researchers have pointed out that, although this research currently remains at the stage of animal experiments and it will require a long time to shift the research towards the human body, it provides a new path for the development of related drugs.	0	0	0		
+PDA_CMN_20070119.0197	0	50020.000	50029.900				If memory-wiping drugs can be developed by this means, it may assist in the treatment of depression or the psychological recovery of victims of violence.	0	0	0		

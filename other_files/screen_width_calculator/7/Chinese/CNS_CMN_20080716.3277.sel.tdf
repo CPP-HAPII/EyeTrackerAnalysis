@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080716.3277	0	1100.0	1200.0	speaker	unknown	unknown	7月8日，中央党校政法教研部傅思明教授明在接受采访时明确指出，象专利侵权违反了知识产权法，是违法行为，违法本身就是“八荣八耻”当中的一耻。	0	0	0		

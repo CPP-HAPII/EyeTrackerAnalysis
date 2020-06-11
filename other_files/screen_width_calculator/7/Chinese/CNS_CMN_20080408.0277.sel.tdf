@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080408.0277	0	700.0	800.0	speaker	unknown	unknown	“对环保部的未来走向，只能先观望一段时间。”4月3日，一位地方环保局的官员对记者说。	0	0	0		
+CNS_CMN_20080408.0277	0	1300.0	1400.0	speaker	unknown	unknown	另外一个原因则让这位地方环保部门的官员感到“哑巴吃黄连”——目前环保部门很大一部分精力干的不是自己职责范围内的事。	0	0	0		

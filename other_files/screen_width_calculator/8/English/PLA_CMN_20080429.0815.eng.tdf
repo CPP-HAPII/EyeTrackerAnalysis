@@ -1,0 +1,16 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080429.0815.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	Pleasant Surprise Expected from Chinese Women's Road Cycling at Olympics.	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-29 20:55:38 Source: Xinhua News Agency	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	900.000	950.000	TEXT1	unknown	unkown	SHANGHAI, April 29, Xinhua Special Olympic Report (Reporter: Liu Ning) The 2008 Du-Bang Insurance Cup Chongming Island International Women's Road Cycling Competition drew to a close on the 29th, with Chinese cyclists winning the first three places in both programs.	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	950.000	1000.000	TEXT1	unknown	unkown	This result did not surprise Al Peterson, the South African coach that led the team in the event. He said, "Chinese women's road cycling has made remarkable progress in recent years and is expected to bring a pleasant surprise in the Beijing Olympic Games."	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	At the press conference held after the competition, Peterson said, "Since the 1980s, I have led teams into contests in Asia and other places. At that time, Chinese teams were rarely seen on the international competition terrain.	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1250.000	1300.000	TEXT1	unknown	unkown	Things have changed now. We can see them in almost every leg of competition."	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	As Peterson sees it, the achievements made by the Chinese cyclists are inseparable from Shen Jinkang, the coach of the Giant Team in Hong Kong, China.	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	"Shen (Jinkang) is a very good coach. Under his leadership, the Chinese cyclists have made rapid progress and learned to attack."	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	In competitions, they always find the right opportunity to attack, attack and attack again through teamwork, which dragged down our team members".	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	Under the regulations of the International Cycling Union, the top 16 teams in the world will have three quotas for participation in the Olympic Games.	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	Peterson said that South African team now ranks 16th, close behind the Chinese team.	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	"I hope that both teams can have three members for the Olympic Games. Of course I hope that our team members will win," Peterson said with a smile. (End)	0	0	0		statement
+PLA_CMN_20080429.0815.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	2008/04/29 19:44 .	0	0	0		statement

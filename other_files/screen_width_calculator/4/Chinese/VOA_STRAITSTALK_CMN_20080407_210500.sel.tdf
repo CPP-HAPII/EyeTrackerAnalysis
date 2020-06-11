@@ -1,0 +1,20 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[u'report', u'nontrans', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', u'report', u'nontrans', None]
+;;MM sectionBoundaries	[0.0, 288.54199999999997, 715.43899999999996, 731.69000000000005, 1448.4929999999999, 1466.3309999999999, 2859.779, 2879.3899999999999, 3418.8249999999998, 9999999.0]
+VOA_STRAITSTALK_CMN_20080407_210500	0	78.197	84.964	Ning_Xin	female	native	中国国家媒体星期一谴责抗议者破坏伦敦的奥运火炬马拉松接力	0	0	9	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	380.380	407.182	Wu_Jing_Guo	male	native	奥运的火炬传递是一个和平的信息哦,就是他不应该变成一个啊一些呃其他的目的的一个诉求的东西,所以 (()) 能站在体育运动的几个角度啊来看这些事情,啊就希望这个呃所有有关奥运会的活动都能在奥林匹克 (()) 啊这个指导原则之下呃顺利的进行	1	4	50	nontrans	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	737.740	740.843	speaker#14	male	native	谢谢你,谢谢你	3	23	93	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	795.439	806.815	speaker#14	male	native	第二呢就希望这个北约东扩,那么经过呢 (()) 跟这个乌克兰使得这个北约的会员国能够增加	3	25	97	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	948.524	964.064	speaker#14	male	native	俄国认为呢如果这一种呃系统呢是也要在呃 (()) 能够这个建立,是比在捷克跟波兰要比较俄国能够接受的	3	27	109	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	1501.159	1526.216	speaker#15	male	native	既然苏联的 (()) 条约那个组织已经不存在了,人们不禁就要问这个 (()) ,这个我们是不是应该有另外一种思维就是世界上那个 (()) ,使消灭贫困,环境保护,以及我们的生存各种环境,和平的发展	5	35	152	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	1597.801	1611.951	speaker#16	male	native	你想北约是原来是对抗 (()) 而成立的一个--一个组织,但是现在 (()) 已经--已经解散了,但是他这个北约还是在呃不断的这个扩涨,我认为他这种是一种呃是一种毫无道理的	5	37	160	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	1727.467	1743.423	speaker#17	male	native	你好,森佩斯女士我想问一些你国的女士为什么跟男士一样的好战,那个 (()) 为什么也想挑起世界大战,真让人无法理解	5	41	169	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	1805.738	1806.520	speaker#19	male	native	喂	5	45	175	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	1944.355	1963.072	speaker#14	male	native	那么有的美国人领导的认为我们还没有到 (()) 这个全方位的这个经济衰退,但是呢迹象显示,美国的经济的这个迟缓跟衰退对于这个全球的经济跟这个金融市场有严峻的这个影响	5	51	190	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	1995.601	2003.988	speaker#14	male	native	这一种严峻的挑战呢,我们就要呃观察,这个新任总统他有没有高瞻远瞩的这种眼光跟手腕	5	51	194	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	2051.287	2055.501	speaker#21	male	native	这个战争对世界上 (()) 货币战争	5	55	201	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	2061.349	2081.484	speaker#21	male	native	今天的美国就是跟美跟呃今天的美国就是--就是,今天的美国呃货-货币就是被中国货币 (()) ,所以给呃中国有巨大的贸易呃外币储备	5	55	203	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	2139.432	2151.020	speaker#22	male	native	(()) 晚上我听到说这个罗格已在北京发表说不管什么理由暴力都是不对的,请问嘉宾	5	57	209	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	2209.583	2223.521	speaker#14	male	native	那么谈到这个目前刚刚三位这个中国听众所关怀的问题,在美国呢也呃令人的非常关注	5	59	214	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	2366.359	2367.760	speaker#24	male	native	(()) 晚上好	5	63	226	report	statement
+VOA_STRAITSTALK_CMN_20080407_210500	0	2957.323	2965.293	Pa_Lun	male	native	美国的民主党众议员 (()) 长期鼓吹世界各国站在人道立场上,干预瘫痪性国家	7	80	274	report	statement

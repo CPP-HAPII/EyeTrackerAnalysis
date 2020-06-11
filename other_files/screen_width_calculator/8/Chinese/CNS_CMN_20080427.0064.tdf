@@ -1,0 +1,13 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+CNS_CMN_20080427.0064.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	东方男篮教练李秋平：姚明参加北京奥运问题不大	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008年04月27日 20:03 来源：中国新闻网 发表评论	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	900.000	1000.000	TEXT1	unknown	unkown	中新社上海四月二十七日电 ((姜煜 段更强))上海东方男篮教练李秋平今天在此间透露，姚明前段时间因伤接受了手术，目前正在恢复当中，他参加北京奥运会应该问题不大。	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	1200.000	1300.000	TEXT1	unknown	unkown	李秋平是姚明的授业恩师，他见证了姚明从少年队到青年队再加入东方男篮直至进入国家队的整个历程。	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	李秋平说，姚明的手术进行得很顺利，目前他正在恢复当中，参加北京奥运会应该问题不大。	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	1550.000	1600.000	TEXT1	unknown	unkown	但他担心伤后初愈的姚明能否在北京奥运会上发挥出最佳水平。	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	李秋平表示，姚明是整个中国男子篮球队的强心剂，姚明的水平发挥出来了，整个中国队的水平也就发挥出来了。	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	1850.000	1900.000	TEXT1	unknown	unkown	他希望姚明能早日康复，尽早投入到训练中去，在北京奥运会上发挥最佳状态，带领中国男篮取得历史性的突破——打进前六名。	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	2100.000	2200.000	TEXT1	unknown	unkown	姚明今年二月因左脚骨折而无缘NBA季后赛，在进行手术及采用中西医结合的治疗方案后，目前他的恢复情况良好。	0	0	0		statement
+CNS_CMN_20080427.0064.sgm	0	2400.000	2500.000	TEXT1	unknown	unkown	姚明此前曾对美国媒体表示，错过北京奥运会将成为他一生最大的遗憾，他甚至要求医生：“千万保住我的奥运会”。((完))	0	0	0		statement

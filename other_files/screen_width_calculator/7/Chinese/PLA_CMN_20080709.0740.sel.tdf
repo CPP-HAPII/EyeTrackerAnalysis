@@ -1,0 +1,3 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080709.0740	0	200.0	300.0	speaker	unknown	unknown	新华社华盛顿７月９日奥运专电ＮＢＡ联盟９日宣布，２００８－２００９赛季各队的“工资帽”即工资最高额度为５８６８万美元，这比上赛季的“工资帽”增加了３０５万美元。	0	0	0		
+PLA_CMN_20080709.0740	0	300.0	400.0	speaker	unknown	unknown	９日是ＮＢＡ允许俱乐部和自由人球员签约的第一天。	0	0	0		

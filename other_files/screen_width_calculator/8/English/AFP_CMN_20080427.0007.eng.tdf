@@ -1,0 +1,11 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+AFP_CMN_20080427.0007.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	18th Delay Lebanon to Try to Elect New President in May	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	Beirut (AFP), 26th.	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	900.000	1200.000	TEXT1	unknown	unkown	While Lebanon is still stuck in a deep political deadlock, parliament speaker Berri's spokesperson, Hamdan, said today that after the 18th delay, parliament has scheduled to hold the presidential election again on May 13.	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	1400.000	1700.000	TEXT1	unknown	unkown	Due to the disagreement between the anti-Syrian majority party which is supported by the West as well as most Arab countries and the opposition party which is supported by Iran and Syria, parliament once again delayed the presidential election which was to be held on April 22nd.	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	1900.000	2100.000	TEXT1	unknown	unkown	Hamdan said: "Berri has already scheduled the election for May 13th at midday."	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	2300.000	2600.000	TEXT1	unknown	unkown	Berri is also the leader of the opposition party. He requests each hostile faction to hold negotiations under his chair to discuss how to organize the country's united government and draw up new election laws.	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	2800.000	3000.000	TEXT1	unknown	unkown	The state-run National News Agency reported the leader of the parliamentary majority party, Hariri, said he, "feels optimistic about the presidential election on May 13th."	0	0	0		statement
+AFP_CMN_20080427.0007.sgm	0	3200.000	3300.000	TEXT1	unknown	unkown	Hariri also pointed out that he would be delighted to talk with the opposition party.	0	0	0		statement

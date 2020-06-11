@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080716.0275	0	800.0	900.0	speaker	unknown	unknown	近10公里的急行军途中，无一人晕倒，无一人掉队，连队顺利到达指定地域。	0	0	0		

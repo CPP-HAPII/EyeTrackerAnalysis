@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+PLA_CMN_20080713.0435	0	200.0	300.0	speaker	unknown	unknown	[Xinhua News Agency] London, July 11, Olympic Games Special (Reporter Ma Guihua) According to a British media report on the 11th, Britain will conduct a doping test on all the athletes going to China for the Beijing Olympic Games this summer.	0	0	0		

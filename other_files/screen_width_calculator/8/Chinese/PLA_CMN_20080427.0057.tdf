@@ -1,0 +1,17 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+;;MM sectionTypes	[None, None]
+;;MM sectionBoundaries	[0.0, 9999999.9900000002]
+PLA_CMN_20080427.0057.sgm	0	200.000	300.000	sgm_tag	unknown	unkown	日本长野雨中传递北京奥运圣火	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	500.000	600.000	sgm_tag	unknown	unkown	2008-04-27 06:17:40   来源：解放军报第3版	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	900.000	950.000	TEXT1	unknown	unkown	奥运火炬传递当日上午举行。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	950.000	975.000	TEXT1	unknown	unkown	十几万当地居民和从日本各地赶来的华人华侨一大早就在传递沿途等候圣火。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	975.000	1000.000	TEXT1	unknown	unkown	当地时间上午8时25分，第一棒火炬手、日本棒球队主教练星野仙一手持火炬跑出了起跑仪式现场，传递活动由此开始。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1200.000	1250.000	TEXT1	unknown	unkown	传递线路长约18.7公里，共有80名火炬手参加传递。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1250.000	1275.000	TEXT1	unknown	unkown	火炬手来自社会各行各业，有北岛康介、吉田沙保里、福原爱、野口瑞希等著名运动员，也有盲人和患有智障、严重听觉障碍和小儿麻痹症的人士。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1275.000	1300.000	TEXT1	unknown	unkown	另外还包括中国驻日本大使崔天凯在内的3名中国火炬手。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1500.000	1550.000	TEXT1	unknown	unkown	4月下旬，正是长野桃花盛开的时节。传递线路沿途，人们挥舞着彩旗，打出各种各样的标语欢迎圣火的到来。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1550.000	1575.000	TEXT1	unknown	unkown	一位白发苍苍的日本老人身穿一件写着“感谢中国父母养护”字样的外套，站在街边向传递车队致意。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1575.000	1600.000	TEXT1	unknown	unkown	还有一些人高举着“反对欧美媒体歪曲事实”的标语牌子。	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1800.000	1850.000	TEXT1	unknown	unkown	一位中国女留学生看到圣火后泪如雨下，一边挥舞着手中的五星红旗，一边大喊“中国加油！”	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1850.000	1875.000	TEXT1	unknown	unkown	她告诉记者，她和其他一些同学乘车12个小时连夜赶到长野；	0	0	0		statement
+PLA_CMN_20080427.0057.sgm	0	1875.000	1900.000	TEXT1	unknown	unkown	当终于看到北京奥运圣火时，他们个个都激动万分。	0	0	0		statement

@@ -1,0 +1,10 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080423.0851	0	1600.0	1700.0	speaker	unknown	unknown	光是在燃料方面，成本便提高了近50%。”服装加工行业的一位企业负责人这样对记者说，据他介绍，公司除了全棉、全毛面料之外，大部分服装以棉和涤纶等合成面料为主，其中涤纶等所占的比例达到70%左右。	0	0	0		
+CNS_CMN_20080423.0851	0	1700.0	1800.0	speaker	unknown	unknown	涤纶等化纤面料里的主要成分是PTA(从原油中提炼而出)。	0	0	0		
+CNS_CMN_20080423.0851	0	2000.0	2100.0	speaker	unknown	unknown	据了解，地中海航运将于4月份上调从意大利、西班牙、葡萄牙和法国南部地区至美国航线的燃油附加费，上调幅度为75美元/TEU。	0	0	0		
+CNS_CMN_20080423.0851	0	2100.0	2200.0	speaker	unknown	unknown	从4月15日起，这些国家出口至美国东岸的燃油附加费将调整至600美元/TEU，运价为1200美元/TEU；至美国西岸的燃油附加费将调整至660美元/TEU，运价为1320美元/TEU。	0	0	0		
+CNS_CMN_20080423.0851	0	3000.0	3100.0	speaker	unknown	unknown	记者在公司的一份内部报告中看到，在石化产品3月份利润表中，聚氯乙烯、聚丙烯、晴纶纤维、晴纶毛料等产品的亏损每吨都在几百元以上，有的亏损已达上千元。	0	0	0		
+CNS_CMN_20080423.0851	0	3100.0	3200.0	speaker	unknown	unknown	“目前无机化工产品价格涨幅较大的硫黄、硫酸、电石、黄磷等产品，下游用户基本上都在化工行业内部；而涉及纺织、轻工等下游行业的有机化工产品如乙二醇、PTA、甲醇、纯苯等，现在价格还在往下跌。”一位财务部负责人这样告诉记者。	0	0	0		
+CNS_CMN_20080423.0851	0	4200.0	4300.0	speaker	unknown	unknown	“实际上，我们下游企业经受着高成本和来自市场激烈的双重竞争压力，正经历着一场洗牌。”一位业内人士介绍说，“现在那些既无品牌也无固定渠道的小企业，只能靠低价竞争，做的往往是一锤子买卖。	0	0	0		
+CNS_CMN_20080423.0851	0	4400.0	4500.0	speaker	unknown	unknown	“由国际油价引发的本轮化工品涨价潮已出现一定分化。	0	0	0		
+CNS_CMN_20080423.0851	0	4500.0	4600.0	speaker	unknown	unknown	尽管在成本推动下，各类化工品价格只有微弱的上涨，但一些供需失衡比较严重的化工品则显示出比较强劲的涨价势头，这部分产品可以弥补成本的上涨。”一位业内人士分析说。	0	0	0		

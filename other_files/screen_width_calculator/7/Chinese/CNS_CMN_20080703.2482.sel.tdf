@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+CNS_CMN_20080703.2482	0	200.0	300.0	speaker	unknown	unknown	中新网7月3日电 据俄新网报道，消息灵通人士2日透露，蒙古国在6月29日议会选举后发生的骚乱得到了慷慨的资金支持，吸引了大量对政治漠不关心的流氓分子。	0	0	0		

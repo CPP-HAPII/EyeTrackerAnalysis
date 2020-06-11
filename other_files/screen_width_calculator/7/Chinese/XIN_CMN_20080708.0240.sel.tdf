@@ -1,0 +1,2 @@
+file;unicode	channel;int	start;float	end;float	speaker;unicode	speakerType;unicode	speakerDialect;unicode	transcript;unicode	section;int	turn;int	segment;int	sectionType;unicode	suType;unicode
+XIN_CMN_20080708.0240	0	200.0	300.0	speaker	unknown	unknown	盛光祖在全国海关奥运安保与服务誓师大会上说，全国海关要加强基础工作，抓好责任落实，使奥运安保与服务的每项工作都有具体可行的工作方案，对可能出现的各种突发事件都有相应的应急预案，做到突发事件第一时间报告、第一时间赶赴现场、第一时间妥善处置。	0	0	0		
